@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-24.webp|500x281]]
+![[image-25.webp|500x281]]
 # Jasper Philipsen
 
 # Informations Générales

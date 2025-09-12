@@ -28,7 +28,7 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-- 2025 - La saison maudite se poursuit : chute et abandon sur le Tour de l'Ardèche - Pas de fracture !
+- 2025 - La saison maudite se poursuit : chute et abandon sur le Tour de l'Ardèche => Vertèbre fracturée !
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

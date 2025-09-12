@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jasper Philipsen.md",
+                "file": "Loisirs/Lotte Kopecky.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jasper Philipsen"
+              "title": "Lotte Kopecky"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Jasper Philipsen.md",
+                "file": "Loisirs/Lotte Kopecky.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Jasper Philipsen"
+              "title": "Graphique de Lotte Kopecky"
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour d'Espagne",
+                "query": "Lott",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -252,11 +252,12 @@
   },
   "active": "d2cf42266ef44c3f",
   "lastOpenFiles": [
+    "Jasper Philipsen.md",
+    "Attachments/image-25.webp",
     "Attachments/image-24.webp",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "Jay Vine.md",
     "David Gaudu.md",
-    "Jasper Philipsen.md",
     "Egan Bernal.md",
     "Joao Almeida.md",
     "Demi Vollering.md",
@@ -286,8 +287,6 @@
     "Attachments/image-18.webp",
     "Attachments/image-17.webp",
     "Attachments/image-16.webp",
-    "Attachments/image-15.webp",
-    "Attachments/image-14.webp",
     "Généalogie des Jeux Vidéos.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",
