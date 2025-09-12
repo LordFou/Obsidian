@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre 1.md",
+                "file": "btf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sans titre 1"
+              "title": "btf"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre 1.md",
+                "file": "btf.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Sans titre 1"
+              "title": "Graphique de btf"
             }
           }
         ]
@@ -253,8 +253,10 @@
   },
   "active": "d2cf42266ef44c3f",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Constance.md",
+    "btf.md",
+    "Attachments/image-30.webp",
     "Sluggerfly.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre 1.md",
     "Allemagne.md",
     "Super Meat Boy 3D.md",
     "Team Meat.md",
@@ -284,11 +286,9 @@
     "Joao Almeida.md",
     "Demi Vollering.md",
     "Loisirs/Sport/Tour d'Espagne.md",
-    "Filippo Ganna.md",
     "Attachments/image-23.webp",
     "Attachments/image-22.webp",
     "Attachments/image-21.webp",
-    "Attachments/image-20.webp",
     "Généalogie des Jeux Vidéos.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",
