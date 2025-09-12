@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/The Séance of Blake Manor.md",
+                "file": "Raw Fury.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Séance of Blake Manor"
+              "title": "Raw Fury"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/The Séance of Blake Manor.md",
+                "file": "Raw Fury.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de The Séance of Blake Manor"
+              "title": "Graphique de Raw Fury"
             }
           }
         ]
@@ -253,10 +253,11 @@
   },
   "active": "d2cf42266ef44c3f",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Séance of Blake Manor.md",
+    "Spooky Doorway.md",
     "Attachments/image-28.webp",
     "Attachments/image-27.webp",
     "Arnaud de Lie.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Séance of Blake Manor.md",
     "Grand Prix de Québec.md",
     "Michael Matthews.md",
     "Julian Alaphilippe.md",
@@ -288,7 +289,6 @@
     "Attachments/image-21.webp",
     "Attachments/image-20.webp",
     "Attachments/image-19.webp",
-    "Attachments/image-18.webp",
     "Généalogie des Jeux Vidéos.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",

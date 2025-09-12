@@ -6,11 +6,11 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : ?
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Spooky Doorway]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Raw Fury]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :
