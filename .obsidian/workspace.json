@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[Tour d'Espagne]",
+                "query": "Tour d'Espagne",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
