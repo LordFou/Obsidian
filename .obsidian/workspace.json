@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jasper Philipsen.md",
+                "file": "Loisirs/Sport/Tour d'Espagne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jasper Philipsen"
+              "title": "Tour d'Espagne"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Jasper Philipsen.md",
+                "file": "Loisirs/Sport/Tour d'Espagne.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Jasper Philipsen"
+              "title": "Graphique de Tour d'Espagne"
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Lotte",
+                "query": "Tour Espagne",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,6 +254,7 @@
   "lastOpenFiles": [
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "Jasper Philipsen.md",
+    "Loisirs/Sport/Tour d'Espagne.md",
     "Journal de bord/2025-09-12.md",
     "Loisirs/Lotte Kopecky.md",
     "Coppa Sabatini.md",
@@ -285,7 +286,6 @@
     "Attachments/image-18.webp",
     "Attachments/image-17.webp",
     "Attachments/image-16.webp",
-    "Jens Schuermans.md",
     "Attachments/image-15.webp",
     "Attachments/image-14.webp",
     "Généalogie des Jeux Vidéos.canvas",
