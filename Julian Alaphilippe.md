@@ -6,9 +6,9 @@ type: personne
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
-- **Poste / Spécialité** (si applicable) :  
+- **Nationalité** :  Français
+- **Sport / Discipline** :  [[Cyclisme]]
+- **Poste / Spécialité** (si applicable) : [[Baroudeur]]
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 - **Surnom** : Alaph'
