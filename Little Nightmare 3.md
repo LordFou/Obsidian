@@ -28,7 +28,9 @@ type: game
 - **Lieu(x)** : Nulle-Part
 - **Epoque** : 
 - **Personnages principaux** : 
-	- Low
+	- 2 enfants
+		- Low
+		- Alone
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
