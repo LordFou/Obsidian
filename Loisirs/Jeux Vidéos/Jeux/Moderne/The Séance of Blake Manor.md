@@ -14,7 +14,7 @@ type: game
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :
-- **Résumé** : 
+- **Résumé** : Jeu d'investigation surnaturelle prenant place en Irlande en 1897. Vous y enquêtez sur la disparition d'Evelyn Deane dans un hôtel isolé regorgeant de secrets et de phénomènes paranormaux
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -25,7 +25,7 @@ type: game
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : 
+- **Lieu(x)** : Irlande
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
@@ -40,4 +40,4 @@ type: game
 | Description | URL                                         |
 | ----------- | ------------------------------------------- |
 | Trailer     | https://www.youtube.com/watch?v=0uvnNGFFDzs |
-![[image-28.webp|500x281]]
+![[image-28.webp|500x281
