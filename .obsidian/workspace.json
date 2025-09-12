@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
+                "file": "Demi Vollering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Remco Evenepoel"
+              "title": "Demi Vollering"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
+                "file": "Demi Vollering.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Remco Evenepoel"
+              "title": "Graphique de Demi Vollering"
             }
           }
         ]
@@ -250,10 +250,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "d2cf42266ef44c3f",
   "lastOpenFiles": [
     "Loisirs/Sport/Tour d'Espagne.md",
+    "Filippo Ganna.md",
     "Ben Turner.md",
+    "Joao Almeida.md",
+    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "Jasper Philipsen.md",
     "Journal de bord/2025-09-12.md",
@@ -262,7 +265,6 @@
     "TEST GIT.md",
     "Isaac Del Toro.md",
     "Championnat National Italien de Cyclisme.md",
-    "Filippo Ganna.md",
     "Attachments/image-23.webp",
     "Détermination du genre humain.md",
     "World Athletics.md",
@@ -279,10 +281,8 @@
     "US Open.md",
     "Journal de bord/2025-09-10.md",
     "Championnats du Monde de Mountainbike.md",
-    "Victor Koretzky.md",
     "Attachments/image-20.webp",
     "Attachments/image-19.webp",
-    "1LastGame.md",
     "Attachments/image-18.webp",
     "Attachments/image-17.webp",
     "Attachments/image-16.webp",

@@ -13,11 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                    | Résultat | Remarque |
-| ----- | ------------------------------ | -------- | -------- |
-| 2023  | [[Tour de Murcie]] - Xe étape  | 1ier     |          |
-| 2025  | [[Tour de Pologne]] - 3e étape | 1ier     |          |
-| 2025  | [[Tour d'Espagne]] - 4e étape  | 1ier     |          |
+| Année | Compétition                                                              | Résultat | Remarque |
+| ----- | ------------------------------------------------------------------------ | -------- | -------- |
+| 2023  | [[Tour de Murcie]] - Xe étape                                            | 1ier     |          |
+| 2025  | [[Tour de Pologne]] - 3e étape                                           | 1ier     |          |
+| 2025  | [[Loisirs/Sport/Compétitions/Tour d'Espagne\|Tour d'Espagne]] - 4e étape | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
