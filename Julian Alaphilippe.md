@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-26.webp|500x281]]
 # Julian Alaphilippe
 
 # Informations Générales
@@ -11,11 +11,12 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
+- **Surnom** : Alaph'
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition              | Résultat | Remarque |
+| ----- | ------------------------ | -------- | -------- |
+| 2025  | [[Grand Prix de Québec]] | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
