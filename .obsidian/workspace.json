@@ -21,8 +21,23 @@
               "icon": "lucide-file",
               "title": "Star Wars Outlaws"
             }
+          },
+          {
+            "id": "9db91c1af606afea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intelligence Artificielle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intelligence Artificielle"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cdcac3bbc786d45a",
@@ -35,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Star Wars Outlaws.md",
+                "file": "Intelligence Artificielle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +78,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Star Wars Outlaws"
+              "title": "Graphique de Intelligence Artificielle"
             }
           }
         ]
@@ -85,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tomb Raider",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,7 +192,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -250,10 +266,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "9db91c1af606afea",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Assassin's Creed Shadows.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Star Wars Outlaws.md",
+    "Intelligence Artificielle.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Assassin's Creed Shadows.md",
     "Loisirs/Jeux Vidéos/Périphériques/Nintendo Game Key Card.md",
     "REANIMAL.md",
     "Attachments/image-32.webp",
@@ -283,7 +300,6 @@
     "Attachments/image-27.webp",
     "Arnaud de Lie.md",
     "Grand Prix de Québec.md",
-    "Michael Matthews.md",
     "Attachments/image-26.webp",
     "Attachments/image-25.webp",
     "Attachments/image-24.webp",
