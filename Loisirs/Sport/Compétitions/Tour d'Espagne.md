@@ -34,6 +34,7 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 | 17e (ITA)     | [[Giulio Pellizzari]] | [[Jonas Vingegaard]] |                      |                      | [[Giulio Pellizzari]] |                                                                                  |
 | 18e (ITA)     | [[Filippo Ganna]]     | [[Jonas Vingegaard]] |                      |                      |                       |                                                                                  |
 | ==19e (BEL)== | [[Jasper Philipsen]]  | [[Jonas Vingegaard]] |                      |                      |                       |                                                                                  |
+|               |                       |                      |                      |                      |                       |                                                                                  |
 #### General
 | Année | Vainqueur           | Nationalité | Remarque |
 | ----- | ------------------- | ----------- | -------- |

@@ -6,7 +6,7 @@
       {
         "id": "b791b435e05f877b",
         "type": "tabs",
-        "dimension": 69.7084917617237,
+        "dimension": 78.01013941698352,
         "children": [
           {
             "id": "d2cf42266ef44c3f",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+                "file": "Jasper Philipsen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour d'Espagne"
+              "title": "Jasper Philipsen"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "cdcac3bbc786d45a",
         "type": "tabs",
-        "dimension": 30.2915082382763,
+        "dimension": 21.989860583016476,
         "children": [
           {
             "id": "a54d1ece9dd63bd7",
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+                "file": "Jasper Philipsen.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -58,12 +58,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224431,
+                  "scale": 0.36288736930121257,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Tour d'Espagne"
+              "title": "Graphique de Jasper Philipsen"
             }
           }
         ]
@@ -252,6 +252,8 @@
   },
   "active": "d2cf42266ef44c3f",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+    "Jasper Philipsen.md",
     "Journal de bord/2025-09-12.md",
     "Loisirs/Lotte Kopecky.md",
     "Coppa Sabatini.md",
@@ -260,7 +262,6 @@
     "Championnat National Italien de Cyclisme.md",
     "Filippo Ganna.md",
     "Attachments/image-23.webp",
-    "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "Détermination du genre humain.md",
     "World Athletics.md",
     "Journal de bord/2025-09-11.md",
@@ -285,7 +286,6 @@
     "Attachments/image-17.webp",
     "Attachments/image-16.webp",
     "Jens Schuermans.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Silent Hill F.md",
     "Attachments/image-15.webp",
     "Attachments/image-14.webp",
     "Généalogie des Jeux Vidéos.canvas",
