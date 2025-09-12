@@ -8,6 +8,8 @@ type: event
 
 # Hommes
 
+- **Recordmen de victoires** : Michael Matthews
+
 | Année | Vainqueur              | Nationalité | Remarque                                            |
 | ----- | ---------------------- | ----------- | --------------------------------------------------- |
 | 2025  | [[Julian Alaphilippe]] | Française   | 6e - [[Quintens Hermans]]<br>8e - [[Arnaud de Lie]] |
