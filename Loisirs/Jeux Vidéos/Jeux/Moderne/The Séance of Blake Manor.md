@@ -40,3 +40,4 @@ type: game
 | Description | URL                                         |
 | ----------- | ------------------------------------------- |
 | Trailer     | https://www.youtube.com/watch?v=0uvnNGFFDzs |
+![[image-28.webp|500x281]]
