@@ -8,8 +8,8 @@ type: personne
 - **Date de naissance** :  
 - **Nationalité** :  Français
 - **Sport / Discipline** :  [[Cyclisme]]
-- **Poste / Spécialité** (si applicable) : [[Baroudeur]]
-- **Équipe(s) / Club(s)** :  
+- **Poste / Spécialité** (si applicable) : 
+- **Équipe(s) / Club(s)** :  [[Tudor]], [[Quick Step]]
 - **Période d’activité** :  
 - **Surnom** : Alaph'
 
