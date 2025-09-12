@@ -14,7 +14,7 @@ type: game
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :
-- **Résumé** : 
+- **Résumé** : Le jeu raconte l'histoire du futur 007 car il est en formation
 
 ## Détails Techniques
 - **Moteur de jeu** : 
