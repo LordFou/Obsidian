@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-32.webp|500x234]]
 # REANIMAL
 
 ## Informations Générales
@@ -10,10 +10,10 @@ type: game
 - **Développeur** : 
 	- Studio : [[Tarsier Studio]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[THQ Nordic]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Horreur]]
 - **Résumé** : 
 
 ## Détails Techniques

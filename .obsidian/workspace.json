@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarsier Studio.md",
+                "file": "REANIMAL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tarsier Studio"
+              "title": "REANIMAL"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tarsier Studio.md",
+                "file": "REANIMAL.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Tarsier Studio"
+              "title": "Graphique de REANIMAL"
             }
           }
         ]
@@ -252,8 +252,9 @@
   },
   "active": "d2cf42266ef44c3f",
   "lastOpenFiles": [
-    "REANIMAL.md",
+    "Attachments/image-32.webp",
     "Tarsier Studio.md",
+    "REANIMAL.md",
     "Little Nightmare 3.md",
     "Supermassive Games.md",
     "Attachments/image-31.webp",
@@ -283,7 +284,6 @@
     "Michael Matthews.md",
     "Julian Alaphilippe.md",
     "Attachments/image-26.webp",
-    "Journal de bord/2025-09-12.md",
     "Attachments/image-25.webp",
     "Attachments/image-24.webp",
     "Attachments/image-23.webp",
