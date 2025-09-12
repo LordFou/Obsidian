@@ -177,7 +177,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -250,11 +251,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d2cf42266ef44c3f",
+  "active": "acbfcced6e5eac9a",
   "lastOpenFiles": [
+    "Michael Matthews.md",
+    "Grand Prix de Québec.md",
     "Julian Alaphilippe.md",
     "Attachments/image-26.webp",
-    "Grand Prix de Québec.md",
     "Journal de bord/2025-09-12.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "Loisirs/Lotte Kopecky.md",
