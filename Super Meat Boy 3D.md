@@ -12,7 +12,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : Franchise Sup
+- **Franchise** : [[Franchise Meat Boy|Meat Boy]]
 - **Genre** :
 - **Résumé** : 
 
@@ -22,6 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
+	- Niveau court mais nombreux
 - **Durée estimée** : 
 
 ## Histoire et Univers
