@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "btf.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/007 First Light.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "btf"
+              "title": "007 First Light"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "btf.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/007 First Light.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de btf"
+              "title": "Graphique de 007 First Light"
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Constance",
+                "query": "007",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,8 +177,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",

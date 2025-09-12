@@ -33,6 +33,7 @@ type: game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[Hollow Night - Silk Song]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
