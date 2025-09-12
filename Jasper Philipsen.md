@@ -11,7 +11,7 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  [[Alpecin]]
 - **Période d’activité** :  
-- **
+- **Surnom** : De Vlam van Ham
 
 # Palmarès et Distinctions
 | Année | Compétition                                                              | Résultat | Remarque                                                  |     |
