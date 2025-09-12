@@ -6,7 +6,7 @@
       {
         "id": "b791b435e05f877b",
         "type": "tabs",
-        "dimension": 62.82131661442006,
+        "dimension": 69.7084917617237,
         "children": [
           {
             "id": "d2cf42266ef44c3f",
@@ -27,7 +27,7 @@
       {
         "id": "cdcac3bbc786d45a",
         "type": "tabs",
-        "dimension": 37.17868338557994,
+        "dimension": 30.2915082382763,
         "children": [
           {
             "id": "a54d1ece9dd63bd7",
@@ -232,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,7 +251,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c41369cef639682e",
+  "active": "d2cf42266ef44c3f",
   "lastOpenFiles": [
     "Coppa Sabatini.md",
     "TEST GIT.md",
