@@ -1,0 +1,2 @@
+- Personnage enfant du second film de la franchise [[Alien]]
+- C'est aussi le nom du chien de ma sœur [[Stef]]

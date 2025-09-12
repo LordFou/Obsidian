@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"5ee6d9504f663625","type":"text","text":"[[Maze War]] (1973) - [[Spasim]] (1974) \n=> Premier FPS selon la définition du genre","x":-593,"y":-700,"width":400,"height":60},
+		{"id":"fbf1007b8f2f3662","type":"text","text":"[[Franchise Quake]] \n=> Début du FPS dans l'Esport (?)\n=> Naissance du FPS \"technique\"","x":-780,"y":-320,"width":300,"height":80},
+		{"id":"4f2f792f4b3e48bb","type":"text","text":"[[GoldenEye 007]] - [[Half-Life]]\n=> Début du FPS Infiltration, du FPS Action-Aventure","x":-249,"y":-325,"width":269,"height":85},
+		{"id":"ba5a91f9b58b8e46","type":"text","text":"[[Wolfenstein 3D]] \n=> Jeu qui a fait connaître à tous le FPS","x":-566,"y":-600,"width":347,"height":60},
+		{"id":"35047186ed62d3f5","type":"text","text":"[[Doom]]","x":-517,"y":-500,"width":250,"height":60},
+		{"id":"06561c0413e50c8b","type":"text","text":"[[Franchise Halo]]","x":-801,"y":-137,"width":250,"height":60},
+		{"id":"fffbb2cc31e661da","type":"text","text":"[[Franchise Devil May Cry]]","x":-518,"y":-137,"width":269,"height":60},
+		{"id":"7daaf4445d5b5231","type":"text","text":"[[Franchise GTA]]","x":-801,"y":-60,"width":250,"height":60},
+		{"id":"7b6e696b42f97163","type":"text","text":"[[Franchise Resident Evil]]","x":-518,"y":-60,"width":269,"height":60}
+	],
+	"edges":[
+		{"id":"4a18a36038fad2b6","fromNode":"5ee6d9504f663625","fromSide":"bottom","toNode":"ba5a91f9b58b8e46","toSide":"top"},
+		{"id":"b70bdb5c05fe9cd2","fromNode":"35047186ed62d3f5","fromSide":"bottom","toNode":"4f2f792f4b3e48bb","toSide":"top"},
+		{"id":"5e3edeaeeba8f178","fromNode":"35047186ed62d3f5","fromSide":"bottom","toNode":"fbf1007b8f2f3662","toSide":"top"},
+		{"id":"60161c2400eec7ec","fromNode":"ba5a91f9b58b8e46","fromSide":"bottom","toNode":"35047186ed62d3f5","toSide":"top"}
+	]
+}

@@ -1,0 +1,1 @@
+- https://fr.wikipedia.org/wiki/Krach_du_jeu_vid%C3%A9o_de_1983 ![[Pasted image 20250518000540.jpg]]

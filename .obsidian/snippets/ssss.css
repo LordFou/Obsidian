@@ -1,0 +1,4 @@
+/* TEST : colore l'arrière-plan des notes en édition en rouge clair */
+.cm-scroller {
+  background-color: #ffdddd !important;
+}

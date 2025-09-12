@@ -1,0 +1,3 @@
+- Attraction interactive créée par [[Roger Hector]]. C'est une nacelle sur circuit qui passe de pièces en pièces et qui permet aux visiteurs de tirer sur les monstres qui hantent l'hotel.
+- Devait reprendre la licence [[Ghostbusters]].
+- Cette attraction n'a jamais vu le jour ![[Pasted image 20250518005138.jpg]]![[Pasted image 20250518005341.jpg]]

@@ -1,0 +1,3 @@
+- Première [[Aviation|aviatrice]] noire [[Etats-Unis|américaine]].
+- Apparait dans la BD [[Black Squaw]]
+- ![[Pasted image 20250329001950.jpg]]

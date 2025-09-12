@@ -1,0 +1,10 @@
+- Docteur Paul Janssen
+- Marc Van Montagu
+- François Englert
+- Robert Brout
+- Georges Lemaître
+- Léo Baekeland
+- Christian De Duve
+- Ilya Prigogine
+- Ernest Solvay
+- 

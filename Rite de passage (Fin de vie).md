@@ -1,0 +1,2 @@
+- Dans la mythologie grecque, il fallait laisser une obole sous la langue du défunt afin de payer le passeur [[Charon]] qui amène de l'autre côté du [[Nyx]].
+- Dans le jeu vidéo [[Avowed]], il faut déposer de la nourriture près des sépultures des défunts pour qu'ils passent de l'autre côté sans souci.

@@ -1,0 +1,1 @@
+Une dystopie est un récit de fiction dépeignant une société imaginaire organisée de telle façon qu'il soit impossible de lui échapper et dont les dirigeants peuvent exercer une autorité totale et sans contrainte de séparation des pouvoirs, sur des citoyens qui ne peuvent plus exercer leur libre arbitre.

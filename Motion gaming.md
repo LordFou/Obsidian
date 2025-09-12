@@ -1,0 +1,1 @@
+Ce sont des jeux vidéos où l'on bouge devant sa télé. L'interaction par mouvement est au centre du jeu.

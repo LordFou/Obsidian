@@ -1,0 +1,2 @@
+- Personnage des films de la franchise [[Alien]]
+- C'est aussi le pseudo de la rédactrice en chef de [[Canard PC]]

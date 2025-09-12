@@ -1,0 +1,1 @@
+Genre de jeux vidéo :  généralement une alternance entre une phase de construction de défense et une phase d'attaque des ennemis. Chaque ennemi tué rapporte de l'argent pour acheter lors d'une nouvelle phase de construction. Et ainsi de suite.

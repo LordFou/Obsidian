@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "95ca1712faa8aa9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b791b435e05f877b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "412225c8daea4a08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal de bord/2025-07-17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-17"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "849482b537eaac43",
+    "type": "split",
+    "children": [
+      {
+        "id": "f290839097ef2b58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bb9a73ff8daed1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "a47971b47ce877f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "e8cf4004bf6c4ec3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          },
+          {
+            "id": "bab163f298354a9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Elise Mertens.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "extre",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Elise Mertens"
+            }
+          },
+          {
+            "id": "b8bdd3190f8c16a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Elise Mertens.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Elise Mertens"
+            }
+          },
+          {
+            "id": "acbfcced6e5eac9a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "d45d58f9b4b907d0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "68c628d38f8bddd5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Rune Factory - Guardians of Azuma.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Rune Factory - Guardians of Azuma"
+            }
+          },
+          {
+            "id": "e3144d53b0f45b57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 341.5
+  },
+  "right": {
+    "id": "2a4328d55d7357ae",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 245.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "markdown-importer:Ouvrir l'importateur Markdown": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "412225c8daea4a08",
+  "lastOpenFiles": [
+    "Journal de bord/2025-07-17.md",
+    "Samuele Privitera.md",
+    "Décès dans le peloton.md",
+    "Attachments/Pasted image 20250717131358.png",
+    "Tour du Val d'Aoste.md",
+    "Journal de bord/2025-07-16.md",
+    "Arnaud de Lie.md",
+    "Attachments/Pasted image 20250717000808.png",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The King is Watching.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Drifter.md",
+    "Powerhoof.md",
+    "Dave Lloyd.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Becoming Saint.md",
+    "Open Lab Games.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Arashi Gaiden.md",
+    "Wired Dreams Studio.md",
+    "Statera Studio.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Kaizen - A Factory Story.md",
+    "Coincidence.md",
+    "Loisirs/Jeux Vidéos/Périphériques/8BitDo Pro 3.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Len's Island.md",
+    "Flow Studio.md",
+    "Attachments/Pasted image 20250716232815.jpg",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Crown Gambit.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/ABYSSAL BLADE.md",
+    "Attachments/Pasted image 20250716232311.jpg",
+    "Vifer Games.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Bellfortis.md",
+    "Attachments/Pasted image 20250716231938.jpg",
+    "Rake in Grass.md",
+    "Attachments/Pasted image 20250716231229.jpg",
+    "Attachments/Pasted image 20250716003129.png",
+    "Attachments/Pasted image 20250715122554.jpg",
+    "Attachments/Pasted image 20250715121848.jpg",
+    "Attachments/Pasted image 20250714211428.png",
+    "Généalogie des Jeux Vidéos.canvas",
+    "Loisirs/Jeux Vidéos/Livres",
+    "Loisirs/Jeux Vidéos/Généalogie Société.canvas",
+    "Sans titre",
+    "Loisirs/Jeux Vidéos/Généalogie Mr Driller.canvas",
+    "Loisirs/Internet",
+    "Loisirs/Musique",
+    "Culture",
+    "Loisirs",
+    "Famille/Papa Del",
+    "Famille/Fêtes",
+    "Maison/Travaux",
+    "Maison"
+  ]
+}

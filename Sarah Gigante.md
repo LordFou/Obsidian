@@ -1,0 +1,35 @@
+---
+type: personne
+---
+
+# Sarah Gigante
+
+# Informations Générales
+- **Date de naissance** :  
+- **Nationalité** :  Australienne
+- **Sport / Discipline** :  Cyclisme
+- **Poste / Spécialité** (si applicable) :  
+- **Équipe(s) / Club(s)** :  [[Quick Step]]
+- **Période d’activité** :  
+
+# Palmarès et Distinctions
+| Année | Compétition                  | Résultat | Remarque |
+| ----- | ---------------------------- | -------- | -------- |
+| 2025  | [[Tour d'Italie]] - 4e étape | 1iere    |          |
+| 2025  | [[Tour d'Italie]] - 7e étape | 1iere    |          |
+
+# Style et Caractéristiques
+Décrire le style de jeu, les points forts/faibles, les particularités.
+
+# Records et Faits Marquants
+Lister les records battus, les moments légendaires ou les anecdotes notables.
+
+# Controverses ou Événements Importants
+Évoquer les polémiques ou moments clés de sa carrière.
+
+# Retraite et Reconversion
+Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
+
+# Sources et Références
+- [Lien vers une source](#)
+- [Article détaillé](#)

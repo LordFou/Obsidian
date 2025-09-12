@@ -1,0 +1,1 @@
+Ancien coureur cycliste, grand père de [[Lenny Martinez]]. Ils ont tous les 2 eu le maillot à poids sur le [[Tour de France]].

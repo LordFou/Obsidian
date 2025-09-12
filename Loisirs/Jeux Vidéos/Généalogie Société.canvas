@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1aae0d01db997a93","x":-58,"y":-500,"width":104,"height":60,"type":"text","text":"Bally"},
+		{"id":"719351552dcabfac","x":-300,"y":-500,"width":200,"height":60,"type":"text","text":"Sente Technologies"},
+		{"id":"43521cd9b3243c4e","x":-174,"y":-360,"width":156,"height":50,"type":"text","text":"Bally Sente"}
+	],
+	"edges":[
+		{"id":"b3b3efb762cf8ee0","fromNode":"1aae0d01db997a93","fromSide":"bottom","toNode":"43521cd9b3243c4e","toSide":"top"},
+		{"id":"44abd9a32debb64c","fromNode":"719351552dcabfac","fromSide":"bottom","toNode":"43521cd9b3243c4e","toSide":"top"}
+	]
+}

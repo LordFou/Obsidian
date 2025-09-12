@@ -1,0 +1,1 @@
+- [Syncthing](https://syncthing.net/) pour synchroniser des docs sur plusieurs PC

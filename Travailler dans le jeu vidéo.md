@@ -1,0 +1,1 @@
+- https://map.gamebadges.eu/pages/OverviewPage/

@@ -1,0 +1,9 @@
+- La mort dans les jeux vidéos
+	- rogue like
+	- une vie dans les vieux jeux
+	- continue... Y-N
+	- permadeath
+	- ..
+- Faire un jeu vidéo
+	- https://www.youtube.com/watch?v=XtQMytORBmM&t=3s
+	- 

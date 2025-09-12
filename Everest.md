@@ -1,0 +1,2 @@
+- Montagne la plus haute du monde 
+- A été grimpée la première fois le 29 mai 1953 par le Néo-Zélandais [[Sir Edmund Hillary]] et le sherpa népalais [[Tensing Norkay]].

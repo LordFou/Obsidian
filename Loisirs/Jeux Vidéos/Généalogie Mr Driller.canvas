@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"234c4c0bcb6e05f2","type":"text","text":"[[Mr Driller Online]] (2008) sur XBox 360","x":-164,"y":-400,"width":339,"height":50},
+		{"id":"3d9594c4dd28e7c5","type":"text","text":"[[Mr Driller Drill Land]] (2002) sur Saturn, GameCube","x":-164,"y":-680,"width":340,"height":60},
+		{"id":"836350f91ebb8d65","type":"text","text":"[[Dig Dug]] (1982)","x":-120,"y":-940,"width":250,"height":60},
+		{"id":"63a8e1b4d1deec22","type":"text","text":"[[Dig Dug - Digging Strike]] (2005) sur DS","x":-163,"y":-540,"width":339,"height":60},
+		{"id":"993c21441f907020","type":"text","text":"[[Mr Driller]] (1999)","x":-120,"y":-800,"width":250,"height":60},
+		{"id":"855ece6cf595aa2c","type":"text","text":"+Combat boss\n+Eléments de RPG","x":300,"y":-740,"width":250,"height":60},
+		{"id":"1417764a713ed2ff","type":"text","text":"+Online","x":300,"y":-460,"width":250,"height":60},
+		{"id":"d4b737fdc221a2d5","type":"text","text":"[[Star Trigon]] sur iOS","x":-120,"y":-280,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"3205ae9380e3475b","fromNode":"234c4c0bcb6e05f2","fromSide":"bottom","toNode":"d4b737fdc221a2d5","toSide":"top"},
+		{"id":"16bd9971dc0634dc","fromNode":"836350f91ebb8d65","fromSide":"bottom","toNode":"993c21441f907020","toSide":"top"},
+		{"id":"c33a54be4f769229","fromNode":"993c21441f907020","fromSide":"bottom","toNode":"3d9594c4dd28e7c5","toSide":"top"},
+		{"id":"30e0f53c9ccba444","fromNode":"3d9594c4dd28e7c5","fromSide":"bottom","toNode":"63a8e1b4d1deec22","toSide":"top"},
+		{"id":"e962605c9ba26e43","fromNode":"63a8e1b4d1deec22","fromSide":"bottom","toNode":"234c4c0bcb6e05f2","toSide":"top"},
+		{"id":"a4c0a2a03707bfdc","fromNode":"63a8e1b4d1deec22","fromSide":"right","toNode":"1417764a713ed2ff","toSide":"top"},
+		{"id":"5baf06fb49defba7","fromNode":"1417764a713ed2ff","fromSide":"bottom","toNode":"234c4c0bcb6e05f2","toSide":"right"},
+		{"id":"12c455948ad21ade","fromNode":"993c21441f907020","fromSide":"right","toNode":"855ece6cf595aa2c","toSide":"top"},
+		{"id":"5e80ef17dff999f6","fromNode":"855ece6cf595aa2c","fromSide":"bottom","toNode":"3d9594c4dd28e7c5","toSide":"right"}
+	]
+}
