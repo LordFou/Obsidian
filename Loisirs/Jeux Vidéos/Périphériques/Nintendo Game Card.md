@@ -18,7 +18,7 @@ type: matos
 - {{Titre du jeu 3 (année)}}
 
 ## Anecdotes et faits marquants
-- La bi
+- La bibliothèque nationale du [[Japon]] s'est positionné contre
 
 ## Liens connexes
 - [Page Wikipédia](https://wikipedia.org)
