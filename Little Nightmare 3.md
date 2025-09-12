@@ -1,16 +1,16 @@
 ---
 type: game
 ---
-
+![[image-31.webp|500x234]]
 # Little Nightmare 3
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Supermassive Games]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Bandai Namco Entertainment]]
 - **Plateformes** : 
 - **Franchise** : [[Franchise Little Nightmare|Little Nightmare]]
 - **Genre** :
@@ -38,5 +38,4 @@ type: game
 ## Liens et Ressources
 
 | Description | URL |
-| ----------- | --- |
-|             |     |
+| ----------- 
