@@ -11,10 +11,10 @@ type: game
 	- Studio : [[Supermassive Games]]
 	- Personnalités : 
 - **Éditeur** : [[Bandai Namco Entertainment]]
-- **Plateformes** : 
+- **Plateformes** : PC
 - **Franchise** : [[Franchise Little Nightmare|Little Nightmare]]
-- **Genre** :
-- **Résumé** : 
+- **Genre** : [[Aventure]], [[Horreur]]
+- **Résumé** : jeu d'aventure à ambiance horrifique dans lequel vous suivez l'aventure de Low et Alone, deux meilleurs amis à la recherche d'une issue hors du Nulle-Part. En coopération en ligne à deux joueurs, ou en solo avec une IA, travaillez ensemble pour résoudre des énigmes.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -25,9 +25,10 @@ type: game
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : 
+- **Lieu(x)** : Nulle-Part
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Low
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
@@ -38,4 +39,5 @@ type: game
 ## Liens et Ressources
 
 | Description | URL |
-| ----------- 
+| ----------- | --- |
+|             |     |
