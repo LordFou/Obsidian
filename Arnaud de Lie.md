@@ -15,6 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                        | Résultat | Remarque                                                        |
 | ----- | ---------------------------------- | -------- | --------------------------------------------------------------- |
+| 2023  | [[Grand Prix de Québec]]           | 1ier 🥇  |                                                                 |
 | 2025  | [[Brussels Cycling Classic]]       | 3e       | Sprint Massif                                                   |
 | 2025  | [[Tour de France]] - 9e étape      | 3e       | Sprint Massif                                                   |
 | 2025  | [[Tour de France]] - 11e étape     | 4e       | Etape de costaud                                                |
