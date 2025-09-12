@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-09-12.md",
+                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-12"
+              "title": "Tour d'Espagne"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2025-09-12.md",
+                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-09-12"
+              "title": "Graphique de Tour d'Espagne"
             }
           }
         ]
@@ -252,8 +252,8 @@
   },
   "active": "d2cf42266ef44c3f",
   "lastOpenFiles": [
-    "Loisirs/Lotte Kopecky.md",
     "Journal de bord/2025-09-12.md",
+    "Loisirs/Lotte Kopecky.md",
     "Coppa Sabatini.md",
     "TEST GIT.md",
     "Isaac Del Toro.md",
