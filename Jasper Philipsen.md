@@ -21,7 +21,7 @@ type: personne
 | 2025  | [[Tour de France]] - 1e étape                                            | 1ier     | Maillot Jaune<br>Maillot Vert<br>10e victoire sur le tour |     |
 | 2025  | [[Loisirs/Sport/Compétitions/Tour d'Espagne\|Tour d'Espagne]] - 1e étape | 1ier     | :luc_plus: Maillot Général                                |     |
 | 2025  | [[Loisirs/Sport/Compétitions/Tour d'Espagne\|Tour d'Espagne]] - 8e étape | 1ier     |                                                           |     |
-|       |                                                                          |          |                                                           |     |
+| 2025  | [[Tour d'Espagne]] - 19e étape                                           | 1ier     |                                                           |     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
