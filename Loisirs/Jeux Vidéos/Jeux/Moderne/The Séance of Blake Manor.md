@@ -22,7 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
-	- C
+	- Chaque action/choix prend du temps sur les 48h de l'enquête et il faut donc faire des choix.
 - **Durée estimée** : 
 
 ## Histoire et Univers
