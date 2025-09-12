@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Lotte Kopecky.md",
+                "file": "Journal de bord/2025-09-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lotte Kopecky"
+              "title": "2025-09-12"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Lotte Kopecky.md",
+                "file": "Journal de bord/2025-09-12.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Lotte Kopecky"
+              "title": "Graphique de 2025-09-12"
             }
           }
         ]
@@ -252,6 +252,7 @@
   },
   "active": "d2cf42266ef44c3f",
   "lastOpenFiles": [
+    "Loisirs/Lotte Kopecky.md",
     "Journal de bord/2025-09-12.md",
     "Coppa Sabatini.md",
     "TEST GIT.md",
@@ -263,7 +264,6 @@
     "Détermination du genre humain.md",
     "World Athletics.md",
     "Journal de bord/2025-09-11.md",
-    "Loisirs/Lotte Kopecky.md",
     "Tour de l’Ardèche.md",
     "Championnats du monde d'athlétisme.md",
     "Belgian Waffles.md",
