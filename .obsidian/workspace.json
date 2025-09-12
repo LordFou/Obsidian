@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour Espagne",
+                "query": "[[Tour d'Espagne]]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -250,7 +250,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d2cf42266ef44c3f",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
     "Loisirs/Sport/Tour d'Espagne.md",
     "Ben Turner.md",
