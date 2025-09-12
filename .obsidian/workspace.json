@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REANIMAL.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Star Wars Outlaws.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REANIMAL"
+              "title": "Star Wars Outlaws"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "REANIMAL.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Star Wars Outlaws.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de REANIMAL"
+              "title": "Graphique de Star Wars Outlaws"
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Little nig",
+                "query": "Tomb Raider",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -250,17 +250,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d2cf42266ef44c3f",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Assassin's Creed Shadows.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Star Wars Outlaws.md",
+    "Loisirs/Jeux Vidéos/Périphériques/Nintendo Game Key Card.md",
+    "REANIMAL.md",
     "Attachments/image-32.webp",
     "Tarsier Studio.md",
-    "REANIMAL.md",
     "Little Nightmare 3.md",
     "Supermassive Games.md",
     "Attachments/image-31.webp",
     "Franchise Little Nightmare.md",
     "Little Nightmare.md",
-    "Loisirs/Jeux Vidéos/Périphériques/Nintendo Game Card.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Castlevania - Symphony Of The Night.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/007 First Light.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Constance.md",
@@ -282,12 +284,10 @@
     "Arnaud de Lie.md",
     "Grand Prix de Québec.md",
     "Michael Matthews.md",
-    "Julian Alaphilippe.md",
     "Attachments/image-26.webp",
     "Attachments/image-25.webp",
     "Attachments/image-24.webp",
     "Attachments/image-23.webp",
-    "Attachments/image-22.webp",
     "Généalogie des Jeux Vidéos.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",

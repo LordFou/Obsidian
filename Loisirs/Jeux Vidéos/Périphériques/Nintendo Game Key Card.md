@@ -2,7 +2,7 @@
 type: matos
 ---
 
-# Nintendo Game Card
+# Nintendo Game Key Card
 
 ## Informations principales
 - Fabricant : [[Nintendo]]

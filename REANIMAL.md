@@ -6,7 +6,7 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026 (?)
 - **Développeur** : 
 	- Studio : [[Tarsier Studio]]
 	- Personnalités : 

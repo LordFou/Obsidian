@@ -14,7 +14,7 @@ type: game
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :
-- **Résumé** : 
+- **Résumé** : PC, [[Switch]] ([[Nintendo Game Key Card|Game Key Card]]), [[Xbox Series]]
 
 ## Détails Techniques
 - **Moteur de jeu** : 
