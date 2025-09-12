@@ -10,10 +10,10 @@ type: game
 - **Développeur** : 
 	- Studio : [[btf]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
+- **Éditeur** : [[btf]]
+- **Plateformes** : PC
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Action]], [[Plateforme]]
 - **Résumé** : 
 
 ## Détails Techniques
