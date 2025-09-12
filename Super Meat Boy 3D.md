@@ -1,16 +1,16 @@
 ---
 type: game
 ---
-
+![[image-29.webp|500x234]]
 # Super Meat Boy 3D
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Sluggerfly]], [[Team Meat]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Headup]]
 - **Plateformes** : 
 - **Franchise** : [[Franchise Meat Boy|Meat Boy]]
 - **Genre** :
