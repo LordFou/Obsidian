@@ -8,11 +8,12 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur       | Nationalité | Remarque             |
-| ----- | --------------- | ----------- | -------------------- |
-| 2025  | [[Tim Merlier]] | Belge       | 3e [[Arnaud de Lie]] |
-|       |                 |             |                      |
-|       |                 |             |                      |
+| Année | Vainqueur            | Nationalité | Remarque             |
+| ----- | -------------------- | ----------- | -------------------- |
+| 2024  | [[Jonas Abrahamsen]] | Danois      |                      |
+| 2025  | [[Tim Merlier]]      | Belge       | 3e [[Arnaud de Lie]] |
+|       |                      |             |                      |
+|       |                      |             |                      |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

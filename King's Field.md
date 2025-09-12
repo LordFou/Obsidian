@@ -6,7 +6,7 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 1994
+- **Année de sortie** : 1995
 - **Développeur** : 
 	- Studio : [[FromSoftware]]
 	- Personnalités : 

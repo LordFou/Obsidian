@@ -11,6 +11,7 @@ Une des courses cyclistes les plus longues mais aussi la plus ennuyeuse la plupa
 
 | Année | Vainqueur                | Nationalité | Remarque                                                                             |
 | ----- | ------------------------ | ----------- | ------------------------------------------------------------------------------------ |
+| 2021  | [[Jasper Stuyven]]       | Belge       |                                                                                      |
 | 2025  | [[Mathieu van der Poel]] | Néerlandais | Ils ont attaqué à 3 (Lui, Pogacar et Ganna) dans la Cipressa, ce qui n'arrive jamais |
 |       |                          |             |                                                                                      |
 # Femmes

@@ -1,5 +1,6 @@
-
-
+---
+type: game
+---
 # Lost Records
 
 ## Informations Générales
@@ -19,8 +20,8 @@
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
-	- 8/10 (Canard PC)
-	- 8.5/10 (Checkpoint)
+	- 8/10 ([[Canard PC]]) - 6/10 => Tape 2
+	- 8.5/10 ([[CheckPoint]])
 - **Gameplay** :
 
 ## Histoire et Univers

@@ -1,24 +1,24 @@
 ---
 type: game
 ---
-
+![[Pasted image 20250907013541.png]]
 # Death Stranding
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Kojima Productions]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
-- **Franchise** : 
+- **Éditeur** : [[505 Games]]
+- **Plateformes** : PC
+- **Franchise** : [[Franchise Death Stranding|Death Stranding]]
 - **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 3D
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :

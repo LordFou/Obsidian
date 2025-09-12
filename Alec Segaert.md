@@ -12,12 +12,23 @@ type: personne
 - **Équipe(s) / Club(s)** :  [[Lotto]]
 - **Période d’activité** :  
 
+# Historique
+
+```timeline-labeled
+[line-5, body-2]
+date: Janvier 2026
+title: Alec quitte [[Lotto]]
+content: Il s'engage chez [[Bahrein Victorious]]
+```
+
+
 # Palmarès et Distinctions
 | Année | Compétition                                                         | Résultat | Remarque |
 | ----- | ------------------------------------------------------------------- | -------- | -------- |
 | 2025  | [[Tour de Belgique]] - Classement Jeune                             | 1ier     |          |
 | 2025  | [[Championnat de Belgique de Cyclisme\|Championnat National]] - CLM | 3e       |          |
-
+| 2025  | [[Tour du Danemark]] - 3e étape                                     | 2e       | CLM      |
+	
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 

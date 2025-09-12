@@ -1,6 +1,9 @@
+---
+type: game
+---
+![[Pasted image 20250319013812.png]]  ![[Pasted image 20250319013734.png]]
 # Pac-Man
 
-![[Pasted image 20250319013812.png]]  ![[Pasted image 20250319013734.png]]
 ## Informations Générales
 
 - **Année de sortie** : [[1980]]
@@ -8,7 +11,7 @@
 	- Société : [[Namco]]
 	- Personnalités : Toru Iwatani 
 - **Éditeur** : 
-- **Plateformes** : Arcade et cie
+- **Plateformes** : [[Arcade]]
 - **Genre** : Arcade
 - **Résumé** : Petit boule jaune qui doit avaler toutes les petites pilules pour finir un niveau mais il est poursuivi par des fantômes. Fantômes que l'on peut manger aussi à la condition d'avoir pris une pilule spéciale. A intervalles réguliers, des fruits qui valent plus de points apparaissent au centre de la map.
 

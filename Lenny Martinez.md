@@ -13,13 +13,14 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                          | Résultat  | Remarque         |
-| ----- | ------------------------------------ | --------- | ---------------- |
-| 2025  |                                      |           |                  |
-| 2025  |                                      |           |                  |
-| 2025  | [[Critérium du Dauphiné]] - 8e étape | 1ier      |                  |
-| 2025  | [[Tour de France]] - 4e étape        | Combattif |                  |
-| 2025  | [[Tour de France]] - 10e étape       | 8e        | Maillot Montagne |
+| Année | Compétition                          | Résultat  | Remarque                                 |
+| ----- | ------------------------------------ | --------- | ---------------------------------------- |
+| 2025  |                                      |           |                                          |
+| 2025  |                                      |           |                                          |
+| 2025  | [[Critérium du Dauphiné]] - 8e étape | 1ier      |                                          |
+| 2025  | [[Tour de France]] - 4e étape        | Combattif |                                          |
+| 2025  | [[Tour de France]] - 10e étape       | 8e        | Maillot Montagne                         |
+| 2025  | [[Tour de France]] - 14e étape       | ?         | Maillot Montagne<br>Combattif de l'étape |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

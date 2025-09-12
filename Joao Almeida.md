@@ -13,14 +13,15 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                               | Résultat | Remarque      |
-| ----- | ----------------------------------------- | -------- | ------------- |
-| 2025  | [[Tour de Suisse]] - 4e étape             | 1ier     | Solo de 49 km |
-| 2025  | [[Tour de Suisse]] - 7e étape             | 1er      |               |
-| 2025  | [[Tour de Suisse]] - CLM                  | 1ier     |               |
-| 2025  | [[Tour de Suisse]] - Classement Final     | 1ier     |               |
-| 2025  | [[Tour de Suisse]] - Classement par point | 1ier     |               |
-| 2025  | [[Tour de Suisse]] - Combativité          | 1ier     |               |
+| Année | Compétition                               | Résultat | Remarque                   |
+| ----- | ----------------------------------------- | -------- | -------------------------- |
+| 2025  | [[Tour de Suisse]] - 4e étape             | 1ier     | Solo de 49 km              |
+| 2025  | [[Tour de Suisse]] - 7e étape             | 1er      |                            |
+| 2025  | [[Tour de Suisse]] - CLM                  | 1ier     |                            |
+| 2025  | [[Tour de Suisse]] - Classement Final     | 1ier     |                            |
+| 2025  | [[Tour de Suisse]] - Classement par point | 1ier     |                            |
+| 2025  | [[Tour de Suisse]] - Combativité          | 1ier     |                            |
+| 2025  | [[Tour d'Espagne]] - 14e étape            | 1ier     | Au sommet de l'[[Angliru]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -8,10 +8,12 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur            | Course | Nationalité | Remarque |
+| ----- | -------------------- | ------ | ----------- | -------- |
+| 2012  | [[Philippe Gilbert]] | Route  | Belge       |          |
+| 2022  | [[Remco Evenepoel]]  | Route  | Belge       |          |
+| 2023  | [[Remco Evenepoel]]  | CLM    | Belge       |          |
+| 2024  | [[Remco Evenepoel]]  | CLM    | Belge       |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

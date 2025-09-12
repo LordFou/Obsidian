@@ -1,6 +1,9 @@
+---
+type: game
+---
+![[Pasted image 20250327001051.png]]
 # Donkey Kong
 
-![[Pasted image 20250327001051.png]]
 ## Informations Générales
 
 - **Année de sortie** : [[1981]]

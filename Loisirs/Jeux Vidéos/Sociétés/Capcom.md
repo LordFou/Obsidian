@@ -11,6 +11,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
+	- [[Shinji Mikami]]
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :

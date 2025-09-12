@@ -1,0 +1,1 @@
+- A l'été 2025, la mise à jour, passe le [[BSOD]] de blue à black

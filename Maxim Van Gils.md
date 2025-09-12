@@ -9,7 +9,7 @@ type: personne
 - **Nationalité** :  Belge
 - **Sport / Discipline** : [[Cyclisme]] 
 - **Poste / Spécialité** (si applicable) :  [[Grimpeur]]
-- **Équipe(s) / Club(s)** :  [[Lotto]], Redbull [[Bora]]
+- **Équipe(s) / Club(s)** :  [[Lotto]], Redbull [[Bora Redbull]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
@@ -17,6 +17,7 @@ type: personne
 | ----- | ------------------------------ | -------- | -------- |
 | 2025  | ?                              | 1ier     |          |
 | 2025  | [[Tour de Norvège]] - 3e étape | 1ier     |          |
+| 2025  | [[Clasica San Sebastian]]      | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

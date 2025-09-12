@@ -13,10 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition               | Résultat | Remarque                  |
-| ----- | ------------------------- | -------- | ------------------------- |
-| 2025  | [[A Travers Le Hageland]] | 1ier     | 4e - [[Quintens Hermans]] |
-| 2025  | [[Euroshop Elfstenronde]] | 1ier     | 2e - [[Jasper Philipsen]] |
+| Année | Compétition                    | Résultat | Remarque                  |
+| ----- | ------------------------------ | -------- | ------------------------- |
+| 2025  | ?                              | 1ier     |                           |
+| 2025  | ?                              | 1ier     |                           |
+| 2025  | [[A Travers Le Hageland]]      | 1ier     | 4e - [[Quintens Hermans]] |
+| 2025  | [[Euroshop Elfstenronde]]      | 1ier     | 2e - [[Jasper Philipsen]] |
+| 2025  | [[Tour de Pologne]] - 4e étape | 1ier     |                           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

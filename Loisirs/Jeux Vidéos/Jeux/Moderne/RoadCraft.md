@@ -1,4 +1,6 @@
-![[Pasted image 20250519095632.png]]
+---
+type: game
+---
 # RoadCraft
 
 ## Informations Générales
@@ -7,7 +9,7 @@
 - **Développeur** : 
 	- Studio : [[Saber]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Focus]]
 - **Plateformes** : PC, Xbox, PS
 - **Franchise** : 
 - **Genre** : [[Gestion]], [[Construction]], [[Destruction]]

@@ -8,10 +8,11 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur           | Remarque |
+| ----- | ------------------- | -------- |
+| 2019  | [[Remco Evenepoel]] |          |
+| 2025  |                     |          |
+|       |                     |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

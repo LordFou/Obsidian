@@ -15,6 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                   | Résultat | Remarque      |
 | ----- | ----------------------------- | -------- | ------------- |
+| 2024  | [[Circuit Franco-Belge]]      | 1e       |               |
 | 2025  | [[Tour de France]] - 1e étape | 2e       | Maillot Blanc |
 
 # Style et Caractéristiques

@@ -8,10 +8,11 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur | Lieu | Remarque |
+| ----- | --------- | ---- | -------- |
+| 2024  | Slovénie  | ?    |          |
+| 2025  |           |      |          |
+|       |           |      |          |
 # Femmes
 
 | Année | Vainqueur | Lieu  | Remarque       |
@@ -19,11 +20,11 @@ type: event
 | 2023  | Belgique  | ?     | 1ier titre !!! |
 | 2025  | Belgique  | Grèce |                |
 |       |           |       |                |
-# Femmes - U18
+# Femmes - U20
 
-| Année | Vainqueur | Lieu | Remarque |
-| ----- | --------- | ---- | -------- |
-|       |           |      |          |
+| Année | Vainqueur | Lieu | Remarque        |
+| ----- | --------- | ---- | --------------- |
+| 2025  | ?         |      | Belgique - 5e ? |
 
 # Hommes - U20
 

@@ -9,7 +9,7 @@
 	- Personnalités : 
 		- [[Roger Hector]] (Designer ?)
 - **Éditeur** : 
-- **Plateformes** : [[Sega Master System]]
+- **Plateformes** : [[Master System]]
 - **Franchise** : 
 - **Genre** :
 - **Résumé** : 

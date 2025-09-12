@@ -30,6 +30,7 @@ type: game
 - **Personnages principaux** : 
 	- Jill Valentine (?)
 - **Ennemis** :
+	- La plante 42 (boss)
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 

@@ -15,8 +15,8 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 ## Contributions Notables
 | Année | Projet / Jeu                  | Rôle        | Studio / Éditeur     |     |
 | ----- | ----------------------------- | ----------- | -------------------- | --- |
-| 2022  | [[A Plague Tale : Requiem]]   | Compositeur | [[Asobo]]            |     |
 | 2019  | [[A Plague Tale : Innocence]] | Compositeur | [[Asobo]]            |     |
+| 2022  | [[A Plague Tale : Requiem]]   | Compositeur | [[Asobo]]            |     |
 | 2025  | [[South of Midnight]]         | Compositeur | [[Compulsion Games]] |     |
 
 ## Style et Influence

@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition              | Résultat  | Remarque |
-| ----- | ------------------------ | --------- | -------- |
-| 2025  | [[Tournoi de Wimbledon]] | Vainqueur |          |
+| Année | Compétition               | Résultat  | Remarque |
+| ----- | ------------------------- | --------- | -------- |
+| 2025  | [[Tournoi de Wimbledon]]  | Vainqueur |          |
+| 2025  | [[Tournoi de Cincinnati]] | Finaliste |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

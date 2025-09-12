@@ -1,14 +1,14 @@
 ---
 type: game
 ---
-
+![[Pasted image 20250801002424.jpg]]
 # Antro
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Gatera Studio]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
@@ -18,7 +18,7 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : Sidescrollers
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
@@ -26,11 +26,11 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-- **Epoque** : 
+- **Epoque** : [[Dystopie]]
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-- **Influencé par** :
+- **Influencé par** : [[Inside]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

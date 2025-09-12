@@ -1,0 +1,3 @@
+# Dames
+
+- "_Une masse grasse trop faible entraîne ce que l'on appelle [[la triade de la sportive]], c'est-à-dire le déficit d'apport énergétique qui conduit à l'absence de règles et ensuite à de l'ostéoporose_", explique-t-il. Un problème que n'ont pas les hommes. [Source Article RTBF](https://www.rtbf.be/article/ce-n-est-pas-sans-consequences-cedrine-kerbaol-alerte-sur-la-maigreur-des-coureuses-au-tour-de-france-11582917)

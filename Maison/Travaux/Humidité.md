@@ -1,16 +1,72 @@
+# Travaux Courtain
+- Début des travaux le 04/08/2025 avec Courtain KG sa
+	- Il a déjà cassé toutes les conduites
+	- Il a dû déraciner un sapin
+	- J'ai payé l'acompte ce jour
+- Fissure apparue chez Sam
+	- Les assurances vont s'en charger
+	- A priori mon assurance ne doit pas jouer mais l'assureur de Sam dit que la sienne va se retourner contre la notre qui va se retourner contre celle de l'entrepreneur. Aucun sens !!
+- Il faut savoir quand l'entrepreneur de Sam peut faire les travaux
+	- Si septembre
+		- On laisse sans pierre la partie du mur mitoyen 
+		- Ils reposeront délicatement les éléments (platon, visqueen,...) ainsi que les pierres quand ils auront fini 
+		- On peut espérer la cour en 2026
+	- Sinon
+		- On met tout sur toute la surface et ils devront enlever quand ils feront et remettre
+		- La cour attendra 2027 surement donc 2 hivers.
+- Pour le mur mitoyen, on doit décider avec Sam si on cimente ou pas
+	- si oui
+		- On doit redescendre jusqu'en bas (ça veut dire combien ?) et quel prix
+	- on décide finalement de dégager les terres jusqu'à la poutre en bêton et mettre un platon de mon côté qui va de la poutre en bêton à la cour en plus du platon prévu par Courtain (1000euro de suppléments).  
+	- Courtain laissera à Sam et son entrepreneur le soin de creuser eux-même dans le coin contre sa façade.
+	- Si Sam veut vraiment cimenter, il faut que son entrepreneur le fasse sur toute la longueur mur mitoyen et façade pour éviter les fissures.
+- Découverte des racines contre le mur mitoyen
+	- On va les couper à ras dans un premier temps
+	- Il faut enlever au moins le premier pied avant de bétonner et de mettre la cour.
+	- A voir avec les voisins si on enlève pas tout pour remettre autre chose de végétal mais moins impactant sur les constructions
+	- Courtain peut faire une barre en bêton perpendiculaire au plan de la haie pour empêcher dans le futur les racines de revenir.
+		- Juste de notre côté ?
+- Découverte d'un tuyau qui rentre dans la maison
+	- bouché par de la terre et un sachet
+	- on a ouvert les robinets de la cuisine, il n'y a rien
+	- Courtain va le condamner avec de la mousse
+- Découverte que le tuyau qui part du sterput et de la gouttière vers l'avant de la maison est rempli de terre 
+	- Mais comment le sterput suivait-il ? Est-ce que l'eau s'exfiltrait du tuyau ailleurs ?
+- Courtain propose de faire sauter tous les x mètres le joint entre 2 briques pour faire respirer la maison
+	- Il faut qu'il y ait quelques cm entre la brique de parement et l'isolation contre le mur de brique de soutien
+	- Je dois vérifier sur les plans.
+- Voir si on fait les aérations vers le devant de la maison pour éviter de mettre des coudes à l'arrière qui pourrait créer des nouvelles petites sources d'humidité
+	- Voir la maison dans la rue d'à côté pour voir si c'est joli
+	- Si oui
+		- On mettrait aussi un extracteur électrique entre la buanderie et le garage
+- Il va falloir découper une dalle de béton qui était sous le mur "barbecue"
+	- Surcout ?
+- Courtain doit me poser des questions sur les finitions pour la phase 2
+- Pavé 
+	- Comme la 2e maison à gauche dans la rue en cul de sac quand on remonte vers Proumen
+	- C'est du beige
+- Aération 
+	- Comme la 2e maison à gauche dans le trou du Renard
+	- C'est pas super joli...
+	- 110 de diamètre pour les carottages
+		- Assez pour la buanderie ?
+	- Possible de le faire le 15 aout ?
+	- Je me rend compte que l'aération carottage entre la buanderie et le garage coutent 200euro (1x) et celle vers l'arrière de la maison 800 (2x). Or il ne veut plus faire celle vers l'arrière mais bien à l'avant à gauche et droite du garage => ça devrait être du même genre que 200euro => 400 à la place de 1600 (-1200).
+	- Alors il me dit que c'est pas le même travail entre la buanderie et le garage parce qu'il n'y a qu'un bloc à percer mais entre le garage et l'extérieur, il y a plus d'épaisseur et il faut faire des étanchéités dans les différentes couche du mur, il me parle de 650euro à la place de 800
+	- Il me dit aussi qu'il n'y a pas d'urgence pour ce travail, ce n'est pas lié et que si on veut faire des demandes à un chauffagiste ou un pro de l'humidité à l'intérieur, on peut demander un devis. Voire de placer des VMC avec sonde humidité.
+	- On peut aussi placer les aérations lors de la 2e phase avec lui.
+	- Il m'a montré où lui les ferait pour dégager tout le mur... et en plus ça fonctionne à l'eau, donc faut prévoir torchon et le fait que ce sera mouillé autour
+- Réception de la facture supplémentaire ce (08/08) de 1000euro pour le mur mitoyen
+- Temps de travail (Approximatif, j'ai pas de traces réelles)
+	- Lundi : 9h -> 14h => 5h
+	- Mardi : 10h -> 16h21 => 6h
+	- Mercredi : 8h45 -> 16h => 7h
+	- Jeudi : ? -> 16h =>  
+	- Vendredi : 10h15 -> 13h30
+	- Lundi (2 personnes) : 11h17 -> 17h00
+	- Mardi : si besoin => 2h
+- Finalisation phase 1 par paiement => 15/08/2025
+
+# Divers
 - 15-20% au bas des murs dans la buanderie hall et garage
 
-Réponse à Sam :
-
-Salut Sam, 
-
-On est toujours sur Rutten concernant le choix. Mais moins pressé vu que tout sèche depuis le placement de l'EPDM.
-
-Du coup, comme nous n'avons plus de souci apparent pour l'instant, on pensait partir sur un travail qui ne va pas jusqu'au drain mais plutôt refaire une bonne barrière sur 70-80 cm + rénover les murs. 
-
-Le travail jusqu'au drain :
-- va nous couter très cher pour un résultat peut-être meilleur mais pas forcément aussi nécessaire. 
-- me donne quelques craintes côté stabilité maison surtout sur le côté.
-- sans parler des éventuels fameux murs enterrés perpendiculaires qui pourraient amener des surcouts à un moment donné
-
-Petite question, tu as une idée du % d'humidité chez toi en bas des murs du sous-sols ? J'ai un capteur qui indique de 10 à 20% selon les endroits et je me demandais si l'étalonnage était ok ou pas.

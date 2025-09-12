@@ -15,6 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                     | Résultat | Remarque    |
 | ----- | ------------------------------- | -------- | ----------- |
+| 2024  | [[Muur Classic]]                | 1ier     |             |
 | 2025  | [[Tour de Belgique]] - 4e étape | 1ier     | Etape Reine |
 
 # Style et Caractéristiques

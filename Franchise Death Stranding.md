@@ -2,6 +2,7 @@
 type: game
 ---
 
+
 # Franchise Death Stranding
 
 
@@ -21,6 +22,11 @@ date:
 title: 
 content:
 ```
+## Jeux principaux
+| Titre                                | Année | Plateformes | Remarque |
+| ------------------------------------ | ----- | ----------- | -------- |
+| [[Death Stranding]]                  | ?     |             |          |
+| [[Death Stranding 2 - On the Beach]] | 2025  |             |          |
 
 
 ## Mécaniques et innovations

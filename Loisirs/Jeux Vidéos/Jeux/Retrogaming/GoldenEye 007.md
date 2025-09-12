@@ -8,7 +8,7 @@ type: game
 
 - **Année de sortie** : 1997
 - **Développeur** : 
-	- Studio : [[Rare]] (?)
+	- Studio : [[Rare]] 
 	- Personnalités : 
 		- [[Martin Hollis]] (Ingénieur)
 		- [[Mark Edmonds]] (Dévelopeur)

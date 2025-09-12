@@ -6,16 +6,16 @@ type: personne
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Nationalité** :  Néerlandais
+- **Sport / Discipline** :  F1
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[RedBull]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition             | Résultat | Remarque |
+| ----- | ----------------------- | -------- | -------- |
+| 2025  | [[Grand Prix d'Italie]] | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

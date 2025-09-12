@@ -10,7 +10,7 @@ type: event
 
 | Année | Vainqueur        | Nationalité | Remarque |
 | ----- | ---------------- | ----------- | -------- |
-| 2025  | [[Lando Norris]] |             |          |
+| 2025  | [[Lando Norris]] | Britannique |          |
 |       |                  |             |          |
 # Femmes
 

@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"dec4e8ba1662ed96","type":"text","text":"[[Odissey]]","x":-306,"y":-356,"width":250,"height":60},
+		{"id":"4724c7f859404eba","type":"text","text":"[[Krash de 1983]] - Marché occidental","x":-334,"y":-240,"width":306,"height":60},
+		{"id":"80c8b633077ea5d0","type":"text","text":"Essor du marché japonais (1985 -> 1998)","x":-306,"y":-122,"width":250,"height":60},
+		{"id":"21425e2114bac006","type":"text","text":"Lutte [[Sega]] Vs [[Nintendo]]","x":26,"y":-163,"width":274,"height":60},
+		{"id":"0d84555383150a0c","type":"text","text":"Démocratisation du jeu vidéo\n(1998 - 2005 ?)","x":-319,"y":-20,"width":277,"height":60},
+		{"id":"3c0bbe2ef051c246","type":"text","text":"Essor des consoles Playstation","x":27,"y":-21,"width":313,"height":60},
+		{"id":"f190ff888065e707","type":"text","text":"Lutte [[Nintendo]] Vs [[Sony]]","x":27,"y":57,"width":313,"height":60},
+		{"id":"c0d5ff62dcbd64e6","type":"text","text":"Essor de la 3D, du son,...","x":27,"y":131,"width":250,"height":60},
+		{"id":"288ff9f0d6ebae5d","x":-312,"y":240,"width":263,"height":60,"type":"text","text":"Arrivée de [[Microsoft]] dans le game (2020 ?)"},
+		{"id":"bf958660864a4f9d","x":27,"y":228,"width":313,"height":85,"type":"text","text":"Marché occidental ([[Sony]] Vs [[Microsoft]])"},
+		{"id":"b89017cb3d0abcec","x":29,"y":332,"width":311,"height":60,"type":"text","text":"Marché asiatique ([[Nintendo]])"}
+	],
+	"edges":[
+		{"id":"0ae4fcbd452400eb","fromNode":"dec4e8ba1662ed96","fromSide":"bottom","toNode":"4724c7f859404eba","toSide":"top"},
+		{"id":"f32a4954bbee1c4c","fromNode":"4724c7f859404eba","fromSide":"bottom","toNode":"80c8b633077ea5d0","toSide":"top"},
+		{"id":"107c05f35205061c","fromNode":"80c8b633077ea5d0","fromSide":"right","toNode":"21425e2114bac006","toSide":"left"},
+		{"id":"50eeaebf16b12b3b","fromNode":"80c8b633077ea5d0","fromSide":"bottom","toNode":"0d84555383150a0c","toSide":"top"},
+		{"id":"0c4a0e06ce40507e","fromNode":"0d84555383150a0c","fromSide":"right","toNode":"3c0bbe2ef051c246","toSide":"left"},
+		{"id":"2abdecbfb27109d9","fromNode":"0d84555383150a0c","fromSide":"right","toNode":"f190ff888065e707","toSide":"left"},
+		{"id":"17a2ccaaf831742e","fromNode":"0d84555383150a0c","fromSide":"right","toNode":"c0d5ff62dcbd64e6","toSide":"left"},
+		{"id":"5e533a0e09f41642","fromNode":"0d84555383150a0c","fromSide":"bottom","toNode":"288ff9f0d6ebae5d","toSide":"top"},
+		{"id":"cfae07ae65aeec10","fromNode":"288ff9f0d6ebae5d","fromSide":"right","toNode":"bf958660864a4f9d","toSide":"left"},
+		{"id":"0b5616642a03707b","fromNode":"288ff9f0d6ebae5d","fromSide":"right","toNode":"b89017cb3d0abcec","toSide":"left"}
+	]
+}

@@ -1,0 +1,1 @@
+Le terme "[[wuxia]]" représente les oeuvres littéraires ou de fiction contant les histoires des héros populaires chinois.

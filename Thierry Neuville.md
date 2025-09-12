@@ -16,6 +16,8 @@ type: personne
 | Année | Compétition                                              | Résultat | Remarque |
 | ----- | -------------------------------------------------------- | -------- | -------- |
 | 2025  | [[Championnat du Monde de Rallye\|Championnat du Monde]] | 1ier     |          |
+| 2025  | [[Rallye d'Estonie]]                                     | 3e       |          |
+| 2025  | [[Rallye du Paraguay]]                                   | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

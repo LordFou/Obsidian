@@ -21,12 +21,15 @@ type: personne
 | 2025  | [[Tour de Belgique]] - 5e étape                            | 1ier     | Sprint massif    |                                              |
 | 2025  | [[Tour de France]] - 3e étape                              | 1ier     | Sprint massif    | Devant [[Jonathan Milan]]                    |
 | 2025  | [[Tour de France]] - 9e étape                              | 1ier     | Sprint massif    | Devant [[Jonathan Milan]], [[Arnaud de Lie]] |
+| 2025  | [[Critérium d'Alost]]                                      | 2e       |                  |                                              |
+| 2025  | [[Renewi Tour]] - 1e étape                                 | 1e       |                  |                                              |
+| 2025  | [[Renewi Tour]] - 4e étape                                 | 1e       |                  |                                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-- 14 courses et 10 victoires en 2025
+- ? courses et 13 victoires en 2025
 - Lors du [[Tour de France]] 2025, il gagne la 3e étape et établit la 500e victoire belge sur la petite reine.
 
 # Controverses ou Événements Importants

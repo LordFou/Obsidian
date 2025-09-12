@@ -1,4 +1,8 @@
+---
+type: societe
+---
 ![[Pasted image 20250517004703.png]]
+
 # Atari
 
 ## Présentation

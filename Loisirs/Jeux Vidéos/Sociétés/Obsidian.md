@@ -16,12 +16,13 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Mascotte** :
 
 ## Jeux Développés
-| Année | Titre                | Genre      | Plateformes |
-| ----- | -------------------- | ---------- | ----------- |
-| 2025  | [[Avowed]]           | Action RPG | PC, Xbox    |
-|       | [[The Outer Worlds]] |            |             |
-|       | [[Grounded]]         |            |             |
-|       | [[Pentiment]]        |            |             |
+| Année | Titre                  | Genre      | Plateformes |
+| ----- | ---------------------- | ---------- | ----------- |
+| 2025  | [[Avowed]]             | Action RPG | PC, Xbox    |
+|       | [[The Outer Worlds]]   |            |             |
+|       | [[Grounded]]           |            |             |
+|       | [[Pentiment]]          |            |             |
+|       | [[The Outer Worlds 2]] |            |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

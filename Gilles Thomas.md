@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                | Résultat | Remarque |
-| ----- | ------------------------------------------ | -------- | -------- |
-| 2025  | [[Grand Prix de Paris]] - Saut d'obstacles | 1ier     |          |
+| Année | Compétition                                                                   | Résultat | Remarque |
+| ----- | ----------------------------------------------------------------------------- | -------- | -------- |
+| 2025  | [[Grand Prix de Paris]] - Saut d'obstacles                                    | 1ier     |          |
+| 2025  | [[Championnats d’Europe de jumping\|Championnat d'Europe]] - Saut d'obstacles | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

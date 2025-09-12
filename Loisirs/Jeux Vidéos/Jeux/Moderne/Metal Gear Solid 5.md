@@ -13,7 +13,7 @@ type: game
 		- [[Hideo Kojima]]
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise Metal Gear Solid|MGS]]
 - **Genre** :
 - **Résumé** : 
 

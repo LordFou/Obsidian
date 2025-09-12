@@ -17,11 +17,6 @@ type: event
 |     |           |         |          |        |       |           |
 |     |           |         |          |        |       |           |
 |     |           |         |          |        |       |           |
-#### General
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
 ### Femmes
 #### Etapes 
 
@@ -32,6 +27,6 @@ type: event
 |     |           |         |          |        |       |           |
 |     |           |         |          |        |       |           |
 #### General
-| Année | Vainqueur          | Nationalité  | Remarque                  |
-| ----- | ------------------ | ------------ | ------------------------- |
-|       |                    |              |                           |
+| Année | Vainqueur | Nationalité | Remarque |
+| ----- | --------- | ----------- | -------- |
+|       |           |             |          |

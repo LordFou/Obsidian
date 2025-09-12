@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                  | Résultat | Remarque           |
-| ----- | ---------------------------- | -------- | ------------------ |
-| 2025  | [[Meeting de Liège]] - 5000m | 4e       | Record de Belgique |
+| Année | Compétition                                                               | Résultat | Remarque           |
+| ----- | ------------------------------------------------------------------------- | -------- | ------------------ |
+| 2025  | [[Meeting de Liège]] - 5000m                                              | 4e       | Record de Belgique |
+| 2025  | [[Championnat de Belgique d'Athlétisme\|Championnat de Belgique]] - 5000m | 1e       |                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

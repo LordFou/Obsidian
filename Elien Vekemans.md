@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[Pasted image 20250814004446.png]]
 # Elien Vekemans
 
 # Informations Générales
@@ -15,7 +15,8 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                  | Résultat           | Remarque |
 | ----- | ------------------------------------------------------------ | ------------------ | -------- |
-| 2025  | World Athletics Continental Tour de Turku - Saut à la perche | Record de Belgique |          |
+| 2025  | World Athletics Continental Tour de Turku - Saut à la perche | Record de Belgique | 4m67     |
+| 2025  | Concours de Jockgrim en Allemagne - Saut à la perche         | Record de Belgique | 4m73     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

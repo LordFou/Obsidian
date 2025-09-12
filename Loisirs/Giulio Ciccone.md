@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[Pasted image 20250803234756.png]]
 # Giulio Ciccone
 
 # Informations Générales
@@ -13,9 +13,11 @@ type: personne
 - **Période d’activité** :  [[Lidl-Trek]]
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition                   | Résultat | Remarque |
+| ----- | ----------------------------- | -------- | -------- |
+| 2025  | ?                             | 1ier     |          |
+| 2025  | [[Clasica San Sebastian]]     | 1ier     |          |
+| 2025  | [[Tour de Burgos]] - 5e étape | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

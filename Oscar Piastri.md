@@ -6,16 +6,18 @@ type: personne
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
+- **Nationalité** :  Australien
 - **Sport / Discipline** : [[Formule 1]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  [[Mc Laren]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition              | Résultat | Remarque |
-| ----- | ------------------------ | -------- | -------- |
-| 2025  | [[Grand Prix d'Espagne]] | 1ier     |          |
+| Année | Compétition                 | Résultat | Remarque |
+| ----- | --------------------------- | -------- | -------- |
+| 2025  | [[Grand Prix d'Espagne]]    | 1ier     |          |
+| 2025  | [[Grand Prix de Belgique]]  | 1ier     |          |
+| 2025  | [[Grand Prix des Pays-Bas]] | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

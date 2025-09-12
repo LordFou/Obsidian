@@ -1,20 +1,20 @@
 ---
 type: game
 ---
-
+![[Pasted image 20250811230436.png]]
 # Drill Core
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Hungry Couch Games]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[tinyBuild]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** : [[Stratégie]], [[Roguelite]]
-- **Résumé** : 
+- **Résumé** : on gère des mineurs
 
 ## Détails Techniques
 - **Moteur de jeu** : 

@@ -2,6 +2,9 @@
 - Juin 2025 : les nationalistes remportent les élections
 # France
 
+- Raphaël Enthoven (?) => à analyser
+  ![[Pasted image 20250817000141.png]]
+- Marguerite Stern : égérie antiféministe de l'extrême-droite, vénérée par les médias Bolloré
 - Pierre-Edouard Stérin
 	- Milliardaire
 	- Smartbox

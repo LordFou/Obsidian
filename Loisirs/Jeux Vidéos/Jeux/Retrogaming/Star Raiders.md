@@ -1,3 +1,6 @@
+---
+type: game
+---
 # Star Raiders
 
 ![[Pasted image 20250320233151.png]]
@@ -9,7 +12,7 @@
 	- Société : [[Atari]]
 	- Personnalités : [[Doug Neubauer]]
 - **Éditeur** : 
-- **Plateformes** : [[Atari 8-bit]]
+- **Plateformes** : [[Atari 8-bits]]
 - **Genre** : [[Simulateur de combat spatial]]
 - **Résumé** : 
 

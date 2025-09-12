@@ -16,15 +16,13 @@ type: event
 |     |               |                    |           |                   |                |                                                   |
 |     |               |                    |           |                   |                |                                                   |
 |     |               |                    |           |                   |                |                                                   |
-### Général
-
 ## Femmes
 
 ### Etapes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
 | --- | --------- | ------- | -------- | ------ | ----- | --------- |
-### Général
+
 # General
 
 ### Hommes

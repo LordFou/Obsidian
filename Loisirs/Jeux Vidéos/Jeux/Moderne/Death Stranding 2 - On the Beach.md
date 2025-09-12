@@ -13,7 +13,7 @@ type: game
 		- [[Hideo Kojima]]
 		- [[Woodkid]]
 - **Éditeur** : [[Sony]]
-- **Plateformes** : PC, Ps
+- **Plateformes** : [[Playstation 5]]
 - **Franchise** : [[Franchise Death Stranding|Death Stranding]]
 - **Genre** : [[Action]]
 - **Résumé** : 
@@ -25,12 +25,13 @@ type: game
 - **Audio** : 
 	- [[Woodkid]]
 - **Réception critique** : 
-	- Origami
+	- [[Origami]]
 		- Avis partagés 
 		- Peut-être pas nécessaire point de vue jeu vidéo mais nécessaire pour engranger de l'argent et permettre de prendre plus de risque sur d'autres jeux après
 		- Intro du jeu brillante
 		- Rien de bien nouveau à dire mais la réalisation est très bien
 		- Fait bien partie du [[Kojimaverse]]
+	- 8/10 ([[Canard PC]])
 - **Gameplay** :
 	- TPS
 - **Durée estimée** : 35h <-> 60h

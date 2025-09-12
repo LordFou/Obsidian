@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[Pasted image 20250811223815.png]]
 # The Drifter
 
 ## Informations Générales
@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Powerhoof]]
 	- Personnalités : [[Dave Lloyd]]
-- **Éditeur** : 
+- **Éditeur** : [[Powerhoof]]
 - **Plateformes** : PC
 - **Franchise** : 
 - **Genre** : [[Aventure]], [[Point & Click]]
@@ -20,13 +20,17 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : [[Pixel Art]]
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- [[Izual]] : 
+		- Les énigmes sont logiques et intuitives et les dialogues s'enchaînent avec rapidité
+		- Et puis ces jeux de lumières en pixel art...
+	- 8/10 ([[Canard PC]])
 - **Gameplay** : 
-- **Durée estimée** : 
+- **Durée estimée** : 8h
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-- **Epoque** : 
+- **Epoque** : [[Contemporaine]]
 - **Personnages principaux** : 
 	- [[Mick Carter]]
 - **Ennemis** :

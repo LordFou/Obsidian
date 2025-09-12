@@ -13,11 +13,18 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                    | Résultat | Remarque         |
-| ----- | ------------------------------ | -------- | ---------------- |
-| 2025  | [[Brussels Cycling Classic]]   | 3e       | Sprint Massif    |
-| 2025  | [[Tour de France]] - 9e étape  | 3e       | Sprint Massif    |
-| 2025  | [[Tour de France]] - 11e étape | 4e       | Etape de costaud |
+| Année | Compétition                        | Résultat | Remarque                                                        |
+| ----- | ---------------------------------- | -------- | --------------------------------------------------------------- |
+| 2025  | [[Brussels Cycling Classic]]       | 3e       | Sprint Massif                                                   |
+| 2025  | [[Tour de France]] - 9e étape      | 3e       | Sprint Massif                                                   |
+| 2025  | [[Tour de France]] - 11e étape     | 4e       | Etape de costaud                                                |
+| 2025  | [[Tour de France]] - 17e étape     | 4e       | Sprint Massif                                                   |
+| 2025  | [[Cyclassics Hambourg]]            | 2e       | Juste derrière le dernier échappé de la journée                 |
+| 2025  | [[Renewi Tour]] - 1e étape         | 2e       | Derrière [[Tim Merlier]]                                        |
+| 2025  | [[Renewi Tour]] - 3e étape         | 2e       | Derrière [[Mathieu van der Poel]]<br>:luc_plus: Maillot Général |
+| 2025  | [[Renewi Tour]] - 5e étape         | 1ier 🥇  |                                                                 |
+| 2025  | [[Renewi Tour]] - Classement final | 1ier 🥇  |                                                                 |
+| 2025  | [[Bretagne Classic]]               | 1ier 🥇  |                                                                 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

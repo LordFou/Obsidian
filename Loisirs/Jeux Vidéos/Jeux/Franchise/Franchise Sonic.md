@@ -19,11 +19,11 @@ title: Sortie de Sonic Spinball
 content: 
 ```
 ## Jeux principaux
-| Titre            | Année     | Plateformes     | Remarque         |
-| ---------------- | --------- | --------------- | ---------------- |
-| Sonic Spinball   | 1984      | Arcade          |                  |
-| {{Nom du jeu 2}} | {{Année}} | {{Plateformes}} | {{Info notable}} |
-| {{Nom du jeu 3}} | {{Année}} | {{Plateformes}} | {{Info notable}} |
+| Titre                          | Année     | Plateformes     | Type             |
+| ------------------------------ | --------- | --------------- | ---------------- |
+| Sonic Spinball                 | 1984      |                 | Arcade           |
+| [[Sonic Racing - CrossWorlds]] | 2025      | All             | Course           |
+| {{Nom du jeu 3}}               | {{Année}} | {{Plateformes}} | {{Info notable}} |
 
 ## Mécaniques et innovations
 {{Description des éléments de gameplay marquants, des innovations techniques et de ce qui rend la franchise unique.}}

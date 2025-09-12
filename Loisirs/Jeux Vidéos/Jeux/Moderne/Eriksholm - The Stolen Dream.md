@@ -8,9 +8,9 @@ type: game
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[River End Games]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Nordcurrent Labs]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** : [[Action]], [[Aventure]]
@@ -18,16 +18,20 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 3D
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 7.5/10 (CheckPoint)
+		- ++ : Le gameplay furtif, environnement très réel, le doublage
+		- -- : Certains morceaux de l'intrigue bof bof
 - **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : 
-- **Epoque** : 
+- **Lieu(x)** : Ville d'Eriksholm (Pays Nordique)
+- **Epoque** : Londres victorien
 - **Personnages principaux** : 
+	- Hanna
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :

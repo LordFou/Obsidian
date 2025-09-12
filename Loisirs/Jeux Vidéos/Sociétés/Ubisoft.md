@@ -33,7 +33,11 @@ Décrire le style graphique, les thématiques abordées, les influences notables
 Lister les prix, distinctions ou records obtenus.
 
 ## Controverses ou Événements Marquants
-Évoquer les polémiques ou faits marquants de l’histoire de la société.
+- En 2025 s'ouvre un procès pour harcèlement moral et sexuel contre certaines personnes de l'entreprise
+	- [[Tommy François]]
+	- [[Serge Hascoet]]
+	- [[Guillaume Patrux]]
+	- [[Yves Guillemot]]
 
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.

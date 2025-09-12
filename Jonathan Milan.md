@@ -13,13 +13,16 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                          | Résultat     | Remarque                      |
-| ----- | ------------------------------------ | ------------ | ----------------------------- |
-| 2025  | [[Critérium du Dauphiné]] - 2e étape | 1ier 🥇      | Sprint Massif                 |
-| 2025  | [[Tour de France]] - 3e étape        | 2e           | Sprint Massif<br>Maillot Vert |
-| 2025  | [[Tour de France]] - 6e étape        | Maillot Vert |                               |
-| 2025  | [[Tour de France]] - 8e étape        | 1ier  🥇     | Sprint Massif<br>Maillot Vert |
-| 2025  | [[Tour de France]] - 9e étape        | 3e           | Sprint Massif                 |
+| Année | Compétition                          | Résultat     | Remarque                                     |
+| ----- | ------------------------------------ | ------------ | -------------------------------------------- |
+| 2025  | [[Critérium du Dauphiné]] - 2e étape | 1ier 🥇      | Sprint Massif                                |
+| 2025  | [[Tour de France]] - 3e étape        | 2e           | Sprint Massif<br>Maillot Vert                |
+| 2025  | [[Tour de France]] - 6e étape        | Maillot Vert |                                              |
+| 2025  | [[Tour de France]] - 8e étape        | 1ier  🥇     | Sprint Massif<br>Maillot Vert                |
+| 2025  | [[Tour de France]] - 9e étape        | 3e           | Sprint Massif                                |
+| 2025  | [[Tour de France]] - 17e étape       | 1ier  🥇     | Sprint Massif avec une partie des sprinteurs |
+| 2025  | [[Tour de France]] - Maillot Vert    | 1ier 🥇      |                                              |
+| 2025  | [[Critérium d'Herentals]]            | 2e           |                                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -6,3 +6,7 @@ Sortie en 1979, ce film est le premier d'une longue série qui continue encore a
 # Citations
 - "Ne la touche pas, sale pute !"
 - "Etre dans les marines, c'est comme des vacances à la ferme. Chaque mission est une partie de plaisir"
+
+# Timeline
+
+![[Pasted image 20250820123742.png]]

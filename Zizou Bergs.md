@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition             | Résultat  | Remarque |
 | ----- | ----------------------- | --------- | -------- |
 | 2025  | [[Tournoi de Rosmalen]] | Finaliste |          |
+| 2025  | [[US Open]]             | 3e tour   |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

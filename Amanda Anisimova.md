@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition              | Résultat  | Remarque |
 | ----- | ------------------------ | --------- | -------- |
 | 2025  | [[Tournoi de Wimbledon]] | Finaliste |          |
+| 2025  | [[US Open]]              | Finaliste |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

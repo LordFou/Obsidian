@@ -2,7 +2,7 @@
 type: matos
 ---
 
-# XBox One
+# Xbox One
 
 ## Informations principales
 - Fabricant : {{Nom du fabricant}}

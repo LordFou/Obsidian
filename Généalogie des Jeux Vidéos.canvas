@@ -8,12 +8,19 @@
 		{"id":"06561c0413e50c8b","type":"text","text":"[[Franchise Halo]]","x":-801,"y":-137,"width":250,"height":60},
 		{"id":"fffbb2cc31e661da","type":"text","text":"[[Franchise Devil May Cry]]","x":-518,"y":-137,"width":269,"height":60},
 		{"id":"7daaf4445d5b5231","type":"text","text":"[[Franchise GTA]]","x":-801,"y":-60,"width":250,"height":60},
-		{"id":"7b6e696b42f97163","type":"text","text":"[[Franchise Resident Evil]]","x":-518,"y":-60,"width":269,"height":60}
+		{"id":"7b6e696b42f97163","type":"text","text":"[[Franchise Resident Evil]]","x":-518,"y":-60,"width":269,"height":60},
+		{"id":"3f1bf8f4568b256c","type":"text","text":"[[Donkey Kong]]","x":-58,"y":-719,"width":178,"height":50},
+		{"id":"3e3a516ec965bd42","type":"text","text":"[[Pac-Man]]","x":140,"y":-719,"width":140,"height":50},
+		{"id":"bbe28bbb8442dd17","type":"text","text":"[[Crazy Climber]]","x":300,"y":-720,"width":171,"height":50},
+		{"id":"442d812ad837a1a6","x":137,"y":-565,"width":163,"height":50,"type":"text","text":"[[Miner 2049er]]"}
 	],
 	"edges":[
 		{"id":"4a18a36038fad2b6","fromNode":"5ee6d9504f663625","fromSide":"bottom","toNode":"ba5a91f9b58b8e46","toSide":"top"},
 		{"id":"b70bdb5c05fe9cd2","fromNode":"35047186ed62d3f5","fromSide":"bottom","toNode":"4f2f792f4b3e48bb","toSide":"top"},
 		{"id":"5e3edeaeeba8f178","fromNode":"35047186ed62d3f5","fromSide":"bottom","toNode":"fbf1007b8f2f3662","toSide":"top"},
-		{"id":"60161c2400eec7ec","fromNode":"ba5a91f9b58b8e46","fromSide":"bottom","toNode":"35047186ed62d3f5","toSide":"top"}
+		{"id":"60161c2400eec7ec","fromNode":"ba5a91f9b58b8e46","fromSide":"bottom","toNode":"35047186ed62d3f5","toSide":"top"},
+		{"id":"6fc685e1fa5d37c6","fromNode":"3f1bf8f4568b256c","fromSide":"bottom","toNode":"442d812ad837a1a6","toSide":"top"},
+		{"id":"d578ae9ca87f505d","fromNode":"3e3a516ec965bd42","fromSide":"bottom","toNode":"442d812ad837a1a6","toSide":"top"},
+		{"id":"262d13c9ddbaca4e","fromNode":"bbe28bbb8442dd17","fromSide":"bottom","toNode":"442d812ad837a1a6","toSide":"top"}
 	]
 }

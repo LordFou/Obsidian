@@ -31,6 +31,8 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Resident Evil 4]]
+		- Les monstres et leur effet "Wahou, il est énooorme"
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

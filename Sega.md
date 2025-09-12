@@ -8,7 +8,7 @@ type: societe
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
 
 ## Informations Générales
-- **Nom complet** :  
+- **Nom complet** :  SErvice GAmes (SEGA)
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
@@ -24,9 +24,10 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre          | Genre        | Plateformes           |
-| ----- | -------------- | ------------ | --------------------- |
-| 1994  | [[Virtua Cop]] | Rail Shooter | PC, PS5, Xbox, Switch |
+| Année | Titre                          | Genre        | Plateformes           |
+| ----- | ------------------------------ | ------------ | --------------------- |
+| 1994  | [[Virtua Cop]]                 | Rail Shooter | PC, PS5, Xbox, Switch |
+| 2025  | [[Shinobi - Art of Vengeance]] | Plateforme   |                       |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

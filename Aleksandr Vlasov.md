@@ -9,7 +9,7 @@ type: personne
 - **Nationalité** :  Russe
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Bora]]
+- **Équipe(s) / Club(s)** :  [[Bora Redbull]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions

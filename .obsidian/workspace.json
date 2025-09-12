@@ -6,19 +6,79 @@
       {
         "id": "b791b435e05f877b",
         "type": "tabs",
+        "dimension": 62.82131661442006,
         "children": [
           {
-            "id": "412225c8daea4a08",
+            "id": "006b6543eb5153f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-07-17.md",
+                "file": "Journal de bord/2025-09-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-17"
+              "title": "2025-09-12"
+            }
+          },
+          {
+            "id": "d2cf42266ef44c3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coppa Sabatini.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Coppa Sabatini"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "cdcac3bbc786d45a",
+        "type": "tabs",
+        "dimension": 37.17868338557994,
+        "children": [
+          {
+            "id": "a54d1ece9dd63bd7",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Coppa Sabatini.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "path:-jour",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1.50364583333333,
+                  "lineSizeMultiplier": 1.75885416666667,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224431,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graphique de Coppa Sabatini"
             }
           }
         ]
@@ -40,12 +100,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Isaac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "extraContext": true,
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "Rechercher"
@@ -65,32 +125,22 @@
             }
           },
           {
-            "id": "e8cf4004bf6c4ec3",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Signet"
-            }
-          },
-          {
             "id": "bab163f298354a9b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elise Mertens.md",
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Ubisoft.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "extre",
+                "searchQuery": "Mortal Sin",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Elise Mertens"
+              "title": "Rétrolien pour Ubisoft"
             }
           },
           {
@@ -99,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elise Mertens.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Death Stranding 2 - On the Beach.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Elise Mertens"
+              "title": "Liens sortants de Death Stranding 2 - On the Beach"
             }
           },
           {
@@ -118,32 +168,47 @@
             }
           },
           {
-            "id": "d45d58f9b4b907d0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "68c628d38f8bddd5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Rune Factory - Guardians of Azuma.md",
+                "file": "ArcticRace.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Rune Factory - Guardians of Azuma"
+              "title": "Plan de ArcticRace"
             }
           },
           {
-            "id": "e3144d53b0f45b57",
+            "id": "6d294a252d82d0cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5
+  },
+  "right": {
+    "id": "2a4328d55d7357ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "f20ec018f1832915",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7915efa1605c471",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -156,25 +221,27 @@
               "icon": "lucide-tags",
               "title": "Mots-clés"
             }
+          },
+          {
+            "id": "7d8a3532b8d1055a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
-    "direction": "horizontal",
-    "width": 341.5
-  },
-  "right": {
-    "id": "2a4328d55d7357ae",
-    "type": "split",
-    "children": [],
     "direction": "horizontal",
     "width": 245.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
+      "bases:Create new base": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -182,58 +249,63 @@
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "markdown-importer:Ouvrir l'importateur Markdown": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "412225c8daea4a08",
+  "active": "a47971b47ce877f4",
   "lastOpenFiles": [
-    "Journal de bord/2025-07-17.md",
-    "Samuele Privitera.md",
-    "Décès dans le peloton.md",
-    "Attachments/Pasted image 20250717131358.png",
-    "Tour du Val d'Aoste.md",
-    "Journal de bord/2025-07-16.md",
-    "Arnaud de Lie.md",
-    "Attachments/Pasted image 20250717000808.png",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The King is Watching.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Drifter.md",
-    "Powerhoof.md",
-    "Dave Lloyd.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Becoming Saint.md",
-    "Open Lab Games.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Arashi Gaiden.md",
-    "Wired Dreams Studio.md",
-    "Statera Studio.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Kaizen - A Factory Story.md",
-    "Coincidence.md",
-    "Loisirs/Jeux Vidéos/Périphériques/8BitDo Pro 3.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Len's Island.md",
-    "Flow Studio.md",
-    "Attachments/Pasted image 20250716232815.jpg",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Crown Gambit.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/ABYSSAL BLADE.md",
-    "Attachments/Pasted image 20250716232311.jpg",
-    "Vifer Games.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Bellfortis.md",
-    "Attachments/Pasted image 20250716231938.jpg",
-    "Rake in Grass.md",
-    "Attachments/Pasted image 20250716231229.jpg",
-    "Attachments/Pasted image 20250716003129.png",
-    "Attachments/Pasted image 20250715122554.jpg",
-    "Attachments/Pasted image 20250715121848.jpg",
-    "Attachments/Pasted image 20250714211428.png",
+    "TEST GIT.md",
+    "Journal de bord/2025-09-12.md",
+    "Isaac Del Toro.md",
+    "Coppa Sabatini.md",
+    "Championnat National Italien de Cyclisme.md",
+    "Filippo Ganna.md",
+    "Attachments/image-23.webp",
+    "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+    "Détermination du genre humain.md",
+    "World Athletics.md",
+    "Journal de bord/2025-09-11.md",
+    "Loisirs/Lotte Kopecky.md",
+    "Tour de l’Ardèche.md",
+    "Championnats du monde d'athlétisme.md",
+    "Belgian Waffles.md",
+    "Hamza Sriri.md",
+    "Giulio Pellizzari.md",
+    "Kim Clijsters.md",
+    "Attachments/image-22.webp",
+    "Tennis.md",
+    "Attachments/image-21.webp",
+    "US Open.md",
+    "Journal de bord/2025-09-10.md",
+    "Championnats du Monde de Mountainbike.md",
+    "Victor Koretzky.md",
+    "Attachments/image-20.webp",
+    "Attachments/image-19.webp",
+    "1LastGame.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Stalker 2.md",
+    "Attachments/image-18.webp",
+    "Attachments/image-17.webp",
+    "Attachments/image-16.webp",
+    "Jens Schuermans.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Silent Hill F.md",
+    "Attachments/image-15.webp",
+    "Attachments/image-14.webp",
     "Généalogie des Jeux Vidéos.canvas",
+    "Historique Jeu Vidéo.canvas",
+    "Génération des consoles de jeux vidéo.canvas",
+    "Loisirs/Jeux Vidéos/Généalogie Mr Driller.canvas",
+    "Attachments/Download.mp4",
     "Loisirs/Jeux Vidéos/Livres",
     "Loisirs/Jeux Vidéos/Généalogie Société.canvas",
     "Sans titre",
-    "Loisirs/Jeux Vidéos/Généalogie Mr Driller.canvas",
     "Loisirs/Internet",
     "Loisirs/Musique",
     "Culture",
     "Loisirs",
     "Famille/Papa Del",
     "Famille/Fêtes",
-    "Maison/Travaux",
-    "Maison"
+    "Maison/Travaux"
   ]
 }

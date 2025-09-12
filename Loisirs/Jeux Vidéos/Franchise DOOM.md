@@ -1,3 +1,6 @@
+---
+type: game
+---
 
 # Franchise DOOM
 
@@ -12,12 +15,19 @@
 ## Résumé et historique
 {{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
 
+```timeline-labeled
+[line-5, body-2]
+date:  
+title: 
+content:
+```
 ## Jeux principaux
-| Titre | Année | Plateformes | Remarque |
-|-------|-------|------------|----------|
-| {{Nom du jeu 1}} | {{Année}} | {{Plateformes}} | {{Info notable}} |
-| {{Nom du jeu 2}} | {{Année}} | {{Plateformes}} | {{Info notable}} |
-| {{Nom du jeu 3}} | {{Année}} | {{Plateformes}} | {{Info notable}} |
+| Titre                    | Année | Plateformes | Remarque |
+| ------------------------ | ----- | ----------- | -------- |
+| [[Doom]]                 | 2016  |             |          |
+| [[Doom Eternal]]         | 2018  |             |          |
+| [[Doom - The Dark Ages]] | 2025  |             |          |
+
 
 ## Mécaniques et innovations
 {{Description des éléments de gameplay marquants, des innovations techniques et de ce qui rend la franchise unique.}}

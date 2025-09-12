@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-23.webp|500x281]]
 # Filippo Ganna
 
 # Informations Générales
@@ -13,9 +13,12 @@ type: personne
 - **Période d’activité** :  [[Ineos]]
 
 # Palmarès et Distinctions
-| Année | Compétition        | Résultat | Remarque  |
-| ----- | ------------------ | -------- | --------- |
-| 2025  | [[Tour de France]] | Abandon  | Sur chute |
+| Année | Compétition                                        | Résultat | Remarque  |
+| ----- | -------------------------------------------------- | -------- | --------- |
+| 2025  | [[Championnat National Italien de Cyclisme]] - CLM | 1ier     |           |
+| 2025  | [[Tour de France]]                                 | Abandon  | Sur chute |
+| 2025  | [[Tour d'Espagne]] - 18e étape                     | 1ier     | CLM       |
+|       |                                                    |          |           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

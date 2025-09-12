@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition                             | Résultat | Remarque     |
+| ----- | --------------------------------------- | -------- | ------------ |
+| 2024  | [[Tour d'Allemagne]] - Classement final | 1ier     |              |
+| 2025  | [[Tour de France]] - 16e étape          | 4e       | Mont-Ventoux |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -30,7 +30,13 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-- **Influencé par** :
+- **Influencé par** : 
+	- [[Resident Evil 4]]
+		- Les monstres invincibles
+		- Les nécromorphes
+		- Le réticule en petit point rouge projeté
+		- La visée avec maintien d'un bouton pressé
+		- La vue caméra sur l'épaule
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

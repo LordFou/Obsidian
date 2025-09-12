@@ -1,3 +1,6 @@
+---
+type: societe
+---
 # Taïto
 
 ## Présentation

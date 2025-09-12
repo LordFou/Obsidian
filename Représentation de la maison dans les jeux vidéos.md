@@ -1,0 +1,8 @@
+- [[Blue Prince]]
+- Layer of Fear
+- [[Animal Crossing]]
+- Stardew Valley
+- House Flipper
+- Dark Pictures - A devil in me
+- Alone in the dark
+- [[Resident Evil]]

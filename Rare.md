@@ -8,16 +8,20 @@ type: societe
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
 
 ## Informations Générales
-- **Nom complet** :  
-- **Date de création** :  
-- **Fondateurs** :  
-- **Personnalités** :
+- **Nom complet** :  Rare Software
+- **Date de création** :  1985
+- **Fondateurs** :  [[Tim Stamper|Tim]] et [[Chris Stamper]]
+- **Personnalités** : 
 - **Pays d’origine** :  Angleterre (Twycross)
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
 ```timeline-labeled
 [line-5, body-2]
+date: 4 août 1985
+title: Création de l'entreprise par les frères Stamper![[Pasted image 20250804225454.png]]
+content: Un tout nouveau studio ambitieux, pensé pour se consacrer aux consoles de jeux vidéo, déjà bien établies au Japon et prêtes à conquérir le reste du monde.
+
 date: ?
 title: Racheté par [[Microsoft]]
 content: Mais garde son nom de studio
@@ -29,6 +33,13 @@ content: Mais garde son nom de studio
 | 1994  | [[Killer Instinct]]     |            |             |
 | 1994  | [[Donkey Kong Country]] | Plateforme | SNES        |
 | 1997  | [[GoldenEye 007]]       | Action     | Nintendo 64 |
+|       | Banjo-Kazooie           |            |             |
+|       | Star Fox Adventures     |            |             |
+|       | Diddy Kong Racing       |            |             |
+|       | Perfect Dark            |            |             |
+|       | Conquer                 |            |             |
+|       | Battletoads             |            |             |
+|       | Sea of Thieves          |            |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

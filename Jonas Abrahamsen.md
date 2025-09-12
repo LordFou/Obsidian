@@ -15,8 +15,11 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                           | Résultat | Remarque          |
 | ----- | ------------------------------------- | -------- | ----------------- |
+| 2024  | [[Brussels Cycling Classic]]          | 1ier     |                   |
 | 2024  | [[Tour de France]] - Maillot Montagne | 10 jours | Au début du tour  |
 | 2025  | [[Tour de France]] - 11e étape        | 1ier     | Combattif du jour |
+| 2025  | [[Circuit Franco-Belge]]              | 1ier     |                   |
+| 2025  | [[Muur Classic]]                      | 1ier     |                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

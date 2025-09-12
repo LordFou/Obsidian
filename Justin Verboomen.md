@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[8ede06ecd4c633266fdced4089d42ddd-1756481345.webp]]
 # Justin Verboomen
 
 # Informations Générales
@@ -13,9 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                | Résultat | Remarque |
-| ----- | ---------------------------------------------------------- | -------- | -------- |
-| 2025  | Grand Prix Freestyle au Festival mondial d'Aix-la-Chapelle | 1ier     | 89,4 %   |
+| Année | Compétition                                                | Résultat | Remarque       |
+| ----- | ---------------------------------------------------------- | -------- | -------------- |
+| 2025  | Grand Prix Freestyle au Festival mondial d'Aix-la-Chapelle | 1ier     | 89,4 %         |
+| 2025  | [[Championnats d’Europe de dressage]] - Grand Prix Spécial | 1ier     | 82.371 %       |
+| 2025  | [[Championnats d’Europe de dressage]] - Freestyle          | 1ier     | 89.964 %       |
+| 2025  | [[Championnats d’Europe de dressage]] - Individuel         | 1ier     |                |
+| 2025  | Classement Mondial                                         | 1ier     | Septembre 2025 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

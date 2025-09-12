@@ -18,6 +18,7 @@ type: personne
 | 2025  | [[Critérium du Dauphiné]] - Maillot de la montagne | 1ier              |          |
 | 2025  | [[Championnat de France de Cyclisme]] - CLM        | 1ier              |          |
 | 2025  | [[Tour de France]] - 2e étape                      | Combattif du jour |          |
+| 2025  | [[Tour de France]] - 12e étape                     | Combattif du jour |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -9,14 +9,16 @@ type: personne
 - **Nationalité** :  Allemand
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Bora]]
+- **Équipe(s) / Club(s)** :  [[Bora Redbull]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                               | Résultat | Remarque                     |
-| ----- | ----------------------------------------- | -------- | ---------------------------- |
-| 2025  | [[Critérium du Dauphiné]] - 6e étape      | 3e       | Derriere Pogacar, Vingegaard |
-| 2025  | [[Critérium du Dauphiné]] - Maillot Blanc | 1e       |                              |
+| Année | Compétition                                | Résultat | Remarque                     |
+| ----- | ------------------------------------------ | -------- | ---------------------------- |
+| 2025  | [[Critérium du Dauphiné]] - 6e étape       | 3e       | Derriere Pogacar, Vingegaard |
+| 2025  | [[Critérium du Dauphiné]] - Meilleur Jeune | 1ier 🥇  |                              |
+| 2025  | [[Tour de France]] - 14e étape             | 4e       | Maillot Blanc                |
+| 2025  | [[Tour de France]] - Meilleur Jeune        | 1ier 🥇  |                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

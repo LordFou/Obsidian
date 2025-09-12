@@ -1,0 +1,2 @@
+- Sylvain nous a invité chez lui le 15/08/2025 (Auberge Espagnole)
+	- On pourrait l'inviter une fois en même temps que les Bastin ou Seb & Marie ?

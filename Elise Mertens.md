@@ -13,15 +13,18 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                       | Résultat     | Remarque                           |
-| ----- | --------------------------------- | ------------ | ---------------------------------- |
-| 2019  | [[US Open]] - Double              | Vainqueur    | avec [[Aryna Sabalenka]]           |
-| 2021  | [[Open d'Australie]] - Double     | Vainqueur    | avec [[Aryna Sabalenka]]           |
-| 2021  | [[Tournoi de Wimbledon]] - Double | Vainqueur    | avec [[Su-Wei Hsieh]]              |
-| 2024  | [[Open d'Australie]] - Double     | Vainqueur    | avec [[Su-Wei Hsieh]]              |
-| 2025  | [[Tournoi de Rosmalen]] - Simple  | Vainqueur    | 10e titre en simple                |
-| 2025  | [[Tournoi de Wimbledon]] - Simple | 8e de finale |                                    |
-| 2025  | [[Tournoi de Wimbledon]] - Double | Vainqueur    | 5e titre de grand chelem en double |
+| Année | Compétition                       | Résultat     | Remarque                                                            |
+| ----- | --------------------------------- | ------------ | ------------------------------------------------------------------- |
+| 2019  | [[US Open]] - Double              | Vainqueur    | avec [[Aryna Sabalenka]]                                            |
+| 2021  | [[Open d'Australie]] - Double     | Vainqueur    | avec [[Aryna Sabalenka]]                                            |
+| 2021  | [[Tournoi de Wimbledon]] - Double | Vainqueur    | avec [[Su-Wei Hsieh]]                                               |
+| 2024  | [[Open d'Australie]] - Double     | Vainqueur    | avec [[Su-Wei Hsieh]]                                               |
+| 2025  | [[Tournoi de Rosmalen]] - Simple  | Vainqueur    | 10e titre en simple                                                 |
+| 2025  | [[Tournoi de Wimbledon]] - Simple | 8e de finale |                                                                     |
+| 2025  | [[Tournoi de Wimbledon]] - Double | Vainqueur    | 5e titre de grand chelem en double<br>avec [[Veronika Kudermetova]] |
+| 2025  | [[US Open]] - Simple              | 3e tour      |                                                                     |
+| 2025  | [[US Open]] - Double              | Demi-finale  | avec [[Veronika Kudermetova]]                                       |
+|       |                                   |              |                                                                     |
 
 # Style et Caractéristiques
 - C'est une joueuse très équilibrée et régulière qui intègre en juin 2025 le club très fermé des joueuses qui ont gagné un tournoi sur les 3 types de surface.
