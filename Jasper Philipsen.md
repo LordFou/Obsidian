@@ -11,6 +11,7 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  [[Alpecin]]
 - **Période d’activité** :  
+- **
 
 # Palmarès et Distinctions
 | Année | Compétition                                                              | Résultat | Remarque                                                  |     |
