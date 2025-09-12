@@ -9,7 +9,7 @@
         "dimension": 62.82131661442006,
         "children": [
           {
-            "id": "006b6543eb5153f6",
+            "id": "d2cf42266ef44c3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,23 +21,8 @@
               "icon": "lucide-file",
               "title": "2025-09-12"
             }
-          },
-          {
-            "id": "d2cf42266ef44c3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coppa Sabatini.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Coppa Sabatini"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cdcac3bbc786d45a",
@@ -50,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Coppa Sabatini.md",
+                "file": "Journal de bord/2025-09-12.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -78,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Coppa Sabatini"
+              "title": "Graphique de 2025-09-12"
             }
           }
         ]
@@ -193,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -228,8 +213,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -241,6 +226,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
       "bases:Create new base": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
@@ -250,16 +237,15 @@
       "command-palette:Ouvrir la palette de commandes": false,
       "markdown-importer:Ouvrir l'importateur Markdown": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a47971b47ce877f4",
+  "active": "d2cf42266ef44c3f",
   "lastOpenFiles": [
+    "Coppa Sabatini.md",
     "TEST GIT.md",
     "Journal de bord/2025-09-12.md",
     "Isaac Del Toro.md",
-    "Coppa Sabatini.md",
     "Championnat National Italien de Cyclisme.md",
     "Filippo Ganna.md",
     "Attachments/image-23.webp",
