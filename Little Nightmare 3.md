@@ -35,7 +35,7 @@ type: game
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
-- **Comparable à** :
+- **Comparable à** : [[REANIMAL]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
