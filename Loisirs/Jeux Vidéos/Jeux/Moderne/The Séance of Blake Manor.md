@@ -11,9 +11,9 @@ type: game
 	- Studio : [[Spooky Doorway]]
 	- Personnalités : 
 - **Éditeur** : [[Raw Fury]]
-- **Plateformes** : 
+- **Plateformes** : PC
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Enquête]]
 - **Résumé** : Jeu d'investigation surnaturelle prenant place en Irlande en 1897. Vous y enquêtez sur la disparition d'Evelyn Deane dans un hôtel isolé regorgeant de secrets et de phénomènes paranormaux
 
 ## Détails Techniques
@@ -22,11 +22,12 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
+	- C
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : Irlande
-- **Epoque** : 
+- **Lieu(x)** : [[Irlande]], [[Manoir]]
+- **Epoque** : 1897
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
@@ -40,4 +41,4 @@ type: game
 | Description | URL                                         |
 | ----------- | ------------------------------------------- |
 | Trailer     | https://www.youtube.com/watch?v=0uvnNGFFDzs |
-![[image-28.webp|500x281
+![[image-28.webp|500x281]]
