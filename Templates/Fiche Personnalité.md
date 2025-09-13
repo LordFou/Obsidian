@@ -51,7 +51,7 @@ results.sort((a, b) => {
 const tableData = results.map(item => [item.link]);
 
 if (tableData.length > 0) {
-    dv.table(["A travaillé pour/avec/sur"], tableData);
+    dv.table(["A travaillé pour/avec/sur/est lié à"], tableData);
 }
 
 ```

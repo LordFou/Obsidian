@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Françoise Cadol.md",
+                "file": "Templates/Fiche Personnalité.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Françoise Cadol"
+              "title": "Fiche Personnalité"
             }
           }
         ],
@@ -50,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Françoise Cadol.md",
+                "file": "Templates/Fiche Personnalité.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Françoise Cadol"
+              "title": "Graphique de Fiche Personnalité"
             }
           }
         ]
@@ -268,8 +268,8 @@
   },
   "active": "9db91c1af606afea",
   "lastOpenFiles": [
-    "Franchise Tomb Raider.md",
     "Françoise Cadol.md",
+    "Franchise Tomb Raider.md",
     "Intelligence Artificielle.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Star Wars Outlaws.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Assassin's Creed Shadows.md",
