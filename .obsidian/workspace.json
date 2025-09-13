@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vuel",
+                "query": "moutainbike",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,8 +177,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -251,7 +250,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9db91c1af606afea",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
     "Attachments/image-36.webp",
     "Journal de bord/2025-09-13.md",
