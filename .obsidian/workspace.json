@@ -9,17 +9,13 @@
         "dimension": 65.65272496831433,
         "children": [
           {
-            "id": "9db91c1af606afea",
+            "id": "2f14f4e7710cc30d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tour d'Espagne"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -35,7 +31,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +58,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Tour d'Espagne"
+              "title": "Vue graphique"
             }
           }
         ]
@@ -115,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Tour d'Espagne"
+              "title": "Rétroliens"
             }
           },
           {
@@ -250,8 +244,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9db91c1af606afea",
+  "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "Championnats du Monde de Mountainbike.md",
     "Jenny Rissveds.md",
     "Tim Van de Velde.md",
@@ -269,7 +264,6 @@
     "Helena Ponette.md",
     "Imke Vervaet.md",
     "Attachments/image-34.webp",
-    "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "Jonas Vingegaard.md",
     "Jonathan Sacoor.md",
     "Championnats du monde d'athlétisme.md",
