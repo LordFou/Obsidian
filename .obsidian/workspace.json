@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Françoise Cadol.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Mafia - The Old Country.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Françoise Cadol"
+              "title": "Mafia - The Old Country"
             }
           }
         ],
@@ -50,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Françoise Cadol.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Mafia - The Old Country.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Françoise Cadol"
+              "title": "Graphique de Mafia - The Old Country"
             }
           }
         ]
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Mafia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -192,8 +192,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -268,10 +267,10 @@
   },
   "active": "9db91c1af606afea",
   "lastOpenFiles": [
-    "Templates/Fiche Personnalité.md",
-    "Françoise Cadol.md",
-    "Franchise Tomb Raider.md",
     "Intelligence Artificielle.md",
+    "Françoise Cadol.md",
+    "Templates/Fiche Personnalité.md",
+    "Franchise Tomb Raider.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Star Wars Outlaws.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Assassin's Creed Shadows.md",
     "Loisirs/Jeux Vidéos/Périphériques/Nintendo Game Key Card.md",

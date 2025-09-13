@@ -61,7 +61,7 @@ if (tableData.length > 0) {
 Lister les prix et reconnaissances obtenues.
 
 ## Controverses ou Faits Marquants
-- En 2025, les développeurs d'une compilation des Tomb Raider 4-5-6 ont utilisé une IA pour générer sa voix 
+- En 2025, les développeurs d'une compilation des Tomb Raider 4-5-6 ont utilisé une [[Intelligence Artificielle]] pour générer sa voix 
 
 ## Sources et Références
 - [Lien vers une source](#)
