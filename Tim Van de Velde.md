@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-36.webp|500x323]]
 # Tim Van de Velde
 
 # Informations Générales
