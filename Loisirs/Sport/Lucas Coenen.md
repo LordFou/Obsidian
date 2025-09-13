@@ -18,6 +18,7 @@ type: personne
 | 2025  | Grand Prix de France             | 2e       | A égalité de points après les 2 manches               |
 | 2025  | Course qualificative en Finlande | 1ier     |                                                       |
 | 2025  | Grand Prix de Finlande           | 1ier     |                                                       |
+| 2025  | Grand Prix de Chine              | 7e       | Mauvaise opération au général                         |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
