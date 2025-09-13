@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition | Résultat | Remarque                                |
-| ----- | ----------- | -------- | --------------------------------------- |
-| 2025  | [[US Open]] | 3e tour  | 2 premières victoires en grand chelem ! |
+| Année | Compétition     | Résultat       | Remarque                                |
+| ----- | --------------- | -------------- | --------------------------------------- |
+| 2025  | [[US Open]]     | 3e tour        | 2 premières victoires en grand chelem ! |
+| 2025  | [[Coupe Davis]] | 2e tour qualif |                                         |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
