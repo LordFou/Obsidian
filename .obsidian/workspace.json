@@ -191,7 +191,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -264,7 +265,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9db91c1af606afea",
+  "active": "acbfcced6e5eac9a",
   "lastOpenFiles": [
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "Journal de bord/2025-09-13.md",

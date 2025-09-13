@@ -8,20 +8,22 @@ type: personne
 - **Date de naissance** :  
 - **Nationalité** :  Danois
 - **Sport / Discipline** :  [[Cyclisme]]
-- **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Poste / Spécialité** (si applicable) :  Coureur de tour
+- **Équipe(s) / Club(s)** :  [[Visma]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
 | Année | Compétition                           | Résultat | Remarque                   |
 | ----- | ------------------------------------- | -------- | -------------------------- |
+| ?     | [[Tour de France]]                    | 1ier     |                            |
+| ?     | [[Tour de France]]                    | 1ier     |                            |
 | 2024  | [[Tour de France]] - Classement final | 2e       |                            |
 | 2025  | [[Tour d'Espagne]] - 2e étape         | 1ier     | :luc_plus: Maillot Général |
 | 2025  | [[Tour d'Espagne]] - 9e étape         | 1ier     |                            |
 | 2025  | [[Tour d'Espagne]] - 20e étape        | 1ier     |                            |
 
 # Style et Caractéristiques
-Décrire le style de jeu, les points forts/faibles, les particularités.
+- 
 
 # Records et Faits Marquants
 Lister les records battus, les moments légendaires ou les anecdotes notables.
