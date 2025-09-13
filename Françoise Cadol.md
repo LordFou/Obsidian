@@ -6,7 +6,7 @@ type: personne
 
 ## Présentation
 - Très active dans le doublage, elle est la voix française régulière de [[Sandra Bullock]], [[Angelina Jolie]]
-- Elle est également connue pour avoir prêté sa voix à de nombreux personnages du jeu vidéo, dont notamment à [[Lara Croft]] dans les jeux [[Franchise Tomb Raider|Tomb Raider]] entre 1996 et 2008. Elle est également la voix de l'avocate [[Kate Walker]] dans la quadrilogie [[Syberia]] (2001-2022) de [[Benoît Sokal]] ainsi que celle de Madison Paige dans Heavy Rain.
+- Elle est également connue pour avoir prêté sa voix à de nombreux personnages du jeu vidéo, dont notamment à [[Lara Croft]] dans les jeux [[Franchise Tomb Raider|Tomb Raider]] entre 1996 et 2008. Elle est également la voix de l'avocate [[Kate Walker]] dans la quadrilogie [[Syberia]] (2001-2022) de [[Benoît Sokal]] ainsi que celle de [[Madison Paige]] dans [[Heavy Rain]].
 
 ## Informations Générales
 - **Date de naissance** :  
