@@ -26,6 +26,7 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Sicile]]
 - **Epoque** : 
 	- Prequel du 1,2,3
 - **Personnages principaux** : 
