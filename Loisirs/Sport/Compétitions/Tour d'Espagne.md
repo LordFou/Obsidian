@@ -34,12 +34,13 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 | 17e (ITA)     | [[Giulio Pellizzari]] | [[Jonas Vingegaard]] |                      |                      | [[Giulio Pellizzari]] |                                                                                  |
 | 18e (ITA)     | [[Filippo Ganna]]     | [[Jonas Vingegaard]] |                      |                      |                       |                                                                                  |
 | ==19e (BEL)== | [[Jasper Philipsen]]  | [[Jonas Vingegaard]] |                      |                      |                       |                                                                                  |
-|               |                       |                      |                      |                      |                       |                                                                                  |
+| 20e (DAN)     | [[Jonas Vingegaard]]  | [[Jonas Vingegaard]] |                      |                      |                       |                                                                                  |
 #### General
-| Année | Vainqueur           | Nationalité | Remarque |
-| ----- | ------------------- | ----------- | -------- |
-| 2018  | [[Simon Yates]]     | Anglais     |          |
-| 2022  | [[Remco Evenepoel]] | Belge       |          |
+| Année | Vainqueur            | Nationalité | Remarque |
+| ----- | -------------------- | ----------- | -------- |
+| 2018  | [[Simon Yates]]      | Anglais     |          |
+| 2022  | [[Remco Evenepoel]]  | Belge       |          |
+| 2025  | [[Jonas Vingegaard]] | Danois      |          |
 ### Femmes
 #### Etapes 
 
