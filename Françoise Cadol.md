@@ -5,7 +5,8 @@ type: personne
 # Françoise Cadol
 
 ## Présentation
-- Très active dans le [doublage](https://fr.wikipedia.org/wiki/Doublage "Doublage"), elle est la voix française régulière de [Sandra Bullock](https://fr.wikipedia.org/wiki/Sandra_Bullock "Sandra Bullock"), [Angelina Jolie](https://fr.wikipedia.org/wiki/Angelina_Jolie "Angelina Jolie"), [Tilda Swinton](https://fr.wikipedia.org/wiki/Tilda_Swinton "Tilda Swinton"), [Gong Li](https://fr.wikipedia.org/wiki/Gong_Li "Gong Li") et [Rose Byrne](https://fr.wikipedia.org/wiki/Rose_Byrne "Rose Byrne") mais aussi de [Brenda Strong](https://fr.wikipedia.org/wiki/Brenda_Strong "Brenda Strong"), [Patricia Arquette](https://fr.wikipedia.org/wiki/Patricia_Arquette "Patricia Arquette"), [Michaela McManus](https://fr.wikipedia.org/wiki/Michaela_McManus "Michaela McManus") et [Jill Hennessy](https://fr.wikipedia.org/wiki/Jill_Hennessy "Jill Hennessy").
+- Très active dans le doublage, elle est la voix française régulière de [[Sandra Bullock]], [[Angelina Jolie]]
+- Elle est également connue pour avoir prêté sa voix à de nombreux personnages du jeu vidéo, dont notamment à Lara Croft dans les jeux Tomb Raider entre 1996 et 2008 ainsi que dans les spin off Lara Croft and the Guardian of Light et Lara Croft and the Temple of Osiris[2]. Elle est également la voix de l'avocate Kate Walker dans la quadrilogie Syberia (2001-2022) de Benoît Sokal ainsi que celle de Madison Paige dans Heavy Rain.
 
 ## Informations Générales
 - **Date de naissance** :  
