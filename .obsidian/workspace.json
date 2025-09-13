@@ -6,16 +6,20 @@
       {
         "id": "b791b435e05f877b",
         "type": "tabs",
-        "dimension": 65.65272496831433,
+        "dimension": 76.93282636248415,
         "children": [
           {
             "id": "2f14f4e7710cc30d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Tour d'Espagne"
             }
           }
         ]
@@ -23,7 +27,7 @@
       {
         "id": "cdcac3bbc786d45a",
         "type": "tabs",
-        "dimension": 34.347275031685676,
+        "dimension": 23.067173637515843,
         "children": [
           {
             "id": "a54d1ece9dd63bd7",
@@ -31,6 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -53,12 +58,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224442,
+                  "scale": 0.3628873693012128,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "title": "Graphique de Tour d'Espagne"
             }
           }
         ]
@@ -80,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vuel",
+                "query": "vuelta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +125,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Rétrolien pour Tour d'Espagne"
             }
           },
           {
