@@ -13,10 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition             | Résultat  | Remarque |
-| ----- | ----------------------- | --------- | -------- |
-| 2025  | [[Tournoi de Rosmalen]] | Finaliste |          |
-| 2025  | [[US Open]]             | 3e tour   |          |
+| Année | Compétition               | Résultat              | Remarque |
+| ----- | ------------------------- | --------------------- | -------- |
+| 2025  | [[Tournoi de Rosmalen]]   | Finaliste             |          |
+| 2025  | [[US Open]]               | 3e tour               |          |
+| 2025  | [[Coupe Davis]] - 2e tour | Victoire de son match |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

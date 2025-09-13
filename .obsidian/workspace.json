@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raphaël Collignon.md",
+                "file": "Zizou Bergs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raphaël Collignon"
+              "title": "Zizou Bergs"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Raphaël Collignon.md",
+                "file": "Zizou Bergs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Raphaël Collignon"
+              "title": "Graphique de Zizou Bergs"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raphaël Collignon.md",
+                "file": "Zizou Bergs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Raphaël Collignon"
+              "title": "Rétrolien pour Zizou Bergs"
             }
           },
           {
@@ -254,6 +254,7 @@
   "active": "9db91c1af606afea",
   "lastOpenFiles": [
     "Journal de bord/2025-09-13.md",
+    "Raphaël Collignon.md",
     "Coupe Davis.md",
     "Attachments/image-35.webp",
     "Belgian Waffles.md",
@@ -282,7 +283,6 @@
     "REANIMAL.md",
     "Attachments/image-32.webp",
     "Tarsier Studio.md",
-    "Little Nightmare 3.md",
     "Attachments/image-31.webp",
     "Attachments/image-30.webp",
     "Attachments/image-29.webp",
