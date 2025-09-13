@@ -23,7 +23,8 @@ type: personne
 | 2025  | [[Tour d'Espagne]] - 20e étape        | 1ier     |                            |
 
 # Style et Caractéristiques
-- 
+- On ne le voit jamais sur des courses d'un jour car toute ses saisons sont centrées sur le [[Tour de France]]
+- On lui reproche souvent des courses d'attente.
 
 # Records et Faits Marquants
 Lister les records battus, les moments légendaires ou les anecdotes notables.
