@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+                "file": "Matthew Riccitello.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour d'Espagne"
+              "title": "Matthew Riccitello"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+                "file": "Matthew Riccitello.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Tour d'Espagne"
+              "title": "Graphique de Matthew Riccitello"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+                "file": "Matthew Riccitello.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Tour d'Espagne"
+              "title": "Rétrolien pour Matthew Riccitello"
             }
           },
           {
@@ -253,6 +253,7 @@
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+    "Matthew Riccitello.md",
     "Championnats du Monde de Mountainbike.md",
     "Jenny Rissveds.md",
     "Tim Van de Velde.md",
@@ -281,7 +282,6 @@
     "Attachments/image-33.webp",
     "Intelligence Artificielle.md",
     "Françoise Cadol.md",
-    "Templates/Fiche Personnalité.md",
     "Attachments/image-32.webp",
     "Attachments/image-31.webp",
     "Attachments/image-30.webp",
