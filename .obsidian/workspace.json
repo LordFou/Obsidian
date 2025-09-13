@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intelligence Artificielle.md",
+                "file": "Françoise Cadol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intelligence Artificielle"
+              "title": "Françoise Cadol"
             }
           }
         ],
@@ -50,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Intelligence Artificielle.md",
+                "file": "Françoise Cadol.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Intelligence Artificielle"
+              "title": "Graphique de Françoise Cadol"
             }
           }
         ]
@@ -268,8 +268,9 @@
   },
   "active": "9db91c1af606afea",
   "lastOpenFiles": [
-    "Franchise Tomb Raider.md",
     "Intelligence Artificielle.md",
+    "Françoise Cadol.md",
+    "Franchise Tomb Raider.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Star Wars Outlaws.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Assassin's Creed Shadows.md",
     "Loisirs/Jeux Vidéos/Périphériques/Nintendo Game Key Card.md",
@@ -299,7 +300,6 @@
     "Spooky Doorway.md",
     "Attachments/image-28.webp",
     "Attachments/image-27.webp",
-    "Arnaud de Lie.md",
     "Attachments/image-26.webp",
     "Attachments/image-25.webp",
     "Attachments/image-24.webp",
