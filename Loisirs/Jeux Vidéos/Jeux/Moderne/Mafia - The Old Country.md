@@ -1,16 +1,16 @@
 ---
 type: game
 ---
-
+![[image-33.webp|500x234]]
 # Mafia - The Old Country
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Hangar 13]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[2K]]
 - **Plateformes** : 
 - **Franchise** : [[Mafia]]
 - **Genre** :
@@ -27,6 +27,7 @@ type: game
 ## Histoire et Univers
 - **Lieu(x)** : 
 - **Epoque** : 
+	- Prequel du 1,2,3
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
