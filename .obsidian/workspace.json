@@ -58,7 +58,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3628873693012128,
+                  "scale": 0.5087618855792604,
                   "close": true
                 }
               },
@@ -250,7 +250,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f14f4e7710cc30d",
+  "active": "a54d1ece9dd63bd7",
   "lastOpenFiles": [
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "Matthew Riccitello.md",
