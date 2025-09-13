@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                    | Résultat          | Remarque |
 | ----- | ------------------------------ | ----------------- | -------- |
 | 2025  | [[Tour de France]] - 15e étape | Combattif du jour |          |
+| 2025  | [[Memorial Pantani]]           | 1ier              |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

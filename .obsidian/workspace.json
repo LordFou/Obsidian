@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tour de l’Ardèche.md",
+                "file": "Memorial Pantani.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour de l’Ardèche"
+              "title": "Memorial Pantani"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tour de l’Ardèche.md",
+                "file": "Memorial Pantani.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Tour de l’Ardèche"
+              "title": "Graphique de Memorial Pantani"
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ardèche",
+                "query": "Michael Storer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tour de l’Ardèche.md",
+                "file": "Memorial Pantani.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Tour de l’Ardèche"
+              "title": "Rétrolien pour Memorial Pantani"
             }
           },
           {
@@ -252,8 +252,10 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
-    "Femke De Vries.md",
+    "Michael Storer.md",
+    "Memorial Pantani.md",
     "Tour de l’Ardèche.md",
+    "Femke De Vries.md",
     "Marion Bunel.md",
     "Matthew Riccitello.md",
     "Tour de l'Ardèche.md",
@@ -279,8 +281,6 @@
     "Jonathan Sacoor.md",
     "Championnats du monde d'athlétisme.md",
     "Mafia.md",
-    "Lien vers une autre note.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Mafia - The Old Country.md",
     "Attachments/image-33.webp",
     "Attachments/image-32.webp",
     "Attachments/image-31.webp",
