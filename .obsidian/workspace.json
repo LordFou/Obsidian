@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Femke De Vries.md",
+                "file": "Tour de l’Ardèche.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Femke De Vries"
+              "title": "Tour de l’Ardèche"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Femke De Vries.md",
+                "file": "Tour de l’Ardèche.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Femke De Vries"
+              "title": "Graphique de Tour de l’Ardèche"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Femke De Vries.md",
+                "file": "Tour de l’Ardèche.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Femke De Vries"
+              "title": "Rétrolien pour Tour de l’Ardèche"
             }
           },
           {
@@ -252,8 +252,8 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
-    "Tour de l’Ardèche.md",
     "Femke De Vries.md",
+    "Tour de l’Ardèche.md",
     "Marion Bunel.md",
     "Matthew Riccitello.md",
     "Tour de l'Ardèche.md",
