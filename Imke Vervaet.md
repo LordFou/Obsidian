@@ -2,13 +2,13 @@
 type: personne
 ---
 
-# Jonathan Sacoor
+# Imke Vervaet
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
 - **Sport / Discipline** : [[Athlétisme]] 
-- **Poste / Spécialité** (si applicable) :  4x400m
+- **Poste / Spécialité** (si applicable) : 4x400m  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
