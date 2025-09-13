@@ -177,8 +177,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -250,7 +249,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bab163f298354a9b",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
     "Mafia.md",
     "Journal de bord/2025-09-13.md",
