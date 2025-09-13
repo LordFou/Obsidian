@@ -42,4 +42,4 @@ type: event
 | Année | Vainqueur | Nationalité | Remarque |
 | ----- | --------- | ----------- | -------- |
 | 2025  |           |             |          |
-|       |           |             |     
+|       |           |             |          |

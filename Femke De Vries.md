@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Marion Bunel
+# Femke De Vries
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Frnaçaise
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Nationalité** :  Néérlandaise
+- **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Visma]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                      | Résultat | Remarque      |
-| ----- | -------------------------------- | -------- | ------------- |
-| 2025  | [[Tour de France]] - 8e étape    | 10e      | Maillot Blanc |
-| 2025  | [[Tour de l’Ardèche]] - 5e étape | 1ière    |               |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -32,4 +31,4 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 
 # Sources et Références
 - [Lien vers une source](#)
-- [Article détaillé](#)
+- [Article détaillé](
