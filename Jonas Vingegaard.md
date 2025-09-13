@@ -6,8 +6,8 @@ type: personne
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Nationalité** :  Danois
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
@@ -18,6 +18,7 @@ type: personne
 | 2024  | [[Tour de France]] - Classement final | 2e       |                            |
 | 2025  | [[Tour d'Espagne]] - 2e étape         | 1ier     | :luc_plus: Maillot Général |
 | 2025  | [[Tour d'Espagne]] - 9e étape         | 1ier     |                            |
+| 2025  | [[Tour d'Espagne]] - 20e étape        | 1ier     |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
