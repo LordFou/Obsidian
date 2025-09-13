@@ -6,16 +6,17 @@ type: personne
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
-- **Poste / Spécialité** (si applicable) :  
+- **Nationalité** :  Belge
+- **Sport / Discipline** : [[Athlétisme]] 
+- **Poste / Spécialité** (si applicable) :  4x400m, 400m
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                 | Résultat | Remarque                        |
-| ----- | --------------------------- | -------- | ------------------------------- |
-| 2025  | [[Meeting de Berne]] - 400m | 1ier     | à 1/100 de son record personnel |
+| Année | Compétition                                           | Résultat | Remarque                        |
+| ----- | ----------------------------------------------------- | -------- | ------------------------------- |
+| 2025  | [[Meeting de Berne]] - 400m                           | 1ier     | à 1/100 de son record personnel |
+| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m mixte | 3e       |                                 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

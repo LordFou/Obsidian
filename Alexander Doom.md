@@ -2,13 +2,13 @@
 type: personne
 ---
 
-# Imke Vervaet
+# Alexander Doom
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** : [[Athlétisme]] 
-- **Poste / Spécialité** (si applicable) : 4x400m  
+- **Sport / Discipline** : [[Cyclisme]] 
+- **Poste / Spécialité** (si applicable) :  4x400m
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
