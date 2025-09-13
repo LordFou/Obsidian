@@ -7,15 +7,16 @@ type: personne
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Néérlandaise
-- **Sport / Discipline** :  
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition                      | Résultat | Remarque                   |
+| ----- | -------------------------------- | -------- | -------------------------- |
+| 2025  | [[Tour de l’Ardèche]] - 5e étape | 2e       | :luc_plus: Maillot Général |
+|       |                                  |          |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -31,4 +32,4 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 
 # Sources et Références
 - [Lien vers une source](#)
-- [Article détaillé](
+- [Article détaillé](#)
