@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-09-13.md",
+                "file": "Tim Van de Velde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-13"
+              "title": "Tim Van de Velde"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2025-09-13.md",
+                "file": "Tim Van de Velde.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-09-13"
+              "title": "Graphique de Tim Van de Velde"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal de bord/2025-09-13.md",
+                "file": "Tim Van de Velde.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour 2025-09-13"
+              "title": "Rétrolien pour Tim Van de Velde"
             }
           },
           {
@@ -253,8 +253,9 @@
   },
   "active": "9db91c1af606afea",
   "lastOpenFiles": [
-    "Loisirs/Sport/Lucas Coenen.md",
     "Journal de bord/2025-09-13.md",
+    "Tim Van de Velde.md",
+    "Loisirs/Sport/Lucas Coenen.md",
     "Zizou Bergs.md",
     "Raphaël Collignon.md",
     "Coupe Davis.md",
@@ -281,7 +282,6 @@
     "Templates/Fiche Personnalité.md",
     "Franchise Tomb Raider.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Assassin's Creed Shadows.md",
-    "Loisirs/Jeux Vidéos/Périphériques/Nintendo Game Key Card.md",
     "Attachments/image-32.webp",
     "Attachments/image-31.webp",
     "Attachments/image-30.webp",
