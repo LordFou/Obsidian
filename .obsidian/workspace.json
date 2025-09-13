@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tim Van de Velde.md",
+                "file": "Championnats du Monde de Mountainbike.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tim Van de Velde"
+              "title": "Championnats du Monde de Mountainbike"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tim Van de Velde.md",
+                "file": "Championnats du Monde de Mountainbike.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Tim Van de Velde"
+              "title": "Graphique de Championnats du Monde de Mountainbike"
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "moutainbike",
+                "query": "championnat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tim Van de Velde.md",
+                "file": "Championnats du Monde de Mountainbike.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Tim Van de Velde"
+              "title": "Rétrolien pour Championnats du Monde de Mountainbike"
             }
           },
           {
@@ -177,7 +177,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -250,11 +251,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "acbfcced6e5eac9a",
   "lastOpenFiles": [
+    "Tim Van de Velde.md",
     "Attachments/image-36.webp",
     "Journal de bord/2025-09-13.md",
-    "Tim Van de Velde.md",
     "Loisirs/Sport/Lucas Coenen.md",
     "Zizou Bergs.md",
     "Raphaël Collignon.md",
@@ -287,7 +288,6 @@
     "Attachments/image-29.webp",
     "Attachments/image-28.webp",
     "Attachments/image-27.webp",
-    "Attachments/image-26.webp",
     "Généalogie des Jeux Vidéos.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",

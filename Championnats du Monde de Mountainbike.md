@@ -14,7 +14,7 @@ type: event
 |       |            |                     |             |                                  |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Type          | Vainqueur      | Nationalité | Remarque |
+| ----- | ------------- | -------------- | ----------- | -------- |
+| 2025  | Cross Country | Jenny Rissveds | Suédoise    |          |
+|       |               |                |             |          |
