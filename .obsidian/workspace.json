@@ -120,7 +120,7 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "Mortal Sin",
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -232,8 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,7 +250,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9db91c1af606afea",
+  "active": "bab163f298354a9b",
   "lastOpenFiles": [
     "Mafia.md",
     "Journal de bord/2025-09-13.md",
