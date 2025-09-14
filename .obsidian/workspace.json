@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Memorial Rick Van Loy.md",
+                "file": "Journal de bord/2025-09-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memorial Rick Van Loy"
+              "title": "2025-09-14"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Memorial Rick Van Loy.md",
+                "file": "Journal de bord/2025-09-14.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Memorial Rick Van Loy"
+              "title": "Graphique de 2025-09-14"
             }
           }
         ]
@@ -254,6 +254,7 @@
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
     "Loisirs/Sport/Compétitions/Memorial Rick Van Loy.md",
+    "Mads Andersen.md",
     "Loisirs/Sport/Compétitions/Flèche Wallonne.md",
     "Loisirs/Sport/Flèche Wallonne.md",
     "Loisirs/Sport/Compétitions/Flèche Brabançonne.md",
@@ -289,7 +290,6 @@
     "Volley-Ball.md",
     "Loisirs/Sport/Equipes/Red Dragons.md",
     "Loisirs/Sport/Equipes",
-    "Championnats du monde d'athlétisme.md",
     "Généalogie des Jeux Vidéos.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",
