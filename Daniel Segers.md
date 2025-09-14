@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-38.webp|500x281]]
+![[image-40.webp|385x217]]
 # Daniel Segers
 
 # Informations Générales

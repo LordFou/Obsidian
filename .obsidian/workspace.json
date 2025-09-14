@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Daniel Segers",
+                "query": "doo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -252,6 +252,8 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
+    "Attachments/image-40.webp",
+    "Attachments/image-39.webp",
     "Attachments/image-38.webp",
     "Loisirs/Sport/Sportifs/Alexander Doom.md",
     "Loisirs/Sport/Lucas Coenen.md",
@@ -287,8 +289,6 @@
     "Attachments/image-32.webp",
     "Attachments/image-31.webp",
     "Attachments/image-30.webp",
-    "Attachments/image-29.webp",
-    "Attachments/image-28.webp",
     "Généalogie des Jeux Vidéos.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",
