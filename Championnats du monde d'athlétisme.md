@@ -15,7 +15,7 @@ type: event
 | 2025  | 4x400m Mixte | USA                | USA         |          |
 | 2025  | Marathon     |                    |             |          |
 | 2025  | 10km         | [[Jimmy Gressier]] | Française   |          |
-| 2025  | 100m         |                    |             |          |
+| 2025  | 100m         | Oblique Seville    | Jamaicain   |          |
 ## Femmes
 
 | Année | Epreuve         | Vainqueur                    | Nationalité | Remarque |
