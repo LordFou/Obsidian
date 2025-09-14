@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Monsters Are Coming.md",
+                "file": "Loisirs/Jeux Vidéos/Sans titre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monsters Are Coming"
+              "title": "Sans titre"
             },
             "group": "36f71f1f821c2922"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Monsters Are Coming.md",
+                "file": "Loisirs/Jeux Vidéos/Sans titre.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Monsters Are Coming"
+              "title": "Graphique de Sans titre"
             },
             "group": "36f71f1f821c2922"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Monster",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,7 +179,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,8 +255,9 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
-    "Ludogram.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Monsters Are Coming.md",
+    "Loisirs/Jeux Vidéos/Sans titre.md",
+    "Ludogram.md",
     "Shiro Games.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/SpaceCraft.md",
     "No Man Sky.md",
@@ -283,7 +285,6 @@
     "Loisirs/Sport/Compétitions/Grand Prix de Montréal.md",
     "Grand Prix Fourmies.md",
     "Paul Magnier.md",
-    "Isaac Del Toro.md",
     "Attachments/image-49.webp",
     "Attachments/image-48.webp",
     "Attachments/image-47.webp",
