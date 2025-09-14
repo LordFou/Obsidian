@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Road Kings.md",
+                "file": "Saber Interactive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Road Kings"
+              "title": "Saber Interactive"
             },
             "group": "36f71f1f821c2922"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Road Kings.md",
+                "file": "Saber Interactive.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Road Kings"
+              "title": "Graphique de Saber Interactive"
             },
             "group": "36f71f1f821c2922"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Road Kings",
+                "query": "ROUTINE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,11 +253,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f14f4e7710cc30d",
+  "active": "a47971b47ce877f4",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Road Kings.md",
+    "Saber Interactive.md",
     "Attachments/image-53.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Indiana Jones And The Great Circle.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Road Kings.md",
     "Franchise Indiana Jones.md",
     "L'Ordre des géants.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Tides of Tomorrow.md",
@@ -290,7 +291,6 @@
     "Attachments/image-46.webp",
     "Attachments/image-45.webp",
     "Attachments/image-44.webp",
-    "Attachments/image-43.webp",
     "Loisirs/Sport/Equipes",
     "Généalogie des Jeux Vidéos.canvas",
     "Historique Jeu Vidéo.canvas",

@@ -8,7 +8,7 @@ type: game
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : Saber Interactive
+	- Studio : [[Saber Interactive]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
