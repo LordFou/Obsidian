@@ -36,3 +36,26 @@ type: event
 |       |           |             |          |
 # Général
 
+## 100m
+
+| Année | Vainqueur | Nationalité | Remarque |
+| ----- | --------- | ----------- | -------- |
+|       |           |             |          |
+
+## 200m
+
+| Année | Vainqueur | Nationalité | Remarque |
+| ----- | --------- | ----------- | -------- |
+|       |           |             |          |
+
+## 400m
+
+| Année | Vainqueur | Nationalité | Remarque |
+| ----- | --------- | ----------- | -------- |
+|       |           |             |          |
+
+## 800m
+
+| Année | Vainqueur | Nationalité | Remarque |
+| ----- | --------- | ----------- | -------- |
+|       |           |             |          |
