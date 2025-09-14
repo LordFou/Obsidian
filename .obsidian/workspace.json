@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daniel Segers.md",
+                "file": "Loisirs/Sport/Sportifs/Alexander Doom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daniel Segers"
+              "title": "Alexander Doom"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daniel Segers.md",
+                "file": "Loisirs/Sport/Sportifs/Alexander Doom.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Daniel Segers"
+              "title": "Graphique de Alexander Doom"
             }
           }
         ]
@@ -252,6 +252,8 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
+    "Attachments/image-41.webp",
+    "Daniel Segers.md",
     "Attachments/image-40.webp",
     "Attachments/image-39.webp",
     "Attachments/image-38.webp",
@@ -281,14 +283,12 @@
     "Memorial Pantani.md",
     "Michael Storer.md",
     "Tour de l’Ardèche.md",
-    "Femke De Vries.md",
     "Attachments/image-36.webp",
     "Attachments/image-35.webp",
     "Attachments/image-34.webp",
     "Attachments/image-33.webp",
     "Attachments/image-32.webp",
     "Attachments/image-31.webp",
-    "Attachments/image-30.webp",
     "Généalogie des Jeux Vidéos.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",
