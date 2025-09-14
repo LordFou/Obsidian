@@ -6,7 +6,7 @@
       {
         "id": "b791b435e05f877b",
         "type": "tabs",
-        "dimension": 76.93282636248415,
+        "dimension": 66.66666666666666,
         "children": [
           {
             "id": "2f14f4e7710cc30d",
@@ -42,7 +42,7 @@
       {
         "id": "cdcac3bbc786d45a",
         "type": "tabs",
-        "dimension": 23.067173637515843,
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "a54d1ece9dd63bd7",
@@ -73,7 +73,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792604,
+                  "scale": 0.7132754626224447,
                   "close": true
                 }
               },
@@ -266,7 +266,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "acbfcced6e5eac9a",
+  "active": "a54d1ece9dd63bd7",
   "lastOpenFiles": [
     "Journal de bord/2025-09-14.md",
     "Mario.md",
