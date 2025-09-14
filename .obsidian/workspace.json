@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L'Ordre des géants.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Indiana Jones And The Great Circle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L'Ordre des géants"
+              "title": "Indiana Jones And The Great Circle"
             },
             "group": "36f71f1f821c2922"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "L'Ordre des géants.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Indiana Jones And The Great Circle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de L'Ordre des géants"
+              "title": "Graphique de Indiana Jones And The Great Circle"
             },
             "group": "36f71f1f821c2922"
           }

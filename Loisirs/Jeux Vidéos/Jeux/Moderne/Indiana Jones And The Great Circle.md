@@ -26,6 +26,8 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Vatican]]
+	- Egypte - Gyseh
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
