@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tia Hellebaut.md",
+                "file": "Thomas Carmoy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tia Hellebaut"
+              "title": "Thomas Carmoy"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tia Hellebaut.md",
+                "file": "Thomas Carmoy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Tia Hellebaut"
+              "title": "Graphique de Thomas Carmoy"
             }
           }
         ]
@@ -252,12 +252,12 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
-    "JO 2008.md",
     "Tia Hellebaut.md",
+    "Barry Baltus.md",
+    "JO 2008.md",
     "Thomas Carmoy.md",
     "Attachments/image-48.webp",
     "Journal de bord/2025-09-14.md",
-    "Barry Baltus.md",
     "Raphaël Collignon.md",
     "Coupe Davis.md",
     "Loisirs/Sport/Sportifs/Alexander Doom.md",

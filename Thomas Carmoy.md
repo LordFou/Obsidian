@@ -14,9 +14,9 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                              | Résultat  | Remarque          |
-| ----- | -------------------------------------------------------- | --------- | ----------------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - Saut en hauteur | Finaliste | Première finale ! |
+| Année | Compétition                                              | Résultat         | Remarque                   |
+| ----- | -------------------------------------------------------- | ---------------- | -------------------------- |
+| 2025  | [[Championnats du monde d'athlétisme]] - Saut en hauteur | Finaliste (2m25) | Première finale mondiale ! |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
