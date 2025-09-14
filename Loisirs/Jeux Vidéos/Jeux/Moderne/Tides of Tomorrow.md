@@ -22,7 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
-	- Y'a une histoire de seed prise au hasard sur une partie d'un autre joueur et dont le jeu 
+	- Y'a une histoire de seed prise au hasard sur une partie d'un autre joueur. La partie qu'il a vécue influence la partie du joueur courant.
 - **Durée estimée** : 
 
 ## Histoire et Univers
