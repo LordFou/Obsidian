@@ -22,7 +22,7 @@ type: event
 | ----- | ---------------- | ---------------------------- | ----------- | -------- |
 | 2025  | 100m             | [[Melissa Jefferson-Wooden]] | Américaine  |          |
 | 2025  | Saut en longeur  | [[Sarah Davis-Woodhall]]     | Américaine  |          |
-| 2025  | Lancer du disque | Valarie Allman               | Américaine  | 69.48    |
+| 2025  | Lancer du disque | [[Valarie Allman]]           | Américaine  | 69.48m   |
 # 2026
 
 ## Hommes

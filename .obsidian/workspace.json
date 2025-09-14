@@ -14,26 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Championnats du monde d'athlétisme.md",
+                "file": "Valarie Allman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Championnats du monde d'athlétisme"
-            }
-          },
-          {
-            "id": "6348dda5b5b65773",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Victor Koretzky.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Victor Koretzky"
+              "title": "Valarie Allman"
             }
           }
         ]
@@ -49,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Championnats du monde d'athlétisme.md",
+                "file": "Valarie Allman.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -77,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Championnats du monde d'athlétisme"
+              "title": "Graphique de Valarie Allman"
             }
           }
         ]
@@ -266,12 +252,13 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
-    "Journal de bord/2025-09-14.md",
     "Victor Koretzky.md",
+    "Valarie Allman.md",
+    "Championnats du monde d'athlétisme.md",
+    "Journal de bord/2025-09-14.md",
     "Attachments/image-37.webp",
     "Championnats du Monde de Mountainbike.md",
     "Alan Hatherly.md",
-    "Championnats du monde d'athlétisme.md",
     "Noah Lyles.md",
     "Oblique Seville.md",
     "Loisirs/Sport/Sportifs/Shelly-Ann Fraser-Pryce.md",
