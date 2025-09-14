@@ -12,14 +12,10 @@
             "id": "2f14f4e7710cc30d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loisirs/Sport/Flèche Wallonne.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Flèche Wallonne"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -35,7 +31,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Flèche Wallonne.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +58,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Flèche Wallonne"
+              "title": "Vue graphique"
             }
           }
         ]
