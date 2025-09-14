@@ -22,6 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** : 
+	- Les pilotes auraient des pouvoirs
 - **Durée estimée** : 
 
 ## Histoire et Univers
