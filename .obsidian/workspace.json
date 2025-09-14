@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mario.md",
+                "file": "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mario"
+              "title": "Amstel Gold Race"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mario.md",
+                "file": "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Mario"
+              "title": "Graphique de Amstel Gold Race"
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Mario",
+                "query": "Amstel Gold Race",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,7 +177,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -250,8 +251,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f14f4e7710cc30d",
+  "active": "acbfcced6e5eac9a",
   "lastOpenFiles": [
+    "Mario.md",
     "Journal de bord/2025-09-14.md",
     "Marten Van Riel.md",
     "Mondiaux de Thriatlon.md",
@@ -288,7 +290,6 @@
     "Championnats du Monde de Mountainbike.md",
     "Alan Hatherly.md",
     "Noah Lyles.md",
-    "Oblique Seville.md",
     "Généalogie des Jeux Vidéos.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",
