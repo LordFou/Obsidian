@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Alexander Doom.md",
+                "file": "Daniel Segers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alexander Doom"
+              "title": "Daniel Segers"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Alexander Doom.md",
+                "file": "Daniel Segers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Alexander Doom"
+              "title": "Graphique de Daniel Segers"
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "doom",
+                "query": "Daniel Segers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -250,8 +250,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
+    "Attachments/image-38.webp",
+    "Loisirs/Sport/Sportifs/Alexander Doom.md",
     "Loisirs/Sport/Lucas Coenen.md",
     "Yanla Ndjip-Nyemeck.md",
     "Journal de bord/2025-09-14.md",
@@ -278,8 +280,6 @@
     "Michael Storer.md",
     "Tour de l’Ardèche.md",
     "Femke De Vries.md",
-    "Marion Bunel.md",
-    "Matthew Riccitello.md",
     "Attachments/image-36.webp",
     "Attachments/image-35.webp",
     "Attachments/image-34.webp",
