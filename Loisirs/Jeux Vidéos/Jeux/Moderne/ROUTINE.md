@@ -27,6 +27,7 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Base lunaire]]
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
@@ -36,7 +37,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Arlésienne (?)
 ## Liens et Ressources
 
 | Description | URL |

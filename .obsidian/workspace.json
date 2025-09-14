@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ROUTINE",
+                "query": "SpaceCraft",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,8 +179,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,7 +252,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f14f4e7710cc30d",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
     "Saber Interactive.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/ROUTINE.md",
