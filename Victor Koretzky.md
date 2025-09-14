@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                            | Résultat | Remarque |
-| ----- | ------------------------------------------------------ | -------- | -------- |
-| 2025  | [[Championnats du Monde de Mountainbike]] - Shorttrack | 1e       |          |
+| Année | Compétition                                               | Résultat | Remarque |
+| ----- | --------------------------------------------------------- | -------- | -------- |
+| 2025  | [[Championnats du Monde de Mountainbike]] - Shorttrack    | 1e       |          |
+| 2025  | [[Championnats du Monde de Mountainbike]] - Cross Country | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
