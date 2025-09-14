@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-09-14.md",
+                "file": "tournoi ITF de Le Neubourg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-14"
+              "title": "tournoi ITF de Le Neubourg"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2025-09-14.md",
+                "file": "tournoi ITF de Le Neubourg.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-09-14"
+              "title": "Graphique de tournoi ITF de Le Neubourg"
             }
           }
         ]
@@ -253,6 +253,9 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
+    "Greet Minnen.md",
+    "tournoi ITF de Le Neubourg.md",
+    "Journal de bord/2025-09-14.md",
     "Loisirs/Sport/Compétitions/Memorial Rick Van Loy.md",
     "Mads Andersen.md",
     "Loisirs/Sport/Compétitions/Flèche Wallonne.md",
@@ -260,7 +263,6 @@
     "Loisirs/Sport/Compétitions/Flèche Brabançonne.md",
     "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
     "Mario.md",
-    "Journal de bord/2025-09-14.md",
     "Marten Van Riel.md",
     "Mondiaux de Thriatlon.md",
     "1000 km de Suzuka.md",
@@ -287,8 +289,6 @@
     "Yanla Ndjip-Nyemeck.md",
     "Yellow Tigers.md",
     "Championnat d'Europe de Volley-Ball.md",
-    "Volley-Ball.md",
-    "Loisirs/Sport/Equipes/Red Dragons.md",
     "Loisirs/Sport/Equipes",
     "Généalogie des Jeux Vidéos.canvas",
     "Historique Jeu Vidéo.canvas",
