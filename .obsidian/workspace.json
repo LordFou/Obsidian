@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Rallie du Chili.md",
+                "file": "Sébastien Ogier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rallie du Chili"
+              "title": "Sébastien Ogier"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Rallie du Chili.md",
+                "file": "Sébastien Ogier.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Rallie du Chili"
+              "title": "Graphique de Sébastien Ogier"
             }
           }
         ]
@@ -253,8 +253,9 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Rallye du Chili.md",
+    "Sébastien Ogier.md",
     "Tennis.md",
-    "Loisirs/Sport/Compétitions/Rallie du Chili.md",
     "Greet Minnen.md",
     "Attachments/image-49.webp",
     "Tournoi de Le Neubourg.md",
@@ -281,7 +282,6 @@
     "Coupe Davis.md",
     "Loisirs/Sport/Sportifs/Alexander Doom.md",
     "Attachments/image-47.webp",
-    "Daniel Segers.md",
     "Attachments/image-46.webp",
     "Attachments/image-45.webp",
     "Attachments/image-44.webp",
