@@ -7,8 +7,8 @@ type: personne
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Jamaicaine
-- **Sport / Discipline** :  
-- **Poste / Spécialité** (si applicable) :  
+- **Sport / Discipline** :  [[Athlétisme]]
+- **Poste / Spécialité** (si applicable) : 100m 
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
@@ -21,7 +21,7 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- 10 titres de championne du monde dont 5 au 100m
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
