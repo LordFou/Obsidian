@@ -8,10 +8,10 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Epreuve      | Vainqueur | Nationalité | Remarque |
+| ----- | ------------ | --------- | ----------- | -------- |
+| 2025  | 4x400m Mixte | USA       | USA         |          |
+| 2025  | 10km         |           |             |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

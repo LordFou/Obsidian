@@ -26,10 +26,14 @@
             "id": "6348dda5b5b65773",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Championnats du monde d'athlétisme.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Championnats du monde d'athlétisme"
             }
           }
         ],
@@ -46,6 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Championnats du monde d'athlétisme.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -73,7 +78,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "title": "Graphique de Championnats du monde d'athlétisme"
             }
           }
         ]
@@ -187,7 +192,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -260,7 +266,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6348dda5b5b65773",
+  "active": "acbfcced6e5eac9a",
   "lastOpenFiles": [
     "Journal de bord/2025-09-14.md",
     "Mario.md",
