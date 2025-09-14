@@ -22,10 +22,11 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre | Année                                  | Plateformes | Remarque |
-| ----- | -------------------------------------- | ----------- | -------- |
-| 2024  | [[Indiana Jones And The Great Circle]] |             |          |
-| 2025  | L'Ordre des géants                     |             | DLC      |
+| Titre | Année                                  | Plateformes | Remarque                                    |
+| ----- | -------------------------------------- | ----------- | ------------------------------------------- |
+| 2024  | [[Indiana Jones And The Great Circle]] |             |                                             |
+| 2025  | [[L'Ordre des géants]]                 |             | DLC -[[Indiana Jones And The Great Circle]] |
+|       |                                        |             |                                             |
 
 
 ## Mécaniques et innovations
