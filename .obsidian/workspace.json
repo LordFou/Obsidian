@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Championnats du Monde de Mountainbike.md",
+                "file": "Championnats du monde d'athlétisme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Championnats du Monde de Mountainbike"
+              "title": "Championnats du monde d'athlétisme"
             }
           }
         ],
@@ -50,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Championnats du Monde de Mountainbike.md",
+                "file": "Championnats du monde d'athlétisme.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Championnats du Monde de Mountainbike"
+              "title": "Graphique de Championnats du monde d'athlétisme"
             }
           }
         ]
@@ -268,6 +268,7 @@
   "active": "6348dda5b5b65773",
   "lastOpenFiles": [
     "Loisirs/Sport/Sportifs/Shelly-Ann Fraser-Pryce.md",
+    "Championnats du Monde de Mountainbike.md",
     "Championnats du monde d'athlétisme.md",
     "Melissa Jefferson-Wooden.md",
     "Journal de bord/2025-09-14.md",
@@ -283,7 +284,6 @@
     "Matthew Riccitello.md",
     "Tour de l'Ardèche.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
-    "Championnats du Monde de Mountainbike.md",
     "Jenny Rissveds.md",
     "Tim Van de Velde.md",
     "Attachments/image-36.webp",
