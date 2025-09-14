@@ -39,4 +39,4 @@ type: game
 
 | Description | URL |
 | ----------- | --- |
-|             |   
+|             |     |

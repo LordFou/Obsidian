@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
+                "file": "Pearl Abyss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crimson Desert"
+              "title": "Pearl Abyss"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
+                "file": "Pearl Abyss.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Crimson Desert"
+              "title": "Graphique de Pearl Abyss"
             }
           }
         ]
@@ -253,9 +253,10 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
+    "Pearl Abyss.md",
     "Attachments/image-51.webp",
     "Milestone S.r.l..md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Screamer.md",
     "Attachments/image-50.webp",
     "UAE.md",
@@ -288,7 +289,6 @@
     "Attachments/image-44.webp",
     "Attachments/image-43.webp",
     "Attachments/image-42.webp",
-    "Attachments/image-41.webp",
     "Loisirs/Sport/Equipes",
     "Généalogie des Jeux Vidéos.canvas",
     "Historique Jeu Vidéo.canvas",
