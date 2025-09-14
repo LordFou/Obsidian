@@ -18,10 +18,10 @@ type: event
 | 2025  | 100m         |                    |             |          |
 ## Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  | 100m      |             |          |
-|       |           |             |          |
+| Année | Vainqueur    | Nationalité | Remarque |
+| ----- | ------------ | ----------- | -------- |
+| 2025  | 100m         |             |          |
+| 2025  | Saut en long |             |          |
 # 2026
 
 ## Hommes
