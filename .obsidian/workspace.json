@@ -177,7 +177,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -250,7 +251,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f14f4e7710cc30d",
+  "active": "acbfcced6e5eac9a",
   "lastOpenFiles": [
     "Valarie Allman.md",
     "Victor Koretzky.md",
