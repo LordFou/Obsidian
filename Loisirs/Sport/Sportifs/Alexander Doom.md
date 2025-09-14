@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-45.webp]]
 # Alexander Doom
 
 # Informations Générales

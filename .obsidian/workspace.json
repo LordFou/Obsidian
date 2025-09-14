@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "doo",
+                "query": "do",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -252,6 +252,10 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
+    "Attachments/image-45.webp",
+    "Attachments/image-44.webp",
+    "Attachments/image-43.webp",
+    "Attachments/image-42.webp",
     "Attachments/image-41.webp",
     "Daniel Segers.md",
     "Attachments/image-40.webp",
@@ -285,10 +289,6 @@
     "Tour de l’Ardèche.md",
     "Attachments/image-36.webp",
     "Attachments/image-35.webp",
-    "Attachments/image-34.webp",
-    "Attachments/image-33.webp",
-    "Attachments/image-32.webp",
-    "Attachments/image-31.webp",
     "Généalogie des Jeux Vidéos.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",
