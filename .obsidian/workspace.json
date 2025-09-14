@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Alexander Doom.md",
+                "file": "Journal de bord/2025-09-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alexander Doom"
+              "title": "2025-09-14"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Alexander Doom.md",
+                "file": "Journal de bord/2025-09-14.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Alexander Doom"
+              "title": "Graphique de 2025-09-14"
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "do",
+                "query": "seg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -252,16 +252,18 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Alexander Doom.md",
+    "Attachments/image-47.webp",
+    "Daniel Segers.md",
+    "Attachments/image-46.webp",
     "Attachments/image-45.webp",
     "Attachments/image-44.webp",
     "Attachments/image-43.webp",
     "Attachments/image-42.webp",
     "Attachments/image-41.webp",
-    "Daniel Segers.md",
     "Attachments/image-40.webp",
     "Attachments/image-39.webp",
     "Attachments/image-38.webp",
-    "Loisirs/Sport/Sportifs/Alexander Doom.md",
     "Loisirs/Sport/Lucas Coenen.md",
     "Yanla Ndjip-Nyemeck.md",
     "Journal de bord/2025-09-14.md",
@@ -273,7 +275,6 @@
     "Championnats du monde d'athlétisme.md",
     "Valarie Allman.md",
     "Victor Koretzky.md",
-    "Attachments/image-37.webp",
     "Championnats du Monde de Mountainbike.md",
     "Alan Hatherly.md",
     "Noah Lyles.md",
@@ -287,8 +288,6 @@
     "Memorial Pantani.md",
     "Michael Storer.md",
     "Tour de l’Ardèche.md",
-    "Attachments/image-36.webp",
-    "Attachments/image-35.webp",
     "Généalogie des Jeux Vidéos.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",
