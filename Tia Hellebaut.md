@@ -1,22 +1,21 @@
 ---
 type: personne
 ---
-![[image-48.webp]]
-# Thomas Carmoy
+
+# Tia Hellebaut
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** : [[Athlétisme]] 
-- **Poste / Spécialité** (si applicable) : [[Saut en hauteur]]  
-- **Équipe(s) / Club(s)** : 
-- **Entraineur** : [[Tia Hellebaut]]
+- **Sport / Discipline** :  
+- **Poste / Spécialité** (si applicable) :  
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                              | Résultat  | Remarque          |
-| ----- | -------------------------------------------------------- | --------- | ----------------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - Saut en hauteur | Finaliste | Première finale ! |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

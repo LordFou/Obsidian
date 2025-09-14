@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thomas Carmoy.md",
+                "file": "Tia Hellebaut.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thomas Carmoy"
+              "title": "Tia Hellebaut"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Thomas Carmoy.md",
+                "file": "Tia Hellebaut.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Thomas Carmoy"
+              "title": "Graphique de Tia Hellebaut"
             }
           }
         ]
@@ -252,9 +252,10 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
+    "Thomas Carmoy.md",
+    "Tia Hellebaut.md",
     "Attachments/image-48.webp",
     "Journal de bord/2025-09-14.md",
-    "Thomas Carmoy.md",
     "Barry Baltus.md",
     "Raphaël Collignon.md",
     "Coupe Davis.md",
@@ -269,7 +270,6 @@
     "Attachments/image-41.webp",
     "Attachments/image-40.webp",
     "Attachments/image-39.webp",
-    "Attachments/image-38.webp",
     "Loisirs/Sport/Lucas Coenen.md",
     "Yanla Ndjip-Nyemeck.md",
     "Yellow Tigers.md",
