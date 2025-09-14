@@ -37,11 +37,11 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 | 20e (DAN)     | [[Jonas Vingegaard]]  | [[Jonas Vingegaard]] | [[Jay Vine]]         | [[Mads Pedersen]]    | [[Matthew Riccitello]] | 9e - [[Junior Lecerf]]                                                           |
 | 21e           | -                     | [[Jonas Vingegaard]] | [[Jay Vine]]         | [[Mads Pedersen]]    | [[Matthew Riccitello]] | 11e - [[Junior Lecerf]]                                                          |
 #### General
-| Année | Vainqueur            | Nationalité | Remarque |
-| ----- | -------------------- | ----------- | -------- |
-| 2018  | [[Simon Yates]]      | Anglais     |          |
-| 2022  | [[Remco Evenepoel]]  | Belge       |          |
-| 2025  | [[Jonas Vingegaard]] | Danois      |          |
+| Année | Vainqueur            | Nationalité | Montagne     | Points            | Jeune                  | Remarque |
+| ----- | -------------------- | ----------- | ------------ | ----------------- | ---------------------- | -------- |
+| 2018  | [[Simon Yates]]      | Anglais     |              |                   |                        |          |
+| 2022  | [[Remco Evenepoel]]  | Belge       |              |                   |                        |          |
+| 2025  | [[Jonas Vingegaard]] | Danois      | [[Jay Vine]] | [[Mads Pedersen]] | [[Matthew Riccitello]] |          |
 ### Femmes
 #### Etapes 
 
