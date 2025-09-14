@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sarah Davis-Woodhall.md",
+                "file": "Championnats du monde d'athlétisme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sarah Davis-Woodhall"
+              "title": "Championnats du monde d'athlétisme"
             }
           }
         ],
@@ -50,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sarah Davis-Woodhall.md",
+                "file": "Championnats du monde d'athlétisme.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Sarah Davis-Woodhall"
+              "title": "Graphique de Championnats du monde d'athlétisme"
             }
           }
         ]
@@ -268,8 +268,8 @@
   },
   "active": "6348dda5b5b65773",
   "lastOpenFiles": [
-    "Championnats du monde d'athlétisme.md",
     "Sarah Davis-Woodhall.md",
+    "Championnats du monde d'athlétisme.md",
     "Journal de bord/2025-09-14.md",
     "Jimmy Gressier.md",
     "Mario.md",
