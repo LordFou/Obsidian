@@ -8,10 +8,10 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  | Paul      |             |          |
-|       |           |             |          |
+| Année | Vainqueur        | Nationalité | Remarque |
+| ----- | ---------------- | ----------- | -------- |
+| 2025  | [[Paul Magnier]] | Français    |          |
+|       |                  |             |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
