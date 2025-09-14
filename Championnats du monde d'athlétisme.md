@@ -10,12 +10,12 @@ type: event
 
 ## Hommes
 
-| Année | Epreuve      | Vainqueur          | Nationalité | Remarque |
-| ----- | ------------ | ------------------ | ----------- | -------- |
-| 2025  | 4x400m Mixte | USA                | USA         |          |
-| 2025  | Marathon     |                    |             |          |
-| 2025  | 10km         | [[Jimmy Gressier]] | Française   |          |
-| 2025  | 100m         | Oblique Seville    | Jamaicain   |          |
+| Année | Epreuve      | Vainqueur           | Nationalité | Remarque |
+| ----- | ------------ | ------------------- | ----------- | -------- |
+| 2025  | 4x400m Mixte | USA                 | USA         |          |
+| 2025  | Marathon     |                     |             |          |
+| 2025  | 10km         | [[Jimmy Gressier]]  | Française   |          |
+| 2025  | 100m         | [[Oblique Seville]] | Jamaicain   |          |
 ## Femmes
 
 | Année | Epreuve         | Vainqueur                    | Nationalité | Remarque |
@@ -39,9 +39,9 @@ type: event
 
 ## 100m
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-|       |           |             |          |
+| Année | Vainqueur           | Nationalité | Remarque |
+| ----- | ------------------- | ----------- | -------- |
+| 2025  | [[Oblique Seville]] | Jamaicain   |          |
 
 ## 200m
 
