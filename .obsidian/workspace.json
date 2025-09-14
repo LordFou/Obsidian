@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marten Van Riel.md",
+                "file": "Journal de bord/2025-09-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marten Van Riel"
+              "title": "2025-09-14"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Marten Van Riel.md",
+                "file": "Journal de bord/2025-09-14.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Marten Van Riel"
+              "title": "Graphique de 2025-09-14"
             }
           }
         ]
@@ -252,8 +252,8 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
-    "Mondiaux de Thriatlon.md",
     "Marten Van Riel.md",
+    "Mondiaux de Thriatlon.md",
     "Journal de bord/2025-09-14.md",
     "1000 km de Suzuka.md",
     "Charles Weerts.md",
