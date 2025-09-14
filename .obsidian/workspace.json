@@ -12,10 +12,14 @@
             "id": "2f14f4e7710cc30d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Loisirs/Sport/Compétitions/Memorial Rick Van Loy.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Memorial Rick Van Loy"
             }
           }
         ]
@@ -31,6 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Loisirs/Sport/Compétitions/Memorial Rick Van Loy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -58,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "title": "Graphique de Memorial Rick Van Loy"
             }
           }
         ]
@@ -80,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Flèche Wallonne",
+                "query": "Memorial Rick Van Loy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -172,7 +177,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -247,6 +253,7 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Memorial Rick Van Loy.md",
     "Loisirs/Sport/Compétitions/Flèche Wallonne.md",
     "Loisirs/Sport/Flèche Wallonne.md",
     "Loisirs/Sport/Compétitions/Flèche Brabançonne.md",
@@ -283,7 +290,6 @@
     "Loisirs/Sport/Equipes/Red Dragons.md",
     "Loisirs/Sport/Equipes",
     "Championnats du monde d'athlétisme.md",
-    "Valarie Allman.md",
     "Généalogie des Jeux Vidéos.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",
