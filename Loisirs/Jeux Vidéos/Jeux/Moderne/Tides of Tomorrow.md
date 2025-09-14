@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-52.webp]]
 # Tides of Tomorrow
 
 ## Informations Générales
@@ -22,6 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
+	- Y'a une histoire de seed prise au hasard sur une partie d'un autre joueur et dont le jeu 
 - **Durée estimée** : 
 
 ## Histoire et Univers
