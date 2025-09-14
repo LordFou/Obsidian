@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jimmy Gressier.md",
+                "file": "Championnats du monde d'athlétisme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jimmy Gressier"
+              "title": "Championnats du monde d'athlétisme"
             }
           }
         ],
@@ -50,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Jimmy Gressier.md",
+                "file": "Championnats du monde d'athlétisme.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Jimmy Gressier"
+              "title": "Graphique de Championnats du monde d'athlétisme"
             }
           }
         ]
@@ -268,8 +268,8 @@
   },
   "active": "6348dda5b5b65773",
   "lastOpenFiles": [
-    "Championnats du monde d'athlétisme.md",
     "Jimmy Gressier.md",
+    "Championnats du monde d'athlétisme.md",
     "Journal de bord/2025-09-14.md",
     "Mario.md",
     "Super Mario Bros.md",

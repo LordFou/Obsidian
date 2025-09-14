@@ -6,7 +6,9 @@ type: event
 
 # Introduction
 
-# Hommes
+# 2025
+
+## Hommes
 
 | Année | Epreuve      | Vainqueur          | Nationalité | Remarque |
 | ----- | ------------ | ------------------ | ----------- | -------- |
@@ -14,7 +16,7 @@ type: event
 | 2025  | Marathon     |                    |             |          |
 | 2025  | 10km         | [[Jimmy Gressier]] | Française   |          |
 | 2025  | 100m         |                    |             |          |
-# Femmes
+## Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
 | ----- | --------- | ----------- | -------- |
