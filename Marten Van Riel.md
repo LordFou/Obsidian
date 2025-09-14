@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                           | Résultat | Remarque |
-| ----- | ------------------------------------- | -------- | -------- |
-| 2025  | [[Circuit T100]] - Vancouver - Canada | 2e       |          |
+| Année | Compétition                           | Résultat | Remarque              |
+| ----- | ------------------------------------- | -------- | --------------------- |
+| 2025  | [[Circuit T100]] - Vancouver - Canada | 2e       |                       |
+| 2025  | [[Mondiaux de Thriatlon]] - Iron Man  | 4e       | Derrière 3 norvégiens |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

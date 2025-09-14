@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-09-14.md",
+                "file": "Marten Van Riel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-14"
+              "title": "Marten Van Riel"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2025-09-14.md",
+                "file": "Marten Van Riel.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-09-14"
+              "title": "Graphique de Marten Van Riel"
             }
           }
         ]
@@ -252,8 +252,10 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
-    "1000 km de Suzuka.md",
+    "Mondiaux de Thriatlon.md",
+    "Marten Van Riel.md",
     "Journal de bord/2025-09-14.md",
+    "1000 km de Suzuka.md",
     "Charles Weerts.md",
     "Thomas Carmoy.md",
     "Tia Hellebaut.md",
@@ -287,8 +289,6 @@
     "Alan Hatherly.md",
     "Noah Lyles.md",
     "Oblique Seville.md",
-    "Loisirs/Sport/Sportifs/Shelly-Ann Fraser-Pryce.md",
-    "Melissa Jefferson-Wooden.md",
     "Généalogie des Jeux Vidéos.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",
