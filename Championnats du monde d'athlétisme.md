@@ -11,6 +11,7 @@ type: event
 | Année | Epreuve      | Vainqueur | Nationalité | Remarque |
 | ----- | ------------ | --------- | ----------- | -------- |
 | 2025  | 4x400m Mixte | USA       | USA         |          |
+| 2025  | Marathon     |           |             |          |
 | 2025  | 10km         |           |             |          |
 | 2025  | 100m         |           |             |          |
 # Femmes
