@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sébastien Ogier.md",
+                "file": "Thierry Neuville.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sébastien Ogier"
+              "title": "Thierry Neuville"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sébastien Ogier.md",
+                "file": "Thierry Neuville.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Sébastien Ogier"
+              "title": "Graphique de Thierry Neuville"
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "neuvi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,8 +177,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,8 +252,8 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
-    "Loisirs/Sport/Compétitions/Rallye du Chili.md",
     "Sébastien Ogier.md",
+    "Loisirs/Sport/Compétitions/Rallye du Chili.md",
     "Tennis.md",
     "Greet Minnen.md",
     "Attachments/image-49.webp",
