@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Tides of Tomorrow.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Indiana Jones And The Great Circle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tides of Tomorrow"
+              "title": "Indiana Jones And The Great Circle"
             },
             "group": "36f71f1f821c2922"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Tides of Tomorrow.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Indiana Jones And The Great Circle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Tides of Tomorrow"
+              "title": "Graphique de Indiana Jones And The Great Circle"
             },
             "group": "36f71f1f821c2922"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tides of Tomorrow",
+                "query": "Indi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,8 +177,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,8 +252,8 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
-    "Digixart.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Tides of Tomorrow.md",
+    "Digixart.md",
     "Loisirs/Jeux Vidéos/Personnalités/Pierre Corbinais.md",
     "Road 96.md",
     "Journal de bord/2025-09-14.md",

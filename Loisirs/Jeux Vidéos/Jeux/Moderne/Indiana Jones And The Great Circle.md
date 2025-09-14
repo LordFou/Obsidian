@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : [[Franchise Indiana Jones|Indiana Jones]]
-- **Genre** :
+- **Genre** : 
 - **Résumé** : 
 
 ## Détails Techniques
