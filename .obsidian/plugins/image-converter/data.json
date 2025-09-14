@@ -150,7 +150,7 @@
         "width": 500,
         "resizeScaleMode": "auto",
         "respectEditorMaxWidth": true,
-        "maintainAspectRatio": true,
+        "maintainAspectRatio": false,
         "resizeUnits": "pixels"
       },
       {
@@ -206,7 +206,7 @@
         "resizeUnits": "pixels"
       }
     ],
-    "selectedResizePreset": "Width 500px"
+    "selectedResizePreset": "50% Width"
   },
   "resizeCursorLocation": "none",
   "dropPasteCursorLocation": "back",
