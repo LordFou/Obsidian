@@ -8,7 +8,7 @@ type: game
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Milestone S.r.l.]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
