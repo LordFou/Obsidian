@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digixart.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Tides of Tomorrow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Digixart"
+              "title": "Tides of Tomorrow"
             },
             "group": "36f71f1f821c2922"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Digixart.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Tides of Tomorrow.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Digixart"
+              "title": "Graphique de Tides of Tomorrow"
             },
             "group": "36f71f1f821c2922"
           }
@@ -177,7 +177,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -252,9 +253,10 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Personnalités/Pierre Corbinais.md",
     "Digixart.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Tides of Tomorrow.md",
+    "Loisirs/Jeux Vidéos/Personnalités/Pierre Corbinais.md",
+    "Road 96.md",
     "Journal de bord/2025-09-14.md",
     "Attachments/image-52.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
@@ -281,7 +283,6 @@
     "Tennis.md",
     "Greet Minnen.md",
     "Attachments/image-49.webp",
-    "Tournoi de Le Neubourg.md",
     "Attachments/image-48.webp",
     "Attachments/image-47.webp",
     "Attachments/image-46.webp",
