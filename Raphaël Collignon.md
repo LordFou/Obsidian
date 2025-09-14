@@ -13,10 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                      | Résultat              | Remarque                                                                             |
-| ----- | -------------------------------- | --------------------- | ------------------------------------------------------------------------------------ |
-| 2025  | [[US Open]]                      | 3e tour               | 2 premières victoires en grand chelem !<br>Dont une contre Casper Ruud (12e mondial) |
-| 2025  | [[Coupe Davis]] - 2e tour qualif | Victoire de son match | ==Contre le 8e mondial==                                                             |
+| Année | Compétition                      | Résultat                   | Remarque                                                                             |
+| ----- | -------------------------------- | -------------------------- | ------------------------------------------------------------------------------------ |
+| 2025  | [[US Open]]                      | 3e tour                    | 2 premières victoires en grand chelem !<br>Dont une contre Casper Ruud (12e mondial) |
+| 2025  | [[Coupe Davis]] - 2e tour qualif | Victoire de son 1ier match | ==Contre le 8e mondial==                                                             |
+| 2025  | [[Coupe Davis]] - 2e tour qualif | Victoire de son 2e match   | ==Qualification de la Belgique pour la phase finale==                                |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
