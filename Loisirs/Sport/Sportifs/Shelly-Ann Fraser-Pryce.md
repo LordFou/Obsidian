@@ -2,7 +2,7 @@
 type: personne
 ---
 
-# Fraser-Pryce
+# Shelly-Ann Fraser-Pryce
 
 # Informations Générales
 - **Date de naissance** :  

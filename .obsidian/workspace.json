@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Melissa Jefferson-Wooden.md",
+                "file": "Loisirs/Sport/Sportifs/Shelly-Ann Fraser-Pryce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Melissa Jefferson-Wooden"
+              "title": "Shelly-Ann Fraser-Pryce"
             }
           }
         ],
@@ -50,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Melissa Jefferson-Wooden.md",
+                "file": "Loisirs/Sport/Sportifs/Shelly-Ann Fraser-Pryce.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Melissa Jefferson-Wooden"
+              "title": "Graphique de Shelly-Ann Fraser-Pryce"
             }
           }
         ]
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Michael Storer",
+                "query": "fraser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -192,8 +192,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -270,7 +269,7 @@
   "lastOpenFiles": [
     "Championnats du monde d'athlétisme.md",
     "Melissa Jefferson-Wooden.md",
-    "Loisirs/Sport/Sportifs/Fraser-Pryce.md",
+    "Loisirs/Sport/Sportifs/Shelly-Ann Fraser-Pryce.md",
     "Journal de bord/2025-09-14.md",
     "Sarah Davis-Woodhall.md",
     "Jimmy Gressier.md",

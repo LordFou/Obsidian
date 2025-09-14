@@ -8,14 +8,14 @@ type: personne
 - **Date de naissance** :  
 - **Nationalité** :  Américaine
 - **Sport / Discipline** :  [[Athlétisme]]
-- **Poste / Spécialité** (si applicable) :  
+- **Poste / Spécialité** (si applicable) : 100m 
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition                                   | Résultat | Remarque |
+| ----- | --------------------------------------------- | -------- | -------- |
+| 2025  | [[Championnats du monde d'athlétisme]] - 100m | 1ier     | 10.61    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
