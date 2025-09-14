@@ -2,13 +2,13 @@
 type: game
 ---
 
-# Monsters Are Coming
+# Monsters are Coming ! Rock & Road
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : Ludogram
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
