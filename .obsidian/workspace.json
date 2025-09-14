@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 km de Suzuka.md",
+                "file": "Journal de bord/2025-09-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1000 km de Suzuka"
+              "title": "2025-09-14"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1000 km de Suzuka.md",
+                "file": "Journal de bord/2025-09-14.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 1000 km de Suzuka"
+              "title": "Graphique de 2025-09-14"
             }
           }
         ]
@@ -252,9 +252,9 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
+    "1000 km de Suzuka.md",
     "Journal de bord/2025-09-14.md",
     "Charles Weerts.md",
-    "1000 km de Suzuka.md",
     "Thomas Carmoy.md",
     "Tia Hellebaut.md",
     "Barry Baltus.md",
