@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Equipes/Red Dragons.md",
+                "file": "Yellow Tigers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Red Dragons"
+              "title": "Yellow Tigers"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Equipes/Red Dragons.md",
+                "file": "Yellow Tigers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Red Dragons"
+              "title": "Graphique de Yellow Tigers"
             }
           }
         ]
@@ -253,8 +253,9 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
-    "Yanla Ndjip-Nyemeck.md",
+    "Volley-Ball.md",
     "Loisirs/Sport/Equipes/Red Dragons.md",
+    "Yanla Ndjip-Nyemeck.md",
     "Loisirs/Sport/Equipes",
     "Journal de bord/2025-09-14.md",
     "Championnats du monde d'athlétisme.md",
@@ -280,7 +281,6 @@
     "Tour de l'Ardèche.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "Jenny Rissveds.md",
-    "Tim Van de Velde.md",
     "Attachments/image-36.webp",
     "Attachments/image-35.webp",
     "Attachments/image-34.webp",

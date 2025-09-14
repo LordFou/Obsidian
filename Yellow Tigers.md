@@ -1,7 +1,7 @@
 ---
 type: team
 ---
-Equipe féminine belge de [[Volley-Ball]]
+Equipe nationale féminine belge de [[Volley-Ball]]
 
 | Année | Compétition                             | Résultats     | Remarques               |
 | ----- | --------------------------------------- | ------------- | ----------------------- |
