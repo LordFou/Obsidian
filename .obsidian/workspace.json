@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Lucas Coenen.md",
+                "file": "Alexander Doom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lucas Coenen"
+              "title": "Alexander Doom"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Lucas Coenen.md",
+                "file": "Alexander Doom.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Lucas Coenen"
+              "title": "Graphique de Alexander Doom"
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Coenen",
+                "query": "doom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -252,6 +252,7 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
+    "Loisirs/Sport/Lucas Coenen.md",
     "Yanla Ndjip-Nyemeck.md",
     "Journal de bord/2025-09-14.md",
     "Yellow Tigers.md",
@@ -279,7 +280,6 @@
     "Femke De Vries.md",
     "Marion Bunel.md",
     "Matthew Riccitello.md",
-    "Tour de l'Ardèche.md",
     "Attachments/image-36.webp",
     "Attachments/image-35.webp",
     "Attachments/image-34.webp",

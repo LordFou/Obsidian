@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                           | Résultat | Remarque |
-| ----- | ----------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m mixte | 3e       |          |
+| Année | Compétition                                           | Résultat         | Remarque |
+| ----- | ----------------------------------------------------- | ---------------- | -------- |
+| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m mixte | 3e               |          |
+| 2025  | [[Championnats du monde d'athlétisme]] - 400m         | Eliminé en série |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
