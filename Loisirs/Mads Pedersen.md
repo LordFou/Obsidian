@@ -29,6 +29,7 @@ type: personne
 | 2025  | [[Tour du Danemark]] - 4e étape                                     | 1ier     |                            |
 | 2025  | [[Tour du Danemark]] - 5e étape                                     | 1ier     |                            |
 | 2025  | [[Tour du Danemark]] - Classement Final                             | 1ier     |                            |
+| 2025  | [[Tour d'Espagne]] - Maillot Points                                 | 1ier     |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

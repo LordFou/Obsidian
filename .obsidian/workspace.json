@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonas Vingegaard.md",
+                "file": "Matthew Riccitello.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jonas Vingegaard"
+              "title": "Matthew Riccitello"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Jonas Vingegaard.md",
+                "file": "Matthew Riccitello.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Jonas Vingegaard"
+              "title": "Graphique de Matthew Riccitello"
             }
           }
         ]
@@ -254,6 +254,9 @@
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+    "Loisirs/Mads Pedersen.md",
+    "Jay Vine.md",
+    "Jonas Vingegaard.md",
     "Thierry Neuville.md",
     "Sébastien Ogier.md",
     "Loisirs/Sport/Compétitions/Rallye du Chili.md",
@@ -277,10 +280,7 @@
     "Charles Weerts.md",
     "Thomas Carmoy.md",
     "Tia Hellebaut.md",
-    "Barry Baltus.md",
-    "JO 2008.md",
     "Attachments/image-48.webp",
-    "Raphaël Collignon.md",
     "Attachments/image-47.webp",
     "Attachments/image-46.webp",
     "Attachments/image-45.webp",
