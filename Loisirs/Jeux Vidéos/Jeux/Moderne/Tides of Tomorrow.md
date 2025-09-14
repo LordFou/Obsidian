@@ -8,7 +8,7 @@ type: game
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Digixart]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
