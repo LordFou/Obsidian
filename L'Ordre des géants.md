@@ -7,6 +7,7 @@ type: game
 ## Informations Générales
 
 - **Année de sortie** : 2025
+- **Type** : DLC de [[Indiana Jones And The Great Circle]]
 - **Développeur** : 
 	- Studio : [[Machine Games]]
 	- Personnalités : 
