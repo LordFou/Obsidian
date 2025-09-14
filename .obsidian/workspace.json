@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tennis.md",
+                "file": "Loisirs/Sport/Compétitions/Rallie du Chili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tennis"
+              "title": "Rallie du Chili"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tennis.md",
+                "file": "Loisirs/Sport/Compétitions/Rallie du Chili.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Tennis"
+              "title": "Graphique de Rallie du Chili"
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tournoi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,7 +177,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,6 +253,8 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
+    "Tennis.md",
+    "Loisirs/Sport/Compétitions/Rallie du Chili.md",
     "Greet Minnen.md",
     "Attachments/image-49.webp",
     "Tournoi de Le Neubourg.md",
@@ -286,7 +289,6 @@
     "Attachments/image-42.webp",
     "Attachments/image-41.webp",
     "Attachments/image-40.webp",
-    "Loisirs/Sport/Lucas Coenen.md",
     "Loisirs/Sport/Equipes",
     "Généalogie des Jeux Vidéos.canvas",
     "Historique Jeu Vidéo.canvas",
