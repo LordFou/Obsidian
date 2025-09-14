@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                    | Résultat   | Remarque |
 | ----- | ------------------------------ | ---------- | -------- |
-| 2025  | [[tournoi ITF de Le Neubourg]] | Vainqueure |          |
+| 2025  | [[Tournoi de Le Neubourg]] | Vainqueure |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
