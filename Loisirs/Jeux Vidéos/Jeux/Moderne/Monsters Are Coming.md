@@ -8,9 +8,9 @@ type: game
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : Ludogram
+	- Studio : [[Ludogram]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Raw Fury]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** : [[Vampire Survivor Like]]
@@ -22,6 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
+	- Le twist, c'est que vous jouez une ville sur roulette !
 - **Durée estimée** : 
 
 ## Histoire et Univers
