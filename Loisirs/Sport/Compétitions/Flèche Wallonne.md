@@ -17,7 +17,7 @@ Une des plus célèbres courses belges de cyclisme de la planète à cause de sa
 |       |                            |             |                                       |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur         | Nationalité | Remarque |
+| ----- | ----------------- | ----------- | -------- |
+| 2022  | [[Marta Cavalli]] | Italienne   |          |
+|       |                   |             |          |

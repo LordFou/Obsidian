@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
+                "file": "Loisirs/Sport/Flèche Wallonne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amstel Gold Race"
+              "title": "Flèche Wallonne"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
+                "file": "Loisirs/Sport/Flèche Wallonne.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Amstel Gold Race"
+              "title": "Graphique de Flèche Wallonne"
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Amstel Gold Race",
+                "query": "Flèche Wallonne",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,8 +177,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -251,8 +250,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "acbfcced6e5eac9a",
+  "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Flèche Wallonne.md",
+    "Loisirs/Sport/Flèche Wallonne.md",
+    "Loisirs/Sport/Compétitions/Flèche Brabançonne.md",
+    "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
     "Mario.md",
     "Journal de bord/2025-09-14.md",
     "Marten Van Riel.md",
@@ -286,10 +289,6 @@
     "Loisirs/Sport/Equipes",
     "Championnats du monde d'athlétisme.md",
     "Valarie Allman.md",
-    "Victor Koretzky.md",
-    "Championnats du Monde de Mountainbike.md",
-    "Alan Hatherly.md",
-    "Noah Lyles.md",
     "Généalogie des Jeux Vidéos.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",

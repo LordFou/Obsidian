@@ -17,6 +17,6 @@ Une des seules grandes courses néerlandaises, plutôt du style des courses arde
 
 | Année | Vainqueur            | Nationalité  | Remarque |
 | ----- | -------------------- | ------------ | -------- |
-| 2022  | Marta Cavalli        | Italienne    |          |
+| 2022  | [[Marta Cavalli]]    | Italienne    |          |
 | 2025  | [[Mischa Bredewold]] | Néerlandaise |          |
 |       |                      |              |          |
