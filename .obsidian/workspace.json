@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sans titre.md",
+                "file": "Loisirs/Jeux Vidéos/Coyotte Time.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sans titre"
+              "title": "Coyotte Time"
             },
             "group": "36f71f1f821c2922"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sans titre.md",
+                "file": "Loisirs/Jeux Vidéos/Coyotte Time.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Sans titre"
+              "title": "Graphique de Coyotte Time"
             },
             "group": "36f71f1f821c2922"
           }
@@ -256,7 +256,7 @@
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Monsters Are Coming.md",
-    "Loisirs/Jeux Vidéos/Sans titre.md",
+    "Loisirs/Jeux Vidéos/Coyotte Time.md",
     "Ludogram.md",
     "Shiro Games.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/SpaceCraft.md",
