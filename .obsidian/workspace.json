@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Grand Prix de Montréal.md",
+                "file": "Brandon McNulty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grand Prix de Montréal"
+              "title": "Brandon McNulty"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Grand Prix de Montréal.md",
+                "file": "Brandon McNulty.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Grand Prix de Montréal"
+              "title": "Graphique de Brandon McNulty"
             }
           }
         ]
@@ -253,8 +253,8 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
-    "Brandon McNulty.md",
     "Loisirs/Sport/Compétitions/Grand Prix de Montréal.md",
+    "Brandon McNulty.md",
     "Grand Prix Fourmies.md",
     "Paul Magnier.md",
     "Isaac Del Toro.md",
