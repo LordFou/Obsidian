@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : [[Raw Fury]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Vampire Survivor Like]]
+- **Genre** : [[Vampire Survivor Like]], [[Tower Defense]], [[City-Builder]]
 - **Résumé** : 
 
 ## Détails Techniques
