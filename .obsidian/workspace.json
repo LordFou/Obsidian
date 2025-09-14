@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pearl Abyss.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pearl Abyss"
+              "title": "Crimson Desert"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pearl Abyss.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Pearl Abyss"
+              "title": "Graphique de Crimson Desert"
             }
           }
         ]
@@ -253,8 +253,8 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
     "Pearl Abyss.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
     "Attachments/image-51.webp",
     "Milestone S.r.l..md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Screamer.md",
