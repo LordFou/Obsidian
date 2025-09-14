@@ -24,4 +24,4 @@ type: personne
 - 
 
 ##  Liens connexes
-- Article Le 
+- [Article Le Soir](https://www.lesoir.be/698641/article/2025-09-12/mario-le-daron-du-jeu-video-souffle-ses-40-bougies) <= A Analyser
