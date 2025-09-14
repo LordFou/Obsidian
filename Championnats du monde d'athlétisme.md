@@ -18,10 +18,10 @@ type: event
 | 2025  | 100m         |                    |             |          |
 ## Femmes
 
-| Année | Vainqueur    | Nationalité | Remarque |
-| ----- | ------------ | ----------- | -------- |
-| 2025  | 100m         |             |          |
-| 2025  | Saut en long |             |          |
+| Année | Epreuve         | Vainqueur            | Nationalité | Remarque |
+| ----- | --------------- | -------------------- | ----------- | -------- |
+| 2025  | 100m            |                      |             |          |
+| 2025  | Saut en longeur | Sarah Davis-Woodhall | Américaine  |          |
 # 2026
 
 ## Hommes
