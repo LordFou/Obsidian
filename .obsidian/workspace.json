@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raphaël Collignon.md",
+                "file": "Journal de bord/2025-09-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raphaël Collignon"
+              "title": "2025-09-14"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Raphaël Collignon.md",
+                "file": "Journal de bord/2025-09-14.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Raphaël Collignon"
+              "title": "Graphique de 2025-09-14"
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "seg",
+                "query": "Barry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -252,6 +252,8 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
+    "Raphaël Collignon.md",
+    "Barry Baltus.md",
     "Journal de bord/2025-09-14.md",
     "Coupe Davis.md",
     "Loisirs/Sport/Sportifs/Alexander Doom.md",
@@ -287,8 +289,6 @@
     "Mario.md",
     "Super Mario Bros.md",
     "Memorial Pantani.md",
-    "Michael Storer.md",
-    "Tour de l’Ardèche.md",
     "Généalogie des Jeux Vidéos.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",

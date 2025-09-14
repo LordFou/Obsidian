@@ -18,7 +18,7 @@ type: personne
 | 2025  | [[GP Aragon]]            | 3e            | Moto 2   |     |
 | 2025  | GP d'Allemagne           | 2e            | Moto 2   |     |
 | 2025  | GP de République Tchèque | Poleman<br>2e | Moto 2   |     |
-|       |                          |               |          |     |
+| 2025  |                          |               |          |     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
