@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-09-14.md",
+                "file": "Mario.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-14"
+              "title": "Mario"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2025-09-14.md",
+                "file": "Mario.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-09-14"
+              "title": "Graphique de Mario"
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Barry",
+                "query": "Mario",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -252,9 +252,9 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
+    "Journal de bord/2025-09-14.md",
     "Marten Van Riel.md",
     "Mondiaux de Thriatlon.md",
-    "Journal de bord/2025-09-14.md",
     "1000 km de Suzuka.md",
     "Charles Weerts.md",
     "Thomas Carmoy.md",
