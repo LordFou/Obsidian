@@ -7,8 +7,8 @@ type: personne
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** :  
-- **Poste / Spécialité** (si applicable) :  
+- **Sport / Discipline** : [[Athlétisme]] 
+- **Poste / Spécialité** (si applicable) : [[Saut en hauteur]]  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
@@ -31,4 +31,4 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 
 # Sources et Références
 - [Lien vers une source](#)
-- [Article détaillé
+- [Article détaillé](#)
