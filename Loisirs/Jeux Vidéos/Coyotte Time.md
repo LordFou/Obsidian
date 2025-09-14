@@ -4,3 +4,4 @@ Le “coyote time” s’appelle ainsi car il rappelle le moment où Wile E. Coy
 
 Le “coyote time” est souvent utilisé dans les jeux pour rendre le gameplay plus fluide et plus facile à maîtriser, en permettant aux joueurs de réaliser des actions qui seraient autrement impossibles ou difficiles à effectuer. Cependant, il peut également être utilisé de manière abusive pour rendre un jeu trop facile ou pour masquer des erreurs de programmation.
 
+[Source](https://videogamecreation.fr/glossaire/coyote-time/)
