@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-09-14.md",
+                "file": "Raphaël Collignon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-14"
+              "title": "Raphaël Collignon"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2025-09-14.md",
+                "file": "Raphaël Collignon.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-09-14"
+              "title": "Graphique de Raphaël Collignon"
             }
           }
         ]
@@ -252,6 +252,8 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
+    "Journal de bord/2025-09-14.md",
+    "Coupe Davis.md",
     "Loisirs/Sport/Sportifs/Alexander Doom.md",
     "Attachments/image-47.webp",
     "Daniel Segers.md",
@@ -266,7 +268,6 @@
     "Attachments/image-38.webp",
     "Loisirs/Sport/Lucas Coenen.md",
     "Yanla Ndjip-Nyemeck.md",
-    "Journal de bord/2025-09-14.md",
     "Yellow Tigers.md",
     "Championnat d'Europe de Volley-Ball.md",
     "Volley-Ball.md",
