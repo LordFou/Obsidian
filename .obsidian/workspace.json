@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Championnats du monde d'athlétisme.md",
+                "file": "Sarah Davis-Woodhall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Championnats du monde d'athlétisme"
+              "title": "Sarah Davis-Woodhall"
             }
           }
         ],
@@ -50,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Championnats du monde d'athlétisme.md",
+                "file": "Sarah Davis-Woodhall.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Championnats du monde d'athlétisme"
+              "title": "Graphique de Sarah Davis-Woodhall"
             }
           }
         ]
@@ -268,8 +268,9 @@
   },
   "active": "6348dda5b5b65773",
   "lastOpenFiles": [
-    "Journal de bord/2025-09-14.md",
     "Championnats du monde d'athlétisme.md",
+    "Sarah Davis-Woodhall.md",
+    "Journal de bord/2025-09-14.md",
     "Jimmy Gressier.md",
     "Mario.md",
     "Super Mario Bros.md",
@@ -295,7 +296,6 @@
     "Dylan Borlée.md",
     "Templates/Tableau Sport.md",
     "Alexander Doom.md",
-    "Helena Ponette.md",
     "Attachments/image-34.webp",
     "Attachments/image-33.webp",
     "Attachments/image-32.webp",
