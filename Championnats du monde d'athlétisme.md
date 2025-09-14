@@ -22,3 +22,15 @@ type: event
 | ----- | --------- | ----------- | -------- |
 | 2025  | 100m      |             |          |
 |       |           |             |          |
+# 2026
+
+## Hommes
+
+| Année | Epreuve | Vainqueur | Nationalité | Remarque |
+| ----- | ------- | --------- | ----------- | -------- |
+
+## Femmes
+
+| Année | Vainqueur | Nationalité | Remarque |
+| ----- | --------- | ----------- | -------- |
+|       |           |             |          |
