@@ -27,6 +27,7 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Vatican]]
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
