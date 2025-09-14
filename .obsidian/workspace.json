@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UAE.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Screamer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UAE"
+              "title": "Screamer"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "UAE.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Screamer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de UAE"
+              "title": "Graphique de Screamer"
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Paul Magnier",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,7 +177,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -250,8 +251,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
+    "UAE.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Screamer.md",
     "Brandon McNulty.md",
     "Loisirs/Sport/Compétitions/Grand Prix de Montréal.md",
     "Grand Prix Fourmies.md",
@@ -277,8 +280,6 @@
     "Mads Andersen.md",
     "Loisirs/Sport/Compétitions/Flèche Wallonne.md",
     "Loisirs/Sport/Flèche Wallonne.md",
-    "Loisirs/Sport/Compétitions/Flèche Brabançonne.md",
-    "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
     "Attachments/image-48.webp",
     "Attachments/image-47.webp",
     "Attachments/image-46.webp",
