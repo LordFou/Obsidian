@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Valarie Allman.md",
+                "file": "Championnats du monde d'athlétisme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Valarie Allman"
+              "title": "Championnats du monde d'athlétisme"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Valarie Allman.md",
+                "file": "Championnats du monde d'athlétisme.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Valarie Allman"
+              "title": "Graphique de Championnats du monde d'athlétisme"
             }
           }
         ]
@@ -252,8 +252,8 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
-    "Victor Koretzky.md",
     "Valarie Allman.md",
+    "Victor Koretzky.md",
     "Championnats du monde d'athlétisme.md",
     "Journal de bord/2025-09-14.md",
     "Attachments/image-37.webp",
