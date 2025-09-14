@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Noah Lyles.md",
+                "file": "Championnats du monde d'athlétisme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Noah Lyles"
+              "title": "Championnats du monde d'athlétisme"
             }
           }
         ],
@@ -50,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Noah Lyles.md",
+                "file": "Championnats du monde d'athlétisme.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Noah Lyles"
+              "title": "Graphique de Championnats du monde d'athlétisme"
             }
           }
         ]
@@ -268,8 +268,8 @@
   },
   "active": "6348dda5b5b65773",
   "lastOpenFiles": [
-    "Championnats du monde d'athlétisme.md",
     "Noah Lyles.md",
+    "Championnats du monde d'athlétisme.md",
     "Oblique Seville.md",
     "Loisirs/Sport/Sportifs/Shelly-Ann Fraser-Pryce.md",
     "Championnats du Monde de Mountainbike.md",
