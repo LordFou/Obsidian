@@ -1,1 +1,1 @@
-- L'équipe affiche 85 succès en 2025, égalant la marque de Columbia-HTC en 2009.
+- L'équipe affiche 85 succès en 2025, record de victoire en 1 an, égalant la marque de Columbia-HTC en 2009.
