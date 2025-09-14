@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Trofeo Matteotti.md",
+                "file": "Isaac Del Toro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trofeo Matteotti"
+              "title": "Isaac Del Toro"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Trofeo Matteotti.md",
+                "file": "Isaac Del Toro.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Trofeo Matteotti"
+              "title": "Graphique de Isaac Del Toro"
             }
           }
         ]
@@ -178,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -251,10 +251,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f14f4e7710cc30d",
+  "active": "acbfcced6e5eac9a",
   "lastOpenFiles": [
-    "Matthew Riccitello.md",
     "Loisirs/Sport/Compétitions/Trofeo Matteotti.md",
+    "Matthew Riccitello.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "Loisirs/Mads Pedersen.md",
     "Jay Vine.md",

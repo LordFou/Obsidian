@@ -19,12 +19,18 @@ type: personne
 | 2025  | ?                                     | 1ier     |          |
 | 2025  | ?                                     | 1ier     |          |
 | 2025  | ?                                     | 1ier     |          |
+| 2025  | ?                                     | 1ier     |          |
+| 2025  | ?                                     | 1ier     |          |
+| 2025  | ?                                     | 1ier     |          |
+| 2025  | ?                                     | 1ier     |          |
+| 2025  | ?                                     | 1ier     |          |
 | 2025  | [[Tour d'Autriche]] - 2e étape        | 1ier     |          |
 | 2025  | [[Tour d'Autriche]] - 3e étape        | 1ier     |          |
 | 2025  | [[Tour d'Autriche]] - 4e étape        | 1ier     |          |
 | 2025  | [[Classica Terres del Ebre]]          | 1ier     |          |
 | 2025  | [[Tour de Burgos]] - Classement final | 1ier     |          |
 | 2025  | [[Coppa Sabatini]]                    | 1ier     |          |
+| 2025  | [[Trofeo Matteotti]]                  | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
