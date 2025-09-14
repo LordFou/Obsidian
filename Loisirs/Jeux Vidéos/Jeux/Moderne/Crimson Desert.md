@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Pearl Abyss]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Pearl Abyss]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :
