@@ -10,18 +10,18 @@ type: game
 - **Développeur** : 
 	- Studio : [[Milestone S.r.l.]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Milestone S.r.l.]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Course]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 3D
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-- **Gameplay** :
+- **Gameplay** : 
 - **Durée estimée** : 
 
 ## Histoire et Univers

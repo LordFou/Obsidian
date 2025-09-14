@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Milestone S.r.l..md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Screamer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Milestone S.r.l."
+              "title": "Screamer"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Milestone S.r.l..md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Screamer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Milestone S.r.l."
+              "title": "Graphique de Screamer"
             }
           }
         ]
@@ -253,8 +253,8 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Screamer.md",
     "Milestone S.r.l..md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Screamer.md",
     "Attachments/image-50.webp",
     "UAE.md",
     "Brandon McNulty.md",

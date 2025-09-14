@@ -24,9 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre        | Genre              | Plateformes           |
-| ----- | ------------ | ------------------ | --------------------- |
-| 2025  | [[Screamer]] | Action / RPG / FPS | PC, PS5, Xbox, Switch |
+| Année | Titre        | Genre  | Plateformes |
+| ----- | ------------ | ------ | ----------- |
+| 2025  | [[Screamer]] | Course | PC          |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
