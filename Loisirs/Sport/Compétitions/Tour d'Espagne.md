@@ -35,7 +35,7 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 | 18e (ITA)     | [[Filippo Ganna]]     | [[Jonas Vingegaard]] |                      |                      |                        |                                                                                  |
 | ==19e (BEL)== | [[Jasper Philipsen]]  | [[Jonas Vingegaard]] |                      |                      |                        |                                                                                  |
 | 20e (DAN)     | [[Jonas Vingegaard]]  | [[Jonas Vingegaard]] | [[Jay Vine]]         | [[Mads Pedersen]]    | [[Matthew Riccitello]] | 9e - [[Junior Lecerf]]                                                           |
-| 21e           | -                     |                      |                      |                      |                        |                                                                                  |
+| 21e           | -                     | [[Jonas Vingegaard]] | [[Jay Vine]]         | [[Mads Pedersen]]    | [[Matthew Riccitello]] | 11e - [[Junior Lecerf]]                                                          |
 #### General
 | Année | Vainqueur            | Nationalité | Remarque |
 | ----- | -------------------- | ----------- | -------- |
