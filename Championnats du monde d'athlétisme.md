@@ -18,11 +18,11 @@ type: event
 | 2025  | 100m         |                    |             |          |
 ## Femmes
 
-| Année | Epreuve         | Vainqueur                | Nationalité | Remarque |
-| ----- | --------------- | ------------------------ | ----------- | -------- |
-| 2025  | 100m            | Jefferson-Wooden         | Américaine  |          |
-| 2025  | Saut en longeur | [[Sarah Davis-Woodhall]] | Américaine  |          |
-| 2025  |                 |                          |             |          |
+| Année | Epreuve         | Vainqueur                    | Nationalité | Remarque |
+| ----- | --------------- | ---------------------------- | ----------- | -------- |
+| 2025  | 100m            | [[Melissa Jefferson-Wooden]] | Américaine  |          |
+| 2025  | Saut en longeur | [[Sarah Davis-Woodhall]]     | Américaine  |          |
+| 2025  |                 |                              |             |          |
 # 2026
 
 ## Hommes

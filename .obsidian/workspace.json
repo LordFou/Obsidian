@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Fraser-Pryce.md",
+                "file": "Melissa Jefferson-Wooden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fraser-Pryce"
+              "title": "Melissa Jefferson-Wooden"
             }
           }
         ],
@@ -50,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Fraser-Pryce.md",
+                "file": "Melissa Jefferson-Wooden.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Fraser-Pryce"
+              "title": "Graphique de Melissa Jefferson-Wooden"
             }
           }
         ]
@@ -269,8 +269,9 @@
   "active": "6348dda5b5b65773",
   "lastOpenFiles": [
     "Championnats du monde d'athlétisme.md",
-    "Journal de bord/2025-09-14.md",
+    "Melissa Jefferson-Wooden.md",
     "Loisirs/Sport/Sportifs/Fraser-Pryce.md",
+    "Journal de bord/2025-09-14.md",
     "Sarah Davis-Woodhall.md",
     "Jimmy Gressier.md",
     "Mario.md",
@@ -295,7 +296,6 @@
     "Attachments/image-35.webp",
     "Belgian Waffles.md",
     "Dylan Borlée.md",
-    "Templates/Tableau Sport.md",
     "Attachments/image-34.webp",
     "Attachments/image-33.webp",
     "Attachments/image-32.webp",
