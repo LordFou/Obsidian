@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-50.webp]]
 # Screamer
 
 ## Informations Générales
