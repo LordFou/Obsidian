@@ -41,6 +41,7 @@ type: event
 
 | Année | Vainqueur           | Nationalité | Remarque |
 | ----- | ------------------- | ----------- | -------- |
+| 2024  | [[Noah Lyles]]      | Américain   |          |
 | 2025  | [[Oblique Seville]] | Jamaicain   |          |
 
 ## 200m
