@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brandon McNulty.md",
+                "file": "UAE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brandon McNulty"
+              "title": "UAE"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Brandon McNulty.md",
+                "file": "UAE.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Brandon McNulty"
+              "title": "Graphique de UAE"
             }
           }
         ]
@@ -177,8 +177,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -251,10 +250,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f14f4e7710cc30d",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
-    "Loisirs/Sport/Compétitions/Grand Prix de Montréal.md",
     "Brandon McNulty.md",
+    "Loisirs/Sport/Compétitions/Grand Prix de Montréal.md",
     "Grand Prix Fourmies.md",
     "Paul Magnier.md",
     "Isaac Del Toro.md",
