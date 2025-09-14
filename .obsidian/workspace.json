@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yellow Tigers.md",
+                "file": "Yanla Ndjip-Nyemeck.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yellow Tigers"
+              "title": "Yanla Ndjip-Nyemeck"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Yellow Tigers.md",
+                "file": "Yanla Ndjip-Nyemeck.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Yellow Tigers"
+              "title": "Graphique de Yanla Ndjip-Nyemeck"
             }
           }
         ]
@@ -253,11 +253,13 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
+    "Journal de bord/2025-09-14.md",
+    "Yellow Tigers.md",
+    "Championnat d'Europe de Volley-Ball.md",
     "Volley-Ball.md",
     "Loisirs/Sport/Equipes/Red Dragons.md",
     "Yanla Ndjip-Nyemeck.md",
     "Loisirs/Sport/Equipes",
-    "Journal de bord/2025-09-14.md",
     "Championnats du monde d'athlétisme.md",
     "Valarie Allman.md",
     "Victor Koretzky.md",
@@ -279,8 +281,6 @@
     "Marion Bunel.md",
     "Matthew Riccitello.md",
     "Tour de l'Ardèche.md",
-    "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
-    "Jenny Rissveds.md",
     "Attachments/image-36.webp",
     "Attachments/image-35.webp",
     "Attachments/image-34.webp",
