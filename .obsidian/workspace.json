@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "2025-09-14"
             }
+          },
+          {
+            "id": "6348dda5b5b65773",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cdcac3bbc786d45a",
@@ -35,7 +46,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2025-09-14.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-jour",
@@ -63,7 +73,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-09-14"
+              "title": "Vue graphique"
             }
           }
         ]
@@ -250,10 +260,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f14f4e7710cc30d",
+  "active": "6348dda5b5b65773",
   "lastOpenFiles": [
-    "Mario.md",
     "Journal de bord/2025-09-14.md",
+    "Mario.md",
     "Super Mario Bros.md",
     "Memorial Pantani.md",
     "Michael Storer.md",
