@@ -150,7 +150,7 @@
         "width": 500,
         "resizeScaleMode": "auto",
         "respectEditorMaxWidth": true,
-        "maintainAspectRatio": false,
+        "maintainAspectRatio": true,
         "resizeUnits": "pixels"
       },
       {
