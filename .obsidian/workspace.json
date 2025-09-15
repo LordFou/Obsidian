@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-09-15.md",
+                "file": "Loisirs/Sport/Compétitions/Grand Prix de Montréal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-15"
+              "title": "Grand Prix de Montréal"
             },
             "group": "36f71f1f821c2922"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2025-09-15.md",
+                "file": "Loisirs/Sport/Compétitions/Grand Prix de Montréal.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-09-15"
+              "title": "Graphique de Grand Prix de Montréal"
             },
             "group": "36f71f1f821c2922"
           }
@@ -253,8 +253,8 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
-    "Loisirs/Sport/Compétitions/Grand Prix de Montréal.md",
     "Journal de bord/2025-09-15.md",
+    "Loisirs/Sport/Compétitions/Grand Prix de Montréal.md",
     "Loisirs/Jeux Vidéos/Coyotte Time.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Monsters Are Coming.md",
     "Ludogram.md",
