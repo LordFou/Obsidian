@@ -8,10 +8,10 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur           | Nationalité | Remarque |
-| ----- | ------------------- | ----------- | -------- |
-| 2025  | [[Brandon McNulty]] | Anglais     |          |
-|       |                     |             |          |
+| Année | Vainqueur           | Nationalité | Remarque              |
+| ----- | ------------------- | ----------- | --------------------- |
+| 2025  | [[Brandon McNulty]] | Anglais     | 7e - [[Tiesj Benoot]] |
+|       |                     |             |                       |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
