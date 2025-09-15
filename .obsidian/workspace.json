@@ -60,7 +60,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
@@ -252,7 +252,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f14f4e7710cc30d",
+  "active": "3d70c54db6770282",
   "lastOpenFiles": [
     "Loisirs/Jeux Vidéos/Coyotte Time.md",
     "Journal de bord/2025-09-15.md",
