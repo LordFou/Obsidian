@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "montr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -150,8 +150,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Le module complémentaire n'est plus actif."
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -179,8 +179,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,8 +214,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Le module complémentaire n'est plus actif."
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -238,6 +237,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
+      "bases:Create new base": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -246,12 +248,10 @@
       "command-palette:Ouvrir la palette de commandes": false,
       "markdown-importer:Ouvrir l'importateur Markdown": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
-      "obsidian-git:Open Git source control": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "3d70c54db6770282",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
     "Loisirs/Jeux Vidéos/Coyotte Time.md",
     "Journal de bord/2025-09-15.md",
