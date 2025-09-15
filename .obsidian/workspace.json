@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Grand Prix de Montréal.md",
+                "file": "Euro de Basket.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grand Prix de Montréal"
+              "title": "Euro de Basket"
             },
             "group": "36f71f1f821c2922"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Grand Prix de Montréal.md",
+                "file": "Euro de Basket.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Grand Prix de Montréal"
+              "title": "Graphique de Euro de Basket"
             },
             "group": "36f71f1f821c2922"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "montr",
+                "query": "Basket",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,8 +253,8 @@
   },
   "active": "2f14f4e7710cc30d",
   "lastOpenFiles": [
-    "Journal de bord/2025-09-15.md",
     "Loisirs/Sport/Compétitions/Grand Prix de Montréal.md",
+    "Journal de bord/2025-09-15.md",
     "Loisirs/Jeux Vidéos/Coyotte Time.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Monsters Are Coming.md",
     "Ludogram.md",
