@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-09-23.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/CloverPit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-23"
+              "title": "CloverPit"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Clover",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,10 +206,15 @@
   },
   "active": "962617cb8e60022c",
   "lastOpenFiles": [
-    "Panik Arcade.md",
-    "Journal de bord/2025-09-23.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/CloverPit.md",
+    "Sydney McLaughlin-Levrone.md",
+    "Championnats du monde d'athlétisme.md",
+    "Championnat du Monde de Cyclisme.md",
     "Journal de bord/2025-09-22.md",
+    "Journal de bord/2025-09-23.md",
+    "Journal de bord/2025-09-21.md",
+    "Journal de bord/2025-09-20.md",
+    "Panik Arcade.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/CloverPit.md",
     "Attachments/image-110.webp",
     "Loisirs/Jeux Vidéos/Plateformes/TRS-80.md",
     "Radioshack.md",
@@ -222,9 +226,7 @@
     "Loisirs/Jeux Vidéos/Plateformes/Amiga 6000 - V4 Appolo.md",
     "Loisirs/Sport/Sportifs/Thibault Philippaerts.md",
     "Gilles Thomas.md",
-    "Championnats du monde d'athlétisme.md",
     "Alphonce Felix Simbu.md",
-    "Sydney McLaughlin-Levrone.md",
     "Faith Kipyegon.md",
     "Beatrice Chebet.md",
     "Cole Hocker.md",
@@ -233,9 +235,6 @@
     "Eliott Crestan.md",
     "John Heymans.md",
     "Loisirs/Sport/Sportifs/Jente Hauttekeete.md",
-    "Loisirs/Sport/Sportifs/Alexander Doom.md",
-    "Daniel Segers.md",
-    "Loisirs/Sport/Sportifs/Ben Broeders.md",
     "Attachments/image-107.webp",
     "Attachments/image-106.webp",
     "Généalogie Matos Atari.canvas",
