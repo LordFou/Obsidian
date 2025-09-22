@@ -1,7 +1,7 @@
 ---
 type: societe
 ---
-
+![[image-58.webp]]
 # Sega
 
 ## Présentation
@@ -15,6 +15,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
+	- Sonic
 
 ```timeline-labeled
 [line-5, body-2]
@@ -40,7 +41,7 @@ Décrire le style graphique, les thématiques abordées, les influences notables
 Lister les prix, distinctions ou records obtenus.
 
 ## Controverses ou Événements Marquants
-Évoquer les polémiques ou faits marquants de l’histoire de la société.
+- En 2025, SEGA déménage. Quelqu'un rachète une partie du matos des bureaux (cela évite à Sega de tout déménager). Cette partie comprenait des kits de dev des consoles [[Nintendo]]. Ils ont tenté d'emmerder le mec qui a racheté en faisant débarquer la police pour l'accusé de recel. Mais le mec était droit dans ses bottes.
 
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.

@@ -8,12 +8,12 @@ type: game
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Konami]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : PC, [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : [[Franchise Silent Hill|Silent Hill]]
-- **Genre** :
+- **Genre** : [[Survival Horror]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -22,8 +22,8 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- [[Canard PC]]
-		- Ambiance vieux silent hill qui fonctionne bien
-		- Monstres bien bien
+		- Ambiance vieux Silent Hill qui fonctionne bien
+		- Monster Design est vraiment bien bien
 		- Combats bof bof
 - **Gameplay** :
 - **Durée estimée** : 
@@ -31,10 +31,11 @@ type: game
 ## Histoire et Univers
 - **Lieu(x)** : 
 	- [[Japon]]
+	- Champs de Wasabi
 - **Epoque** : 
 	- [[Années 60]], à l'époque des [[luttes féministes]] au Japon
 - **Personnages principaux** : 
-	- Une lycéenne
+	- Une lycéenne : [[Hinako]]
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
@@ -44,6 +45,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                          |
+| ----------- | ---------------------------- |
+| Trailer     | https://youtu.be/l38Q1XJ2HO8 |

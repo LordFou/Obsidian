@@ -11,7 +11,7 @@ type: game
 	- Studio : [[Rogue Factor]]
 	- Personnalités : [[Jonathan Jacques-Belletête]] (Directeur Créatif)
 - **Éditeur** : [[Nacon]]
-- **Plateformes** : 
+- **Plateformes** : PC, [[Playstation 5]],[[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Action]], [[Aventure]], [[RPG]]
 - **Résumé** : action-RPG en monde semi-ouvert, dont les combats rappellent [[Dark Souls]] et l'univers post-apo fait penser à Stalker

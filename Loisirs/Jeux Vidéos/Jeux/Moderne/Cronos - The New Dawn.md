@@ -11,7 +11,7 @@ type: game
 	- Studio : [[Bloober Team]]
 	- Personnalités : 
 - **Éditeur** : [[Bloober Team]]
-- **Plateformes** : 
+- **Plateformes** : PC, [[Playstation 5]],[[Xbox Series]],[[Switch 2]]
 - **Franchise** : 
 - **Genre** : [[Horreur]], [[Action]]
 - **Résumé** : 

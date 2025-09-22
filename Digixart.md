@@ -12,7 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  France
+- **Pays d’origine** :  France (Montpellier)
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 

@@ -4,69 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b791b435e05f877b",
+        "id": "971403bd9b57828b",
         "type": "tabs",
-        "dimension": 58.2382762991128,
         "children": [
           {
-            "id": "2f14f4e7710cc30d",
+            "id": "962617cb8e60022c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Euro de Basket.md",
+                "file": "Journal de bord/2025-09-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Euro de Basket"
-            },
-            "group": "36f71f1f821c2922"
-          }
-        ]
-      },
-      {
-        "id": "383df4e085db3f08",
-        "type": "tabs",
-        "dimension": 41.7617237008872,
-        "children": [
-          {
-            "id": "3d70c54db6770282",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Euro de Basket.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graphique de Euro de Basket"
-            },
-            "group": "36f71f1f821c2922"
+              "title": "2025-09-23"
+            }
           }
         ]
       }
@@ -87,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Basket",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,22 +132,23 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 294.5
   },
   "right": {
     "id": "2a4328d55d7357ae",
     "type": "split",
     "children": [
       {
-        "id": "f20ec018f1832915",
+        "id": "6b01a48df7e98e93",
         "type": "tabs",
         "children": [
           {
-            "id": "c7915efa1605c471",
+            "id": "c84a04fc0e9661e1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -209,7 +163,7 @@
             }
           },
           {
-            "id": "7d8a3532b8d1055a",
+            "id": "7b650f1619db0015",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -219,7 +173,7 @@
             }
           },
           {
-            "id": "c41369cef639682e",
+            "id": "c8ddbab28469fc36",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -233,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,58 +205,59 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f14f4e7710cc30d",
+  "active": "962617cb8e60022c",
   "lastOpenFiles": [
-    "Loisirs/Sport/Compétitions/Grand Prix de Montréal.md",
-    "Journal de bord/2025-09-15.md",
-    "Loisirs/Jeux Vidéos/Coyotte Time.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Monsters Are Coming.md",
-    "Ludogram.md",
-    "Shiro Games.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/SpaceCraft.md",
-    "No Man Sky.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/ROUTINE.md",
-    "Saber Interactive.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Road Kings.md",
-    "Attachments/image-53.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Indiana Jones And The Great Circle.md",
-    "Franchise Indiana Jones.md",
-    "L'Ordre des géants.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Tides of Tomorrow.md",
-    "Digixart.md",
-    "Loisirs/Jeux Vidéos/Personnalités/Pierre Corbinais.md",
-    "Road 96.md",
-    "Journal de bord/2025-09-14.md",
-    "Attachments/image-52.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
-    "Pearl Abyss.md",
-    "Attachments/image-51.webp",
-    "Milestone S.r.l..md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Screamer.md",
-    "Attachments/image-50.webp",
-    "UAE.md",
-    "Brandon McNulty.md",
-    "Grand Prix Fourmies.md",
-    "Attachments/image-49.webp",
-    "Attachments/image-48.webp",
-    "Attachments/image-47.webp",
-    "Attachments/image-46.webp",
-    "Attachments/image-45.webp",
-    "Attachments/image-44.webp",
-    "Loisirs/Sport/Equipes",
-    "Généalogie des Jeux Vidéos.canvas",
+    "Panik Arcade.md",
+    "Journal de bord/2025-09-23.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/CloverPit.md",
+    "Journal de bord/2025-09-22.md",
+    "Attachments/image-110.webp",
+    "Loisirs/Jeux Vidéos/Plateformes/TRS-80.md",
+    "Radioshack.md",
+    "Tandy.md",
+    "Attachments/image-109.webp",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Wobbly Life.md",
+    "Attachments/image-108.webp",
+    "RubberBandGames.md",
+    "Loisirs/Jeux Vidéos/Plateformes/Amiga 6000 - V4 Appolo.md",
+    "Loisirs/Sport/Sportifs/Thibault Philippaerts.md",
+    "Gilles Thomas.md",
+    "Championnats du monde d'athlétisme.md",
+    "Alphonce Felix Simbu.md",
+    "Sydney McLaughlin-Levrone.md",
+    "Faith Kipyegon.md",
+    "Beatrice Chebet.md",
+    "Cole Hocker.md",
+    "Melissa Jefferson-Wooden.md",
+    "Loisirs/Sport/Sportifs/Mondo Duplantis.md",
+    "Eliott Crestan.md",
+    "John Heymans.md",
+    "Loisirs/Sport/Sportifs/Jente Hauttekeete.md",
+    "Loisirs/Sport/Sportifs/Alexander Doom.md",
+    "Daniel Segers.md",
+    "Loisirs/Sport/Sportifs/Ben Broeders.md",
+    "Attachments/image-107.webp",
+    "Attachments/image-106.webp",
+    "Généalogie Matos Atari.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",
+    "Loisirs/Jeux Vidéos/Généalogie Société.canvas",
+    "Généalogie des Jeux Vidéos.canvas",
+    "Attachments/image-105.webp",
+    "Attachments/image-104.webp",
+    "Attachments/image-103.webp",
+    "Journal de bord/Archives",
+    "Attachments/image-102.webp",
+    "Attachments/image-101.webp",
+    "Loisirs/Jeux Vidéos/Moteurs",
+    "Loisirs/Sport/Equipes",
     "Loisirs/Jeux Vidéos/Généalogie Mr Driller.canvas",
     "Attachments/Download.mp4",
     "Loisirs/Jeux Vidéos/Livres",
-    "Loisirs/Jeux Vidéos/Généalogie Société.canvas",
     "Sans titre",
     "Loisirs/Internet",
     "Loisirs/Musique",
     "Culture",
-    "Loisirs",
-    "Famille/Papa Del",
-    "Famille/Fêtes"
+    "Loisirs"
   ]
 }

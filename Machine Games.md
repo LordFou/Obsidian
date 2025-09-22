@@ -18,15 +18,15 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
-content:
+date: septembre 2025  
+title: Une suite à [[Wolfenstein]] ?
+content: 
 ```
 
 ## Jeux Développés
-| Année | Titre      | Genre              | Plateformes           |
-| ----- | ---------- | ------------------ | --------------------- |
-| XXXX  | Nom du jeu | Action / RPG / FPS | PC, PS5, Xbox, Switch |
+| Année | Titre                                  | Genre            | Plateformes    |
+| ----- | -------------------------------------- | ---------------- | -------------- |
+| 2024  | [[Indiana Jones And The Great Circle]] | Action, Aventure | PC, PS5, Xbox, |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

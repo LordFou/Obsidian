@@ -19,6 +19,7 @@ type: personne
 | 2025  | [[Tour de Suisse]] - 6e étape  | 1ier     | Sprint   |
 | 2025  | [[Sprint de Copenhague]]       | 1ier     | Sprint   |
 | 2025  | [[Tour de France]] - 17e étape | 2e       | Sprint   |
+| 2025  | [[Super 8 Classic]]            | 3e       | Sprint   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

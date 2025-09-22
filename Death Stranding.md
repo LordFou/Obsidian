@@ -26,6 +26,7 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Désert]]
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :

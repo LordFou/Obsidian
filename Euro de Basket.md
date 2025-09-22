@@ -11,7 +11,7 @@ type: event
 | Année | Vainqueur | Lieu | Remarque |
 | ----- | --------- | ---- | -------- |
 | 2024  | Slovénie  | ?    |          |
-| 2025  |           |      |          |
+| 2025  | Allemagne |      |          |
 |       |           |      |          |
 # Femmes
 

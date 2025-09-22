@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Roguelite]]
 - **Résumé** : 
 
 ## Détails Techniques

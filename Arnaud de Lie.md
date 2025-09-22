@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-96.webp]]
 # Arnaud de Lie
 
 # Informations Générales
@@ -26,6 +26,8 @@ type: personne
 | 2025  | [[Renewi Tour]] - 5e étape         | 1ier 🥇  |                                                                 |
 | 2025  | [[Renewi Tour]] - Classement final | 1ier 🥇  |                                                                 |
 | 2025  | [[Bretagne Classic]]               | 1ier 🥇  |                                                                 |
+| 2025  | [[Grand Prix de Wallonie]]         | 1ier 🥇  | Sprint trèèèèès long                                            |
+| 2025  | [[Super 8 Classic]]                | 1ier 🥇  | Sprint                                                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -41,3 +43,4 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 
 # Sources et Références
 - [Confidences](https://www.lesoir.be/688092/article/2025-07-16/javais-perdu-le-gout-de-la-vie-les-confidences-poignantes-darnaud-de-lie-apres)
+![[image-100.webp|500x282]]

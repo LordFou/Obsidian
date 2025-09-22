@@ -13,14 +13,15 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                           | Résultat | Remarque                           |
-| ----- | ------------------------------------- | -------- | ---------------------------------- |
-| 2023  | [[Tour de Suisse]] - Classement final | 1ière    |                                    |
-| 2025  | [[Tour de Suisse]] - 1e étape         | 1iere    | Sprint à 2 avec [[Demi Vollering]] |
-| 2025  | [[Tour de Suisse]] - 4e étape         | 1ière    |                                    |
-| 2025  | [[Tour de Suisse]] - Classement final | 1ière    |                                    |
-| 2025  | [[Tour d'Italie]] - 1e étape          | 1ière    | CLM<br>Maillot Rose                |
-| 2025  | [[Tour d'Italie]] - 4e étape          |          | Maillot Rose                       |
+| Année | Compétition                                | Résultat | Remarque                           |
+| ----- | ------------------------------------------ | -------- | ---------------------------------- |
+| 2023  | [[Tour de Suisse]] - Classement final      | 1ière    |                                    |
+| 2025  | [[Tour de Suisse]] - 1e étape              | 1iere    | Sprint à 2 avec [[Demi Vollering]] |
+| 2025  | [[Tour de Suisse]] - 4e étape              | 1ière    |                                    |
+| 2025  | [[Tour de Suisse]] - Classement final      | 1ière    |                                    |
+| 2025  | [[Tour d'Italie]] - 1e étape               | 1ière    | CLM<br>Maillot Rose                |
+| 2025  | [[Tour d'Italie]] - 4e étape               | ?        | Maillot Rose                       |
+| 2025  | [[Championnat du Monde de Cyclisme]] - CLM | 1ière    |                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

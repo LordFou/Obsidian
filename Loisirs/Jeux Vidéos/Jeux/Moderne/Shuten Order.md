@@ -9,18 +9,22 @@ type: game
 - **Année de sortie** : 2025
 - **Développeur** : 
 	- Studio : 
+		- [[Too Kyo Games]]
+		- [[DMM Games]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Spike Chunsoft]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Enquête]]
+- **Genre** : [[Enquête]], [[Aventure Narrative]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Checkpoint
+	  ![[image-101.webp|500x213]]
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -37,6 +41,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description      | URL                          |
+| ---------------- | ---------------------------- |
+| Gameplay Trailer | https://youtu.be/JLlfmevjGAk |

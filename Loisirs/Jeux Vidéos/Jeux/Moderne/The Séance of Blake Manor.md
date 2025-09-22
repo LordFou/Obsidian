@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : [[Raw Fury]]
 - **Plateformes** : PC
 - **Franchise** : 
-- **Genre** : [[Enquête]]
+- **Genre** : [[Enquête]], [[Horreur]]
 - **Résumé** : Jeu d'investigation surnaturelle prenant place en Irlande en 1897. Vous y enquêtez sur la disparition d'Evelyn Deane dans un hôtel isolé regorgeant de secrets et de phénomènes paranormaux
 
 ## Détails Techniques
@@ -31,9 +31,12 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Séance de divination]]
 - **Influencé par** :
+	- Les romans [[Agatha Christie]]
 - **A inspiré** : 
 - **Comparable à** :
+	- [[Blue Prince]] pour le côté [[gestion du temps]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources

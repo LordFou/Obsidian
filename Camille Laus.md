@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                              | Résultat | Remarque |
-| ----- | ------------------------------------------------------------------------ | -------- | -------- |
-| 2025  | [[Championnat de Belgique d'Athlétisme\|Championnat de Belgique]] - 800m | 1ière    |          |
+| Année | Compétition                                                              | Résultat    | Remarque      |
+| ----- | ------------------------------------------------------------------------ | ----------- | ------------- |
+| 2025  | [[Championnat de Belgique d'Athlétisme\|Championnat de Belgique]] - 800m | 1ière       |               |
+| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m                          | Finale (4e) | sous la pluie |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -22,9 +22,10 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre | Année | Plateformes | Remarque |
-| ----- | ----- | ----------- | -------- |
-|       |       |             |          |
+| Titre                               | Année | Plateformes | Remarque |
+| ----------------------------------- | ----- | ----------- | -------- |
+| [[Hitman]]                          |       |             |          |
+| [[Hitman - World of Assassination]] |       |             |          |
 
 
 ## Mécaniques et innovations

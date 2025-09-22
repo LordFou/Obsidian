@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-99.webp|500x281]]
 # Noah Lyles
 
 # Informations Générales
@@ -15,7 +15,11 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                   | Résultat | Remarque |
 | ----- | --------------------------------------------- | -------- | -------- |
+| 2019  | [[Championnats du monde d'athlétisme]] - 200m | 1ier     |          |
+| 2022  | [[Championnats du monde d'athlétisme]] - 200m | 1ier     |          |
+| 2023  | [[Championnats du monde d'athlétisme]] - 200m | 1ier     |          |
 | 2023  | [[Championnats du monde d'athlétisme]] - 100m | 1ier     |          |
+| 2025  | [[Championnats du monde d'athlétisme]] - 200m | 1ier     | 19.52    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

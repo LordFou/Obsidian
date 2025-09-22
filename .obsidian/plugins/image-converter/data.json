@@ -206,7 +206,7 @@
         "resizeUnits": "pixels"
       }
     ],
-    "selectedResizePreset": "Fit Editor"
+    "selectedResizePreset": "Width 500px"
   },
   "resizeCursorLocation": "none",
   "dropPasteCursorLocation": "back",
@@ -218,8 +218,8 @@
     "quality": 100,
     "colorDepth": 1,
     "resizeMode": "Fit",
-    "desiredWidth": 800,
-    "desiredHeight": 600,
+    "desiredWidth": 300,
+    "desiredHeight": 300,
     "desiredLongestEdge": 1000,
     "enlargeOrReduce": "Auto",
     "allowLargerFiles": false,

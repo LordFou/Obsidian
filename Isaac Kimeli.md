@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                     | Résultat | Remarque |
-| ----- | ------------------------------- | -------- | -------- |
-| 2025  | [[Meeting de Lausanne]] - 5000m | 1ier     |          |
+| Année | Compétition                                    | Résultat  | Remarque                              |
+| ----- | ---------------------------------------------- | --------- | ------------------------------------- |
+| 2025  | [[Meeting de Lausanne]] - 5000m                | 1ier      |                                       |
+| 2025  | [[Championnats du monde d'athlétisme]] - 5000m | Finale 🥈 | Série (13'13,06)<br>Finale (12'58,78) |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -17,6 +17,7 @@ type: personne
 | ----- | ------------------------------------------------------------------------- | -------- | ------------------ |
 | 2025  | [[Meeting de Liège]] - 5000m                                              | 4e       | Record de Belgique |
 | 2025  | [[Championnat de Belgique d'Athlétisme\|Championnat de Belgique]] - 5000m | 1e       |                    |
+| 2025  | [[Championnats du monde d'athlétisme]] - 10km                             | 19e      |                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

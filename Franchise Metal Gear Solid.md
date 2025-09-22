@@ -22,9 +22,12 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                | Année | Plateformes | Remarque |
-| -------------------- | ----- | ----------- | -------- |
-| [[Metal Gear Solid]] |       |             |          |
+| Titre                                    | Année | Plateformes | Remarque                      |
+| ---------------------------------------- | ----- | ----------- | ----------------------------- |
+| [[Metal Gear Solid]]                     |       |             |                               |
+| [[Metal Gear Solid 3]]                   |       |             |                               |
+| [[Metal Gear Solid 5]]                   |       |             |                               |
+| [[Metal Gear Solid Delta - Snake Eater]] |       |             | Remake [[Metal Gear Solid 3]] |
 
 
 ## Mécaniques et innovations

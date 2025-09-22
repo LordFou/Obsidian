@@ -13,12 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                            | Résultat | Remarque |
-| ----- | -------------------------------------- | -------- | -------- |
-| 2025  | [[Tour de Pologne]] - 7e étape         | 1ier     |          |
-| 2025  | [[Tour de Pologne]] - Classement final | 1ier     |          |
-| 2025  | [[Grand Prix de Montréal]]             | 1ier     |          |
-|       |                                        |          |          |
+| Année | Compétition                               | Résultat | Remarque |
+| ----- | ----------------------------------------- | -------- | -------- |
+| 2025  | [[Tour de Pologne]] - 7e étape            | 1ier     |          |
+| 2025  | [[Tour de Pologne]] - Classement final    | 1ier     |          |
+| 2025  | [[Grand Prix de Montréal]]                | 1ier     |          |
+| 2025  | [[Tour du Luxembourg]] - Classement final | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

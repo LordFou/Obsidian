@@ -11,3 +11,8 @@ Pendant ce temps :
 # Journalistes
 
 ![[Pasted image 20250901140937.png]]
+
+# Sport
+
+- Le peuple espagnol se fait entendre lors du [[Tour d'Espagne]] et le gouvernement les soutient. L'UCI n'est pas contente et remet en cause les futures courses en Espagne => [RTBF Sport](https://www.rtbf.be/article/vuelta-l-uci-regrette-le-soutien-du-gouvernement-espagnol-aux-manifestants-pro-palestiniens-11601612)
+- [Analyse FC Geopolitics](https://footballclubgeopolitics.com/2025/09/18/apres-la-vuelta-2025-une-exclusion-disrael-des-competitions-sportives-est-elle-possible/)

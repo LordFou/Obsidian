@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Action]], [[Infiltration]], [[FPS]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -22,8 +22,9 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
-	- Y'a une histoire de seed prise au hasard sur une partie d'un autre joueur. La partie qu'il a vécue influence la partie du joueur courant.
-- **Durée estimée** : 
+	- Y'a une histoire de seed prise au hasard sur une partie d'un autre joueur. La partie qu'il a vécue influence la partie du joueur courant. Exemple : le joueur précédent fout le bordel, on peut hériter d'un état policier. 
+	- Asynchrone
+- **Durée estimée** : 15h-20h (1 run)
 
 ## Histoire et Univers
 - **Lieu(x)** : 

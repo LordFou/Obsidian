@@ -18,9 +18,12 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 2D
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- [[Canard PC]]
+		- Fun à jouer
+		- Bien animé
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -30,6 +33,8 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Dépression]]
+	- [[Peinture]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

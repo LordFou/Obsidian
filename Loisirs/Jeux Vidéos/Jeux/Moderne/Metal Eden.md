@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : [[Deep Silver]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[FPS]]
+- **Genre** : [[FPS]], [[Action]], [[Aventure]]
 - **Résumé** : FPS à l'ancienne
 
 ## Détails Techniques

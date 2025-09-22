@@ -17,6 +17,7 @@ type: personne
 | ----- | ----------------------------------------------------------------------------- | -------- | -------- |
 | 2025  | [[Grand Prix de Paris]] - Saut d'obstacles                                    | 1ier     |          |
 | 2025  | [[Championnats d’Europe de jumping\|Championnat d'Europe]] - Saut d'obstacles | 3e       |          |
+| 2025  | Global Champions Tour - 12e manche - Grand Prix de New York                   | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

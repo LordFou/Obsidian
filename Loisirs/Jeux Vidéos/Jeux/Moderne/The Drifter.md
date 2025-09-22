@@ -25,6 +25,8 @@ type: game
 		- Les énigmes sont logiques et intuitives et les dialogues s'enchaînent avec rapidité
 		- Et puis ces jeux de lumières en pixel art...
 	- 8/10 ([[Canard PC]])
+	- [[Origami]]
+		- 
 - **Gameplay** : 
 - **Durée estimée** : 8h
 
@@ -35,10 +37,12 @@ type: game
 	- [[Mick Carter]]
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- La mort
 - **Influencé par** :
 	- [[Stephen King]]
 	- [[John Carpenter]]
 	- [[Michael Crichton]]
+	- [[X-Files]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

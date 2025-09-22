@@ -17,6 +17,7 @@ type: personne
 | ----- | ----------------------------------------------------- | ---------------- | -------- |
 | 2025  | [[Championnats du monde d'athlétisme]] - 4x400m mixte | 3e               |          |
 | 2025  | [[Championnats du monde d'athlétisme]] - 400m         | Eliminé en série | 45,10s   |
+| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m       | 4e               |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

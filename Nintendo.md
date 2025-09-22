@@ -1,7 +1,7 @@
 ---
 type: societe
 ---
-
+![[image-89.webp|500x167]]
 # Nintendo
 
 ## Présentation
@@ -9,7 +9,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ## Informations Générales
 - **Nom complet** :  
-- **Date de création** :  
+- **Date de création** :  1889
 - **Fondateurs** :  
 - **Personnalités** :
 - **Pays d’origine** :  

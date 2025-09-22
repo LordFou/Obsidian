@@ -24,7 +24,7 @@ content:
 ## Jeux principaux
 | Titre                        | Année | Plateformes | Remarque |
 | ---------------------------- | ----- | ----------- | -------- |
-| [[Hollow Night]]             |       |             |          |
+| [[Hollow Night]]             | 2017  |             |          |
 | [[Hollow Night - Silk Song]] | 2025  |             |          |
 
 

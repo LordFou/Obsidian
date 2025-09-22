@@ -14,4 +14,9 @@ content: l'Italien est décédé après l’épreuve d’orientation aux jeux mo
 
 date: aout 2025
 title: - [[Melendez Luque]], un coureur de la Vuelta junior 2025, décède après une chute, la course annulée
+
+date: septembre 2025
+title: Le skieur italien Matteo Franzoso est décédé après une chute
+![[image-86.webp|500x359]]
+content: Survenue lors d’un entraînement au Chili. C'est un accident tragique qui pose des questions sur la sécurité des skieurs, qui descendent avec des skis de plus en plus rapides.
 ```

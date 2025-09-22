@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-94.webp]]
 # Imke Vervaet
 
 # Informations Générales
@@ -13,9 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                           | Résultat | Remarque |
-| ----- | ----------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m mixte | 3e       |          |
+| Année | Compétition                                           | Résultat    | Remarque                               |
+| ----- | ----------------------------------------------------- | ----------- | -------------------------------------- |
+| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m mixte | 3e          |                                        |
+| 2025  | [[Championnats du monde d'athlétisme]] - 200m         | Demi-finale | 22.74s (Série)<br>22.79s (Demi-finale) |
+| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m       | Finale (4e) | sous la pluie                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

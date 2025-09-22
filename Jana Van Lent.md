@@ -13,9 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                        | Résultat | Remarque                                                              |
-| ----- | ---------------------------------- | -------- | -------------------------------------------------------------------- |
-| 2025  | Ligue de Diamant - Londres - 5000m | 14e      Record de Belgique qui a été détenu 3 jours par [[Elise Vanderelst]] u  |
+| Année | Compétition                                    | Résultat                 | Remarque                                          |
+| ----- | ---------------------------------------------- | ------------------------ | ------------------------------------------------- |
+| 2025  | Ligue de Diamant - Londres - 5000m             | 14e + Record de Belgique | qui a été détenu 3 jours par [[Elise Vanderelst]] |
+| 2025  | [[Championnats du monde d'athlétisme]] - 5000m | 32e                      | 15.14.93                                          |
+| 2025  | [[Championnats du monde d'athlétisme]] - 10km  | 13e                      |                                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

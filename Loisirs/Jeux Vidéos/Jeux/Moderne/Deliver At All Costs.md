@@ -1,3 +1,6 @@
+---
+type: game
+---
 ![[Pasted image 20250519223432.jpg]]
 # Deliver At All Costs
 

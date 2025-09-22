@@ -13,10 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                   | Résultat         | Remarque |
-| ----- | --------------------------------------------- | ---------------- | -------- |
-| 2025  | World Athletics Continental Tour - Ostrava    | 1ier             |          |
-| 2025  | [[Championnats du monde d'athlétisme]] - 400m | Eliminé en série |          |
+| Année | Compétition                                     | Résultat         | Remarque |
+| ----- | ----------------------------------------------- | ---------------- | -------- |
+| 2025  | World Athletics Continental Tour - Ostrava      | 1ier             |          |
+| 2025  | [[Championnats du monde d'athlétisme]] - 400m   | Eliminé en série |          |
+| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m | 4e               |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

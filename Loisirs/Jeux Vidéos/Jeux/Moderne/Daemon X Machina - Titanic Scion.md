@@ -11,7 +11,7 @@ type: game
 	- Studio : [[Marvelous First Studio]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : PC, [[Playstation 5]], [[Xbox Series]],[[Switch 2]]
 - **Franchise** : 
 - **Genre** : [[Monde ouvert]], [[Combat]]
 - **Résumé** : 

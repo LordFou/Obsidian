@@ -11,9 +11,9 @@ type: game
 	- Studio : [[Bandai Namco Entertainment]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : PC, [[Playstation 5]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Action Aventure]], [[Puzzle]],[[Plateforme]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                          |
+| ----------- | ---------------------------- |
+| Trailer     | https://youtu.be/sdf1777C7V8 |

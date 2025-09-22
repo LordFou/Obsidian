@@ -22,10 +22,12 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                          | Année | Plateformes | Remarque |
-| ------------------------------ | ----- | ----------- | -------- |
-| [[Prince of Persia]]           |       |             |          |
-| [[The Rogue Prince of Persia]] | 2025  |             |          |
+| Titre                          | Année | Plateformes | Remarque        |
+| ------------------------------ | ----- | ----------- | --------------- |
+| [[Prince of Persia]]           |       |             |                 |
+| [[The Forgotten Sands]]        | 2010  |             |                 |
+| [[The Lost Crown]]             | 2024  |             | Echec financier |
+| [[The Rogue Prince of Persia]] | 2025  |             |                 |
 
 
 ## Mécaniques et innovations

@@ -11,7 +11,7 @@ type: game
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : PC, [[PlayStation 5]]
 - **Franchise** : 
 - **Genre** : [[Simulation]]
 - **Résumé** : c'est un jeu de marche avec 2 action : lever la jambe gauche ou droite ^^

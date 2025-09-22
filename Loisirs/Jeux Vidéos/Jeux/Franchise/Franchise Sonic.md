@@ -1,4 +1,6 @@
-
+---
+type: game
+---
 # Franchise Sonic
 
 ## Informations générales

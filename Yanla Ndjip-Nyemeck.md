@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-59.webp]]
 # Yanla Ndjip-Nyemeck
 
 # Informations Générales
@@ -13,9 +13,9 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                         | Résultat    | Remarque |
-| ----- | --------------------------------------------------- | ----------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 100m Haies | Demi-finale |          |
+| Année | Compétition                                         | Résultat    | Remarque                      |
+| ----- | --------------------------------------------------- | ----------- | ----------------------------- |
+| 2025  | [[Championnats du monde d'athlétisme]] - 100m Haies | Demi-finale | 12.74 (Série)<br>13.05 (Demi) |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

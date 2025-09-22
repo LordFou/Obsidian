@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : [[Team Cherry]]
 - **Plateformes** : 
 - **Franchise** : [[Franchise Hollow Night|Hollow Night]]
-- **Genre** : [[Plateforme]], [[Metroïdvania]]
+- **Genre** : [[Action Aventure]],[[Plateforme]], [[Metroïdvania]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -35,8 +35,9 @@ type: game
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - 7 ans de développement
+- d'abord imaginé comme un DLC de [[Hollow Night]]
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                          |
+| ----------- | ---------------------------- |
+| Trailer     | https://youtu.be/6XGeJwsUP9c |

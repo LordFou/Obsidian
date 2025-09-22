@@ -12,7 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Fondateurs** :  
 - **Personnalités** :
 	- [[Shinji Mikami]]
-- **Pays d’origine** :  
+- **Pays d’origine** :  Japon
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 

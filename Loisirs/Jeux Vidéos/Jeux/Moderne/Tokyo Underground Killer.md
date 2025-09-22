@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[FPS]]
+- **Genre** : [[FPS]], [[Action]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description             | URL                          |
+| ----------------------- | ---------------------------- |
+| Release Date & Gameplay | https://youtu.be/6Nkz4vwsdwE |

@@ -29,12 +29,14 @@ type: game
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
+	- Hornet (Boss)
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - 15k ventes
+- Financé via [[Kickstarter]]
 ## Liens et Ressources
 
 | Description | URL |

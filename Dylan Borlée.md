@@ -17,6 +17,7 @@ type: personne
 | ----- | ----------------------------------------------------- | -------- | ------------------------------- |
 | 2025  | [[Meeting de Berne]] - 400m                           | 1ier     | à 1/100 de son record personnel |
 | 2025  | [[Championnats du monde d'athlétisme]] - 4x400m mixte | 3e       |                                 |
+| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m       | 4e       |                                 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

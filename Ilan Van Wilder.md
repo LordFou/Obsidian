@@ -13,10 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                             | Résultat | Remarque     |
-| ----- | --------------------------------------- | -------- | ------------ |
-| 2024  | [[Tour d'Allemagne]] - Classement final | 1ier     |              |
-| 2025  | [[Tour de France]] - 16e étape          | 4e       | Mont-Ventoux |
+| Année | Compétition                                                      | Résultat | Remarque     |
+| ----- | ---------------------------------------------------------------- | -------- | ------------ |
+| 2024  | [[Tour d'Allemagne]] - Classement final                          | 1ier     |              |
+| 2025  | [[Tour de France]] - 16e étape                                   | 4e       | Mont-Ventoux |
+| 2025  | [[Championnat du Monde de Cyclisme\|Championnat du Monde]] - CLM | 3e 🥉    |              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

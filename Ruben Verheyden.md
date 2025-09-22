@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                       | Résultat           | Remarque |
-| ----- | --------------------------------- | ------------------ | -------- |
-| 2025  | Ligue de Diamant de Paris - 1500m | Record de Belgique |          |
+| Année | Compétition                                    | Résultat           | Remarque |
+| ----- | ---------------------------------------------- | ------------------ | -------- |
+| 2025  | Ligue de Diamant de Paris - 1500m              | Record de Belgique | 3:30.99  |
+| 2025  | [[Championnats du monde d'athlétisme]] - 1500m | Demi-finale        | 3:36.31  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

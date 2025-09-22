@@ -14,9 +14,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                              | Résultat         | Remarque                   |
-| ----- | -------------------------------------------------------- | ---------------- | -------------------------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - Saut en hauteur | Finaliste (2m25) | Première finale mondiale ! |
+| Année | Compétition                                              | Résultat                                       | Remarque                       |
+| ----- | -------------------------------------------------------- | ---------------------------------------------- | ------------------------------ |
+| 2022  | [[Championnats d'Europe d'athlétisme]] - Saut en hauteur | Eliminé en qualification                       |                                |
+| 2023  | [[Championnats d'Europe d'athlétisme]] - Saut en hauteur | Eliminé en qualification                       |                                |
+| 2025  | [[Championnats du monde d'athlétisme]] - Saut en hauteur | Qualification (2m25)<br>Finaliste (2m20) - 11e | ==Première finale mondiale !== |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

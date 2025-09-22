@@ -8,13 +8,13 @@ type: game
 
 - **Année de sortie** : 2026 (?)
 - **Développeur** : 
-	- Studio : [[IO Interactive]] (Danemark)
+	- Studio : [[IO Interactive]] 
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
+- **Éditeur** : [[IO Interactive]] 
+- **Plateformes** : PC
 - **Franchise** : 
-- **Genre** :
-- **Résumé** : Le jeu raconte l'histoire du futur 007 car il est en formation
+- **Genre** : [[Action]]
+- **Résumé** : Le jeu raconte l'histoire du futur 007 car il est en formation. On suit donc ses premières missions.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -26,12 +26,17 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Slovaquie]]
 - **Epoque** : 
 - **Personnages principaux** : 
 	- [[James Bond]]
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Espionnage]]
+	- [[MI6]]
 - **Influencé par** :
+	- [[Hitman]]
+	- [[Uncharted]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
