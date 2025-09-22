@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "hide-properties",
+    "supercharged-links-gen",
+    "my-supercharged-links-gen"
+  ]
+}

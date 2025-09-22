@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Année de sortie": "text",
+    "Genre": "multitext",
+    "Personnalités": "multitext",
+    "Plateformes": "multitext",
+    "Graphisme": "multitext"
+  }
+}
