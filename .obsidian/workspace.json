@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "971403bd9b57828b",
+        "id": "c0f8646aff60cd99",
         "type": "tabs",
         "children": [
           {
-            "id": "962617cb8e60022c",
+            "id": "211c6efb3ed791d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal de bord/2025-09-23.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-09-23"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -186,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,10 +200,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "962617cb8e60022c",
+  "active": "c8ddbab28469fc36",
   "lastOpenFiles": [
-    "Panik Arcade.md",
     "Journal de bord/2025-09-23.md",
+    "Panik Arcade.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/CloverPit.md",
     "Sydney McLaughlin-Levrone.md",
     "Championnats du monde d'athlétisme.md",
