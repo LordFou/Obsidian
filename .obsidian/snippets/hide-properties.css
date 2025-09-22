@@ -1,5 +1,0 @@
-/* Cacher la section des propriétés (frontmatter) en mode lecture */
-.metadata-container,
-.metadata-properties {
-  display: none !important;
-}
