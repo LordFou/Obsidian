@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Chrono Trigger
+# Edge of Eternity
 
 ## Informations Générales
 

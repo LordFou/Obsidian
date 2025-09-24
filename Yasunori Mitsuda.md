@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-126.webp|500x601]]
 # Yasunori Mitsuda
 
 ## Présentation

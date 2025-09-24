@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Chrono Trigger.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dread Delusion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chrono Trigger"
+              "title": "Dread Delusion"
             },
             "group": "d4873fec400e6412"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Chrono Trigger.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dread Delusion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-journal",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Chrono Trigger"
+              "title": "Graphique de Dread Delusion"
             },
             "group": "d4873fec400e6412"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Chrono Triger",
+                "query": "Dread",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,9 +253,13 @@
   },
   "active": "d2cea5be98e012f9",
   "lastOpenFiles": [
-    "Yasunori Mitsuda.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Chrono Trigger.md",
+    "Attachments/image-127.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sea of Stars.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dread Delusion.md",
+    "Yasunori Mitsuda.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Edge of Eternity.md",
+    "Attachments/image-126.webp",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Chrono Trigger.md",
     "Sabotage Studio.md",
     "The Messenger.md",
     "Attachments/image-125.webp",
@@ -282,13 +286,9 @@
     "Algebra Factory.md",
     "Square Enix.md",
     "Franchise Final Fantasy.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hades 2.md",
     "Attachments/image-119.webp",
-    "Nicolas Colsaerts.md",
-    "Journal de bord/2025-09-24.md",
     "Attachments/image-118.webp",
     "Attachments/image-117.webp",
-    "Attachments/image-116.webp",
     "Généalogie Matos Atari.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",

@@ -1,15 +1,15 @@
 ---
 type: game
 ---
-
-# Chrono Trigger
+![[image-127.webp|500x234]]
+# Dread Delusion
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
 	- Studio : 
-	- Personnalités : [[Yasunori Mitsuda]] (Compositeur)
+	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
