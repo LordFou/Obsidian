@@ -2,19 +2,19 @@
 type: game
 ---
 
-# Dying Light - The Beast
+# A Plague Tale - Requiem
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
 		- [[Olivier Deriviere]] (Compositeur)
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Dying Light|Dying Light]]
-- **Genre** : [[FPS]], [[Coopération]]
+- **Franchise** : 
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques

@@ -1,6 +1,7 @@
 ---
 type: personne
 ---
+
 # Olivier Deriviere
 
 ## Présentation
@@ -9,15 +10,51 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 ## Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Français
-- **Profession(s)** : [[Compositeur]]
+- **Profession(s)** : Compositeur
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 
+```timeline-labeled
+[line-5, body-2]
+date:  
+title: 
+content:
+```
+
+
 ## Contributions Notables
-| Année | Projet / Jeu                  | Rôle        | Studio / Éditeur     |     |
-| ----- | ----------------------------- | ----------- | -------------------- | --- |
-| 2019  | [[A Plague Tale : Innocence]] | Compositeur | [[Asobo]]            |     |
-| 2022  | [[A Plague Tale : Requiem]]   | Compositeur | [[Asobo]]            |     |
-| 2025  | [[South of Midnight]]         | Compositeur | [[Compulsion Games]] |     |
+
+```dataviewjs
+const pages = dv.pages("");
+const results = [];
+const personnalite = dv.current().file.name.toLowerCase();  // Nom de la note actuelle
+
+for (let page of pages) {
+    const content = await dv.io.load(page.file.path);
+    const lowerFileName = page.file.name.toLowerCase();
+
+    if (content.toLowerCase().includes(personnalite) && lowerFileName !== personnalite) {
+        results.push({
+            link: page.file.link,
+            name: page.file.name.toLowerCase()
+        });
+    }
+}
+
+// Tri **sans localeCompare**, via comparaison de chaînes simples
+results.sort((a, b) => {
+    if (a.name < b.name) return -1;
+    if (a.name > b.name) return 1;
+    return 0;
+});
+
+// Affichage sous forme de tableau à une colonne
+const tableData = results.map(item => [item.link]);
+
+if (tableData.length > 0) {
+    dv.table(["A travaillé pour/avec/sur/est lié à"], tableData);
+}
+
+```
 
 ## Style et Influence
 Décrire son style, sa vision du jeu vidéo, ses influences et son impact sur l’industrie.
