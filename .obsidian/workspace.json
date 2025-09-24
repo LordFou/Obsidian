@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dying Light - The Beast.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire The Masquerade - Swansong.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dying Light - The Beast"
+              "title": "Vampire The Masquerade - Swansong"
             }
           }
         ]
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,12 +205,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "df84df72f83105aa",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dying Light - The Beast.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire The Masquerade - Swansong.md",
     "Loisirs/Jeux Vidéos/Personnalités/Olivier Deriviere.md",
     "A Plague Tale - Requiem.md",
     "A Plague Tale - Innocence.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dying Light - The Beast.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre 2.md",
     "conflict-files-obsidian-git.md",
     "Journal de bord/2025-09-24.md",
@@ -234,7 +236,6 @@
     "Loisirs/Sport/Sportifs/Thibault Philippaerts.md",
     "Gilles Thomas.md",
     "Alphonce Felix Simbu.md",
-    "Faith Kipyegon.md",
     "Attachments/image-107.webp",
     "Attachments/image-106.webp",
     "Généalogie Matos Atari.canvas",
