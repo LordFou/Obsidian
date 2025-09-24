@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : [[Assemble Entertainment]]
 - **Plateformes** : PC
 - **Franchise** : 
-- **Genre** : [[Point & Click]], [[Aventure Narrative]]
+- **Genre** : [[Point & Click]], [[Aventure Narrative]], [[Enquête]]
 - **Résumé** :  Aventure policière narrative de science-fiction en 2,5D. Trente-trois ans après le début du périple du Zephyr, sa mission est soudainement compromise. Parviendrez-vous à trouver le coupable avant qu'il ne soit trop tard ? 
 
 ## Détails Techniques
@@ -22,7 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
-	- Monde semi-ouvert
+	- [[Monde semi-ouvert]]
 - **Durée estimée** : 
 
 ## Histoire et Univers
@@ -43,4 +43,5 @@ type: game
 
 | Description | URL |
 | ----------- | --- |
-|             
+|             |     |
+![[image-139.webp]]

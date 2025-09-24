@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Between Horizons.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Pampas & Selene - The Maze of Demons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Between Horizons"
+              "title": "Pampas & Selene - The Maze of Demons"
             },
             "group": "d4873fec400e6412"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Between Horizons.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Pampas & Selene - The Maze of Demons.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-journal",
@@ -58,11 +58,11 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Between Horizons"
+              "title": "Graphique de Pampas & Selene - The Maze of Demons"
             },
             "group": "d4873fec400e6412"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Between Horizons",
+                "query": "Pampas & Selene",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,8 +253,15 @@
   },
   "active": "d2cea5be98e012f9",
   "lastOpenFiles": [
-    "DigiTales Interactive.md",
+    "The Maze of Galious.md",
+    "MSX.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Pampas & Selene - The Maze of Demons.md",
+    "MSX2.md",
+    "@unepic_fran.md",
+    "Attachments/image-140.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Between Horizons.md",
+    "Attachments/image-139.webp",
+    "DigiTales Interactive.md",
     "Attachments/image-138.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Isles of Sea and Sky.md",
     "Attachments/image-137.webp",
@@ -269,8 +276,6 @@
     "Attachments/image-133.webp",
     "Attachments/image-132.webp",
     "Attachments/image-131.webp",
-    "Attachments/image-130.webp",
-    "Attachments/image-129.webp",
     "Lovely Hellplace.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sea of Stars.md",
     "Yasunori Mitsuda.md",
@@ -284,11 +289,6 @@
     "Akumi Kira.md",
     "KIRA LLC.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Fading Afternoon.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Wandering Sword.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hell is Us.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/OD – Knock.md",
-    "Kojima Productions.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Baby Steps.md",
     "Généalogie Matos Atari.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",
