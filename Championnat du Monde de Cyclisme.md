@@ -26,7 +26,8 @@ type: event
 |       |                    |             |                           |
 # Mixte
 
-| Année | Epreuve   | Vainqueur | Remarque      |
-| ----- | --------- | --------- | ------------- |
-| 2025  | CLM Mixte | Australie | 7e - Belgique |
-|       |           |           |               |
+| Année | Epreuve | Vainqueur | Remarque      |
+| ----- | ------- | --------- | ------------- |
+| 2024  | CLM     | Australie |               |
+| 2025  | CLM     | Australie | 7e - Belgique |
+|       |         |           |               |
