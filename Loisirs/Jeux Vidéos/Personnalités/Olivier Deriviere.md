@@ -10,7 +10,7 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 ## Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Français
-- **Profession(s)** : Compisiteur
+- **Profession(s)** : Compositeur
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 
 ```timeline-labeled
@@ -55,34 +55,6 @@ if (tableData.length > 0) {
 }
 
 ```
-
-## Récompenses et Distinctions
-Lister les prix et reconnaissances obtenues.
-
-## Controverses ou Faits Marquants
-Évoquer les polémiques ou événements notables liés à cette personne.
-
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
-
-# Olivier Deriviere
-
-## Présentation
-Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
-
-## Informations Générales
-- **Date de naissance** :  
-- **Nationalité** :  Français
-- **Profession(s)** : [[Compositeur]]
-- **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
-
-## Contributions Notables
-| Année | Projet / Jeu                  | Rôle        | Studio / Éditeur     |     |
-| ----- | ----------------------------- | ----------- | -------------------- | --- |
-| 2019  | [[A Plague Tale : Innocence]] | Compositeur | [[Asobo]]            |     |
-| 2022  | [[A Plague Tale : Requiem]]   | Compositeur | [[Asobo]]            |     |
-| 2025  | [[South of Midnight]]         | Compositeur | [[Compulsion Games]] |     |
 
 ## Style et Influence
 Décrire son style, sa vision du jeu vidéo, ses influences et son impact sur l’industrie.
