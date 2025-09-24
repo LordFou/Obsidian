@@ -10,18 +10,18 @@ type: game
 - **Développeur** : 
 	- Studio : [[Cicada Games]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
+- **Éditeur** : [[Cicada Games]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Aventure]], [[Puzzle]], [[Sokoban-Like]]
 - **Résumé** : Une fantastique aventure océanique en monde ouvert. Résolvez des puzzles innovants, découvrez une histoire fascinante tout en vous faisant de nouveaux amis qui impacteront la manière d’appréhender les puzzles, débloquez des pouvoirs offrant de nouvelles options de progression.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
-- **Gameplay** :
+- **Graphismes** : 2D
+- **Audio** : 
+- **Réception critique** : 
+- **Gameplay** : 
 - **Durée estimée** : 
 
 ## Histoire et Univers
@@ -31,6 +31,7 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Sokoban]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
@@ -40,3 +41,4 @@ type: game
 | Description | URL |
 | ----------- | --- |
 |             |     |
+![[image-137.webp]]

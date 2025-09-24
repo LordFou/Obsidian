@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cicada Games.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Between Horizons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cicada Games"
+              "title": "Between Horizons"
             },
             "group": "d4873fec400e6412"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cicada Games.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Between Horizons.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-journal",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Cicada Games"
+              "title": "Graphique de Between Horizons"
             },
             "group": "d4873fec400e6412"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Isles",
+                "query": "Between Horizons",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,7 +253,13 @@
   },
   "active": "d2cea5be98e012f9",
   "lastOpenFiles": [
+    "Attachments/image-138.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Isles of Sea and Sky.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Between Horizons.md",
+    "Attachments/image-137.webp",
+    "Sokoban-Like.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Patrick's Paradox.md",
+    "Sokoban.md",
     "Cicada Games.md",
     "Attachments/image-136.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Dread Delusion.md",
@@ -266,7 +272,6 @@
     "Attachments/image-129.webp",
     "Attachments/image-128.webp",
     "Lovely Hellplace.md",
-    "Attachments/image-127.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sea of Stars.md",
     "Yasunori Mitsuda.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Edge of Eternity.md",
@@ -284,11 +289,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/OD – Knock.md",
     "Kojima Productions.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Baby Steps.md",
-    "Maxi Boch.md",
-    "Bennett Foddy.md",
-    "Gabe Cuzzillo.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Final Fantasy Tactics - The Ivalice Chronicles.md",
-    "Algebra Factory.md",
     "Généalogie Matos Atari.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",
