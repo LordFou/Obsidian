@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Hell is Us.md",
+                "file": "FromSoftware.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hell is Us"
+              "title": "FromSoftware"
             },
             "group": "d4873fec400e6412"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Hell is Us.md",
+                "file": "FromSoftware.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-journal",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Hell is Us"
+              "title": "Graphique de FromSoftware"
             },
             "group": "d4873fec400e6412"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hell is us",
+                "query": "lunacid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,7 +177,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,6 +253,12 @@
   },
   "active": "d2cea5be98e012f9",
   "lastOpenFiles": [
+    "King's Field.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Lunacid.md",
+    "KIRA LLC.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Fading Afternoon.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Wandering Sword.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hell is Us.md",
     "Attachments/image-123.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/OD – Knock.md",
     "Kojima Productions.md",
@@ -278,16 +285,10 @@
     "Amelia Tyler.md",
     "Judy Alice Lee.md",
     "Supergiant Games.md",
-    "Hades.md",
     "Attachments/image-117.webp",
     "Attachments/image-116.webp",
     "Attachments/image-115.webp",
-    "Textielprijs.md",
-    "Lionel Taminiaux.md",
-    "Zizou Bergs.md",
-    "Loisirs/Sport/Equipes/Red Dragons.md",
     "Attachments/image-114.webp",
-    "Attachments/image-113.webp",
     "Généalogie Matos Atari.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",

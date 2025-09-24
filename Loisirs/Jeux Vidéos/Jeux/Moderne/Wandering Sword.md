@@ -13,8 +13,8 @@ type: game
 - **Éditeur** : [[Spiral Up Games]]
 - **Plateformes** : PC
 - **Franchise** : 
-- **Genre** :
-- **Résumé** : 
+- **Genre** : [[Tactical RPG]]
+- **Résumé** : C'est l'histoire fantasmée d'un homme/héros chinois qui sillonne le pays et croise le fer avec ses ennemis
 
 ## Détails Techniques
 - **Moteur de jeu** : 

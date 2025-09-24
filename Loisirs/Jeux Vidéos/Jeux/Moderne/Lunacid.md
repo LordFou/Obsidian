@@ -2,18 +2,18 @@
 type: game
 ---
 
-# King's Field
+# Lunacid
 
 ## Informations Générales
 
-- **Année de sortie** : 1994
+- **Année de sortie** : 2023
 - **Développeur** : 
-	- Studio : [[FromSoftware]]
+	- Studio : [[KIRA LLC]]
 	- Personnalités : 
-- **Éditeur** : [[ASCII Corporation]]
+- **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Dungeon Crawler]], [[ARPG]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -31,6 +31,7 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[King's Field]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
