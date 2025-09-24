@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "971403bd9b57828b",
+        "id": "8f10106e5b577145",
         "type": "tabs",
         "children": [
           {
-            "id": "962617cb8e60022c",
+            "id": "635df5146ec0db7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Journal de bord/2025-09-24.md",
-                "mode": "source",
-                "source": false
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2025-09-24"
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clover",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,10 +205,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "962617cb8e60022c",
+  "active": "635df5146ec0db7e",
   "lastOpenFiles": [
-    "Journal de bord/2025-09-23.md",
+    "conflict-files-obsidian-git.md",
     "Journal de bord/2025-09-24.md",
+    "Journal de bord/2025-09-23.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/CloverPit.md",
     "Panik Arcade.md",
     "Sydney McLaughlin-Levrone.md",
@@ -234,7 +236,6 @@
     "Melissa Jefferson-Wooden.md",
     "Loisirs/Sport/Sportifs/Mondo Duplantis.md",
     "Eliott Crestan.md",
-    "John Heymans.md",
     "Attachments/image-107.webp",
     "Attachments/image-106.webp",
     "Généalogie Matos Atari.canvas",
