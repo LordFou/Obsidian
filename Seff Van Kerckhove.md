@@ -1,24 +1,21 @@
 ---
 type: personne
 ---
-![[Pasted image 20250616082343.png]]
-# Zizou Bergs
+![[image-114.webp]]
+# Seff Van Kerckhove
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** : Tennis 
+- **Sport / Discipline** : [[Cyclisme]] 
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
-- **Meilleur classement ATP** : 45e
 
 # Palmarès et Distinctions
-| Année | Compétition               | Résultat              | Remarque |
-| ----- | ------------------------- | --------------------- | -------- |
-| 2025  | [[Tournoi de Rosmalen]]   | Finaliste             |          |
-| 2025  | [[US Open]]               | 3e tour               |          |
-| 2025  | [[Coupe Davis]] - 2e tour | Victoire de son match |          |
+| Année | Compétition                                       | Résultat | Remarque |
+| ----- | ------------------------------------------------- | -------- | -------- |
+| 2025  | [[Championnat du Monde de Cyclisme]] - CLM Junior | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
