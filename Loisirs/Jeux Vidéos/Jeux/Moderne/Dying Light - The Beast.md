@@ -10,6 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
+		- [[Olivier Deriviere]] (Compositeur)
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : [[Franchise Dying Light|Dying Light]]

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8f10106e5b577145",
+        "id": "f11f3d22ff8ba961",
         "type": "tabs",
         "children": [
           {
-            "id": "635df5146ec0db7e",
+            "id": "df84df72f83105aa",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "Loisirs/Jeux Vidéos/Personnalités/Olivier Deriviere.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "Olivier Deriviere"
             }
           }
         ]
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,8 +204,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "635df5146ec0db7e",
+  "active": "df84df72f83105aa",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dying Light - The Beast.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre 2.md",
     "conflict-files-obsidian-git.md",
     "Journal de bord/2025-09-24.md",
     "Journal de bord/2025-09-23.md",
@@ -234,8 +235,6 @@
     "Beatrice Chebet.md",
     "Cole Hocker.md",
     "Melissa Jefferson-Wooden.md",
-    "Loisirs/Sport/Sportifs/Mondo Duplantis.md",
-    "Eliott Crestan.md",
     "Attachments/image-107.webp",
     "Attachments/image-106.webp",
     "Généalogie Matos Atari.canvas",
