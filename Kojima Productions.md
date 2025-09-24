@@ -45,5 +45,4 @@ Lister les prix, distinctions ou records obtenus.
 Lister les studios affiliés ou les collaborations importantes.
 
 ## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+- 
