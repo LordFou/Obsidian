@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-111.webp]]
 # Tim Merlier
 
 # Informations Générales
@@ -17,6 +17,13 @@ type: personne
 | ----- | ---------------------------------------------------------- | -------- | ---------------- | -------------------------------------------- |
 | 2024  | [[Championnat d'Europe de Cyclisme\|Championnat d'Europe]] | 1ier     | Sprint           |                                              |
 | 2024  | [[Flèche de Gooik]]                                        | 1ier     |                  |                                              |
+| 2025  | ?                                                          | 1ier     |                  |                                              |
+| 2025  | ?                                                          | 1ier     |                  |                                              |
+| 2025  | ?                                                          | 1ier     |                  |                                              |
+| 2025  | ?                                                          | 1ier     |                  |                                              |
+| 2025  | ?                                                          | 1ier     |                  |                                              |
+| 2025  | ?                                                          | 1ier     |                  |                                              |
+| 2025  | ?                                                          | 1ier     |                  |                                              |
 | 2025  | [[Brussels Cycling Classic]]                               | 1ier     | Sprint massif    |                                              |
 | 2025  | [[Tour de Belgique]] - 1e étape                            | 1ier     | Sprint en montée |                                              |
 | 2025  | [[Tour de Belgique]] - 5e étape                            | 1ier     | Sprint massif    |                                              |
@@ -26,6 +33,7 @@ type: personne
 | 2025  | [[Renewi Tour]] - 1e étape                                 | 1e       |                  |                                              |
 | 2025  | [[Renewi Tour]] - 4e étape                                 | 1e       |                  |                                              |
 | 2025  | [[Championnat des Flandres]]                               | 3e       | Sprint Massif    |                                              |
+| 2025  | [[Circuit du Houtland]]                                    | 1e       |                  |                                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

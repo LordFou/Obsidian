@@ -24,3 +24,9 @@ type: event
 | ----- | ------------------ | ----------- | ------------------------- |
 | 2025  | [[Marlen Reusser]] | Suisse      | 21e - [[Marthe Goossens]] |
 |       |                    |             |                           |
+# Mixte
+
+| Année | Epreuve   | Vainqueur | Remarque      |
+| ----- | --------- | --------- | ------------- |
+| 2025  | CLM Mixte | Australie | 7e - Belgique |
+|       |           |           |               |
