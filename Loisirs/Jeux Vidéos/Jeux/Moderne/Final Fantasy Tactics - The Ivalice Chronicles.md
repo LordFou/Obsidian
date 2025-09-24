@@ -2,25 +2,27 @@
 type: game
 ---
 
-# Baby Steps
+# Final Fantasy Tactics - The Ivalice Chronicles
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
-	- Personnalités : [[Gabe Cuzzillo]], Bennett Foddy, Maxi Boch
-- **Éditeur** : 
-- **Plateformes** : PC, [[PlayStation 5]]
-- **Franchise** : 
-- **Genre** : [[Simulation]]
-- **Résumé** : c'est un jeu de marche avec 2 action : lever la jambe gauche ou droite ^^
+	- Studio : [[Square Enix]], [[Algebra Factory]]
+	- Personnalités : 
+- **Éditeur** : [[Square Enix]]
+- **Plateformes** : 
+- **Franchise** : [[Franchise Final Fantasy]]
+- **Genre** : [[Tactical RPG]]
+- **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- CheckPoint
+	  ![[image-120.webp|510x322]]
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -37,6 +39,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description      | URL                          |
+| ---------------- | ---------------------------- |
+| Gameplay Trailer | https://youtu.be/wVCaeyucLTE |

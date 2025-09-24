@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Hades 2.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Baby Steps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hades 2"
+              "title": "Baby Steps"
             },
             "group": "d4873fec400e6412"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Hades 2.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Baby Steps.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-journal",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Hades 2"
+              "title": "Graphique de Baby Steps"
             },
             "group": "d4873fec400e6412"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Baldur",
+                "query": "Baby Step",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,8 +177,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,13 +252,18 @@
   },
   "active": "d2cea5be98e012f9",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Final Fantasy Tactics - The Ivalice Chronicles.md",
+    "Attachments/image-120.webp",
+    "Algebra Factory.md",
+    "Square Enix.md",
+    "Franchise Final Fantasy.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hades 2.md",
     "Attachments/image-119.webp",
     "Nicolas Colsaerts.md",
     "Journal de bord/2025-09-24.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Pathfinder - Kingmaker.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Baldur's Gate 3.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Divinity - Original Sin 2.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hades 2.md",
     "Logan Cunningham.md",
     "Attachments/image-118.webp",
     "Amelia Tyler.md",
@@ -283,12 +287,6 @@
     "Attachments/image-111.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire The Masquerade - Swansong.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre 2.md",
-    "A Plague Tale - Requiem.md",
-    "A Plague Tale - Innocence.md",
-    "Journal de bord/2025-09-23.md",
-    "conflict-files-obsidian-git.md",
-    "Attachments/image-110.webp",
-    "Attachments/image-109.webp",
     "Généalogie Matos Atari.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",
