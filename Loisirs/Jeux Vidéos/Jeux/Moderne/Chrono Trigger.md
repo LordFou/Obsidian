@@ -2,14 +2,14 @@
 type: game
 ---
 
-# Lunacid
+# Chrono Trigger
 
 ## Informations Générales
 
-- **Année de sortie** : 2023
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[KIRA LLC]]
-	- Personnalités : [[Akumi Kira]]
+	- Studio : 
+	- Personnalités : [[Yasunori Mitsuda]] (Com)
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
@@ -31,7 +31,6 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
-	- [[King's Field]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

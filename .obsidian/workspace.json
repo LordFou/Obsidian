@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FromSoftware.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Chrono Trigger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FromSoftware"
+              "title": "Chrono Trigger"
             },
             "group": "d4873fec400e6412"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "FromSoftware.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Chrono Trigger.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-journal",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de FromSoftware"
+              "title": "Graphique de Chrono Trigger"
             },
             "group": "d4873fec400e6412"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lunacid",
+                "query": "Chrono Triger",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,8 +253,17 @@
   },
   "active": "d2cea5be98e012f9",
   "lastOpenFiles": [
+    "Yasunori Mitsuda.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Chrono Trigger.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sea of Stars.md",
+    "Sabotage Studio.md",
+    "The Messenger.md",
+    "Attachments/image-125.webp",
+    "Attachments/image-124.webp",
     "King's Field.md",
+    "FromSoftware.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Lunacid.md",
+    "Akumi Kira.md",
     "KIRA LLC.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Fading Afternoon.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Wandering Sword.md",
@@ -277,18 +286,9 @@
     "Attachments/image-119.webp",
     "Nicolas Colsaerts.md",
     "Journal de bord/2025-09-24.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Pathfinder - Kingmaker.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Baldur's Gate 3.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Divinity - Original Sin 2.md",
-    "Logan Cunningham.md",
     "Attachments/image-118.webp",
-    "Amelia Tyler.md",
-    "Judy Alice Lee.md",
-    "Supergiant Games.md",
     "Attachments/image-117.webp",
     "Attachments/image-116.webp",
-    "Attachments/image-115.webp",
-    "Attachments/image-114.webp",
     "Généalogie Matos Atari.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",

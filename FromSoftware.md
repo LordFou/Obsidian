@@ -34,7 +34,7 @@ content: En europe, le premier jeu édité sera [[King's Field 2]]
 | ----- | ------------------ | --------------------- | ----------- |
 | 1994  | [[King's Field]]   | Dungeon Crawler, ARPG |             |
 | 1995  | [[King's Field 2]] | Dungeon Crawler, ARPG |             |
-|       |                    |                       |             |
+|       | [[Armored Core]]   |                       |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

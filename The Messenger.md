@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Lunacid
+# The Messenger
 
 ## Informations Générales
 
-- **Année de sortie** : 2023
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[KIRA LLC]]
-	- Personnalités : [[Akumi Kira]]
+	- Studio : [[Sabotage Studio]]
+	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Metroïdvania]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -31,7 +31,6 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
-	- [[King's Field]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
