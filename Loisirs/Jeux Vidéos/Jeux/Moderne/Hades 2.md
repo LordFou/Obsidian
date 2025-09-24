@@ -10,11 +10,12 @@ type: game
 - **Développeur** : 
 	- Studio : [[Supergiant Games]]
 	- Personnalités : 
+		- [[Judy Alice Lee]] (Doublage)
 - **Éditeur** : 
 - **Plateformes** : PC, [[Playstation 5]], [[Xbox Series]], [[Switch]]
 - **Franchise** : [[Franchise Hades]]
 - **Genre** : [[Action]], [[RPG]], [[Roguelite]]
-- **Résumé** : 
+- **Résumé** : La Maison d'Hadès est tombée. Chronos, père d'Hadès et Titan du Temps, a emprisonné Hadès, Zagreus et les autres habitants de la Maison tout en assiégeant le mont Olympe avec une armée de monstres. Le seul espoir pour les dieux comme pour les mortels réside dans Mélinoë, la fille d'Hadès, enlevée enfant par la Titanesse Hécate et entraînée en secret pour le jour où elle pourra retourner au Tartare et recouvrer son droit de naissance. Cela n'arrivera pas du premier coup, mais après chaque défaite, elle retourne à la Croisée des Chemins pour améliorer ses capacités et tenter à nouveau sa chance.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -26,8 +27,12 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	-  [[Mont Olympe]]
+	- [[Les Enfers]]
+	- La Croisée des Chemins (?)
 - **Epoque** : 
 - **Personnages principaux** : 
+	- [[Mélinoë]] (sœur de [[Zagreus]])
 - **Ennemis** :
 - **Thèmes abordés** : 
 	- [[Les Dieux de l'antiquité]]
