@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dread Delusion.md",
+                "file": "Cicada Games.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dread Delusion"
+              "title": "Cicada Games"
             },
             "group": "d4873fec400e6412"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dread Delusion.md",
+                "file": "Cicada Games.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-journal",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Dread Delusion"
+              "title": "Graphique de Cicada Games"
             },
             "group": "d4873fec400e6412"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dread",
+                "query": "Isles",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,17 +253,26 @@
   },
   "active": "d2cea5be98e012f9",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Isles of Sea and Sky.md",
+    "Cicada Games.md",
+    "Attachments/image-136.webp",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dread Delusion.md",
+    "Attachments/image-135.webp",
+    "Attachments/image-134.webp",
+    "Attachments/image-133.webp",
+    "Attachments/image-132.webp",
+    "Attachments/image-131.webp",
+    "Attachments/image-130.webp",
+    "Attachments/image-129.webp",
+    "Attachments/image-128.webp",
+    "Lovely Hellplace.md",
     "Attachments/image-127.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sea of Stars.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dread Delusion.md",
     "Yasunori Mitsuda.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Edge of Eternity.md",
-    "Attachments/image-126.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Chrono Trigger.md",
     "Sabotage Studio.md",
     "The Messenger.md",
-    "Attachments/image-125.webp",
-    "Attachments/image-124.webp",
     "King's Field.md",
     "FromSoftware.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Lunacid.md",
@@ -272,23 +281,14 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Fading Afternoon.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Wandering Sword.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Hell is Us.md",
-    "Attachments/image-123.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/OD – Knock.md",
     "Kojima Productions.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Baby Steps.md",
-    "Attachments/image-122.webp",
-    "Attachments/image-121.webp",
     "Maxi Boch.md",
     "Bennett Foddy.md",
     "Gabe Cuzzillo.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Final Fantasy Tactics - The Ivalice Chronicles.md",
-    "Attachments/image-120.webp",
     "Algebra Factory.md",
-    "Square Enix.md",
-    "Franchise Final Fantasy.md",
-    "Attachments/image-119.webp",
-    "Attachments/image-118.webp",
-    "Attachments/image-117.webp",
     "Généalogie Matos Atari.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",
