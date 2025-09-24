@@ -1,8 +1,8 @@
 ---
 type: personne
 ---
-
-# Judy Alice Lee
+![[image-118.webp|237x281]]
+# Logan Cunningham
 
 ## Présentation
 Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
@@ -10,7 +10,7 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 ## Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  
-- **Profession(s)** : (Développeur, Designer, Compositeur, Journaliste, etc.)  
+- **Profession(s)** : Doublage
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 
 ```timeline-labeled
@@ -63,4 +63,5 @@ Lister les prix et reconnaissances obtenues.
 Évoquer les polémiques ou événements notables liés à cette personne.
 
 ## Sources et Références
-- [Site Perso](https://www.judyalicelee.com/)
+- https://www.behindthevoiceactors.com/Logan-Cunningham/
+- 

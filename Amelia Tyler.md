@@ -2,7 +2,7 @@
 type: personne
 ---
 
-# Judy Alice Lee
+# Amelia Tyler
 
 ## Présentation
 Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
@@ -63,4 +63,5 @@ Lister les prix et reconnaissances obtenues.
 Évoquer les polémiques ou événements notables liés à cette personne.
 
 ## Sources et Références
-- [Site Perso](https://www.judyalicelee.com/)
+- [Lien vers une source](#)
+- [Article détaillé](#)

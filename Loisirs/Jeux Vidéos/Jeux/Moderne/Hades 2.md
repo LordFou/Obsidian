@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Supergiant Games]]
 	- Personnalités : 
-		- [[Judy Alice Lee]] (Doublage)
+		- [[Judy Alice Lee]], [[Amelia Tyler]], [[Logan Cunningham]] (Doublage)
 - **Éditeur** : 
 - **Plateformes** : PC, [[Playstation 5]], [[Xbox Series]], [[Switch]]
 - **Franchise** : [[Franchise Hades]]
