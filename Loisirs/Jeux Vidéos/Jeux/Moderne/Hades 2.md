@@ -19,9 +19,11 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 2,5D
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- CheckPoint
+	  ![[image-119.webp|510x305]]
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -32,7 +34,7 @@ type: game
 	- La Croisée des Chemins (?)
 - **Epoque** : 
 - **Personnages principaux** : 
-	- [[Mélinoë]] (sœur de [[Zagreus]])
+	- [[Mélinoë]] (sœur de [[Zagreus]]) et sorcière
 - **Ennemis** :
 - **Thèmes abordés** : 
 	- [[Les Dieux de l'antiquité]]
