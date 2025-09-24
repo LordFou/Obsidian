@@ -1,14 +1,14 @@
 ---
 type: game
 ---
-
+![[image-117.webp|640x360]]
 # Hades 2
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Supergiant Games]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : PC, [[Playstation 5]], [[Xbox Series]], [[Switch]]
