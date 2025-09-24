@@ -58,7 +58,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": true
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
@@ -253,9 +253,10 @@
   },
   "active": "d2cea5be98e012f9",
   "lastOpenFiles": [
+    "DigiTales Interactive.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Between Horizons.md",
     "Attachments/image-138.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Isles of Sea and Sky.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Between Horizons.md",
     "Attachments/image-137.webp",
     "Sokoban-Like.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Patrick's Paradox.md",
@@ -270,7 +271,6 @@
     "Attachments/image-131.webp",
     "Attachments/image-130.webp",
     "Attachments/image-129.webp",
-    "Attachments/image-128.webp",
     "Lovely Hellplace.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sea of Stars.md",
     "Yasunori Mitsuda.md",
