@@ -8,17 +8,17 @@ type: game
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Gearbox Software]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : [[Franchise Borderlands|Borderlands]]
-- **Genre** :
+- **Genre** : [[Action]], [[Shooter-Looter]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : [[Cell-Shading]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
@@ -27,7 +27,9 @@ type: game
 ## Histoire et Univers
 - **Lieu(x)** : 
 - **Epoque** : 
+	- [[Post Apo]]
 - **Personnages principaux** : 
+	- Clap Clap (?)
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :

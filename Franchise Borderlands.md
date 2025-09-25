@@ -28,7 +28,7 @@ content:
 
 
 ## Mécaniques et innovations
-{{Description des éléments de gameplay marquants, des innovations techniques et de ce qui rend la franchise unique.}}
+- Un des principal point commun de tous les jeux, c'est le loot d'armes, une pléthore d'armes.
 
 ## Réception et héritage
 {{Analyse de la réception critique et populaire, ventes, influence sur d’autres jeux, adaptations en films, séries, livres...}}
