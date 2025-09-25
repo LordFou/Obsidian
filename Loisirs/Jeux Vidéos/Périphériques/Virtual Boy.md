@@ -15,7 +15,7 @@ type: matos
 - Mascotte : 
 
 ## Résumé et historique
-- Il ressortira en 2025 sur la [[Switch]] et [[Switch 2]] avec un retour de jeux en simili VR dans le catalogue Nintendo online pour pouvoir en reprofiter.
+- Il ressortira en 2026 sur la [[Switch]] et [[Switch 2]] avec un retour de jeux en simili VR dans le catalogue Nintendo online pour pouvoir en reprofiter => il faut un abonnement premium pour en profiter.
 
 ## Jeux emblématiques
 - Warioland
