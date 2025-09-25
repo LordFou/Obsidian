@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Regular",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,12 +179,11 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 200
   },
   "right": {
     "id": "2a4328d55d7357ae",
@@ -253,10 +252,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a47971b47ce877f4",
+  "active": "3a678690e10df4cd",
   "lastOpenFiles": [
-    "Annapurna Interactive.md",
+    "Loisirs/Jeux Vidéos/Jeux/Sans titre 1.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Troleu.md",
+    "Annapurna Interactive.md",
     "Loisirs/Jeux Vidéos/Sociétés/Critical Reflex.md",
     "Resident Evil Requiem.md",
     "Loisirs/Jeux Vidéos/Périphériques/Virtual Boy.md",
@@ -281,7 +281,6 @@
     "Loisirs/Jeux Vidéos/Origami.md",
     "Journal de bord/2025-09-25.md",
     "conflict-files-obsidian-git.md",
-    "Yasunori Mitsuda.md",
     "Attachments/image-140.webp",
     "Attachments/image-139.webp",
     "Attachments/image-138.webp",
