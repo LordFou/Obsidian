@@ -26,6 +26,7 @@ content:
 | --------------------------------------- | ----- | ----------- | -------- |
 | Vampire The Masquerade - Bloodlines 2 ? |       |             |          |
 | [[Vampire The Masquerade - Swansong]]   |       |             |          |
+| Vampire The Masquerade                  |       |             |          |
 
 
 ## Mécaniques et innovations

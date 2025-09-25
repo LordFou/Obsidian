@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Franchise Vampire The Masquerade.md",
+                "file": "Blizzard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Franchise Vampire The Masquerade"
+              "title": "Blizzard"
             },
             "group": "61ae2f3099b649a6"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Franchise Vampire The Masquerade.md",
+                "file": "Blizzard.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Franchise Vampire The Masquerade"
+              "title": "Graphique de Blizzard"
             },
             "group": "61ae2f3099b649a6"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Vampire The mas",
+                "query": "blizzard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -183,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 306.5
   },
   "right": {
     "id": "2a4328d55d7357ae",
