@@ -21,6 +21,9 @@ type: game
 - **Graphismes** : 2D
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
+	- [[Origami]]
+		- Excellente BO
+		- Vaut le coup de jouer
 	- 9/10 ([[CheckPoint]])
 	  ![[image-75.webp|500x139]]
 - **Gameplay** :
