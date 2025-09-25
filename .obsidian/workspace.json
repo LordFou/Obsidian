@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Tomodatchi Life.md",
+                "file": "Loisirs/Jeux Vidéos/Périphériques/Virtual Boy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tomodatchi Life"
+              "title": "Virtual Boy"
             },
             "group": "61ae2f3099b649a6"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Tomodatchi Life.md",
+                "file": "Loisirs/Jeux Vidéos/Périphériques/Virtual Boy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Tomodatchi Life"
+              "title": "Graphique de Virtual Boy"
             },
             "group": "61ae2f3099b649a6"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Virtual",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,8 +179,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,8 +254,11 @@
   },
   "active": "3a678690e10df4cd",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Kirby and the Forgotten Land.md",
+    "Resident Evil Requiem.md",
+    "Super Mario Bros.md",
+    "Journal de bord/2025-09-14.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Tomodatchi Life.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Kirby and the Forgotten Land.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Yoshi And The Mysterious Book.md",
     "Franchise Zelda.md",
@@ -279,9 +281,6 @@
     "The Maze of Galious.md",
     "Textielprijs.md",
     "Supergiant Games.md",
-    "Square Enix.md",
-    "Sokoban.md",
-    "Sokoban-Like.md",
     "Attachments/image-140.webp",
     "Attachments/image-139.webp",
     "Attachments/image-138.webp",

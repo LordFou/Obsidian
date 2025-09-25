@@ -37,7 +37,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Day One sur la [[Switch 2]]
 ## Liens et Ressources
 
 | Description | URL |
