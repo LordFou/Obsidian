@@ -2,27 +2,26 @@
 type: game
 ---
 
-# Yoshi And The Mysterious Book
+# Zelda - Breath of The Wild
 
 ## Informations Générales
 
-- **Année de sortie** : 2026 (?)
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Nintendo]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Nintendo]]
+- **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise Zelda]]
 - **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : un peu genre dessiné à la main
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- Kocobé : bof bof bof pas très intéressant. Y'a même mieux pour les enfants.
-- **Gameplay** : peut-être trop enfantin
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers

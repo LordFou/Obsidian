@@ -18,7 +18,7 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : Aspect 3D
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- 8.5/10 (CheckPoint)

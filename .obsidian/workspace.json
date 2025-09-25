@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blizzard.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Tomodatchi Life.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blizzard"
+              "title": "Tomodatchi Life"
             },
             "group": "61ae2f3099b649a6"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Blizzard.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Tomodatchi Life.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Blizzard"
+              "title": "Graphique de Tomodatchi Life"
             },
             "group": "61ae2f3099b649a6"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blizzard",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,7 +179,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,6 +255,15 @@
   },
   "active": "3a678690e10df4cd",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Kirby and the Forgotten Land.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Tomodatchi Life.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
+    "Yoshi And The Mysterious Book.md",
+    "Franchise Zelda.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Zelda - Breath of The Wild.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Donkey Kong Bananza.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Wildgate.md",
+    "Blizzard.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire The Masquerade - Swansong.md",
     "Franchise Vampire The Masquerade.md",
     "The Rogue Prince of Persia.md",
@@ -272,14 +282,6 @@
     "Square Enix.md",
     "Sokoban.md",
     "Sokoban-Like.md",
-    "Seff Van Kerckhove.md",
-    "Sabotage Studio.md",
-    "Nicolas Colsaerts.md",
-    "Maxi Boch.md",
-    "MSX2.md",
-    "MSX.md",
-    "Lovely Hellplace.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Patrick's Paradox.md",
     "Attachments/image-140.webp",
     "Attachments/image-139.webp",
     "Attachments/image-138.webp",
@@ -304,7 +306,6 @@
     "Sans titre",
     "Loisirs/Internet",
     "Loisirs/Musique",
-    "Culture",
-    "Loisirs"
+    "Culture"
   ]
 }
