@@ -206,7 +206,7 @@
         "resizeUnits": "pixels"
       }
     ],
-    "selectedResizePreset": "Width 500px"
+    "selectedResizePreset": "Default (No Resize)"
   },
   "resizeCursorLocation": "none",
   "dropPasteCursorLocation": "back",

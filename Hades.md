@@ -26,9 +26,12 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- La maison d'Hades
 - **Epoque** : 
 - **Personnages principaux** : 
+	- [[Zagreus]] (Frère de [[Mélinoë]])
 - **Ennemis** :
+	- Titan du Temps (?)
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 

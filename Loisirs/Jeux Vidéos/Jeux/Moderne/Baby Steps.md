@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-121.webp|684x385]]
 # Baby Steps
 
 ## Informations Générales
@@ -9,8 +9,8 @@ type: game
 - **Année de sortie** : 2025
 - **Développeur** : 
 	- Studio : 
-	- Personnalités : 
-- **Éditeur** : 
+	- Personnalités : [[Gabe Cuzzillo]], [[Bennett Foddy]], [[Maxi Boch]] (Dev)
+- **Éditeur** : [[Devolver Digital]]
 - **Plateformes** : PC, [[PlayStation 5]]
 - **Franchise** : 
 - **Genre** : [[Simulation]]
@@ -20,13 +20,15 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** :
+	- CheckPoint
+	  ![[image-122.webp|516x326]]
 - **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-- **Epoque** : 
+- **Epoque** : 2009
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
@@ -37,6 +39,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description          | URL                          |
+| -------------------- | ---------------------------- |
+| Release Date Trailer | https://youtu.be/Vz86r_DJeTg |

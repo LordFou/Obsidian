@@ -11,6 +11,7 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
+- **Meilleur classement ATP** : 45e
 
 # Palmarès et Distinctions
 | Année | Compétition               | Résultat              | Remarque |
