@@ -28,7 +28,9 @@ content:
 
 
 ## Mécaniques et innovations
-- Un des principal point commun de tous les jeux, c'est le loot d'armes, une pléthore d'armes.
+- Points communs 
+	- Un des principal, c'est le loot d'armes, une pléthore d'armes.
+	- Les gags débiles
 
 ## Réception et héritage
 {{Analyse de la réception critique et populaire, ventes, influence sur d’autres jeux, adaptations en films, séries, livres...}}

@@ -21,7 +21,7 @@ type: game
 - **Graphismes** : [[Cell-Shading]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-- **Gameplay** :
+- **Gameplay** : [[Coopération]]
 - **Durée estimée** : 
 
 ## Histoire et Univers
