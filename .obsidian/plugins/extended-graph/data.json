@@ -244,7 +244,7 @@
     "shape": "circle"
   },
   "fadeOnDisable": false,
-  "borderUnresolved": 0,
+  "borderUnresolved": "",
   "spreadArcs": false,
   "weightArcs": false,
   "animateDotsOnLinks": false,

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Borderlands 4.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Tides of Tomorrow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Borderlands 4"
+              "title": "Tides of Tomorrow"
             },
             "group": "61ae2f3099b649a6"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Borderlands 4.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Tides of Tomorrow.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Borderlands 4"
+              "title": "Graphique de Tides of Tomorrow"
             },
             "group": "61ae2f3099b649a6"
           }
@@ -254,8 +254,11 @@
   },
   "active": "3a678690e10df4cd",
   "lastOpenFiles": [
-    "Post Apo.md",
+    "Action.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dark Hunting Ground.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Tides of Tomorrow.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Borderlands 4.md",
+    "Post Apo.md",
     "Journal de bord/2025-09-26.md",
     "Franchise Borderlands.md",
     "Gearbox Software.md",
@@ -278,9 +281,6 @@
     "Blizzard.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire The Masquerade - Swansong.md",
     "Franchise Vampire The Masquerade.md",
-    "The Rogue Prince of Persia.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hades 2.md",
-    "Kojima Productions.md",
     "Attachments/image-140.webp",
     "Attachments/image-139.webp",
     "Attachments/image-138.webp",
