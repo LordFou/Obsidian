@@ -8,63 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a678690e10df4cd",
+            "id": "d9d740545ca18dff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Battlezone.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Battlezone"
-            },
-            "group": "421c226eab83863b"
-          }
-        ]
-      },
-      {
-        "id": "21fc375a0667dc2f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9f82c58660d6d287",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Battlezone.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "path:-journal",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graphique de Battlezone"
-            },
-            "group": "421c226eab83863b"
+              "title": "Nouvel onglet"
+            }
           }
         ]
       }
@@ -85,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "REsident evil 4",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,12 +128,11 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 345.5
   },
   "right": {
     "id": "2a4328d55d7357ae",
@@ -251,10 +201,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3a678690e10df4cd",
+  "active": "d9d740545ca18dff",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Personnalités/Roger Hector.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Resident Evil 4.md",
+    "Loisirs/Jeux Vidéos/Franchise Resident Evil.md",
+    "Journal de bord/2025-09-26.md",
     "Loisirs/Jeux Vidéos/Sociétés/Atari.md",
+    "Loisirs/Jeux Vidéos/Personnalités/Roger Hector.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Battlezone.md",
     "Loisirs/Jeux Vidéos/Hautington Hotel.md",
     "Ghostbusters.md",
     "Loisirs/Jeux Vidéos/The Atarians.md",
@@ -263,7 +217,6 @@
     "Loisirs/Jeux Vidéos/Recalbox.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/GoldenEye 007.md",
     "Mark Edmonds.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Resident Evil 4.md",
     "Loisirs/Jeux Vidéos/Sociétés/Ubisoft.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Assassin's Creed Shadows.md",
     "PC.md",
@@ -276,9 +229,6 @@
     "Lien vers une autre note.md",
     "Loisirs/Jeux Vidéos/Plateformes/Playstation 5.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Slime Rancher 2.md",
-    "Action.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Tides of Tomorrow.md",
-    "Digixart.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Attachments/image-140.webp",
     "Attachments/image-139.webp",

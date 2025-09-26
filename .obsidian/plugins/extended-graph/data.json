@@ -79,7 +79,7 @@
   },
   "additionalProperties": {},
   "backupGraphOptions": {
-    "collapse-filter": true,
+    "collapse-filter": false,
     "search": "",
     "localJumps": 1,
     "localBacklinks": true,
@@ -164,7 +164,7 @@
     "max": 5
   },
   "nodesColorColormap": "YlOrRd",
-  "nodesColorFunction": "totallinksCount",
+  "nodesColorFunction": "tagsCount",
   "graphStatsDirection": "normal",
   "linksSizeFunction": "default",
   "linksColorColormap": "YlOrRd",
@@ -332,7 +332,7 @@
   "collapseLegend": true,
   "resetAfterChanges": false,
   "collapsedSettings": {
-    "automation": true,
+    "automation": false,
     "tags": true,
     "properties": false,
     "links": true,
