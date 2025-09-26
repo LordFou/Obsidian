@@ -13,35 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sociétés/Atari.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Battlezone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atari"
+              "title": "Battlezone"
             },
-            "group": "3ebba2cbe99de522"
+            "group": "421c226eab83863b"
           }
         ]
       },
       {
-        "id": "31ca5cebb2ff2c07",
+        "id": "21fc375a0667dc2f",
         "type": "tabs",
         "children": [
           {
-            "id": "70555d09c5b28ecc",
+            "id": "9f82c58660d6d287",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sociétés/Atari.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Battlezone.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -62,9 +62,9 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Atari"
+              "title": "Graphique de Battlezone"
             },
-            "group": "3ebba2cbe99de522"
+            "group": "421c226eab83863b"
           }
         ]
       }
@@ -251,9 +251,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "70555d09c5b28ecc",
+  "active": "3a678690e10df4cd",
   "lastOpenFiles": [
     "Loisirs/Jeux Vidéos/Personnalités/Roger Hector.md",
+    "Loisirs/Jeux Vidéos/Sociétés/Atari.md",
+    "Loisirs/Jeux Vidéos/Hautington Hotel.md",
+    "Ghostbusters.md",
+    "Loisirs/Jeux Vidéos/The Atarians.md",
     "Sega.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Shinobi - Art of Vengeance.md",
     "Loisirs/Jeux Vidéos/Recalbox.md",
@@ -275,10 +279,6 @@
     "Action.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Tides of Tomorrow.md",
     "Digixart.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dark Hunting Ground.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Borderlands 4.md",
-    "Post Apo.md",
-    "Journal de bord/2025-09-26.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Attachments/image-140.webp",
     "Attachments/image-139.webp",
