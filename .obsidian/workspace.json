@@ -13,28 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/GoldenEye 007.md",
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Atari.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GoldenEye 007"
+              "title": "Atari"
             },
-            "group": "a49f2ec63e7fdfcc"
+            "group": "3ebba2cbe99de522"
           }
         ]
       },
       {
-        "id": "398f690139bff193",
+        "id": "31ca5cebb2ff2c07",
         "type": "tabs",
         "children": [
           {
-            "id": "bb03ddbc2a30fab0",
+            "id": "70555d09c5b28ecc",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/GoldenEye 007.md",
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Atari.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -62,9 +62,9 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de GoldenEye 007"
+              "title": "Graphique de Atari"
             },
-            "group": "a49f2ec63e7fdfcc"
+            "group": "3ebba2cbe99de522"
           }
         ]
       }
@@ -251,14 +251,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb03ddbc2a30fab0",
+  "active": "70555d09c5b28ecc",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Personnalités/Roger Hector.md",
+    "Sega.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shinobi - Art of Vengeance.md",
+    "Loisirs/Jeux Vidéos/Recalbox.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/GoldenEye 007.md",
+    "Mark Edmonds.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Resident Evil 4.md",
     "Loisirs/Jeux Vidéos/Sociétés/Ubisoft.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Assassin's Creed Shadows.md",
     "PC.md",
     "Rogue Trooper.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/GoldenEye 007.md",
     "Film - Golden Eye.md",
     "James Bond.md",
     "Dead Space.md",
@@ -274,11 +279,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Borderlands 4.md",
     "Post Apo.md",
     "Journal de bord/2025-09-26.md",
-    "Franchise Borderlands.md",
-    "Gearbox Software.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Troleu.md",
-    "Loisirs/Jeux Vidéos/Jeux/Sans titre 1.md",
-    "Annapurna Interactive.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Attachments/image-140.webp",
     "Attachments/image-139.webp",

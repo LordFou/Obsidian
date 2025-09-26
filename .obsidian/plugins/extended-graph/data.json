@@ -164,9 +164,9 @@
     "max": 5
   },
   "nodesColorColormap": "YlOrRd",
-  "nodesColorFunction": "tagsCount",
+  "nodesColorFunction": "backlinksCount",
   "graphStatsDirection": "normal",
-  "linksSizeFunction": "Co-Citations",
+  "linksSizeFunction": "default",
   "linksColorColormap": "YlOrRd",
   "linksColorFunction": "default",
   "recomputeStatsOnGraphChange": false,
