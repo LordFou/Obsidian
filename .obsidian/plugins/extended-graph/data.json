@@ -79,7 +79,7 @@
   },
   "additionalProperties": {},
   "backupGraphOptions": {
-    "collapse-filter": false,
+    "collapse-filter": true,
     "search": "",
     "localJumps": 1,
     "localBacklinks": true,
@@ -164,7 +164,7 @@
     "max": 5
   },
   "nodesColorColormap": "YlOrRd",
-  "nodesColorFunction": "tagsCount",
+  "nodesColorFunction": "backlinksCount",
   "graphStatsDirection": "normal",
   "linksSizeFunction": "default",
   "linksColorColormap": "YlOrRd",
