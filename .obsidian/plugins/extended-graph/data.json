@@ -13,7 +13,7 @@
       "imagesForAttachments": false,
       "focus": false,
       "shapes": false,
-      "elements-stats": false,
+      "elements-stats": true,
       "names": false,
       "icons": false,
       "arrows": false,
@@ -32,7 +32,7 @@
       "imagesForAttachments": false,
       "focus": false,
       "shapes": false,
-      "elements-stats": false,
+      "elements-stats": true,
       "names": false,
       "icons": false,
       "arrows": false,
@@ -128,10 +128,21 @@
         "linkStrength": 1,
         "repelStrength": 10
       },
-      "toggleTypes": {},
-      "logicTypes": {},
+      "toggleTypes": {
+        "tag": [],
+        "link": [],
+        "folder": []
+      },
+      "logicTypes": {
+        "tag": "OR",
+        "link": "OR",
+        "folder": "OR"
+      },
       "enableLayers": false,
-      "currentLayerLevel": 0
+      "currentLayerLevel": 0,
+      "pinNodes": {},
+      "hiddenLegendRows": [],
+      "collapsedLegendRows": []
     }
   ],
   "startingStateID": "default-vault",
@@ -147,15 +158,15 @@
   "nodesSizeProperties": [
     ""
   ],
-  "nodesSizeFunction": "default",
+  "nodesSizeFunction": "backlinksCount",
   "nodesSizeRange": {
     "min": 0.5,
-    "max": 1.5
+    "max": 5
   },
   "nodesColorColormap": "YlOrRd",
-  "nodesColorFunction": "default",
+  "nodesColorFunction": "tagsCount",
   "graphStatsDirection": "normal",
-  "linksSizeFunction": "default",
+  "linksSizeFunction": "Co-Citations",
   "linksColorColormap": "YlOrRd",
   "linksColorFunction": "default",
   "recomputeStatsOnGraphChange": false,
@@ -332,7 +343,7 @@
     "focus": true,
     "shapes": true,
     "layers": true,
-    "elements-stats": true,
+    "elements-stats": false,
     "names": true,
     "zoom": true,
     "local-graph": true,

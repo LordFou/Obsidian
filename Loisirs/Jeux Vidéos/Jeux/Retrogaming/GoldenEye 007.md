@@ -40,7 +40,7 @@ type: game
 - **Thèmes abordés** : 
 	- [[Espionnage]]
 - **Influencé par** :
-	- Le film [[Golden Eye]]
+	- Le film [[Film - Golden Eye]]
 	- Le film [[Heat|Heat]]
 	- [[Virtua Cop]] pour le système de visée au pixel près
 - **A inspiré** : 
