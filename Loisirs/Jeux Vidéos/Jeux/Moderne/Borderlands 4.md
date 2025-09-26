@@ -18,10 +18,12 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[Cell-Shading]]
+- **Graphismes** : [[Cell-Shading]], Gore
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-- **Gameplay** : [[Coopération]]
+- **Gameplay** : 
+	- [[Coopération]] (Dont 2 joueurs en écran splitté)
+	- 4 archétype de personnages
 - **Durée estimée** : 
 
 ## Histoire et Univers
