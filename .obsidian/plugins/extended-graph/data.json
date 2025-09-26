@@ -1,7 +1,7 @@
 {
   "enableFeatures": {
     "graph": {
-      "auto-enabled": false,
+      "auto-enabled": true,
       "tags": false,
       "properties": false,
       "property-key": false,
@@ -20,7 +20,7 @@
       "layers": false
     },
     "localgraph": {
-      "auto-enabled": false,
+      "auto-enabled": true,
       "tags": false,
       "properties": false,
       "property-key": false,
@@ -79,12 +79,12 @@
   },
   "additionalProperties": {},
   "backupGraphOptions": {
-    "collapse-filter": false,
-    "search": "path:-journal",
+    "collapse-filter": true,
+    "search": "",
     "localJumps": 1,
     "localBacklinks": true,
     "localForelinks": true,
-    "localInterlinks": true,
+    "localInterlinks": false,
     "showTags": false,
     "showAttachments": false,
     "hideUnresolved": false,
@@ -100,8 +100,8 @@
     "repelStrength": 10,
     "linkStrength": 1,
     "linkDistance": 250,
-    "scale": 0.713275462622442,
-    "close": true
+    "scale": 1,
+    "close": false
   },
   "openInNewTab": false,
   "canonicalizePropertiesWithDataview": true,
@@ -174,7 +174,7 @@
   "focusScaleFactor": 1.8,
   "highlightOpenNodes": false,
   "highlightSearchResults": false,
-  "maxNodes": 20,
+  "maxNodes": 500,
   "delay": 500,
   "revertAction": false,
   "enableCSS": false,
@@ -350,7 +350,7 @@
     "display": false,
     "filter": true,
     "inputs": true,
-    "performances": true,
+    "performances": false,
     "beta": true
   },
   "selectionMode": "replace",

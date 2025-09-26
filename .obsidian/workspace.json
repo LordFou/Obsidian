@@ -6,7 +6,6 @@
       {
         "id": "7c90d8201d4f614c",
         "type": "tabs",
-        "dimension": 56.28908964558721,
         "children": [
           {
             "id": "3a678690e10df4cd",
@@ -21,24 +20,23 @@
               "icon": "lucide-file",
               "title": "GoldenEye 007"
             },
-            "group": "61ae2f3099b649a6"
+            "group": "a49f2ec63e7fdfcc"
           }
         ]
       },
       {
-        "id": "97a0a208bbb9f735",
+        "id": "398f690139bff193",
         "type": "tabs",
-        "dimension": 43.71091035441278,
         "children": [
           {
-            "id": "e2cf90ab0dd10aa0",
+            "id": "bb03ddbc2a30fab0",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
                 "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/GoldenEye 007.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "path:-journal",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -59,14 +57,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.713275462622442,
-                  "close": true
+                  "scale": 1,
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
               "title": "Graphique de GoldenEye 007"
             },
-            "group": "61ae2f3099b649a6"
+            "group": "a49f2ec63e7fdfcc"
           }
         ]
       }
@@ -179,11 +177,12 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 302.5
   },
   "right": {
     "id": "2a4328d55d7357ae",
@@ -252,12 +251,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3a678690e10df4cd",
+  "active": "bb03ddbc2a30fab0",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Resident Evil 4.md",
+    "Loisirs/Jeux Vidéos/Sociétés/Ubisoft.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Assassin's Creed Shadows.md",
+    "PC.md",
+    "Rogue Trooper.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/GoldenEye 007.md",
     "Film - Golden Eye.md",
     "James Bond.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/GoldenEye 007.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Resident Evil 4.md",
     "Dead Space.md",
     "Chuck Beaver.md",
     "Playstation 4.md",
@@ -276,10 +279,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Troleu.md",
     "Loisirs/Jeux Vidéos/Jeux/Sans titre 1.md",
     "Annapurna Interactive.md",
-    "Loisirs/Jeux Vidéos/Sociétés/Critical Reflex.md",
-    "Resident Evil Requiem.md",
-    "Loisirs/Jeux Vidéos/Périphériques/Virtual Boy.md",
-    "Super Mario Bros.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Attachments/image-140.webp",
     "Attachments/image-139.webp",
