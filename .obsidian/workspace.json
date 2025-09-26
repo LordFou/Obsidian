@@ -39,7 +39,7 @@
                 "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Borderlands 4.md",
                 "options": {
                   "collapse-filter": false,
-                  "search": "",
+                  "search": "path:-journal",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Borderl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,9 +254,10 @@
   },
   "active": "3a678690e10df4cd",
   "lastOpenFiles": [
-    "Franchise Borderlands.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Borderlands 4.md",
     "Post Apo.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Borderlands 4.md",
+    "Journal de bord/2025-09-26.md",
+    "Franchise Borderlands.md",
     "Gearbox Software.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Troleu.md",
     "Loisirs/Jeux Vidéos/Jeux/Sans titre 1.md",
@@ -280,7 +281,6 @@
     "The Rogue Prince of Persia.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Hades 2.md",
     "Kojima Productions.md",
-    "Microsoft.md",
     "Attachments/image-140.webp",
     "Attachments/image-139.webp",
     "Attachments/image-138.webp",
