@@ -24,9 +24,11 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre         | Genre                 | Plateformes |
-| ----- | ------------- | --------------------- | ----------- |
-| 2025  | [[Trainatic]] | Vampire Survivor Like | PC          |
+| Année | Titre          | Genre                 | Plateformes |
+| ----- | -------------- | --------------------- | ----------- |
+| 2022  | Mess Quest     | Simulation            | PC          |
+| 2024  | [[Croakoloco]] | Incrémental           | PC          |
+| 2025  | [[Trainatic]]  | Vampire Survivor Like | PC          |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
