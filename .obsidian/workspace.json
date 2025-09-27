@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Remco Evenepoel.md",
+                "file": "Nina Derwael.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Remco Evenepoel"
+              "title": "Nina Derwael"
             },
             "group": "a3973046bf06788a"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Remco Evenepoel.md",
+                "file": "Nina Derwael.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-journal",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Remco Evenepoel"
+              "title": "Graphique de Nina Derwael"
             },
             "group": "a3973046bf06788a"
           }
@@ -253,6 +253,7 @@
   "active": "46da479fe84c58ea",
   "lastOpenFiles": [
     "Sportive Belge de l'année.md",
+    "Loisirs/Sport/Remco Evenepoel.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Loisirs/Tour de France.md",
     "Mavi García.md",
@@ -280,7 +281,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Sans titre 1.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Zelda - Breath of The Wild.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Troleu.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Tomodatchi Life.md",
     "Attachments/image-142.webp",
     "Attachments/image-141.webp",
     "Attachments/image-140.webp",
