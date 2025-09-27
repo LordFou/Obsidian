@@ -3,7 +3,7 @@ type: personne
 ---
 ![[Pasted image 20250728005246.png]]
 # Mavi García
-
+Margarita Victo Garcia Canellas
 # Informations Générales
 - **Date de naissance** :  1984
 - **Nationalité** :  Espagnol
@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                   | Résultat | Remarque                    |
-| ----- | ----------------------------- | -------- | --------------------------- |
-| 2025  | [[Tour de France]] - 2e étape | 1ière    | Juste devant les meilleures |
+| Année | Compétition                          | Résultat | Remarque                    |
+| ----- | ------------------------------------ | -------- | --------------------------- |
+| 2025  | [[Tour de France]] - 2e étape        | 1ière    | Juste devant les meilleures |
+| 2025  | [[Championnat du Monde de Cyclisme]] | 3e       |                             |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

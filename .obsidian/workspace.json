@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zizou Bergs.md",
+                "file": "Mavi García.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zizou Bergs"
+              "title": "Mavi García"
             },
             "group": "a3973046bf06788a"
           }
@@ -34,14 +34,14 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Zizou Bergs.md",
+                "file": "Mavi García.md",
                 "options": {
                   "collapse-filter": false,
-                  "search": "",
+                  "search": "path:-journal",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -57,12 +57,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.0000000000000009,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Zizou Bergs"
+              "title": "Graphique de Mavi García"
             },
             "group": "a3973046bf06788a"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CLeared",
+                "query": "mavi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,8 +177,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,8 +252,16 @@
   },
   "active": "46da479fe84c58ea",
   "lastOpenFiles": [
-    "ATP - Tournoi de Tokyo.md",
+    "Critérium du Dauphiné.md",
+    "Loisirs/Tour de France.md",
+    "Loisirs/Sport/Lotte Kopecky.md",
+    "Championnat du Monde de Cyclisme.md",
+    "Niamh Fisher-black.md",
+    "Magdeleine Vallieres Mill.md",
+    "Loisirs/Sport/Sportifs/Margarita Victo Garcia Canellas.md",
+    "Mavi García.md",
     "Zizou Bergs.md",
+    "ATP - Tournoi de Tokyo.md",
     "Journal de bord/2025-09-27.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cleared Hot.md",
     "Mess Quest.md",
@@ -274,16 +281,8 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Tomodatchi Life.md",
     "Journal de bord/2025-09-26.md",
     "Journal de bord/2025-09-25.md",
-    "Ghostbusters.md",
-    "Gearbox Software.md",
-    "Franchise Zelda.md",
-    "Franchise Vampire The Masquerade.md",
-    "Film - Golden Eye.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Pampas & Selene - The Maze of Demons.md",
     "Attachments/image-142.webp",
     "Attachments/image-141.webp",
-    "Culture/Les labyrinthes.md",
-    "Culture/Histoire/Chronologie/Années 80.md",
     "Attachments/image-140.webp",
     "Attachments/image-139.webp",
     "Attachments/image-138.webp",

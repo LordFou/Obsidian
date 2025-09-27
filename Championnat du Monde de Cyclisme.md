@@ -20,10 +20,13 @@ type: event
 | 2025  | [[Remco Evenepoel]]  | CLM    | Belge       |          |
 # Femmes
 
-| Année | Vainqueur          | Nationalité | Remarque                  |
-| ----- | ------------------ | ----------- | ------------------------- |
-| 2025  | [[Marlen Reusser]] | Suisse      | 21e - [[Marthe Goossens]] |
-|       |                    |             |                           |
+| Année | Vainqueur                     | Course | Nationalité | Remarque                  |
+| ----- | ----------------------------- | ------ | ----------- | ------------------------- |
+| 2023  | [[Lotte Kopecky]]             | Route  | Belge       |                           |
+| 2024  | [[Lotte Kopecky]]             | Route  | Belge       |                           |
+| 2025  | [[Magdeleine Vallieres Mill]] | Route  | Canadienne  |                           |
+| 2025  | [[Marlen Reusser]]            | CLM    | Suisse      | 21e - [[Marthe Goossens]] |
+|       |                               |        |             |                           |
 # Mixte
 
 | Année | Epreuve | Vainqueur | Remarque      |
