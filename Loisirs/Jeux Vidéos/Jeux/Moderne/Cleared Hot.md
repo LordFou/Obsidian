@@ -11,22 +11,23 @@ type: game
 	- Studio : [[Not Knowing Corporation]]
 	- Personnalités : 
 - **Éditeur** : [[MicroProse]]
-- **Plateformes** : 
+- **Plateformes** : PC
 - **Franchise** : 
-- **Genre** :
-- **Résumé** : 
+- **Genre** : [[Shooter]]
+- **Résumé** : Vous dirigez un [[Hélicoptère]] et accomplissez diverses missions en mode [[3D Isométrique]]
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
-- **Gameplay** :
+- **Graphismes** : [[3D Isométrique]]
+- **Audio** : 
+- **Réception critique** : 
+	- Wishlisté mais 6/10 (Lord Fou) et pas très fluide
+- **Gameplay** : 
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-- **Epoque** : 
+- **Epoque** : Contemporaine
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
