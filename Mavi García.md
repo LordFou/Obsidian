@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[Pasted image 20250728005246.png]]
+
 # Mavi García
 Margarita Victo Garcia Canellas
 # Informations Générales
