@@ -13,7 +13,7 @@ type: game
 		- [[Olivier Deriviere]] (Compositeur)
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise Vampire The Masquerade]]
 - **Genre** :
 - **Résumé** : 
 

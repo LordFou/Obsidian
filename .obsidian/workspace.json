@@ -11,17 +11,32 @@
             "id": "7b44e07538775812",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Journal de bord/2025-09-27.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2025-09-27"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
+          },
+          {
+            "id": "46da479fe84c58ea",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/various-complements/histories.json",
+                "bFile": ".obsidian/plugins/various-complements/histories.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: histories.json"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,8 +220,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b44e07538775812",
+  "active": "46da479fe84c58ea",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Post Apo.md",
+    "Loisirs/Jeux Vidéos/Sociétés/Critical Reflex.md",
+    "Loisirs/Jeux Vidéos/Jeux/Sans titre 1.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Zelda - Breath of The Wild.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Troleu.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Tomodatchi Life.md",
+    "Journal de bord/2025-09-26.md",
+    "Journal de bord/2025-09-25.md",
+    "Ghostbusters.md",
+    "Gearbox Software.md",
+    "Franchise Zelda.md",
+    "Franchise Vampire The Masquerade.md",
+    "Film - Golden Eye.md",
     "Journal de bord/2025-09-27.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Pampas & Selene - The Maze of Demons.md",
     "Attachments/image-142.webp",
@@ -226,24 +254,10 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Isles of Sea and Sky.md",
     "Attachments/image-137.webp",
     "Sokoban-Like.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Patrick's Paradox.md",
-    "Sokoban.md",
-    "Cicada Games.md",
     "Attachments/image-136.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dread Delusion.md",
     "Attachments/image-135.webp",
     "Attachments/image-134.webp",
     "Attachments/image-133.webp",
-    "Lovely Hellplace.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sea of Stars.md",
-    "Yasunori Mitsuda.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Edge of Eternity.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Chrono Trigger.md",
-    "Sabotage Studio.md",
-    "The Messenger.md",
-    "King's Field.md",
-    "FromSoftware.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Lunacid.md",
     "Généalogie Matos Atari.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",
@@ -253,4 +267,12 @@
     "Loisirs/Jeux Vidéos/Moteurs",
     "Loisirs/Sport/Equipes",
     "Loisirs/Jeux Vidéos/Généalogie Mr Driller.canvas",
-    "Attachments/Download.mp
+    "Attachments/Download.mp4",
+    "Loisirs/Jeux Vidéos/Livres",
+    "Sans titre",
+    "Loisirs/Internet",
+    "Loisirs/Musique",
+    "Culture",
+    "Loisirs"
+  ]
+}

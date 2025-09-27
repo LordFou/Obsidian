@@ -2,10 +2,10 @@
 type: societe
 ---
 
-# Microsoft
+# Critical Reflex
 
 ## Présentation
-Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
+- Société de production
 
 ## Informations Générales
 - **Nom complet** :  
@@ -39,7 +39,7 @@ Décrire le style graphique, les thématiques abordées, les influences notables
 Lister les prix, distinctions ou records obtenus.
 
 ## Controverses ou Événements Marquants
-- Lors de la guerre en Palestine en 2024-2025, la société est reconnue aider le gouvernement israélien notamment via du matériel informatique et des applications pour aider au niveau militaire.
+Évoquer les polémiques ou faits marquants de l’histoire de la société.
 
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.

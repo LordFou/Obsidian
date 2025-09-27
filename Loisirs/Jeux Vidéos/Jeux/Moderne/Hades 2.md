@@ -41,6 +41,7 @@ type: game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[The Rogue Prince of Persia]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources

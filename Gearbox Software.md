@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Microsoft
+# Gearbox Software
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,9 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre      | Genre              | Plateformes           |
-| ----- | ---------- | ------------------ | --------------------- |
-| XXXX  | Nom du jeu | Action / RPG / FPS | PC, PS5, Xbox, Switch |
+| Année | Titre             | Genre       | Plateformes |
+| ----- | ----------------- | ----------- | ----------- |
+| 2025  | [[Borderlands 4]] | Action, FPS |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
@@ -39,7 +39,7 @@ Décrire le style graphique, les thématiques abordées, les influences notables
 Lister les prix, distinctions ou records obtenus.
 
 ## Controverses ou Événements Marquants
-- Lors de la guerre en Palestine en 2024-2025, la société est reconnue aider le gouvernement israélien notamment via du matériel informatique et des applications pour aider au niveau militaire.
+Évoquer les polémiques ou faits marquants de l’histoire de la société.
 
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.

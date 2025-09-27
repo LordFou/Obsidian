@@ -20,7 +20,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : un peu genre dessiné à la main
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Kocobé : bof bof bof pas très intéressant. Y'a même mieux pour les enfants.
 - **Gameplay** : peut-être trop enfantin
 - **Durée estimée** : 
 

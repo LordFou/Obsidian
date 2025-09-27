@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Franchise Borderlands
+# Franchise Zelda
 
 
 ## Informations générales
@@ -22,15 +22,13 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre             | Année | Plateformes | Remarque |
-| ----------------- | ----- | ----------- | -------- |
-| [[Borderlands 4]] | 2025  |             |          |
+| Titre                          | Année | Plateformes | Remarque |
+| ------------------------------ | ----- | ----------- | -------- |
+| [[Zelda - Breath of The Wild]] |       |             |          |
 
 
 ## Mécaniques et innovations
-- Points communs 
-	- Un des principal, c'est le loot d'armes, une pléthore d'armes.
-	- Les gags débiles
+{{Description des éléments de gameplay marquants, des innovations techniques et de ce qui rend la franchise unique.}}
 
 ## Réception et héritage
 {{Analyse de la réception critique et populaire, ventes, influence sur d’autres jeux, adaptations en films, séries, livres...}}
