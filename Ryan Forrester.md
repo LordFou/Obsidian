@@ -26,7 +26,7 @@ content:
 ## Jeux Développés
 | Année | Titre          | Genre                 | Plateformes |
 | ----- | -------------- | --------------------- | ----------- |
-| 2022  | Mess Quest     | Simulation            | PC          |
+| 2022  | [[Mess Quest]] | Simulation            | PC          |
 | 2024  | [[Croakoloco]] | Incrémental           | PC          |
 | 2025  | [[Trainatic]]  | Vampire Survivor Like | PC          |
 
