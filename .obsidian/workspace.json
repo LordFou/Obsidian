@@ -4,67 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3c61d53ffb18294b",
+        "id": "9b8fe07436186c65",
         "type": "tabs",
         "children": [
           {
-            "id": "d2cea5be98e012f9",
+            "id": "7b44e07538775812",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Pampas & Selene - The Maze of Demons.md",
+                "file": "Journal de bord/2025-09-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pampas & Selene - The Maze of Demons"
-            },
-            "group": "d4873fec400e6412"
-          }
-        ]
-      },
-      {
-        "id": "da2309f2e589f60f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "45fef4dbb7c874cb",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Pampas & Selene - The Maze of Demons.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "path:-journal",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graphique de Pampas & Selene - The Maze of Demons"
-            },
-            "group": "d4873fec400e6412"
+              "title": "2025-09-27"
+            }
           }
         ]
       }
@@ -85,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pampas & Selene",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -251,11 +206,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d2cea5be98e012f9",
+  "active": "7b44e07538775812",
   "lastOpenFiles": [
+    "Journal de bord/2025-09-27.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Pampas & Selene - The Maze of Demons.md",
+    "Attachments/image-142.webp",
+    "Attachments/image-141.webp",
+    "Culture/Les labyrinthes.md",
+    "Culture/Histoire/Chronologie/Années 80.md",
     "The Maze of Galious.md",
     "MSX.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Pampas & Selene - The Maze of Demons.md",
     "MSX2.md",
     "@unepic_fran.md",
     "Attachments/image-140.webp",
@@ -274,8 +234,6 @@
     "Attachments/image-135.webp",
     "Attachments/image-134.webp",
     "Attachments/image-133.webp",
-    "Attachments/image-132.webp",
-    "Attachments/image-131.webp",
     "Lovely Hellplace.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sea of Stars.md",
     "Yasunori Mitsuda.md",
@@ -286,9 +244,6 @@
     "King's Field.md",
     "FromSoftware.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Lunacid.md",
-    "Akumi Kira.md",
-    "KIRA LLC.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Fading Afternoon.md",
     "Généalogie Matos Atari.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",
@@ -298,12 +253,4 @@
     "Loisirs/Jeux Vidéos/Moteurs",
     "Loisirs/Sport/Equipes",
     "Loisirs/Jeux Vidéos/Généalogie Mr Driller.canvas",
-    "Attachments/Download.mp4",
-    "Loisirs/Jeux Vidéos/Livres",
-    "Sans titre",
-    "Loisirs/Internet",
-    "Loisirs/Musique",
-    "Culture",
-    "Loisirs"
-  ]
-}
+    "Attachments/Download.mp

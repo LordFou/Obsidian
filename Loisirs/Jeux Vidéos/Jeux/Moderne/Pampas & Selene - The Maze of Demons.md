@@ -21,15 +21,16 @@ type: game
 - **Graphismes** : 2D, esthétique [[MSX]]
 - **Audio** : version classique, version 8-bits
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-- **Gameplay** :
+- **Gameplay** : [[Coopération]]
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Les labyrinthes|Labyrinthe]]
 - **Epoque** : 
 - **Personnages principaux** : 
-	- [[Pampas]]
-	- [[Sélène]]
+	- [[Pampas]] -> Chevalier
+	- [[Sélène]] -> Magicienne
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
@@ -42,3 +43,4 @@ type: game
 | Description | URL |
 | ----------- | --- |
 |             |     |
+![[image-142.webp]]![[image-141.webp]]
