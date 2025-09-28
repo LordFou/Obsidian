@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-09-28.md",
+                "file": "Ben Healy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-28"
+              "title": "Ben Healy"
             },
             "group": "a3973046bf06788a"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2025-09-28.md",
+                "file": "Ben Healy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-journal",
@@ -57,12 +57,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.401982897776104,
+                  "scale": 1.0000000000000027,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-09-28"
+              "title": "Graphique de Ben Healy"
             },
             "group": "a3973046bf06788a"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nicolas sarkozy",
+                "query": "Ben hea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,8 +177,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,6 +252,10 @@
   },
   "active": "46da479fe84c58ea",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
+    "Championnat du Monde de Cyclisme.md",
+    "Loisirs/Sport/Tadej Pogacar.md",
+    "Journal de bord/2025-09-28.md",
     "Loisirs/Jeux Vidéos/Assoupi.md",
     "Loisirs/Sport/Arvid de Kleijn.md",
     "Loisirs/Sport/Arjen Lyvins.md",
@@ -264,7 +267,6 @@
     "Culture/Allocations Familiales.md",
     "Loisirs/Jeux Vidéos/Akumi Kira.md",
     "Allemagne.md",
-    "Journal de bord/2025-09-28.md",
     "Reichstag.md",
     "Culture/Boucle de rétention.md",
     "Culture/Politique/Nicolas Sarkozy.md",
@@ -274,13 +276,10 @@
     "Nina Derwael.md",
     "Sportive Belge de l'année.md",
     "Loisirs/Sport/Remco Evenepoel.md",
-    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Loisirs/Sport/Tour de France.md",
     "Mavi García.md",
     "Journal de bord/2025-09-27.md",
-    "Championnat du Monde de Cyclisme.md",
     "Critérium du Dauphiné.md",
-    "Loisirs/Sport/Lotte Kopecky.md",
     "Attachments/image-145.webp",
     "Attachments/image-144.webp",
     "Attachments/image-143.webp",

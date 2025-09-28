@@ -52,6 +52,7 @@ type: personne
 | 2025  | [[Tour de France]] - 5e étape                                                    | 1ier 🏆  | CLM<br>Maillot Blanc                                |
 | 2025  | [[Tour de Grande Bretagne]] - 5e étape                                           | 1ier 🏆  |                                                     |
 | 2025  | [[Championnat du Monde de Cyclisme\|Championnat du Monde]] - CLM                 | 1ier 🏆  | ==Triplé consécutif !==                             |
+| 2025  | [[Championnat du Monde de Cyclisme\|Championnat du Monde]] - Route               | 2e       |                                                     |
 ## Historique
 ```timeline-labeled
 [line-5, body-2]
