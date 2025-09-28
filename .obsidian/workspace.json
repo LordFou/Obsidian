@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture/Boucle de rétention.md",
+                "file": "Journal de bord/2025-09-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boucle de rétention"
+              "title": "2025-09-28"
             },
             "group": "a3973046bf06788a"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Culture/Boucle de rétention.md",
+                "file": "Journal de bord/2025-09-28.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-journal",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Boucle de rétention"
+              "title": "Graphique de 2025-09-28"
             },
             "group": "a3973046bf06788a"
           }
@@ -253,9 +253,9 @@
   },
   "active": "46da479fe84c58ea",
   "lastOpenFiles": [
+    "Culture/Boucle de rétention.md",
     "Culture/Politique/Nicolas Sarkozy.md",
     "Attachments/image-146.webp",
-    "Culture/Boucle de rétention.md",
     "Journal de bord/2025-09-28.md",
     "Culture/Politique",
     "Culture/Sans titre.md",
