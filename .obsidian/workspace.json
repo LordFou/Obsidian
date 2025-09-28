@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Championnat de Belgique d'équitation.md",
+                "file": "Paris-Chauny.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Championnat de Belgique d'équitation"
+              "title": "Paris-Chauny"
             },
             "group": "a3973046bf06788a"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Championnat de Belgique d'équitation.md",
+                "file": "Paris-Chauny.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-journal",
@@ -57,12 +57,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000027,
+                  "scale": 1.000000000000003,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Championnat de Belgique d'équitation"
+              "title": "Graphique de Paris-Chauny"
             },
             "group": "a3973046bf06788a"
           }
@@ -253,10 +253,12 @@
   },
   "active": "46da479fe84c58ea",
   "lastOpenFiles": [
+    "Loisirs/Sport/Arnaud de Lie.md",
+    "Paris-Chauny.md",
+    "Journal de bord/2025-09-28.md",
     "Gilles Thomas.md",
     "Championnat de Belgique d'équitation.md",
     "Jos Verlooy.md",
-    "Journal de bord/2025-09-28.md",
     "Ben Healy.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Championnat du Monde de Cyclisme.md",
@@ -279,8 +281,6 @@
     "Culture/Politique",
     "Culture/Sans titre.md",
     "Nina Derwael.md",
-    "Sportive Belge de l'année.md",
-    "Loisirs/Sport/Remco Evenepoel.md",
     "Attachments/image-145.webp",
     "Attachments/image-144.webp",
     "Attachments/image-143.webp",
