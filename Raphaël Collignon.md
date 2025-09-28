@@ -18,6 +18,7 @@ type: personne
 | 2025  | [[US Open]]                      | 3e tour                    | 2 premières victoires en grand chelem !<br>Dont une contre Casper Ruud (12e mondial) |
 | 2025  | [[Coupe Davis]] - 2e tour qualif | Victoire de son 1ier match | ==Contre le 8e mondial==                                                             |
 | 2025  | [[Coupe Davis]] - 2e tour qualif | Victoire de son 2e match   | ==Qualification de la Belgique pour la phase finale==                                |
+| 2025  | [[ATP - Challenger d’Orléans]]     | Finale                     | perdue                                                                               |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
