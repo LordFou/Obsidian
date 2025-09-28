@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ben Healy.md",
+                "file": "Championnat de Belgique d'équitation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ben Healy"
+              "title": "Championnat de Belgique d'équitation"
             },
             "group": "a3973046bf06788a"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ben Healy.md",
+                "file": "Championnat de Belgique d'équitation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-journal",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Ben Healy"
+              "title": "Graphique de Championnat de Belgique d'équitation"
             },
             "group": "a3973046bf06788a"
           }
@@ -177,7 +177,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -252,10 +253,14 @@
   },
   "active": "46da479fe84c58ea",
   "lastOpenFiles": [
+    "Gilles Thomas.md",
+    "Championnat de Belgique d'équitation.md",
+    "Jos Verlooy.md",
+    "Journal de bord/2025-09-28.md",
+    "Ben Healy.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Championnat du Monde de Cyclisme.md",
     "Loisirs/Sport/Tadej Pogacar.md",
-    "Journal de bord/2025-09-28.md",
     "Loisirs/Jeux Vidéos/Assoupi.md",
     "Loisirs/Sport/Arvid de Kleijn.md",
     "Loisirs/Sport/Arjen Lyvins.md",
@@ -276,10 +281,6 @@
     "Nina Derwael.md",
     "Sportive Belge de l'année.md",
     "Loisirs/Sport/Remco Evenepoel.md",
-    "Loisirs/Sport/Tour de France.md",
-    "Mavi García.md",
-    "Journal de bord/2025-09-27.md",
-    "Critérium du Dauphiné.md",
     "Attachments/image-145.webp",
     "Attachments/image-144.webp",
     "Attachments/image-143.webp",
