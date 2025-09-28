@@ -23,9 +23,8 @@ type: matos
 - {{Titre du jeu 3 (année)}}
 
 ## Anecdotes et faits marquants
-- {{Fait ou anecdote 1}}
-- {{Fait ou anecdote 2}}
-- {{Lien avec la musique, le design, l’influence culturelle...}}
+- Cette console serait la première à avoir eu des [[Gamepad]] avec les lettres X et Y à la place de C et D.
+
 
 ## Liens connexes
 - [Page Wikipédia](https://wikipedia.org)
