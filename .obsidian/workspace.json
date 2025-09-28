@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Martin Landaluce.md",
+                "file": "Gamepad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Martin Landaluce"
+              "title": "Gamepad"
             },
             "group": "a3973046bf06788a"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Martin Landaluce.md",
+                "file": "Gamepad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Martin Landaluce"
+              "title": "Graphique de Gamepad"
             },
             "group": "a3973046bf06788a"
           }
@@ -255,10 +255,10 @@
   },
   "active": "46da479fe84c58ea",
   "lastOpenFiles": [
-    "ATP - Challenger d’Orléans.md",
-    "Martin Landaluce.md",
-    "Raphaël Collignon.md",
     "Journal de bord/2025-09-28.md",
+    "Martin Landaluce.md",
+    "ATP - Challenger d’Orléans.md",
+    "Raphaël Collignon.md",
     "Paris-Chauny.md",
     "Loisirs/Sport/Arnaud de Lie.md",
     "Loisirs/Sport/Arnaud Démare.md",
