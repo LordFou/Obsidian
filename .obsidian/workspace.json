@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paris-Chauny.md",
+                "file": "Journal de bord/2025-09-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paris-Chauny"
+              "title": "2025-09-28"
             },
             "group": "a3973046bf06788a"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Paris-Chauny.md",
+                "file": "Journal de bord/2025-09-28.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-journal",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Paris-Chauny"
+              "title": "Graphique de 2025-09-28"
             },
             "group": "a3973046bf06788a"
           }
@@ -85,8 +85,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ben hea",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": true,
@@ -253,8 +253,10 @@
   },
   "active": "46da479fe84c58ea",
   "lastOpenFiles": [
-    "Loisirs/Sport/Arnaud de Lie.md",
     "Paris-Chauny.md",
+    "Loisirs/Sport/Arnaud de Lie.md",
+    "Loisirs/Sport/Arnaud Démare.md",
+    "Loisirs/Sport/Compétitions/Coupe du Monde de Rugby.md",
     "Journal de bord/2025-09-28.md",
     "Gilles Thomas.md",
     "Championnat de Belgique d'équitation.md",
@@ -279,8 +281,6 @@
     "Culture/Politique/Nicolas Sarkozy.md",
     "Attachments/image-146.webp",
     "Culture/Politique",
-    "Culture/Sans titre.md",
-    "Nina Derwael.md",
     "Attachments/image-145.webp",
     "Attachments/image-144.webp",
     "Attachments/image-143.webp",
