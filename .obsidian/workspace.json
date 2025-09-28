@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nina Derwael.md",
+                "file": "Journal de bord/2025-09-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nina Derwael"
+              "title": "2025-09-28"
             },
             "group": "a3973046bf06788a"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nina Derwael.md",
+                "file": "Journal de bord/2025-09-28.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-journal",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Nina Derwael"
+              "title": "Graphique de 2025-09-28"
             },
             "group": "a3973046bf06788a"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mavi",
+                "query": "nicolas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -250,8 +250,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "46da479fe84c58ea",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
+    "Nina Derwael.md",
+    "Journal de bord/2025-09-28.md",
     "Sportive Belge de l'année.md",
     "Loisirs/Sport/Remco Evenepoel.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
@@ -279,8 +281,6 @@
     "Post Apo.md",
     "Loisirs/Jeux Vidéos/Sociétés/Critical Reflex.md",
     "Loisirs/Jeux Vidéos/Jeux/Sans titre 1.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Zelda - Breath of The Wild.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Troleu.md",
     "Attachments/image-142.webp",
     "Attachments/image-141.webp",
     "Attachments/image-140.webp",
