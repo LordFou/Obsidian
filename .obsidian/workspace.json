@@ -11,10 +11,14 @@
             "id": "35d4182ded827c07",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Journal de bord/2025-09-29.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "2025-09-29"
             }
           }
         ]
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "REsident evil 4",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -128,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,8 +206,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "35d4182ded827c07",
+  "active": "a47971b47ce877f4",
   "lastOpenFiles": [
+    "Journal de bord/2025-09-29.md",
     "Rumble Pack.md",
     "Nintendo 64.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/GoldenEye 007.md",
@@ -228,7 +234,6 @@
     "James Bond.md",
     "Dead Space.md",
     "Chuck Beaver.md",
-    "Playstation 4.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Attachments/image-140.webp",
     "Attachments/image-139.webp",
