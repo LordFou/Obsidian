@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-![[image-153.webp]]![[image-154.webp]]  
+![[image-153.webp]]![[image-154.webp]]      
 # HeavyWeight Champ
 
 ## Informations Générales
@@ -33,11 +33,12 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- Combat de [[Boxe]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- Le jeu a été perdu des années mais a été retrouvé par un [musée](http://www.museodelflipper.it/) en Italie ([Source](https://www.sega-mag.com/actualite/la-documentation-technique-de-heavyweight-champ-exhumee-38854))
+- Le jeu a été perdu pendant des années mais a été retrouvé par un [musée](http://www.museodelflipper.it/) en Italie ([Source](https://www.sega-mag.com/actualite/la-documentation-technique-de-heavyweight-champ-exhumee-38854))
 - Un des premiers jeu de combat sur borne d'arcade mais aussi un des premiers à mettre à l'écran une personne noire (bon c'est de la boxe hein)
 ## Liens et Ressources
 
