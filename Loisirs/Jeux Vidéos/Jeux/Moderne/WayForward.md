@@ -27,8 +27,12 @@ title: Embauche des futurs créateurs de [[Shovel Knight]]
 content: Sean Velasco, David D'Angelo, Nick Wozniak, Ian Flood sont engagés à tour de rôle pour travailler sur Shantae, un bel hommage aux titres 16 bits. Cette expérience leur fera aimer ce boulot et le fait de travailler ensemble.
 
 date:   
-title: 
-content: 
+title: Les 4 compères travaillent sur plusieurs jeux
+content: [[Contra 4]], [[A Boy and His Blob]], [[Double Dragon Neon]]. Ils sont dans un bon mood entre eux
+
+date:
+title: Départ des 4
+content: Le studio essaiera de les séparer pour travailler sur diverses projets mais les 4 amis crèeront de leur côté [[Yacht Club Games]]
 
 ```
 
@@ -38,7 +42,7 @@ content:
 | XXXX  | [[Shantae]]            | Plateforme, Action |                 |
 |       | [[Contra 4]]           |                    | [[Nintendo DS]] |
 |       | [[A Boy and His Blob]] |                    | [[Wii]]         |
-|       | [[Double Dragon Neon]] |                    |                 |
+|       | [[Double Dragon Neon]] | Combat, Beat'em up |                 |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

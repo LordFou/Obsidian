@@ -13,21 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Franchise Double Dragon.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Franchise Double Dragon"
+              "title": "Shovel Knight"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "33dafa2c1b622cc0",
+        "type": "tabs",
+        "children": [
           {
             "id": "334b2cd61dd0d548",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Franchise Double Dragon.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -55,7 +61,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Franchise Double Dragon"
+              "title": "Graphique de Shovel Knight"
             }
           }
         ]
@@ -107,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Franchise Double Dragon.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +123,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Franchise Double Dragon"
+              "title": "Rétrolien pour Shovel Knight"
             }
           },
           {
@@ -126,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Franchise Double Dragon.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Franchise Double Dragon"
+              "title": "Liens sortants de Shovel Knight"
             }
           },
           {
@@ -244,14 +250,17 @@
   },
   "active": "59284fc8fd978289",
   "lastOpenFiles": [
+    "Yacht Club Games.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/WayForward.md",
+    "Attachments/image-151.webp",
+    "Attachments/image-150.webp",
     "Double Dragon Neon.md",
     "Franchise Double Dragon.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/WayForward.md",
+    "Double Dragon.md",
     "A Boy and His Blob.md",
     "Contra 4.md",
     "Nintendo DS.md",
-    "Yacht Club Games.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
     "Franchise Shovel Knight.md",
     "Shantae.md",
     "Ian Flood.md",
@@ -270,8 +279,6 @@
     "Culture/Politique/Yves Coppieters.md",
     "Journal de bord/2025-09-29.md",
     "Journal de bord/2025-09-17.md",
-    "Journal de bord/2025-09-18.md",
-    "Journal de bord/2025-09-19.md",
     "Attachments/image-147.webp",
     "Attachments/image-146.webp",
     "Culture/Politique",
@@ -279,8 +286,6 @@
     "Attachments/image-144.webp",
     "Attachments/image-143.webp",
     "Attachments/image-142.webp",
-    "Attachments/image-141.webp",
-    "Attachments/image-140.webp",
     "Généalogie Matos Atari.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",
@@ -294,4 +299,7 @@
     "Loisirs/Jeux Vidéos/Livres",
     "Sans titre",
     "Loisirs/Internet",
-    "
+    "Loisirs/Musique",
+    "Culture"
+  ]
+}
