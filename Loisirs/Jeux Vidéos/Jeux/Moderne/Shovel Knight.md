@@ -1,19 +1,20 @@
 ---
 type: game
 ---
-![[image-148.webp]]
-# Athenian Rhapsody
+![[image-149.webp]]
+# Shovel Knight
 
 ## Informations Générales
 
-- **Année de sortie** : 2024
+- **Année de sortie** : 2014
 - **Développeur** : 
-	- Studio : 
-	- Personnalités : [[Nico Papalia]]
-- **Éditeur** : [[Top Hat Studios, Inc.]]
-- **Plateformes** : All, iOS, Android
+	- Studio : [[Yacht Club Games]]
+	- Personnalités : 
+- **Éditeur** : [[Yacht Club Games]]
+- **Plateformes** : 
+	- Sortie sur : [[PC]], WiiU
 - **Franchise** : 
-- **Genre** : [[Action]], [[RPG]], [[Réflexion]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -25,12 +26,12 @@ type: game
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : [[Athènes]]
+- **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-- **Influencé par** : [[Earthbound]]
+- **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
