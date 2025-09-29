@@ -12,8 +12,9 @@ type: game
 	- Personnalités : 
 - **Éditeur** : [[Yacht Club Games]]
 - **Plateformes** : 
-	- Sortie sur : [[PC]], WiiU
-- **Franchise** : 
+	- Sortie sur : [[PC]], [[Wii U]], [[3DS]]
+	- Adapté sur : MacOS, Linux, [[Playstation 3]], [[Playstation 4]], [[Playstation Vita]], [[XBox One]], [[Switch]] 
+- **Franchise** : [[Franchise Shovel Knight]]
 - **Genre** :
 - **Résumé** : 
 
@@ -25,6 +26,8 @@ type: game
 - **Gameplay** :
 - **Durée estimée** : 
 
+ # Citations
+ 
 ## Histoire et Univers
 - **Lieu(x)** : 
 - **Epoque** : 
@@ -35,7 +38,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Le jeu a été décliné dans pas mal de style différents ([[Puzzle]], [[Roguelite]], [[Combat]])
 ## Liens et Ressources
 
 | Description | URL |
