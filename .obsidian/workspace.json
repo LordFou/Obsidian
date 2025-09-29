@@ -6,7 +6,7 @@
       {
         "id": "9b8fe07436186c65",
         "type": "tabs",
-        "dimension": 65.86599241466497,
+        "dimension": 58.34386852085968,
         "children": [
           {
             "id": "46da479fe84c58ea",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gamepad.md",
+                "file": "Journal de bord/2025-09-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gamepad"
+              "title": "2025-09-29"
             },
             "group": "a3973046bf06788a"
           }
@@ -28,7 +28,7 @@
       {
         "id": "2d9833ffdec71ed6",
         "type": "tabs",
-        "dimension": 34.13400758533502,
+        "dimension": 41.65613147914033,
         "children": [
           {
             "id": "c3cb8ab6f84cc562",
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Gamepad.md",
+                "file": "Journal de bord/2025-09-29.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -56,15 +56,15 @@
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
-                  "repelStrength": 8.22916666666667,
-                  "linkStrength": 0.244791666666667,
-                  "linkDistance": 74,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
                   "scale": 1.4019828977761055,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Gamepad"
+              "title": "Graphique de 2025-09-29"
             },
             "group": "a3973046bf06788a"
           }
@@ -255,9 +255,10 @@
   },
   "active": "46da479fe84c58ea",
   "lastOpenFiles": [
+    "Gamepad.md",
+    "Journal de bord/2025-09-29.md",
     "Attachments/image-147.webp",
     "SNES.md",
-    "Gamepad.md",
     "Journal de bord/2025-09-28.md",
     "Martin Landaluce.md",
     "ATP - Challenger d’Orléans.md",
@@ -291,7 +292,6 @@
     "Attachments/image-140.webp",
     "Attachments/image-139.webp",
     "Attachments/image-138.webp",
-    "Attachments/image-137.webp",
     "Généalogie Matos Atari.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",
