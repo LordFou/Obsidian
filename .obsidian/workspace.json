@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/WayForward.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shovel Knight"
+              "title": "WayForward"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/WayForward.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -55,7 +55,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Shovel Knight"
+              "title": "Graphique de WayForward"
             }
           }
         ]
@@ -245,12 +245,13 @@
   },
   "active": "59284fc8fd978289",
   "lastOpenFiles": [
-    "Franchise Shovel Knight.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/WayForward.md",
+    "Yacht Club Games.md",
+    "Franchise Shovel Knight.md",
     "Playstation Vita.md",
     "3DS.md",
     "Wii U.md",
-    "Yacht Club Games.md",
     "Attachments/image-149.webp",
     "Ressources/Everdeep Aurora Review - Dig below the surface.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Athenian Rhapsody.md",
@@ -272,7 +273,6 @@
     "Journal de bord/2025-09-27.md",
     "Journal de bord/2025-09-28.md",
     "conflict-files-obsidian-git.md",
-    "Gamepad.md",
     "Attachments/image-147.webp",
     "Attachments/image-146.webp",
     "Culture/Politique",

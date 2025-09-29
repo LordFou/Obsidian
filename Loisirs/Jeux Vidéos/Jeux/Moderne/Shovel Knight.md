@@ -10,6 +10,10 @@ type: game
 - **Développeur** : 
 	- Studio : [[Yacht Club Games]]
 	- Personnalités : 
+		- Sean Velasco (Producteur, Game Designer)
+		- David D'Angelo (Développeur)
+		- Nick Wozniak (Artiste)
+		- Ian Flood (Programmeur)
 - **Éditeur** : [[Yacht Club Games]]
 - **Plateformes** : 
 	- Sortie sur : [[PC]], [[Wii U]], [[3DS]]
@@ -26,7 +30,8 @@ type: game
 - **Gameplay** :
 - **Durée estimée** : 
 
- # Citations
+## Citations
+- "For Shovelry !" 
  
 ## Histoire et Univers
 - **Lieu(x)** : 
