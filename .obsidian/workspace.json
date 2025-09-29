@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-09-29.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Athenian Rhapsody.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-29"
+              "title": "Athenian Rhapsody"
             },
             "group": "f0b350049e735b94"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2025-09-29.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Athenian Rhapsody.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-09-29"
+              "title": "Graphique de Athenian Rhapsody"
             },
             "group": "f0b350049e735b94"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Athenian",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,8 +253,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "334b2cd61dd0d548",
+  "active": "a4316c41ca4c6fa0",
   "lastOpenFiles": [
+    "Earthbound.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Athenian Rhapsody.md",
+    "Nico Papalia.md",
+    "Attachments/image-148.webp",
+    "Culture/Politique/Yves Coppieters.md",
+    "Journal de bord/2025-09-29.md",
     "Journal de bord/2025-09-17.md",
     "Journal de bord/2025-09-18.md",
     "Journal de bord/2025-09-19.md",
@@ -267,7 +273,6 @@
     "Journal de bord/2025-09-26.md",
     "Journal de bord/2025-09-27.md",
     "Journal de bord/2025-09-28.md",
-    "Journal de bord/2025-09-29.md",
     "conflict-files-obsidian-git.md",
     "Gamepad.md",
     "Attachments/image-147.webp",
@@ -278,10 +283,6 @@
     "Paris-Chauny.md",
     "Loisirs/Sport/Arnaud de Lie.md",
     "Loisirs/Sport/Arnaud Démare.md",
-    "Loisirs/Sport/Compétitions/Coupe du Monde de Rugby.md",
-    "Gilles Thomas.md",
-    "Championnat de Belgique d'équitation.md",
-    "Jos Verlooy.md",
     "Attachments/image-146.webp",
     "Culture/Politique",
     "Attachments/image-145.webp",
@@ -291,7 +292,6 @@
     "Attachments/image-141.webp",
     "Attachments/image-140.webp",
     "Attachments/image-139.webp",
-    "Attachments/image-138.webp",
     "Généalogie Matos Atari.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",
