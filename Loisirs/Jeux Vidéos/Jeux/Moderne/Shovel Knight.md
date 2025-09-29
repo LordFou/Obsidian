@@ -40,6 +40,10 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Zelda II - Adventure of Link]] (pour l'action et les combats à l'épée)
+	- [[Super Mario Bros 3]] (pour le système de map)
+	- [[Duck Tales]] (pour le gameplay rebondissant)
+	- [[Franchise Mega Man]] (pour la progression non linéaires)
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

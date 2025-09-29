@@ -22,9 +22,10 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                          | Année | Plateformes | Remarque |
-| ------------------------------ | ----- | ----------- | -------- |
-| [[Zelda - Breath of The Wild]] |       |             |          |
+| Titre                            | Année | Plateformes | Remarque |
+| -------------------------------- | ----- | ----------- | -------- |
+| [[Zelda II - Adventure of Link]] |       |             |          |
+| [[Zelda - Breath of The Wild]]   |       |             |          |
 
 
 ## Mécaniques et innovations
