@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/WayForward.md",
+                "file": "Franchise Double Dragon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WayForward"
+              "title": "Franchise Double Dragon"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/WayForward.md",
+                "file": "Franchise Double Dragon.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -55,7 +55,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de WayForward"
+              "title": "Graphique de Franchise Double Dragon"
             }
           }
         ]
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memorial Pantani.md",
+                "file": "Franchise Double Dragon.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Memorial Pantani"
+              "title": "Rétrolien pour Franchise Double Dragon"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mafia.md",
+                "file": "Franchise Double Dragon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Mafia"
+              "title": "Liens sortants de Franchise Double Dragon"
             }
           },
           {
@@ -169,8 +169,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -245,10 +244,20 @@
   },
   "active": "59284fc8fd978289",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
+    "Double Dragon Neon.md",
+    "Franchise Double Dragon.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/WayForward.md",
+    "A Boy and His Blob.md",
+    "Contra 4.md",
+    "Nintendo DS.md",
     "Yacht Club Games.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
     "Franchise Shovel Knight.md",
+    "Shantae.md",
+    "Ian Flood.md",
+    "Nick Wozniak.md",
+    "David D'Angelo.md",
+    "Sean Velasco.md",
     "Playstation Vita.md",
     "3DS.md",
     "Wii U.md",
@@ -263,16 +272,6 @@
     "Journal de bord/2025-09-17.md",
     "Journal de bord/2025-09-18.md",
     "Journal de bord/2025-09-19.md",
-    "Journal de bord/2025-09-20.md",
-    "Journal de bord/2025-09-21.md",
-    "Journal de bord/2025-09-22.md",
-    "Journal de bord/2025-09-23.md",
-    "Journal de bord/2025-09-24.md",
-    "Journal de bord/2025-09-25.md",
-    "Journal de bord/2025-09-26.md",
-    "Journal de bord/2025-09-27.md",
-    "Journal de bord/2025-09-28.md",
-    "conflict-files-obsidian-git.md",
     "Attachments/image-147.webp",
     "Attachments/image-146.webp",
     "Culture/Politique",
@@ -295,7 +294,4 @@
     "Loisirs/Jeux Vidéos/Livres",
     "Sans titre",
     "Loisirs/Internet",
-    "Loisirs/Musique",
-    "Culture"
-  ]
-}
+    "

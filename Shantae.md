@@ -1,24 +1,22 @@
 ---
 type: game
 ---
-![[image-149.webp]]
-# Shovel Knight
+
+# Shantae
 
 ## Informations Générales
 
-- **Année de sortie** : 2014
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Yacht Club Games]]
+	- Studio : [[WayForward]]
 	- Personnalités : 
 		- [[Sean Velasco]] (Producteur, Game Designer)
 		- [[David D'Angelo]] (Développeur)
 		- [[Nick Wozniak]] (Artiste)
 		- [[Ian Flood]] (Programmeur)
-- **Éditeur** : [[Yacht Club Games]]
+- **Éditeur** : 
 - **Plateformes** : 
-	- Sortie sur : [[PC]], [[Wii U]], [[3DS]]
-	- Adapté sur : MacOS, Linux, [[Playstation 3]], [[Playstation 4]], [[Playstation Vita]], [[XBox One]], [[Switch]] 
-- **Franchise** : [[Franchise Shovel Knight]]
+- **Franchise** : 
 - **Genre** :
 - **Résumé** : 
 
@@ -30,9 +28,6 @@ type: game
 - **Gameplay** :
 - **Durée estimée** : 
 
-## Citations
-- "For Shovelry !" 
- 
 ## Histoire et Univers
 - **Lieu(x)** : 
 - **Epoque** : 
@@ -43,7 +38,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- Le jeu a été décliné dans pas mal de style différents ([[Puzzle]], [[Roguelite]], [[Combat]])
+- 
 ## Liens et Ressources
 
 | Description | URL |

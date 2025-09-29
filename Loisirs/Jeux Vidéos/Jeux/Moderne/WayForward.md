@@ -12,10 +12,10 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-	- Sean Velasco (Game Designer)
-	- David D'Angelo (Développeur)
-	- Nick Wozniak (Artiste)
-	- Ian Flood (Programmeur)
+	- [[Sean Velasco]] (Game Designer, Directeur)
+	- [[David D'Angelo]] (Développeur)
+	- [[Nick Wozniak]] (Artiste)
+	- [[Ian Flood]] (Programmeur)
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
@@ -24,13 +24,21 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 [line-5, body-2]
 date:  
 title: Embauche des futurs créateurs de [[Shovel Knight]]
-content: Sean Velasco, David D'Angelo, Nick Wozniak, Ian Flood sont engagés à tour de rôle pour travailler sur Shantae, un bel hommage aux titres1 
+content: Sean Velasco, David D'Angelo, Nick Wozniak, Ian Flood sont engagés à tour de rôle pour travailler sur Shantae, un bel hommage aux titres 16 bits. Cette expérience leur fera aimer ce boulot et le fait de travailler ensemble.
+
+date:   
+title: 
+content: 
+
 ```
 
 ## Jeux Développés
-| Année | Titre      | Genre              | Plateformes           |
-| ----- | ---------- | ------------------ | --------------------- |
-| XXXX  | Nom du jeu | Action / RPG / FPS | PC, PS5, Xbox, Switch |
+| Année | Titre                  | Genre              | Plateformes     |
+| ----- | ---------------------- | ------------------ | --------------- |
+| XXXX  | [[Shantae]]            | Plateforme, Action |                 |
+|       | [[Contra 4]]           |                    | [[Nintendo DS]] |
+|       | [[A Boy and His Blob]] |                    | [[Wii]]         |
+|       | [[Double Dragon Neon]] |                    |                 |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
@@ -50,4 +58,4 @@ Lister les studios affiliés ou les collaborations importantes.
 
 ## Sources et Références
 - [Lien vers une source](#)
-- [Article détail
+- [Article détaillé](#)
