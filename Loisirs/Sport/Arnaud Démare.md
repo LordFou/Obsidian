@@ -2,22 +2,20 @@
 type: personne
 ---
 
-# Niamh Fisher-black
+# Arnaud Démare
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Néo-Zélandaises
+- **Nationalité** :  France
 - **Sport / Discipline** :  [[Cyclisme]]
-- **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Lidl-Trek]]
+- **Poste / Spécialité** (si applicable) :  [[Sprinteur]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                          | Résultat | Remarque           |
-| ----- | ------------------------------------ | -------- | ------------------ |
-| 2025  | [[Tour de France]] - 8e étape        | 3e       | Combattive du jour |
-| 2025  | [[Championnat du Monde de Cyclisme]] | 2e       |                    |
-
+| Année | Compétition      | Résultat | Remarque |
+| ----- | ---------------- | -------- | -------- |
+| 2024  | [[Paris-Chauny]] | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

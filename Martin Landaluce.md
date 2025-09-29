@@ -2,27 +2,26 @@
 type: personne
 ---
 
-# Mavi García
-Margarita Victo Garcia Canellas
+# Martin Landaluce
+
 # Informations Générales
-- **Date de naissance** :  1984
+- **Date de naissance** :  
 - **Nationalité** :  Espagnol
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Sport / Discipline** :  [[Tennis]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Jayco]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                          | Résultat | Remarque                    |
-| ----- | ------------------------------------ | -------- | --------------------------- |
-| 2025  | [[Tour de France]] - 2e étape        | 1ière    | Juste devant les meilleures |
-| 2025  | [[Championnat du Monde de Cyclisme]] | 3e       |                             |
+| Année | Compétition                    | Résultat  | Remarque |
+| ----- | ------------------------------ | --------- | -------- |
+| 2025  | [[ATP - Challenger d’Orléans]] | Vainqueur |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-- Lors du [[Tour de France]] 2025, elle devient la plus ancienne à gagner une étape.
+Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

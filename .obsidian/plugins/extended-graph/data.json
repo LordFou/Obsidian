@@ -79,12 +79,12 @@
   },
   "additionalProperties": {},
   "backupGraphOptions": {
-    "collapse-filter": true,
-    "search": "",
+    "collapse-filter": false,
+    "search": "path:-journal",
     "localJumps": 1,
     "localBacklinks": true,
     "localForelinks": true,
-    "localInterlinks": false,
+    "localInterlinks": true,
     "showTags": false,
     "showAttachments": false,
     "hideUnresolved": false,
@@ -100,8 +100,8 @@
     "repelStrength": 10,
     "linkStrength": 1,
     "linkDistance": 250,
-    "scale": 1,
-    "close": false
+    "scale": 1.0000000000000016,
+    "close": true
   },
   "openInNewTab": false,
   "canonicalizePropertiesWithDataview": true,
@@ -161,7 +161,7 @@
   "nodesSizeFunction": "backlinksCount",
   "nodesSizeRange": {
     "min": 0.5,
-    "max": 5
+    "max": 2
   },
   "nodesColorColormap": "YlOrRd",
   "nodesColorFunction": "backlinksCount",

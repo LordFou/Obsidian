@@ -25,7 +25,7 @@ type: personne
 | 2025  | [[Tour de France]] - 4e étape                              | 1ier 🥇  | Maillot de la montagne<br>100e Victoire                                            |
 | 2025  | [[Tour de France]] - 5e étape                              | 2e       | Mailot Jaune<br>Maillot Vert<br>Maillot Montagne                                   |
 | 2025  | [[Tour de France]] - 7e étape                              | 1ier 🥇  | Maillot Jaune<br>Maillot Vert<br>60e Victoire pour UAE                             |
-|       |                                                            |          |                                                                                    |
+| 2025  | [[Championnat du Monde de Cyclisme\|Championnat du monde]] | 1ier 🥇  |                                                                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

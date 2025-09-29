@@ -1,20 +1,20 @@
 ---
 type: game
 ---
-![[image-64.webp|500x284]]
-# Trainatic
+![[image-145.webp]]
+# Mess Quest
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 
 - **Développeur** : 
 	- Studio : [[Ryan Forrester]]
-	- Personnalités : 
+	- Personnalités : [[Ryan Forrester]]
 - **Éditeur** : [[Ryan Forrester]]
 - **Plateformes** : PC
 - **Franchise** : 
-- **Genre** : [[Vampire Survivor Like]], [[Jeu incrémental]]
-- **Résumé** : vous dirigez un train et l'améliorer au fur et à mesure de votre partie. Le but étant d'aller toujours plus loin sur la voie.
+- **Genre** : [[Simulation]]
+- **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -28,10 +28,8 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
-	- Train
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- [[Train]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

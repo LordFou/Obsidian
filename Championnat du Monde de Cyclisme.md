@@ -8,22 +8,27 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur            | Course | Nationalité | Remarque |
-| ----- | -------------------- | ------ | ----------- | -------- |
-| 2012  | [[Philippe Gilbert]] | Route  | Belge       |          |
-| 2022  | [[Remco Evenepoel]]  | Route  | Belge       |          |
-| 2003  | [[Michael Rogers]]   | CLM    |             |          |
-| 2004  | [[Michael Rogers]]   | CLM    |             |          |
-| 2005  | [[Michael Rogers]]   | CLM    |             |          |
-| 2023  | [[Remco Evenepoel]]  | CLM    | Belge       |          |
-| 2024  | [[Remco Evenepoel]]  | CLM    | Belge       |          |
-| 2025  | [[Remco Evenepoel]]  | CLM    | Belge       |          |
+| Année | Vainqueur                                      | Course |                 | Nationalité | Remarque                 |
+| ----- | ---------------------------------------------- | ------ | --------------- | ----------- | ------------------------ |
+| 2012  | [[Philippe Gilbert]]                           | Route  |                 | Belge       |                          |
+| 2022  | [[Remco Evenepoel]]                            | Route  |                 | Belge       |                          |
+| 2024  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Route  |                 | Slovène     |                          |
+| 2025  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Route  | Kigali (Rwanda) | Slovène     | 2e - [[Remco Evenepoel]] |
+| 2003  | [[Michael Rogers]]                             | CLM    |                 |             |                          |
+| 2004  | [[Michael Rogers]]                             | CLM    |                 |             |                          |
+| 2005  | [[Michael Rogers]]                             | CLM    |                 |             |                          |
+| 2023  | [[Remco Evenepoel]]                            | CLM    |                 | Belge       |                          |
+| 2024  | [[Remco Evenepoel]]                            | CLM    |                 | Belge       |                          |
+| 2025  | [[Remco Evenepoel]]                            | CLM    | Kigali (Rwanda) | Belge       |                          |
 # Femmes
 
-| Année | Vainqueur          | Nationalité | Remarque                  |
-| ----- | ------------------ | ----------- | ------------------------- |
-| 2025  | [[Marlen Reusser]] | Suisse      | 21e - [[Marthe Goossens]] |
-|       |                    |             |                           |
+| Année | Vainqueur                     | Course | Nationalité | Remarque                  |
+| ----- | ----------------------------- | ------ | ----------- | ------------------------- |
+| 2023  | [[Lotte Kopecky]]             | Route  | Belge       |                           |
+| 2024  | [[Lotte Kopecky]]             | Route  | Belge       |                           |
+| 2025  | [[Magdeleine Vallieres Mill]] | Route  | Canadienne  |                           |
+| 2025  | [[Marlen Reusser]]            | CLM    | Suisse      | 21e - [[Marthe Goossens]] |
+|       |                               |        |             |                           |
 # Mixte
 
 | Année | Epreuve | Vainqueur | Remarque      |

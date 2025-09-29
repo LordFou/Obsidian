@@ -13,12 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                          | Résultat | Remarque                                             |
-| ----- | ------------------------------------ | -------- | ---------------------------------------------------- |
-| 2025  | [[Tour de France]] - 6e étape        | 1ier     | +-40 km en solitaire sur la fin<br>Combattif du jour |
-| 2025  | [[Tour de France]] - 10e étape       | 3e       | Maillot Jaune<br>Maillot Blanc<br>Combattif du jour  |
-| 2025  | [[Tour de France]] - 16e étape       | 2e       | Combattif du jour                                    |
-| 2025  | [[Tour de France]] - Super Combattif | 1ier 🥇  |                                                      |
+| Année | Compétition                                                        | Résultat | Remarque                                             |
+| ----- | ------------------------------------------------------------------ | -------- | ---------------------------------------------------- |
+| 2025  | [[Tour de France]] - 6e étape                                      | 1ier     | +-40 km en solitaire sur la fin<br>Combattif du jour |
+| 2025  | [[Tour de France]] - 10e étape                                     | 3e       | Maillot Jaune<br>Maillot Blanc<br>Combattif du jour  |
+| 2025  | [[Tour de France]] - 16e étape                                     | 2e       | Combattif du jour                                    |
+| 2025  | [[Tour de France]] - Super Combattif                               | 1ier 🥇  |                                                      |
+| 2025  | [[Championnat du Monde de Cyclisme\|Championnat du Monde]] - Route | 3e       | Derrière Remco et Pogi                               |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités. 
