@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "984787dd4eed634e",
+        "id": "ff1e69f0ef6fff86",
         "type": "tabs",
         "children": [
           {
-            "id": "9ac617f7c3e51939",
+            "id": "6113201610391fd2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -205,7 +201,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ac617f7c3e51939",
+  "active": "c8ddbab28469fc36",
   "lastOpenFiles": [
     "Journal de bord/2025-09-29.md",
     "Rumble Pack.md",
