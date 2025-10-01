@@ -8,13 +8,13 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur       | Nationalité | Remarque |
-| ----- | --------------- | ----------- | -------- |
-| 2024  | [[Tim Merlier]] | Belge       |          |
-|       |                 |             |          |
+| Année | Vainqueur       | Epreuve | Nationalité | Remarque |
+| ----- | --------------- | ------- | ----------- | -------- |
+| 2024  | [[Tim Merlier]] | Course  | Belge       |          |
+|       |                 |         |             |          |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur | Epreuve | Nationalité | Remarque |
+| ----- | --------- | ------- | ----------- | -------- |
+| 2025  |           |         |             |          |
+|       |           |         |             |          |

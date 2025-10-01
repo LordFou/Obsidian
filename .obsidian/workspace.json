@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/ATP - Tournoi de Shangaï.md",
+                "file": "Matisse Van Kerckhove.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ATP - Tournoi de Shangaï"
+              "title": "Matisse Van Kerckhove"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/ATP - Tournoi de Shangaï.md",
+                "file": "Matisse Van Kerckhove.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -61,7 +61,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de ATP - Tournoi de Shangaï"
+              "title": "Graphique de Matisse Van Kerckhove"
             }
           }
         ]
@@ -83,8 +83,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "david go",
-                "matchingCase": true,
+                "query": "zizou",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": true,
@@ -175,7 +175,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -248,18 +249,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "59284fc8fd978289",
   "lastOpenFiles": [
-    "Léa Bayekula.md",
-    "Loisirs/Sport/Compétitions/ATP - Tournoi de Shangaï.md",
-    "Attachments/image-156.webp",
+    "Attachments/image-158.webp",
     "Journal de bord/2025-10-01.md",
+    "Jonathan Vervenne.md",
+    "Attachments/image-157.webp",
+    "Matisse Van Kerckhove.md",
+    "Luca Vierstraete.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
+    "Championnat d'Europe de Cyclisme.md",
+    "Zizou Bergs.md",
+    "David Goffin.md",
+    "Loisirs/Sport/Compétitions/ATP - Tournoi de Shangaï.md",
+    "Léa Bayekula.md",
+    "Attachments/image-156.webp",
     "Carlos Alcaraz.md",
     "Loisirs/Sport/ATP - Tournoi de Tokyo.md",
     "Paul Magnier.md",
     "Loisirs/Sport/Compétitions/Cro Race.md",
     "Justine Ghekiere.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
     "Yacht Club Games.md",
     "Loisirs/Jeux Vidéos/Sociétés/Sans titre.md",
     "Electronic Arts.md",
@@ -274,18 +283,10 @@
     "Super Mario Bros 3.md",
     "Franchise Mario.md",
     "Zelda II - Adventure of Link.md",
-    "Franchise Zelda.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/WayForward.md",
     "Attachments/image-151.webp",
     "Attachments/image-150.webp",
-    "Double Dragon Neon.md",
-    "Franchise Double Dragon.md",
-    "Double Dragon.md",
-    "A Boy and His Blob.md",
-    "Contra 4.md",
     "Attachments/image-149.webp",
     "Attachments/image-148.webp",
-    "Attachments/image-147.webp",
     "Culture/Politique",
     "Généalogie Matos Atari.canvas",
     "Historique Jeu Vidéo.canvas",
