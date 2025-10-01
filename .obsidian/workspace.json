@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matisse Van Kerckhove.md",
+                "file": "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matisse Van Kerckhove"
+              "title": "Remco Evenepoel"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Matisse Van Kerckhove.md",
+                "file": "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -61,7 +61,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Matisse Van Kerckhove"
+              "title": "Graphique de Remco Evenepoel"
             }
           }
         ]
@@ -251,11 +251,11 @@
   },
   "active": "59284fc8fd978289",
   "lastOpenFiles": [
-    "Attachments/image-158.webp",
     "Journal de bord/2025-10-01.md",
+    "Matisse Van Kerckhove.md",
+    "Attachments/image-158.webp",
     "Jonathan Vervenne.md",
     "Attachments/image-157.webp",
-    "Matisse Van Kerckhove.md",
     "Luca Vierstraete.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
     "Championnat d'Europe de Cyclisme.md",
@@ -286,7 +286,6 @@
     "Attachments/image-151.webp",
     "Attachments/image-150.webp",
     "Attachments/image-149.webp",
-    "Attachments/image-148.webp",
     "Culture/Politique",
     "Généalogie Matos Atari.canvas",
     "Historique Jeu Vidéo.canvas",
