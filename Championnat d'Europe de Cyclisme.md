@@ -8,13 +8,13 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur       | Epreuve | Nationalité | Remarque |
-| ----- | --------------- | ------- | ----------- | -------- |
-| 2024  | [[Tim Merlier]] | Course  | Belge       |          |
-|       |                 |         |             |          |
+| Année | Vainqueur           | Epreuve | Nationalité | Remarque |
+| ----- | ------------------- | ------- | ----------- | -------- |
+| 2024  | [[Tim Merlier]]     | Course  | Belge       |          |
+| 2025  | [[Remco Evenepoel]] | CLM     | Belge       |          |
 # Femmes
 
-| Année | Vainqueur | Epreuve | Nationalité | Remarque |
-| ----- | --------- | ------- | ----------- | -------- |
-| 2025  |           |         |             |          |
-|       |           |         |             |          |
+| Année | Vainqueur          | Epreuve | Nationalité | Remarque |
+| ----- | ------------------ | ------- | ----------- | -------- |
+| 2025  | [[Marlen Reusser]] | CLM     | Suisse      |          |
+|       |                    |         |             |          |
