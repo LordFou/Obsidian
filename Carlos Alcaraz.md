@@ -13,13 +13,14 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition               | Résultat  | Remarque                                   |
-| ----- | ------------------------- | --------- | ------------------------------------------ |
-| 2022  | [[US Open]]               | Vainqueur |                                            |
-| 2025  | [[Roland-Garros]]         | Vainqueur | Plus longue finale de l'histoire jusque là |
-| 2025  | [[Tournoi de Wimbledon]]  | Finaliste |                                            |
-| 2025  | [[Tournoi de Cincinnati]] | Vainqueur |                                            |
-| 2025  | [[US Open]]               | Vainqueur |                                            |
+| Année | Compétition                | Résultat  | Remarque                                   |
+| ----- | -------------------------- | --------- | ------------------------------------------ |
+| 2022  | [[US Open]]                | Vainqueur |                                            |
+| 2025  | [[Roland-Garros]]          | Vainqueur | Plus longue finale de l'histoire jusque là |
+| 2025  | [[Tournoi de Wimbledon]]   | Finaliste |                                            |
+| 2025  | [[Tournoi de Cincinnati]]  | Vainqueur |                                            |
+| 2025  | [[US Open]]                | Vainqueur |                                            |
+| 2025  | [[ATP - Tournoi de Tokyo]] | Vainqueur |                                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
