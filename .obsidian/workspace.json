@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-10-01.md",
+                "file": "Paul Magnier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-01"
+              "title": "Paul Magnier"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2025-10-01.md",
+                "file": "Paul Magnier.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -61,7 +61,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-10-01"
+              "title": "Graphique de Paul Magnier"
             }
           }
         ]
@@ -175,7 +175,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -248,10 +249,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "acbfcced6e5eac9a",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
+    "Loisirs/Sport/Compétitions/Cro Race.md",
+    "Justine Ghekiere.md",
     "Journal de bord/2025-10-01.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
     "Yacht Club Games.md",
     "Loisirs/Jeux Vidéos/Sociétés/Sans titre.md",
     "Electronic Arts.md",
@@ -280,8 +283,6 @@
     "Shantae.md",
     "Ian Flood.md",
     "Nick Wozniak.md",
-    "David D'Angelo.md",
-    "Sean Velasco.md",
     "Attachments/image-149.webp",
     "Attachments/image-148.webp",
     "Attachments/image-147.webp",
