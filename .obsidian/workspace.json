@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Championnat d'Europe de Cyclisme.md",
+                "file": "Paul Magnier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Championnat d'Europe de Cyclisme"
+              "title": "Paul Magnier"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Championnat d'Europe de Cyclisme.md",
+                "file": "Paul Magnier.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -61,7 +61,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Championnat d'Europe de Cyclisme"
+              "title": "Graphique de Paul Magnier"
             }
           }
         ]
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "marle",
+                "query": "cro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -250,6 +250,8 @@
   },
   "active": "59284fc8fd978289",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Cro Race.md",
+    "Championnat d'Europe de Cyclisme.md",
     "Marlen Reusser.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Journal de bord/2025-10-01.md",
@@ -259,7 +261,6 @@
     "Attachments/image-157.webp",
     "Luca Vierstraete.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
-    "Championnat d'Europe de Cyclisme.md",
     "Zizou Bergs.md",
     "David Goffin.md",
     "Loisirs/Sport/Compétitions/ATP - Tournoi de Shangaï.md",
@@ -268,7 +269,6 @@
     "Carlos Alcaraz.md",
     "Loisirs/Sport/ATP - Tournoi de Tokyo.md",
     "Paul Magnier.md",
-    "Loisirs/Sport/Compétitions/Cro Race.md",
     "Justine Ghekiere.md",
     "Yacht Club Games.md",
     "Loisirs/Jeux Vidéos/Sociétés/Sans titre.md",

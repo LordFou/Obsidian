@@ -16,7 +16,7 @@ C'est en réalité le tour de Croatie.
 |          | Vainqueur        | Général          | Montagne | Points | Jeune | Remarques |
 | -------- | ---------------- | ---------------- | -------- | ------ | ----- | --------- |
 | 1e (FRA) | [[Paul Magnier]] | [[Paul Magnier]] |          |        |       |           |
-|          |                  |                  |          |        |       |           |
+| 2e (FRA) | [[Paul Magnier]] | [[Paul Magnier]] |          |        |       |           |
 |          |                  |                  |          |        |       |           |
 ## Femmes
 
