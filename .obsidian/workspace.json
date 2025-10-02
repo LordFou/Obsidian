@@ -6,7 +6,7 @@
       {
         "id": "d6ae64830b375c1f",
         "type": "tabs",
-        "dimension": 69.99182338511855,
+        "dimension": 69.74652493867539,
         "children": [
           {
             "id": "0761ae6dac340884",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Battlefield.md",
+                "file": "Nintendo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Battlefield"
+              "title": "Nintendo"
             },
             "group": "dd0e3ac25c6a898d"
           }
@@ -28,7 +28,7 @@
       {
         "id": "363dac1ea44d9e8b",
         "type": "tabs",
-        "dimension": 30.00817661488144,
+        "dimension": 30.253475061324615,
         "children": [
           {
             "id": "708f44113addce28",
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Battlefield.md",
+                "file": "Nintendo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Battlefield"
+              "title": "Graphique de Nintendo"
             },
             "group": "dd0e3ac25c6a898d"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Nintendo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,8 +179,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,8 +252,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a47971b47ce877f4",
+  "active": "0761ae6dac340884",
   "lastOpenFiles": [
+    "Mario Kart World.md",
+    "Nintendo.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Shining Force.md",
+    "Loisirs/Jeux Vidéos/Silver Ghost.md",
+    "Fire Emblem.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Fantasy Life i - The Girl Who Steals Time.md",
+    "Level 5.md",
+    "Franchise Deus Ex.md",
+    "Loisirs/Jeux Vidéos/Jeux/Franchise/Franchise Yakuza.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Deus Ex - Mankind Divided.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Disco Elysium.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Saros.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Battlefield.md",
     "Kojima Productions.md",
     "Okomotive.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Herdling.md",
@@ -266,21 +278,8 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/No, I'm Not a Human.md",
     "Bioware.md",
     "Electronic Arts.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Battlefield.md",
     "Dragon Age - Veilguard.md",
     "The Sims.md",
-    "Journal de bord/2025-10-02.md",
-    "Loisirs/Sport/Compétitions/ATP - Tournoi de Shangaï.md",
-    "Balazs Ronyai.md",
-    "ATP - Challenger d’Orléans.md",
-    "conflict-files-obsidian-git.md",
-    "Zelda II - Adventure of Link.md",
-    "Yacht Club Games.md",
-    "Wii U.md",
-    "Super Mario Bros 3.md",
-    "Shantae.md",
-    "Sean Velasco.md",
-    "Playstation Vita.md",
     "Attachments/image-158.webp",
     "Attachments/image-157.webp",
     "Attachments/image-156.webp",

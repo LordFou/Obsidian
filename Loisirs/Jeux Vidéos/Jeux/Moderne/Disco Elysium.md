@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Silver Ghost
+# Disco Elysium
 
 ## Informations Générales
 
-- **Année de sortie** : [[1988]]
+- **Année de sortie** : 
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC-88]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[STR]], [[RPG]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques

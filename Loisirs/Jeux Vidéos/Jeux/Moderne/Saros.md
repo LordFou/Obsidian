@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Silver Ghost
+# Saros
 
 ## Informations Générales
 
-- **Année de sortie** : [[1988]]
+- **Année de sortie** : 2026 (?)
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC-88]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[STR]], [[RPG]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -32,7 +32,8 @@ type: game
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
-- **Comparable à** :
+- **Comparable à** : 
+	- Returnal
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
