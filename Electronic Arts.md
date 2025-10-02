@@ -40,7 +40,15 @@ Lister les prix, distinctions ou records obtenus.
 
 ## Controverses ou Événements Marquants
 - Rachat de la société par consortium (Arabie Saoudite, Jared Kuschner, Silver Lake)
-	- 
+	- 55 milliards dont 20 milliards de prêt par EA
+		- Dégraissage RH
+		- Utilisation IA quitte à baisser la qualité des jeux services.
+	- Ramdam en perspective
+	- L'Arabie Saoudite semble au centre du truc. Ils veulent se diversifier et se détacher du 100% pétrole via le sport, les jeux vidéos, l'esport. 
+	- Jeux ou studio qui disparaitraient à cause du désalignement de ligne éditoriale entre un pays contre l'homosexualité, le statut des femmes, etc...
+		- [[The Sims]] 
+		- [[Bioware]]
+		- 
 
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
