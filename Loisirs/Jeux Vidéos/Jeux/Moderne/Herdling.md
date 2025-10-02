@@ -11,33 +11,39 @@ type: game
 	- Studio : [[Okomotive]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : All
 - **Franchise** : 
-- **Genre** : [[Aventure]], [[Casual]], [[Exploration]], [[Simulation]]
-- **Résumé** : on guide un paisible troupeau d'herbivores à travers les montagnes en résolvant des énigmes pour libérer la voie
+- **Genre** : [[Aventure]], [[Casual]], [[Exploration]], [[Simulation]], petits [[Puzzle]]
+- **Résumé** : on guide un paisible troupeau d'herbivores à travers les montagnes en résolvant des énigmes pour libérer la voie. C'est une expérience sensorielle et artistique.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Graphismes** : 
+	- Différents biomes très beaux
+- **Audio** : 
+	- [[Joel Schoch]] (Compositeur)
+- **Réception critique** : 
 - **Gameplay** :
+	- Collection de boucle de cornes
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Paysage montagneux]]
 - **Epoque** : 
 - **Personnages principaux** : 
-	- Les calicornes (?)
+	- Un enfant qui est le berger
+	- Les calicornes 
 - **Ennemis** :
 - **Thèmes abordés** : 
 	- [[La transhumance]]
 	- [[La vie de berger]]
 - **Influencé par** :
+	- [[Journey]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- On peut nommer les calicornes dans le jeu
 ## Liens et Ressources
 
 | Description | URL |
