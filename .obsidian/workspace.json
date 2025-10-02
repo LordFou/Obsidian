@@ -1,3 +1,24 @@
+{
+  "main": {
+    "id": "95ca1712faa8aa9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6ae64830b375c1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0761ae6dac340884",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          }
+        ]
+      }
     ],
     "direction": "vertical"
   },
@@ -176,4 +197,63 @@
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "markdown-importer:Ouvrir l'importateur Markdown": false,
- 
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "c8ddbab28469fc36",
+  "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/ATP - Tournoi de Shangaï.md",
+    "Balazs Ronyai.md",
+    "ATP - Challenger d’Orléans.md",
+    "conflict-files-obsidian-git.md",
+    "Zelda II - Adventure of Link.md",
+    "Yacht Club Games.md",
+    "Wii U.md",
+    "Super Mario Bros 3.md",
+    "Shantae.md",
+    "Sean Velasco.md",
+    "Playstation Vita.md",
+    "Nintendo DS.md",
+    "Nico Papalia.md",
+    "Nick Wozniak.md",
+    "Mega Man 9.md",
+    "Matisse Van Kerckhove.md",
+    "Léa Bayekula.md",
+    "Luca Vierstraete.md",
+    "Loisirs/Sport/Compétitions/Cro Race.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/HeavyWeight Champ.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/WayForward.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Athenian Rhapsody.md",
+    "Journal de bord/2025-10-01.md",
+    "Ian Flood.md",
+    "Franchise Shovel Knight.md",
+    "Attachments/image-158.webp",
+    "Attachments/image-157.webp",
+    "Attachments/image-156.webp",
+    "Attachments/image-155.webp",
+    "Attachments/image-154.webp",
+    "Attachments/image-153.webp",
+    "Attachments/image-152.webp",
+    "Attachments/image-151.webp",
+    "Attachments/image-150.webp",
+    "Attachments/image-149.webp",
+    "Culture/Politique",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
+    "Généalogie Matos Atari.canvas",
+    "Historique Jeu Vidéo.canvas",
+    "Génération des consoles de jeux vidéo.canvas",
+    "Loisirs/Jeux Vidéos/Généalogie Société.canvas",
+    "Généalogie des Jeux Vidéos.canvas",
+    "Journal de bord/Archives",
+    "Loisirs/Jeux Vidéos/Moteurs",
+    "Loisirs/Sport/Equipes",
+    "Loisirs/Jeux Vidéos/Généalogie Mr Driller.canvas",
+    "Attachments/Download.mp4",
+    "Loisirs/Jeux Vidéos/Livres",
+    "Sans titre",
+    "Loisirs/Internet",
+    "Loisirs/Musique"
+  ]
+}
