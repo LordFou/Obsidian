@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                         | Résultat | Remarque |
-| ----- | --------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 800m (T54) | 1iere    |          |
+| Année | Compétition                                         | Résultat  | Remarque |
+| ----- | --------------------------------------------------- | --------- | -------- |
+| 2025  | [[Championnats du monde d'athlétisme]] - 800m (T54) | 1iere     |          |
+| 2025  | [[Championnats du monde d'athlétisme]] - 100m (T54) | Finaliste |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
