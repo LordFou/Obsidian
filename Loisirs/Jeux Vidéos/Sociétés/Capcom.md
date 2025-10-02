@@ -24,9 +24,11 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                   | Genre  | Plateformes |
-| ----- | ----------------------- | ------ | ----------- |
-| 2025  | [[Monster Hunter Wild]] | Action |             |
+| Année        | Titre                             | Genre           | Plateformes |
+| ------------ | --------------------------------- | --------------- | ----------- |
+|              | [[Franchise Monster Hunter Wild]] | Action          |             |
+|              | [[Franchise Street Fighter]]      | Combat          |             |
+| 1996 -> 2025 | [[Franchise Resident Evil]]       | Survival Horror |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

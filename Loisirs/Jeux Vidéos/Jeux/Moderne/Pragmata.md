@@ -1,18 +1,19 @@
 ---
 type: game
 ---
-# Onimusha 2 - Samurai’s Destiny
+
+# Pragmata
 
 ## Informations Générales
 
-- **Année de sortie** : 2025 (?)
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Capcom]] (?)
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : All
-- **Franchise** : [[Franchise Onimusha]]
-- **Genre** : [[Action]]
+- **Plateformes** : 
+- **Franchise** : 
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -21,6 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
+- **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 

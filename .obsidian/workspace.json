@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nintendo.md",
+                "file": "Devil May Cry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nintendo"
+              "title": "Devil May Cry"
             },
             "group": "dd0e3ac25c6a898d"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nintendo.md",
+                "file": "Devil May Cry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Nintendo"
+              "title": "Graphique de Devil May Cry"
             },
             "group": "dd0e3ac25c6a898d"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Nintendo",
+                "query": "Onimusha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,8 +254,20 @@
   },
   "active": "0761ae6dac340884",
   "lastOpenFiles": [
-    "Mario Kart World.md",
+    "Franchise Devil May Cry.md",
+    "Devil May Cry.md",
+    "Franchise Onimusha.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Onimusha 2 - Samurai’s Destiny.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Pragmata.md",
+    "Loisirs/Jeux Vidéos/Sociétés/Capcom.md",
+    "Franchise Street Fighter.md",
+    "Ressources/Lâge dor du survival horror  mythe ou réalité  (Partie 1).md",
+    "Loisirs/Jeux Vidéos/Monster Hunter Wild.md",
+    "Loisirs/Jeux Vidéos/Franchise Resident Evil.md",
+    "Franchise Monster Hunter Wild.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Resident Evil 4.md",
     "Nintendo.md",
+    "Mario Kart World.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Shining Force.md",
     "Loisirs/Jeux Vidéos/Silver Ghost.md",
     "Fire Emblem.md",
@@ -268,18 +280,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Saros.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Battlefield.md",
     "Kojima Productions.md",
-    "Okomotive.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Herdling.md",
-    "La transhumance.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Forza.md",
-    "Loisirs/Jeux Vidéos/Sociétés/Capcom.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Final Fantasy Tactics - The Ivalice Chronicles.md",
-    "Franchise Final Fantasy.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/No, I'm Not a Human.md",
-    "Bioware.md",
-    "Electronic Arts.md",
-    "Dragon Age - Veilguard.md",
-    "The Sims.md",
     "Attachments/image-158.webp",
     "Attachments/image-157.webp",
     "Attachments/image-156.webp",

@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Franchise Devil May Cry
+# Franchise Onimusha
 
 
 ## Informations générales
@@ -22,11 +22,9 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre | Année             | Plateformes | Remarque |
-| ----- | ----------------- | ----------- | -------- |
-|       | [[Devil May Cry]] |             |          |
-|       |                   |             |          |
-
+| Titre                              | Année | Plateformes | Remarque |
+| ---------------------------------- | ----- | ----------- | -------- |
+| [[Onimusha 2 - Samurai’s Destiny]] |       |             |          |
 
 
 ## Mécaniques et innovations
