@@ -48,10 +48,11 @@ Lister les prix, distinctions ou records obtenus.
 	- Jeux ou studio qui disparaitraient à cause du désalignement de ligne éditoriale entre un pays contre l'homosexualité, le statut des femmes, etc...
 		- [[The Sims]] 
 		- [[Bioware]]
-		- 
+	- C'est certainement la fin du studio tel qu'on le connaissait. On bascule clairement dans une boite juste à faire du pognon et plus aucune originalité.
 
 ## Filiales et Partenaires
-Lister les studios affiliés ou les collaborations importantes.
+- [[Bioware]]
+- 
 
 ## Sources et Références
 - [Lien vers une source](#)
