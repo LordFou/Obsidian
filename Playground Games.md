@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Okomotive
+# Playground Games
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,11 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                    | Genre               | Plateformes |
-| ----- | ------------------------ | ------------------- | ----------- |
-|       | [[FAR - Lone Sails]]     | Exploration         |             |
-|       | [[FAR - Changing Tides]] | Exploration         |             |
-| 2025  | [[Herdling]]             | Balade, Exploration | PC          |
+| Année | Titre      | Genre              | Plateformes           |
+| ----- | ---------- | ------------------ | --------------------- |
+| XXXX  | Nom du jeu | Action / RPG / FPS | PC, PS5, Xbox, Switch |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

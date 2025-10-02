@@ -6,7 +6,7 @@
       {
         "id": "d6ae64830b375c1f",
         "type": "tabs",
-        "dimension": 69.74652493867539,
+        "dimension": 68.68356500408831,
         "children": [
           {
             "id": "0761ae6dac340884",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devil May Cry.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Herdling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Devil May Cry"
+              "title": "Herdling"
             },
             "group": "dd0e3ac25c6a898d"
           }
@@ -28,7 +28,7 @@
       {
         "id": "363dac1ea44d9e8b",
         "type": "tabs",
-        "dimension": 30.253475061324615,
+        "dimension": 31.316434995911692,
         "children": [
           {
             "id": "708f44113addce28",
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Devil May Cry.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Herdling.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Devil May Cry"
+              "title": "Graphique de Herdling"
             },
             "group": "dd0e3ac25c6a898d"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Onimusha",
+                "query": "Herd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,8 +254,15 @@
   },
   "active": "0761ae6dac340884",
   "lastOpenFiles": [
-    "Franchise Devil May Cry.md",
+    "Okomotive.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Herdling.md",
+    "Forza Horizon 6.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Franchise Forza.md",
+    "Playground Games.md",
+    "Loisirs/Jeux Vidéos/Non triés/GamePass (XBox).md",
+    "Journal de bord/2025-10-02.md",
     "Devil May Cry.md",
+    "Franchise Devil May Cry.md",
     "Franchise Onimusha.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Onimusha 2 - Samurai’s Destiny.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Pragmata.md",
@@ -273,13 +280,6 @@
     "Fire Emblem.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Fantasy Life i - The Girl Who Steals Time.md",
     "Level 5.md",
-    "Franchise Deus Ex.md",
-    "Loisirs/Jeux Vidéos/Jeux/Franchise/Franchise Yakuza.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Deus Ex - Mankind Divided.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Disco Elysium.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Saros.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Battlefield.md",
-    "Kojima Productions.md",
     "Attachments/image-158.webp",
     "Attachments/image-157.webp",
     "Attachments/image-156.webp",
