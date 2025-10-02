@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Franchise Final Fantasy
+# Forza
 
 
 ## Informations générales
@@ -22,9 +22,9 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                                              | Année | Plateformes | Remarque |
-| -------------------------------------------------- | ----- | ----------- | -------- |
-| [[Final Fantasy Tactics - The Ivalice Chronicles]] | 2025  |             |          |
+| Titre | Année | Plateformes | Remarque |
+| ----- | ----- | ----------- | -------- |
+|       |       |             |          |
 
 
 ## Mécaniques et innovations

@@ -1,20 +1,20 @@
 ---
 type: game
 ---
-![[Pasted image 20250827215449.jpg]]
-# Herdling
+
+# No, I'm Not a Human
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Okomotive]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Aventure]], [[Casual]], [[Exploration]], [[Simulation]]
-- **Résumé** : on guide un paisible troupeau d'herbivores à travers les montagnes en résolvant des énigmes pour libérer la voie
+- **Genre** :
+- **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -28,11 +28,8 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
-	- Les calicornes (?)
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- [[La transhumance]]
-	- [[La vie de berger]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

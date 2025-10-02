@@ -6,7 +6,7 @@
       {
         "id": "d6ae64830b375c1f",
         "type": "tabs",
-        "dimension": 70.72213500784929,
+        "dimension": 69.99182338511855,
         "children": [
           {
             "id": "0761ae6dac340884",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioware.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Battlefield.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bioware"
+              "title": "Battlefield"
             },
             "group": "dd0e3ac25c6a898d"
           }
@@ -28,7 +28,7 @@
       {
         "id": "363dac1ea44d9e8b",
         "type": "tabs",
-        "dimension": 29.277864992150704,
+        "dimension": 30.00817661488144,
         "children": [
           {
             "id": "708f44113addce28",
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bioware.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Battlefield.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Bioware"
+              "title": "Graphique de Battlefield"
             },
             "group": "dd0e3ac25c6a898d"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "no, i'm",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,7 +179,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,11 +253,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "a47971b47ce877f4",
   "lastOpenFiles": [
+    "Kojima Productions.md",
+    "Okomotive.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Herdling.md",
+    "La transhumance.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Forza.md",
+    "Loisirs/Jeux Vidéos/Sociétés/Capcom.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Final Fantasy Tactics - The Ivalice Chronicles.md",
+    "Franchise Final Fantasy.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/No, I'm Not a Human.md",
+    "Bioware.md",
     "Electronic Arts.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Battlefield.md",
-    "Bioware.md",
     "Dragon Age - Veilguard.md",
     "The Sims.md",
     "Journal de bord/2025-10-02.md",
@@ -271,15 +281,6 @@
     "Shantae.md",
     "Sean Velasco.md",
     "Playstation Vita.md",
-    "Nintendo DS.md",
-    "Nico Papalia.md",
-    "Nick Wozniak.md",
-    "Mega Man 9.md",
-    "Matisse Van Kerckhove.md",
-    "Léa Bayekula.md",
-    "Luca Vierstraete.md",
-    "Loisirs/Sport/Compétitions/Cro Race.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/HeavyWeight Champ.md",
     "Attachments/image-158.webp",
     "Attachments/image-157.webp",
     "Attachments/image-156.webp",
