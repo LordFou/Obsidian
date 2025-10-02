@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Magnier.md",
+                "file": "Journal de bord/2025-10-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paul Magnier"
+              "title": "2025-10-02"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Paul Magnier.md",
+                "file": "Journal de bord/2025-10-02.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -61,7 +61,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Paul Magnier"
+              "title": "Graphique de 2025-10-02"
             }
           }
         ]
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cro",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -175,7 +175,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -248,8 +249,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "59284fc8fd978289",
+  "active": "a47971b47ce877f4",
   "lastOpenFiles": [
+    "Journal de bord/2025-10-02.md",
     "Loisirs/Sport/Compétitions/Cro Race.md",
     "Championnat d'Europe de Cyclisme.md",
     "Marlen Reusser.md",
@@ -282,7 +284,6 @@
     "Franchise Mega Man.md",
     "Duck Tales.md",
     "Super Mario Bros 3.md",
-    "Franchise Mario.md",
     "Attachments/image-151.webp",
     "Attachments/image-150.webp",
     "Attachments/image-149.webp",
