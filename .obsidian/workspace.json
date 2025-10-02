@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-10-02.md",
+                "file": "Maison/Travaux/Humidité.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-02"
+              "title": "Humidité"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2025-10-02.md",
+                "file": "Maison/Travaux/Humidité.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -61,7 +61,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-10-02"
+              "title": "Graphique de Humidité"
             }
           }
         ]
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "humidit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -175,8 +175,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -249,7 +248,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a47971b47ce877f4",
+  "active": "59284fc8fd978289",
   "lastOpenFiles": [
     "Journal de bord/2025-10-02.md",
     "Loisirs/Sport/Compétitions/Cro Race.md",
