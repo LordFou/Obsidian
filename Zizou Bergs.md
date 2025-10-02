@@ -14,12 +14,13 @@ type: personne
 - **Meilleur classement ATP** : 45e
 
 # Palmarès et Distinctions
-| Année | Compétition                | Résultat              | Remarque                          |
-| ----- | -------------------------- | --------------------- | --------------------------------- |
-| 2025  | [[Tournoi de Rosmalen]]    | Finaliste             |                                   |
-| 2025  | [[US Open]]                | 3e tour               |                                   |
-| 2025  | [[Coupe Davis]] - 2e tour  | Victoire de son match |                                   |
-| 2025  | [[ATP - Tournoi de Tokyo]] | 2e tour               | Défaite contre [[Carlos Alcaraz]] |
+| Année | Compétition                  | Résultat              | Remarque                          |
+| ----- | ---------------------------- | --------------------- | --------------------------------- |
+| 2025  | [[Tournoi de Rosmalen]]      | Finaliste             |                                   |
+| 2025  | [[US Open]]                  | 3e tour               |                                   |
+| 2025  | [[Coupe Davis]] - 2e tour    | Victoire de son match |                                   |
+| 2025  | [[ATP - Tournoi de Tokyo]]   | 2e tour               | Défaite contre [[Carlos Alcaraz]] |
+| 2025  | [[ATP - Tournoi de Shangaï]] | 2e tour               |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

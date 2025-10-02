@@ -8,10 +8,10 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur          | Nationalité | Remarque |
+| ----- | ------------------ | ----------- | -------- |
+| 2025  | [[Carlos Alcaraz]] | Espagnol    |          |
+|       |                    |             |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

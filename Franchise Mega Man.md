@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Franchise Mario
+# Franchise Mega Man
 
 
 ## Informations générales
@@ -22,13 +22,9 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                       | Année | Plateformes  | Remarque |
-| --------------------------- | ----- | ------------ | -------- |
-| [[Wrecking Crew]]           | 1985  | [[NES]]      |          |
-| [[Super Mario Bros 3]]      |       |              |          |
-| [[Super Mario Galaxy]]      |       |              |          |
-| [[Super Mario Bros Wonder]] |       |              |          |
-| [[Mario Kart World]]        | 2025  | [[Switch 2]] |          |
+| Titre          | Année | Plateformes | Remarque |
+| -------------- | ----- | ----------- | -------- |
+| [[Mega Man 9]] |       |             |          |
 
 
 ## Mécaniques et innovations

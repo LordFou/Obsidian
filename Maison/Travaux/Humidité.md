@@ -1,3 +1,7 @@
+# Travaux Troisfontaine
+- 02/10/2025
+	- Semble avoir encore un peu creuser pour aller plus bas de notre côté aussi (quelques cm ? ou alors c'était pour égaliser ??)
+
 # Travaux Courtain
 - Début des travaux le 04/08/2025 avec Courtain KG sa
 	- Il a déjà cassé toutes les conduites
@@ -5,7 +9,7 @@
 	- J'ai payé l'acompte ce jour
 - Fissure apparue chez Sam
 	- Les assurances vont s'en charger
-	- A priori mon assurance ne doit pas jouer mais l'assureur de Sam dit que la sienne va se retourner contre la notre qui va se retourner contre celle de l'entrepreneur. Aucun sens !!
+	- A priori mon assurance ne doit pas jouer mais l'assureur de Sam dit que la sienne va se retourner contre la notre qui va se retourner contre celle de l'entrepreneur. Je suis considéré comme le maître d'oeuvre.
 - Il faut savoir quand l'entrepreneur de Sam peut faire les travaux
 	- Si septembre
 		- On laisse sans pierre la partie du mur mitoyen 
@@ -38,7 +42,7 @@
 - Voir si on fait les aérations vers le devant de la maison pour éviter de mettre des coudes à l'arrière qui pourrait créer des nouvelles petites sources d'humidité
 	- Voir la maison dans la rue d'à côté pour voir si c'est joli
 	- Si oui
-		- On mettrait aussi un extracteur électrique entre la buanderie et le garage
+		- On pourrait aussi mettre un extracteur électrique entre la buanderie et le garage
 - Il va falloir découper une dalle de béton qui était sous le mur "barbecue"
 	- Surcout ?
 - Courtain doit me poser des questions sur les finitions pour la phase 2

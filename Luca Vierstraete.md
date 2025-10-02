@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# David Goffin
+# Luca Vierstraete
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** : Tennis 
+- **Sport / Discipline** : [[Cyclisme]] 
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                  | Résultat | Remarque |
-| ----- | ---------------------------- | -------- | -------- |
-| 2025  | [[US Open]]                  | 2e tour  |          |
-| 2025  | [[ATP - Tournoi de Shangaï]] | 2e tour  |          |
+| Année | Compétition                                          | Résultat | Remarque |
+| ----- | ---------------------------------------------------- | -------- | -------- |
+| 2025  | [[Championnat d'Europe de Cyclisme]] - Espoirs - CLM | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
