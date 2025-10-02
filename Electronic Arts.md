@@ -19,8 +19,8 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 ```timeline-labeled
 [line-5, body-2]
 date: Septembre 2025  
-title: Rachat de la société
-content: [[Electronic Arts]] est racheté par l'Arabie Saoudite et la famille [[Trump]]...
+title: Projet de rachat de la société et sortie de la bourse
+content: [[Electronic Arts]] pourrait être racheté par plusieurs parties : le fond d'investissement publique d'Arabie Saoudite (PIF), un fond d'investissement (afinity partner) dirigé par [[Jared Kuschner]] proche de la famille [[Trump]]...et Silver Lake (placement dans la tech) => 55 milliards de dollars (35 milliards mis sur la table par les 3 et puis 20 milliards de prêt !!! Cette dette dépasse les capacités de la boîte => ça va virer sec)
 ```
 
 ## Jeux Développés
@@ -39,7 +39,8 @@ Décrire le style graphique, les thématiques abordées, les influences notables
 Lister les prix, distinctions ou records obtenus.
 
 ## Controverses ou Événements Marquants
-Évoquer les polémiques ou faits marquants de l’histoire de la société.
+- Rachat de la société par consortium (Arabie Saoudite, Jared Kuschner, Silver Lake)
+	- 
 
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
