@@ -24,10 +24,13 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 2D, style 8-bit de la [[NES]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
+	- style 8-bit de la [[NES]]
+	- Avancée écran par écran
+	- Chaque stage comprend en moyenne 25 écrans + les zones secrètes
 - **Durée estimée** : 
 
 ## Citations
@@ -37,13 +40,15 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Un chevalier et sa [[pioche]]
 - **Ennemis** :
+	- 
 - **Thèmes abordés** : 
 - **Influencé par** :
-	- [[Zelda II - Adventure of Link]] (pour l'action et les combats à l'épée)
+	- [[Zelda II - Adventure of Link]] (pour l'action, les combats à l'épée, les villes)
 	- [[Super Mario Bros 3]] (pour le système de map)
 	- [[Duck Tales]] (pour le gameplay rebondissant)
-	- [[Franchise Mega Man]] (pour la progression non linéaires)
+	- [[Franchise Mega Man]] (pour la progression non linéaires, le nombre d'écran dans un stage)
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

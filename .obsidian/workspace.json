@@ -56,10 +56,55 @@
               },
               "icon": "lucide-file",
               "title": "Shovel Knight"
-            }
+            },
+            "group": "a292dd61564330aa"
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "225ca69a04e85b9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9849b6524bce293",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "path:-journal",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000007,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graphique de Shovel Knight"
+            },
+            "group": "a292dd61564330aa"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,6 +290,10 @@
   },
   "active": "5dcf33f48ac592af",
   "lastOpenFiles": [
+    "Franchise Shovel Knight.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
+    "Yacht Club Games.md",
+    "pioche.md",
     "Culture/Politique/Nicolas Sarkozy.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/No, I'm Not a Human.md",
     "Loisirs/Jeux Vidéos/Personnages/Extraterrestres.md",
@@ -267,10 +316,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Onimusha 2 - Samurai’s Destiny.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Pragmata.md",
     "Loisirs/Jeux Vidéos/Sociétés/Capcom.md",
-    "Franchise Street Fighter.md",
-    "Ressources/Lâge dor du survival horror  mythe ou réalité  (Partie 1).md",
-    "Loisirs/Jeux Vidéos/Monster Hunter Wild.md",
-    "Loisirs/Jeux Vidéos/Franchise Resident Evil.md",
     "Attachments/image-158.webp",
     "Attachments/image-157.webp",
     "Attachments/image-156.webp",

@@ -80,11 +80,11 @@
   "additionalProperties": {},
   "backupGraphOptions": {
     "collapse-filter": true,
-    "search": "path:-journal",
+    "search": "",
     "localJumps": 1,
     "localBacklinks": true,
     "localForelinks": true,
-    "localInterlinks": true,
+    "localInterlinks": false,
     "showTags": false,
     "showAttachments": false,
     "hideUnresolved": false,
@@ -101,7 +101,7 @@
     "linkStrength": 1,
     "linkDistance": 250,
     "scale": 1,
-    "close": true
+    "close": false
   },
   "openInNewTab": false,
   "canonicalizePropertiesWithDataview": true,
