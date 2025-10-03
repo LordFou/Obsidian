@@ -22,10 +22,10 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                                              | Année | Plateformes | Remarque |
-| -------------------------------------------------- | ----- | ----------- | -------- |
-| [[Final Fantasy Tactics]]                          | 1997  |             |          |
-| [[Final Fantasy Tactics - The Ivalice Chronicles]] | 2025  |             |          |
+| Titre                                              | Année | Plateformes | Remarque                            |
+| -------------------------------------------------- | ----- | ----------- | ----------------------------------- |
+| [[Final Fantasy Tactics]]                          | 1997  |             |                                     |
+| [[Final Fantasy Tactics - The Ivalice Chronicles]] | 2025  |             | Remake de [[Final Fantasy Tactics]] |
 
 
 ## Mécaniques et innovations

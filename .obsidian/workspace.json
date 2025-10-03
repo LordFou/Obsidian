@@ -6,65 +6,29 @@
       {
         "id": "363dac1ea44d9e8b",
         "type": "tabs",
+        "dimension": 68.25962910128388,
         "children": [
-          {
-            "id": "708f44113addce28",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Final Fantasy Tactics.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "path:-journal",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.3628873693012117,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graphique de Final Fantasy Tactics"
-            }
-          },
           {
             "id": "5dcf33f48ac592af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final Fantasy Tactics.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Final Fantasy Tactics - The Ivalice Chronicles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Final Fantasy Tactics"
+              "title": "Final Fantasy Tactics - The Ivalice Chronicles"
             },
             "group": "a292dd61564330aa"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "225ca69a04e85b9d",
         "type": "tabs",
+        "dimension": 31.74037089871612,
         "children": [
           {
             "id": "d9849b6524bce293",
@@ -72,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Final Fantasy Tactics.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Final Fantasy Tactics - The Ivalice Chronicles.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -95,12 +59,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000007,
+                  "scale": 0.7132754626224425,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Final Fantasy Tactics"
+              "title": "Graphique de Final Fantasy Tactics - The Ivalice Chronicles"
             },
             "group": "a292dd61564330aa"
           }
@@ -291,9 +255,9 @@
   },
   "active": "5dcf33f48ac592af",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Final Fantasy Tactics - The Ivalice Chronicles.md",
-    "Final Fantasy Tactics.md",
     "Franchise Final Fantasy.md",
+    "Final Fantasy Tactics.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Final Fantasy Tactics - The Ivalice Chronicles.md",
     "Franchise Mega Man.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
     "Zelda II - Adventure of Link.md",
