@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
+                "file": "Franchise Mega Man.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -41,7 +41,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Shovel Knight"
+              "title": "Graphique de Franchise Mega Man"
             }
           },
           {
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
+                "file": "Franchise Mega Man.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shovel Knight"
+              "title": "Franchise Mega Man"
             },
             "group": "a292dd61564330aa"
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
+                "file": "Franchise Mega Man.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Shovel Knight"
+              "title": "Graphique de Franchise Mega Man"
             },
             "group": "a292dd61564330aa"
           }
@@ -215,7 +215,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -290,8 +291,10 @@
   },
   "active": "5dcf33f48ac592af",
   "lastOpenFiles": [
-    "Franchise Shovel Knight.md",
+    "Mega Man.md",
+    "Franchise Mega Man.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
+    "Franchise Shovel Knight.md",
     "Yacht Club Games.md",
     "pioche.md",
     "Culture/Politique/Nicolas Sarkozy.md",
@@ -314,8 +317,6 @@
     "Franchise Devil May Cry.md",
     "Franchise Onimusha.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Onimusha 2 - Samurai’s Destiny.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Pragmata.md",
-    "Loisirs/Jeux Vidéos/Sociétés/Capcom.md",
     "Attachments/image-158.webp",
     "Attachments/image-157.webp",
     "Attachments/image-156.webp",

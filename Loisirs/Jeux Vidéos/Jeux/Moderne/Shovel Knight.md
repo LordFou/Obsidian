@@ -31,6 +31,7 @@ type: game
 	- style 8-bit de la [[NES]]
 	- Avancée écran par écran
 	- Chaque stage comprend en moyenne 25 écrans + les zones secrètes
+	- Le lore est bien plus développé que ses ancêtres 8 bits : chaque habitant des différents villages ont leur histoire et on peut discuter avec eux.
 - **Durée estimée** : 
 
 ## Citations
@@ -38,11 +39,14 @@ type: game
  
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- Cimetière
+	- Souterrain rempli de lave
 - **Epoque** : 
 - **Personnages principaux** : 
 	- Un chevalier et sa [[pioche]]
 - **Ennemis** :
-	- 
+	- Grim Rieper (boss)
+	- Mole Knight (boss)
 - **Thèmes abordés** : 
 - **Influencé par** :
 	- [[Zelda II - Adventure of Link]] (pour l'action, les combats à l'épée, les villes)

@@ -24,6 +24,7 @@ content:
 ## Jeux principaux
 | Titre          | Année | Plateformes | Remarque |
 | -------------- | ----- | ----------- | -------- |
+| [[Mega Man]]   | 1987  |             |          |
 | [[Mega Man 9]] |       |             |          |
 
 
