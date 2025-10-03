@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-10-03.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/No, I'm Not a Human.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-03"
+              "title": "No, I'm Not a Human"
             },
             "group": "dd0e3ac25c6a898d"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2025-10-03.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/No, I'm Not a Human.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-10-03"
+              "title": "Graphique de No, I'm Not a Human"
             },
             "group": "dd0e3ac25c6a898d"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Herd",
+                "query": "I'm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,8 +254,13 @@
   },
   "active": "0761ae6dac340884",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Herdling.md",
+    "Loisirs/Jeux Vidéos/Personnages/Extraterrestres.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/No, I'm Not a Human.md",
+    "Fin du monde.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cataclismo.md",
+    "Paper Please.md",
     "Journal de bord/2025-10-03.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Herdling.md",
     "Joel Schoch.md",
     "Journey.md",
     "Okomotive.md",
@@ -275,11 +280,6 @@
     "Loisirs/Jeux Vidéos/Monster Hunter Wild.md",
     "Loisirs/Jeux Vidéos/Franchise Resident Evil.md",
     "Franchise Monster Hunter Wild.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Resident Evil 4.md",
-    "Nintendo.md",
-    "Mario Kart World.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Shining Force.md",
-    "Loisirs/Jeux Vidéos/Silver Ghost.md",
     "Attachments/image-158.webp",
     "Attachments/image-157.webp",
     "Attachments/image-156.webp",
