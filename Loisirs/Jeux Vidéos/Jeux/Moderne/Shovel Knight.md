@@ -43,7 +43,7 @@ type: game
 	- Souterrain rempli de lave
 - **Epoque** : 
 - **Personnages principaux** : 
-	- Un chevalier et sa [[pioche]]
+	- Un chevalier (Shovel Knight), sa [[pioche]], son casque à corne à la [[Boba Fett]].
 - **Ennemis** :
 	- Grim Rieper (boss)
 	- Mole Knight (boss)
@@ -57,6 +57,7 @@ type: game
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - Le jeu a été décliné dans pas mal de style différents ([[Puzzle]], [[Roguelite]], [[Combat]])
+- L'origine de l'arme (pelle) provient de la comparaison avec l'attaque en 2 temps du héros : une phase pour renverser l'ennemi et une phase pour l'achever. Un peu comme creuser un trou.
 ## Liens et Ressources
 
 | Description | URL |
