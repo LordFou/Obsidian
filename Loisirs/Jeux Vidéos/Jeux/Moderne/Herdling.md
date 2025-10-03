@@ -22,7 +22,9 @@ type: game
 	- Différents biomes très beaux
 - **Audio** : 
 	- [[Joel Schoch]] (Compositeur)
+	- La BO est très intégrée au gameplay
 - **Réception critique** : 
+	- Validé par Origami (mais pas pour tout le monde)
 - **Gameplay** :
 	- Collection de boucle de cornes
 - **Durée estimée** : 

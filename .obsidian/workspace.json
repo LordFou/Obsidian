@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Herdling.md",
+                "file": "Journal de bord/2025-10-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Herdling"
+              "title": "2025-10-03"
             },
             "group": "dd0e3ac25c6a898d"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Herdling.md",
+                "file": "Journal de bord/2025-10-03.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Herdling"
+              "title": "Graphique de 2025-10-03"
             },
             "group": "dd0e3ac25c6a898d"
           }
@@ -254,8 +254,9 @@
   },
   "active": "0761ae6dac340884",
   "lastOpenFiles": [
-    "Joel Schoch.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Herdling.md",
+    "Journal de bord/2025-10-03.md",
+    "Joel Schoch.md",
     "Journey.md",
     "Okomotive.md",
     "Forza Horizon 6.md",
@@ -279,7 +280,6 @@
     "Mario Kart World.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Shining Force.md",
     "Loisirs/Jeux Vidéos/Silver Ghost.md",
-    "Fire Emblem.md",
     "Attachments/image-158.webp",
     "Attachments/image-157.webp",
     "Attachments/image-156.webp",
