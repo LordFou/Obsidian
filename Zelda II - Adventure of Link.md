@@ -6,7 +6,7 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 1987
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 

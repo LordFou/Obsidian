@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Franchise Mega Man.md",
+                "file": "Zelda II - Adventure of Link.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -41,7 +41,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Franchise Mega Man"
+              "title": "Graphique de Zelda II - Adventure of Link"
             }
           },
           {
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Franchise Mega Man.md",
+                "file": "Zelda II - Adventure of Link.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Franchise Mega Man"
+              "title": "Zelda II - Adventure of Link"
             },
             "group": "a292dd61564330aa"
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Franchise Mega Man.md",
+                "file": "Zelda II - Adventure of Link.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -96,11 +96,11 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1.0000000000000007,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Franchise Mega Man"
+              "title": "Graphique de Zelda II - Adventure of Link"
             },
             "group": "a292dd61564330aa"
           }
@@ -289,11 +289,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5dcf33f48ac592af",
+  "active": "d9849b6524bce293",
   "lastOpenFiles": [
-    "Mega Man.md",
-    "Franchise Mega Man.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
+    "Duck Tales.md",
+    "Franchise Mega Man.md",
+    "Mega Man.md",
     "Franchise Shovel Knight.md",
     "Yacht Club Games.md",
     "pioche.md",
@@ -316,7 +317,6 @@
     "Devil May Cry.md",
     "Franchise Devil May Cry.md",
     "Franchise Onimusha.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Onimusha 2 - Samurai’s Destiny.md",
     "Attachments/image-158.webp",
     "Attachments/image-157.webp",
     "Attachments/image-156.webp",
