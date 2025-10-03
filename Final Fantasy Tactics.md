@@ -2,29 +2,26 @@
 type: game
 ---
 
-# Final Fantasy Tactics - The Ivalice Chronicles
+# Final Fantasy Tactics
 
 ## Informations Générales
 
-Apparemment c'est un remake/remaster de [[Final Fantasy Tactics]]
-
-- **Année de sortie** : 2025
+- **Année de sortie** : 1997
 - **Développeur** : 
-	- Studio : [[Square Enix]], [[Algebra Factory]]
+	- Studio : [[Square Enix]]
 	- Personnalités : 
-- **Éditeur** : [[Square Enix]]
-- **Plateformes** : 
+- **Éditeur** : 
+- **Plateformes** : [[Playstation]]
 - **Franchise** : [[Franchise Final Fantasy]]
 - **Genre** : [[Tactical RPG]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 3D
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
-	- CheckPoint
-	  ![[image-120.webp|510x322]]
+	- Le mode 3D l'a un peu desservi
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -41,6 +38,6 @@ Apparemment c'est un remake/remaster de [[Final Fantasy Tactics]]
 - 
 ## Liens et Ressources
 
-| Description      | URL                          |
-| ---------------- | ---------------------------- |
-| Gameplay Trailer | https://youtu.be/wVCaeyucLTE |
+| Description | URL |
+| ----------- | --- |
+|             |     |
