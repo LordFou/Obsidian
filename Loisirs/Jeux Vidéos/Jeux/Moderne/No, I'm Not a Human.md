@@ -29,6 +29,7 @@ type: game
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
+	- Les [[Extraterrestres]]
 - **Thèmes abordés** : 
 	- La [[Fin du monde]]
 	- Les [[Extraterrestres]]
