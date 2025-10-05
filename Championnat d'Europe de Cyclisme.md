@@ -20,3 +20,10 @@ type: event
 | ----- | ------------------ | ------- | ------------ | -------- |
 | 2025  | [[Marlen Reusser]] | CLM     | Suisse       |          |
 | 2025  | [[Demi Vollering]] | Route   | Néerlandaise |          |
+
+# Espoirs
+
+| Année | Vainqueur             | Epreuve | Nationalité | Remarque |
+| ----- | --------------------- | ------- | ----------- | -------- |
+| 2025  | [[Jarno Widar]]       | Course  | Belge       |          |
+| 2025  | [[Jonathan Vervenne]] | CLM     | Belge       |          |

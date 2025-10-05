@@ -22,6 +22,7 @@ type: personne
 | 2025  | [[Tour de l'Ain]] - 3e étape         | 1ier     | Première victoire PRO<br>Solo de 50 km |
 | 2025  | [[Tour de l'Ain]] - Classement Final | 1ier     |                                        |
 | 2025  | [[Tour de l'Ain]] - Classement Jeune | 1ier     |                                        |
+| 2025  | [[Tour d’Emilie]]                    | 8e       |                                        |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

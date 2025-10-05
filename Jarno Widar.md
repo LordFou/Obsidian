@@ -13,12 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                        | Résultat                | Remarque                                                |
-| ----- | ---------------------------------- | ----------------------- | ------------------------------------------------------- |
-| 2025  | [[Giro Next Gen]]                  | Porteur du maillot rose | Il en sera dépossédé et puis subira une chute + abandon |
-| 2025  | [[Tour du Val d'Aoste]] - 3e étape | 1ier                    |                                                         |
-| 2025  | [[Tour de l'Avenir]] - 5e étape    | 1ier                    |                                                         |
-| 2025  | [[Tour de l'Avenir]] - 6e étape    | 1ier                    |                                                         |
+| Année | Compétition                                                 | Résultat                | Remarque                                                |
+| ----- | ----------------------------------------------------------- | ----------------------- | ------------------------------------------------------- |
+| 2025  | [[Giro Next Gen]]                                           | Porteur du maillot rose | Il en sera dépossédé et puis subira une chute + abandon |
+| 2025  | [[Tour du Val d'Aoste]] - 3e étape                          | 1ier                    |                                                         |
+| 2025  | [[Tour de l'Avenir]] - 5e étape                             | 1ier                    |                                                         |
+| 2025  | [[Tour de l'Avenir]] - 6e étape                             | 1ier                    |                                                         |
+| 2025  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - Route | 1ier                    |                                                         |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

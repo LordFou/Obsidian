@@ -5,12 +5,12 @@ type: personne
 # Alexander Kristoff
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  19
 - **Nationalité** :  Norvégien
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
-- **Période d’activité** :  
+- **Période d’activité** :  ->2025
 
 # Palmarès et Distinctions
 | Année | Compétition               | Résultat | Remarque |
@@ -21,9 +21,9 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-- 98 victoires en aout 2025
+- 98 victoires à la fin de sa carrière en octobre 2025
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Il termine sa carrière sur chute lors de la 2e étape du [[Tour du Langkawi]]
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

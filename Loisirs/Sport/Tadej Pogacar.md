@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                                                | Résultat | Remarque                                                                           |
 | ----- | ---------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------- |
 | 2024  | [[Championnat du Monde de Cyclisme\|Championnat du monde]] | 1ier 🥇  |                                                                                    |
+| 2024  | [[Tour d’Emilie]]                                          | 1ier 🥇  |                                                                                    |
 | 2025  | [[Flèche Wallonne]]                                        | 1ier 🥇  | Personne pour le battre                                                            |
 | 2025  | [[Critérium du Dauphiné]] - 1e étape                       | 1ier 🥇  | Gagné dans un mini groupe de ténor                                                 |
 | 2025  | [[Critérium du Dauphiné]] - 6e étape                       | 1ier 🥇  | Victoire au sommet d'un sommet de 2e catégorie. Tous les autres favoris sont cuits |

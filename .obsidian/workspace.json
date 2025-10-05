@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Tour d’Emilie.md",
+                "file": "Loisirs/Sport/Alexander Kristoff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour d’Emilie"
+              "title": "Alexander Kristoff"
             },
             "group": "90e255c81987819e"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Tour d’Emilie.md",
+                "file": "Loisirs/Sport/Alexander Kristoff.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Tour d’Emilie"
+              "title": "Graphique de Alexander Kristoff"
             },
             "group": "90e255c81987819e"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour d’Emilie",
+                "query": "Kristo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,8 +179,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,9 +254,14 @@
   },
   "active": "d3bf4b5b8871fb6c",
   "lastOpenFiles": [
-    "Demi Vollering.md",
-    "Loisirs/Sport/Compétitions/Tour d’Emilie.md",
     "Championnat d'Europe de Cyclisme.md",
+    "Jonathan Vervenne.md",
+    "Jarno Widar.md",
+    "Loisirs/Sport/Tadej Pogacar.md",
+    "Loisirs/Sport/Compétitions/Tour d’Emilie.md",
+    "Cian Uijtdebroeks.md",
+    "Isaac Del Toro.md",
+    "Demi Vollering.md",
     "Championnat du Monde de Cyclisme.md",
     "David Goffin.md",
     "Zizou Bergs.md",
@@ -272,17 +276,12 @@
     "Grand Prix de Singapour.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Paul Seixas.md",
-    "Loisirs/Sport/Tadej Pogacar.md",
     "Loisirs/Sport/Arnaud de Lie.md",
     "Loisirs/Sport/Antwerp Port Epic.md",
     "Tim Merlier.md",
     "Paul Magnier.md",
     "Loisirs/Sport/Compétitions/Cro Race.md",
-    "Marlen Reusser.md",
-    "Journal de bord/2025-10-01.md",
-    "Matisse Van Kerckhove.md",
     "Attachments/image-158.webp",
-    "Jonathan Vervenne.md",
     "Attachments/image-157.webp",
     "Attachments/image-156.webp",
     "Attachments/image-155.webp",
