@@ -1,28 +1,28 @@
 ---
 type: personne
 ---
-![[image-156.webp]]
-# Léa Bayekula
+
+# Roger Habsch
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** : [[Para-Athlétisme]] 
-- **Poste / Spécialité** (si applicable) :  800m - T54
+- **Nationalité** : Belge 
+- **Sport / Discipline** : [[Athlétisme]]  
+- **Poste / Spécialité** (si applicable) : 100m, 200m (T51) 
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
 | Année | Compétition                                                       | Résultat | Remarque |
 | ----- | ----------------------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 800m (T54) | 1iere    |          |
-| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 400m (T54) | 1iere    |          |
+| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 100m (T51) | 2e       |          |
+| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 200m (T51) | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Il détient le record du monde du 100m en 35.74s
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

@@ -21,6 +21,7 @@ type: personne
 | 2025  | [[Coupe Davis]] - 2e tour    | Victoire de son match |                                   |
 | 2025  | [[ATP - Tournoi de Tokyo]]   | 2e tour               | Défaite contre [[Carlos Alcaraz]] |
 | 2025  | [[ATP - Tournoi de Shangaï]] | 2e tour               |                                   |
+| 2025  |                              |                       |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
