@@ -6,6 +6,8 @@ type: game
 
 ## Informations Générales
 
+Apparemment c'est un remake/remaster de [[Final Fantasy Tactics]]
+
 - **Année de sortie** : 2025
 - **Développeur** : 
 	- Studio : [[Square Enix]], [[Algebra Factory]]
@@ -21,6 +23,7 @@ type: game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
+	- Très bon remaster/remake (Origami)
 	- CheckPoint
 	  ![[image-120.webp|510x322]]
 - **Gameplay** :
@@ -36,7 +39,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Le code du jeu était perdu, ils ont dû tout rétro-ingéniérer
 ## Liens et Ressources
 
 | Description      | URL                          |

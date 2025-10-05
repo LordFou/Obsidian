@@ -2,14 +2,14 @@
 type: game
 ---
 
-# Franchise Devil May Cry
+# Franchise Deus Ex
 
 
 ## Informations générales
 - Créateur(s) : {{Nom du ou des créateurs}}
 - Développeur(s) : {{Studio(s) de développement}}
 - Éditeur(s) : {{Nom de l’éditeur}}
-- Première apparition : {{Nom du premier jeu (année)}}
+- Première apparition : 2005
 - Genre principal : {{Stratégie, Action-Aventure, FPS...}}
 
 ## Résumé et historique
@@ -22,11 +22,9 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre | Année             | Plateformes | Remarque |
-| ----- | ----------------- | ----------- | -------- |
-|       | [[Devil May Cry]] |             |          |
-|       |                   |             |          |
-
+| Titre | Année | Plateformes | Remarque |
+| ----- | ----- | ----------- | -------- |
+|       |       |             |          |
 
 
 ## Mécaniques et innovations

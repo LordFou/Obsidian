@@ -12,7 +12,7 @@ type: game
 	- Personnalités : [[Jonathan Jacques-Belletête]]
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise Deus Ex]]
 - **Genre** :
 - **Résumé** : 
 

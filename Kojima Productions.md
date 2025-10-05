@@ -8,11 +8,11 @@ type: societe
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
 
 ## Informations Générales
-- **Nom complet** :  
-- **Date de création** :  
-- **Fondateurs** :  
+- **Nom complet** :  [[Kojima Productions]]
+- **Date de création** :  2015
+- **Fondateurs** :  [[Hideo Kojima]]
 - **Personnalités** :
-- **Pays d’origine** :  
+- **Pays d’origine** :  Japon
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 

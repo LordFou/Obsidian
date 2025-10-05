@@ -2,17 +2,17 @@
 type: game
 ---
 
-# Zelda II - Adventure of Link
+# Pragmata
 
 ## Informations Générales
 
-- **Année de sortie** : 1987
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Capcom]] (?)
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Zelda]] 
+- **Franchise** : 
 - **Genre** :
 - **Résumé** : 
 

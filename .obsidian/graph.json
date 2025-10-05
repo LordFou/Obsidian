@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "path:-journal",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -13,13 +13,13 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 8.22916666666667,
-  "linkStrength": 0.244791666666667,
-  "linkDistance": 74,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
   "scale": 0.7132754626224441,
   "close": true,
   "localBacklinks": true,
   "localForelinks": true,
-  "localInterlinks": true,
+  "localInterlinks": false,
   "localJumps": 1
 }

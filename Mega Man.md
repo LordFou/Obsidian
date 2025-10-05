@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Zelda II - Adventure of Link
+# Mega Man
 
 ## Informations Générales
 
@@ -12,7 +12,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Zelda]] 
+- **Franchise** : [[Franchise Mega Man]]
 - **Genre** :
 - **Résumé** : 
 

@@ -1,9 +1,12 @@
+---
+type: game
+---
 ![[Pasted image 20250519231251.png]]
 # Monster Hunter Wild
 
 ## Informations Générales
 
-- **Année de sortie** : [[2025]]
+- **Année de sortie** : 2025 (?)
 - **Développeur** : 
 	- Studio : [[Capcom]]
 	- Personnalités : 

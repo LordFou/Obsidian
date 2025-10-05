@@ -1,4 +1,6 @@
-
+---
+type: game
+---
 
 # Silver Ghost
 

@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Franchise Devil May Cry
+# Franchise Forza
 
 
 ## Informations générales
@@ -22,11 +22,9 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre | Année             | Plateformes | Remarque |
-| ----- | ----------------- | ----------- | -------- |
-|       | [[Devil May Cry]] |             |          |
-|       |                   |             |          |
-
+| Titre               | Année | Plateformes | Remarque |
+| ------------------- | ----- | ----------- | -------- |
+| [[Forza Horizon 6]] |       |             | Au Japon |
 
 
 ## Mécaniques et innovations

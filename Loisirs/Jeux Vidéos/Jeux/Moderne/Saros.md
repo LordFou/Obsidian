@@ -2,17 +2,17 @@
 type: game
 ---
 
-# Zelda II - Adventure of Link
+# Saros
 
 ## Informations Générales
 
-- **Année de sortie** : 1987
+- **Année de sortie** : 2026 (?)
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Zelda]] 
+- **Franchise** : 
 - **Genre** :
 - **Résumé** : 
 
@@ -32,7 +32,8 @@ type: game
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
-- **Comparable à** :
+- **Comparable à** : 
+	- Returnal
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources

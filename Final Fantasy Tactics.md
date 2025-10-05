@@ -2,25 +2,26 @@
 type: game
 ---
 
-# Zelda II - Adventure of Link
+# Final Fantasy Tactics
 
 ## Informations Générales
 
-- **Année de sortie** : 1987
+- **Année de sortie** : 1997
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Square Enix]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
-- **Franchise** : [[Franchise Zelda]] 
-- **Genre** :
+- **Plateformes** : [[Playstation]]
+- **Franchise** : [[Franchise Final Fantasy]]
+- **Genre** : [[Tactical RPG]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 3D
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Le mode 3D l'a un peu desservi
 - **Gameplay** :
 - **Durée estimée** : 
 

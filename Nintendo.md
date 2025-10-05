@@ -18,9 +18,9 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
-content:
+date: 31 Décembre 2025
+title: Changement à la tête de Nintendo America
+content: Dog Bowser (?) part à la retraite et est remplacé par Devon Pritchard (?). Il a passé 10 ans à la tête de la société. Son bilan est plutôt positif (La [[Switch]] et la [[Switch 2]])
 ```
 
 ## Jeux Développés

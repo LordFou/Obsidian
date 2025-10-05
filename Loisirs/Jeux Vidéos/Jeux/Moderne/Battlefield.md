@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Franchise Devil May Cry
+# Battlefield
 
 
 ## Informations générales
@@ -22,11 +22,9 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre | Année             | Plateformes | Remarque |
-| ----- | ----------------- | ----------- | -------- |
-|       | [[Devil May Cry]] |             |          |
-|       |                   |             |          |
-
+| Titre         | Année | Plateformes | Remarque |
+| ------------- | ----- | ----------- | -------- |
+| Battlefield 6 |       |             |          |
 
 
 ## Mécaniques et innovations

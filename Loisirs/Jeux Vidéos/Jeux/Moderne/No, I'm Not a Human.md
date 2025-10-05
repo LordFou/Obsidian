@@ -2,23 +2,23 @@
 type: game
 ---
 
-# Duck Tales
+# No, I'm Not a Human
 
 ## Informations Générales
 
-- **Année de sortie** : 1989
+- **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Critical Reflex]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : PC
 - **Franchise** : 
-- **Genre** :
-- **Résumé** : 
+- **Genre** : [[Survival Horror]]
+- **Résumé** : Vous êtes reclus dans votre maison car l'humanité est envahie par des [[Extraterrestres]] qui prennent la forme humaine. Vous ne pouvez pas vous en sortir seul et donc vous devez tous les jours accepter de laisser entrer des gens dans votre maison. Laisserez vous entrer les bonnes personnes.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : ?
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
@@ -29,8 +29,13 @@ type: game
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
+	- Les [[Extraterrestres]]
 - **Thèmes abordés** : 
-- **Influencé par** :
+	- La [[Fin du monde]]
+	- Les [[Extraterrestres]]
+- **Influencé par** : 
+	- [[Paper Please]]
+	- [[Resident Evil 4]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

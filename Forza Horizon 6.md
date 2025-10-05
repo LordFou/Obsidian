@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Zelda II - Adventure of Link
+# Forza Horizon 6
 
 ## Informations Générales
 
-- **Année de sortie** : 1987
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Playground Games]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Zelda]] 
-- **Genre** :
+- **Franchise** : 
+- **Genre** : [[Course]]
 - **Résumé** : 
 
 ## Détails Techniques
