@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATP - Challenger d’Orléans.md",
+                "file": "Journal de bord/2025-10-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ATP - Challenger d’Orléans"
+              "title": "2025-10-05"
             },
             "group": "95eb779842dc353e"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ATP - Challenger d’Orléans.md",
+                "file": "Journal de bord/2025-10-05.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de ATP - Challenger d’Orléans"
+              "title": "Graphique de 2025-10-05"
             },
             "group": "95eb779842dc353e"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Tim Merlier",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,8 +177,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,11 +251,11 @@
   },
   "active": "adb41a5f4e79dc12",
   "lastOpenFiles": [
-    "Martin Landaluce.md",
-    "ATP - Challenger d’Orléans.md",
-    "Tim Merlier.md",
-    "Journal de bord/2025-10-05.md",
     "Championnat d'Europe de Cyclisme.md",
+    "Tim Merlier.md",
+    "ATP - Challenger d’Orléans.md",
+    "Martin Landaluce.md",
+    "Journal de bord/2025-10-05.md",
     "Critérium du Dauphiné.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Championnat du Monde de Cyclisme.md",
