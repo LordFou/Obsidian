@@ -5,7 +5,7 @@ type: personne
 # Alexander Kristoff
 
 # Informations Générales
-- **Date de naissance** :  19
+- **Date de naissance** :  1986
 - **Nationalité** :  Norvégien
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
@@ -15,6 +15,9 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition               | Résultat | Remarque |
 | ----- | ------------------------- | -------- | -------- |
+| 2014  | [[Milan San Remo]]        | 1ier     |          |
+| 2015  | [[Tour des Flandres]]     | 1ier     |          |
+| 2019  | [[Gand Wevelgem]]         | 1ier     |          |
 | 2025  | [[ArcticRace]] - 2e étape | 1ier     | Sprint   |
 
 # Style et Caractéristiques

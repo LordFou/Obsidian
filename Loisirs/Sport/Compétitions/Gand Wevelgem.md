@@ -10,11 +10,12 @@ Une [[course cycliste Belge]] qui parcourt les territoires de la mémoire de la 
 
 ## Hommes
 
-| Année | Vainqueur         | Nationalité | Remarque                                                                   |
-| ----- | ----------------- | ----------- | -------------------------------------------------------------------------- |
-| 2024  | [[Mads Pedersen]] | Danois      |                                                                            |
-| 2025  | [[Mads Pedersen]] | Danois      | Attaque seul dans la seconde ascension du mont Kemel à 56 km de l'arrivée. |
-|       |                   |             |                                                                            |
+| Année | Vainqueur              | Nationalité | Remarque                                                                   |
+| ----- | ---------------------- | ----------- | -------------------------------------------------------------------------- |
+| 2019  | [[Alexander Kristoff]] | Norvégien   |                                                                            |
+| 2024  | [[Mads Pedersen]]      | Danois      |                                                                            |
+| 2025  | [[Mads Pedersen]]      | Danois      | Attaque seul dans la seconde ascension du mont Kemel à 56 km de l'arrivée. |
+|       |                        |             |                                                                            |
 
 ## Femmes
 
