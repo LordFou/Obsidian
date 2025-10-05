@@ -11,7 +11,6 @@ type: game
 - Éditeur(s) : {{Nom de l’éditeur}}
 - Première apparition : {{Nom du premier jeu (année)}}
 - Genre principal : {{Stratégie, Action-Aventure, FPS...}}
-- Héros : Mega Man aussi appelé "Blue Bomber"
 
 ## Résumé et historique
 {{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
@@ -25,7 +24,6 @@ content:
 ## Jeux principaux
 | Titre          | Année | Plateformes | Remarque |
 | -------------- | ----- | ----------- | -------- |
-| [[Mega Man]]   | 1987  |             |          |
 | [[Mega Man 9]] |       |             |          |
 
 

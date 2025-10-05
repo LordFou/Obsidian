@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a5425eaa2702935f",
+        "id": "b6c26843e17ff6af",
         "type": "tabs",
         "children": [
           {
-            "id": "adb41a5f4e79dc12",
+            "id": "59284fc8fd978289",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,17 +19,16 @@
               },
               "icon": "lucide-file",
               "title": "2025-10-05"
-            },
-            "group": "95eb779842dc353e"
+            }
           }
         ]
       },
       {
-        "id": "7054bdacc1875bdd",
+        "id": "33dafa2c1b622cc0",
         "type": "tabs",
         "children": [
           {
-            "id": "02e218e0fa8bd8d0",
+            "id": "334b2cd61dd0d548",
             "type": "leaf",
             "state": {
               "type": "localgraph",
@@ -57,14 +56,13 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.0000000000000002,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
               "title": "Graphique de 2025-10-05"
-            },
-            "group": "95eb779842dc353e"
+            }
           }
         ]
       }
@@ -85,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tim Merlier",
+                "query": "cro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -181,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 294.5
   },
   "right": {
     "id": "2a4328d55d7357ae",
@@ -231,7 +229,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,41 +248,41 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "adb41a5f4e79dc12",
+  "active": "59284fc8fd978289",
   "lastOpenFiles": [
+    "Paul Magnier.md",
+    "Loisirs/Sport/Compétitions/Cro Race.md",
     "Championnat d'Europe de Cyclisme.md",
-    "Tim Merlier.md",
-    "ATP - Challenger d’Orléans.md",
-    "Martin Landaluce.md",
-    "Journal de bord/2025-10-05.md",
-    "Critérium du Dauphiné.md",
+    "Marlen Reusser.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
-    "Championnat du Monde de Cyclisme.md",
-    "Loisirs/Sport/Tadej Pogacar.md",
-    "Grand Prix de Singapour.md",
-    "Georges Russell.md",
-    "conflict-files-obsidian-git.md",
-    "pioche.md",
-    "The Sims.md",
-    "Playground Games.md",
-    "Paper Please.md",
-    "Mega Man.md",
-    "Mario Kart World.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Saros.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Pragmata.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/No, I'm Not a Human.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Franchise Forza.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Disco Elysium.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Battlefield.md",
-    "Loisirs/Jeux Vidéos/Jeux/Franchise/Franchise Yakuza.md",
-    "Level 5.md",
+    "Journal de bord/2025-10-01.md",
+    "Matisse Van Kerckhove.md",
     "Attachments/image-158.webp",
+    "Jonathan Vervenne.md",
     "Attachments/image-157.webp",
+    "Luca Vierstraete.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
+    "Zizou Bergs.md",
+    "David Goffin.md",
+    "Loisirs/Sport/Compétitions/ATP - Tournoi de Shangaï.md",
+    "Léa Bayekula.md",
     "Attachments/image-156.webp",
+    "Carlos Alcaraz.md",
+    "Loisirs/Sport/ATP - Tournoi de Tokyo.md",
+    "Justine Ghekiere.md",
+    "Yacht Club Games.md",
+    "Loisirs/Jeux Vidéos/Sociétés/Sans titre.md",
+    "Electronic Arts.md",
     "Attachments/image-155.webp",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/HeavyWeight Champ.md",
     "Attachments/image-154.webp",
     "Attachments/image-153.webp",
     "Attachments/image-152.webp",
+    "Mega Man 9.md",
+    "Franchise Mega Man.md",
+    "Duck Tales.md",
+    "Super Mario Bros 3.md",
+    "Franchise Mario.md",
     "Attachments/image-151.webp",
     "Attachments/image-150.webp",
     "Attachments/image-149.webp",

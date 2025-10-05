@@ -26,8 +26,8 @@ content:
 ## Jeux Développés
 | Année | Titre                    | Genre               | Plateformes |
 | ----- | ------------------------ | ------------------- | ----------- |
-|       | [[FAR - Lone Sails]]     | Exploration         |             |
 |       | [[FAR - Changing Tides]] | Exploration         |             |
+|       | [[FAR - Lone Sails]]     | Exploration         |             |
 | 2025  | [[Herdling]]             | Balade, Exploration | PC          |
 
 ## Moteur(s) Utilisé(s)

@@ -12,7 +12,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Devil May Cry]]
+- **Franchise** : 
 - **Genre** :
 - **Résumé** : 
 

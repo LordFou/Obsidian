@@ -1,17 +1,16 @@
----
-type: game
----
+
+
 # Onimusha 2 - Samurai’s Destiny
 
 ## Informations Générales
 
-- **Année de sortie** : 2025 (?)
+- **Année de sortie** : [[2025]]
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : All
-- **Franchise** : [[Franchise Onimusha]]
+- **Franchise** : 
 - **Genre** : [[Action]]
 - **Résumé** : 
 
