@@ -6,13 +6,37 @@
       {
         "id": "33dafa2c1b622cc0",
         "type": "tabs",
+        "dimension": 65.2200488997555,
         "children": [
           {
-            "id": "334b2cd61dd0d548",
+            "id": "d3bf4b5b8871fb6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Peter Genyn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Peter Genyn"
+            },
+            "group": "90e255c81987819e"
+          }
+        ]
+      },
+      {
+        "id": "ffee90538fd38b23",
+        "type": "tabs",
+        "dimension": 34.7799511002445,
+        "children": [
+          {
+            "id": "e1b8f0192933a430",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Peter Genyn.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -35,13 +59,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000002,
+                  "scale": 0.713275462622442,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vue graphique"
-            }
+              "title": "Graphique de Peter Genyn"
+            },
+            "group": "90e255c81987819e"
           }
         ]
       }
@@ -62,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tim Merli",
+                "query": "Singap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,11 +179,12 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 239.5
   },
   "right": {
     "id": "2a4328d55d7357ae",
@@ -227,17 +253,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "334b2cd61dd0d548",
+  "active": "d3bf4b5b8871fb6c",
   "lastOpenFiles": [
+    "Journal de bord/2025-10-05.md",
+    "Peter Genyn.md",
+    "Grand Prix de Singapour.md",
+    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
+    "Paul Seixas.md",
+    "Championnat du Monde de Cyclisme.md",
+    "Championnat d'Europe de Cyclisme.md",
+    "Loisirs/Sport/Tadej Pogacar.md",
     "Loisirs/Sport/Arnaud de Lie.md",
     "Loisirs/Sport/Antwerp Port Epic.md",
     "Tim Merlier.md",
-    "Journal de bord/2025-10-05.md",
     "Paul Magnier.md",
     "Loisirs/Sport/Compétitions/Cro Race.md",
-    "Championnat d'Europe de Cyclisme.md",
     "Marlen Reusser.md",
-    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Journal de bord/2025-10-01.md",
     "Matisse Van Kerckhove.md",
     "Attachments/image-158.webp",
@@ -253,15 +284,10 @@
     "Carlos Alcaraz.md",
     "Loisirs/Sport/ATP - Tournoi de Tokyo.md",
     "Justine Ghekiere.md",
-    "Yacht Club Games.md",
-    "Loisirs/Jeux Vidéos/Sociétés/Sans titre.md",
-    "Electronic Arts.md",
     "Attachments/image-155.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/HeavyWeight Champ.md",
     "Attachments/image-154.webp",
     "Attachments/image-153.webp",
     "Attachments/image-152.webp",
-    "Mega Man 9.md",
     "Attachments/image-151.webp",
     "Attachments/image-150.webp",
     "Attachments/image-149.webp",

@@ -8,11 +8,12 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur           | Epreuve | Nationalité | Remarque |
-| ----- | ------------------- | ------- | ----------- | -------- |
-| 2024  | [[Tim Merlier]]     | Course  | Belge       |          |
-| 2019  | [[Remco Evenepoel]] | CLM     | Belge       |          |
-| 2025  | [[Remco Evenepoel]] | CLM     | Belge       |          |
+| Année | Vainqueur                                      | Epreuve | Nationalité | Remarque |
+| ----- | ---------------------------------------------- | ------- | ----------- | -------- |
+| 2024  | [[Tim Merlier]]                                | Course  | Belge       |          |
+| 2025  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Course  | Slovène     |          |
+| 2019  | [[Remco Evenepoel]]                            | CLM     | Belge       |          |
+| 2025  | [[Remco Evenepoel]]                            | CLM     | Belge       |          |
 # Femmes
 
 | Année | Vainqueur          | Epreuve | Nationalité | Remarque |

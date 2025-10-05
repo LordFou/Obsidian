@@ -13,11 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                             | Résultat | Remarque |
-| ----- | --------------------------------------- | -------- | -------- |
-| 2025  | [[Tour de l'Avenir]] - 7e étape         | 1ier     | CLM      |
-| 2025  | [[Tour de l'Avenir]] - Classement final | 1ier     |          |
-|       |                                         |          |          |
+| Année | Compétition                                                 | Résultat | Remarque |
+| ----- | ----------------------------------------------------------- | -------- | -------- |
+| 2025  | [[Tour de l'Avenir]] - 7e étape                             | 1ier     | CLM      |
+| 2025  | [[Tour de l'Avenir]] - Classement final                     | 1ier     |          |
+| 2025  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - Route | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

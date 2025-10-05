@@ -53,7 +53,8 @@ type: personne
 | 2025  | [[Tour de Grande Bretagne]] - 5e étape                                           | 1ier 🏆  |                                                                           |
 | 2025  | [[Championnat du Monde de Cyclisme\|Championnat du Monde]] - CLM                 | 1ier 🏆  | ==Triplé consécutif !==                                                   |
 | 2025  | [[Championnat du Monde de Cyclisme\|Championnat du Monde]] - Route               | 2e       |                                                                           |
-| 2025  | [[Championnat d'Europe de Cyclisme]] - CLM                                       | 1ier     | ==Il a les 4 titres en même tps !!== (belgique, europe, monde, olympique) |
+| 2025  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - CLM                        | 1ier     | ==Il a les 4 titres en même tps !!== (belgique, europe, monde, olympique) |
+| 2025  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - Route                      | 2e       |                                                                           |
 ## Historique
 ```timeline-labeled
 [line-5, body-2]
