@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Motocross des Nations.md",
+                "file": "Loisirs/Sport/Sportifs/Nafi Thiam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Motocross des Nations"
+              "title": "Nafi Thiam"
             },
             "group": "90e255c81987819e"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Motocross des Nations.md",
+                "file": "Loisirs/Sport/Sportifs/Nafi Thiam.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Motocross des Nations"
+              "title": "Graphique de Nafi Thiam"
             },
             "group": "90e255c81987819e"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tim Mer",
+                "query": "Nafi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,8 +255,9 @@
   },
   "active": "acbfcced6e5eac9a",
   "lastOpenFiles": [
-    "Journal de bord/2025-10-05.md",
+    "Léa Bayekula.md",
     "Motocross des Nations.md",
+    "Journal de bord/2025-10-05.md",
     "Tim Merlier.md",
     "Tour de Münster.md",
     "Jasper Philipsen.md",
@@ -281,7 +282,6 @@
     "Peter Genyn.md",
     "Attachments/image-159.webp",
     "Roger Habsch.md",
-    "Championnats du monde d'athlétisme.md",
     "Attachments/image-158.webp",
     "Attachments/image-157.webp",
     "Attachments/image-156.webp",

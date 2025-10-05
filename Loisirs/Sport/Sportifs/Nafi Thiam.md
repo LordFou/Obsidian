@@ -13,9 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition                                                       | Résultat | Remarque                 |
+| ----- | ----------------------------------------------------------------- | -------- | ------------------------ |
+| 2016  | [[JO 2016]] - Heptathlon                                          | 1iere    |                          |
+| 2020  | [[JO 2020]] - Heptathlon                                          | 1iere    |                          |
+| 2024  | [[JO 2024]] - Heptathlon                                          | 1iere    | ==Triplé !==             |
+| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - Heptathlon | Abandon  | cfr la controverse + bas |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -24,6 +27,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
+- Après le [[Championnats du monde d'athlétisme]], Nafi Thiam qui a abandonné, se défend et attaque la Fédération. Des têtes doivent tomber => [RTBF Sport](https://www.rtbf.be/article/nafissatou-thiam-sort-du-silence-des-personnes-ont-tout-fait-pour-empecher-ma-participation-aux-mondiaux-11610673)
 - 5 jours avant les [[Championnats du monde d'athlétisme]] 2025 à Tokyo, elle est punie de ne pas avoir accepté le code de conduite de la fédération par un non-accès au precamp des athlètes ainsi que d'autres détails qui vont impacter son championnat. En réalité, le code de conduite comprend des détails sur les contrats publicitaires qu'elle ne valide pas (à creuser). Elle participera mais abandonnera après 5 épreuves
 	- Version [[Nafi Thiam]] => [RTBF Sport](https://www.rtbf.be/article/nafi-thiam-sanctionnee-par-la-federation-n-a-pas-ete-admise-au-dernier-camp-d-entrainement-desolant-et-injuste-11601742)
 	- Version Fédération => [RTBF Sport](https://www.rtbf.be/article/nafi-thiam-recoit-des-soins-a-meme-le-trottoir-aux-mondiaux-d-athletisme-une-photo-qui-prolonge-le-bras-de-fer-11602009)

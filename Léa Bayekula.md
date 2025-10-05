@@ -15,8 +15,9 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                       | Résultat | Remarque |
 | ----- | ----------------------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 800m (T54) | 1iere    |          |
+| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 100m (T54) | 5e       |          |
 | 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 400m (T54) | 1iere    |          |
+| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 800m (T54) | 1iere    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
