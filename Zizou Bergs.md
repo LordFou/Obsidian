@@ -7,7 +7,7 @@ type: personne
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** : Tennis 
+- **Sport / Discipline** : [[Tennis]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
@@ -20,7 +20,7 @@ type: personne
 | 2025  | [[US Open]]                  | 3e tour               |                                   |
 | 2025  | [[Coupe Davis]] - 2e tour    | Victoire de son match |                                   |
 | 2025  | [[ATP - Tournoi de Tokyo]]   | 2e tour               | Défaite contre [[Carlos Alcaraz]] |
-| 2025  | [[ATP - Tournoi de Shangaï]] | 2e tour               |                                   |
+| 2025  | [[ATP - Tournoi de Shangaï]] | 1/8e finale           | Meilleur résultat en ATP          |
 | 2025  |                              |                       |                                   |
 
 # Style et Caractéristiques

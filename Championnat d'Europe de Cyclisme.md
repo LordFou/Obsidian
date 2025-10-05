@@ -16,7 +16,7 @@ type: event
 | 2025  | [[Remco Evenepoel]]                            | CLM     | Belge       |          |
 # Femmes
 
-| Année | Vainqueur          | Epreuve | Nationalité | Remarque |
-| ----- | ------------------ | ------- | ----------- | -------- |
-| 2025  | [[Marlen Reusser]] | CLM     | Suisse      |          |
-|       |                    |         |             |          |
+| Année | Vainqueur          | Epreuve | Nationalité  | Remarque |
+| ----- | ------------------ | ------- | ------------ | -------- |
+| 2025  | [[Marlen Reusser]] | CLM     | Suisse       |          |
+| 2025  | [[Demi Vollering]] | Route   | Néerlandaise |          |

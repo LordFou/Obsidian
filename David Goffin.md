@@ -16,7 +16,7 @@ type: personne
 | Année | Compétition                  | Résultat | Remarque |
 | ----- | ---------------------------- | -------- | -------- |
 | 2025  | [[US Open]]                  | 2e tour  |          |
-| 2025  | [[ATP - Tournoi de Shangaï]] | 2e tour  |          |
+| 2025  | [[ATP - Tournoi de Shangaï]] | 3e tour  |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

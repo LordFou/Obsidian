@@ -13,11 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                           | Résultat | Remarque   |
-| ----- | ------------------------------------- | -------- | ---------- |
-| 2025  | [[Tour de Suisse]] - 1e étape         | 2e       | Sprint à 2 |
-| 2025  | [[Tour de France]] - 5e étape         | 2e       | Sprint à 6 |
-| 2025  | [[Tour de France]] - Classement final | 2e       |            |
+| Année | Compétition                                                 | Résultat | Remarque   |
+| ----- | ----------------------------------------------------------- | -------- | ---------- |
+| 2025  | [[Tour de Suisse]] - 1e étape                               | 2e       | Sprint à 2 |
+| 2025  | [[Tour de France]] - 5e étape                               | 2e       | Sprint à 6 |
+| 2025  | [[Tour de France]] - Classement final                       | 2e       |            |
+| 2025  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - Route | 1ière    |            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
