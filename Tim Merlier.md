@@ -28,7 +28,7 @@ type: personne
 | 2025  | [[Tour de Belgique]] - 1e étape                            | 1ier     | Sprint en montée |                                              |
 | 2025  | [[Tour de Belgique]] - 5e étape                            | 1ier     | Sprint massif    |                                              |
 | 2025  | [[Tour de France]] - 3e étape                              | 1ier     | Sprint massif    | Devant [[Jonathan Milan]]                    |
-| 2025  | [[Tour de France]] - 9e étape                              | 1ier     | Sprint massif    | Devant [[Jonathan Milan]], [[Arnaud de Lie]] |
+| 2025  | [[Tour de France]] - 9e étape                              | 1ier     | Sprint massif    | Devant [[Jonathan Milan]], [[Arnaud De Lie]] |
 | 2025  | [[Critérium d'Alost]]                                      | 2e       |                  |                                              |
 | 2025  | [[Renewi Tour]] - 1e étape                                 | 1e       |                  |                                              |
 | 2025  | [[Renewi Tour]] - 4e étape                                 | 1e       |                  |                                              |
@@ -43,7 +43,8 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - Lors du [[Tour de France]] 2025, il gagne la 3e étape et établit la 500e victoire belge sur la petite reine.
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Chute lors du [[Tour de Münster]] en octobre 2025
+- 
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Circuit Franco-Belge
+# Tour de Münster
 
 # Introduction
 
@@ -10,9 +10,9 @@ type: event
 
 | Année | Vainqueur            | Nationalité | Remarque |
 | ----- | -------------------- | ----------- | -------- |
-| 2023  | [[Arnaud De Lie]]    | Belge       |          |
-| 2024  | [[Binam Girmay]]     | Erythréen   |          |
-| 2025  | [[Jonas Abrahamsen]] | Danois      |          |
+| 2024  | [[Jasper Philipsen]] | Belge       |          |
+| 2025  | [[Jasper Philipsen]] | Belge       |          |
+|       |                      |             |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

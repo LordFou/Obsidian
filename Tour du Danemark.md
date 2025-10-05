@@ -34,7 +34,7 @@ type: event
 | ----- | ----------------- | ----------- | -------- |
 | ?     | [[Mads Pedersen]] | Danois      |          |
 | ?     | [[Mads Pedersen]] | Danois      |          |
-| 2024  | [[Arnaud de Lie]] | Belge       |          |
+| 2024  | [[Arnaud De Lie]] | Belge       |          |
 | 2025  | [[Mads Pedersen]] | Danois      |          |
 ### Femmes
 
