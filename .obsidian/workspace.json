@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-10-05.md",
+                "file": "ATP - Challenger d’Orléans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-05"
+              "title": "ATP - Challenger d’Orléans"
             },
             "group": "95eb779842dc353e"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2025-10-05.md",
+                "file": "ATP - Challenger d’Orléans.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-10-05"
+              "title": "Graphique de ATP - Challenger d’Orléans"
             },
             "group": "95eb779842dc353e"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tim Merlier",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,7 +177,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,13 +252,15 @@
   },
   "active": "adb41a5f4e79dc12",
   "lastOpenFiles": [
+    "Martin Landaluce.md",
+    "ATP - Challenger d’Orléans.md",
     "Tim Merlier.md",
+    "Journal de bord/2025-10-05.md",
     "Championnat d'Europe de Cyclisme.md",
     "Critérium du Dauphiné.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Championnat du Monde de Cyclisme.md",
     "Loisirs/Sport/Tadej Pogacar.md",
-    "Journal de bord/2025-10-05.md",
     "Grand Prix de Singapour.md",
     "Georges Russell.md",
     "conflict-files-obsidian-git.md",
@@ -275,8 +278,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Battlefield.md",
     "Loisirs/Jeux Vidéos/Jeux/Franchise/Franchise Yakuza.md",
     "Level 5.md",
-    "La transhumance.md",
-    "Journal de bord/2025-10-03.md",
     "Attachments/image-158.webp",
     "Attachments/image-157.webp",
     "Attachments/image-156.webp",
