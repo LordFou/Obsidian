@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Léa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -229,8 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,7 +247,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "59284fc8fd978289",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
     "Léa Bayekula.md",
     "Journal de bord/2025-10-05.md",
