@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elise Mertens.md",
+                "file": "Binche-Chimay-Binche.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elise Mertens"
+              "title": "Binche-Chimay-Binche"
             },
             "group": "90e255c81987819e"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Elise Mertens.md",
+                "file": "Binche-Chimay-Binche.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Elise Mertens"
+              "title": "Graphique de Binche-Chimay-Binche"
             },
             "group": "90e255c81987819e"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Cro Tour",
+                "query": "Vendée Globe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -180,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -256,6 +256,12 @@
   "active": "d3bf4b5b8871fb6c",
   "lastOpenFiles": [
     "Journal de bord/2025-10-09.md",
+    "Binche-Chimay-Binche.md",
+    "Loisirs/Sport/Tadej Pogacar.md",
+    "Loisirs/Sport/Compétitions/Trois Vallées Varésines.md",
+    "Charlie Dalin.md",
+    "Loisirs/Sport/Compétitions/Vendée Globe.md",
+    "Elise Mertens.md",
     "Tournoi de Wuhan.md",
     "Journal de bord/2025-10-06.md",
     "Oded Kogut.md",
@@ -275,12 +281,6 @@
     "Championnat d'Europe de Cyclisme.md",
     "Jarno Widar.md",
     "Jonathan Vervenne.md",
-    "Loisirs/Sport/Alexander Kristoff.md",
-    "Loisirs/Sport/Compétitions/Milan San Remo.md",
-    "Loisirs/Sport/Compétitions/Tour des Flandres.md",
-    "Loisirs/Sport/Compétitions/Gand Wevelgem.md",
-    "Loisirs/Sport/Tadej Pogacar.md",
-    "Loisirs/Sport/Compétitions/Tour d’Emilie.md",
     "Attachments/image-159.webp",
     "Attachments/image-158.webp",
     "Attachments/image-157.webp",

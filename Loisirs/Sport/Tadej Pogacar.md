@@ -15,6 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                | Résultat | Remarque                                                                           |
 | ----- | ---------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------- |
+| ?     | [[Trois Vallées Varésines]]                                | 1ier 🥇  |                                                                                    |
 | 2024  | [[Championnat du Monde de Cyclisme\|Championnat du monde]] | 1ier 🥇  |                                                                                    |
 | 2024  | [[Tour d’Emilie]]                                          | 1ier 🥇  |                                                                                    |
 | 2025  | [[Flèche Wallonne]]                                        | 1ier 🥇  | Personne pour le battre                                                            |
@@ -28,6 +29,7 @@ type: personne
 | 2025  | [[Tour de France]] - 7e étape                              | 1ier 🥇  | Maillot Jaune<br>Maillot Vert<br>60e Victoire pour UAE                             |
 | 2025  | [[Championnat du Monde de Cyclisme\|Championnat du monde]] | 1ier 🥇  |                                                                                    |
 | 2025  | [[Championnat d'Europe de Cyclisme]]                       | 1ier 🥇  |                                                                                    |
+| 2025  | [[Trois Vallées Varésines]]                                | 1ier 🥇  |                                                                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

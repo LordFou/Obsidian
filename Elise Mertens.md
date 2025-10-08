@@ -24,7 +24,7 @@ type: personne
 | 2025  | [[Tournoi de Wimbledon]] - Double | Vainqueur    | 5e titre de grand chelem en double<br>avec [[Veronika Kudermetova]] |
 | 2025  | [[US Open]] - Simple              | 3e tour      |                                                                     |
 | 2025  | [[US Open]] - Double              | Demi-finale  | avec [[Veronika Kudermetova]]                                       |
-| 2025  |                                   |              |                                                                     |
+| 2025  | [[Tournoi de Wuhan]] - Simple     | 2e tour      | Blessée au dos                                                      |
 
 # Style et Caractéristiques
 - C'est une joueuse très équilibrée et régulière qui intègre en juin 2025 le club très fermé des joueuses qui ont gagné un tournoi sur les 3 types de surface.
@@ -35,6 +35,7 @@ type: personne
 - Lors du [[Tournoi de Rosmalen]] en 2025, elle sauve 11 balles de match en demi-finale.
 - 4 finales en double à [[Tournoi de Wimbledon|Wimbledon]]
 - 5 titres de grand chelem en double
+- WTA - 21e
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
