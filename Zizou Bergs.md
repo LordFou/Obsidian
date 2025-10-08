@@ -14,14 +14,14 @@ type: personne
 - **Meilleur classement ATP** : 45e
 
 # Palmarès et Distinctions
-| Année | Compétition                  | Résultat              | Remarque                          |
-| ----- | ---------------------------- | --------------------- | --------------------------------- |
-| 2025  | [[Tournoi de Rosmalen]]      | Finaliste             |                                   |
-| 2025  | [[US Open]]                  | 3e tour               |                                   |
-| 2025  | [[Coupe Davis]] - 2e tour    | Victoire de son match |                                   |
-| 2025  | [[ATP - Tournoi de Tokyo]]   | 2e tour               | Défaite contre [[Carlos Alcaraz]] |
-| 2025  | [[ATP - Tournoi de Shangaï]] | 1/8e finale           | Meilleur résultat en ATP          |
-| 2025  |                              |                       |                                   |
+| Année | Compétition                  | Résultat              | Remarque                                                     |
+| ----- | ---------------------------- | --------------------- | ------------------------------------------------------------ |
+| 2025  | [[Tournoi de Rosmalen]]      | Finaliste             |                                                              |
+| 2025  | [[US Open]]                  | 3e tour               |                                                              |
+| 2025  | [[Coupe Davis]] - 2e tour    | Victoire de son match |                                                              |
+| 2025  | [[ATP - Tournoi de Tokyo]]   | 2e tour               | Défaite contre [[Carlos Alcaraz]]                            |
+| 2025  | [[ATP - Tournoi de Shangaï]] | 1/4e finale           | Meilleur résultat en ATP<br>Défaite contre [[Novac Jokovic]] |
+| 2025  |                              |                       |                                                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
