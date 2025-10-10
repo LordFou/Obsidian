@@ -1,14 +1,14 @@
 ---
 type: personne
 ---
-
+![[image-163.webp]]
 # Kevin Vauquelin
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
-- **Poste / Spécialité** (si applicable) :  
+- **Nationalité** :  Française
+- **Sport / Discipline** :  [[Cyclisme]]
+- **Poste / Spécialité** (si applicable) :  [[Grimpeur]]
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
@@ -19,6 +19,12 @@ type: personne
 | 2025  | [[Tour de Suisse]] - Classement Final | 2e       |               |
 | 2025  | [[Tour de Suisse]] - Classement Jeune | 1ier     |               |
 | 2025  | [[Tour de France]] - 2e étape         | 4e       | Maillot Blanc |
+```timeline-labeled
+[line-5, body-2]
+date: Octobre 2025  
+title: Révélation française du dernier [[Tour de France]], Kevin Vauquelin s’engage avec [[Ineos]]
+content:
+```
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
