@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gran Piemonte.md",
+                "file": "Journal de bord/2025-10-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gran Piemonte"
+              "title": "2025-10-10"
             },
             "group": "90e255c81987819e"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Gran Piemonte.md",
+                "file": "Journal de bord/2025-10-10.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Gran Piemonte"
+              "title": "Graphique de 2025-10-10"
             },
             "group": "90e255c81987819e"
           }
@@ -254,8 +254,9 @@
   },
   "active": "d3bf4b5b8871fb6c",
   "lastOpenFiles": [
-    "Isaac Del Toro.md",
     "Gran Piemonte.md",
+    "Journal de bord/2025-10-10.md",
+    "Isaac Del Toro.md",
     "Zizou Bergs.md",
     "Journal de bord/2025-10-09.md",
     "Loisirs/Sport/Lorena Wiebes.md",
@@ -281,7 +282,6 @@
     "Loisirs/Sport/Sportifs/Adam Yates.md",
     "Simon Yates.md",
     "Loisirs/Sport/Sportifs/Nafi Thiam.md",
-    "Léa Bayekula.md",
     "Attachments/image-159.webp",
     "Attachments/image-158.webp",
     "Attachments/image-157.webp",
