@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "génoc",
+                "query": "Maxime Carabin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -252,8 +252,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d3bf4b5b8871fb6c",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
+    "Derek Gee.md",
+    "Génocide Palestinien.md",
     "Ineos.md",
     "Kevin Vauquelin.md",
     "Attachments/image-163.webp",
@@ -282,8 +284,6 @@
     "Journal de bord/2025-10-06.md",
     "Oded Kogut.md",
     "Loisirs/Sport/Compétitions/Cro Race.md",
-    "Paul Magnier.md",
-    "Coppa Agostini.md",
     "Attachments/image-159.webp",
     "Attachments/image-158.webp",
     "Attachments/image-157.webp",

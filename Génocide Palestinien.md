@@ -16,4 +16,4 @@ Pendant ce temps :
 
 - Le peuple espagnol se fait entendre lors du [[Tour d'Espagne]] et le gouvernement les soutient. L'UCI n'est pas contente et remet en cause les futures courses en Espagne => [RTBF Sport](https://www.rtbf.be/article/vuelta-l-uci-regrette-le-soutien-du-gouvernement-espagnol-aux-manifestants-pro-palestiniens-11601612)
 - [Analyse FC Geopolitics](https://footballclubgeopolitics.com/2025/09/18/apres-la-vuelta-2025-une-exclusion-disrael-des-competitions-sportives-est-elle-possible/)
-- Un coureur comme Derek Gee veut casser son contrat avec l'équipe 
+- Un coureur comme [[Derek Gee]] veut casser son contrat avec l'équipe Israélienne [[Israël Premier Tech]] à cause d'un malaise avec le sponsor et ce qu'il se passe en Palestine => [on lui réclame 30 millions d'euro !](https://www.rtbf.be/article/l-equipe-me-demande-30-millions-d-euros-le-divorce-entre-derek-gee-et-israel-premier-tech-tourne-mal-11614015) Son contrat courait jusqu'en 2028...
