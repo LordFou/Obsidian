@@ -2,29 +2,26 @@
 type: personne
 ---
 
-# Marianne Vos
+# Silvia Persico
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Néerlandaise
+- **Nationalité** :  Italienne
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Visma]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                        | Résultat | Remarque                      |
-| ----- | ---------------------------------- | -------- | ----------------------------- |
-| 2025  | [[Tour de France]] - 1e étape      | 1ier     | Maillot Jaune<br>Maillot Vert |
-| 2025  | [[Tour de France]] - 3e étape      | 2e       | Maillot Jaune                 |
-| 2025  | [[Championnat du monde de Gravel]] | 2e       | derrière [[Lorena Wiebes]]    |
+| Année | Compétition                        | Résultat | Remarque |
+| ----- | ---------------------------------- | -------- | -------- |
+| 2025  | [[Championnat du monde de Gravel]] | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-- Plus de 250 victoires PRO
-- 8 maillots jaune
+Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
