@@ -16,6 +16,10 @@ type: personne
 | Année | Compétition                                                | Résultat | Remarque                                                                           |
 | ----- | ---------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------- |
 | ?     | [[Trois Vallées Varésines]]                                | 1ier 🥇  |                                                                                    |
+| 2021  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                    |
+| 2022  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                    |
+| 2023  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                    |
+| 2024  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                    |
 | 2024  | [[Championnat du Monde de Cyclisme\|Championnat du monde]] | 1ier 🥇  |                                                                                    |
 | 2024  | [[Tour d’Emilie]]                                          | 1ier 🥇  |                                                                                    |
 | 2025  | [[Flèche Wallonne]]                                        | 1ier 🥇  | Personne pour le battre                                                            |
@@ -30,12 +34,14 @@ type: personne
 | 2025  | [[Championnat du Monde de Cyclisme\|Championnat du monde]] | 1ier 🥇  |                                                                                    |
 | 2025  | [[Championnat d'Europe de Cyclisme]]                       | 1ier 🥇  |                                                                                    |
 | 2025  | [[Trois Vallées Varésines]]                                | 1ier 🥇  |                                                                                    |
+| 2025  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
 - 100 victoires à 26 ans !
+- 5 victoires consécutives au [[Tour de Lombardie]] comme [[Fausto Coppi]]
 
 # Controverses ou Événements Importants
 - Il ne peut pas éviter la polémique du dopage (physique et mécanique) vu ses performances.
