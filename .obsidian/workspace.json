@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Adam Yates.md",
+                "file": "Championnat du monde de Gravel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adam Yates"
+              "title": "Championnat du monde de Gravel"
             },
             "group": "90e255c81987819e"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Adam Yates.md",
+                "file": "Championnat du monde de Gravel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Adam Yates"
+              "title": "Graphique de Championnat du monde de Gravel"
             },
             "group": "90e255c81987819e"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Adam ya",
+                "query": "van der poel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -252,10 +252,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d3bf4b5b8871fb6c",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
-    "Trofeo Tessile & Moda.md",
     "Loisirs/Sport/Sportifs/Adam Yates.md",
+    "Trofeo Tessile & Moda.md",
     "Famille/Santé/AVC Papa.md",
     "Famille/Membres/Petrou.md",
     "Famille/Membres/Sandrine Leclercq.md",
