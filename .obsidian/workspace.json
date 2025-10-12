@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Statistiques/Statistiques.md",
+                "file": "Famille/Santé/AVC Papa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statistiques"
+              "title": "AVC Papa"
             },
             "group": "90e255c81987819e"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Statistiques/Statistiques.md",
+                "file": "Famille/Santé/AVC Papa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Statistiques"
+              "title": "Graphique de AVC Papa"
             },
             "group": "90e255c81987819e"
           }
@@ -255,9 +255,15 @@
   },
   "active": "d3bf4b5b8871fb6c",
   "lastOpenFiles": [
+    "Famille/Membres/Petrou.md",
+    "Famille/Santé/AVC Papa.md",
+    "Famille/Membres/Sandrine Leclercq.md",
+    "Famille/Membres/Thibault.md",
+    "Famille/Membres/Tim.md",
+    "Famille/Santé/Migraine.md",
+    "Loisirs/Sport/Statistiques/Statistiques.md",
     "Attachments/image-164.webp",
     "Journal de bord/2025-10-12.md",
-    "Loisirs/Sport/Statistiques/Statistiques.md",
     "Loisirs/Sport/Statistiques",
     "Loisirs/Sport/Sportifs/Silvia Persico.md",
     "Marianne Vos.md",
@@ -279,19 +285,13 @@
     "Gran Piemonte.md",
     "Isaac Del Toro.md",
     "Zizou Bergs.md",
-    "Journal de bord/2025-10-09.md",
     "Attachments/image-161.webp",
-    "Binche-Chimay-Binche.md",
-    "Cat Ferguson.md",
-    "Hanne Maudens.md",
     "Attachments/image-160.webp",
-    "Jordi Meeus.md",
     "Attachments/image-159.webp",
     "Attachments/image-158.webp",
     "Attachments/image-157.webp",
     "Attachments/image-156.webp",
     "Attachments/image-155.webp",
-    "Attachments/image-154.webp",
     "Culture/Politique",
     "Généalogie Matos Atari.canvas",
     "Historique Jeu Vidéo.canvas",
