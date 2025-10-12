@@ -13,9 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                         | Résultat | Remarque         |
-| ----- | ------------------------------------------------------------------- | -------- | ---------------- |
-| 2025  | [[Championnat de Belgique de Cyclisme\|Championnat National]] - CLM | 2e       | Détail optionnel |
+| Année | Compétition                                                         | Résultat | Remarque |
+| ----- | ------------------------------------------------------------------- | -------- | -------- |
+| ?     | [[Championnat du monde de Gravel]]                                  | 2e       |          |
+| ?     | [[Championnat du monde de Gravel]]                                  | 2e       |          |
+| 2025  | [[Championnat de Belgique de Cyclisme\|Championnat National]] - CLM | 2e       |          |
+| 2025  | [[Championnat du monde de Gravel]]                                  | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Championnat du monde de Gravel.md",
+                "file": "Roos Vanotterdijk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Championnat du monde de Gravel"
+              "title": "Roos Vanotterdijk"
             },
             "group": "90e255c81987819e"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Championnat du monde de Gravel.md",
+                "file": "Roos Vanotterdijk.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Championnat du monde de Gravel"
+              "title": "Graphique de Roos Vanotterdijk"
             },
             "group": "90e255c81987819e"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "van der poel",
+                "query": "Roos Vanotterdijk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -252,8 +252,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "d3bf4b5b8871fb6c",
   "lastOpenFiles": [
+    "Championnat du monde de Gravel.md",
+    "Loisirs/Sport/Sportifs/Florian Vermeesch.md",
+    "Loisirs/Sport/Sportifs/Mathieu van der Poel.md",
     "Loisirs/Sport/Sportifs/Adam Yates.md",
     "Trofeo Tessile & Moda.md",
     "Famille/Santé/AVC Papa.md",
@@ -269,7 +272,6 @@
     "Loisirs/Sport/Sportifs/Silvia Persico.md",
     "Marianne Vos.md",
     "Loisirs/Sport/Lorena Wiebes.md",
-    "Championnat du monde de Gravel.md",
     "hampionnat du monde de Gravel.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Tour de Lombardie.md",
@@ -282,8 +284,6 @@
     "Attachments/image-163.webp",
     "Sanne Cant.md",
     "Attachments/image-162.webp",
-    "Journal de bord/2025-10-10.md",
-    "Gran Piemonte.md",
     "Attachments/image-161.webp",
     "Attachments/image-160.webp",
     "Attachments/image-159.webp",

@@ -24,7 +24,7 @@ type: personne
 | 2025  | [[Championnat du Monde de Natation\|Championnat du Monde]] - 50m Dos          | Demi-finale | 27.67 (11e)                                            | Record de Belgique    |
 | 2025  | [[Championnat du Monde de Natation\|Championnat du Monde]] - 100m Nl          | Demi-finale | 53.87 (11e)                                            |                       |
 | 2025  | [[Championnat du Monde de Natation\|Championnat du Monde]] - 50m Pap          | 3e          | 25.79 (Série)<br>25.32 (Demi-finale)<br>25.43 (Finale) | Record de Belgique    |
-|       |                                                                               |             |                                                        |                       |
+| 2025  | Coupe du                                                                      |             |                                                        |                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

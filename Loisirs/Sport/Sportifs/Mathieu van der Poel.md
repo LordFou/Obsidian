@@ -16,6 +16,7 @@ type: personne
 | ----- | ------------------------------------ | ------- | ------------------------------------------------------------------------------------------------------ |
 | 2020  | [[Renewi Tour]] - Classement final   | 1ier    |                                                                                                        |
 | 2021  | [[Tour de France]] - Mur de Bretagne | 1ier    |                                                                                                        |
+| 2024  | [[Championnat du monde de Gravel]]   | 1ier    |                                                                                                        |
 | 2025  | [[Grand Prix Samyn]]                 | 1ier    |                                                                                                        |
 | 2025  | [[Grand Prix de l'E3]]               | 1ier    |                                                                                                        |
 | 2025  | [[Milan San Remo]]                   | 1ier    | Ils ont attaqué à 3 (Lui, [[Tadej Pogacar]] et [[Ganna]]) dans la [[Cipressa]], ce qui n'arrive jamais |
