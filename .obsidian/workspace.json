@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Franchise Mega Man.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Franchise Mega Man"
+              "title": "Shovel Knight"
             },
             "group": "90e255c81987819e"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Franchise Mega Man.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Franchise Mega Man"
+              "title": "Graphique de Shovel Knight"
             },
             "group": "90e255c81987819e"
           }
@@ -253,10 +253,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "acbfcced6e5eac9a",
+  "active": "d3bf4b5b8871fb6c",
   "lastOpenFiles": [
-    "Keiji Inafune.md",
+    "Mega Man Universe.md",
+    "Ghost 'n Goblins.md",
     "Franchise Mega Man.md",
+    "Keiji Inafune.md",
     "Mega Man 10.md",
     "Mega Man 9.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
@@ -280,8 +282,6 @@
     "Loisirs/Sport/Richard Carapaz.md",
     "Loisirs/Sport/Amstel Gold Race.md",
     "Laurens Vanthoor.md",
-    "Lara de Liedekerke-Meier.md",
-    "Gilles Thomas.md",
     "Attachments/image-164.webp",
     "Loisirs/Sport/Statistiques",
     "Attachments/image-163.webp",

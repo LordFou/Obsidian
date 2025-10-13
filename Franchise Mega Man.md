@@ -23,12 +23,12 @@ title: départ de [[Keiji Inafune]]
 content: 
 ```
 ## Jeux principaux
-| Titre              | Année  | Plateformes | Remarque  |
-| ------------------ | ------ | ----------- | --------- |
-| [[Mega Man 9]]     |        |             |           |
-| Mega Man Legends 3 | 2011   |             | Abandonné |
-| Mega Man Universe  | 2011   |             | Abandonné |
-| [[Mega Man 10]]    | 2012 ? |             |           |
+| Titre                 | Année  | Plateformes | Remarque  |
+| --------------------- | ------ | ----------- | --------- |
+| [[Mega Man 9]]        |        |             |           |
+| Mega Man Legends 3    | 2011   |             | Abandonné |
+| [[Mega Man Universe]] | 2011   |             | Abandonné |
+| [[Mega Man 10]]       | 2012 ? |             |           |
 
 
 ## Mécaniques et innovations
