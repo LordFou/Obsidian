@@ -13,10 +13,11 @@ type: game
 	- Personnalités : 
 		- [[Sean Velasco]] (Producteur, Game Designer)
 		- [[David D'Angelo]] (Développeur)
-		- [[Nick Wozniak]] (Artiste)
+		- [[Nick Wozniak]] (Artiste - Animation & Rendu Pixel Art)
 		- [[Ian Flood]] (Programmeur)
-		- Erin Pellon (Artiste)
-		- Jake "Virt" Kaufman (Musicien)
+		- [[Erin Pellon]] (Artiste - Concept Art)
+		- [[Jake Kaufman]] (Musicien)
+		- [[Dan Adelman]]
 - **Éditeur** : [[Yacht Club Games]]
 - **Plateformes** : 
 	- Sortie sur : [[PC]], [[Wii U]], [[3DS]]

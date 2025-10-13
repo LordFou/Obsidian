@@ -18,8 +18,8 @@ type: game
 ```timeline-labeled
 [line-5, body-2]
 date:  
-title: 
-content:
+title: [[Dan Adelman]] fait le lien entre [[Yacht Club Games]] et [[Nintendo]]
+content: En réalité, il prouve à 
 ```
 ## Jeux principaux
 | Titre | Année             | Plateformes                | Remarque |
