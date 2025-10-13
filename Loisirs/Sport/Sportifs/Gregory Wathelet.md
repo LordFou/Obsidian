@@ -1,3 +1,6 @@
+---
+type: personne
+---
 ![[Pasted image 20250518235433.jpg]]
 
 # Gregory Wathelet
@@ -11,10 +14,11 @@
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                | Résultat | Remarque |
-| ----- | ------------------------------------------ | -------- | -------- |
-| 2025  | CSI 5 étoiles de Windsor                   | 1ier     |          |
-| 2025  | Jumping international 5 étoiles de Londres | 1ier     |          |
+| Année | Compétition                                              | Résultat | Remarque |
+| ----- | -------------------------------------------------------- | -------- | -------- |
+| 2025  | CSI 5 étoiles de Windsor                                 | 1ier     |          |
+| 2025  | Jumping international 5 étoiles de Londres               | 1ier     |          |
+| 2025  | Grand Prix au jumping CSI 5 étoiles d’Amenia, à New York | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
