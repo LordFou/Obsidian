@@ -5,7 +5,7 @@ type: personne
 # Dan Adelman
 
 ## Présentation
-Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
+
 
 ## Informations Générales
 - **Date de naissance** :  
@@ -13,7 +13,7 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 - **Profession(s)** : (Développeur, Designer, Compositeur, Journaliste, etc.)  
 - **Entreprise(s) associée(s)** : 
 	- [[Microsoft]] (2001-2005) : 
-	- [[Nintendo]] of America (2005-) : Responsable du contenu et du développement des jeux numériques
+	- [[Nintendo]] of America (2005-) : Responsable du contenu et du développement des jeux numériques. En réalité, il prouve à la firme qu'ils ont besoin de la scène indé pour se faire une manne de nouveaux joueurs pour la société. Il mettra notamment en place les services de distribution [[WiiWare]] et [[DSiWare]] puis les eshops [[3DS]] et [[Wii U]]
 
 ```timeline-labeled
 [line-5, body-2]
