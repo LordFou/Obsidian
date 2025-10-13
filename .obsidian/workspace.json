@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-10-13.md",
+                "file": "Game One.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-13"
+              "title": "Game One"
             },
             "group": "90e255c81987819e"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2025-10-13.md",
+                "file": "Game One.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-10-13"
+              "title": "Graphique de Game One"
             },
             "group": "90e255c81987819e"
           }
@@ -255,8 +255,10 @@
   },
   "active": "d3bf4b5b8871fb6c",
   "lastOpenFiles": [
-    "Lien Meeuwssen.md",
     "Journal de bord/2025-10-13.md",
+    "Game One.md",
+    "Attachments/image-165.webp",
+    "Lien Meeuwssen.md",
     "Loisirs/Sport/Sportifs/Olivier Naert.md",
     "Roos Vanotterdijk.md",
     "Journal de bord/2025-09-14.md",
@@ -279,8 +281,6 @@
     "Loisirs/Sport/Sportifs/Florine Gaspard.md",
     "Zizou Bergs.md",
     "Loisirs/Sport/Sportifs/Florian Vermeesch.md",
-    "Loisirs/Sport/Sportifs/Mathieu van der Poel.md",
-    "Loisirs/Sport/Sportifs/Adam Yates.md",
     "Attachments/image-164.webp",
     "Loisirs/Sport/Statistiques",
     "Attachments/image-163.webp",
@@ -291,7 +291,6 @@
     "Attachments/image-158.webp",
     "Attachments/image-157.webp",
     "Attachments/image-156.webp",
-    "Attachments/image-155.webp",
     "Culture/Politique",
     "Généalogie Matos Atari.canvas",
     "Historique Jeu Vidéo.canvas",
