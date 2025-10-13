@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Nafi Thiam.md",
+                "file": "Raphaël Collignon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nafi Thiam"
+              "title": "Raphaël Collignon"
             },
             "group": "90e255c81987819e"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Nafi Thiam.md",
+                "file": "Raphaël Collignon.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Nafi Thiam"
+              "title": "Graphique de Raphaël Collignon"
             },
             "group": "90e255c81987819e"
           }
@@ -179,7 +179,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,6 +255,10 @@
   },
   "active": "d3bf4b5b8871fb6c",
   "lastOpenFiles": [
+    "David Goffin.md",
+    "Journal de bord/2025-10-13.md",
+    "Loisirs/Sport/Compétitions/European Open.md",
+    "Loisirs/Sport/Sportifs/Nafi Thiam.md",
     "Loisirs/Sport/Arnaud Démare.md",
     "Loisirs/Sport/Compétitions/Paris-Tours.md",
     "Matteo Trentin.md",
@@ -261,7 +266,6 @@
     "Loisirs/Sport/Sportifs/Florine Gaspard.md",
     "Roos Vanotterdijk.md",
     "Zizou Bergs.md",
-    "Journal de bord/2025-10-13.md",
     "Loisirs/Sport/Sportifs/Florian Vermeesch.md",
     "Loisirs/Sport/Sportifs/Mathieu van der Poel.md",
     "Loisirs/Sport/Sportifs/Adam Yates.md",
@@ -279,9 +283,6 @@
     "Loisirs/Sport/Sportifs/Silvia Persico.md",
     "Marianne Vos.md",
     "Loisirs/Sport/Lorena Wiebes.md",
-    "hampionnat du monde de Gravel.md",
-    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
-    "Tour de Lombardie.md",
     "Attachments/image-163.webp",
     "Attachments/image-162.webp",
     "Attachments/image-161.webp",

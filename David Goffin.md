@@ -13,10 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                  | Résultat | Remarque |
-| ----- | ---------------------------- | -------- | -------- |
-| 2025  | [[US Open]]                  | 2e tour  |          |
-| 2025  | [[ATP - Tournoi de Shangaï]] | 3e tour  |          |
+| Année | Compétition                  | Résultat | Remarque                   |
+| ----- | ---------------------------- | -------- | -------------------------- |
+| 2025  | [[US Open]]                  | 2e tour  |                            |
+| 2025  | [[ATP - Tournoi de Shangaï]] | 3e tour  |                            |
+| 2025  | [[European Open]] - Double   | 1e tour  | avec [[Raphaël Collignon]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
