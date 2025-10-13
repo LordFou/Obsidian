@@ -18,6 +18,7 @@ type: game
 		- [[Erin Pellon]] (Artiste - Concept Art)
 		- [[Jake Kaufman]] (Musicien)
 		- [[Dan Adelman]]
+		- [[Manami Matsumae]] (Compositrice) - Invitée sur la bande son
 - **Éditeur** : [[Yacht Club Games]]
 - **Plateformes** : 
 	- Sortie sur : [[PC]], [[Wii U]], [[3DS]]
@@ -29,7 +30,8 @@ type: game
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : 2D, style 8-bit de la [[NES]]
-- **Audio** : (Type de musique, Bande-son notable)
+- **Audio** : 
+	- Le morceau "[Strike the Earth](https://open.spotify.com/intl-fr/track/33SGhp4QaGuTrFlsMPoPkn)!" est le plus emblématique
 - **Réception critique** : 
 	- Pix'n Love
 		- Patte graphique séductrice
@@ -72,7 +74,7 @@ type: game
 - L'origine de l'arme (pelle) provient de la comparaison avec l'attaque en 2 temps du héros : une phase pour renverser l'ennemi et une phase pour l'achever. Un peu comme creuser un trou. Mais elle permet évidemment de creuser ainsi que de sauter plus haut lorsqu'elle est pointée vers le bas en retombant sur un ennemi. Certaines animations ont été abandonnées comme celle qui le montrait manger avec sa pelle, se dresser sur sa pelle, ou encore se propulser avec.
 - Les développeurs profiteront d'un kit de développement [[Wii U]] pour faciliter le développement sur cette console [[Nintendo]] qui est la première à implémenter le tactile et un rendu haute définition.
 - Financée notamment par [[Kickstarter]] avec un premier palier à 75k $ qui ne décollera qu'après l'évènement US [[PAX East]] ainsi qu'un engouement pour ce type de jeu. Pour faire le buzz, le studio dévoilera les noms des 8 chevaliers au fur et à mesure de la campagne. Résultat : 311k $ !!!!
-- Avant la sortie du jeu, le scénario voulait que [[Shovel Knight]] venant de tuer l'Enchanteresse se rendait compte qu'il s'agissait de [[Shield Knight]] et donc, il l'enterrait dignement avec sa pelle. Mais ce ton un pça ne collait pas 
+- Avant la sortie du jeu, le scénario voulait que [[Shovel Knight]] venant de tuer l'Enchanteresse se rendait compte qu'il s'agissait de [[Shield Knight]] et donc, il l'enterrait dignement avec sa pelle. Mais ce ton un peu sombre ne collait pas avec le l'ambiance du jeu dans lequel on trouve notamment un cheval et une grenouille qui parle. Au final, les dev voulait que les enfants (filles et garçons) puissent s'imaginer comme [[Shovel Knight]] et [[Shield Knight]].
 ## Liens et Ressources
 
 | Description | URL |

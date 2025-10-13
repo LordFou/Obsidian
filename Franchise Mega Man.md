@@ -12,6 +12,8 @@ type: game
 - Éditeur(s) : [[Capcom]]
 - Première apparition : {{Nom du premier jeu (année)}}
 - Genre principal : {{Stratégie, Action-Aventure, FPS...}}
+- Personnalités :
+	- [[Manami Matsumae]] (Compositrice)
 
 ## Résumé et historique
 {{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
