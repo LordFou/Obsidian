@@ -47,7 +47,7 @@ content: Ce sont Erin Pellon et Jake "Virt" Kaufman.
 - Moteur 2
 
 ## Style et Influence
-Décrire le style graphique, les thématiques abordées, les influences notables.
+ - Les dev sont des grands fans de la famille des [[Souls Like]] de chez [[FromSoftware]].
 
 ## Succès et Récompenses
 Lister les prix, distinctions ou records obtenus.

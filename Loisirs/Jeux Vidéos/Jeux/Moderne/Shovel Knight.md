@@ -39,7 +39,10 @@ type: game
 	- Avancée écran par écran
 	- Chaque stage comprend en moyenne 25 écrans + les zones secrètes
 	- Le lore est bien plus développé que ses ancêtres 8 bits : chaque habitant des différents villages ont leur histoire et on peut discuter avec eux.
-	- A la [[PAX East]], les utilisateurs les priaient de ne pas faire "une difficulté à la [[NES]]", c'est pourquoi les dev ont opté après diverses tests pour une sauvegarde à certains endroits mais au choix du joueur. Moins le joueur sauve, plus les récompenses de fin de niveau sont élevées.
+	- A la [[PAX East]], les utilisateurs les priaient de ne pas faire "une difficulté à la [[NES]]", c'est pourquoi les dev ont opté après diverses tests (comme des check points payants) pour une sauvegarde à certains endroits mais au choix du joueur. Moins le joueur sauve, plus les récompenses de fin de niveau sont élevées.
+- **Scénario** :
+	- 
+	- On s'éloigne de la simple demoiselle en détresse et ça termine même sur un twist concernant l'identité de [[Shield Knight]], alter ego féminin de [[Shovel Knight]].
 - **Durée estimée** : 
 
 ## Citations
@@ -55,6 +58,7 @@ type: game
 - **Ennemis** :
 	- Grim Rieper (boss)
 	- Mole Knight (boss)
+	- Enchanteresse ?
 - **Thèmes abordés** : 
 - **Influencé par** :
 	- [[Zelda II - Adventure of Link]] (pour l'action, les combats à l'épée, les villes)
@@ -68,6 +72,7 @@ type: game
 - L'origine de l'arme (pelle) provient de la comparaison avec l'attaque en 2 temps du héros : une phase pour renverser l'ennemi et une phase pour l'achever. Un peu comme creuser un trou. Mais elle permet évidemment de creuser ainsi que de sauter plus haut lorsqu'elle est pointée vers le bas en retombant sur un ennemi. Certaines animations ont été abandonnées comme celle qui le montrait manger avec sa pelle, se dresser sur sa pelle, ou encore se propulser avec.
 - Les développeurs profiteront d'un kit de développement [[Wii U]] pour faciliter le développement sur cette console [[Nintendo]] qui est la première à implémenter le tactile et un rendu haute définition.
 - Financée notamment par [[Kickstarter]] avec un premier palier à 75k $ qui ne décollera qu'après l'évènement US [[PAX East]] ainsi qu'un engouement pour ce type de jeu. Pour faire le buzz, le studio dévoilera les noms des 8 chevaliers au fur et à mesure de la campagne. Résultat : 311k $ !!!!
+- Avant la sortie du jeu, le scénario voulait que [[Shovel Knight]] venant de tuer l'Enchanteresse se rendait compte qu'il s'agissait de [[Shield Knight]] et donc, il l'enterrait dignement avec sa pelle. Mais ce ton un pça ne collait pas 
 ## Liens et Ressources
 
 | Description | URL |
