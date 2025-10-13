@@ -15,13 +15,16 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                             | Résultat | Remarque |
 | ----- | --------------------------------------- | -------- | -------- |
+| 2015  | [[Paris-Tours]]                         | 1ier     |          |
+| 2017  | [[Paris-Tours]]                         | 1ier     |          |
 | 2024  | [[Tour de Wallonie]] - Classement final | 1ier     |          |
+| 2025  | [[Paris-Tours]]                         | 1ier     | 36 ans ! |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Triple vainqueur de [[Paris-Tours]]
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
