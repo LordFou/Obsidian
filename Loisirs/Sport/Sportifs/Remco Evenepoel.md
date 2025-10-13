@@ -70,7 +70,7 @@ content: Il bascule d'un petit parapet sur une hauteur effroyable. Il s'en sorti
 
 date:  Aout 2025
 title: Remco quitte [[Quick Step]] pour aller chez [[Bora Redbull]]
-content:
+content: Ce sera effectif fin de saison 2025
 ```
 
 ## Style et Caractéristiques
