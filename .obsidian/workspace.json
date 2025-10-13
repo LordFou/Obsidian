@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Franchise Shovel Knight.md",
+                "file": "Franchise Mega Man.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Franchise Shovel Knight"
+              "title": "Franchise Mega Man"
             },
             "group": "90e255c81987819e"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Franchise Shovel Knight.md",
+                "file": "Franchise Mega Man.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Franchise Shovel Knight"
+              "title": "Graphique de Franchise Mega Man"
             },
             "group": "90e255c81987819e"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shove",
+                "query": "mega man",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,7 +179,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -252,8 +253,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d3bf4b5b8871fb6c",
+  "active": "acbfcced6e5eac9a",
   "lastOpenFiles": [
+    "Keiji Inafune.md",
+    "Franchise Mega Man.md",
+    "Mega Man 10.md",
+    "Mega Man 9.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
     "Franchise Shovel Knight.md",
     "Wii U.md",
@@ -277,10 +282,6 @@
     "Laurens Vanthoor.md",
     "Lara de Liedekerke-Meier.md",
     "Gilles Thomas.md",
-    "Loisirs/Sport/Sportifs/Gregory Wathelet.md",
-    "Loisirs/Sport/Gregory Wathelet.md",
-    "David Goffin.md",
-    "Raphaël Collignon.md",
     "Attachments/image-164.webp",
     "Loisirs/Sport/Statistiques",
     "Attachments/image-163.webp",

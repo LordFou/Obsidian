@@ -63,6 +63,7 @@ type: game
 - Le jeu a été décliné dans pas mal de style différents ([[Puzzle]], [[Roguelite]], [[Combat]])
 - L'origine de l'arme (pelle) provient de la comparaison avec l'attaque en 2 temps du héros : une phase pour renverser l'ennemi et une phase pour l'achever. Un peu comme creuser un trou. Mais elle permet évidemment de creuser ainsi que de sauter plus haut lorsqu'elle est pointée vers le bas en retombant sur un ennemi. Certaines animations ont été abandonnées comme celle qui le montrait manger avec sa pelle, se dresser sur sa pelle, ou encore se propulser avec.
 - Les développeurs profiteront d'un kit de développement [[Wii U]] pour faciliter le développement sur cette console [[Nintendo]] qui est la première à implémenter le tactile et un rendu haute définition.
+- Financée notamment par [[Kickstarter]] avec un premier palier à 75k $ qui ne décollera qu'après l'évènement US [[PAX East]] ainsi qu'un engouement pour ce type de jeu.
 ## Liens et Ressources
 
 | Description | URL |
