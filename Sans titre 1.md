@@ -1,7 +1,6 @@
 ---
 type: game
 ---
-
 ![[image-149.webp]]
 # Shovel Knight
 
@@ -15,8 +14,6 @@ type: game
 		- [[David D'Angelo]] (Développeur)
 		- [[Nick Wozniak]] (Artiste)
 		- [[Ian Flood]] (Programmeur)
-		- Erin Pellon (Artiste)
-		- Jake "Virt" Kaufman (Musicien)
 - **Éditeur** : [[Yacht Club Games]]
 - **Plateformes** : 
 	- Sortie sur : [[PC]], [[Wii U]], [[3DS]]
@@ -46,7 +43,7 @@ type: game
 	- Souterrain rempli de lave
 - **Epoque** : 
 - **Personnages principaux** : 
-	- Un chevalier (Shovel Knight), sa [[pioche]] (Shovel Blade), son casque à corne à la [[Boba Fett]].
+	- Un chevalier (Shovel Knight), sa [[pioche]], son casque à corne à la [[Boba Fett]].
 - **Ennemis** :
 	- Grim Rieper (boss)
 	- Mole Knight (boss)
@@ -60,7 +57,7 @@ type: game
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - Le jeu a été décliné dans pas mal de style différents ([[Puzzle]], [[Roguelite]], [[Combat]])
-- L'origine de l'arme (pelle) provient de la comparaison avec l'attaque en 2 temps du héros : une phase pour renverser l'ennemi et une phase pour l'achever. Un peu comme creuser un trou. Mais elle permet évidemment de creuser ainsi que de sauter plus haut lorsqu'elle est pointée vers le bas en retombant sur un ennemi. Certaines animations ont été abandonnées comme celle qui le montrait manger avec sa pelle, se dresser sur sa pelle, ou encore se propulser avec.
+- L'origine de l'arme (pelle) provient de la comparaison avec l'attaque en 2 temps du héros : une phase pour renverser l'ennemi et une phase pour l'achever. Un peu comme creuser un trou.
 ## Liens et Ressources
 
 | Description | URL |
