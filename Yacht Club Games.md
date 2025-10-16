@@ -38,9 +38,10 @@ content: Ce sont Erin Pellon et Jake "Virt" Kaufman.
 ```
 
 ## Jeux Développés
-| Année | Titre             | Genre      | Plateformes               |
-| ----- | ----------------- | ---------- | ------------------------- |
-| 2025  | [[Shovel Knight]] | Plateforme | All sauf PS5, XBox Series |
+| Année | Titre                 | Genre      | Plateformes               |
+| ----- | --------------------- | ---------- | ------------------------- |
+| 2025  | [[Shovel Knight]]     | Plateforme | All sauf PS5, XBox Series |
+| Futur | [[Mina The Hollower]] | ?          | ?                         |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
