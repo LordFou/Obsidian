@@ -19,7 +19,52 @@
               },
               "icon": "lucide-file",
               "title": "BALL x PIT"
-            }
+            },
+            "group": "5d7ab57f9109a5e9"
+          }
+        ]
+      },
+      {
+        "id": "5fe444166413d53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31bf34b5287d4bd1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/BALL x PIT.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graphique de BALL x PIT"
+            },
+            "group": "5d7ab57f9109a5e9"
           }
         ]
       }
@@ -187,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,7 +251,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0f76d8a24fe5c923",
+  "active": "31bf34b5287d4bd1",
   "lastOpenFiles": [
     "Devolver.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/BALL x PIT.md",
