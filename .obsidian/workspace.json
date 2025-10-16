@@ -4,61 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "225ca69a04e85b9d",
+        "id": "79dc91371473e34c",
         "type": "tabs",
         "children": [
           {
-            "id": "d9849b6524bce293",
+            "id": "4b8e04c725f98237",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "path:-journal",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224425,
-                  "close": true
-                }
+                "file": "Journal de bord/2025-10-16.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
-            }
-          },
-          {
-            "id": "601973328a359111",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Journal de bord/2025-10-16.md",
-                "bFile": "Journal de bord/2025-10-16.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 2025-10-16"
+              "icon": "lucide-file",
+              "title": "2025-10-16"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -242,10 +205,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "601973328a359111",
+  "active": "4b8e04c725f98237",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Journal de bord/2025-10-13.md",
+    "Olivier Naert.md",
     "Journal de bord/2025-10-16.md",
+    "conflict-files-obsidian-git.md",
     "Loisirs/Sport/Statistiques/Statistiques.md",
     "Loisirs/Sport/Statistiques",
     "tobyfox.md",
@@ -269,8 +234,6 @@
     "Summer Games Fest 2025.md",
     "Stéphane Ogier.md",
     "Street Fighter.md",
-    "Stormteller Games.md",
-    "Starbreeze Entertainment.md",
     "Attachments/image-165.webp",
     "Attachments/image-164.webp",
     "Attachments/image-163.webp",
