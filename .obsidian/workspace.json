@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Non triés/GamePass (XBox).md",
+                "file": "Journal de bord/2025-10-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GamePass (XBox)"
+              "title": "2025-10-16"
             }
           }
         ]
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,6 +207,7 @@
   },
   "active": "0f76d8a24fe5c923",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Non triés/GamePass (XBox).md",
     "Journal de bord/2025-10-16.md",
     "Loisirs/Sport/Sportifs/Olivier Naert.md",
     "Journal de bord/2025-10-13.md",
@@ -232,7 +234,6 @@
     "Thierry Neuville.md",
     "Summer McIntosh.md",
     "Summer Games Fest 2025.md",
-    "Stéphane Ogier.md",
     "Attachments/image-165.webp",
     "Attachments/image-164.webp",
     "Attachments/image-163.webp",
