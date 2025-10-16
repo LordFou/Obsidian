@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "79dc91371473e34c",
+        "id": "5bc782fa058cee1b",
         "type": "tabs",
         "children": [
           {
-            "id": "4b8e04c725f98237",
+            "id": "df3b450a0d2a3fb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-10-16.md",
+                "file": "Journal de bord/2025-10-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-16"
+              "title": "2025-10-13"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "final fantas",
+                "query": "olivier naert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,10 +204,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4b8e04c725f98237",
+  "active": "df3b450a0d2a3fb7",
   "lastOpenFiles": [
-    "Journal de bord/2025-10-13.md",
+    "Loisirs/Sport/Sportifs/Olivier Naert.md",
     "Olivier Naert.md",
+    "Journal de bord/2025-10-13.md",
     "Journal de bord/2025-10-16.md",
     "conflict-files-obsidian-git.md",
     "Loisirs/Sport/Statistiques/Statistiques.md",
@@ -233,7 +233,6 @@
     "Summer McIntosh.md",
     "Summer Games Fest 2025.md",
     "Stéphane Ogier.md",
-    "Street Fighter.md",
     "Attachments/image-165.webp",
     "Attachments/image-164.webp",
     "Attachments/image-163.webp",
