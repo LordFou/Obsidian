@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Final Fantasy Tactics - The Ivalice Chronicles.md",
+                "file": "Journal de bord/2025-10-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Final Fantasy Tactics - The Ivalice Chronicles"
+              "title": "2025-10-16"
             },
             "group": "a292dd61564330aa"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Final Fantasy Tactics - The Ivalice Chronicles.md",
+                "file": "Journal de bord/2025-10-16.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Final Fantasy Tactics - The Ivalice Chronicles"
+              "title": "Graphique de 2025-10-16"
             },
             "group": "a292dd61564330aa"
           }
@@ -234,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,9 +254,10 @@
   },
   "active": "5dcf33f48ac592af",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Final Fantasy Tactics - The Ivalice Chronicles.md",
+    "Journal de bord/2025-10-16.md",
     "Franchise Final Fantasy.md",
     "Final Fantasy Tactics.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Final Fantasy Tactics - The Ivalice Chronicles.md",
     "Franchise Mega Man.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
     "Zelda II - Adventure of Link.md",
@@ -280,7 +280,6 @@
     "Forza Horizon 6.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Franchise Forza.md",
     "Playground Games.md",
-    "Loisirs/Jeux Vidéos/Non triés/GamePass (XBox).md",
     "Attachments/image-158.webp",
     "Attachments/image-157.webp",
     "Attachments/image-156.webp",
