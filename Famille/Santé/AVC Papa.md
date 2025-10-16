@@ -1,0 +1,13 @@
+# Historique
+- 06/10/2025
+	- AVC dans l'après midi 
+		- Bref passage aux urgences du CHU Notre-Dame des Bruyères
+		- Transfert vers le CHU Sart Tilmant en Ambulance + SMUR
+		- 1 nuit au soins intensifs
+- 07/10/2025
+	- Transfert au service de neurologie ??? en mode rapproché
+	- Séances de kiné, logo, etc en cours
+	- 3 nuits
+- 10/10/2025
+	- Transfert le soir en chambre double pour suivi
+	- Séances de kiné, logo, etc en cours

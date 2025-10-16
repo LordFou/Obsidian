@@ -4,31 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "363dac1ea44d9e8b",
-        "type": "tabs",
-        "dimension": 68.25962910128388,
-        "children": [
-          {
-            "id": "5dcf33f48ac592af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal de bord/2025-10-16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-16"
-            },
-            "group": "a292dd61564330aa"
-          }
-        ]
-      },
-      {
         "id": "225ca69a04e85b9d",
         "type": "tabs",
-        "dimension": 31.74037089871612,
         "children": [
           {
             "id": "d9849b6524bce293",
@@ -36,7 +13,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2025-10-16.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:-journal",
@@ -64,11 +40,25 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-10-16"
-            },
-            "group": "a292dd61564330aa"
+              "title": "Vue graphique"
+            }
+          },
+          {
+            "id": "601973328a359111",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Journal de bord/2025-10-16.md",
+                "bFile": "Journal de bord/2025-10-16.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 2025-10-16"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 234.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,44 +242,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5dcf33f48ac592af",
+  "active": "601973328a359111",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Final Fantasy Tactics - The Ivalice Chronicles.md",
+    "conflict-files-obsidian-git.md",
     "Journal de bord/2025-10-16.md",
-    "Franchise Final Fantasy.md",
-    "Final Fantasy Tactics.md",
-    "Franchise Mega Man.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
-    "Zelda II - Adventure of Link.md",
-    "Duck Tales.md",
-    "Mega Man.md",
-    "Franchise Shovel Knight.md",
-    "Yacht Club Games.md",
-    "pioche.md",
-    "Culture/Politique/Nicolas Sarkozy.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/No, I'm Not a Human.md",
-    "Loisirs/Jeux Vidéos/Personnages/Extraterrestres.md",
-    "Fin du monde.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cataclismo.md",
-    "Paper Please.md",
-    "Journal de bord/2025-10-03.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Herdling.md",
-    "Joel Schoch.md",
-    "Journey.md",
-    "Okomotive.md",
-    "Forza Horizon 6.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Franchise Forza.md",
-    "Playground Games.md",
-    "Attachments/image-158.webp",
-    "Attachments/image-157.webp",
-    "Attachments/image-156.webp",
-    "Attachments/image-155.webp",
-    "Attachments/image-154.webp",
-    "Attachments/image-153.webp",
-    "Attachments/image-152.webp",
-    "Attachments/image-151.webp",
-    "Attachments/image-150.webp",
-    "Attachments/image-149.webp",
+    "Loisirs/Sport/Statistiques/Statistiques.md",
+    "Loisirs/Sport/Statistiques",
+    "tobyfox.md",
+    "hampionnat du monde de Gravel.md",
+    "Zefyr.md",
+    "Wild Wits.md",
+    "Undertale.md",
+    "Two Strikes.md",
+    "Turbo Overkill.md",
+    "Trofeo Tessile & Moda.md",
+    "Tournoi de Wuhan.md",
+    "Tournoi de Rosmalen.md",
+    "Tour de Suisse.md",
+    "Tour de Münster.md",
+    "Tour d'Algarve.md",
+    "Timo Kielich.md",
+    "Tim Merlier.md",
+    "Throughline Games.md",
+    "Thierry Neuville.md",
+    "Summer McIntosh.md",
+    "Summer Games Fest 2025.md",
+    "Stéphane Ogier.md",
+    "Street Fighter.md",
+    "Stormteller Games.md",
+    "Starbreeze Entertainment.md",
+    "Attachments/image-165.webp",
+    "Attachments/image-164.webp",
+    "Attachments/image-163.webp",
+    "Attachments/image-162.webp",
+    "Attachments/image-161.webp",
+    "Attachments/image-160.webp",
+    "Attachments/image-159.webp",
+    "Attachments/US_Open_2022_Photo_177_(52391301928)_(Gauff).jpg.webp",
+    "Attachments/Pasted image 20250614232014.png",
+    "Attachments/Pasted image 20250614164638.png",
     "Culture/Politique",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Généalogie Matos Atari.canvas",
@@ -304,7 +295,6 @@
     "Attachments/Download.mp4",
     "Loisirs/Jeux Vidéos/Livres",
     "Sans titre",
-    "Loisirs/Internet",
-    "Loisirs/Musique"
+    "Loisirs/Internet"
   ]
 }

@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                              | Résultat | Remarque                                            |
 | ----- | ---------------------------------------- | -------- | --------------------------------------------------- |
 | 2022  | [[Simac Ladies Tour]] - Classement final | 1ière    |                                                     |
+| 2022  | [[Binche-Chimay-Binche]]                 | 1ière    |                                                     |
 | 2025  | [[Tour d'Italie]] - 3e étape             | 1iere    | Sprint emmené par [[Lotte Kopecky]]                 |
 | 2025  | [[Tour d'Italie]] - 5e étape             | 1ière    | Sprint emmené par [[Lotte Kopecky]]                 |
 | 2025  | [[Tour de France]] - 3e étape            | 1ière    | Sprint emmené par [[Lotte Kopecky]]<br>Maillot Vert |
@@ -27,6 +28,8 @@ type: personne
 | 2025  | [[Simac Ladies Tour]] - 4e étape         | 1ière    |                                                     |
 | 2025  | [[Simac Ladies Tour]] - 6e étape         | 1ière    |                                                     |
 | 2025  | [[Simac Ladies Tour]] - Classement final | 1ière    |                                                     |
+| 2025  | [[Binche-Chimay-Binche]]                 | 1ière    |                                                     |
+| 2025  | [[Championnat du monde de Gravel]]       | 1ière    |                                                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -43,3 +46,5 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 # Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
+
+![[image-161.webp]]

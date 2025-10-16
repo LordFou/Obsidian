@@ -16,6 +16,8 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 	- [[Nick Wozniak]] (Artiste)
 	- [[Ian Flood]] (Programmeur)
 - **Personnalités** :
+	- [[Erin Pellon]] (Artiste)
+	- [[Jake Kaufman]] (Musicien)
 - **Pays d’origine** :  USA (Californie)
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
@@ -30,9 +32,9 @@ date:
 title: Premiers jeux
 content: Après avoir hésité à bosser sur un jeu mobile, ils s'orientent vers un jeu de plateforme 2D dans le style de la [[NES]]. Le succès de [[Mega Man 9]] et le fait qu'ils débutent en personnel réduit les poussent à rester dans un cadre connu.
 
-date: 
-title: 
-content:
+date: Fin 2012
+title: Incorporation de 2 nouveaux membres provenant de l'époque [[WayForward]]
+content: Ce sont Erin Pellon et Jake "Virt" Kaufman.
 ```
 
 ## Jeux Développés
@@ -45,7 +47,7 @@ content:
 - Moteur 2
 
 ## Style et Influence
-Décrire le style graphique, les thématiques abordées, les influences notables.
+ - Les dev sont des grands fans de la famille des [[Souls Like]] de chez [[FromSoftware]].
 
 ## Succès et Récompenses
 Lister les prix, distinctions ou records obtenus.

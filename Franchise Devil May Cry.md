@@ -25,7 +25,6 @@ content:
 | Titre | Année             | Plateformes | Remarque |
 | ----- | ----------------- | ----------- | -------- |
 |       | [[Devil May Cry]] |             |          |
-|       |                   |             |          |
 
 
 

@@ -19,8 +19,8 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 ```timeline-labeled
 [line-5, body-2]
 date: Septembre 2025  
-title: Projet de rachat de la société et sortie de la bourse
-content: [[Electronic Arts]] pourrait être racheté par plusieurs parties : le fond d'investissement publique d'Arabie Saoudite (PIF), un fond d'investissement (afinity partner) dirigé par [[Jared Kuschner]] proche de la famille [[Trump]]...et Silver Lake (placement dans la tech) => 55 milliards de dollars (35 milliards mis sur la table par les 3 et puis 20 milliards de prêt !!! Cette dette dépasse les capacités de la boîte => ça va virer sec)
+title: Rachat de la société
+content: [[Electronic Arts]] est racheté par l'Arabie Saoudite et la famille [[Trump]]...
 ```
 
 ## Jeux Développés
@@ -39,20 +39,10 @@ Décrire le style graphique, les thématiques abordées, les influences notables
 Lister les prix, distinctions ou records obtenus.
 
 ## Controverses ou Événements Marquants
-- Rachat de la société par consortium (Arabie Saoudite, Jared Kuschner, Silver Lake)
-	- 55 milliards dont 20 milliards de prêt par EA
-		- Dégraissage RH
-		- Utilisation IA quitte à baisser la qualité des jeux services.
-	- Ramdam en perspective
-	- L'Arabie Saoudite semble au centre du truc. Ils veulent se diversifier et se détacher du 100% pétrole via le sport, les jeux vidéos, l'esport. 
-	- Jeux ou studio qui disparaitraient à cause du désalignement de ligne éditoriale entre un pays contre l'homosexualité, le statut des femmes, etc...
-		- [[The Sims]] 
-		- [[Bioware]]
-	- C'est certainement la fin du studio tel qu'on le connaissait. On bascule clairement dans une boite juste à faire du pognon et plus aucune originalité.
+Évoquer les polémiques ou faits marquants de l’histoire de la société.
 
 ## Filiales et Partenaires
-- [[Bioware]]
-- 
+Lister les studios affiliés ou les collaborations importantes.
 
 ## Sources et Références
 - [Lien vers une source](#)

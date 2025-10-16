@@ -22,9 +22,7 @@ type: matos
 - 
 
 ## Anecdotes et faits marquants
-- {{Fait ou anecdote 1}}
-- {{Fait ou anecdote 2}}
-- {{Lien avec la musique, le design, l’influence culturelle...}}
+- Echec commercial de [[Nintendo]]
 
 ## Liens connexes
 - [Page Wikipédia](https://wikipedia.org)

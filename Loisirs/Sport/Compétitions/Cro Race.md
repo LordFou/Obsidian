@@ -13,11 +13,14 @@ C'est en réalité le tour de Croatie.
 
 ### Etapes 
 
-|          | Vainqueur        | Général          | Montagne | Points | Jeune | Remarques |
-| -------- | ---------------- | ---------------- | -------- | ------ | ----- | --------- |
-| 1e (FRA) | [[Paul Magnier]] | [[Paul Magnier]] |          |        |       |           |
-| 2e (FRA) | [[Paul Magnier]] | [[Paul Magnier]] |          |        |       |           |
-|          |                  |                  |          |        |       |           |
+|          | Vainqueur        | Général             | Montagne | Points | Jeune | Remarques |
+| -------- | ---------------- | ------------------- | -------- | ------ | ----- | --------- |
+| 1e (FRA) | [[Paul Magnier]] | [[Paul Magnier]]    |          |        |       |           |
+| 2e (FRA) | [[Paul Magnier]] | [[Paul Magnier]]    |          |        |       |           |
+|          |                  |                     |          |        |       |           |
+|          |                  |                     |          |        |       |           |
+|          |                  |                     |          |        |       |           |
+| 6e (FRA) | [[Oded Kogut]]   | [[Brandon McNulty]] |          |        |       |           |
 ## Femmes
 
 ### Etapes

@@ -18,8 +18,12 @@ type: game
 ```timeline-labeled
 [line-5, body-2]
 date:  
-title: 
-content:
+title: [[Dan Adelman]] fait le lien entre [[Yacht Club Games]] et [[Nintendo]]
+content: En réalité, il prouve à [[Nintendo]] qu'ils ont besoin de la scène indé pour se faire une manne de nouveaux joueurs pour la société. C'est comme ça que [[Shovel Knight]] sera envisagée pour une sortie sur la [[Wii U]]
+
+date: 13 mars 2013
+title: Lancement d'une campagne [[Kickstarter]]
+content: Lors du salon US PAX East sera lancée cette campagne. C'est là que le bouche à oreilles fera son effet
 ```
 ## Jeux principaux
 | Titre | Année             | Plateformes                | Remarque |
@@ -31,7 +35,7 @@ content:
 {{Description des éléments de gameplay marquants, des innovations techniques et de ce qui rend la franchise unique.}}
 
 ## Réception et héritage
-{{Analyse de la réception critique et populaire, ventes, influence sur d’autres jeux, adaptations en films, séries, livres...}}
+- Sur [[Wii U]], [[Shovel Knight]] ce sera un lancement raté mais bien accentué par le raté de la console.
 
 ## Anecdotes
 - {{Fait ou anecdote 1}}

@@ -15,7 +15,13 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                | Résultat | Remarque                                                                           |
 | ----- | ---------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------- |
+| ?     | [[Trois Vallées Varésines]]                                | 1ier 🥇  |                                                                                    |
+| 2021  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                    |
+| 2022  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                    |
+| 2023  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                    |
+| 2024  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                    |
 | 2024  | [[Championnat du Monde de Cyclisme\|Championnat du monde]] | 1ier 🥇  |                                                                                    |
+| 2024  | [[Tour d’Emilie]]                                          | 1ier 🥇  |                                                                                    |
 | 2025  | [[Flèche Wallonne]]                                        | 1ier 🥇  | Personne pour le battre                                                            |
 | 2025  | [[Critérium du Dauphiné]] - 1e étape                       | 1ier 🥇  | Gagné dans un mini groupe de ténor                                                 |
 | 2025  | [[Critérium du Dauphiné]] - 6e étape                       | 1ier 🥇  | Victoire au sommet d'un sommet de 2e catégorie. Tous les autres favoris sont cuits |
@@ -26,12 +32,16 @@ type: personne
 | 2025  | [[Tour de France]] - 5e étape                              | 2e       | Mailot Jaune<br>Maillot Vert<br>Maillot Montagne                                   |
 | 2025  | [[Tour de France]] - 7e étape                              | 1ier 🥇  | Maillot Jaune<br>Maillot Vert<br>60e Victoire pour UAE                             |
 | 2025  | [[Championnat du Monde de Cyclisme\|Championnat du monde]] | 1ier 🥇  |                                                                                    |
+| 2025  | [[Championnat d'Europe de Cyclisme]]                       | 1ier 🥇  |                                                                                    |
+| 2025  | [[Trois Vallées Varésines]]                                | 1ier 🥇  |                                                                                    |
+| 2025  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
 - 100 victoires à 26 ans !
+- 5 victoires consécutives au [[Tour de Lombardie]] comme [[Fausto Coppi]]
 
 # Controverses ou Événements Importants
 - Il ne peut pas éviter la polémique du dopage (physique et mécanique) vu ses performances.

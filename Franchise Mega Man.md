@@ -6,27 +6,31 @@ type: game
 
 
 ## Informations générales
-- Créateur(s) : {{Nom du ou des créateurs}}
+- Créateur(s) : 
+	- [[Keiji Inafune]] (créateur et designer)
 - Développeur(s) : {{Studio(s) de développement}}
-- Éditeur(s) : {{Nom de l’éditeur}}
+- Éditeur(s) : [[Capcom]]
 - Première apparition : {{Nom du premier jeu (année)}}
 - Genre principal : {{Stratégie, Action-Aventure, FPS...}}
-- Héros : Mega Man aussi appelé "Blue Bomber"
+- Personnalités :
+	- [[Manami Matsumae]] (Compositrice)
 
 ## Résumé et historique
 {{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
-content:
+date: fin 2010  
+title: départ de [[Keiji Inafune]]
+content: 
 ```
 ## Jeux principaux
-| Titre          | Année | Plateformes | Remarque |
-| -------------- | ----- | ----------- | -------- |
-| [[Mega Man]]   | 1987  |             |          |
-| [[Mega Man 9]] |       |             |          |
+| Titre                 | Année  | Plateformes | Remarque  |
+| --------------------- | ------ | ----------- | --------- |
+| [[Mega Man 9]]        |        |             |           |
+| Mega Man Legends 3    | 2011   |             | Abandonné |
+| [[Mega Man Universe]] | 2011   |             | Abandonné |
+| [[Mega Man 10]]       | 2012 ? |             |           |
 
 
 ## Mécaniques et innovations

@@ -2,7 +2,7 @@
 type: event
 ---
 
-# ATP - Tournoi de Shangaï
+# ATP 1000 - Tournoi de Shangaï
 
 # Introduction
 

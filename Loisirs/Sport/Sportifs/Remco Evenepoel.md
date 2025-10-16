@@ -50,10 +50,13 @@ type: personne
 | 2025  | [[Championnat de Belgique de Cyclisme\|Championnat National]] - CLM              | 1ier 🏆  | Sans adversaire...                                                        |
 | 2025  | [[Championnat de Belgique de Cyclisme\|Championnat National]] - Route            | 2e       |                                                                           |
 | 2025  | [[Tour de France]] - 5e étape                                                    | 1ier 🏆  | CLM<br>Maillot Blanc                                                      |
+| 2025  | [[Tour de France]] - Classement final                                            | Abandon  |                                                                           |
 | 2025  | [[Tour de Grande Bretagne]] - 5e étape                                           | 1ier 🏆  |                                                                           |
 | 2025  | [[Championnat du Monde de Cyclisme\|Championnat du Monde]] - CLM                 | 1ier 🏆  | ==Triplé consécutif !==                                                   |
-| 2025  | [[Championnat du Monde de Cyclisme\|Championnat du Monde]] - Route               | 2e       |                                                                           |
-| 2025  | [[Championnat d'Europe de Cyclisme]] - CLM                                       | 1ier     | ==Il a les 4 titres en même tps !!== (belgique, europe, monde, olympique) |
+| 2025  | [[Championnat du Monde de Cyclisme\|Championnat du Monde]] - Route               | 2e       | derrière [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]]                   |
+| 2025  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - CLM                        | 1ier     | ==Il a les 4 titres en même tps !!== (belgique, europe, monde, olympique) |
+| 2025  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - Route                      | 2e       | derrière [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]]                   |
+| 2025  | [[Tour de Lombardie]]                                                            | 2e       | derrière [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]]                   |
 ## Historique
 ```timeline-labeled
 [line-5, body-2]
@@ -67,7 +70,7 @@ content: Il bascule d'un petit parapet sur une hauteur effroyable. Il s'en sorti
 
 date:  Aout 2025
 title: Remco quitte [[Quick Step]] pour aller chez [[Bora Redbull]]
-content:
+content: Ce sera effectif fin de saison 2025
 ```
 
 ## Style et Caractéristiques
