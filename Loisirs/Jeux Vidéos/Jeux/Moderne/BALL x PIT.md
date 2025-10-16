@@ -25,15 +25,20 @@ type: game
 		- Fun, mécaniques créatives, variété d'options et de style de jeu
 		- La construction de base n'apporte pas grand chose, peut-être très difficile
 - **Gameplay** :
+	- Votre personnage se trouve sur une allée dans laquelle descendent différents mobs sous forme de pièce un peu comme [[Tetris]]. Il lance des balles pour détruire ses mobs comme dans un casse brique, excepté qu'on ne perd jamais les balles en bas de l'écran. A chaque mob détruit, vous pouvez récupérer de l'expérience qui permet d'obtenir des balles spéciales (poison, feu,...). Ensuite vous pouvez fusionner les pouvoirs.
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : 
+- **Lieu(x)** : [[Babylone]] (Babyboule)
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Des aventuriers
 - **Ennemis** :
+	-  Squelettes, boss
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Tetris]]
+	- [[Vampire Survivor]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
