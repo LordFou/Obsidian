@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ATP",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,8 +204,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "66d325d3c45da0f7",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
+    "ATP - Tournoi de Bruxelles.md",
+    "Raphaël Collignon.md",
     "Journal de bord/2025-10-21.md",
     "David Goffin.md",
     "ATP - Tournoi de Bâle.md",
@@ -231,8 +233,6 @@
     "conflict-files-obsidian-git.md",
     "Loisirs/Sport/Statistiques/Statistiques.md",
     "Loisirs/Sport/Statistiques",
-    "tobyfox.md",
-    "hampionnat du monde de Gravel.md",
     "Attachments/image-165.webp",
     "Attachments/image-164.webp",
     "Attachments/image-163.webp",
