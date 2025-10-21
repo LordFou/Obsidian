@@ -11,13 +11,13 @@ type: event
 
 ### Etapes 
 
-|     | Vainqueur            | Général                | Montagne | Points | Jeune | Remarques |
-| --- | -------------------- | ---------------------- | -------- | ------ | ----- | --------- |
-| 1e  |                      |                        |          |        |       |           |
-| 2e  |                      |                        |          |        |       |           |
-| 3e  |                      |                        |          |        |       |           |
-| 4e  | [[Timo de Jong]]     |                        |          |        |       |           |
-| 5e  | [[Danny van Poppel]] | [[Christophe Laporte]] |          |        |       |           |
+|     | Vainqueur            | Général                | Montagne | Points | Jeune | Remarques                                    |
+| --- | -------------------- | ---------------------- | -------- | ------ | ----- | -------------------------------------------- |
+| 1e  | [[Tim Merlier]]      | [[Tim Merlier]]        |          |        |       |                                              |
+| 2e  | [[Ethan Hayter]]     | [[Ethan Hayter]]       |          |        |       | CLM                                          |
+| 3e  | -                    | -                      | -        | -      | -     | Annulé pour cause de voiture sur le parcours |
+| 4e  | [[Timo de Jong]]     | [[Christophe Laporte]] |          |        |       |                                              |
+| 5e  | [[Danny van Poppel]] | [[Christophe Laporte]] |          |        |       |                                              |
 ## Femmes
 
 ### Etapes

@@ -33,6 +33,7 @@ type: personne
 | 2025  | [[Trofeo Matteotti]]                  | 1ier     |          |
 | 2025  | [[Tour d’Emilie]]                     | 1ier     |          |
 | 2025  | [[Gran Piemonte]]                     | 1ier     |          |
+| 2025  | [[Tour de Vénétie]]                   | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

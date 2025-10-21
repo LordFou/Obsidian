@@ -30,11 +30,12 @@ content: C'est sa 3e équipe de [[WNBA]] dans sa carrière. Elle portera le num�
 ```
 
 # Palmarès et Distinctions
-| Année | Compétition              | Résultat | Remarque                        |
-| ----- | ------------------------ | -------- | ------------------------------- |
-| 2019  | [[Championnat WNBA]]     | Champion | chez les [[Washington Mystics]] |
-| 2023  | [[Euro de Basket\|Euro]] | Or       |                                 |
-| 2025  | [[Euro de Basket\|Euro]] | Or       |                                 |
+| Année | Compétition                         | Résultat | Remarque                        |
+| ----- | ----------------------------------- | -------- | ------------------------------- |
+| 2019  | [[Championnat WNBA]]                | Champion | chez les [[Washington Mystics]] |
+| 2023  | [[Euro de Basket\|Euro]]            | Or       |                                 |
+| 2025  | [[Euro de Basket\|Euro]]            | Or       |                                 |
+| 2025  | [[Trophée National Mérite Sportif]] | 1ière    |                                 |
 
 # Quote
 - "_C’est l’une des joueuses les plus talentueuses, intelligentes et altruistes au monde et sa présence élève tout le monde autour d’elle. Emma apporte une expérience inestimable, un palmarès de championnes et une polyvalence unique qui s’intègre parfaitement à notre groupe alors que nous poursuivons notre quête incessante du titre en 2025._" (**Jonathan Kolb**, directeur général du New York Liberty)
