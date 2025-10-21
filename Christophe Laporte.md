@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-169.webp]]
 # Christophe Laporte
 
 # Informations Générales
@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                  | Résultat                   | Remarque         |
-| ----- | ---------------------------- | -------------------------- | ---------------- |
-| 2025  | [[Tour de Hollande]] - Class | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition                             | Résultat | Remarque |
+| ----- | --------------------------------------- | -------- | -------- |
+| 2025  | [[Tour de Hollande]] - Classement final | 1ier     |          |
+|       |                                         |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

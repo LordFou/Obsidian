@@ -11,13 +11,13 @@ type: event
 
 ### Etapes 
 
-|     | Vainqueur | Général                | Montagne | Points | Jeune | Remarques |
-| --- | --------- | ---------------------- | -------- | ------ | ----- | --------- |
-| 1e  |           |                        |          |        |       |           |
-| 2e  |           |                        |          |        |       |           |
-| 3e  |           |                        |          |        |       |           |
-| 4e  |           |                        |          |        |       |           |
-| 5e  |           | [[Christophe Laporte]] |          |        |       |           |
+|     | Vainqueur            | Général                | Montagne | Points | Jeune | Remarques |
+| --- | -------------------- | ---------------------- | -------- | ------ | ----- | --------- |
+| 1e  |                      |                        |          |        |       |           |
+| 2e  |                      |                        |          |        |       |           |
+| 3e  |                      |                        |          |        |       |           |
+| 4e  |                      |                        |          |        |       |           |
+| 5e  | [[Danny van Poppel]] | [[Christophe Laporte]] |          |        |       |           |
 ## Femmes
 
 ### Etapes

@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                                                | Résultat | Remarque |
 | ----- | ---------------------------------------------------------- | -------- | -------- |
 | 2025  | [[Championnat des Pays-Bas\|Championnat National]] - Route | 1ier     |          |
+| 2025  | [[Tour de Hollande]] - 5e étape                            | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
