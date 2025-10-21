@@ -11,6 +11,7 @@ type: event
 | Année | Vainqueur                 | Nationalité | Remarque  |
 | ----- | ------------------------- | ----------- | --------- |
 | 2022  | [[Felix Auger-Aliassime]] | Canadien    |           |
+| 2024  | [[Roberto Bautista Agut]] | Espagnol    |           |
 | 2025  | [[Felix Auger-Aliassime]] | Canadien    | Bruxelles |
 |       |                           |             |           |
 # Femmes
