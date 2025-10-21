@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Double.md",
+                "file": "Loisirs/Sport/Compétitions/Tour de Hollande.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paul Double"
+              "title": "Tour de Hollande"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tournoi de B",
+                "query": "Tour de Holl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,18 +206,21 @@
   },
   "active": "7963040a68934c5b",
   "lastOpenFiles": [
-    "Loisirs/Sport/Compétitions/Tour du Guangxi.md",
-    "Paul Magnier.md",
-    "David Goffin.md",
-    "ATP - Tournoi de Bâle.md",
+    "Jorre Verstraeten.md",
+    "Journal de bord/2025-10-21.md",
+    "Gabriella Willems.md",
+    "Roos Vanotterdijk.md",
     "Loisirs/Sport/Compétitions/Tour de Hollande.md",
     "Christophe Laporte.md",
+    "ATP - Tournoi de Bâle.md",
+    "David Goffin.md",
+    "Loisirs/Sport/Compétitions/Tour du Guangxi.md",
+    "Paul Double.md",
+    "Paul Magnier.md",
     "Attachments/image-169.webp",
     "Loisirs/Sport/Sportifs/Danny van Poppel.md",
-    "Roos Vanotterdijk.md",
     "Loisirs/Sport/Sportifs/Lucas Henveaux.md",
     "Attachments/image-168.webp",
-    "Journal de bord/2025-10-21.md",
     "Hanne Vandewinkel.md",
     "WTA - Tournoi de Tampico.md",
     "Loisirs/Sport/Compétitions/European Open.md",
@@ -234,9 +236,6 @@
     "Kalle Rovanpera.md",
     "ATP - Tournoi de Bruxelles.md",
     "ATP - Challenger d’Orléans.md",
-    "Loisirs/Sport/Compétitions/ATP - Tournoi de Shangaï.md",
-    "Loisirs/Sport/ATP - Tournoi de Tokyo.md",
-    "3DS.md",
     "Loisirs/Sport/Statistiques",
     "Attachments/image-165.webp",
     "Attachments/image-164.webp",

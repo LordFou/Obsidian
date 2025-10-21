@@ -2,22 +2,20 @@
 type: personne
 ---
 
-# Paul Double
+# Gabriella Willems
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Anglais
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Nationalité** :  Belge
+- **Sport / Discipline** :  [[Judo]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                            | Résultat | Remarque |
-| ----- | -------------------------------------- | -------- | -------- |
-| 2025  | [[Tour de Slovaquie]] - 5e étape       | 1ier     |          |
-| 2025  | [[Tour du Guangxi]] - 5e étape         | 1ier     |          |
-| 2025  | [[Tour du Guangxi]] - Classement final | 1ier     |          |
+| Année | Compétition                       | Résultat | Remarque |
+| ----- | --------------------------------- | -------- | -------- |
+| 2025  | Grand Prix de judo de Guadalajara | Bronze   |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -16,7 +16,7 @@ type: event
 | 1e  |                      |                        |          |        |       |           |
 | 2e  |                      |                        |          |        |       |           |
 | 3e  |                      |                        |          |        |       |           |
-| 4e  |                      |                        |          |        |       |           |
+| 4e  | [[Timo de Jong]]     |                        |          |        |       |           |
 | 5e  | [[Danny van Poppel]] | [[Christophe Laporte]] |          |        |       |           |
 ## Femmes
 
