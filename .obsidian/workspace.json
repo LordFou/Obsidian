@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raphaël Collignon.md",
+                "file": "Glen Cuyle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raphaël Collignon"
+              "title": "Glen Cuyle"
             }
           }
         ]
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,11 +205,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "66d325d3c45da0f7",
   "lastOpenFiles": [
-    "ATP - Tournoi de Bruxelles.md",
-    "Raphaël Collignon.md",
+    "Attachments/image-166.webp",
+    "Championnat du monde de Gymnastique.md",
+    "Glen Cuyle.md",
     "Journal de bord/2025-10-21.md",
+    "Raphaël Collignon.md",
+    "Loisirs/Sport/Compétitions/Grand Prix des USA.md",
+    "Loisirs/Sport/Compétitions/WRC Europe Centrale.md",
+    "Kalle Rovanpera.md",
+    "ATP - Tournoi de Bruxelles.md",
     "David Goffin.md",
     "ATP - Tournoi de Bâle.md",
     "ATP - Challenger d’Orléans.md",
@@ -226,12 +233,6 @@
     "Kenny Sun.md",
     "Yacht Club Games.md",
     "Mina The Hollower.md",
-    "Loisirs/Jeux Vidéos/Non triés/GamePass (XBox).md",
-    "Loisirs/Sport/Sportifs/Olivier Naert.md",
-    "Journal de bord/2025-10-13.md",
-    "Olivier Naert.md",
-    "conflict-files-obsidian-git.md",
-    "Loisirs/Sport/Statistiques/Statistiques.md",
     "Loisirs/Sport/Statistiques",
     "Attachments/image-165.webp",
     "Attachments/image-164.webp",
