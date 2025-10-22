@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "39018aacc9d92c38",
+        "id": "6e4a49e8b9068b73",
         "type": "tabs",
         "children": [
           {
-            "id": "dbd275711a5ba809",
+            "id": "410442cbff620624",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Journal de bord/2025-10-22.md",
+                "bFile": "Journal de bord/2025-10-22.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "diff",
+              "title": "Diff: 2025-10-22"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "oli",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,11 +205,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c8ddbab28469fc36",
+  "active": "410442cbff620624",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Loisirs/Sport/Sportifs/Olivier Naert.md",
+    "Journal de bord/2025-10-22.md",
+    "Journal de bord/2025-10-13.md",
     "Journal de bord/2025-10-16.md",
+    "Loisirs/Sport/Sportifs/Olivier Naert.md",
+    "conflict-files-obsidian-git.md",
     "Franchise Mega Man.md",
     "Manami Matsumae.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
@@ -227,12 +230,10 @@
     "Sans titre 1.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Constance.md",
     "Game One.md",
-    "Journal de bord/2025-10-13.md",
     "Attachments/image-165.webp",
     "Lien Meeuwssen.md",
     "Roos Vanotterdijk.md",
     "Journal de bord/2025-09-14.md",
-    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Attachments/image-164.webp",
     "Loisirs/Sport/Statistiques",
     "Attachments/image-163.webp",
