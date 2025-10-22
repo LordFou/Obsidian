@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "82b00a722dbc3001",
+        "id": "4610e2a9a5a28200",
         "type": "tabs",
         "children": [
           {
-            "id": "dfc83a745c0d1294",
+            "id": "e896b0e20916e2ee",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Journal de bord/2025-10-21.md",
-                "bFile": "Journal de bord/2025-10-21.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 2025-10-21"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -205,10 +201,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dfc83a745c0d1294",
+  "active": "e896b0e20916e2ee",
   "lastOpenFiles": [
-    "Journal de bord/2025-10-21.md",
     "conflict-files-obsidian-git.md",
+    "Journal de bord/2025-10-21.md",
     "WTA - Tournoi de Tampico.md",
     "Vampire Survivor.md",
     "Timo de Jong.md",
