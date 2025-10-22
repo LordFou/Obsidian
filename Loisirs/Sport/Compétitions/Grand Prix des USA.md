@@ -2,18 +2,15 @@
 type: event
 ---
 
-# Trophée National Mérite Sportif
+# Grand Prix des USA
 
 # Introduction
-
-Prix qui félicite un des meilleurs sportif de l'année en Belgique.
-On ne peut le recevoir qu'une fois dans sa carrière.
 
 # Hommes
 
 | Année | Vainqueur          | Nationalité | Remarque |
 | ----- | ------------------ | ----------- | -------- |
-| 2025  | [[Emma Meesseman]] |             |          |
+| 2025  | [[Max Verstappen]] | Néerlandais |          |
 |       |                    |             |          |
 # Femmes
 

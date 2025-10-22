@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Danny van Poppel
+# Kalle Rovanpera
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Néerlandais
-- **Sport / Discipline** :  Cyclisme
-- **Poste / Spécialité** (si applicable) :  Sprinteur
-- **Équipe(s) / Club(s)** :  Bora
+- **Nationalité** :  Finlandais
+- **Sport / Discipline** :  [[Rallye]]
+- **Poste / Spécialité** (si applicable) :  
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                | Résultat | Remarque |
-| ----- | ---------------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnat des Pays-Bas\|Championnat National]] - Route | 1ier     |          |
-| 2025  | [[Tour de Hollande]] - 5e étape                            | 1ier     |          |
+| Année | Compétition             | Résultat | Remarque |
+| ----- | ----------------------- | -------- | -------- |
+| 2025  | [[WRC Europe Centrale]] | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -30,10 +30,11 @@ type: personne
 | 2025  | [[Tour de France]] - 3e étape                              | 1ier     | Sprint massif    | Devant [[Jonathan Milan]]                    |
 | 2025  | [[Tour de France]] - 9e étape                              | 1ier     | Sprint massif    | Devant [[Jonathan Milan]], [[Arnaud De Lie]] |
 | 2025  | [[Critérium d'Alost]]                                      | 2e       |                  |                                              |
-| 2025  | [[Renewi Tour]] - 1e étape                                 | 1e       |                  |                                              |
-| 2025  | [[Renewi Tour]] - 4e étape                                 | 1e       |                  |                                              |
+| 2025  | [[Renewi Tour]] - 1e étape                                 | 1ier     |                  |                                              |
+| 2025  | [[Renewi Tour]] - 4e étape                                 | 1ier     |                  |                                              |
 | 2025  | [[Championnat des Flandres]]                               | 3e       | Sprint Massif    |                                              |
-| 2025  | [[Circuit du Houtland]]                                    | 1e       |                  |                                              |
+| 2025  | [[Circuit du Houtland]]                                    | 1ier     |                  |                                              |
+| 2025  | [[Tour de Hollande]] - 1e étape                            | 1ier     |                  |                                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -18,6 +18,8 @@ type: personne
 | 2025  | [[Tour de Belgique]] - 3e étape         | 1ier     | CLM      |
 | 2025  | [[Tour de Belgique]] - Classement final | 2ieme    |          |
 | 2025  | [[Tour du Luxembourg]] - 4e étape       | 1ier     | CLM      |
+| 2025  | [[Tour de Hollande]] - 2e étape         | 1ier     | CLM      |
+|       |                                         |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

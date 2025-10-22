@@ -2,21 +2,21 @@
 type: personne
 ---
 
-# Danny van Poppel
+# Jorre Verstraeten
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Néerlandais
-- **Sport / Discipline** :  Cyclisme
-- **Poste / Spécialité** (si applicable) :  Sprinteur
-- **Équipe(s) / Club(s)** :  Bora
+- **Nationalité** :  
+- **Sport / Discipline** :  
+- **Poste / Spécialité** (si applicable) :  
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                | Résultat | Remarque |
-| ----- | ---------------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnat des Pays-Bas\|Championnat National]] - Route | 1ier     |          |
-| 2025  | [[Tour de Hollande]] - 5e étape                            | 1ier     |          |
+| Année | Compétition                       | Résultat | Remarque |
+| ----- | --------------------------------- | -------- | -------- |
+| 2025  | Grand Prix de judo de Guadalajara | Bronze   |          |
+| 2025  | Grand Prix de juod de Lima        | Bronze   |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -20,6 +20,8 @@ type: personne
 | 2025  | [[Coupe Davis]] - 2e tour qualif | Victoire de son 2e match   | ==Qualification de la Belgique pour la phase finale==                                |
 | 2025  | [[ATP - Challenger d’Orléans]]   | Finale                     | perdue                                                                               |
 | 2025  | [[European Open]] - Double       | 1e tour                    | avec [[David Goffin]]                                                                |
+| 2025  | [[ATP - Tournoi de Bâle]]        | 1e tour                    |                                                                                      |
+| 2025  | [[ATP - Tournoi de Bruxelles]]   | Demi-finale                |                                                                                      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
