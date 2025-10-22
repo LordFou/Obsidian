@@ -1,0 +1,2 @@
+# Ukraine Vs Russie
+- Impossibilité pour les sportifs russes et biélorusses de participer aux compétitions de qualifications pour les [[JO 2026]] =>[ RTBF Sport](https://www.rtbf.be/article/la-federation-de-ski-interdit-les-athletes-russes-et-bielorusses-de-jo-2026-malgre-l-ouverture-du-cio-11620126)
