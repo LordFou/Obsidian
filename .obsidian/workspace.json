@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6e4a49e8b9068b73",
+        "id": "c1a39fda0c434185",
         "type": "tabs",
         "children": [
           {
-            "id": "410442cbff620624",
+            "id": "69f401d82c695cc3",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Journal de bord/2025-10-22.md",
-                "bFile": "Journal de bord/2025-10-22.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 2025-10-22"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -205,7 +201,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "410442cbff620624",
+  "active": "c8ddbab28469fc36",
   "lastOpenFiles": [
     "Journal de bord/2025-10-22.md",
     "Journal de bord/2025-10-13.md",
