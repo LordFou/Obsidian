@@ -1,7 +1,7 @@
 {
   "enableFeatures": {
     "graph": {
-      "auto-enabled": false,
+      "auto-enabled": true,
       "tags": false,
       "properties": false,
       "property-key": false,
@@ -13,14 +13,14 @@
       "imagesForAttachments": false,
       "focus": false,
       "shapes": false,
-      "elements-stats": false,
+      "elements-stats": true,
       "names": false,
       "icons": false,
       "arrows": false,
       "layers": false
     },
     "localgraph": {
-      "auto-enabled": false,
+      "auto-enabled": true,
       "tags": false,
       "properties": false,
       "property-key": false,
@@ -32,7 +32,7 @@
       "imagesForAttachments": false,
       "focus": false,
       "shapes": false,
-      "elements-stats": false,
+      "elements-stats": true,
       "names": false,
       "icons": false,
       "arrows": false,
@@ -80,11 +80,11 @@
   "additionalProperties": {},
   "backupGraphOptions": {
     "collapse-filter": true,
-    "search": "",
+    "search": "path:-journal",
     "localJumps": 1,
     "localBacklinks": true,
     "localForelinks": true,
-    "localInterlinks": false,
+    "localInterlinks": true,
     "showTags": false,
     "showAttachments": false,
     "hideUnresolved": false,
@@ -100,8 +100,16 @@
     "repelStrength": 10,
     "linkStrength": 1,
     "linkDistance": 250,
-    "scale": 1,
-    "close": false
+<<<<<<< HEAD
+    "scale": 0.7132754626224425,
+=======
+<<<<<<< HEAD
+    "scale": 0.7132754626224425,
+=======
+    "scale": 0.7132754626224421,
+>>>>>>> origin/main
+>>>>>>> origin/main
+    "close": true
   },
   "openInNewTab": false,
   "canonicalizePropertiesWithDataview": true,
@@ -111,28 +119,38 @@
       "name": "État par défaut",
       "engineOptions": {
         "colorGroups": [],
-        "search": "",
+        "search": "path:-journal",
         "hideUnresolved": false,
         "showAttachments": false,
-        "showOrphans": true,
         "showTags": false,
         "localBacklinks": true,
         "localForelinks": true,
-        "localInterlinks": false,
+        "localInterlinks": true,
         "localJumps": 1,
         "lineSizeMultiplier": 1,
         "nodeSizeMultiplier": 1,
         "showArrow": false,
         "textFadeMultiplier": 0,
-        "centerStrength": 0.5187132489703118,
+        "centerStrength": 0.518713248970312,
         "linkDistance": 250,
         "linkStrength": 1,
         "repelStrength": 10
       },
-      "toggleTypes": {},
-      "logicTypes": {},
+      "toggleTypes": {
+        "tag": [],
+        "link": [],
+        "folder": []
+      },
+      "logicTypes": {
+        "tag": "OR",
+        "link": "OR",
+        "folder": "OR"
+      },
       "enableLayers": false,
-      "currentLayerLevel": 0
+      "currentLayerLevel": 0,
+      "pinNodes": {},
+      "hiddenLegendRows": [],
+      "collapsedLegendRows": []
     }
   ],
   "startingStateID": "default-vault",
@@ -148,13 +166,13 @@
   "nodesSizeProperties": [
     ""
   ],
-  "nodesSizeFunction": "default",
+  "nodesSizeFunction": "backlinksCount",
   "nodesSizeRange": {
     "min": 0.5,
-    "max": 1.5
+    "max": 2
   },
   "nodesColorColormap": "YlOrRd",
-  "nodesColorFunction": "default",
+  "nodesColorFunction": "backlinksCount",
   "graphStatsDirection": "normal",
   "linksSizeFunction": "default",
   "linksColorColormap": "YlOrRd",
@@ -164,7 +182,7 @@
   "focusScaleFactor": 1.8,
   "highlightOpenNodes": false,
   "highlightSearchResults": false,
-  "maxNodes": 20,
+  "maxNodes": 500,
   "delay": 500,
   "revertAction": false,
   "enableCSS": false,
@@ -322,7 +340,7 @@
   "collapseLegend": true,
   "resetAfterChanges": false,
   "collapsedSettings": {
-    "automation": true,
+    "automation": false,
     "tags": true,
     "properties": false,
     "links": true,
@@ -337,10 +355,10 @@
     "names": true,
     "zoom": true,
     "local-graph": true,
-    "display": true,
+    "display": false,
     "filter": true,
     "inputs": true,
-    "performances": true,
+    "performances": false,
     "beta": true
   },
   "selectionMode": "replace",
