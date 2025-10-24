@@ -1,0 +1,2 @@
+# Diurétiques
+- [[Ruth Chepngetich]] en marathon => [Source](https://www.rtbf.be/article/athletisme-la-detentrice-du-record-du-monde-du-marathon-ruth-chepngetich-suspendue-trois-ans-pour-dopage-11621336)
