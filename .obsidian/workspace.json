@@ -8,62 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "419026371b5a203c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal de bord/2025-10-24.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-24"
-            },
-            "group": "93ae212ae66111f2"
-          },
-          {
-            "id": "def77f6bfd6565c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ruth Chepngetich.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ruth Chepngetich"
-            }
-          },
-          {
             "id": "6e75db3f1debda8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-10-25.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Forestrike.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-25"
-            }
+              "title": "Forestrike"
+            },
+            "group": "05f966d50f69d301"
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "001043394b70bee8",
+        "id": "5c8fa224b8dfbf1b",
         "type": "tabs",
         "children": [
           {
-            "id": "f3c71cb38efbd8d6",
+            "id": "8b06f237b4e58d41",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2025-10-24.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Forestrike.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -91,9 +62,9 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-10-24"
+              "title": "Graphique de Forestrike"
             },
-            "group": "93ae212ae66111f2"
+            "group": "05f966d50f69d301"
           }
         ]
       }
@@ -114,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Violence Policières",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,7 +177,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -279,10 +251,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e75db3f1debda8c",
+  "active": "8b06f237b4e58d41",
   "lastOpenFiles": [
-    "Violences Policères.md",
+    "Mathématique.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Forestrike.md",
     "Journal de bord/2025-10-25.md",
+    "Violences Policères.md",
     "Attachments/image-171.webp",
     "Attachments/image-170.webp",
     "Ruth Chepngetich.md",
@@ -307,8 +281,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/BALL x PIT.md",
     "Kenny Sun.md",
     "Kalle Rovanpera.md",
-    "Jorre Verstraeten.md",
-    "Hanne Vandewinkel.md",
     "Attachments/image-169.webp",
     "Attachments/image-168.webp",
     "Attachments/image-167.webp",
