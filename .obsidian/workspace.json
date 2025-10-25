@@ -6,6 +6,7 @@
       {
         "id": "e2b831ea29634cb1",
         "type": "tabs",
+        "dimension": 63.52357320099256,
         "children": [
           {
             "id": "6e75db3f1debda8c",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glen Cuyle.md",
+                "file": "Hélène Hesters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glen Cuyle"
+              "title": "Hélène Hesters"
             },
             "group": "05f966d50f69d301"
           }
@@ -27,6 +28,7 @@
       {
         "id": "5c8fa224b8dfbf1b",
         "type": "tabs",
+        "dimension": 36.47642679900744,
         "children": [
           {
             "id": "8b06f237b4e58d41",
@@ -34,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Glen Cuyle.md",
+                "file": "Hélène Hesters.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Glen Cuyle"
+              "title": "Graphique de Hélène Hesters"
             },
             "group": "05f966d50f69d301"
           }
@@ -177,7 +179,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -253,6 +256,14 @@
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
     "Journal de bord/2025-10-25.md",
+    "Hélène Hesters.md",
+    "Championnat du Monde de Cyclisme sur piste.md",
+    "Championnat du Monde de Gymnastique.md",
+    "Glen Cuyle.md",
+    "Donnell Whittenburg.md",
+    "Angelina Melnikova.md",
+    "Lisa Vaelen.md",
+    "Attachments/image-172.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Forestrike.md",
     "Mathématique.md",
     "Violences Policères.md",
@@ -273,13 +284,6 @@
     "Mina The Hollower.md",
     "Loisirs/Sport/Compétitions/WTA - Tournoi d'Osaka.md",
     "Loisirs/Sport/Compétitions/WRC Europe Centrale.md",
-    "Loisirs/Sport/Compétitions/Tour du Guangxi.md",
-    "Loisirs/Sport/Compétitions/Tour de Vénétie.md",
-    "Loisirs/Sport/Compétitions/Tour de Hollande.md",
-    "Loisirs/Sport/Compétitions/Grand Prix des USA.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/BALL x PIT.md",
-    "Kenny Sun.md",
-    "Kalle Rovanpera.md",
     "Attachments/image-169.webp",
     "Attachments/image-168.webp",
     "Attachments/image-167.webp",
@@ -288,7 +292,6 @@
     "Attachments/image-164.webp",
     "Loisirs/Sport/Statistiques",
     "Attachments/image-163.webp",
-    "Attachments/image-162.webp",
     "Culture/Politique",
     "Généalogie Matos Atari.canvas",
     "Historique Jeu Vidéo.canvas",

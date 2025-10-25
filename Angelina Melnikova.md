@@ -1,21 +1,21 @@
 ---
 type: personne
 ---
-![[image-166.webp]]
-# Glen Cuyle
+
+# Angelina Melnikova
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Gymnastique]]
+- **Nationalité** :  Russe
+- **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                       | Résultat                | Remarque |
-| ----- | ------------------------------------------------- | ----------------------- | -------- |
-| 2025  | [[Championnat du Monde de Gymnastique]] - Anneaux | Finaliste (7e - 13,933) | Jakarta  |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

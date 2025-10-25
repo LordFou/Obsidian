@@ -1,21 +1,21 @@
 ---
 type: personne
 ---
-![[image-166.webp]]
-# Glen Cuyle
+
+# Hélène Hesters
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Gymnastique]]
+- **Sport / Discipline** : [[Cyclisme sur piste]] 
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                       | Résultat                | Remarque |
-| ----- | ------------------------------------------------- | ----------------------- | -------- |
-| 2025  | [[Championnat du Monde de Gymnastique]] - Anneaux | Finaliste (7e - 13,933) | Jakarta  |
+| Année | Compétition                                                               | Résultat | Remarque |
+| ----- | ------------------------------------------------------------------------- | -------- | -------- |
+| 2025  | [[Championnat du Monde de Cyclisme sur piste]] - Course à l'éliminitation | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
