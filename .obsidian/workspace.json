@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Forestrike.md",
+                "file": "Glen Cuyle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forestrike"
+              "title": "Glen Cuyle"
             },
             "group": "05f966d50f69d301"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Forestrike.md",
+                "file": "Glen Cuyle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Forestrike"
+              "title": "Graphique de Glen Cuyle"
             },
             "group": "05f966d50f69d301"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "championnat du monde",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,8 +177,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -251,11 +250,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b06f237b4e58d41",
+  "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
-    "Mathématique.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Forestrike.md",
     "Journal de bord/2025-10-25.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Forestrike.md",
+    "Mathématique.md",
     "Violences Policères.md",
     "Attachments/image-171.webp",
     "Attachments/image-170.webp",
