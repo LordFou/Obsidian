@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Goetia.md",
+                "file": "Journal de bord/2025-10-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goetia"
+              "title": "2025-10-26"
             },
             "group": "05f966d50f69d301"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Goetia.md",
+                "file": "Journal de bord/2025-10-26.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Goetia"
+              "title": "Graphique de 2025-10-26"
             },
             "group": "05f966d50f69d301"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Goetia",
+                "query": "aja",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,8 +179,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,9 +254,12 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Sans titre.md",
+    "Journal de bord/2025-10-26.md",
+    "Loisirs/Sport/Sportifs/Ajay Mitchell.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Goetia.md",
     "Attachments/image-176.webp",
     "Manoir.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Goetia.md",
     "Attachments/image-175.webp",
     "Sushee.md",
     "Journal de bord/2025-10-25.md",
@@ -285,12 +287,9 @@
     "Journal de bord/2025-10-21.md",
     "Gabriella Willems.md",
     "conflict-files-obsidian-git.md",
-    "WTA - Tournoi de Tampico.md",
-    "Vampire Survivor.md",
     "Attachments/image-169.webp",
     "Attachments/image-168.webp",
     "Attachments/image-167.webp",
-    "Attachments/image-166.webp",
     "Loisirs/Sport/Statistiques",
     "Culture/Politique",
     "Généalogie Matos Atari.canvas",
