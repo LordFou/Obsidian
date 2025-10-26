@@ -8,12 +8,14 @@ type: game
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Paradox Interactive]]
+	- Studio : 
+		- [[Paradox Interactive]]
+		- The Chinese Room (?)
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Paradox Interactive]]
 - **Plateformes** : 
 - **Franchise** : [[Franchise Vampire The Masquerade]]
-- **Genre** :
+- **Genre** : [[Action Aventure]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -22,19 +24,24 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
+	- [[Monde ouvert]]
+	- Un peu d'[[Infiltration]]
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Seattle]]
 - **Epoque** : 
+	- Hiver
 - **Personnages principaux** : 
+	- Le nomade (Phyrer)
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Ce n'est donc pas la suite de [[Vampire The Masquerade - Bloodlines]] au niveau du genre (RPG)
 ## Liens et Ressources
 
 | Description | URL |
