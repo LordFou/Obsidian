@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire The Masquerade - Bloodlines 2.md",
+                "file": "Ninja Gaiden 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vampire The Masquerade - Bloodlines 2"
+              "title": "Ninja Gaiden 4"
             },
             "group": "05f966d50f69d301"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire The Masquerade - Bloodlines 2.md",
+                "file": "Ninja Gaiden 4.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Vampire The Masquerade - Bloodlines 2"
+              "title": "Graphique de Ninja Gaiden 4"
             },
             "group": "05f966d50f69d301"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Vampire",
+                "query": "Ninja",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,8 +179,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,8 +254,10 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
-    "Paradox Interactive.md",
+    "Franchise Ninja Gaiden.md",
+    "Ninja Gaiden 4.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire The Masquerade - Bloodlines 2.md",
+    "Paradox Interactive.md",
     "Franchise Vampire The Masquerade.md",
     "Vampire The Masquerade - Bloodlines.md",
     "Vampire The Masquerade - Redemption.md",
@@ -281,8 +282,6 @@
     "Lindsay De Vylder.md",
     "Albert Torres.md",
     "Jeline Vandromme.md",
-    "ITF World Tennis Tour Junior Finals.md",
-    "Loisirs/Sport/Sportifs/Sans titre.md",
     "Attachments/image-176.webp",
     "Attachments/image-175.webp",
     "Attachments/image-174.webp",
