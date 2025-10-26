@@ -2,20 +2,20 @@
 type: personne
 ---
 
-# Albert Torres
+# Katrijn De Clercq
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Espagnol
-- **Sport / Discipline** :  [[Cyclisme sur piste]]
-- **Poste / Spécialité** (si applicable) :  Omnium
+- **Nationalité** : Belge
+- **Sport / Discipline** : [[Cyclisme sur piste]]
+- **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                    | Résultat | Remarque |
-| ----- | ---------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnat du Monde de Cyclisme sur piste]] | 1iere    |          |
+| Année | Compétition                                                            | Résultat | Remarque               |
+| ----- | ---------------------------------------------------------------------- | -------- | ---------------------- |
+| 2025  | [[Championnat du Monde de Cyclisme sur piste]] - Course à l'américaine | 4e       | avec [[Shari Bossuyt]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

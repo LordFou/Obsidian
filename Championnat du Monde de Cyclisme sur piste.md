@@ -15,7 +15,7 @@ type: event
 |       |                       |         |             |          |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur                                  | Epreuve              | Nationalité  | Remarque |
+| ----- | ------------------------------------------ | -------------------- | ------------ | -------- |
+| 2025  | [[Katie Archibald]] et [[Madelaine Leech]] | Course à l'américain | Britanniques |          |
+|       |                                            |                      |              |          |
