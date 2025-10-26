@@ -37,10 +37,14 @@ type: game
 - **Ennemis** :
 	- The Wither (un essaim menaçant)
 - **Thèmes abordés** : 
+	- La persévérance
+	- La valeur de ses erreurs
 - **Influencé par** :
-	- Pixar
+	- [[Pixar]]
+	- Le [[Surréalisme]]
 - **A inspiré** : 
 - **Comparable à** :
+	- [[Jusant]] (niveau palette couleur)
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
