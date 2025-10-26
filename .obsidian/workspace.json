@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jeline Vandromme.md",
+                "file": "Albert Torres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jeline Vandromme"
+              "title": "Albert Torres"
             },
             "group": "05f966d50f69d301"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Jeline Vandromme.md",
+                "file": "Albert Torres.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Jeline Vandromme"
+              "title": "Graphique de Albert Torres"
             },
             "group": "05f966d50f69d301"
           }
@@ -179,7 +179,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -254,8 +255,12 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
-    "ITF World Tennis Tour Junior Finals.md",
+    "Championnat du Monde de Cyclisme sur piste.md",
+    "Albert Torres.md",
+    "Lindsay De Vylder.md",
     "Journal de bord/2025-10-26.md",
+    "Jeline Vandromme.md",
+    "ITF World Tennis Tour Junior Finals.md",
     "Loisirs/Sport/Sportifs/Sans titre.md",
     "Loisirs/Sport/Sportifs/Ajay Mitchell.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Goetia.md",
@@ -268,7 +273,6 @@
     "Les médias et la politique.md",
     "Attachments/image-174.webp",
     "Attachments/image-173.webp",
-    "Championnat du Monde de Cyclisme sur piste.md",
     "Championnat du Monde de Gymnastique.md",
     "Glen Cuyle.md",
     "Donnell Whittenburg.md",
@@ -284,9 +288,6 @@
     "Dopage dans le sport.md",
     "Journal de bord/2025-10-24.md",
     "Sport & Guerre.md",
-    "Journal de bord/2025-10-22.md",
-    "Journal de bord/2025-10-21.md",
-    "Gabriella Willems.md",
     "Attachments/image-169.webp",
     "Attachments/image-168.webp",
     "Attachments/image-167.webp",

@@ -8,10 +8,11 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur             | Epreuve | Nationalité | Remarque |
+| ----- | --------------------- | ------- | ----------- | -------- |
+| 2024  | [[Lindsay De Vylder]] | Omnium  | Belge       |          |
+| 2025  | [[Albert Torres]]     | Omnium  | Espagnol    |          |
+|       |                       |         |             |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
