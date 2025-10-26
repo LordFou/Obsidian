@@ -6,16 +6,16 @@ type: personne
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Nationalité** :  Belge
+- **Sport / Discipline** : [[Ski ]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| 2     | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition                            | Résultat | Remarque |
+| ----- | -------------------------------------- | -------- | -------- |
+| 2025  | Coupe du Monde - Sölden - Slalom Géant | 20e      | Autriche |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

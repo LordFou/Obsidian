@@ -8,6 +8,9 @@ Pendant ce temps :
 - Maxime Prévôt : "A titre personnel..."
 - "La position de ce gouvernement est d'œuvrer en faveur d'une solution à deux États". Le Premier ministre a toutefois posé deux conditions : la définition des frontières et l'installation d'un appareil d'État "acceptable". "Le jour où ce moment tant espéré arrivera, la Belgique reconnaitra la Palestine"
 
+# Entreprises
+
+![[image-178.webp]]
 # Journalistes
 
 ![[Pasted image 20250901140937.png]]

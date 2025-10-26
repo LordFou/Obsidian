@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sarah",
+                "query": "génoci",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,8 +179,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,8 +254,10 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
-    "Journal de bord/2025-10-26.md",
+    "Génocide Palestinien.md",
+    "Attachments/image-178.webp",
     "Sam Maes.md",
+    "Journal de bord/2025-10-26.md",
     "Championnat du Monde de Taekwondo.md",
     "Sarah Chaâri.md",
     "Championnat d'Europe de Taekwondo.md",
@@ -286,11 +287,9 @@
     "Angelina Melnikova.md",
     "Lisa Vaelen.md",
     "Attachments/image-172.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Forestrike.md",
     "Attachments/image-171.webp",
     "Attachments/image-170.webp",
     "Attachments/image-169.webp",
-    "Attachments/image-168.webp",
     "Loisirs/Sport/Statistiques",
     "Culture/Politique",
     "Généalogie Matos Atari.canvas",
