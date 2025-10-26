@@ -8,7 +8,7 @@ type: societe
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
 
 ## Informations Générales
-- **Nom complet** :  
+- **Nom complet** :  Double Fine Production
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :

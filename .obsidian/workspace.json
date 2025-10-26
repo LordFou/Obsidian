@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sam Maes.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Keeper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sam Maes"
+              "title": "Keeper"
             },
             "group": "05f966d50f69d301"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sam Maes.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Keeper.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Sam Maes"
+              "title": "Graphique de Keeper"
             },
             "group": "05f966d50f69d301"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "génoci",
+                "query": "Keeper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,9 +254,11 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
+    "Double Fine.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Keeper.md",
+    "Sam Maes.md",
     "Génocide Palestinien.md",
     "Attachments/image-178.webp",
-    "Sam Maes.md",
     "Journal de bord/2025-10-26.md",
     "Championnat du Monde de Taekwondo.md",
     "Sarah Chaâri.md",
@@ -284,8 +286,6 @@
     "Championnat du Monde de Gymnastique.md",
     "Glen Cuyle.md",
     "Donnell Whittenburg.md",
-    "Angelina Melnikova.md",
-    "Lisa Vaelen.md",
     "Attachments/image-172.webp",
     "Attachments/image-171.webp",
     "Attachments/image-170.webp",
