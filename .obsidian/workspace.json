@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Keeper.md",
+                "file": "Franchise Vampire The Masquerade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keeper"
+              "title": "Franchise Vampire The Masquerade"
             },
             "group": "05f966d50f69d301"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Keeper.md",
+                "file": "Franchise Vampire The Masquerade.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Keeper"
+              "title": "Graphique de Franchise Vampire The Masquerade"
             },
             "group": "05f966d50f69d301"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Keeper",
+                "query": "Vampire",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,8 +254,12 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
-    "Surréalisme.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire The Masquerade - Bloodlines 2.md",
+    "Franchise Vampire The Masquerade.md",
+    "Isaac Del Toro.md",
+    "Championnat National de Cyclisme du Mexique.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Keeper.md",
+    "Surréalisme.md",
     "Pixar.md",
     "Jusant.md",
     "Double Fine.md",
@@ -280,10 +284,6 @@
     "Attachments/image-176.webp",
     "Manoir.md",
     "Attachments/image-175.webp",
-    "Sushee.md",
-    "Journal de bord/2025-10-25.md",
-    "Hélène Hesters.md",
-    "Les médias et la politique.md",
     "Attachments/image-174.webp",
     "Attachments/image-173.webp",
     "Attachments/image-172.webp",

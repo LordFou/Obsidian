@@ -26,7 +26,7 @@ type: game
 - **Gameplay** :
 	- Jeu 100% muet (sans dialogue)
 	- Linéaire 
-- **Durée estimée** : 
+- **Durée estimée** : 3-4h
 
 ## Histoire et Univers
 - **Lieu(x)** : 

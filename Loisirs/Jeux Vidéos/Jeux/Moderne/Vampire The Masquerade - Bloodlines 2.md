@@ -2,17 +2,17 @@
 type: game
 ---
 
-# Vampire Bloodlines 2
+# Vampire The Masquerade - Bloodlines 2
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2025
 - **Développeur** : 
 	- Studio : [[Paradox Interactive]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise Vampire The Masquerade]]
 - **Genre** :
 - **Résumé** : 
 
