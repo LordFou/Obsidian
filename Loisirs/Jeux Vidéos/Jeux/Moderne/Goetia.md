@@ -24,6 +24,8 @@ type: game
   ![[image-176.webp]]
 - **Gameplay** : 
 	- Le joueur incarne une petite boule/lueur blanche qui représente un fantôme
+	- Etat fantôme, vous pouvez traverser les obstacles
+	- En mode incarnation d'un objet, vous acceptez les lois de la physique normale.
 - **Durée estimée** : 
 
 ## Histoire et Univers
