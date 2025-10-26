@@ -24,8 +24,9 @@ content:
 ## Jeux principaux
 | Titre                                     | Année | Plateformes | Remarque |
 | ----------------------------------------- | ----- | ----------- | -------- |
-| Vampire The Masquerade                    |       |             |          |
+| [[Vampire The Masquerade - Redemption]]   |       |             |          |
 | [[Vampire The Masquerade - Swansong]]     |       |             |          |
+| [[Vampire The Masquerade - Bloodlines]]   |       |             |          |
 | [[Vampire The Masquerade - Bloodlines 2]] | 2025  |             |          |
 
 

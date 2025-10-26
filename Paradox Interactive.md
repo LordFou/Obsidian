@@ -18,7 +18,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
+date: Achat de la licence White Wolf 
 title: 
 content:
 ```
