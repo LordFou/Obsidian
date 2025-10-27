@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/News Tower.md",
+                "file": "Championnat du Monde de Cyclisme sur piste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "News Tower"
+              "title": "Championnat du Monde de Cyclisme sur piste"
             },
             "group": "931ec05baf85698e"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/News Tower.md",
+                "file": "Championnat du Monde de Cyclisme sur piste.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de News Tower"
+              "title": "Graphique de Championnat du Monde de Cyclisme sur piste"
             },
             "group": "931ec05baf85698e"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "NEWS TOWER",
+                "query": "Elia viviani",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,12 +253,14 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
-    "Le Journalisme.md",
+    "Loisirs/Sport/Sportifs/Elia Viviani.md",
+    "Andres Vereecke.md",
+    "Journal de bord/2025-10-27.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/News Tower.md",
+    "Le Journalisme.md",
     "Attachments/image-180.webp",
     "Sparrow Night.md",
     "Loisirs/Jeux Vidéos/Jeux/HUNTERxHUNTER NENxIMPACT.md",
-    "Journal de bord/2025-10-27.md",
     "Loisirs/Jeux Vidéos/Aspyr Media.md",
     "Loisirs/Jeux Vidéos/Arrest Of A Stone Buddha.md",
     "Loisirs/Jeux Vidéos/Alex Moore.md",
@@ -279,8 +281,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Keeper.md",
     "Surréalisme.md",
     "Pixar.md",
-    "Jusant.md",
-    "Double Fine.md",
     "Attachments/image-178.webp",
     "Attachments/image-177.webp",
     "Attachments/image-176.webp",
