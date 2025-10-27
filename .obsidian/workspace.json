@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fabio Van den Bossche.md",
+                "file": "Grand Prix du Mexique.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fabio Van den Bossche"
+              "title": "Grand Prix du Mexique"
             },
             "group": "931ec05baf85698e"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fabio Van den Bossche.md",
+                "file": "Grand Prix du Mexique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Fabio Van den Bossche"
+              "title": "Graphique de Grand Prix du Mexique"
             },
             "group": "931ec05baf85698e"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hesters",
+                "query": "Lando",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,8 +177,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,8 +252,11 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
-    "Lindsay De Vylder.md",
+    "Lando Norris.md",
+    "Grand Prix du Mexique.md",
     "Championnat du Monde de Cyclisme sur piste.md",
+    "Fabio Van den Bossche.md",
+    "Lindsay De Vylder.md",
     "Journal de bord/2025-10-27.md",
     "Loisirs/Sport/Sportifs/Jules Hesters.md",
     "Hélène Hesters.md",
@@ -278,9 +280,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire The Masquerade - Bloodlines 2.md",
     "Paradox Interactive.md",
     "Franchise Vampire The Masquerade.md",
-    "Vampire The Masquerade - Bloodlines.md",
-    "Vampire The Masquerade - Redemption.md",
-    "Isaac Del Toro.md",
     "Attachments/image-178.webp",
     "Attachments/image-177.webp",
     "Attachments/image-176.webp",

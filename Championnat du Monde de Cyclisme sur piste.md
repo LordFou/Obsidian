@@ -10,6 +10,7 @@ type: event
 
 | Année | Vainqueur                                           | Epreuve                | Nationalité | Remarque |
 | ----- | --------------------------------------------------- | ---------------------- | ----------- | -------- |
+| 2012  |                                                     | Madison                | Belge       |          |
 | 2024  | [[Lindsay De Vylder]]                               | Omnium                 | Belge       |          |
 | 2025  | [[Albert Torres]]                                   | Omnium                 | Espagnol    |          |
 | 2025  | [[Elia Viviani]]                                    | Course à l'élimination | Italien     |          |
