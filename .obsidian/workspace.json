@@ -6,7 +6,6 @@
       {
         "id": "e2b831ea29634cb1",
         "type": "tabs",
-        "dimension": 56.88585607940447,
         "children": [
           {
             "id": "6e75db3f1debda8c",
@@ -21,29 +20,28 @@
               "icon": "lucide-file",
               "title": "News Tower"
             },
-            "group": "05f966d50f69d301"
+            "group": "931ec05baf85698e"
           }
         ]
       },
       {
-        "id": "5c8fa224b8dfbf1b",
+        "id": "11ca9477a975dabf",
         "type": "tabs",
-        "dimension": 43.11414392059553,
         "children": [
           {
-            "id": "8b06f237b4e58d41",
+            "id": "d2f893dc3ffd93aa",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
                 "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/News Tower.md",
                 "options": {
-                  "collapse-filter": false,
-                  "search": "path:-journal",
+                  "collapse-filter": true,
+                  "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -59,14 +57,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000004,
-                  "close": true
+                  "scale": 1,
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
               "title": "Graphique de News Tower"
             },
-            "group": "05f966d50f69d301"
+            "group": "931ec05baf85698e"
           }
         ]
       }
@@ -255,14 +253,20 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
-    "Sparrow Night.md",
+    "Le Journalisme.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/News Tower.md",
+    "Attachments/image-180.webp",
+    "Sparrow Night.md",
+    "Loisirs/Jeux Vidéos/Jeux/HUNTERxHUNTER NENxIMPACT.md",
+    "Journal de bord/2025-10-27.md",
+    "Loisirs/Jeux Vidéos/Aspyr Media.md",
+    "Loisirs/Jeux Vidéos/Arrest Of A Stone Buddha.md",
+    "Loisirs/Jeux Vidéos/Alex Moore.md",
     "Dopage dans le sport.md",
     "Ruth Chepngetich.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Captain Wayne - Vacation Desperation.md",
     "Attachments/image-179.webp",
     "Ciaran Games.md",
-    "Journal de bord/2025-10-27.md",
     "Ninja Gaiden 4.md",
     "Franchise Ninja Gaiden.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire The Masquerade - Bloodlines 2.md",
@@ -277,12 +281,7 @@
     "Pixar.md",
     "Jusant.md",
     "Double Fine.md",
-    "Sam Maes.md",
-    "Génocide Palestinien.md",
     "Attachments/image-178.webp",
-    "Journal de bord/2025-10-26.md",
-    "Championnat du Monde de Taekwondo.md",
-    "Sarah Chaâri.md",
     "Attachments/image-177.webp",
     "Attachments/image-176.webp",
     "Attachments/image-175.webp",
@@ -290,7 +289,6 @@
     "Attachments/image-173.webp",
     "Attachments/image-172.webp",
     "Attachments/image-171.webp",
-    "Attachments/image-170.webp",
     "Loisirs/Sport/Statistiques",
     "Culture/Politique",
     "Généalogie Matos Atari.canvas",

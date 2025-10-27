@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-180.webp]]
 # News Tower
 
 ## Informations Générales
@@ -25,11 +25,12 @@ type: game
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : New York
-- **Epoque** : 
+- **Lieu(x)** : [[New York]]
+- **Epoque** : [[Années 30]]
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Le Journalisme]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
