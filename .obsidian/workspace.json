@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-10-27.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Captain Wayne - Vacation Desperation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-27"
+              "title": "Captain Wayne - Vacation Desperation"
             },
             "group": "05f966d50f69d301"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2025-10-27.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Captain Wayne - Vacation Desperation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-10-27"
+              "title": "Graphique de Captain Wayne - Vacation Desperation"
             },
             "group": "05f966d50f69d301"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ninja",
+                "query": "Vacation Desperation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,7 +179,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,8 +255,11 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
-    "Ninja Gaiden 4.md",
+    "Attachments/image-179.webp",
+    "Ciaran Games.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Captain Wayne - Vacation Desperation.md",
     "Journal de bord/2025-10-27.md",
+    "Ninja Gaiden 4.md",
     "Franchise Ninja Gaiden.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire The Masquerade - Bloodlines 2.md",
     "Paradox Interactive.md",
@@ -279,9 +283,6 @@
     "Attachments/image-177.webp",
     "Championnat du Monde de Cyclisme sur piste.md",
     "Shari Bossuyt.md",
-    "Katrijn De Clercq.md",
-    "Lindsay De Vylder.md",
-    "Albert Torres.md",
     "Attachments/image-176.webp",
     "Attachments/image-175.webp",
     "Attachments/image-174.webp",
