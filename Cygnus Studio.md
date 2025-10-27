@@ -24,9 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                            | Genre              | Plateformes           |
-| ----- | -------------------------------- | ------------------ | --------------------- |
-| 1994  | [[Raptor - Call of The Shadows]] | Action / RPG / FPS | PC, PS5, Xbox, Switch |
+| Année | Titre                            | Genre | Plateformes |
+| ----- | -------------------------------- | ----- | ----------- |
+| 1994  | [[Raptor - Call of The Shadows]] |       | PC          |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

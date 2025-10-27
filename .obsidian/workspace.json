@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cygnus Studio.md",
+                "file": "Journal de bord/2025-10-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cygnus Studio"
+              "title": "2025-10-27"
             },
             "group": "931ec05baf85698e"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cygnus Studio.md",
+                "file": "Journal de bord/2025-10-27.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Cygnus Studio"
+              "title": "Graphique de 2025-10-27"
             },
             "group": "931ec05baf85698e"
           }
@@ -253,8 +253,8 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Raptor - Call of The Shadows.md",
     "Cygnus Studio.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Raptor - Call of The Shadows.md",
     "Creative Reality.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Dreamweb.md",
     "Cryo Interactive.md",
