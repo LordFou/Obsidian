@@ -2,13 +2,13 @@
 type: game
 ---
 
-# Dark Seed
+# Gobliiins
 
 ## Informations Générales
 
-- **Année de sortie** : 1992
+- **Année de sortie** : 1991
 - **Développeur** : 
-	- Studio : [[Cyberdreams]]
+	- Studio : [[Coktel Vision]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 

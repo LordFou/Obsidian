@@ -2,13 +2,13 @@
 type: game
 ---
 
-# Dark Seed
+# Raptor - Call of The Shadows
 
 ## Informations Générales
 
-- **Année de sortie** : 1992
+- **Année de sortie** : 1994
 - **Développeur** : 
-	- Studio : [[Cyberdreams]]
+	- Studio : [[Cygnus Studio]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 

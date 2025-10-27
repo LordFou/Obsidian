@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Dark Seed.md",
+                "file": "Cygnus Studio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dark Seed"
+              "title": "Cygnus Studio"
             },
             "group": "931ec05baf85698e"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Dark Seed.md",
+                "file": "Cygnus Studio.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Dark Seed"
+              "title": "Graphique de Cygnus Studio"
             },
             "group": "931ec05baf85698e"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Lando",
+                "query": "amberstar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,8 +253,23 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
-    "Grand Prix du Mexique.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Raptor - Call of The Shadows.md",
+    "Cygnus Studio.md",
+    "Creative Reality.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Dreamweb.md",
+    "Cryo Interactive.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Dune.md",
+    "Thalion Software.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Amberstar.md",
+    "Coktel Vision.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Gobliiins.md",
+    "Futura.md",
+    "Panza Kick Boxing.md",
+    "Adventure Soft.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Simon The Sorcerer.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Dark Seed.md",
+    "Cyberdreams.md",
+    "Grand Prix du Mexique.md",
     "Lando Norris.md",
     "Championnat du Monde de Cyclisme sur piste.md",
     "Fabio Van den Bossche.md",
@@ -264,23 +279,8 @@
     "Hélène Hesters.md",
     "Loisirs/Sport/Sportifs/Elia Viviani.md",
     "Andres Vereecke.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/News Tower.md",
-    "Le Journalisme.md",
     "Attachments/image-180.webp",
-    "Sparrow Night.md",
-    "Loisirs/Jeux Vidéos/Jeux/HUNTERxHUNTER NENxIMPACT.md",
-    "Loisirs/Jeux Vidéos/Aspyr Media.md",
-    "Loisirs/Jeux Vidéos/Arrest Of A Stone Buddha.md",
-    "Loisirs/Jeux Vidéos/Alex Moore.md",
-    "Dopage dans le sport.md",
-    "Ruth Chepngetich.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Captain Wayne - Vacation Desperation.md",
     "Attachments/image-179.webp",
-    "Ciaran Games.md",
-    "Ninja Gaiden 4.md",
-    "Franchise Ninja Gaiden.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire The Masquerade - Bloodlines 2.md",
-    "Paradox Interactive.md",
     "Attachments/image-178.webp",
     "Attachments/image-177.webp",
     "Attachments/image-176.webp",

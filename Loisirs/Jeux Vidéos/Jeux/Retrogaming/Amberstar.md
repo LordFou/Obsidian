@@ -2,13 +2,13 @@
 type: game
 ---
 
-# Dark Seed
+# Amberstar
 
 ## Informations Générales
 
 - **Année de sortie** : 1992
 - **Développeur** : 
-	- Studio : [[Cyberdreams]]
+	- Studio : [[Thalion Software]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 

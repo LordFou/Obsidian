@@ -2,13 +2,13 @@
 type: game
 ---
 
-# Dark Seed
+# Simon The Sorcerer
 
 ## Informations Générales
 
-- **Année de sortie** : 1992
+- **Année de sortie** : 1993
 - **Développeur** : 
-	- Studio : [[Cyberdreams]]
+	- Studio : [[Adventure Soft]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 

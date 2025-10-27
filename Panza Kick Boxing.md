@@ -6,15 +6,15 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 1991
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Futura]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :
-- **Résumé** : du nom du boxeur André Panza
+- **Résumé** : du nom du boxeur [[André Panza]]
 
 ## Détails Techniques
 - **Moteur de jeu** : 

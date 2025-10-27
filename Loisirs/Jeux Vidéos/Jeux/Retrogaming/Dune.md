@@ -2,13 +2,13 @@
 type: game
 ---
 
-# Dark Seed
+# Dune
 
 ## Informations Générales
 
 - **Année de sortie** : 1992
 - **Développeur** : 
-	- Studio : [[Cyberdreams]]
+	- Studio : [[Cryo Interactive]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 

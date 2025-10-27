@@ -2,13 +2,13 @@
 type: game
 ---
 
-# Dark Seed
+# Dreamweb
 
 ## Informations Générales
 
-- **Année de sortie** : 1992
+- **Année de sortie** : 1994
 - **Développeur** : 
-	- Studio : [[Cyberdreams]]
+	- Studio : [[Creative Reality]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
