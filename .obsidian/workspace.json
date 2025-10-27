@@ -6,7 +6,7 @@
       {
         "id": "e2b831ea29634cb1",
         "type": "tabs",
-        "dimension": 56.88585607940446,
+        "dimension": 56.88585607940447,
         "children": [
           {
             "id": "6e75db3f1debda8c",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ninja Gaiden 4.md",
+                "file": "Journal de bord/2025-10-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ninja Gaiden 4"
+              "title": "2025-10-27"
             },
             "group": "05f966d50f69d301"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ninja Gaiden 4.md",
+                "file": "Journal de bord/2025-10-27.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:-journal",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Ninja Gaiden 4"
+              "title": "Graphique de 2025-10-27"
             },
             "group": "05f966d50f69d301"
           }
@@ -254,8 +254,9 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
-    "Franchise Ninja Gaiden.md",
     "Ninja Gaiden 4.md",
+    "Journal de bord/2025-10-27.md",
+    "Franchise Ninja Gaiden.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire The Masquerade - Bloodlines 2.md",
     "Paradox Interactive.md",
     "Franchise Vampire The Masquerade.md",
@@ -281,7 +282,6 @@
     "Katrijn De Clercq.md",
     "Lindsay De Vylder.md",
     "Albert Torres.md",
-    "Jeline Vandromme.md",
     "Attachments/image-176.webp",
     "Attachments/image-175.webp",
     "Attachments/image-174.webp",
