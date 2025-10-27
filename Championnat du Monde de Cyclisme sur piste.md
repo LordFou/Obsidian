@@ -8,14 +8,15 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur             | Epreuve               | Nationalité | Remarque |
-| ----- | --------------------- | --------------------- | ----------- | -------- |
-| 2024  | [[Lindsay De Vylder]] | Omnium                | Belge       |          |
-| 2025  | [[Albert Torres]]     | Omnium                | Espagnol    |          |
-| 2025  | [[Elia Viviani]]      | Course à l'américaine | Italien     |          |
+| Année | Vainqueur                                           | Epreuve                | Nationalité | Remarque |
+| ----- | --------------------------------------------------- | ---------------------- | ----------- | -------- |
+| 2024  | [[Lindsay De Vylder]]                               | Omnium                 | Belge       |          |
+| 2025  | [[Albert Torres]]                                   | Omnium                 | Espagnol    |          |
+| 2025  | [[Elia Viviani]]                                    | Course à l'élimination | Italien     |          |
+| 2025  | [[Lindsay De Vylder]] <br>[[Fabio Van den Bossche]] | Madison                | Belge       |          |
 # Femmes
 
-| Année | Vainqueur                                  | Epreuve              | Nationalité  | Remarque |
-| ----- | ------------------------------------------ | -------------------- | ------------ | -------- |
-| 2025  | [[Katie Archibald]] et [[Madelaine Leech]] | Course à l'américain | Britanniques |          |
-|       |                                            |                      |              |          |
+| Année | Vainqueur                                   | Epreuve               | Nationalité  | Remarque |
+| ----- | ------------------------------------------- | --------------------- | ------------ | -------- |
+| 2025  | [[Katie Archibald]] <br>[[Madelaine Leech]] | Course à l'américaine | Britanniques |          |
+|       |                                             |                       |              |          |
