@@ -13,28 +13,29 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                                     | Résultat | Remarque |
-| ----- | ------------------------------------------------------------------------------- | -------- | -------- |
-| 2025  | ?                                                                               | 1ier     |          |
-| 2025  | ?                                                                               | 1ier     |          |
-| 2025  | ?                                                                               | 1ier     |          |
-| 2025  | ?                                                                               | 1ier     |          |
-| 2025  | ?                                                                               | 1ier     |          |
-| 2025  | ?                                                                               | 1ier     |          |
-| 2025  | ?                                                                               | 1ier     |          |
-| 2025  | ?                                                                               | 1ier     |          |
-| 2025  | ?                                                                               | 1ier     |          |
-| 2025  | [[Tour d'Autriche]] - 2e étape                                                  | 1ier     |          |
-| 2025  | [[Tour d'Autriche]] - 3e étape                                                  | 1ier     |          |
-| 2025  | [[Tour d'Autriche]] - 4e étape                                                  | 1ier     |          |
-| 2025  | [[Classica Terres del Ebre]]                                                    | 1ier     |          |
-| 2025  | [[Tour de Burgos]] - Classement final                                           | 1ier     |          |
-| 2025  | [[Coppa Sabatini]]                                                              | 1ier     |          |
-| 2025  | [[Trofeo Matteotti]]                                                            | 1ier     |          |
-| 2025  | [[Tour d’Emilie]]                                                               | 1ier     |          |
-| 2025  | [[Gran Piemonte]]                                                               | 1ier     |          |
-| 2025  | [[Tour de Vénétie]]                                                             | 1ier     |          |
-| 2025  | [[Championnat National de Cyclisme du Mexique\|Championnat National]] - Mexique | 1ier     |          |
+| Année | Compétition                                                                    | Résultat | Remarque |
+| ----- | ------------------------------------------------------------------------------ | -------- | -------- |
+| 2025  | ?                                                                              | 1ier     |          |
+| 2025  | ?                                                                              | 1ier     |          |
+| 2025  | ?                                                                              | 1ier     |          |
+| 2025  | ?                                                                              | 1ier     |          |
+| 2025  | ?                                                                              | 1ier     |          |
+| 2025  | ?                                                                              | 1ier     |          |
+| 2025  | ?                                                                              | 1ier     |          |
+| 2025  | ?                                                                              | 1ier     |          |
+| 2025  | ?                                                                              | 1ier     |          |
+| 2025  | [[Tour d'Autriche]] - 2e étape                                                 | 1ier     |          |
+| 2025  | [[Tour d'Autriche]] - 3e étape                                                 | 1ier     |          |
+| 2025  | [[Tour d'Autriche]] - 4e étape                                                 | 1ier     |          |
+| 2025  | [[Classica Terres del Ebre]]                                                   | 1ier     |          |
+| 2025  | [[Tour de Burgos]] - Classement final                                          | 1ier     |          |
+| 2025  | [[Coppa Sabatini]]                                                             | 1ier     |          |
+| 2025  | [[Trofeo Matteotti]]                                                           | 1ier     |          |
+| 2025  | [[Tour d’Emilie]]                                                              | 1ier     |          |
+| 2025  | [[Gran Piemonte]]                                                              | 1ier     |          |
+| 2025  | [[Tour de Vénétie]]                                                            | 1ier     |          |
+| 2025  | [[Championnat National de Cyclisme du Mexique\|Championnat National]] - Course | 1ier     |          |
+| 2025  | [[Championnat National de Cyclisme du Mexique\|Championnat National]] - CLM    | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
