@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-10-27.md",
+                "file": "Journal de bord/2025-11-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-27"
+              "title": "2025-11-01"
             },
             "group": "931ec05baf85698e"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2025-10-27.md",
+                "file": "Journal de bord/2025-11-01.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-10-27"
+              "title": "Graphique de 2025-11-01"
             },
             "group": "931ec05baf85698e"
           }
@@ -253,6 +253,8 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
+    "Journal de bord/2025-10-27.md",
+    "Journal de bord/2025-11-01.md",
     "Cygnus Studio.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Raptor - Call of The Shadows.md",
     "Creative Reality.md",
@@ -274,11 +276,9 @@
     "Championnat du Monde de Cyclisme sur piste.md",
     "Fabio Van den Bossche.md",
     "Lindsay De Vylder.md",
-    "Journal de bord/2025-10-27.md",
     "Loisirs/Sport/Sportifs/Jules Hesters.md",
     "Hélène Hesters.md",
     "Loisirs/Sport/Sportifs/Elia Viviani.md",
-    "Andres Vereecke.md",
     "Attachments/image-180.webp",
     "Attachments/image-179.webp",
     "Attachments/image-178.webp",
