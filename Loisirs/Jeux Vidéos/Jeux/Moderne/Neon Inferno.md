@@ -21,7 +21,7 @@ type: game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
-	- Grand 
+	- Grand oui car punchy, joli et entrainant (Origami)
 - **Gameplay** :
 - **Durée estimée** : 
 

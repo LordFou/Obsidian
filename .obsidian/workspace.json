@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Neon Inferno.md",
+                "file": "Vampire Survivor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neon Inferno"
+              "title": "Vampire Survivor"
             },
             "group": "931ec05baf85698e"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Neon Inferno.md",
+                "file": "Vampire Survivor.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Neon Inferno"
+              "title": "Graphique de Vampire Survivor"
             },
             "group": "931ec05baf85698e"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "neon inferno",
+                "query": "vampire sur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,8 +177,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,8 +252,10 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
-    "Zenovia Interactive.md",
+    "Tribute Games.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Marvel Cosmic Invasion.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Neon Inferno.md",
+    "Zenovia Interactive.md",
     "Dopage dans le sport.md",
     "Justin Verboomen.md",
     "Journal de bord/2025-11-01.md",
@@ -277,8 +278,6 @@
     "Coktel Vision.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Gobliiins.md",
     "Futura.md",
-    "Panza Kick Boxing.md",
-    "Adventure Soft.md",
     "Attachments/image-180.webp",
     "Attachments/image-179.webp",
     "Attachments/image-178.webp",
