@@ -2,43 +2,40 @@
 type: game
 ---
 
-# ROUTINE
+# Darkwood 2
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 2025 (?)
 - **Développeur** : 
-	- Studio : [[Lunar Software]]
+	- Studio : [[Ice-Pick Lodge]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
-- **Franchise** : 
-- **Genre** : [[FPS]], [[Horreur]]
+- **Plateformes** : PC
+- **Franchise** : [[Franchise Darkwood]]
+- **Genre** : [[Survival Horror]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 2d.5 vue du dessus
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
-	- Multi Tool genre couteau suisse
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- [[Base lunaire]]
+	- Océan asséché
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
-	- [[Robots]]
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- Arlésienne (?)
-- Débuté en 2012 !
+- 
 ## Liens et Ressources
 
 | Description | URL |

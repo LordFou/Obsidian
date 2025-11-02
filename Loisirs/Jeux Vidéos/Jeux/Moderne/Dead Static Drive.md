@@ -2,18 +2,18 @@
 type: game
 ---
 
-# ROUTINE
+# Dead Static Drive
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Lunar Software]]
+	- Studio : [[Reuben Games]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]],[[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[FPS]], [[Horreur]]
+- **Genre** : [[Survival Horror]], [[Shooter]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -22,23 +22,20 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
-	- Multi Tool genre couteau suisse
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- [[Base lunaire]]
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
-	- [[Robots]]
+	- Grands Anciens (Cthullu)
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- Arlésienne (?)
-- Débuté en 2012 !
+- 
 ## Liens et Ressources
 
 | Description | URL |

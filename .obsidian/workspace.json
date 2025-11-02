@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vampire Survivor.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/ROUTINE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vampire Survivor"
+              "title": "ROUTINE"
             },
             "group": "931ec05baf85698e"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vampire Survivor.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/ROUTINE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Vampire Survivor"
+              "title": "Graphique de ROUTINE"
             },
             "group": "931ec05baf85698e"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vampire sur",
+                "query": "routine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -252,6 +252,15 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
+    "Lunar Software.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/ROUTINE.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dead Static Drive.md",
+    "Reuben Games.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Darkwood 2.md",
+    "Ice-Pick Lodge.md",
+    "Franchise Darkwood.md",
+    "Vampire Survivor.md",
+    "Poncle.md",
     "Tribute Games.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Marvel Cosmic Invasion.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Neon Inferno.md",
@@ -269,15 +278,6 @@
     "Journal de bord/2025-10-27.md",
     "Cygnus Studio.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Raptor - Call of The Shadows.md",
-    "Creative Reality.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Dreamweb.md",
-    "Cryo Interactive.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Dune.md",
-    "Thalion Software.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Amberstar.md",
-    "Coktel Vision.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Gobliiins.md",
-    "Futura.md",
     "Attachments/image-180.webp",
     "Attachments/image-179.webp",
     "Attachments/image-178.webp",
