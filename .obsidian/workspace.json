@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dopage dans le sport.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Neon Inferno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dopage dans le sport"
+              "title": "Neon Inferno"
             },
             "group": "931ec05baf85698e"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dopage dans le sport.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Neon Inferno.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Dopage dans le sport"
+              "title": "Graphique de Neon Inferno"
             },
             "group": "931ec05baf85698e"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dopage",
+                "query": "neon inferno",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,7 +177,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,6 +253,9 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
+    "Zenovia Interactive.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Neon Inferno.md",
+    "Dopage dans le sport.md",
     "Justin Verboomen.md",
     "Journal de bord/2025-11-01.md",
     "Zizou Bergs.md",
@@ -275,9 +279,6 @@
     "Futura.md",
     "Panza Kick Boxing.md",
     "Adventure Soft.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Simon The Sorcerer.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Dark Seed.md",
-    "Cyberdreams.md",
     "Attachments/image-180.webp",
     "Attachments/image-179.webp",
     "Attachments/image-178.webp",
