@@ -9,9 +9,9 @@ type: game
 - **Année de sortie** : 
 - **Développeur** : 
 	- Studio : 
-	- Personnalités : 
+	- Personnalités : [[Mike Livesay]]
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[Apple II]]
 - **Franchise** : 
 - **Genre** :
 - **Résumé** : 

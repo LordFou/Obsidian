@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Franchise Miner 2049er.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Miner 2049er.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Franchise Miner 2049er"
+              "title": "Miner 2049er"
             },
             "group": "931ec05baf85698e"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Franchise Miner 2049er.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Miner 2049er.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"Journal de bord\"  ",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Franchise Miner 2049er"
+              "title": "Graphique de Miner 2049er"
             },
             "group": "931ec05baf85698e"
           }
@@ -253,8 +253,10 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Miner 2049er.md",
     "Franchise Miner 2049er.md",
+    "Miner 2049er II.md",
+    "Mike Livesay.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Miner 2049er.md",
     "Miner 2049er - Mobile.md",
     "Bounty Bob Strikes Back.md",
     "Bounty Bob.md",
@@ -279,8 +281,6 @@
     "Dopage dans le sport.md",
     "Justin Verboomen.md",
     "Journal de bord/2025-11-01.md",
-    "Zizou Bergs.md",
-    "Isaac Del Toro.md",
     "Attachments/image-180.webp",
     "Attachments/image-179.webp",
     "Attachments/image-178.webp",

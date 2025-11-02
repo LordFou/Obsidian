@@ -35,8 +35,17 @@ content:
 	- Plateformes mobiles
 	- Transporteurs (Téléportateurs)
 	- Toboggans
-	- Nacelle
+	- Nacelles
 	- Canons
+	- Traîneaux à fusée
+	- Cabines de téléphériques
+	- Montgolfière
+	- Monte-charges
+	- Silos à céréales
+	- Tubes à vide
+	- Ascenseurs à piles
+	- Treuils
+	- Puits de gravité
 
 ## Réception et héritage
 {{Analyse de la réception critique et populaire, ventes, influence sur d’autres jeux, adaptations en films, séries, livres...}}
@@ -47,5 +56,3 @@ content:
 - {{Fait ou anecdote 3}}
 
 ## Liens connexes
-- [[Lien vers une autre note]] (ex: un jeu spécifique, un développeur)
-- [Page Wikipédia](https://wikipedia.or
