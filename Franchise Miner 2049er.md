@@ -22,13 +22,21 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre            | Année | Plateformes | Remarque |
-| ---------------- | ----- | ----------- | -------- |
-| [[Miner 2049er]] | 1985  | Arcade      |          |
+| Titre                       | Année | Genre  | Plateformes  | Remarque |
+| --------------------------- | ----- | ------ | ------------ | -------- |
+| [[Miner 2049er]]            | 1985  | Arcade |              |          |
+| [[Miner 2049er II]]         |       | Arcade | [[Apple II]] | Exclu    |
+| [[Bounty Bob Strikes Back]] |       |        |              |          |
+| [[Miner 2049er - Mobile]]   |       |        |              |          |
 
 
 ## Mécaniques et innovations
-{{Description des éléments de gameplay marquants, des innovations techniques et de ce qui rend la franchise unique.}}
+- Moyens de transport du héros
+	- Plateformes mobiles
+	- Transporteurs (Téléportateurs)
+	- Toboggans
+	- Nacelle
+	- Canons
 
 ## Réception et héritage
 {{Analyse de la réception critique et populaire, ventes, influence sur d’autres jeux, adaptations en films, séries, livres...}}
@@ -40,4 +48,4 @@ content:
 
 ## Liens connexes
 - [[Lien vers une autre note]] (ex: un jeu spécifique, un développeur)
-- [Page Wikipédia](https://wikipedia.org)
+- [Page Wikipédia](https://wikipedia.or

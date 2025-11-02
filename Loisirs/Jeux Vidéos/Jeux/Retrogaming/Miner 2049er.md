@@ -29,7 +29,9 @@ type: game
 	- Les systèmes de transports
 		- Toboggans (permettait de montrer la route à suivre, et une fois dans le toboggan, on ne sait rien contrôler)
 		- Un canon (à remplir de TNT pour se propulser sur une plateforme spécifique). Selon la quantité de TNT, l'envol est plus ou moins long et ==peut notamment envoyer en dehors de l'écran==
-		- Les transporteurs
+		- Les transporteurs ([[Téléportation]])
+		- Des plateformes mobiles
+		- Des nacelles
 - **Durée estimée** : 
 
 ## Histoire et Univers
