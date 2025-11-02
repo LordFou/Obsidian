@@ -41,7 +41,7 @@
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -251,7 +251,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e75db3f1debda8c",
+  "active": "d2f893dc3ffd93aa",
   "lastOpenFiles": [
     "Franchise Miner 2049er.md",
     "Miner 2049er II.md",
