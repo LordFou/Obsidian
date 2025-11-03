@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Miner 2049er.md",
+                "file": "Journal de bord/2025-11-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Miner 2049er"
+              "title": "2025-11-03"
             },
             "group": "931ec05baf85698e"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Miner 2049er.md",
+                "file": "Journal de bord/2025-11-03.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"Journal de bord\"  ",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Miner 2049er"
+              "title": "Graphique de 2025-11-03"
             },
             "group": "931ec05baf85698e"
           }
@@ -251,12 +251,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d2f893dc3ffd93aa",
+  "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Miner 2049er.md",
+    "Journal de bord/2025-11-03.md",
     "Franchise Miner 2049er.md",
     "Miner 2049er II.md",
     "Mike Livesay.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Miner 2049er.md",
     "Miner 2049er - Mobile.md",
     "Bounty Bob Strikes Back.md",
     "Bounty Bob.md",
@@ -280,7 +281,6 @@
     "Zenovia Interactive.md",
     "Dopage dans le sport.md",
     "Justin Verboomen.md",
-    "Journal de bord/2025-11-01.md",
     "Attachments/image-180.webp",
     "Attachments/image-179.webp",
     "Attachments/image-178.webp",
