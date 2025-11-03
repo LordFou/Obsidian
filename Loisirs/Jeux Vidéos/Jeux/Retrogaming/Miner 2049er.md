@@ -6,9 +6,9 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 1985
 - **Développeur** : 
-	- Studio : 
+	- Studio : 	[[Big Five Software Co.]]
 	- Personnalités : 
 		- [[Bill Hogue]] (Créateur - Version Origine)
 		- [[Jeff Konyu]]
