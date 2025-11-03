@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Eliud Kipchoge.md",
+                "file": "Alexander Blockx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eliud Kipchoge"
+              "title": "Alexander Blockx"
             },
             "group": "931ec05baf85698e"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Eliud Kipchoge.md",
+                "file": "Alexander Blockx.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Eliud Kipchoge"
+              "title": "Graphique de Alexander Blockx"
             },
             "group": "931ec05baf85698e"
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Maëlys Dapa",
+                "query": "Bratislava",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -178,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -251,11 +251,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e75db3f1debda8c",
+  "active": "acbfcced6e5eac9a",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Challenger 125 de Bratislava.md",
+    "Alexander Blockx.md",
+    "David Sinner.md",
+    "Loisirs/Sport/Compétitions/Masters 1.000 de Paris.md",
+    "Loisirs/Sport/Sportifs/Eliud Kipchoge.md",
     "Attachments/image-184.webp",
     "Loisirs/Sport/Sportifs/Maëlys Dapa.md",
-    "Loisirs/Sport/Sportifs/Eliud Kipchoge.md",
     "Attachments/image-183.webp",
     "Journal de bord/2025-11-03.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Miner 2049er.md",
@@ -279,16 +283,12 @@
     "Franchise Darkwood.md",
     "Vampire Survivor.md",
     "Poncle.md",
-    "Tribute Games.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Marvel Cosmic Invasion.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Neon Inferno.md",
     "Attachments/image-180.webp",
     "Attachments/image-179.webp",
     "Attachments/image-178.webp",
     "Attachments/image-177.webp",
     "Attachments/image-176.webp",
     "Attachments/image-175.webp",
-    "Attachments/image-174.webp",
     "Loisirs/Sport/Statistiques",
     "Culture/Politique",
     "Généalogie Matos Atari.canvas",

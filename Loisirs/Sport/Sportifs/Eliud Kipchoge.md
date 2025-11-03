@@ -25,7 +25,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - Ex-Recordman
 
 # Controverses ou Événements Importants
-- En 2025, il annonce le "Eliud Kipchoge World Tour", i
+- En 2025, il annonce le "Eliud Kipchoge World Tour". Il veut inspirer le monde en allant courir des marathons sur les 7 continents. Son message : personne n'est limité.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
