@@ -22,6 +22,10 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
+	- Il reprend en grande partie les mécaniques de [[Miner 2049er]] mais rajoute de nouveaux obstacles comme 
+		- les lasers
+		- les trous mobiles
+		- une inondation
 - **Durée estimée** : 
 
 ## Histoire et Univers

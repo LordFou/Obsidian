@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bounty Bob Strikes Back.md",
+                "file": "Franchise Miner 2049er.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bounty Bob Strikes Back"
+              "title": "Franchise Miner 2049er"
             },
             "group": "931ec05baf85698e"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bounty Bob Strikes Back.md",
+                "file": "Franchise Miner 2049er.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Bounty Bob Strikes Back"
+              "title": "Graphique de Franchise Miner 2049er"
             },
             "group": "931ec05baf85698e"
           }
@@ -253,12 +253,12 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
-    "Curtis Mikolyski.md",
     "Bounty Bob Strikes Back.md",
     "Franchise Miner 2049er.md",
+    "Miner 2049er II.md",
+    "Curtis Mikolyski.md",
     "Scraper Caper.md",
     "Bill Hogue.md",
-    "Miner 2049er II.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Miner 2049er.md",
     "Big Five Software Co..md",
     "Micro Fun.md",
