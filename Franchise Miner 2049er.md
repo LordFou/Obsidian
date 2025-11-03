@@ -22,13 +22,14 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                       | Année | Genre  | Plateformes | Remarque  |
-| --------------------------- | ----- | ------ | ----------- | --------- |
-| [[Miner 2049er]]            | 1985  | Arcade |             |           |
-| [[Scraper Caper]]           | -     | Arcade |             | Abandonné |
-| [[Miner 2049er II]]         |       | Arcade | Apple II    | Exclu     |
-| [[Bounty Bob Strikes Back]] |       |        |             |           |
-| [[Miner 2049er - Mobile]]   |       |        |             |           |
+| Titre                       | Année | Genre  | Plateformes  | Remarque            |
+| --------------------------- | ----- | ------ | ------------ | ------------------- |
+| [[Miner 2049er]]            | 1985  | Arcade | Atari 8-bits |                     |
+| [[Scraper Caper]]           | -     | Arcade | -            | Abandonné           |
+| [[Miner 2049er II]]         |       | Arcade | Apple II     | Exclu Apple II      |
+| [[Bounty Bob Strikes Back]] |       | Arcade |              | Difficulté accrue ! |
+| [[Miner 2049er - Game Boy]] |       | Arcade | Game Boy     |                     |
+| [[Miner 2049er - Mobile]]   |       | Arcade | Mobile       |                     |
 
 
 ## Mécaniques et innovations
@@ -38,12 +39,12 @@ content:
 	- Toboggans
 	- Nacelles
 	- Canons
-	- Traîneaux à fusée
+	- Traîneaux à fusée (= plateforme portative) 
 	- Cabines de téléphériques
 	- Montgolfière
 	- Monte-charges
 	- Silos à céréales
-	- Tubes à vide
+	- Tubes à vide bidirectionnels
 	- Ascenseurs à piles
 	- Treuils
 	- Puits de gravité

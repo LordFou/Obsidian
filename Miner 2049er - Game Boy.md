@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Miner 2049er - Mobile
+# Miner 2049er - Game Boy
 
 ## Informations Générales
 
@@ -11,8 +11,8 @@ type: game
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : Mobile
-- **Franchise** : 
+- **Plateformes** : [[Game Boy]]
+- **Franchise** : [[Franchise Miner 2049er]]
 - **Genre** :
 - **Résumé** : 
 
@@ -22,7 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
-	- Mécaniques proches des jeux précédents mais il propose des levels entièrement nouveaux avec des chemins plus courts que d'autres.
+	- Reprend essentiellement des concepts du jeu original [[Miner 2049er]] et de sa suite [[Bounty Bob Strikes Back]] mais en agrandissant les tableaux sur plusieurs écrans (donc scrolling dans le jeu)
 - **Durée estimée** : 
 
 ## Histoire et Univers

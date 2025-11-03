@@ -14,7 +14,7 @@ type: game
 		- [[Jeff Konyu]]
 		- [[Erin Martel]] (Level Designer - Version Mobile)
 - **Éditeur** : 
-- **Plateformes** : [[Atari 8-bits]], [[Game Boy]]
+- **Plateformes** : [[Atari 8-bits]]
 - **Franchise** : [[Franchise Miner 2049er|Miner 2049er]]
 - **Genre** :
 - **Résumé** : 
