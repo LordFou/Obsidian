@@ -22,12 +22,13 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                       | Année | Genre  | Plateformes  | Remarque |
-| --------------------------- | ----- | ------ | ------------ | -------- |
-| [[Miner 2049er]]            | 1985  | Arcade |              |          |
-| [[Miner 2049er II]]         |       | Arcade | [[Apple II]] | Exclu    |
-| [[Bounty Bob Strikes Back]] |       |        |              |          |
-| [[Miner 2049er - Mobile]]   |       |        |              |          |
+| Titre                       | Année | Genre  | Plateformes  | Remarque  |
+| --------------------------- | ----- | ------ | ------------ | --------- |
+| [[Miner 2049er]]            | 1985  | Arcade |              |           |
+| [[Scraper Caper]]           | -     | Arcade |              | Abandonné |
+| [[Miner 2049er II]]         |       | Arcade | [[Apple II]] | Exclu     |
+| [[Bounty Bob Strikes Back]] |       |        |              |           |
+| [[Miner 2049er - Mobile]]   |       |        |              |           |
 
 
 ## Mécaniques et innovations

@@ -2,16 +2,16 @@
 type: game
 ---
 
-# Miner 2049er II
+# Syberia
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
 	- Studio : 
-	- Personnalités : [[Mike Livesay]]
+	- Personnalités : [[Benoît Sokal]]
 - **Éditeur** : 
-- **Plateformes** : [[Apple II]]
+- **Plateformes** : 
 - **Franchise** : 
 - **Genre** :
 - **Résumé** : 
@@ -34,7 +34,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- Ce jeu n'a pas été développé par le créateur original de la licence [[Bill Hogue]]. Il avait un accord avec la société [[Micro Fun]] pour faire la suite mais le projet avançait lentement et la société a fait cavalier seul pour sortir une suite sur [[Apple II]]. [[Bill Hogue]] a touché des royalties mais n'a jamais été impliqué dans le processus créatif. Il n'avait même pas la machine pour tester le jeu (Sic).
+- 
 ## Liens et Ressources
 
 | Description | URL |
