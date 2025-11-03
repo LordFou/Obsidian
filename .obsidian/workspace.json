@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Franchise Miner 2049er.md",
+                "file": "Bounty Bob Strikes Back.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Franchise Miner 2049er"
+              "title": "Bounty Bob Strikes Back"
             },
             "group": "931ec05baf85698e"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Franchise Miner 2049er.md",
+                "file": "Bounty Bob Strikes Back.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Franchise Miner 2049er"
+              "title": "Graphique de Bounty Bob Strikes Back"
             },
             "group": "931ec05baf85698e"
           }
@@ -253,12 +253,13 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
-    "Miner 2049er II.md",
+    "Loisirs/Jeux Vidéos/Krash de 1983.md",
+    "Bounty Bob Strikes Back.md",
     "Franchise Miner 2049er.md",
+    "Miner 2049er II.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Miner 2049er.md",
     "Miner 2049er - Mobile.md",
     "Miner 2049er - Game Boy.md",
-    "Bounty Bob Strikes Back.md",
     "Curtis Mikolyski.md",
     "Scraper Caper.md",
     "Bill Hogue.md",
@@ -282,7 +283,6 @@
     "Attachments/image-182.webp",
     "ICE.md",
     "Attachments/image-181.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/ROUTINE.md",
     "Attachments/image-180.webp",
     "Attachments/image-179.webp",
     "Attachments/image-178.webp",
