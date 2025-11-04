@@ -2,7 +2,7 @@
 type: personne
 ---
 
-# Bill Hogue
+# Jeff Zinn
 
 ## Présentation
 Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
@@ -10,29 +10,13 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 ## Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  
-- **Profession(s)** : Concepteur
+- **Profession(s)** : (Développeur, Designer, Compositeur, Journaliste, etc.)  
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 
 ```timeline-labeled
 [line-5, body-2]
-date: 1983
-title: Sortie de [[Miner 2049er]]
-content:
-
-date: 1984
-title: Sortie de [[Bounty Bob Strikes Back]]
-content:
-
-date: 1984
-title: Discussion pour une suite
-content: [[Bill Hogue]] expérimente quelques concepts avec [[Jeff Zinn]] mais ça ne mènera nulle part et Bill conseille de se trouver un boulot dans la "vraie vie"
-
-date: 1984   
-title: Eloignement du secteur du jeu vidéo
-content: après la sortie de [[Bounty Bob Strikes Back]], Bill quitte le secteur des jeux vidéos principalement à cause du déclin du secteur
-
-date: 1990
-title: Transfert de la licence Miner chez [[Mindscape]]
+date:  
+title: 
 content:
 ```
 
@@ -67,7 +51,7 @@ results.sort((a, b) => {
 const tableData = results.map(item => [item.link]);
 
 if (tableData.length > 0) {
-    dv.table(["A travaillé pour/avec/sur"], tableData);
+    dv.table(["A travaillé pour/avec/sur/est lié à"], tableData);
 }
 
 ```
