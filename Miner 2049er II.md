@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-186.webp]]
 # Miner 2049er II
 
 ## Informations Générales

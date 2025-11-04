@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-187.webp]]
 # Bounty Bob Strikes Back
 
 ## Informations Générales
