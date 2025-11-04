@@ -1,14 +1,14 @@
 ---
 type: game
 ---
-
+![[image-188.webp]]
 # Miner 2049er - Game Boy
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 1990 (?)
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Mindscape]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : [[Game Boy]]

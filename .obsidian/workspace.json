@@ -232,8 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,6 +253,10 @@
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
     "Franchise Miner 2049er.md",
+    "Miner 2049er - Mobile.md",
+    "Miner 2049er - Game Boy.md",
+    "Mindscape.md",
+    "Attachments/image-188.webp",
     "Bounty Bob Strikes Back.md",
     "Attachments/image-187.webp",
     "Miner 2049er II.md",
@@ -262,10 +265,7 @@
     "Attachments/image-185.webp",
     "Bill Hogue.md",
     "Jeff Zinn.md",
-    "Mindscape.md",
     "Loisirs/Jeux Vidéos/Krash de 1983.md",
-    "Miner 2049er - Mobile.md",
-    "Miner 2049er - Game Boy.md",
     "Curtis Mikolyski.md",
     "Scraper Caper.md",
     "Big Five Software Co..md",
@@ -287,7 +287,6 @@
     "Attachments/image-181.webp",
     "Attachments/image-180.webp",
     "Attachments/image-179.webp",
-    "Attachments/image-178.webp",
     "Loisirs/Sport/Statistiques",
     "Culture/Politique",
     "Généalogie Matos Atari.canvas",
