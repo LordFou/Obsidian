@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Périphériques/Amstrad 6128+.md",
+                "file": "Templates/Fiche Logiciel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amstrad 6128+"
+              "title": "Fiche Logiciel"
             },
             "group": "931ec05baf85698e"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Périphériques/Amstrad 6128+.md",
+                "file": "Templates/Fiche Logiciel.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Amstrad 6128+"
+              "title": "Graphique de Fiche Logiciel"
             },
             "group": "931ec05baf85698e"
           }
@@ -255,8 +255,15 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
-    "Amstrad.md",
+    "Templates/Fiche Jeu.md",
+    "Templates/Fiche Logiciel.md",
+    "Templates/Bloc Type Personne.md",
+    "Templates/Bloc Timeline.md",
+    "Templates/Bloc Contenu.md",
+    "Loisirs/Jeux Vidéos/Logiciels/Visicalc.md",
     "Loisirs/Jeux Vidéos/Périphériques/Amstrad 6128+.md",
+    "Loisirs/Jeux Vidéos/Logiciels",
+    "Amstrad.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Duck Hunt.md",
     "Loisirs/Jeux Vidéos/Périphériques/8BitDo Pro 3.md",
     "Loisirs/Jeux Vidéos/Périphériques/GX4000.md",
@@ -280,12 +287,6 @@
     "Curtis Mikolyski.md",
     "Scraper Caper.md",
     "Big Five Software Co..md",
-    "Micro Fun.md",
-    "Françoise Cadol.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Syberia.md",
-    "Benoît Sokal.md",
-    "Alexander Blockx.md",
-    "Loisirs/Sport/Compétitions/Challenger 125 de Bratislava.md",
     "Attachments/image-184.webp",
     "Attachments/image-183.webp",
     "Attachments/image-182.webp",
@@ -305,7 +306,6 @@
     "Attachments/Download.mp4",
     "Loisirs/Jeux Vidéos/Livres",
     "Sans titre",
-    "Loisirs/Internet",
-    "Loisirs/Musique"
+    "Loisirs/Internet"
   ]
 }

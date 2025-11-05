@@ -1,0 +1,1 @@
+Premier [[tableur]] de l'histoire de l'informatique, uniquement sorti sur [[Apple II]]. Les comptables se l'arrachent.
