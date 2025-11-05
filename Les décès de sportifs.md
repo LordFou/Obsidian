@@ -19,4 +19,9 @@ date: septembre 2025
 title: Le skieur italien Matteo Franzoso est décédé après une chute
 ![[image-86.webp|500x359]]
 content: Survenue lors d’un entraînement au Chili. C'est un accident tragique qui pose des questions sur la sécurité des skieurs, qui descendent avec des skis de plus en plus rapides.
+
+date: Novembre 2025
+title: L'entraineur de foot Mladen Zizovic
+![[image-189.webp]]
+content: Un décès a assombri le match de football de Super Liga serbe entre le FK Mladost Lucani et le FK Radnicki lundi soir. L’entraîneur visiteur Mladen Zizovic s’est effondré pendant le match et est décédé peu après, ont rapporté plusieurs médias serbes. La cause exacte du décès n’a pas été précisée. Zizovic était âgé de 44 ans.
 ```
