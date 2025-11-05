@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les décès de sportifs.md",
-                "mode": "preview",
+                "file": "Loisirs/Jeux Vidéos/Périphériques/Amstrad 6128+.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Les décès de sportifs"
+              "title": "Amstrad 6128+"
             },
             "group": "931ec05baf85698e"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Les décès de sportifs.md",
+                "file": "Loisirs/Jeux Vidéos/Périphériques/Amstrad 6128+.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Les décès de sportifs"
+              "title": "Graphique de Amstrad 6128+"
             },
             "group": "931ec05baf85698e"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "décès",
+                "query": "Duck Hun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -252,8 +252,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e75db3f1debda8c",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Périphériques/8BitDo Pro 3.md",
+    "Loisirs/Jeux Vidéos/Périphériques/Amstrad 6128+.md",
+    "Loisirs/Jeux Vidéos/Périphériques/GX4000.md",
+    "Amstrad.md",
+    "Les décès de sportifs.md",
     "Attachments/image-189.webp",
     "Journal de bord/2025-11-05.md",
     "Miner 2049er - Game Boy.md",
@@ -280,16 +285,11 @@
     "Alexander Blockx.md",
     "Loisirs/Sport/Compétitions/Challenger 125 de Bratislava.md",
     "David Sinner.md",
-    "Loisirs/Sport/Compétitions/Masters 1.000 de Paris.md",
-    "Loisirs/Sport/Sportifs/Eliud Kipchoge.md",
     "Attachments/image-184.webp",
-    "Loisirs/Sport/Sportifs/Maëlys Dapa.md",
     "Attachments/image-183.webp",
-    "Journal de bord/2025-11-03.md",
     "Attachments/image-182.webp",
     "Attachments/image-181.webp",
     "Attachments/image-180.webp",
-    "Attachments/image-179.webp",
     "Loisirs/Sport/Statistiques",
     "Culture/Politique",
     "Généalogie Matos Atari.canvas",
@@ -306,5 +306,4 @@
     "Sans titre",
     "Loisirs/Internet",
     "Loisirs/Musique"
-  ]
-}
+ 
