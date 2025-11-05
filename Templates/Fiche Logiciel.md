@@ -23,7 +23,7 @@ type: logiviel
 
 ## ⚙️ Fonctionnalités principales
 -  
--  
+-  :l
 -  
 
 ---
