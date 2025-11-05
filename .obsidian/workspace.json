@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Duck Hun",
+                "query": "Duck Hunt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,7 +179,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,12 +253,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Périphériques/8BitDo Pro 3.md",
-    "Loisirs/Jeux Vidéos/Périphériques/Amstrad 6128+.md",
-    "Loisirs/Jeux Vidéos/Périphériques/GX4000.md",
     "Amstrad.md",
+    "Loisirs/Jeux Vidéos/Périphériques/Amstrad 6128+.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Duck Hunt.md",
+    "Loisirs/Jeux Vidéos/Périphériques/8BitDo Pro 3.md",
+    "Loisirs/Jeux Vidéos/Périphériques/GX4000.md",
     "Les décès de sportifs.md",
     "Attachments/image-189.webp",
     "Journal de bord/2025-11-05.md",
@@ -284,7 +286,6 @@
     "Benoît Sokal.md",
     "Alexander Blockx.md",
     "Loisirs/Sport/Compétitions/Challenger 125 de Bratislava.md",
-    "David Sinner.md",
     "Attachments/image-184.webp",
     "Attachments/image-183.webp",
     "Attachments/image-182.webp",
@@ -306,4 +307,5 @@
     "Sans titre",
     "Loisirs/Internet",
     "Loisirs/Musique"
- 
+  ]
+}
