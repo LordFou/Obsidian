@@ -11,7 +11,7 @@ type: logiciel
 - **Site officiel :**  
 - **Date de sortie :**  
 - **Licence :**  
-- **Plateformes supportées :**  
+- **Plateformes supportées :**  [[Apple II]]
 
 
 ---

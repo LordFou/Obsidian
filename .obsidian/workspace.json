@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Logiciels/Visicalc.md",
+                "file": "Belgian Hammers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Visicalc"
+              "title": "Belgian Hammers"
             },
             "group": "931ec05baf85698e"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Logiciels/Visicalc.md",
+                "file": "Belgian Hammers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Visicalc"
+              "title": "Graphique de Belgian Hammers"
             },
             "group": "931ec05baf85698e"
           }
@@ -234,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,12 +254,17 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
+    "Belgian Rockets.md",
+    "Belgian Hammers.md",
+    "Belgian Falcons.md",
+    "Belgian Cats.md",
     "Templates/Fiche Logiciel.md",
+    "Templates/Fiche Jeux - Encodage rapide.md",
+    "Loisirs/Jeux Vidéos/Logiciels/Visicalc.md",
     "Templates/Fiche Jeu.md",
     "Templates/Bloc Type Personne.md",
     "Templates/Bloc Timeline.md",
     "Templates/Bloc Contenu.md",
-    "Loisirs/Jeux Vidéos/Logiciels/Visicalc.md",
     "Loisirs/Jeux Vidéos/Périphériques/Amstrad 6128+.md",
     "Loisirs/Jeux Vidéos/Logiciels",
     "Amstrad.md",
@@ -282,11 +286,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Miner 2049er.md",
     "Attachments/image-185.webp",
     "Bill Hogue.md",
-    "Jeff Zinn.md",
-    "Loisirs/Jeux Vidéos/Krash de 1983.md",
-    "Curtis Mikolyski.md",
-    "Scraper Caper.md",
-    "Big Five Software Co..md",
     "Attachments/image-184.webp",
     "Attachments/image-183.webp",
     "Attachments/image-182.webp",
