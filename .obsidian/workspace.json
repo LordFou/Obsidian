@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Fiche Logiciel.md",
+                "file": "Loisirs/Jeux Vidéos/Logiciels/Visicalc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fiche Logiciel"
+              "title": "Visicalc"
             },
             "group": "931ec05baf85698e"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Fiche Logiciel.md",
+                "file": "Loisirs/Jeux Vidéos/Logiciels/Visicalc.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Fiche Logiciel"
+              "title": "Graphique de Visicalc"
             },
             "group": "931ec05baf85698e"
           }
@@ -255,8 +255,8 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
-    "Templates/Fiche Jeu.md",
     "Templates/Fiche Logiciel.md",
+    "Templates/Fiche Jeu.md",
     "Templates/Bloc Type Personne.md",
     "Templates/Bloc Timeline.md",
     "Templates/Bloc Contenu.md",

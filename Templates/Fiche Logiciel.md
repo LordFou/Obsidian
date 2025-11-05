@@ -1,5 +1,5 @@
 ---
-type: logiviel
+type: logiciel
 ---
 
 # 🧩 {{title}}
@@ -23,7 +23,7 @@ type: logiviel
 
 ## ⚙️ Fonctionnalités principales
 -  
--  :l
+-  :luc_layout:
 -  
 
 ---
