@@ -8,13 +8,14 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur               | Agrès   | Nationalité | Remarque |
+| ----- | ----------------------- | ------- | ----------- | -------- |
+| 2025  | [[Donnell Whittenburg]] | Anneaux | Américain   |          |
+|       |                         |         |             |          |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur              | Agrès | Nationalité | Remarque        |
+| ----- | ---------------------- | ----- | ----------- | --------------- |
+| 2021  | [[Angelina Melnikova]] | Saut  | Russe       |                 |
+| 2025  | [[Angelina Melnikova]] | Saut  | Russe       | Bannière neutre |
+|       |                        |       |             |                 |

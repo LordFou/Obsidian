@@ -1,20 +1,20 @@
 ---
 type: game
 ---
-
+![[image-185.webp]] 
 # Miner 2049er
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 1985
 - **Développeur** : 
-	- Studio : 
+	- Studio : 	[[Big Five Software Co.]]
 	- Personnalités : 
 		- [[Bill Hogue]] (Créateur - Version Origine)
 		- [[Jeff Konyu]]
 		- [[Erin Martel]] (Level Designer - Version Mobile)
 - **Éditeur** : 
-- **Plateformes** : [[Atari 8-bits]], [[Game Boy]]
+- **Plateformes** : [[Atari 8-bits]]
 - **Franchise** : [[Franchise Miner 2049er|Miner 2049er]]
 - **Genre** :
 - **Résumé** : 
@@ -29,7 +29,9 @@ type: game
 	- Les systèmes de transports
 		- Toboggans (permettait de montrer la route à suivre, et une fois dans le toboggan, on ne sait rien contrôler)
 		- Un canon (à remplir de TNT pour se propulser sur une plateforme spécifique). Selon la quantité de TNT, l'envol est plus ou moins long et ==peut notamment envoyer en dehors de l'écran==
-		- Les transporteurs
+		- Les transporteurs ([[Téléportation]])
+		- Des plateformes mobiles
+		- Des nacelles
 - **Durée estimée** : 
 
 ## Histoire et Univers

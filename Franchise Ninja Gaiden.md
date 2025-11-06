@@ -26,6 +26,7 @@ content:
 | ----- | ---------------------------- | ----------- | -------- |
 |       |                              | [[NES]]     |          |
 | 2025  | [[Ninja Gaiden - Ragebound]] | PC          |          |
+| 2025  | [[Ninja Gaiden 4]]           |             |          |
 
 
 ## Mécaniques et innovations

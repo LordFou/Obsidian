@@ -13,14 +13,15 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                   | Résultat   | Remarque |
-| ----- | ----------------------------- | ---------- | -------- |
-| 2025  | Tunisie (W15)                 | Vainqueure |          |
-| 2025  | Monastir (ITF 15)             | Vainqueure |          |
-| 2025  | Roehampton (ITF 35)           | Vainqueure |          |
-| 2025  | Manacor (ITF 15)              | Vainqueure |          |
-| 2025  | [[US Open]] - Junior - Simple | Vainqueure | 17 ans   |
-| 2025  | [[US Open]] - Junior - Double | Finaliste  |          |
+| Année | Compétition                             | Résultat   | Remarque                                                            |
+| ----- | --------------------------------------- | ---------- | ------------------------------------------------------------------- |
+| 2025  | Tunisie (W15)                           | Vainqueure |                                                                     |
+| 2025  | Monastir (ITF 15)                       | Vainqueure |                                                                     |
+| 2025  | Roehampton (ITF 35)                     | Vainqueure |                                                                     |
+| 2025  | Manacor (ITF 15)                        | Vainqueure |                                                                     |
+| 2025  | [[US Open]] - Junior - Simple           | Vainqueure | 17 ans                                                              |
+| 2025  | [[US Open]] - Junior - Double           | Finaliste  |                                                                     |
+| 2025  | [[ITF World Tennis Tour Junior Finals]] | Vainqueure | Tournoi rassemblant les 8 meilleures joueuses juniores de la saison |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

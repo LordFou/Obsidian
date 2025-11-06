@@ -12,32 +12,39 @@ type: game
 	- Personnalités : 
 		- [[Tim Schafer]]
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Aventure Narrative]]
-- **Résumé** : 
+- **Genre** : [[Aventure Narrative]], [[Walking-Sim]], [[Puzzle]]
+- **Résumé** : Vous dirigez un phare dans une histoire narrative et sur un trajet vers le grand méchant du jeu.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : (Type de musique, Bande-son notable)
+- **Audio** : 
+	- Aucune parole ! Juste de la musique et des sons d'ambiance.
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 	- Jeu 100% muet (sans dialogue)
-- **Durée estimée** : 
+	- Linéaire 
+- **Durée estimée** : 3-4h
 
 ## Histoire et Univers
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
 	- Un phare ambulant
-	- Twig, Un oiseau 
+	- Twig, Un oiseau (à 4 pattes !!!)
 - **Ennemis** :
 	- The Wither (un essaim menaçant)
 - **Thèmes abordés** : 
+	- La persévérance
+	- La valeur de ses erreurs
 - **Influencé par** :
+	- [[Pixar]]
+	- Le [[Surréalisme]]
 - **A inspiré** : 
 - **Comparable à** :
+	- [[Jusant]] (niveau palette couleur)
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources

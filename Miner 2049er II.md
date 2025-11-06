@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-186.webp]]
 # Miner 2049er II
 
 ## Informations Générales
@@ -9,9 +9,9 @@ type: game
 - **Année de sortie** : 
 - **Développeur** : 
 	- Studio : 
-	- Personnalités : 
+	- Personnalités : [[Mike Livesay]]
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[Apple II]]
 - **Franchise** : 
 - **Genre** :
 - **Résumé** : 
@@ -22,6 +22,10 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
+	- Il reprend en grande partie les mécaniques de [[Miner 2049er]] mais rajoute de nouveaux obstacles comme 
+		- les lasers
+		- les trous mobiles
+		- une inondation
 - **Durée estimée** : 
 
 ## Histoire et Univers
@@ -34,7 +38,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Ce jeu n'a pas été développé par le créateur original de la licence [[Bill Hogue]]. Il avait un accord avec la société [[Micro Fun]] pour faire la suite mais le projet avançait lentement et la société a fait cavalier seul pour sortir une suite sur [[Apple II]]. [[Bill Hogue]] a touché des royalties mais n'a jamais été impliqué dans le processus créatif. Il n'avait même pas la machine pour tester le jeu (Sic).
 ## Liens et Ressources
 
 | Description | URL |

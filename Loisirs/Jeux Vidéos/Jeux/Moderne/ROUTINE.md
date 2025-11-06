@@ -6,14 +6,14 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Lunar Software]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[FPS]], [[Horreur]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -38,6 +38,7 @@ type: game
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - Arlésienne (?)
+- Débuté en 2012 !
 ## Liens et Ressources
 
 | Description | URL |

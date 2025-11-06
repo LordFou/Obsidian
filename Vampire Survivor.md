@@ -9,11 +9,11 @@ type: game
 - **Année de sortie** : 
 - **Développeur** : 
 	- Studio : 
-	- Personnalités : 
+	- Personnalités : [[Poncle]]
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : All
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Vampire Survivor Like]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -34,7 +34,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Collab avec [[Balatro]] (Ante Chamber) sur un DLC en nov 2025
 ## Liens et Ressources
 
 | Description | URL |

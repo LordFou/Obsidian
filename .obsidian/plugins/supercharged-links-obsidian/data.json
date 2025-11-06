@@ -11,6 +11,7 @@
   "enableBacklinks": true,
   "enableQuickSwitcher": true,
   "enableSuggestor": true,
+  "enableBases": true,
   "selectors": [
     {
       "type": "attribute",
@@ -79,6 +80,18 @@
       "matchCaseSensitive": false,
       "match": "exact",
       "uid": "f9dd-12d6",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "type",
+      "value": "logiciel",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "f758-42f1",
       "selectText": true,
       "selectAppend": true,
       "selectPrepend": true,

@@ -2,21 +2,22 @@
 type: personne
 ---
 
-# Sarah Chaari
+# Alexander Blockx
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Taekwondo]]
+- **Sport / Discipline** : [[Tennis]] 
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                | Résultat | Remarque |
-| ----- | -------------------------- | -------- | -------- |
-| 2024  | [[JO 2024]] -67 kg         | Bronze   |          |
-| 2025  | Jeux Universitaires -73 kg | Argent   |          |
+| Année | Compétition                      | Résultat  | Remarque |
+| ----- | -------------------------------- | --------- | -------- |
+| ?     | ?                                | Vainqueur |          |
+| 2025  | ?                                | Vainqueur |          |
+| 2025  | [[Challenger 125 de Bratislava]] | Vainqueur |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

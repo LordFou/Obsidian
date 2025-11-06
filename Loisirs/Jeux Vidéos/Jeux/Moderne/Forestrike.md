@@ -2,23 +2,23 @@
 type: game
 ---
 
-# Vampire Bloodlines 2
+# Forestrike
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2025 (?)
 - **Développeur** : 
-	- Studio : [[Paradox Interactive]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Combat]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 2D, [[Pixel Art]], jolie DA dans l'introduction
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
@@ -26,10 +26,13 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Japon]]
+	- 
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Arts Martiaux]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

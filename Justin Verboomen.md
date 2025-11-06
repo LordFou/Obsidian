@@ -20,6 +20,8 @@ type: personne
 | 2025  | [[Championnats d’Europe de dressage]] - Freestyle          | 1ier     | 89.964 %       |
 | 2025  | [[Championnats d’Europe de dressage]] - Individuel         | 1ier     |                |
 | 2025  | Classement Mondial                                         | 1ier     | Septembre 2025 |
+| 2025  | Grand Prix de Lyon                                         | 1ier     |                |
+| 2025  | Coupe du monde de dressage de Lyon,                        | 1ier     |                |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

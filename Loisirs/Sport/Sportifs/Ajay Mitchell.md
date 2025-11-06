@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition | Résultat | Remarque     |
-| ----- | ----------- | -------- | ------------ |
-| 2025  | [[NBA]]     | 1ier     | avec [[OKC]] |
+| Année     | Compétition | Résultat | Remarque     |
+| --------- | ----------- | -------- | ------------ |
+| 2024-2025 | [[NBA]]     | 1ier     | avec [[OKC]] |
+| 2025-2026 | [[NBA]]     |          |              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

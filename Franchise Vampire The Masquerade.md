@@ -22,11 +22,12 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                                   | Année | Plateformes | Remarque |
-| --------------------------------------- | ----- | ----------- | -------- |
-| Vampire The Masquerade - Bloodlines 2 ? |       |             |          |
-| [[Vampire The Masquerade - Swansong]]   |       |             |          |
-| Vampire The Masquerade                  |       |             |          |
+| Titre                                     | Année | Plateformes | Remarque |
+| ----------------------------------------- | ----- | ----------- | -------- |
+| [[Vampire The Masquerade - Redemption]]   |       |             |          |
+| [[Vampire The Masquerade - Swansong]]     |       |             |          |
+| [[Vampire The Masquerade - Bloodlines]]   |       |             |          |
+| [[Vampire The Masquerade - Bloodlines 2]] | 2025  |             |          |
 
 
 ## Mécaniques et innovations
