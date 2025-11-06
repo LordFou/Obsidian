@@ -31,8 +31,10 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Mine]]
 - **Epoque** : 
 - **Personnages principaux** : 
+	- [[Bounty Bob]]
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
