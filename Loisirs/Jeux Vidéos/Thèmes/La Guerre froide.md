@@ -1,3 +1,7 @@
 - Au début, dans les années 50, les américains prennent la radioactivité à la légère et leurs tests ont néanmoins des répercutions sur le peuple et les animaux dans les régions du Nevada et autour où les principaux essais sont réalisés. 
 - Las Vegas devient un lieu touristique aussi pour venir voir les essais...
-- Bombe à fission < Bombe à hydrogène (fusion comme d)
+- Bombe à fission < Bombe à hydrogène (fusion comme dans le coeur du soleil) (sa puissance n'a pas de limite théorique)
+- 50 mégatonnes ([[Tsar Bomba]] russe)
+- Années 60, on passe aux missiles inter continentaux plutôt qu'un bombardement par avion.
+- Les américains et russes ont fait une course à la miniaturisation de l'arme nucléaire. Et notamment des armes transportables par les soldats. Une de ses armes, le [[Davy Crockett]].
+- SADM - Bombe miniature transportée dans un sac à dos - 1 kilotonne - paquetage de 30kg - possible
