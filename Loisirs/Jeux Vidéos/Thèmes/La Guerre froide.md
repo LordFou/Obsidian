@@ -1,0 +1,3 @@
+- Au début, dans les années 50, les américains prennent la radioactivité à la légère et leurs tests ont néanmoins des répercutions sur le peuple et les animaux dans les régions du Nevada et autour où les principaux essais sont réalisés. 
+- Las Vegas devient un lieu touristique aussi pour venir voir les essais...
+- Bombe à fission < Bombe à hydrogène (fusion comme d)
