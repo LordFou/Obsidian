@@ -24,9 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre            | Genre  | Plateformes                    |
-| ----- | ---------------- | ------ | ------------------------------ |
-| 1984  | [[Miner 2049er]] | Arcade | [[Atari 8-bits]], [[Game Boy]] |
+| Année | Titre            | Genre  | Plateformes            |
+| ----- | ---------------- | ------ | ---------------------- |
+| 1984  | [[Miner 2049er]] | Arcade | Atari 8-bits, Game Boy |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

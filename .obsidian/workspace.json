@@ -6,6 +6,7 @@
       {
         "id": "ba602ba77da188ed",
         "type": "tabs",
+        "dimension": 62.745098039215684,
         "children": [
           {
             "id": "e839111d839feb3c",
@@ -13,13 +14,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Franchise Miner 2049er.md",
+                "file": "Bill Hogue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Franchise Miner 2049er"
-            }
+              "title": "Bill Hogue"
+            },
+            "group": "2e2fd4ec464697f9"
+          }
+        ]
+      },
+      {
+        "id": "a8eacd9d5d14c166",
+        "type": "tabs",
+        "dimension": 37.254901960784316,
+        "children": [
+          {
+            "id": "485c9f1537cd0cfd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Bill Hogue.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graphique de Bill Hogue"
+            },
+            "group": "2e2fd4ec464697f9"
           }
         ]
       }
@@ -186,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,10 +254,12 @@
   },
   "active": "e839111d839feb3c",
   "lastOpenFiles": [
-    "Miner 2049er - Mobile.md",
-    "Magmic.md",
-    "Franchise Miner 2049er.md",
+    "Big Five Software Co..md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Miner 2049er.md",
+    "Franchise Miner 2049er.md",
+    "Miner 2049er - Mobile.md",
+    "Bill Hogue.md",
+    "Magmic.md",
     "Journal de bord/2025-11-06.md",
     "Généalogie des Jeux Vidéos.canvas",
     "Bounty Bob Strikes Back.md",
@@ -232,8 +282,6 @@
     "Sarah Chaâri.md",
     "Sam Maes.md",
     "Ruth Chepngetich.md",
-    "Reuben Games.md",
-    "Poncle.md",
     "Attachments/image-189.webp",
     "Attachments/image-188.webp",
     "Attachments/image-187.webp",

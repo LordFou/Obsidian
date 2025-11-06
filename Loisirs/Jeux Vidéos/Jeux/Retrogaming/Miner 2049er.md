@@ -15,15 +15,15 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : [[Atari 8-bits]]
 - **Franchise** : [[Franchise Miner 2049er|Miner 2049er]]
-- **Genre** :
-- **Résumé** : 
+- **Genre** : [[Arcade]]
+- **Résumé** : [[Bounty Bob]] est un mineur qui évolue au travers de différents niveaux, il doit passer par toutes les échelles à l'écran pour passer au level suivant. 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 2D
 - **Audio** : 
 	- [Oh My Darling, Clementine](https://www.youtube.com/watch?v=WTkU2JxCN48)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
 - **Gameplay** :
 	- Les systèmes de transports
 		- Toboggans (permettait de montrer la route à suivre, et une fois dans le toboggan, on ne sait rien contrôler)
@@ -35,6 +35,7 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Mine]]
 - **Epoque** : 
 	- [[Futur]]
 - **Personnages principaux** : 
