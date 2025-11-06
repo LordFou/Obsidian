@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e9f14cddbe0ecd18",
+        "id": "ba602ba77da188ed",
         "type": "tabs",
         "children": [
           {
-            "id": "7963040a68934c5b",
+            "id": "e839111d839feb3c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Journal de bord/2025-11-06.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Journal de bord/2025-11-06.md",
+                "bFile": "Journal de bord/2025-11-06.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2025-11-06"
+              "icon": "diff",
+              "title": "Diff: 2025-11-06"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Elise",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,10 +204,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7963040a68934c5b",
+  "active": "e839111d839feb3c",
   "lastOpenFiles": [
-    "Elise Mertens.md",
     "Journal de bord/2025-11-06.md",
+    "Elise Mertens.md",
     "Loisirs/Sport/Compétitions/WTA - Tournoi d'Osaka.md",
     "Trophée National Mérite Sportif.md",
     "Emma Meesseman.md",
