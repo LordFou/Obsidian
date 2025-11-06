@@ -4,4 +4,7 @@
 - 50 mégatonnes ([[Tsar Bomba]] russe)
 - Années 60, on passe aux missiles inter continentaux plutôt qu'un bombardement par avion.
 - Les américains et russes ont fait une course à la miniaturisation de l'arme nucléaire. Et notamment des armes transportables par les soldats. Une de ses armes, le [[Davy Crockett]].
-- SADM - Bombe miniature transportée dans un sac à dos - 1 kilotonne - paquetage de 30kg - possible
+- SADM - Bombe miniature transportée dans un sac à dos - 1 kilotonne - paquetage de 30kg - possible perte de l'arme au profit de l'ennemi.
+- 1963 - Premier traité
+- Chine testera jusqu'en 1980
+- 1987 : mythe que des SADM russes ont disparus des stocks russes
