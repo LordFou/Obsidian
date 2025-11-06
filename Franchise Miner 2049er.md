@@ -45,7 +45,7 @@ content:
 	- Monte-charges
 	- Silos à céréales
 	- Tubes à vide bidirectionnels
-	- Ascenseurs à piles
+	- Ascenseurs à piles radioactive
 	- Treuils
 	- Puits de gravité
 
