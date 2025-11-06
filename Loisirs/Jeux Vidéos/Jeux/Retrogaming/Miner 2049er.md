@@ -59,6 +59,7 @@ type: game
 - Les sons des transporteurs ressemblent beaucoup à ceux de [[Star Trek]]
 - Excellentes ventes sur [[Atari 8-bits]]
 - [[Bill Hogue]] avait un accord pour faire une suite sur l'[[Apple II]] mais ils n'ont pas été patient et ils ont développé leur propre [[Miner 2049er II]] sans la moindre intervention de Bill.
+- Les power up du jeu n'ont parfois aucun rapport avec le thème de la mine : à côté des pelles, pioches ou autres, on peut trouver des hamburgers, tasses de thé,...
 ## Liens et Ressources
 
 | Description | URL |

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bill Hogue.md",
+                "file": "Miner 2049er II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bill Hogue"
+              "title": "Miner 2049er II"
             },
             "group": "2e2fd4ec464697f9"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bill Hogue.md",
+                "file": "Miner 2049er II.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Bill Hogue"
+              "title": "Graphique de Miner 2049er II"
             },
             "group": "2e2fd4ec464697f9"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "miner",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,11 +254,11 @@
   },
   "active": "e839111d839feb3c",
   "lastOpenFiles": [
-    "Big Five Software Co..md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Miner 2049er.md",
     "Franchise Miner 2049er.md",
-    "Miner 2049er - Mobile.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Miner 2049er.md",
     "Bill Hogue.md",
+    "Big Five Software Co..md",
+    "Miner 2049er - Mobile.md",
     "Magmic.md",
     "Journal de bord/2025-11-06.md",
     "Généalogie des Jeux Vidéos.canvas",

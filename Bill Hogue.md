@@ -83,5 +83,4 @@ Lister les prix et reconnaissances obtenues.
 Évoquer les polémiques ou événements notables liés à cette personne.
 
 ## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+
