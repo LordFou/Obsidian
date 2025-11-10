@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Belgian Hammers.md",
+                "file": "Journal de bord/2025-11-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Belgian Hammers"
+              "title": "2025-11-10"
             },
             "group": "931ec05baf85698e"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Belgian Hammers.md",
+                "file": "Journal de bord/2025-11-10.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Belgian Hammers"
+              "title": "Graphique de 2025-11-10"
             },
             "group": "931ec05baf85698e"
           }
@@ -254,8 +254,9 @@
   },
   "active": "6e75db3f1debda8c",
   "lastOpenFiles": [
-    "Belgian Rockets.md",
     "Belgian Hammers.md",
+    "Journal de bord/2025-11-10.md",
+    "Belgian Rockets.md",
     "Belgian Falcons.md",
     "Belgian Cats.md",
     "Templates/Fiche Logiciel.md",
@@ -285,7 +286,6 @@
     "Attachments/image-186.webp",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Miner 2049er.md",
     "Attachments/image-185.webp",
-    "Bill Hogue.md",
     "Attachments/image-184.webp",
     "Attachments/image-183.webp",
     "Attachments/image-182.webp",

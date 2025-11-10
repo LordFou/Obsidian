@@ -84,7 +84,7 @@
     "localJumps": 1,
     "localBacklinks": true,
     "localForelinks": true,
-    "localInterlinks": true,
+    "localInterlinks": false,
     "showTags": false,
     "showAttachments": false,
     "hideUnresolved": false,
