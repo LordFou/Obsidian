@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Toon Aerts.md",
+                "file": "Loisirs/Internet/Les perles du net.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Toon Aerts"
+              "title": "Les perles du net"
             },
             "group": "edd891e39f6ca614"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Toon Aerts.md",
+                "file": "Loisirs/Internet/Les perles du net.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Toon Aerts"
+              "title": "Graphique de Les perles du net"
             },
             "group": "edd891e39f6ca614"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Brésil",
+                "query": "perles",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,8 +179,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,8 +254,9 @@
   },
   "active": "9df82a04df82e847",
   "lastOpenFiles": [
-    "Dopage dans le sport.md",
+    "Attachments/image-190.webp",
     "Toon Aerts.md",
+    "Dopage dans le sport.md",
     "Championnat d'Europe de Cyclocross.md",
     "Journal de bord/2025-11-10.md",
     "Loisirs/Sport/Compétitions/Grand Prix du Brésil.md",
@@ -280,7 +280,6 @@
     "Templates/Bloc Type Personne.md",
     "Templates/Bloc Timeline.md",
     "Templates/Bloc Contenu.md",
-    "Loisirs/Jeux Vidéos/Périphériques/Amstrad 6128+.md",
     "Loisirs/Jeux Vidéos/Logiciels",
     "Attachments/image-189.webp",
     "Attachments/image-188.webp",
