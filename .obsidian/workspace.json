@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Grand Prix du Brésil.md",
+                "file": "Toon Aerts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grand Prix du Brésil"
+              "title": "Toon Aerts"
             },
             "group": "edd891e39f6ca614"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Grand Prix du Brésil.md",
+                "file": "Toon Aerts.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Grand Prix du Brésil"
+              "title": "Graphique de Toon Aerts"
             },
             "group": "edd891e39f6ca614"
           }
@@ -180,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -255,10 +255,13 @@
   },
   "active": "9df82a04df82e847",
   "lastOpenFiles": [
-    "Grand Prix du Mexique.md",
-    "Loisirs/Sport/Compétitions/Grand Prix du Brésil.md",
-    "Loisirs/Sport/Compétitions/Gand Wevelgem.md",
+    "Dopage dans le sport.md",
+    "Toon Aerts.md",
+    "Championnat d'Europe de Cyclocross.md",
     "Journal de bord/2025-11-10.md",
+    "Loisirs/Sport/Compétitions/Grand Prix du Brésil.md",
+    "Grand Prix du Mexique.md",
+    "Loisirs/Sport/Compétitions/Gand Wevelgem.md",
     "Loisirs/Sport/Sportifs/Matthias Casse.md",
     "Journal de bord/2025-11-03.md",
     "Journal de bord/2025-11-05.md",
@@ -279,9 +282,6 @@
     "Templates/Bloc Contenu.md",
     "Loisirs/Jeux Vidéos/Périphériques/Amstrad 6128+.md",
     "Loisirs/Jeux Vidéos/Logiciels",
-    "Amstrad.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Duck Hunt.md",
-    "Loisirs/Jeux Vidéos/Périphériques/8BitDo Pro 3.md",
     "Attachments/image-189.webp",
     "Attachments/image-188.webp",
     "Attachments/image-187.webp",
