@@ -6,19 +6,19 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : ?
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Micro Fun]]
 	- Personnalités : [[Mike Livesay]]
-- **Éditeur** : 
+- **Éditeur** : [[Micro Fun]] (?)
 - **Plateformes** : [[Apple II]]
-- **Franchise** : 
-- **Genre** :
+- **Franchise** : [[Franchise Miner 2049er]]
+- **Genre** : [[Arcade]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 2D
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
@@ -26,12 +26,15 @@ type: game
 		- les lasers
 		- les trous mobiles
 		- une inondation
+	- Moins de power up dans les niveaux, voire pas du tout. Ceux-ci se mangent ou se boivent tous exceptés une tête de monstre qui est un clin d'oeil au héros du jeu précédent de [[Mike Livesay]].
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Mine]]
 - **Epoque** : 
 - **Personnages principaux** : 
+	- [[Bounty Bob]]
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :

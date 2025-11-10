@@ -9,9 +9,9 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 
 ## Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
+- **Nationalité** :  Américain
 - **Profession(s)** : Concepteur
-- **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
+- **Entreprise(s) associée(s)** : [[Big Five Software Co.]]
 
 ```timeline-labeled
 [line-5, body-2]
@@ -34,6 +34,10 @@ content: après la sortie de [[Bounty Bob Strikes Back]], Bill quitte le secteur
 date: 1990
 title: Transfert de la licence Miner chez [[Mindscape]]
 content:
+
+date: 2024
+title: Miner2049 III ?
+content: [[Bill Hogue]] n'a pas abandonné de revenir au jeu vidéo et de développer une vraie suite mais à sa pension si il la prend. Et avec son pote [[Curtis Mikolyski]].
 ```
 
 
@@ -79,5 +83,4 @@ Lister les prix et reconnaissances obtenues.
 Évoquer les polémiques ou événements notables liés à cette personne.
 
 ## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+

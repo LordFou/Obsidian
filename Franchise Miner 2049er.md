@@ -6,11 +6,14 @@ type: game
 
 
 ## Informations générales
-- Créateur(s) : {{Nom du ou des créateurs}}
-- Développeur(s) : {{Studio(s) de développement}}
-- Éditeur(s) : {{Nom de l’éditeur}}
-- Première apparition : {{Nom du premier jeu (année)}}
-- Genre principal : {{Stratégie, Action-Aventure, FPS...}}
+- Créateur(s) : [[Bill Hogue]]
+- Développeur(s) : 
+	- [[Big Five Software Co.]]
+	- [[Mindscape]]
+	- [[Magmic]]
+- Éditeur(s) : ?
+- Première apparition : 1985
+- Genre principal : Arcade
 
 ## Résumé et historique
 {{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
@@ -45,7 +48,7 @@ content:
 	- Monte-charges
 	- Silos à céréales
 	- Tubes à vide bidirectionnels
-	- Ascenseurs à piles
+	- Ascenseurs à piles radioactives
 	- Treuils
 	- Puits de gravité
 

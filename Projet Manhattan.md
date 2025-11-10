@@ -1,1 +1,3 @@
+- Chef de projet : [[Robert Oppenheimer]]
+- Bombe développée = Trinity ?
 - Je ne savais pas que les américains avaient des tests sur des humains sans leur dire en les exposant à du plutonium durant des opérations classiques dans les hôpitaux.

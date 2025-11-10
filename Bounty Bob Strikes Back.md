@@ -27,6 +27,7 @@ type: game
 	- Le jeu sort en 1984 et fonctionne pas mal mais il tombe en plein [[Krash de 1983|krash des jeux vidéo US]] et rapporte moins que prévu.
 - **Gameplay** :
 	- Pas de grandes innovations excepté les pluies acides comme nouvelle menace.
+	- Les powers up sont principalement constitués d'objets de jardinage. On retrouve aussi des barres énergétiques qui permettent à [[Bounty Bob]] de prendre de la vitesse.
 - **Durée estimée** : 
 
 ## Histoire et Univers

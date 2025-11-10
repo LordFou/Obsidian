@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Big Five Software Co.
+# Magmic
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -11,8 +11,8 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Nom complet** :  
 - **Date de création** :  
 - **Fondateurs** :  
-- **Personnalités** :
-- **Pays d’origine** :  
+- **Personnalités** : [[Erin Martel]]
+- **Pays d’origine** :  Canada
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -24,9 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre            | Genre  | Plateformes            |
-| ----- | ---------------- | ------ | ---------------------- |
-| 1984  | [[Miner 2049er]] | Arcade | Atari 8-bits, Game Boy |
+| Année    | Titre                     | Genre  | Plateformes |
+| -------- | ------------------------- | ------ | ----------- |
+| 2000 (?) | [[Miner 2049er - Mobile]] | Arcade | Mobile      |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
