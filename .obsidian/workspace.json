@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-11-10.md",
+                "file": "Loisirs/Sport/Compétitions/Gand Wevelgem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-10"
+              "title": "Gand Wevelgem"
             },
             "group": "edd891e39f6ca614"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2025-11-10.md",
+                "file": "Loisirs/Sport/Compétitions/Gand Wevelgem.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-11-10"
+              "title": "Graphique de Gand Wevelgem"
             },
             "group": "edd891e39f6ca614"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Gand Wevelgem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,8 +179,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,8 +254,8 @@
   },
   "active": "9df82a04df82e847",
   "lastOpenFiles": [
-    "Loisirs/Sport/Sportifs/Matthias Casse.md",
     "Journal de bord/2025-11-10.md",
+    "Loisirs/Sport/Sportifs/Matthias Casse.md",
     "Journal de bord/2025-11-03.md",
     "Journal de bord/2025-11-05.md",
     "Journal de bord/2025-11-06.md",
