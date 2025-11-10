@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Gand Wevelgem.md",
+                "file": "Loisirs/Sport/Compétitions/Grand Prix du Brésil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gand Wevelgem"
+              "title": "Grand Prix du Brésil"
             },
             "group": "edd891e39f6ca614"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Gand Wevelgem.md",
+                "file": "Loisirs/Sport/Compétitions/Grand Prix du Brésil.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Gand Wevelgem"
+              "title": "Graphique de Grand Prix du Brésil"
             },
             "group": "edd891e39f6ca614"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gand Wevelgem",
+                "query": "Brésil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,7 +179,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,6 +255,9 @@
   },
   "active": "9df82a04df82e847",
   "lastOpenFiles": [
+    "Grand Prix du Mexique.md",
+    "Loisirs/Sport/Compétitions/Grand Prix du Brésil.md",
+    "Loisirs/Sport/Compétitions/Gand Wevelgem.md",
     "Journal de bord/2025-11-10.md",
     "Loisirs/Sport/Sportifs/Matthias Casse.md",
     "Journal de bord/2025-11-03.md",
@@ -278,10 +282,7 @@
     "Amstrad.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Duck Hunt.md",
     "Loisirs/Jeux Vidéos/Périphériques/8BitDo Pro 3.md",
-    "Loisirs/Jeux Vidéos/Périphériques/GX4000.md",
-    "Les décès de sportifs.md",
     "Attachments/image-189.webp",
-    "Miner 2049er - Game Boy.md",
     "Attachments/image-188.webp",
     "Attachments/image-187.webp",
     "Attachments/image-186.webp",
