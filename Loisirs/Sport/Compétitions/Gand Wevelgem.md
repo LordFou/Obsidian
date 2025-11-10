@@ -8,7 +8,7 @@ type: event
 
 Une [[course cycliste Belge]] qui parcourt les territoires de la mémoire de la [[première guerre mondiale]] en Belgique. Généralement la victoire se joue avec les [[sprinters]] costauds du plateau mais le vent et la triple ascension du [[mont Kemel ]]peut parfois changer la donne.
 
-En 2026, cette course sera 
+En 2026, cette course sera renommée -> "In Flanders Fields. From Middelkerke to Wevelgem"
 
 ## Hommes
 
