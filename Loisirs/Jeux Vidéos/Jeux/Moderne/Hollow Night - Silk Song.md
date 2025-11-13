@@ -13,14 +13,16 @@ type: game
 - **Éditeur** : [[Team Cherry]]
 - **Plateformes** : 
 - **Franchise** : [[Franchise Hollow Night|Hollow Night]]
-- **Genre** : [[Action Aventure]],[[Plateforme]], [[Metroïdvania]]
+- **Genre** : [[Action Aventure]], [[Plateforme]], [[Metroïdvania]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 2D
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- En tout cas, le jeu était attendu depuis longtemps et un grand nombre d'éditeur ont préféré décalé en avance ou dans un futur plus lointain la sortie de leur jeu : ils ont eu raison tellement l'attention était phagocytée par la sortie de Silk Song.
+	- De plus, avec un prix à 19€99, ils ont cassé le marché (à juste titre ? y'a débat)
 - **Gameplay** :
 - **Durée estimée** : 
 
