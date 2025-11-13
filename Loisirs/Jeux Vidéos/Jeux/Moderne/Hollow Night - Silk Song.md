@@ -23,7 +23,8 @@ type: game
 - **Réception critique** : 
 	- Le jeu a été shadow droppé : la sortie de septembre 2025 a été annoncée en aout 2025. Il n'y a pas eu besoin de campagne marketing.
 	- En tout cas, le jeu était attendu depuis longtemps et un grand nombre d'éditeur ont préféré décalé en avance ou dans un futur plus lointain la sortie de leur jeu : ils ont eu raison tellement l'attention était phagocytée par la sortie de Silk Song. (Ex: en septembre, 606 jeux sont sortis sur Steam alors que la moyenne du mois est actuellement à 1582 jeux)
-	- De plus, avec un prix à 19€99, ils ont cassé le marché (à juste titre ? y'a débat)
+	- De plus, avec un prix à 19€50, ils ont cassé le marché (à juste titre ? y'a débat)
+	- Autre débat, le shadow drop provoque une course à l'échalote pour sortir son article au plus vite et parfois trop vite.
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -31,6 +32,7 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- [[Hornet]]
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :

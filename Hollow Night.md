@@ -30,7 +30,7 @@ type: game
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
-	- Hornet (Boss)
+	- [[Hornet]] (Boss ?)
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
