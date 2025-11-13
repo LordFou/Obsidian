@@ -6,7 +6,7 @@
       {
         "id": "4957cbb7ec247146",
         "type": "tabs",
-        "dimension": 64.37908496732027,
+        "dimension": 63.725490196078425,
         "children": [
           {
             "id": "9f73eeb5e013c21d",
@@ -28,7 +28,7 @@
       {
         "id": "c17af28c22bc9fc1",
         "type": "tabs",
-        "dimension": 35.62091503267974,
+        "dimension": 36.27450980392157,
         "children": [
           {
             "id": "a685431bdfb493ec",
@@ -252,7 +252,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9f73eeb5e013c21d",
+  "active": "a685431bdfb493ec",
   "lastOpenFiles": [
     "Franchise Hollow Night.md",
     "Hollow Night.md",
