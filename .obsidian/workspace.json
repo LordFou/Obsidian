@@ -4,61 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a8eacd9d5d14c166",
+        "id": "4957cbb7ec247146",
         "type": "tabs",
         "children": [
           {
-            "id": "485c9f1537cd0cfd",
+            "id": "4a901104a2260c59",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
-            }
-          },
-          {
-            "id": "7383963daf9b890f",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Journal de bord/2025-11-13.md",
-                "bFile": "Journal de bord/2025-11-13.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 2025-11-13"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,8 +200,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7383963daf9b890f",
+  "active": "4a901104a2260c59",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Toon Aerts.md",
+    "Loisirs/Sport/Sportifs/Matthias Casse.md",
+    "Loisirs/Sport/Compétitions/Grand Prix du Brésil.md",
+    "Journal de bord/2025-11-10.md",
+    "Attachments/image-190.webp",
     "Journal de bord/2025-11-13.md",
     "Journal de bord/2025-11-09.md",
     "Loisirs/Jeux Vidéos/Thèmes/La Guerre froide.md",
@@ -258,7 +223,6 @@
     "Journal de bord/2025-11-06.md",
     "Généalogie des Jeux Vidéos.canvas",
     "Journal de bord/2025-10-21.md",
-    "conflict-files-obsidian-git.md",
     "Loisirs/Jeux Vidéos/Logiciels/Visicalc.md",
     "Loisirs/Jeux Vidéos/Logiciels",
     "Zenovia Interactive.md",
@@ -267,10 +231,6 @@
     "Vampire The Masquerade - Bloodlines.md",
     "Tribute Games.md",
     "Thalion Software.md",
-    "Templates/Fiche Logiciel.md",
-    "Sushee.md",
-    "Surréalisme.md",
-    "Sport & Guerre.md",
     "Attachments/image-189.webp",
     "Attachments/image-188.webp",
     "Attachments/image-187.webp",
@@ -280,7 +240,6 @@
     "Attachments/image-183.webp",
     "Attachments/image-182.webp",
     "Attachments/image-181.webp",
-    "Attachments/image-180.webp",
     "Loisirs/Sport/Statistiques",
     "Culture/Politique",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
