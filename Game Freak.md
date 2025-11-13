@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Electronic Arts
+# Game Freak
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -18,15 +18,15 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date: Septembre 2025  
-title: Rachat de la société
-content: [[Electronic Arts]] est racheté par l'Arabie Saoudite (via le fond d'investissement PIF) et la famille [[Trump]]...
+date:  
+title: 
+content:
 ```
 
 ## Jeux Développés
-| Année | Titre      | Genre              | Plateformes           |
-| ----- | ---------- | ------------------ | --------------------- |
-| XXXX  | Nom du jeu | Action / RPG / FPS | PC, PS5, Xbox, Switch |
+| Année | Titre | Genre              | Plateformes           |
+| ----- | ----- | ------------------ | --------------------- |
+| 2025  | P     | Action / RPG / FPS | PC, PS5, Xbox, Switch |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

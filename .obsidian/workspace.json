@@ -8,35 +8,65 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a901104a2260c59",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
-          },
-          {
             "id": "9f73eeb5e013c21d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/MindsEye.md",
+                "file": "Game Freak.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MindsEye"
-            }
+              "title": "Game Freak"
+            },
+            "group": "bb17ce7bc913561b"
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "c17af28c22bc9fc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a685431bdfb493ec",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Game Freak.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graphique de Game Freak"
+            },
+            "group": "bb17ce7bc913561b"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Mind",
+                "query": "Pokemon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +177,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,6 +253,13 @@
   },
   "active": "9f73eeb5e013c21d",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Légendes Pokémon - Z-A.md",
+    "Game Freak.md",
+    "Electronic Arts.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/GoldenEye 007.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Europa Universalis V.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/MindsEye.md",
+    "Build a Rocket Boy.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Hollow Night - Silk Song.md",
     "Plateforme.md",
     "Franchise Hollow Night.md",
@@ -241,15 +280,8 @@
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Miner 2049er.md",
     "Bill Hogue.md",
     "Big Five Software Co..md",
-    "Miner 2049er - Mobile.md",
-    "Magmic.md",
-    "Journal de bord/2025-11-06.md",
     "Généalogie des Jeux Vidéos.canvas",
-    "Journal de bord/2025-10-21.md",
-    "Loisirs/Jeux Vidéos/Logiciels/Visicalc.md",
     "Loisirs/Jeux Vidéos/Logiciels",
-    "Zenovia Interactive.md",
-    "Violences Policères.md",
     "Attachments/image-189.webp",
     "Attachments/image-188.webp",
     "Attachments/image-187.webp",

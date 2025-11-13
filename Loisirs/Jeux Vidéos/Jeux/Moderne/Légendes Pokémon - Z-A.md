@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Europa Universalis V
+# Légendes Pokémon - Z-A
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Paradox Interactive]]
+	- Studio : [[Game Freak]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Stratégie]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
