@@ -24,9 +24,10 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre | Genre              | Plateformes           |
-| ----- | ----- | ------------------ | --------------------- |
-| 2025  | P     | Action / RPG / FPS | PC, PS5, Xbox, Switch |
+| Année | Titre                      | Genre | Plateformes           |
+| ----- | -------------------------- | ----- | --------------------- |
+| 2025  | [[Légendes Pokémon - Z-A]] |       | PC, PS5, Xbox, Switch |
+|       |                            |       |                       |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

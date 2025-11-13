@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Machine Games
+# CD Projekt
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -18,29 +18,28 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date: septembre 2025  
-title: Une suite à [[Wolfenstein]] ?
-content: 
+date:  
+title: 
+content:
 ```
 
 ## Jeux Développés
-| Année | Titre                                  | Genre            | Plateformes    |
-| ----- | -------------------------------------- | ---------------- | -------------- |
-|       |                                        |                  |                |
-| 2024  | [[Indiana Jones And The Great Circle]] | Action, Aventure | PC, PS5, Xbox, |
+| Année | Titre      | Genre              | Plateformes           |
+| ----- | ---------- | ------------------ | --------------------- |
+| XXXX  | Nom du jeu | Action / RPG / FPS | PC, PS5, Xbox, Switch |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
 - Moteur 2
 
 ## Style et Influence
-- Responsable de la [[Franchise Wolfenstein]]
+Décrire le style graphique, les thématiques abordées, les influences notables.
 
 ## Succès et Récompenses
 Lister les prix, distinctions ou records obtenus.
 
 ## Controverses ou Événements Marquants
-Évoquer les polémiques ou faits marquants de l’histoire de la société.
+- 799 collaborateurs en octobre 2025 !!!
 
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.

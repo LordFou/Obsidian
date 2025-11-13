@@ -2,17 +2,17 @@
 type: game
 ---
 
-# Légendes Pokémon - Z-A
+# Football Manager 2026
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Game Freak]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Pokemon]]
+- **Franchise** : [[Franchise Football Manager]]
 - **Genre** :
 - **Résumé** : 
 
