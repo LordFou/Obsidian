@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gearbox Software.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Hollow Night - Silk Song.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gearbox Software"
+              "title": "Hollow Night - Silk Song"
             },
             "group": "bb17ce7bc913561b"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Gearbox Software.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Hollow Night - Silk Song.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Gearbox Software"
+              "title": "Graphique de Hollow Night - Silk Song"
             },
             "group": "bb17ce7bc913561b"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Border",
+                "query": "Silk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,8 +254,11 @@
   },
   "active": "9f73eeb5e013c21d",
   "lastOpenFiles": [
-    "Randy Pitchford.md",
+    "Franchise Hollow Night.md",
+    "Hollow Night.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hollow Night - Silk Song.md",
     "Gearbox Software.md",
+    "Randy Pitchford.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Borderlands 4.md",
     "Darren Korb.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Hades 2.md",
@@ -277,9 +280,6 @@
     "Electronic Arts.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/GoldenEye 007.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Europa Universalis V.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/MindsEye.md",
-    "Build a Rocket Boy.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hollow Night - Silk Song.md",
     "Attachments/image-190.webp",
     "Généalogie des Jeux Vidéos.canvas",
     "Loisirs/Jeux Vidéos/Logiciels",
