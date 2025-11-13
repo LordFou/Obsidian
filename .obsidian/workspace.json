@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Darren Korb.md",
+                "file": "Gearbox Software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Darren Korb"
+              "title": "Gearbox Software"
             },
             "group": "bb17ce7bc913561b"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Darren Korb.md",
+                "file": "Gearbox Software.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Darren Korb"
+              "title": "Graphique de Gearbox Software"
             },
             "group": "bb17ce7bc913561b"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hades",
+                "query": "Border",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,8 +254,11 @@
   },
   "active": "9f73eeb5e013c21d",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hades 2.md",
+    "Randy Pitchford.md",
+    "Gearbox Software.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Borderlands 4.md",
     "Darren Korb.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hades 2.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Escape From Tarkov.md",
     "Intelligence Artificielle.md",
     "Politique.md",
@@ -277,9 +280,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/MindsEye.md",
     "Build a Rocket Boy.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Hollow Night - Silk Song.md",
-    "Plateforme.md",
-    "Franchise Hollow Night.md",
-    "Loisirs/Jeux Vidéos/Associations Jeux Vidéos.md",
     "Attachments/image-190.webp",
     "Généalogie des Jeux Vidéos.canvas",
     "Loisirs/Jeux Vidéos/Logiciels",
