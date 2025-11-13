@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sociétés/CD Projekt.md",
+                "file": "Darren Korb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CD Projekt"
+              "title": "Darren Korb"
             },
             "group": "bb17ce7bc913561b"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sociétés/CD Projekt.md",
+                "file": "Darren Korb.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de CD Projekt"
+              "title": "Graphique de Darren Korb"
             },
             "group": "bb17ce7bc913561b"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CD Proje",
+                "query": "Hades",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,8 +179,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,8 +254,15 @@
   },
   "active": "9f73eeb5e013c21d",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Crown Gambit.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hades 2.md",
+    "Darren Korb.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Escape From Tarkov.md",
+    "Intelligence Artificielle.md",
+    "Politique.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Pacific Drive.md",
+    "Ironwood.md",
     "Loisirs/Jeux Vidéos/Sociétés/CD Projekt.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Crown Gambit.md",
     "Machine Games.md",
     "Franchise Wolfenstein.md",
     "Wolfenstein.md",
@@ -274,14 +280,7 @@
     "Plateforme.md",
     "Franchise Hollow Night.md",
     "Loisirs/Jeux Vidéos/Associations Jeux Vidéos.md",
-    "Journal de bord/2025-11-13.md",
-    "conflict-files-obsidian-git.md",
-    "Toon Aerts.md",
-    "Loisirs/Sport/Sportifs/Matthias Casse.md",
-    "Loisirs/Sport/Compétitions/Grand Prix du Brésil.md",
-    "Journal de bord/2025-11-10.md",
     "Attachments/image-190.webp",
-    "Journal de bord/2025-11-09.md",
     "Généalogie des Jeux Vidéos.canvas",
     "Loisirs/Jeux Vidéos/Logiciels",
     "Attachments/image-189.webp",

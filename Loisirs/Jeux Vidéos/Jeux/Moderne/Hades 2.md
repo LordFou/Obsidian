@@ -11,6 +11,7 @@ type: game
 	- Studio : [[Supergiant Games]]
 	- Personnalités : 
 		- [[Judy Alice Lee]], [[Amelia Tyler]], [[Logan Cunningham]] (Doublage)
+		- [[Darren Korb]] (Musique)
 - **Éditeur** : 
 - **Plateformes** : PC, [[Playstation 5]], [[Xbox Series]], [[Switch]]
 - **Franchise** : [[Franchise Hades]]
