@@ -8,10 +8,11 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur          | Nationalité | Remarque |
+| ----- | ------------------ | ----------- | -------- |
+| 2025  | [[Laurens Sweeck]] | Belge       |          |
+|       |                    |             |          |
+|       |                    |             |          |
 # Femmes
 
 | Année | Vainqueur         | Nationalité | Remarque |

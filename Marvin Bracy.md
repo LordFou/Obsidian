@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Greg Van Avermaet
+# Marvin Bracy
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** : [[Cyclisme]] 
+- **Nationalité** :  Américain
+- **Sport / Discipline** : [[Athlétisme]] 
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                         | Résultat | Remarque |
-| ----- | ----------------------------------- | -------- | -------- |
-| ?     | [[Super 8 Classic]]                 | 1ier     |          |
-| 2025  | Ironman 70.3 - Championnat du Monde | 1ier     |          |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -25,8 +24,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
-
+- Suspendu 45 mois pour [[Dopage dans le sport|dopage]] à la [[testostérone]]
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
