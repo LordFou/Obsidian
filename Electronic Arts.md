@@ -20,7 +20,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 [line-5, body-2]
 date: Septembre 2025  
 title: Rachat de la société
-content: [[Electronic Arts]] est racheté par l'Arabie Saoudite et la famille [[Trump]]...
+content: [[Electronic Arts]] est racheté par l'Arabie Saoudite (via le fond d'investissement PIF) et la famille [[Trump]]...
 ```
 
 ## Jeux Développés

@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Franchise Hollow Night
+# Franchise Wolfenstein
 
 
 ## Informations générales
@@ -22,10 +22,9 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                        | Année | Plateformes | Remarque              |
-| ---------------------------- | ----- | ----------- | --------------------- |
-| [[Hollow Night]]             | 2017  |             | 15 millions de ventes |
-| [[Hollow Night - Silk Song]] | 2025  |             |                       |
+| Titre | Année | Plateformes | Remarque |
+| ----- | ----- | ----------- | -------- |
+|       |       |             |          |
 
 
 ## Mécaniques et innovations

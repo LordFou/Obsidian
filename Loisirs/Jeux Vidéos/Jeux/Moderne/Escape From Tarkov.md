@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Europa Universalis V
+# Escape From Tarkov
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Paradox Interactive]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Stratégie]]
+- **Genre** : [[Extraction-Shooter]], [[FPS]]
 - **Résumé** : 
 
 ## Détails Techniques

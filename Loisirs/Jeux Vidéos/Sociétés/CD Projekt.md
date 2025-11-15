@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Team Cherry
+# CD Projekt
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -12,7 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  Australie
+- **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -24,10 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                        | Genre      | Plateformes |
-| ----- | ---------------------------- | ---------- | ----------- |
-| 2025  | [[Hollow Night - Silk Song]] | Plateforme | PC          |
-|       |                              |            |             |
+| Année | Titre      | Genre              | Plateformes           |
+| ----- | ---------- | ------------------ | --------------------- |
+| XXXX  | Nom du jeu | Action / RPG / FPS | PC, PS5, Xbox, Switch |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
@@ -40,7 +39,7 @@ Décrire le style graphique, les thématiques abordées, les influences notables
 Lister les prix, distinctions ou records obtenus.
 
 ## Controverses ou Événements Marquants
-Évoquer les polémiques ou faits marquants de l’histoire de la société.
+- 799 collaborateurs en octobre 2025 !!!
 
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.

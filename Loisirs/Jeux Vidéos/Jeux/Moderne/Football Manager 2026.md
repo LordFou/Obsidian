@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Europa Universalis V
+# Football Manager 2026
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Paradox Interactive]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : 
-- **Genre** : [[Stratégie]]
+- **Franchise** : [[Franchise Football Manager]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques

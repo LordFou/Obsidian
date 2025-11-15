@@ -8,7 +8,7 @@ type: game
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Build a Rocket Boy]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
@@ -20,7 +20,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 3/10 chez Canard PC, buggé jusqu'à la moëlle. La route sera longue et il faudra plus qu'un patch.
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -36,6 +37,7 @@ type: game
 ## Anecdotes et Curiosités
 - Buggé à mort lors de la sortie
 - A connu énormément de soucis durant le développement qui font dire que le crash était inévitable (?)
+- Peu après la sortie, une centaine de personnes seront virées.
 ## Liens et Ressources
 
 | Description      | URL                          |

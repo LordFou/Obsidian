@@ -26,6 +26,7 @@ content:
 ## Jeux Développés
 | Année | Titre                                  | Genre            | Plateformes    |
 | ----- | -------------------------------------- | ---------------- | -------------- |
+|       |                                        |                  |                |
 | 2024  | [[Indiana Jones And The Great Circle]] | Action, Aventure | PC, PS5, Xbox, |
 
 ## Moteur(s) Utilisé(s)
@@ -33,7 +34,7 @@ content:
 - Moteur 2
 
 ## Style et Influence
-Décrire le style graphique, les thématiques abordées, les influences notables.
+- Responsable de la [[Franchise Wolfenstein]]
 
 ## Succès et Récompenses
 Lister les prix, distinctions ou records obtenus.

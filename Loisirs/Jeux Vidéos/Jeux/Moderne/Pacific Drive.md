@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Europa Universalis V
+# Pacific Drive
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Paradox Interactive]]
+	- Studio : [[Ironwood]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Stratégie]]
+- **Genre** : [[Survie]]
 - **Résumé** : 
 
 ## Détails Techniques
