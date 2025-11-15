@@ -2,22 +2,20 @@
 type: personne
 ---
 
-# Stéphane Ogier
+# Elena Rybakina
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** : Français
-- **Sport / Discipline** : [[Rallye]] 
+- **Nationalité** : Kazakhstanaise
+- **Sport / Discipline** :  [[Tennis]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition             | Résultat | Remarque                  |
-| ----- | ----------------------- | -------- | ------------------------- |
-| 2025  | [[Rallye de Sardaigne]] | 1ier     | 5e victoire sur ce rallye |
-| 2025  | [[Rallye du Paraguay]]  | 1ier     |                           |
-| 2025  | [[Rallye du Japon]]     | 1ier     |                           |
+| Année | Compétition             | Résultat  | Remarque |
+| ----- | ----------------------- | --------- | -------- |
+| 2025  | [[Masters WTA de Ryad]] | Vainqueur |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
