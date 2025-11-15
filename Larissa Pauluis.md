@@ -13,9 +13,9 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                            | Résultat                   | Remarque         |
-| ----- | -------------------------------------- | -------------------------- | ---------------- |
-| 2025  | [[Grand Prix de dressage à Stuttgart]] | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition                        | Résultat | Remarque |
+| ----- | ---------------------------------- | -------- | -------- |
+| 2025  | Grand Prix de dressage à Stuttgart | 4e       | 71,804 % |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
