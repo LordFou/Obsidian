@@ -1,24 +1,21 @@
 ---
 type: personne
 ---
-![[image-191.webp]]
-# Loïs Petit
+
+# Larissa Pauluis
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** : Belge
-- **Sport / Discipline** :  [[Judo]]
+- **Sport / Discipline** : [[Equitation]]  
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                 | Résultat | Remarque |
-| ----- | ------------------------------------------- | -------- | -------- |
-| 2025  | [[European Open de Benidorm]] (-48kg)       | Bronze   |          |
-| 2025  | [[Championnat de Belgique de Judo]] (-48kg) | Or       |          |
-| 2025  | [[Grand Prix de Zagreb]] (- 48kg)           | Bronze   | Ippon    |
-|       |                                             |          |          |
+| Année | Compétition                            | Résultat                   | Remarque         |
+| ----- | -------------------------------------- | -------------------------- | ---------------- |
+| 2025  | [[Grand Prix de dressage à Stuttgart]] | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
