@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition             | Résultat | Remarque |
 | ----- | ----------------------- | -------- | -------- |
 | 2025  | [[Cross de Koppenberg]] | 1ière    |          |
+| 2025  | [[Jaarmarktcross]]      | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

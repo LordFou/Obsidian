@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Les Sportifs Stars qui pètent un plomb.md",
+                "file": "Jaarmarktcross.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Les Sportifs Stars qui pètent un plomb"
+              "title": "Jaarmarktcross"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Lucinda Brand",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,10 +206,13 @@
   },
   "active": "064d3aa03bf13a29",
   "lastOpenFiles": [
-    "Larissa Pauluis.md",
-    "Loisirs/Sport/Les Sportifs Stars qui pètent un plomb.md",
-    "Grand Prix de dressage à Stuttgart.md",
+    "Lucinda Brand.md",
+    "Jaarmarktcross.md",
     "Journal de bord/2025-11-15.md",
+    "Belgian Cats.md",
+    "Loisirs/Sport/Les Sportifs Stars qui pètent un plomb.md",
+    "Larissa Pauluis.md",
+    "Grand Prix de dressage à Stuttgart.md",
     "Grand Prix de Zagreb.md",
     "Loïs Petit.md",
     "European Open de Benidorm.md",
@@ -231,9 +233,6 @@
     "Journal de bord/2025-11-13.md",
     "Ironwood.md",
     "Game Freak.md",
-    "Franchise Wolfenstein.md",
-    "Franchise Pokemon.md",
-    "Franchise Football Manager.md",
     "Attachments/image-190.webp",
     "Loisirs/Jeux Vidéos/Logiciels",
     "Attachments/image-189.webp",
