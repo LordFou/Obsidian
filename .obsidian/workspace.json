@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elise Mertens.md",
+                "file": "Loisirs/Sport/Sportifs/Kay De Bruyckere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elise Mertens"
+              "title": "Kay De Bruyckere"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Elise Mertens",
+                "query": "Inge van der Heijden",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,9 +207,14 @@
   },
   "active": "064d3aa03bf13a29",
   "lastOpenFiles": [
+    "Fem van Empel.md",
+    "Loisirs/Sport/Sportifs/Kay De Bruyckere.md",
+    "Championnat d'Europe de Cyclocross.md",
+    "Loisirs/Sport/Sportifs/Inge van der Heijden.md",
+    "Veronika Kudermetova.md",
+    "Elise Mertens.md",
     "Masters WTA de Ryad.md",
     "Loisirs/Sport/Sportifs/Elena Rybakina.md",
-    "Elise Mertens.md",
     "Stéphane Ogier.md",
     "Rallye du Japon.md",
     "Loena Hendrickx.md",
@@ -228,11 +234,6 @@
     "Belgian Cats.md",
     "Loisirs/Sport/Les Sportifs Stars qui pètent un plomb.md",
     "Larissa Pauluis.md",
-    "Grand Prix de dressage à Stuttgart.md",
-    "Grand Prix de Zagreb.md",
-    "Loïs Petit.md",
-    "European Open de Benidorm.md",
-    "Championnat de Belgique de Judo.md",
     "Attachments/image-191.webp",
     "Attachments/image-190.webp",
     "Loisirs/Jeux Vidéos/Logiciels",

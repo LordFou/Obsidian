@@ -26,7 +26,7 @@ type: personne
 | 2025  | [[US Open]] - Double               | Demi-finale  | avec [[Veronika Kudermetova]]                                       |
 | 2025  | [[Tournoi de Wuhan]] - Simple      | 2e tour      | Blessée au dos                                                      |
 | 2025  | [[WTA - Tournoi d'Osaka]] - Simple | 2e tour      |                                                                     |
-| 2025  | [[Masters WTA de Ryad]]            |              |                                                                     |
+| 2025  | [[Masters WTA de Ryad]] - Double   | Vainqueur    | avec V                                                              |
 
 # Style et Caractéristiques
 - C'est une joueuse très équilibrée et régulière qui intègre en juin 2025 le club très fermé des joueuses qui ont gagné un tournoi sur les 3 types de surface.
