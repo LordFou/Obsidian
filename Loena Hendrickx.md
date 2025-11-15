@@ -1,23 +1,21 @@
 ---
 type: personne
 ---
-
-# Greg Van Avermaet
+![[image-192.webp]]
+# Loena Hendrickx
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** : [[Cyclisme]] 
+- **Nationalité** : Belge
+- **Sport / Discipline** : [[Patinage artistique]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                         | Résultat | Remarque      |
-| ----- | ----------------------------------- | -------- | ------------- |
-| ?     | [[Super 8 Classic]]                 | 1ier     |               |
-| 2025  | Ironman 70.3 - Championnat du Monde | 1ier     | Vétéran 40-44 |
-|       |                                     |          |               |
+| Année | Compétition                | Résultat | Remarque |
+| ----- | -------------------------- | -------- | -------- |
+| 2025  | [[Grand Prix ISU d’Osaka]] | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
