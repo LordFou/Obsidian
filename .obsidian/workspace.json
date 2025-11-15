@@ -4,66 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "11ca9477a975dabf",
+        "id": "6438da3253a40a7a",
         "type": "tabs",
-        "dimension": 69.35483870967742,
         "children": [
           {
-            "id": "a8ac3052226bb2b5",
+            "id": "60615cec6ca3a95e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal de bord/2025-11-15.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-11-15"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9021e4495cfb3ce8",
-        "type": "tabs",
-        "dimension": 30.64516129032258,
-        "children": [
-          {
-            "id": "84213bb6f549c7c7",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Journal de bord/2025-11-15.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-11-15"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -231,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {
