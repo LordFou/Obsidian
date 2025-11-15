@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "18ddd52159e71f4e",
+        "id": "80d01514b94d46de",
         "type": "tabs",
         "children": [
           {
-            "id": "423311b9d454329f",
+            "id": "064d3aa03bf13a29",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Loïs Petit.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Loïs Petit"
             }
           }
         ]
@@ -128,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,8 +205,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c8ddbab28469fc36",
+  "active": "064d3aa03bf13a29",
   "lastOpenFiles": [
+    "Attachments/image-191.webp",
+    "Journal de bord/2025-11-15.md",
+    "Loïs Petit.md",
+    "Hollow Night.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hollow Night - Silk Song.md",
     "conflict-files-obsidian-git.md",
     "accessibilité.md",
     "Wolfenstein.md",
@@ -221,14 +231,9 @@
     "Darren Korb.md",
     "Build a Rocket Boy.md",
     "Loisirs/Internet/Les perles du net.md",
-    "Journal de bord/2025-11-15.md",
     "Attachments/image-190.webp",
     "Toon Aerts.md",
     "Dopage dans le sport.md",
-    "Championnat d'Europe de Cyclocross.md",
-    "Journal de bord/2025-11-10.md",
-    "Loisirs/Sport/Compétitions/Grand Prix du Brésil.md",
-    "Grand Prix du Mexique.md",
     "Loisirs/Jeux Vidéos/Logiciels",
     "Attachments/image-189.webp",
     "Attachments/image-188.webp",
