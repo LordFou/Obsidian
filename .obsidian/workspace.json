@@ -4,62 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c17af28c22bc9fc1",
+        "id": "e978fa6ebd6fa7f9",
         "type": "tabs",
         "children": [
           {
-            "id": "a685431bdfb493ec",
+            "id": "2fa1f332c0072041",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Journal de bord/2025-11-15.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-11-15"
-            }
-          },
-          {
-            "id": "cbc6be65ebadb744",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal de bord/2025-11-15.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-11-15"
+              "title": "Nouvel onglet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Silk",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -242,7 +200,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cbc6be65ebadb744",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
     "Journal de bord/2025-11-15.md",
     "Journal de bord/2025-11-13.md",
