@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-193.webp]]
 # Thibau Nys
 
 # Informations Générales
@@ -19,6 +19,7 @@ type: personne
 | 2025  | [[Critérium d'Alost]]                                 | 3e       |          |
 | 2025  | [[Critérium de Roulers]]                              | 3e       |          |
 | 2025  | [[Cross de Koppenberg]]                               | 1ier     |          |
+| 2025  | [[Cross de Hamme]]                                    | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
