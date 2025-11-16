@@ -2,22 +2,21 @@
 type: personne
 ---
 
-# Lucinda Brand
+# Isabelle van Elst
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Néerlandaise
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Nationalité** : Belge
+- **Sport / Discipline** : [[Patinage de vitesse]]  
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition             | Résultat | Remarque |
-| ----- | ----------------------- | -------- | -------- |
-| 2025  | [[Cross de Koppenberg]] | 1ière    |          |
-| 2025  | [[Jaarmarktcross]]      | 1ière    |          |
-| 2025  | [[Cross de Hamme]]      | 1ière    |          |
+| Année | Compétition                                                    | Résultat                   | Remarque                     |
+| ----- | -------------------------------------------------------------- | -------------------------- | ---------------------------- |
+| 2025  | Coupe du monde de patinage de vitesse - Salt Lake City - 1500m | 1ère place / Médaille d’or | 1:54.22 - Record de Belgique |
+|       |                                                                |                            |                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

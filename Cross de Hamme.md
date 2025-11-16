@@ -14,7 +14,7 @@ type: event
 |       |                |             |          |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur         | Nationalité  | Remarque |
+| ----- | ----------------- | ------------ | -------- |
+| 2025  | [[Lucinda Brand]] | Néerlandaise |          |
+|       |                   |              |          |
