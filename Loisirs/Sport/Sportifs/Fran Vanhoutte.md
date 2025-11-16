@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Isabelle van Elst
+# Fran Vanhoutte
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** : Belge
-- **Sport / Discipline** : [[Patinage de vitesse]]  
+- **Nationalité** :  Belge
+- **Sport / Discipline** : [[Patinage de vitesse]] 
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                    | Résultat | Remarque                     |
-| ----- | -------------------------------------------------------------- | -------- | ---------------------------- |
-| 2025  | Coupe du monde de patinage de vitesse - Salt Lake City - 1500m | 14e      | 1:54.22 - Record de Belgique |
-|       |                                                                |          |                              |
+| Année | Compétition                                                   | Résultat | Remarque                   |
+| ----- | ------------------------------------------------------------- | -------- | -------------------------- |
+| 2025  | Coupe du monde de patinage de vitesse - Salt Lake City - 500m |          | 38.32 - Record de Belgique |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

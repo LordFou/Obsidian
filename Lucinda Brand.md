@@ -17,6 +17,7 @@ type: personne
 | ----- | ----------------------- | -------- | -------- |
 | 2025  | [[Cross de Koppenberg]] | 1ière    |          |
 | 2025  | [[Jaarmarktcross]]      | 1ière    |          |
+| 2025  | [[Cross de Merkplas]]   | 1ière    |          |
 | 2025  | [[Cross de Hamme]]      | 1ière    |          |
 
 # Style et Caractéristiques

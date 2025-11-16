@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Isabelle van Elst.md",
+                "file": "Roos Vanotterdijk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Isabelle van Elst"
+              "title": "Roos Vanotterdijk"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Isabelle van Elst",
+                "query": "Roos Vanotterdijk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,10 +206,14 @@
   },
   "active": "064d3aa03bf13a29",
   "lastOpenFiles": [
-    "Journal de bord/2025-11-16.md",
-    "Loisirs/Sport/Sportifs/Kay De Bruyckere.md",
+    "Loisirs/Sport/Sportifs/Bart Swings.md",
+    "Loisirs/Sport/Compétitions/Cross de Merkplas.md",
+    "Joris Nieuwenhuis.md",
     "Lucinda Brand.md",
     "Loisirs/Sport/Sportifs/Isabelle van Elst.md",
+    "Loisirs/Sport/Sportifs/Fran Vanhoutte.md",
+    "Journal de bord/2025-11-16.md",
+    "Loisirs/Sport/Sportifs/Kay De Bruyckere.md",
     "Cross de Hamme.md",
     "Thibau Nys.md",
     "Attachments/image-193.webp",
@@ -231,10 +234,6 @@
     "Rallye du Japon.md",
     "Loena Hendrickx.md",
     "Attachments/image-192.webp",
-    "Grand Prix ISU d’Osaka.md",
-    "Journal de bord/2025-11-15.md",
-    "Giel Lejeune.md",
-    "Jelle Geens.md",
     "Attachments/image-191.webp",
     "Attachments/image-190.webp",
     "Loisirs/Jeux Vidéos/Logiciels",
