@@ -1,3 +1,5 @@
+# Outils
+- https://hivemoderation.com/ai-generated-content-detection
 # Polémique
 
 ## Jeux Vidéo
