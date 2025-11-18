@@ -11,14 +11,14 @@
             "id": "029bc2eb3ca5e945",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "Journal de bord/2025-11-18.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "2025-11-18"
             }
           }
         ]
@@ -132,11 +132,12 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 272.5
   },
   "right": {
     "id": "2a4328d55d7357ae",
@@ -206,6 +207,8 @@
   },
   "active": "029bc2eb3ca5e945",
   "lastOpenFiles": [
+    "Journal de bord/2025-11-17.md",
+    "Journal de bord/2025-11-16.md",
     "conflict-files-obsidian-git.md",
     "Rallye du Japon.md",
     "Météorologie.md",
@@ -226,8 +229,6 @@
     "Loena Hendrickx.md",
     "Laurens Sweeck.md",
     "Larissa Pauluis.md",
-    "Journal de bord/2025-11-17.md",
-    "Journal de bord/2025-11-16.md",
     "Joris Nieuwenhuis.md",
     "Jaarmarktcross.md",
     "Grand Prix de Zagreb.md",
