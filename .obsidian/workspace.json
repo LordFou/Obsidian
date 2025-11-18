@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e978fa6ebd6fa7f9",
+        "id": "a979b7fc33ff970e",
         "type": "tabs",
         "children": [
           {
-            "id": "2fa1f332c0072041",
+            "id": "d458c7df02131762",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -200,8 +200,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "d458c7df02131762",
   "lastOpenFiles": [
+    "Journal de bord/2025-11-18.md",
     "Journal de bord/2025-11-15.md",
     "Journal de bord/2025-11-13.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Hollow Night - Silk Song.md",
@@ -227,7 +228,6 @@
     "Wolfenstein.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Football Manager 2026.md",
     "Franchise Football Manager.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Légendes Pokémon - Z-A.md",
     "Attachments/image-190.webp",
     "Généalogie des Jeux Vidéos.canvas",
     "Loisirs/Jeux Vidéos/Logiciels",
