@@ -24,7 +24,7 @@ content:
 ## Jeux principaux
 | Titre                    | Année | Plateformes | Remarque |
 | ------------------------ | ----- | ----------- | -------- |
-| [[Doom]]                 | 2016  |             |          |
+| [[Doom]]                 | 2016  | PC, 3DO (!) |          |
 | [[Doom Eternal]]         | 2018  |             |          |
 | [[Doom - The Dark Ages]] | 2025  |             |          |
 

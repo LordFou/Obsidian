@@ -5,7 +5,7 @@ type: personne
 # Rebecca Heineman
 
 ## Présentation
-Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
+- Pionnière de la visibilité LGBT dans le milieu du jeu vidéo
 
 ## Informations Générales
 - **Date de naissance** :  1963 - 2025
@@ -15,8 +15,8 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 	- [[Game Designer]]
 	- [[Programmeur]]
 - **Entreprise(s) associée(s)** : 
-	- Co-fondatrice d'[[Interplay]]
-- **Pseudo** : Burger Becky
+	- Co-fondatrice d'[[Interplay]], puis de Mac Play (?)
+- **Pseudo** : [[Burger Becky]]
 
 ```timeline-labeled
 [line-5, body-2]
@@ -27,8 +27,9 @@ content:
 
 
 ## Contributions Notables
-- Bard's Tale 3
-- Doom en version [[3DO]]
+- [[Bard's Tale 3]]
+- [[Dragon Wars]] (= Bard's Tale 4)
+- [[Doom]] en version [[3DO]]
 ```dataviewjs
 const pages = dv.pages("");
 const results = [];
@@ -63,7 +64,7 @@ if (tableData.length > 0) {
 ```
 
 ## Récompenses et Distinctions
-- Sacrée championne de [[Space Invaders]] en 1980
+- Sacrée championne de [[Space Invaders]] en 1980 sur [[Atari 2600]]
 
 ## Controverses ou Faits Marquants
 Évoquer les polémiques ou événements notables liés à cette personne.
