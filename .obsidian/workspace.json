@@ -11,10 +11,14 @@
             "id": "029bc2eb3ca5e945",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
         ]
@@ -200,7 +204,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c8ddbab28469fc36",
+  "active": "029bc2eb3ca5e945",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Rallye du Japon.md",
