@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Veronika Kudermetova
+# Bart Swings
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Russe
-- **Sport / Discipline** :  Tennis 
+- **Nationalité** :  Belge
+- **Sport / Discipline** : [[Patinage de vitesse]] 
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                       | Résultat   | Remarque               |
-| ----- | --------------------------------- | ---------- | ---------------------- |
-| 2025  | [[Tournoi de Wimbledon]] - Double | Vainqueure | avec [[Elise Mertens]] |
-| 2025  | [[Masters WTA de Ryad]] - Double  | Vainqueure | avec [[Elise Mertens]] |
+| Année | Compétition                             | Résultat | Remarque |
+| ----- | --------------------------------------- | -------- | -------- |
+| 2025  | Coupe du monde - Salt Lake City - 5000m | 13e      |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

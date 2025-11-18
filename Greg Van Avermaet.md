@@ -13,9 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition         | Résultat | Remarque |
-| ----- | ------------------- | -------- | -------- |
-| ?     | [[Super 8 Classic]] | 1ier     |          |
+| Année | Compétition                         | Résultat | Remarque      |
+| ----- | ----------------------------------- | -------- | ------------- |
+| ?     | [[Super 8 Classic]]                 | 1ier     |               |
+| 2025  | Ironman 70.3 - Championnat du Monde | 1ier     | Vétéran 40-44 |
+|       |                                     |          |               |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

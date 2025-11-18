@@ -29,6 +29,7 @@ type: personne
 | 2025  | Coupe du Monde - Petit bain - 1ière manche - 100m Pap                         | 4e (Série)<br>3e (Finale) | 56.97 (Série)<br>55.64 (Finale)                        | Record de Belgique<br>Carmel (USA) |
 | 2025  | Coupe du Monde - Petit bain - 1ière manche - 50m Dos                          | 9e (Série)                |                                                        | Carmel (USA)                       |
 | 2025  | Coupe du Monde - Petit bain - 1ière manche - 100m Dos                         | 9e (Série)                |                                                        | Carmel (USA)                       |
+|       |                                                                               |                           |                                                        |                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

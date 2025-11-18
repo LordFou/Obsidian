@@ -15,7 +15,8 @@ type: event
 | 2025  | [[Toon Aerts]] | Belge       |          |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur                | Nationalité  | Remarque |
+| ----- | ------------------------ | ------------ | -------- |
+| 2024  | [[Fem van Empel]]        | Néerlandaise |          |
+| 2025  | [[Inge van der Heijden]] | Néerlandaise |          |
+|       |                          |              |          |

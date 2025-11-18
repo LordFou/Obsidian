@@ -18,6 +18,7 @@ type: personne
 | 2024  | Ironman 70.3 - Championnat du Monde   | 1ier     |                          |
 | 2025  | Ironman 70.3 - Geelong - Australie    | 1ier     |                          |
 | 2025  | [[Circuit T100]] - Vancouver - Canada | 1ier     | 2e - [[Marten Van Riel]] |
+| 2025  | Ironman 70.3 - Championnat du Monde   | 1ier     |                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

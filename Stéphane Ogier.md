@@ -17,6 +17,7 @@ type: personne
 | ----- | ----------------------- | -------- | ------------------------- |
 | 2025  | [[Rallye de Sardaigne]] | 1ier     | 5e victoire sur ce rallye |
 | 2025  | [[Rallye du Paraguay]]  | 1ier     |                           |
+| 2025  | [[Rallye du Japon]]     | 1ier     |                           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Veronika Kudermetova
+# Marion Norbert Riberolle
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Russe
-- **Sport / Discipline** :  Tennis 
+- **Nationalité** : Belge
+- **Sport / Discipline** : [[Cyclisme]]  
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                       | Résultat   | Remarque               |
-| ----- | --------------------------------- | ---------- | ---------------------- |
-| 2025  | [[Tournoi de Wimbledon]] - Double | Vainqueure | avec [[Elise Mertens]] |
-| 2025  | [[Masters WTA de Ryad]] - Double  | Vainqueure | avec [[Elise Mertens]] |
+| Année | Compétition                               | Résultat | Remarque |
+| ----- | ----------------------------------------- | -------- | -------- |
+| 2025  | [[Championnat de Belgique de Cyclocross]] | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

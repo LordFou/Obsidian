@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Veronika Kudermetova
+# Elena Rybakina
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Russe
-- **Sport / Discipline** :  Tennis 
+- **Nationalité** : Kazakhstanaise
+- **Sport / Discipline** :  [[Tennis]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                       | Résultat   | Remarque               |
-| ----- | --------------------------------- | ---------- | ---------------------- |
-| 2025  | [[Tournoi de Wimbledon]] - Double | Vainqueure | avec [[Elise Mertens]] |
-| 2025  | [[Masters WTA de Ryad]] - Double  | Vainqueure | avec [[Elise Mertens]] |
+| Année | Compétition             | Résultat  | Remarque |
+| ----- | ----------------------- | --------- | -------- |
+| 2025  | [[Masters WTA de Ryad]] | Vainqueur |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
