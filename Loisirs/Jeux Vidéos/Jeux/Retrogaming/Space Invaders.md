@@ -1,3 +1,7 @@
+---
+type: game
+---
+
 # Space Invaders
 
 ![[Pasted image 20250320012713.png]]
