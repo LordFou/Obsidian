@@ -9,7 +9,7 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 - **Profession(s)** : Développeur, Concepteur, Directeur de boîte 
 - **Entreprise(s) associée(s)** : 
 	- [[New World Computing]]
-	- [[3DO]]
+	- [[3DO - Entrerprise|3DO]]
 
 ## Contributions Notables
 | Année | Projet / Jeu                                | Rôle                    | Studio / Éditeur          |

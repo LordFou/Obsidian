@@ -7,7 +7,7 @@
 	- [[Jon Van Caneghem]] 
 	- [[Mark Caldwell]]
 - Développeur(s) : [[New World Computing]]
-- Éditeur(s) : [[3DO]]
+- Éditeur(s) : [[3DO - Entrerprise|3DO]]
 - Première apparition : {{Nom du premier jeu (année)}}
 - Genre principal : [[Stratégie]], [[Tour par tour]]
 

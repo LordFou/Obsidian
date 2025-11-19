@@ -11,7 +11,7 @@
 		- [[Jon Van Caneghem]] (Développeur)
 		- [[Rob King]] (Compositeur)
 		- [[Paul Romero]] (Compositeur)
-- **Éditeur** : [[3DO]]
+- **Éditeur** : [[3DO - Entrerprise|3DO]]
 - **Plateformes** : PC, Mac
 - **Franchise** : [[Heroes of Might And Magic - Franchise|Heroes Of Might And Magic]]
 - **Genre** : [[Stratégie]]
@@ -54,7 +54,7 @@
 ## Anecdotes et Curiosités
 - Les 2 concepteurs étaient fan des échecs
 - Le jeu possède un [[éditeur de carte]] pour créer vos propres parties. Cet éditeur est celui utilisé pour faire le jeu lui même !!! (Je me souviens d'avoir participer à des concours sur des cartes sur tel ou tel thème)
-- La revente de [[New World Computing]]à [[3DO]] a permis à [[Jon Van Caneghem|Jon]] de se concentrer sur [[Heroes of Might and Magic II|Heroes II]]
+- La revente de [[New World Computing]] à [[3DO - Entrerprise|3DO]] a permis à [[Jon Van Caneghem|Jon]] de se concentrer sur [[Heroes of Might and Magic II|Heroes II]]
 - A noter un portage sur la [[Game Boy Color]] en 2000, pas parfait mais ça se joue.
 - Tout le monde n'aimait pas le style opera de la BO, donc il y avait 2 style avec ou sans et on pouvait basculer de l'un à l'autre.
 - Comme l'équipe de test utilisait bcp les mêmes stratégies, ils se sont dit qu'il fallait retrouver un équilibre entre les factions avant de sortir le jeu pour multiplier les stratégies => C'est de là qu'ils ont permis aux héros d'avoir des aptitudes au combat et donc le début du RPG dans la franchise.

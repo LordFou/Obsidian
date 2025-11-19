@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Franchise DOOM.md",
+                "file": "Journal de bord/2025-11-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Franchise DOOM"
+              "title": "2025-11-19"
             },
             "group": "eb747f71b761a148"
           }
@@ -36,14 +36,14 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Franchise DOOM.md",
+                "file": "Journal de bord/2025-11-19.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Franchise DOOM"
+              "title": "Graphique de 2025-11-19"
             },
             "group": "eb747f71b761a148"
           }
@@ -255,6 +255,21 @@
   },
   "active": "029bc2eb3ca5e945",
   "lastOpenFiles": [
+    "Alexander Blockx.md",
+    "Journal de bord/2025-11-19.md",
+    "Albert Torres.md",
+    "Adventure Soft.md",
+    "Accessibilité.md",
+    "A Boy and His Blob.md",
+    "3DS.md",
+    "Franchise Shovel Knight.md",
+    "3DO.md",
+    "3DO - Entrerprise.md",
+    "Loisirs/Jeux Vidéos/Jeux/Franchise/Heroes of Might And Magic - Franchise.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Heroes of Might and Magic II.md",
+    "Loisirs/Jeux Vidéos/Personnalités/Jon Van Caneghem.md",
+    "Loisirs/Jeux Vidéos/Sociétés/New World Computing.md",
+    "Loisirs/Jeux Vidéos/Franchise DOOM.md",
     "Loisirs/Jeux Vidéos/Doom.md",
     "Loisirs/Jeux Vidéos/Personnalités/Rebecca Heineman.md",
     "Burger Becky.md",
@@ -263,24 +278,9 @@
     "Loisirs/Jeux Vidéos/Plateformes/Atari 2600.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Space Invaders.md",
     "Interplay.md",
-    "3DO.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Hell is Us.md",
     "S.T.A.L.K.E.R.S.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Stalker 2.md",
-    "Journal de bord/2025-11-18.md",
-    "Journal de bord/2025-11-17.md",
-    "Journal de bord/2025-11-16.md",
-    "conflict-files-obsidian-git.md",
-    "Rallye du Japon.md",
-    "Météorologie.md",
-    "Masters WTA de Ryad.md",
-    "Marvin Bracy.md",
-    "Loïs Petit.md",
-    "Loisirs/Sport/Sportifs/Marion Norbert Riberolle.md",
-    "Loisirs/Sport/Sportifs/Kay De Bruyckere.md",
-    "Loisirs/Sport/Sportifs/Isabelle van Elst.md",
-    "Loisirs/Sport/Sportifs/Inge van der Heijden.md",
-    "Loisirs/Sport/Sportifs/Fran Vanhoutte.md",
     "Attachments/image-193.webp",
     "Attachments/image-192.webp",
     "Attachments/image-191.webp",
