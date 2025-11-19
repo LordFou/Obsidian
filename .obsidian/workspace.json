@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67f17f63ec1ec050",
+            "id": "3a53ec1aa146a782",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Personnalités/Rebecca Heineman.md",
+                "file": "Exemple - Harcèlement erroné sur internet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rebecca Heineman"
+              "title": "Exemple - Harcèlement erroné sur internet"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rebecca",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,11 +205,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "67f17f63ec1ec050",
+  "active": "3a53ec1aa146a782",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Personnalités/Rebecca Heineman.md",
+    "Exemple - Harcèlement erroné sur internet.md",
     "conflict-files-obsidian-git.md",
     "S.T.A.L.K.E.R.S.md",
-    "Loisirs/Jeux Vidéos/Personnalités/Rebecca Heineman.md",
     "Journal de bord/2025-11-18.md",
     "Interplay.md",
     "Dragon Wars.md",
@@ -232,7 +234,6 @@
     "Cross de Hamme.md",
     "Thibau Nys.md",
     "Attachments/image-193.webp",
-    "Belgian Cats.md",
     "Attachments/image-192.webp",
     "Attachments/image-191.webp",
     "Attachments/image-190.webp",
