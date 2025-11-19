@@ -2,7 +2,7 @@
 type: matos
 ---
 
-# Atari 2600
+# 3DO
 
 ## Informations principales
 - Fabricant : {{Nom du fabricant}}

@@ -1,3 +1,7 @@
+---
+type: game
+---
+
 # Space Invaders
 
 ![[Pasted image 20250320012713.png]]
@@ -14,8 +18,8 @@
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : (Type de musique, Bande-son notable)
+- **Graphismes** : 2D
+- **Audio** : Piou Piou
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 
 ## Histoire et Univers

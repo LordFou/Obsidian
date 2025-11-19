@@ -14,7 +14,7 @@ type: game
 - **Plateformes** : PC, [[Playstation 5]],[[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Action]], [[Aventure]], [[RPG]]
-- **Résumé** : action-RPG en monde semi-ouvert, dont les combats rappellent [[Dark Souls]] et l'univers post-apo fait penser à Stalker
+- **Résumé** : action-RPG en monde semi-ouvert, dont les combats rappellent [[Dark Souls]] et l'univers post-apo fait penser à [[S.T.A.L.K.E.R.S]].
 
 ## Détails Techniques
 - **Moteur de jeu** : 

@@ -1,26 +1,32 @@
-# New World Computing
+---
+type: societe
+---
+
+# 3DO - Entrerprise
 
 ## Présentation
-- En 1996, le studio est revendu à [[3DO - Entrerprise|3DO]] de manière très positive, cela a permis à [[Jon Van Caneghem|Jon]] de se concentrer et d'améliorer encore en encore [[Heroes of Might and Magic II|Heroes II]].
+Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
 
 ## Informations Générales
 - **Nom complet** :  
 - **Date de création** :  
 - **Fondateurs** :  
-	- [[Jon Van Caneghem]]
-	- [[Mark Caldwell]]
+- **Personnalités** :
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
+```timeline-labeled
+[line-5, body-2]
+date:  
+title: 
+content:
+```
+
 ## Jeux Développés
-| Année | Titre                         | Genre | Plateformes |
-| ----- | ----------------------------- | ----- | ----------- |
-| XXXX  | [[King's Bounty]]             |       |             |
-|       | [[Heroes of Might And Magic]] |       |             |
-|       | Heroes Of Might And Magic 2   |       |             |
-|       | Heroes Of Might And Magic 3   |       |             |
-|       | Heroes Of Might And Magic 4   |       |             |
+| Année | Titre      | Genre              | Plateformes           |
+| ----- | ---------- | ------------------ | --------------------- |
+| XXXX  | Nom du jeu | Action / RPG / FPS | PC, PS5, Xbox, Switch |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
