@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "32580b41e271b519",
+        "id": "cc0e85537597abb0",
         "type": "tabs",
         "children": [
           {
-            "id": "3d3e07fa42aeaf46",
+            "id": "67f17f63ec1ec050",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rebecca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,7 +200,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3d3e07fa42aeaf46",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
     "Journal de bord/2025-11-17.md",
     "Journal de bord/2025-11-19.md",
