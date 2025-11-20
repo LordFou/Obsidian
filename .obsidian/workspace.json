@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-11-20.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Herdling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-20"
+              "title": "Herdling"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hell is us",
+                "query": "Herd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,8 +205,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dccb378f28c34b1c",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hell is Us.md",
     "Journal de bord/2025-11-20.md",
     "Journal de bord/2025-11-19.md",
     "Alexander Blockx.md",
@@ -231,7 +232,6 @@
     "Loisirs/Jeux Vidéos/Plateformes/Atari 2600.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Space Invaders.md",
     "Interplay.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hell is Us.md",
     "S.T.A.L.K.E.R.S.md",
     "Attachments/image-193.webp",
     "Attachments/image-192.webp",

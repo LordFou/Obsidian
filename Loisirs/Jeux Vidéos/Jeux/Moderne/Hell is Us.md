@@ -21,17 +21,21 @@ type: game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
+	- Canard PC : 7/10
+		- Univers foutraque mais qui tient bizarrement la [[Route]]
+		- Mélange de puzzle et d'actions difficile à recommander à quelqu'un juste attiré par les puzzles ou l'action
 	- CheckPoint
 	  ![[image-123.webp|507x232]]
 - **Gameplay** :
-- **Durée estimée** : 
+- **Durée estimée** : 15-20 heures
 
 ## Histoire et Univers
-- **Lieu(x)** : 
+- **Lieu(x)** : Hadéa
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
-- **Thèmes abordés** : 
+- **Thèmes abordés** :
+	- [[La guerre sainte]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
