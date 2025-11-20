@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Cronos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,8 +179,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,14 +252,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "39f01eea20a7cebe",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
+    "Silent Hill.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cronos - The New Dawn.md",
     "Bloober Team.md",
     "Silent Hill 2.md",
     "Observer.md",
     "Blair Witch.md",
     "The Medium.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cronos - The New Dawn.md",
     "Jacek Zieba.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Shinobi - Art of Vengeance.md",
     "Lizardcube.md",
@@ -280,7 +280,6 @@
     "A Boy and His Blob.md",
     "3DS.md",
     "Franchise Shovel Knight.md",
-    "3DO.md",
     "Attachments/image-193.webp",
     "Attachments/image-192.webp",
     "Attachments/image-191.webp",
