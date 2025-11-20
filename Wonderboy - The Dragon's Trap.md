@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Street of Rage 4
+# Wonderboy - The Dragon's Trap
 
 ## Informations Générales
 
@@ -12,7 +12,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Street of Rage]]
+- **Franchise** : 
 - **Genre** :
 - **Résumé** : 
 

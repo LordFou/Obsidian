@@ -9,9 +9,9 @@ type: game
 - **Année de sortie** : 2025
 - **Développeur** : 
 	- Studio : [[Bloober Team]]
-	- Personnalités : 
+	- Personnalités : [[Jacek Zieba]] (Game Director)
 - **Éditeur** : [[Bloober Team]]
-- **Plateformes** : PC, [[Playstation 5]],[[Xbox Series]],[[Switch 2]]
+- **Plateformes** : [[PC]], [[Playstation 5]],[[Xbox Series]],[[Switch 2]]
 - **Franchise** : 
 - **Genre** : [[Horreur]], [[Action]]
 - **Résumé** : 
@@ -23,8 +23,9 @@ type: game
 - **Réception critique** : 
 	- [[Izual]] => un bon jeu d'horreur et d'action où perdre quelques soirées.
 	- [[CheckPoint]] => 8.5/10
+	- Canard PC => 7/10
 - **Gameplay** :
-- **Durée estimée** : 
+- **Durée estimée** : 20h minimum
 
 ## Histoire et Univers
 - **Lieu(x)** : 
@@ -33,8 +34,10 @@ type: game
 	- [[Post Apo]]
 	- [[Années 80]]
 - **Personnages principaux** : 
+	- Voyageuse ND-3576
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Le voyage dans le temps]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

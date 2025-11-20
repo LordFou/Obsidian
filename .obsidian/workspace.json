@@ -6,7 +6,7 @@
       {
         "id": "83efd7c7389f8f89",
         "type": "tabs",
-        "dimension": 69.59016393442623,
+        "dimension": 68.1967213114754,
         "children": [
           {
             "id": "dccb378f28c34b1c",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Street of Rage 4.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cronos - The New Dawn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Street of Rage 4"
+              "title": "Cronos - The New Dawn"
             },
             "group": "0b34bb05855b072d"
           }
@@ -28,7 +28,7 @@
       {
         "id": "f1ba4601b2d8fc78",
         "type": "tabs",
-        "dimension": 30.40983606557377,
+        "dimension": 31.80327868852459,
         "children": [
           {
             "id": "39f01eea20a7cebe",
@@ -36,9 +36,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Street of Rage 4.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cronos - The New Dawn.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Street of Rage 4"
+              "title": "Graphique de Cronos - The New Dawn"
             },
             "group": "0b34bb05855b072d"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shinobi",
+                "query": "Cronos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,11 +253,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dccb378f28c34b1c",
+  "active": "39f01eea20a7cebe",
   "lastOpenFiles": [
-    "Lizardcube.md",
-    "Street of Rage 4.md",
+    "Bloober Team.md",
+    "Silent Hill 2.md",
+    "Observer.md",
+    "Blair Witch.md",
+    "The Medium.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cronos - The New Dawn.md",
+    "Jacek Zieba.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Shinobi - Art of Vengeance.md",
+    "Lizardcube.md",
+    "Wonderboy - The Dragon's Trap.md",
+    "Street of Rage 4.md",
+    "Franchise Street of Rage.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Herdling.md",
     "Panic.md",
     "Okomotive.md",
@@ -272,15 +281,6 @@
     "3DS.md",
     "Franchise Shovel Knight.md",
     "3DO.md",
-    "3DO - Entrerprise.md",
-    "Loisirs/Jeux Vidéos/Jeux/Franchise/Heroes of Might And Magic - Franchise.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Heroes of Might and Magic II.md",
-    "Loisirs/Jeux Vidéos/Personnalités/Jon Van Caneghem.md",
-    "Loisirs/Jeux Vidéos/Sociétés/New World Computing.md",
-    "Loisirs/Jeux Vidéos/Franchise DOOM.md",
-    "Loisirs/Jeux Vidéos/Doom.md",
-    "Loisirs/Jeux Vidéos/Personnalités/Rebecca Heineman.md",
-    "Burger Becky.md",
     "Attachments/image-193.webp",
     "Attachments/image-192.webp",
     "Attachments/image-191.webp",

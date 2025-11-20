@@ -2,17 +2,17 @@
 type: game
 ---
 
-# Street of Rage 4
+# The Medium
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Lizardcube]]
+	- Studio : [[Bloober Team]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Street of Rage]]
+- **Franchise** : 
 - **Genre** :
 - **Résumé** : 
 
