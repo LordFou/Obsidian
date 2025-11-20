@@ -12,7 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  
+- **Pays d’origine** : France
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -26,7 +26,7 @@ content:
 ## Jeux Développés
 | Année | Titre                          | Genre              | Plateformes           |
 | ----- | ------------------------------ | ------------------ | --------------------- |
-| 2025  | [[Shinobi - Art of Vengeance]] | Action / RPG / FPS | PC, PS5, Xbox, Switch |
+| 2025  | [[Shinobi - Art of Vengeance]] | Action, Beat'em up | PC, PS5, Xbox, Switch |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

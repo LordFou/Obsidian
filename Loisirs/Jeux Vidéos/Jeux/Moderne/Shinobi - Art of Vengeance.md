@@ -8,19 +8,20 @@ type: game
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Lizardcube]], [[Sega]]
+	- Studio : [[Lizardcube]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
+- **Éditeur** : [[Sega]]
+- **Plateformes** : All
 - **Franchise** : 
-- **Genre** : [[Plateforme]]
+- **Genre** : [[Plateforme]], [[Beat'em up]], [[Action]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 2D
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
+	- 9/10 (Canard PC)
 	- 8.5/10 ([[CheckPoint]])
 	- Très bien ([[Recalbox]])
 - **Gameplay** :

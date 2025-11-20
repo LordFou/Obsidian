@@ -10,19 +10,20 @@ type: game
 - **Développeur** : 
 	- Studio : [[Okomotive]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
+- **Éditeur** : [[Panic]]
+- **Plateformes** : [[PC]], [[Switch]],[[Xbox Series]], [[Playstation 5]]
 - **Franchise** : 
 - **Genre** : [[Aventure]], [[Casual]], [[Exploration]]
-- **Résumé** : on guide un paisible troupeau d'herbivores à travers les montagnes en résolvant des énigmes pour libérer la voie
+- **Résumé** : on joue le rôle d'un berger qui guide un paisible troupeau d'herbivores à travers les montagnes en résolvant des énigmes pour libérer la voie.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 3D
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Canard PC  : 4/10 !! => Malgré son aspect léché et attirant, on s'emmerde
 - **Gameplay** :
-- **Durée estimée** : 
+- **Durée estimée** : 3h
 
 ## Histoire et Univers
 - **Lieu(x)** : 
