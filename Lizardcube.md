@@ -24,9 +24,11 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                          | Genre              | Plateformes           |
-| ----- | ------------------------------ | ------------------ | --------------------- |
-| 2025  | [[Shinobi - Art of Vengeance]] | Action, Beat'em up | PC, PS5, Xbox, Switch |
+| Année | Titre                             | Genre              | Plateformes           |
+| ----- | --------------------------------- | ------------------ | --------------------- |
+|       | [[Wonderboy - The Dragon's Trap]] |                    |                       |
+|       | [[Street of Rage 4]]              | Beat'em up         |                       |
+| 2025  | [[Shinobi - Art of Vengeance]]    | Action, Beat'em up | PC, PS5, Xbox, Switch |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

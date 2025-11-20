@@ -6,6 +6,7 @@
       {
         "id": "83efd7c7389f8f89",
         "type": "tabs",
+        "dimension": 69.59016393442623,
         "children": [
           {
             "id": "dccb378f28c34b1c",
@@ -13,13 +14,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Shinobi - Art of Vengeance.md",
+                "file": "Street of Rage 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shinobi - Art of Vengeance"
-            }
+              "title": "Street of Rage 4"
+            },
+            "group": "0b34bb05855b072d"
+          }
+        ]
+      },
+      {
+        "id": "f1ba4601b2d8fc78",
+        "type": "tabs",
+        "dimension": 30.40983606557377,
+        "children": [
+          {
+            "id": "39f01eea20a7cebe",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Street of Rage 4.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graphique de Street of Rage 4"
+            },
+            "group": "0b34bb05855b072d"
           }
         ]
       }
@@ -132,7 +179,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -208,6 +256,7 @@
   "active": "dccb378f28c34b1c",
   "lastOpenFiles": [
     "Lizardcube.md",
+    "Street of Rage 4.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Shinobi - Art of Vengeance.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Herdling.md",
     "Panic.md",
@@ -232,7 +281,6 @@
     "Loisirs/Jeux Vidéos/Doom.md",
     "Loisirs/Jeux Vidéos/Personnalités/Rebecca Heineman.md",
     "Burger Becky.md",
-    "Dragon Wars.md",
     "Attachments/image-193.webp",
     "Attachments/image-192.webp",
     "Attachments/image-191.webp",
