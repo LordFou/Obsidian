@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Armand Marchant.md",
+                "file": "Loisirs/Sport/Compétitions/Vélo de Cristal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Armand Marchant"
+              "title": "Vélo de Cristal"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Armand Marchant",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -236,9 +236,13 @@
   },
   "active": "acbfcced6e5eac9a",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
+    "Loisirs/Sport/Compétitions/Vélo de Cristal.md",
+    "Loena Hendrickx.md",
+    "Loisirs/Sport/Sportifs/Grégory Wathelet.md",
+    "Loisirs/Sport/Sportifs/Armand Marchant.md",
     "Attachments/image-195.webp",
     "Loisirs/Sport/Sportifs/Isabelle van Elst.md",
-    "Loisirs/Sport/Sportifs/Armand Marchant.md",
     "Attachments/image-194.webp",
     "Loisirs/Sport/Compétitions/Grand Prix de Las Vegas.md",
     "Loisirs/Sport/Sportifs/Abdel Saïd.md",
@@ -260,9 +264,6 @@
     "Silent Hill.md",
     "Panic.md",
     "Journal de bord/2025-11-20.md",
-    "Jacek Zieba.md",
-    "Franchise Street of Rage.md",
-    "Blair Witch.md",
     "Attachments/image-193.webp",
     "Attachments/image-192.webp",
     "Attachments/image-191.webp",
@@ -272,7 +273,6 @@
     "Attachments/image-188.webp",
     "Attachments/image-187.webp",
     "Attachments/image-186.webp",
-    "Attachments/image-185.webp",
     "Loisirs/Sport/Statistiques",
     "Culture/Politique",
     "Généalogie Matos Atari.canvas",
