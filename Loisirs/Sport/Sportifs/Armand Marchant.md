@@ -1,23 +1,22 @@
 ---
 type: personne
 ---
-![[image-194.webp]]
-# Isabelle van Elst
+![[image-195.webp]]
+# Armand Marchant
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** : Belge
-- **Sport / Discipline** : [[Patinage de vitesse]]  
+- **Nationalité** :  Belge
+- **Sport / Discipline** : [[Ski]] 
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                    | Résultat | Remarque                     |
-| ----- | -------------------------------------------------------------- | -------- | ---------------------------- |
-| 2025  | Coupe du monde de patinage de vitesse - Salt Lake City - 1500m | 14e      | 1:54.22 - Record de Belgique |
-| 2025  | Coupe du monde de patinage de vitesse - Calgary - 1500m        | 12e      | 1:54.00 - Record de Belgique |
-|       |                                                                |          |                              |
+| Année | Compétition                       | Résultat                   | Remarque                |
+| ----- | --------------------------------- | -------------------------- | ----------------------- |
+| 2025  | Coupe du Monde - Levi - Finlande  | Eliminé en première manche |                         |
+| 2025  | Coupe du Monde - Gurgl - Autriche | 2e                         | ==Premier podium !!!!== |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

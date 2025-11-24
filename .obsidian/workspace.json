@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Abdel Saïd.md",
+                "file": "Loisirs/Sport/Sportifs/Armand Marchant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abdel Saïd"
+              "title": "Armand Marchant"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Marion Norbert Riberolle",
+                "query": "Armand Marchant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -234,10 +234,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8ffde52c06614ecf",
+  "active": "acbfcced6e5eac9a",
   "lastOpenFiles": [
-    "Loisirs/Sport/Sportifs/Marion Norbert Riberolle.md",
+    "Attachments/image-195.webp",
+    "Loisirs/Sport/Sportifs/Isabelle van Elst.md",
+    "Loisirs/Sport/Sportifs/Armand Marchant.md",
+    "Attachments/image-194.webp",
+    "Loisirs/Sport/Compétitions/Grand Prix de Las Vegas.md",
     "Loisirs/Sport/Sportifs/Abdel Saïd.md",
+    "Loisirs/Sport/Sportifs/Marion Norbert Riberolle.md",
     "Lucinda Brand.md",
     "Thibau Nys.md",
     "Loisirs/Sport/Compétitions/Six Jours de Gand.md",
@@ -258,10 +263,6 @@
     "Jacek Zieba.md",
     "Franchise Street of Rage.md",
     "Blair Witch.md",
-    "Exemple - Harcèlement erroné sur internet.md",
-    "S.T.A.L.K.E.R.S.md",
-    "Journal de bord/2025-11-18.md",
-    "Interplay.md",
     "Attachments/image-193.webp",
     "Attachments/image-192.webp",
     "Attachments/image-191.webp",
@@ -272,7 +273,6 @@
     "Attachments/image-187.webp",
     "Attachments/image-186.webp",
     "Attachments/image-185.webp",
-    "Attachments/image-184.webp",
     "Loisirs/Sport/Statistiques",
     "Culture/Politique",
     "Généalogie Matos Atari.canvas",
