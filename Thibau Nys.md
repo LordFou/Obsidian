@@ -13,13 +13,14 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                           | Résultat | Remarque |
-| ----- | ----------------------------------------------------- | -------- | -------- |
-| 2024  | [[Championnat d'Europe de Cyclocross\|Champ. Europe]] | 1ier     |          |
-| 2025  | [[Critérium d'Alost]]                                 | 3e       |          |
-| 2025  | [[Critérium de Roulers]]                              | 3e       |          |
-| 2025  | [[Cross de Koppenberg]]                               | 1ier     |          |
-| 2025  | [[Cross de Hamme]]                                    | 1ier     |          |
+| Année | Compétition                                               | Résultat | Remarque |
+| ----- | --------------------------------------------------------- | -------- | -------- |
+| 2024  | [[Championnat d'Europe de Cyclocross\|Champ. Europe]]     | 1ier     |          |
+| 2025  | [[Critérium d'Alost]]                                     | 3e       |          |
+| 2025  | [[Critérium de Roulers]]                                  | 3e       |          |
+| 2025  | [[Cross de Koppenberg]]                                   | 1ier     |          |
+| 2025  | [[Cross de Hamme]]                                        | 1ier     |          |
+| 2025  | Coupe du Monde de Cyclocross - Tabor (République Tchèque) | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
