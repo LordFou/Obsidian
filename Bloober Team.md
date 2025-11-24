@@ -26,6 +26,8 @@ content:
 ## Jeux Développés
 | Année | Titre                     | Genre        | Plateformes           |
 | ----- | ------------------------- | ------------ | --------------------- |
+|       | [[The Medium]]            |              |                       |
+|       | [[Blair Witch]]           |              |                       |
 |       | [[Observer]]              |              |                       |
 |       | [[Silent Hill 2]]         |              |                       |
 | 2025  | [[Cronos - The New Dawn]] | FPS, Horreur | PC, PS5, Xbox, Switch |

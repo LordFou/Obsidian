@@ -8,19 +8,23 @@ type: game
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Lizardcube]], [[Sega]]
+	- Studio : [[Lizardcube]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
+- **Éditeur** : [[Sega]]
+- **Plateformes** : All
 - **Franchise** : 
-- **Genre** : [[Plateforme]]
-- **Résumé** : 
+- **Genre** : [[Plateforme]], [[Beat'em up]], [[Action]]
+- **Résumé** : Vous êtes ninja et vous allez manger de l'ennemi. Le scénario quasi absent n'est vraiment qu'un prétexte.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 2D
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
+	- 9/10 (Canard PC)
+		- Une direction artistique de ouf
+		- Une montée des compétences et coups possibles assez satisfaisante
+		- C'est (très) dur mais le jeu permet quelques réglages sans pour autant dénaturer le gameplay 
 	- 8.5/10 ([[CheckPoint]])
 	- Très bien ([[Recalbox]])
 - **Gameplay** :
@@ -30,6 +34,7 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- [[Joe Musashi]]
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :

@@ -11,10 +11,14 @@
             "id": "dd2b1bb147ddf773",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -201,12 +205,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd2b1bb147ddf773",
+  "active": "c8ddbab28469fc36",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Wonderboy - The Dragon's Trap.md",
+    "The Medium.md",
+    "Street of Rage 4.md",
+    "Silent Hill.md",
+    "Panic.md",
+    "Journal de bord/2025-11-20.md",
+    "Jacek Zieba.md",
+    "Franchise Street of Rage.md",
+    "Blair Witch.md",
     "Journal de bord/2025-11-24.md",
     "Exemple - Harcèlement erroné sur internet.md",
     "Loisirs/Jeux Vidéos/Personnalités/Rebecca Heineman.md",
-    "conflict-files-obsidian-git.md",
     "S.T.A.L.K.E.R.S.md",
     "Journal de bord/2025-11-18.md",
     "Interplay.md",
@@ -220,15 +233,6 @@
     "Météorologie.md",
     "Justin Verboomen.md",
     "Roos Vanotterdijk.md",
-    "Loisirs/Sport/Sportifs/Bart Swings.md",
-    "Loisirs/Sport/Compétitions/Cross de Merkplas.md",
-    "Joris Nieuwenhuis.md",
-    "Lucinda Brand.md",
-    "Loisirs/Sport/Sportifs/Isabelle van Elst.md",
-    "Loisirs/Sport/Sportifs/Fran Vanhoutte.md",
-    "Journal de bord/2025-11-16.md",
-    "Loisirs/Sport/Sportifs/Kay De Bruyckere.md",
-    "Cross de Hamme.md",
     "Attachments/image-193.webp",
     "Attachments/image-192.webp",
     "Attachments/image-191.webp",
