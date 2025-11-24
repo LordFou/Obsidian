@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ea5e5373afb7fc2d",
+        "id": "1bdc0c8aa779bbad",
         "type": "tabs",
         "children": [
           {
-            "id": "dd2b1bb147ddf773",
+            "id": "8db2db6084e59615",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -205,7 +205,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c8ddbab28469fc36",
+  "active": "8db2db6084e59615",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Wonderboy - The Dragon's Trap.md",
