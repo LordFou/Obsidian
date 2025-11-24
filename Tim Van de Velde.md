@@ -16,6 +16,8 @@ type: personne
 | Année | Compétition                                            | Résultat | Remarque                        |
 | ----- | ------------------------------------------------------ | -------- | ------------------------------- |
 | 2025  | [[Championnats du monde d'athlétisme]] - 3000m Steeple | 11e      | Il a aidé un adversaire à finir |
+| 2025  | Prix du Fair-Play                                      |          | Dans les 3 finalistes           |
+|       |                                                        |          |                                 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
