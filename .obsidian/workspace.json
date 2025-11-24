@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cc0e85537597abb0",
+        "id": "ea5e5373afb7fc2d",
         "type": "tabs",
         "children": [
           {
-            "id": "3a53ec1aa146a782",
+            "id": "dd2b1bb147ddf773",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exemple - Harcèlement erroné sur internet.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Exemple - Harcèlement erroné sur internet"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -205,10 +201,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3a53ec1aa146a782",
+  "active": "dd2b1bb147ddf773",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Personnalités/Rebecca Heineman.md",
+    "Journal de bord/2025-11-24.md",
     "Exemple - Harcèlement erroné sur internet.md",
+    "Loisirs/Jeux Vidéos/Personnalités/Rebecca Heineman.md",
     "conflict-files-obsidian-git.md",
     "S.T.A.L.K.E.R.S.md",
     "Journal de bord/2025-11-18.md",
@@ -232,7 +229,6 @@
     "Journal de bord/2025-11-16.md",
     "Loisirs/Sport/Sportifs/Kay De Bruyckere.md",
     "Cross de Hamme.md",
-    "Thibau Nys.md",
     "Attachments/image-193.webp",
     "Attachments/image-192.webp",
     "Attachments/image-191.webp",
