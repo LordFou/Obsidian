@@ -9,11 +9,11 @@ type: game
 - **Année de sortie** : 2025
 - **Développeur** : 
 	- Studio : 
-		- [[NamaTakahashi]]
+		- [[Naka Takahashi]]
 		- [[tiny cactus studio]]
 		- [[Tsuyomi]]
 	- Personnalités : 
-- **Éditeur** : [[NamaTakahashi]]
+- **Éditeur** : [[Naka Takahashi]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :

@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-11-27.md",
+                "file": "Naka Takahashi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-27"
-            }
-          },
-          {
-            "id": "d3c42c809d0a8217",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Naka Takahashi"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,10 +53,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "metal gear",
+                "query": "öoo",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -110,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Naka Takahashi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Rétrolien pour Naka Takahashi"
             }
           },
           {
@@ -128,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Naka Takahashi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants"
+              "title": "Liens sortants de Naka Takahashi"
             }
           },
           {
@@ -156,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Naka Takahashi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Plan de Naka Takahashi"
             }
           },
           {
@@ -189,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,10 +196,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "696f209fdb3d07a4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Öoo.md",
+    "Metal Gear Solid Delta - Snake Eater.md",
+    "Franchise Metal Gear Solid.md",
+    "Metal Gear Solid 3 - Subsistance.md",
+    "Ressources/Death Stranding 2 On The Beach Review - On the Road again.md",
     "Journal de bord/2025-11-27.md",
+    "conflict-files-obsidian-git.md",
     "Lyndsay De Vylder.md",
     "Loisirs/Sport/Sportifs/Victor Wembanyama.md",
     "Loisirs/Sport/Sportifs/Tom Boon.md",

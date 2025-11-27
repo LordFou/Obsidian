@@ -25,9 +25,9 @@ content:
 | Titre                                    | Année | Plateformes | Remarque                      |
 | ---------------------------------------- | ----- | ----------- | ----------------------------- |
 | [[Metal Gear Solid]]                     |       |             |                               |
-| [[Metal Gear Solid 3]]                   |       |             |                               |
+| [[Metal Gear Solid 3 - Subsistance]]                   | 2006  |             |                               |
 | [[Metal Gear Solid 5]]                   |       |             |                               |
-| [[Metal Gear Solid Delta - Snake Eater]] |       |             | Remake [[Metal Gear Solid 3]] |
+| [[Metal Gear Solid Delta - Snake Eater]] |       |             | Remake [[Metal Gear Solid 3 - Subsistance]] |
 
 
 ## Mécaniques et innovations

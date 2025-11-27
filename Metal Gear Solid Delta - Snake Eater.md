@@ -4,19 +4,19 @@ type: game
 ![[image-77.webp|500x281]]
 # Metal Gear Solid Delta - Snake Eater
 
-Remake de [[Metal Gear Solid 3]]
+Remake de [[Metal Gear Solid 3 - Subsistance]]
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Konami]]
+	- Studio : [[Konami]] (Japon)
 	- Personnalités : 
 - **Éditeur** : [[Konami]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : [[Franchise Metal Gear Solid]]
-- **Genre** :
-- **Résumé** : 
+- **Genre** : [[Action]], [[Infiltration]]
+- **Résumé** : Un espion soldat plus espion que soldat doit sauver Solotov, un ingénieur russe en physique nucléaire, au fin fond de la Sibérie
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -24,14 +24,15 @@ Remake de [[Metal Gear Solid 3]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- 7.5/10 ([[CheckPoint]])
+	- 7/10 (Canard PC)
 - **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : Ile soviétique
+- **Lieu(x)** : Ile soviétique, [[Sibérie]]
 - **Epoque** : 1964
-- **Personnages principaux** : [[Naked Snake]]
-- **Ennemis** :
+- **Personnages principaux** : [[Naked Snake]], Solotov
+- **Ennemis** : 
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
