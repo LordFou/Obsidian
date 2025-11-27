@@ -1,22 +1,21 @@
 ---
 type: personne
 ---
-![[image-192.webp]]
-# Loena Hendrickx
+
+# Grégory Wathelet
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** : Belge
-- **Sport / Discipline** : [[Patinage artistique]]
+- **Nationalité** :  Belge
+- **Sport / Discipline** : [[Equitation]] 
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                | Résultat | Remarque |
-| ----- | -------------------------- | -------- | -------- |
-| 2025  | [[Grand Prix ISU d’Osaka]] | 3e       |          |
-| 2025  | Grand Prix ISU d'Helsinki  | 10e ?    |          |
+| Année | Compétition                                 | Résultat  | Remarque |
+| ----- | ------------------------------------------- | --------- | -------- |
+| 2025  | CSI 5* de Los Angeles - Epreuve d'ouverture | Vainqueur |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

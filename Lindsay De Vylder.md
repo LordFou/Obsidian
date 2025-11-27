@@ -18,6 +18,7 @@ type: personne
 | 2024  | [[Championnat du Monde de Cyclisme sur piste\|Champ.Monde Piste]] - Omnium  | 1ier     |                                |
 | 2025  | [[Championnat du Monde de Cyclisme sur piste\|Champ.Monde Piste]] - Omnium  | 3e       |                                |
 | 2025  | [[Championnat du Monde de Cyclisme sur piste\|Champ.Monde Piste]] - Madison | 1ier     | avec [[Fabio Van den Bossche]] |
+| 2025  | [[Six Jours de Gand]]                                                       | 1ier     | avec [[Fabio Van den Bossche]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

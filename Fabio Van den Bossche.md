@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                                                                 | Résultat | Remarque                   |
 | ----- | --------------------------------------------------------------------------- | -------- | -------------------------- |
 | 2025  | [[Championnat du Monde de Cyclisme sur piste\|Champ.Monde Piste]] - Madison | 1ier     | avec [[Lindsay De Vylder]] |
+| 2025  | [[Six Jours de Gand]]                                                       | 1ier     | avec [[Lindsay De Vylder]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

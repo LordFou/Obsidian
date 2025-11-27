@@ -1,22 +1,21 @@
 ---
 type: personne
 ---
-![[image-192.webp]]
-# Loena Hendrickx
+![[image-196.webp]]
+# Kim Meylemans
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** : Belge
-- **Sport / Discipline** : [[Patinage artistique]]
+- **Nationalité** :  Belge
+- **Sport / Discipline** :  [[Skeleton]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                | Résultat | Remarque |
-| ----- | -------------------------- | -------- | -------- |
-| 2025  | [[Grand Prix ISU d’Osaka]] | 3e       |          |
-| 2025  | Grand Prix ISU d'Helsinki  | 10e ?    |          |
+| Année | Compétition                                 | Résultat | Remarque |
+| ----- | ------------------------------------------- | -------- | -------- |
+| 2025  | Coupe du Monde - Cortina d’Ampezzo - Italie | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

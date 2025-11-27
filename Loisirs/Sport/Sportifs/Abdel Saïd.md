@@ -1,13 +1,13 @@
 ---
 type: personne
 ---
-![[image-192.webp]]
-# Loena Hendrickx
+
+# Abdel Saïd
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** : Belge
-- **Sport / Discipline** : [[Patinage artistique]]
+- **Sport / Discipline** : [[Equitation]]  
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
@@ -15,8 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                | Résultat | Remarque |
 | ----- | -------------------------- | -------- | -------- |
-| 2025  | [[Grand Prix ISU d’Osaka]] | 3e       |          |
-| 2025  | Grand Prix ISU d'Helsinki  | 10e ?    |          |
+| 2025  | Super Grand-Prix de Prague | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

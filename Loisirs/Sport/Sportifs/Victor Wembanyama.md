@@ -1,22 +1,21 @@
 ---
 type: personne
 ---
-![[image-192.webp]]
-# Loena Hendrickx
+![[image-198.webp]]
+# Victor Wembanyama
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** : Belge
-- **Sport / Discipline** : [[Patinage artistique]]
+- **Nationalité** :  Français
+- **Sport / Discipline** :  [[Basket-Ball]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                | Résultat | Remarque |
-| ----- | -------------------------- | -------- | -------- |
-| 2025  | [[Grand Prix ISU d’Osaka]] | 3e       |          |
-| 2025  | Grand Prix ISU d'Helsinki  | 10e ?    |          |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -25,7 +24,8 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Blessé au mollet en novembre 2025
+- 
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

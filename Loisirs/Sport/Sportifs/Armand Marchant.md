@@ -1,22 +1,22 @@
 ---
 type: personne
 ---
-![[image-192.webp]]
-# Loena Hendrickx
+![[image-195.webp]]
+# Armand Marchant
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** : Belge
-- **Sport / Discipline** : [[Patinage artistique]]
+- **Nationalité** :  Belge
+- **Sport / Discipline** : [[Ski]] 
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                | Résultat | Remarque |
-| ----- | -------------------------- | -------- | -------- |
-| 2025  | [[Grand Prix ISU d’Osaka]] | 3e       |          |
-| 2025  | Grand Prix ISU d'Helsinki  | 10e ?    |          |
+| Année | Compétition                       | Résultat                   | Remarque                |
+| ----- | --------------------------------- | -------------------------- | ----------------------- |
+| 2025  | Coupe du Monde - Levi - Finlande  | Eliminé en première manche |                         |
+| 2025  | Coupe du Monde - Gurgl - Autriche | 2e                         | ==Premier podium !!!!== |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

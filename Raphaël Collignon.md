@@ -22,6 +22,8 @@ type: personne
 | 2025  | [[European Open]] - Double       | 1e tour                    | avec [[David Goffin]]                                                                |
 | 2025  | [[ATP - Tournoi de Bâle]]        | 1e tour                    |                                                                                      |
 | 2025  | [[ATP - Tournoi de Bruxelles]]   | Demi-finale                |                                                                                      |
+| 2025  | [[Coupe Davis]] - 1/4 finale     | Victoire                   | Contre la France                                                                     |
+| 2025  | [[Coupe Davis]] - 1/2 finale     | Défaite                    | Contre l'Italie                                                                      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

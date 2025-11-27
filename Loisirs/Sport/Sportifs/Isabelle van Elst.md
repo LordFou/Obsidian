@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-194.webp]]
 # Isabelle van Elst
 
 # Informations Générales
@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                                                    | Résultat | Remarque                     |
 | ----- | -------------------------------------------------------------- | -------- | ---------------------------- |
 | 2025  | Coupe du monde de patinage de vitesse - Salt Lake City - 1500m | 14e      | 1:54.22 - Record de Belgique |
+| 2025  | Coupe du monde de patinage de vitesse - Calgary - 1500m        | 12e      | 1:54.00 - Record de Belgique |
 |       |                                                                |          |                              |
 
 # Style et Caractéristiques
