@@ -20,7 +20,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : [[Cell-Shading]], Gore
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 5/10 (Canard PC) - Rien de bien neuf, toujours la même recette
 - **Gameplay** : 
 	- [[Coopération]] (Dont 2 joueurs en écran splitté)
 	- 4 archétype de personnages
