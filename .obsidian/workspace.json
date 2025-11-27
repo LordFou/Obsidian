@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Naka Takahashi.md",
+                "file": "Franchise Dying Light.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Naka Takahashi"
+              "title": "Franchise Dying Light"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "öoo",
+                "query": "dying",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,13 +73,23 @@
               "icon": "lucide-bookmark",
               "title": "Signets"
             }
+          },
+          {
+            "id": "dbacc6f984f28690",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 333.5
   },
   "right": {
     "id": "424a7915b112611b",
@@ -95,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Naka Takahashi.md",
+                "file": "Franchise Dying Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Naka Takahashi"
+              "title": "Rétrolien pour Franchise Dying Light"
             }
           },
           {
@@ -114,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Naka Takahashi.md",
+                "file": "Franchise Dying Light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Naka Takahashi"
+              "title": "Liens sortants de Franchise Dying Light"
             }
           },
           {
@@ -143,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Naka Takahashi.md",
+                "file": "Franchise Dying Light.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Naka Takahashi"
+              "title": "Plan de Franchise Dying Light"
             }
           },
           {
@@ -177,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 390.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,6 +208,8 @@
   "active": "696f209fdb3d07a4",
   "lastOpenFiles": [
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Öoo.md",
+    "Naka Takahashi.md",
+    "ElecHead.md",
     "Metal Gear Solid Delta - Snake Eater.md",
     "Franchise Metal Gear Solid.md",
     "Metal Gear Solid 3 - Subsistance.md",

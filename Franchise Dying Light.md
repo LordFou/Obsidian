@@ -22,9 +22,11 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                       | Année | Plateformes | Remarque |
-| --------------------------- | ----- | ----------- | -------- |
-| [[Dying Light - The Beast]] | 2025  |             |          |
+| Titre                            | Année | Plateformes | Remarque |
+| -------------------------------- | ----- | ----------- | -------- |
+| Dying Light                      |       |             |          |
+| Dying Light - The Following (2?) |       |             |          |
+| [[Dying Light - The Beast]]      | 2025  |             |          |
 
 
 ## Mécaniques et innovations

@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# NamaTakahashi
+# Naka Takahashi
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,9 +24,10 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre   | Genre     | Plateformes |
-| ----- | ------- | --------- | ----------- |
-| 2025  | [[Öoo]] | Stratégie | PC          |
+| Année | Titre        | Genre     | Plateformes |
+| ----- | ------------ | --------- | ----------- |
+| 2021  | [[ElecHead]] |           |             |
+| 2025  | [[Öoo]]      | Stratégie | PC          |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
