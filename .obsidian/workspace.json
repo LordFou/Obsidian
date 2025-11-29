@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thierry Neuville.md",
+                "file": "Loisirs/Sport/Sportifs/Emma Plasschaert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thierry Neuville"
+              "title": "Emma Plasschaert"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "neuville",
+                "query": "Emma Plasschaert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -204,13 +205,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7758eabf93268ada",
+  "active": "acbfcced6e5eac9a",
   "lastOpenFiles": [
-    "Championnat du Monde de Rallye.md",
+    "Sam Maes.md",
+    "Loisirs/Sport/Sportifs/Emma Plasschaert.md",
+    "Attachments/image-202.webp",
+    "Red Lions.md",
+    "Journal de bord/2025-11-29.md",
     "Thierry Neuville.md",
+    "Attachments/image-201.webp",
+    "Championnat du Monde de Rallye.md",
     "Rallye d'Arabie Saoudite.md",
     "Loisirs/Sport/Fair-Play & Anti Fair-Play.md",
-    "Journal de bord/2025-11-29.md",
     "Red Rocks.md",
     "Attachments/image-200.webp",
     "Loisirs/Sport/Compétitions/Championnat du Monde - WRC.md",
@@ -234,14 +240,9 @@
     "Loisirs/Sport/Sportifs/Kim Meylemans.md",
     "Attachments/image-196.webp",
     "Loisirs/Sport/Compétitions/Vélo de Cristal.md",
-    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
-    "Loena Hendrickx.md",
-    "Loisirs/Sport/Sportifs/Grégory Wathelet.md",
     "Attachments/image-195.webp",
     "Attachments/image-194.webp",
     "Attachments/image-193.webp",
-    "Attachments/image-192.webp",
-    "Attachments/image-191.webp",
     "Loisirs/Jeux Vidéos/Logiciels",
     "Loisirs/Sport/Statistiques",
     "Culture/Politique",

@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-201.webp]]
 # Thierry Neuville
 
 # Informations Générales
@@ -13,13 +13,14 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                              | Résultat | Remarque |
-| ----- | -------------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnat du Monde de Rallye\|Championnat du Monde]] | 1ier 🥇  |          |
-| 2025  | [[Rallye d'Estonie]]                                     | 3e       |          |
-| 2025  | [[Rallye du Paraguay]]                                   | 3e       |          |
-| 2025  | [[Rallye du Chili]]                                      | 4e       |          |
-| 2025  | [[Rallye d'Arabie Saoudite]]                             | 1ier 🥇  |          |
+| Année | Compétition                                          | Résultat | Remarque |
+| ----- | ---------------------------------------------------- | -------- | -------- |
+| 2024  | [[Championnat du Monde - WRC\|Championnat du Monde]] | 1ier 🥇  |          |
+| 2025  | [[Rallye d'Estonie]]                                 | 3e       |          |
+| 2025  | [[Rallye du Paraguay]]                               | 3e       |          |
+| 2025  | [[Rallye du Chili]]                                  | 4e       |          |
+| 2025  | [[Rallye d'Arabie Saoudite]]                         | 1ier 🥇  |          |
+| 2025  | [[Championnat du Monde - WRC\|Championnat du Monde]] | 5e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
