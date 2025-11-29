@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-203.webp]]
 # Emma Plasschaert
 
 # Informations Générales
@@ -18,7 +18,7 @@ type: personne
 |       | Championnat du Monde          | 1ière    |                          |                  |
 |       | Championnat du Monde          | 1ière    |                          |                  |
 |       | [[JO 2020]]                   | 4e       |                          |                  |
-|       | J                             |          |                          |                  |
+|       | [[JO 2024]]                   | 7e       |                          |                  |
 | 2025  | Sail Melbourne - classe ILCA6 |          | 1ère place / Médaille d’ | Détail optionnel |
 
 # Style et Caractéristiques

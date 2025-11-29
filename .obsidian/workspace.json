@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Emma Plasschaert.md",
+                "file": "Imke Vervaet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Emma Plasschaert"
+              "title": "Imke Vervaet"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Emma Plasschaert",
+                "query": "Imke",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,10 +204,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "acbfcced6e5eac9a",
+  "active": "7758eabf93268ada",
   "lastOpenFiles": [
-    "Sam Maes.md",
+    "Attachments/image-204.webp",
+    "Jorre Verstraeten.md",
+    "Gabriella Willems.md",
     "Loisirs/Sport/Sportifs/Emma Plasschaert.md",
+    "Attachments/image-203.webp",
+    "Sam Maes.md",
     "Attachments/image-202.webp",
     "Red Lions.md",
     "Journal de bord/2025-11-29.md",
@@ -235,14 +238,10 @@
     "Loisirs/Sport/Sportifs/Victor Wembanyama.md",
     "Attachments/image-198.webp",
     "Loisirs/Sport/Lotte Kopecky.md",
-    "Loisirs/Sport/Sportifs/Tom Boon.md",
     "Attachments/image-197.webp",
-    "Loisirs/Sport/Sportifs/Kim Meylemans.md",
     "Attachments/image-196.webp",
-    "Loisirs/Sport/Compétitions/Vélo de Cristal.md",
     "Attachments/image-195.webp",
     "Attachments/image-194.webp",
-    "Attachments/image-193.webp",
     "Loisirs/Jeux Vidéos/Logiciels",
     "Loisirs/Sport/Statistiques",
     "Culture/Politique",

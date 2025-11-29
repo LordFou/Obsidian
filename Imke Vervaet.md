@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-94.webp]]
+![[image-204.webp]]
 # Imke Vervaet
 
 # Informations Générales
@@ -23,14 +23,13 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Record Women de Belgique du 200m en Indo
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
 
 # Retraite et Reconversion
-Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
+- Elle annonce sa fin de carrière en décembre 2025
 
 # Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+- Instagram => https://www.instagram.com/p/DRl0qtWiLhW/
