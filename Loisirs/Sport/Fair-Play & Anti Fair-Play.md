@@ -1,0 +1,1 @@
+- Victor Edvardsen s’est moqué du nez d’Angelo Stiller, qui est né avec une fente palatine.

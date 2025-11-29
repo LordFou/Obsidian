@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-11-29.md",
+                "file": "Thierry Neuville.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-29"
+              "title": "Thierry Neuville"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Stéphane",
+                "query": "neuville",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,9 +206,13 @@
   },
   "active": "7758eabf93268ada",
   "lastOpenFiles": [
+    "Championnat du Monde de Rallye.md",
+    "Thierry Neuville.md",
+    "Rallye d'Arabie Saoudite.md",
+    "Loisirs/Sport/Fair-Play & Anti Fair-Play.md",
+    "Journal de bord/2025-11-29.md",
     "Red Rocks.md",
     "Attachments/image-200.webp",
-    "Journal de bord/2025-11-29.md",
     "Loisirs/Sport/Compétitions/Championnat du Monde - WRC.md",
     "Stéphane Ogier.md",
     "Loisirs/Sport/Sportifs/Stijn Desmet.md",
@@ -234,11 +237,8 @@
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Loena Hendrickx.md",
     "Loisirs/Sport/Sportifs/Grégory Wathelet.md",
-    "Loisirs/Sport/Sportifs/Armand Marchant.md",
     "Attachments/image-195.webp",
-    "Loisirs/Sport/Sportifs/Isabelle van Elst.md",
     "Attachments/image-194.webp",
-    "Loisirs/Sport/Compétitions/Grand Prix de Las Vegas.md",
     "Attachments/image-193.webp",
     "Attachments/image-192.webp",
     "Attachments/image-191.webp",
