@@ -114,6 +114,7 @@ Aussi surnommé la petite reine, le tour de France est le 3e évènement sportif
 
 | Année | Vainqueur            | Nationalité | Montagne          | Points             | Jeune                | Combattif     | Equipe    | Podium                                             |
 | ----- | -------------------- | ----------- | ----------------- | ------------------ | -------------------- | ------------- | --------- | -------------------------------------------------- |
+| 2018  | [[Geraint Thomas]]   | Anglais     |                   |                    |                      |               |           |                                                    |
 | 2022  | [[Jonas Vingegaard]] | Danois      |                   |                    |                      |               |           |                                                    |
 | 2023  |                      |             |                   |                    |                      |               |           |                                                    |
 | 2024  | [[Tadej Pogacar]]    | Slovène     |                   |                    | [[Remco Evenepoel]]  |               |           | 2e [[Jonas Vingegaard]]<br>3e [[Remco Evenepoel]]  |
