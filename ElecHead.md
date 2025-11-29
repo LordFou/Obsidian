@@ -2,29 +2,27 @@
 type: game
 ---
 
-# Dying Light - The Beast
+# ElecHead
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 
 - **Développeur** : 
 	- Studio : 
-	- Personnalités : 
-		- [[Olivier Deriviere]] (Compositeur)
+	- Personnalités : [[Naka Takahashi]]
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Dying Light|Dying Light]]
-- **Genre** : [[FPS]], [[Coopération]]
+- **Franchise** : 
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 5/10 (Canard PC) - Normalement prévu pour être un DLC et finalement vendu à 60h, rien de bien folichon ou original dans cette suite.
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
-- **Durée estimée** : 20h
+- **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 

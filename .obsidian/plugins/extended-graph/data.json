@@ -101,7 +101,8 @@
     "linkStrength": 1,
     "linkDistance": 250,
     "scale": 1,
-    "close": true
+    "close": true,
+    "showOrphans": true
   },
   "openInNewTab": false,
   "canonicalizePropertiesWithDataview": true,

@@ -1,6 +1,5 @@
 [
   "calendar",
-  "table-editor-obsidian",
   "obsidian-outliner",
   "dataview",
   "templater-obsidian",
@@ -15,5 +14,6 @@
   "image-converter",
   "obsidian-git",
   "various-complements",
-  "extended-graph"
+  "extended-graph",
+  "table-editor-obsidian"
 ]

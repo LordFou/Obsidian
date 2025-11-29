@@ -9,23 +9,25 @@ type: game
 - **Année de sortie** : 2025
 - **Développeur** : 
 	- Studio : 
-		- [[NamaTakahashi]]
+		- [[Naka Takahashi]]
 		- [[tiny cactus studio]]
 		- [[Tsuyomi]]
 	- Personnalités : 
-- **Éditeur** : [[NamaTakahashi]]
-- **Plateformes** : 
+- **Éditeur** : [[Naka Takahashi]]
+- **Plateformes** : PC
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Puzzle]], [[Plateforme]]
 - **Résumé** : Jeu de plateforme et de réflexion propose pourtant de contrôler une très mignonne chenille-bombe pour résoudre de petites énigmes.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 2D
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
-- **Gameplay** :
-- **Durée estimée** : 
+- **Réception critique** : 
+	- 9/10 (Canard PC)
+- **Gameplay** : La chenille laisse une partie d'elle-même dans les niveaux, chaque partie devient une bombe pour détruire des obstacles ou se projeter dans les airs.
+- **Durée estimée** : 3-4h max
+- Prix : 10€ !! (rentabilité max)
 
 ## Histoire et Univers
 - **Lieu(x)** : 
