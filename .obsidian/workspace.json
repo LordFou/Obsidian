@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6c006468b11ce7af",
+        "id": "549f7c86fd56ce59",
         "type": "tabs",
         "children": [
           {
-            "id": "88e9930ff05fb7a4",
+            "id": "7758eabf93268ada",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Loisirs/Sport/Compétitions/Sans titre.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Sans titre"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Stéphane",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,10 +205,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88e9930ff05fb7a4",
+  "active": "7758eabf93268ada",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Stéphane Ogier.md",
+    "Loisirs/Sport/Compétitions/Sans titre.md",
+    "Loisirs/Sport/Sportifs/Stijn Desmet.md",
+    "Loisirs/Sport/Sportifs/Hanne Desmet.md",
+    "Attachments/image-199.webp",
     "Journal de bord/2025-11-29.md",
+    "conflict-files-obsidian-git.md",
     "Naka Takahashi.md",
     "Metal Gear Solid 3 - Subsistance.md",
     "Journal de bord/2025-11-27.md",
@@ -233,16 +239,11 @@
     "Loisirs/Sport/Compétitions/Grand Prix de Las Vegas.md",
     "Loisirs/Sport/Sportifs/Abdel Saïd.md",
     "Loisirs/Sport/Sportifs/Marion Norbert Riberolle.md",
-    "Lucinda Brand.md",
-    "Thibau Nys.md",
-    "Loisirs/Sport/Compétitions/Six Jours de Gand.md",
-    "Loisirs/Jeux Vidéos/Personnalités/Rebecca Heineman.md",
     "Attachments/image-193.webp",
     "Attachments/image-192.webp",
     "Attachments/image-191.webp",
     "Attachments/image-190.webp",
     "Loisirs/Jeux Vidéos/Logiciels",
-    "Attachments/image-189.webp",
     "Loisirs/Sport/Statistiques",
     "Culture/Politique",
     "Généalogie Matos Atari.canvas",

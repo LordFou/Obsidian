@@ -1,24 +1,23 @@
 ---
 type: personne
 ---
-
-# Stéphane Ogier
+![[image-199.webp]]
+# Hanne Desmet
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** : Français
-- **Sport / Discipline** : [[Rallye]] 
+- **Nationalité** : Belge
+- **Sport / Discipline** : [[Patinage de vitesse]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition             | Résultat | Remarque                  |
-| ----- | ----------------------- | -------- | ------------------------- |
-| 2025  | [[Rallye de Sardaigne]] | 1ier     | 5e victoire sur ce rallye |
-| 2025  | [[Rallye du Paraguay]]  | 1ier     |                           |
-| 2025  | [[Rallye du Japon]]     | 1ier     |                           |
-| 2025  | Champion WRC            |          |                           |
+| Année | Compétition                                   | Résultat | Remarque |
+| ----- | --------------------------------------------- | -------- | -------- |
+| 2025  | Coupe du Monde - Dordrecht (Pays-Bas) - 1000m | 3e       |          |
+| 2025  | Coupe du Monde - Gdansk (Pologne) - 1000m     | 1ière    |          |
+|       |                                               |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
