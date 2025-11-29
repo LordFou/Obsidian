@@ -27,7 +27,7 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 Évoquer les polémiques ou moments clés de sa carrière.
 
 # Retraite et Reconversion
-Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
+- engagé dans le staff de l'équipe [[Ineos]]
 
 # Sources et Références
 - [Lien vers une source](#)

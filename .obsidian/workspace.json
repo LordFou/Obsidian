@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Geraint Thomas.md",
+                "file": "Loisirs/Sport/Sportifs/Nafi Thiam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geraint Thomas"
+              "title": "Nafi Thiam"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Geraint Thomas",
+                "query": "thiam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,8 +206,10 @@
   },
   "active": "7758eabf93268ada",
   "lastOpenFiles": [
-    "Loisirs/Sport/Tour de France.md",
+    "Nafy Thiam.md",
+    "Loisirs/Sport/Sportifs/Nafi Thiam.md",
     "Loisirs/Sport/Sportifs/Geraint Thomas.md",
+    "Loisirs/Sport/Tour de France.md",
     "Attachments/image-205.webp",
     "Imke Vervaet.md",
     "Attachments/image-204.webp",
@@ -238,8 +239,6 @@
     "Journal de bord/2025-11-27.md",
     "ElecHead.md",
     "Tim Van de Velde.md",
-    "Loisirs/Sport/Equipes/Diables Noires.md",
-    "Diables Rouges.md",
     "Attachments/image-198.webp",
     "Attachments/image-197.webp",
     "Attachments/image-196.webp",
