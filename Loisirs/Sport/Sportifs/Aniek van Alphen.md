@@ -2,22 +2,20 @@
 type: personne
 ---
 
-# Max Verstappen
+# Aniek van Alphen
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Néerlandais
-- **Sport / Discipline** :  F1
+- **Nationalité** :  Néerlandaise
+- **Sport / Discipline** :  [[Cyclocross]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[RedBull]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                  | Résultat | Remarque |
-| ----- | ---------------------------- | -------- | -------- |
-| 2025  | [[Grand Prix d'Italie]]      | 1ier     |          |
-| 2025  | [[Grand Prix d'Azerbaïdjan]] | 1ier     |          |
-| 2025  | [[Grand Prix du Qatar]]      | 1ier     |          |
+| Année | Compétition                                         | Résultat | Remarque |
+| ----- | --------------------------------------------------- | -------- | -------- |
+| 2025  | Coupe du Monde de Cyclocross - Flamanville (France) | 1iere    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
