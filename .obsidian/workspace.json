@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Red Lions"
             }
+          },
+          {
+            "id": "8e973f0f32d86818",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,8 +229,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b0d3b4a58a021aaa",
+  "active": "8e973f0f32d86818",
   "lastOpenFiles": [
+    "Red Lions.md",
     "Loisirs/Sport/Sportifs/Aniek van Alphen.md",
     "Thibau Nys.md",
     "Journal de bord/2025-11-30.md",
@@ -240,7 +251,6 @@
     "Attachments/image-203.webp",
     "Sam Maes.md",
     "Attachments/image-202.webp",
-    "Red Lions.md",
     "Journal de bord/2025-11-29.md",
     "Thierry Neuville.md",
     "Attachments/image-201.webp",
