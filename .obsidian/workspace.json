@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Unbeatable.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Project Motor Racing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unbeatable"
+              "title": "Project Motor Racing"
             }
           }
         ],
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "NeverAwake FLASHBACK",
+                "query": "Project Motor Racing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -161,7 +161,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -233,10 +234,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "8e973f0f32d86818",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Log Away.md",
+    "Attachments/image-207.webp",
+    "Straight4 Studios.md",
+    "Attachments/image-206.webp",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Project Motor Racing.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Pioneers of Pagonia.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Unbeatable.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Log Away.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Skate Story.md",
     "Sam Eng.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/ROUTINE.md",
@@ -257,10 +263,6 @@
     "Journal de bord/Archives/2025-06-23.md",
     "Loisirs/Sport/Compétitions/Grand Prix du Qatar.md",
     "Max Verstappen.md",
-    "Nafy Thiam.md",
-    "Loisirs/Sport/Sportifs/Nafi Thiam.md",
-    "Loisirs/Sport/Sportifs/Geraint Thomas.md",
-    "Loisirs/Sport/Tour de France.md",
     "Attachments/image-205.webp",
     "Attachments/image-204.webp",
     "Attachments/image-203.webp",
@@ -270,7 +272,6 @@
     "Attachments/image-199.webp",
     "Attachments/image-198.webp",
     "Attachments/image-197.webp",
-    "Attachments/image-196.webp",
     "Loisirs/Jeux Vidéos/Logiciels",
     "Loisirs/Sport/Statistiques",
     "Culture/Politique",
