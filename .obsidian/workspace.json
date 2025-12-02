@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-12-02.md",
+                "file": "Blue Hat Studio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-02"
+              "title": "Blue Hat Studio"
             }
           }
         ],
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Biniam Girmay",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -161,7 +161,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -233,8 +234,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "8e973f0f32d86818",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/She’s Leaving.md",
+    "Blue Hat Studio.md",
+    "Gilles Thomas.md",
+    "Biniam Girmay.md",
     "Journal de bord/2025-12-02.md",
     "Red Lions.md",
     "Loisirs/Sport/Sportifs/Aniek van Alphen.md",
@@ -262,11 +267,7 @@
     "Championnat du Monde de Rallye.md",
     "Rallye d'Arabie Saoudite.md",
     "Loisirs/Sport/Fair-Play & Anti Fair-Play.md",
-    "Red Rocks.md",
     "Attachments/image-200.webp",
-    "Loisirs/Sport/Compétitions/Championnat du Monde - WRC.md",
-    "Stéphane Ogier.md",
-    "Loisirs/Sport/Sportifs/Stijn Desmet.md",
     "Attachments/image-199.webp",
     "Attachments/image-198.webp",
     "Attachments/image-197.webp",
