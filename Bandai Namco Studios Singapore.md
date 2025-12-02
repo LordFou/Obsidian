@@ -1,15 +1,15 @@
 ---
 type: societe
 ---
-![[image-89.webp|500x167]]
-# Nintendo
+
+# Bandai Namco Studios Singapore
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
 
 ## Informations Générales
 - **Nom complet** :  
-- **Date de création** :  1889
+- **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
 - **Pays d’origine** :  
@@ -18,15 +18,15 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date: Novembre 2025
-title: [[Nintendo]] purchases [[Bandai Namco Studios Singapore]]
+date:  
+title: 
 content:
 ```
 
 ## Jeux Développés
-| Année | Titre                | Genre  | Plateformes |
-| ----- | -------------------- | ------ | ----------- |
-| 2025  | [[Mario Kart World]] | Course | Switch      |
+| Année | Titre      | Genre              | Plateformes           |
+| ----- | ---------- | ------------------ | --------------------- |
+| XXXX  | Nom du jeu | Action / RPG / FPS | PC, PS5, Xbox, Switch |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

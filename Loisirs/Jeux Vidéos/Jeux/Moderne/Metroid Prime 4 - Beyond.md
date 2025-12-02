@@ -1,8 +1,8 @@
 ---
 type: game
 ---
-![[image-210.webp]]
-# Octopath Traveler 0
+
+# Metroid Prime 4 - Beyond
 
 ## Informations Générales
 
@@ -11,9 +11,9 @@ type: game
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[Switch]], [[Switch 2]]
 - **Franchise** : 
-- **Genre** : [[RPG]]
+- **Genre** : [[Action]], [[FPS]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description      | URL                          |
+| ---------------- | ---------------------------- |
+| Overview Trailer | https://youtu.be/7mBR0H1F5hs |
