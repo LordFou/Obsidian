@@ -1,27 +1,26 @@
 ---
 type: game
 ---
-![[image-207.webp]]
-# Project Motor Racing
+![[image-209.webp]]
+# Rising Heat
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Straight4 Studios]]
+	- Studio : [[Apogee]]
 	- Personnalités : 
-- **Éditeur** : [[GIANTS Software]]
-- **Plateformes** : 
+- **Éditeur** : 
+- **Plateformes** : PC
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Action]], [[Roguelite]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 6.5/10 (Checkpoint)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -38,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description      | URL                          |
-| ---------------- | ---------------------------- |
-| Gamescom Trailer | https://youtu.be/xHU2YcFqRHk |
+| Description  | URL                          |
+| ------------ | ---------------------------- |
+| Demo Trailer | https://youtu.be/MAItG038CE8 |

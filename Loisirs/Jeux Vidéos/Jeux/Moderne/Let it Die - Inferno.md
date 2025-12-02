@@ -1,17 +1,17 @@
 ---
 type: game
 ---
-![[image-207.webp]]
-# Project Motor Racing
+
+# Let it Die - Inferno
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Straight4 Studios]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[GIANTS Software]]
-- **Plateformes** : 
+- **Éditeur** : 
+- **Plateformes** : [[Action]], [[Roguelike]]
 - **Franchise** : 
 - **Genre** :
 - **Résumé** : 
@@ -20,8 +20,7 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 6.5/10 (Checkpoint)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -38,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description      | URL                          |
-| ---------------- | ---------------------------- |
-| Gamescom Trailer | https://youtu.be/xHU2YcFqRHk |
+| Description | URL                          |
+| ----------- | ---------------------------- |
+| Trailer     | https://youtu.be/G9WGLPal35o |
