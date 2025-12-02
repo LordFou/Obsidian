@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Blue Hat Studio
+# SweatyChair
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,9 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre             | Genre                    | Plateformes   |
-| ----- | ----------------- | ------------------------ | ------------- |
-| 2025  | [[She’s Leaving]] | Enquête, Survival Horror | PC, PS5, Xbox |
+| Année | Titre            | Genre     | Plateformes |
+| ----- | ---------------- | --------- | ----------- |
+| 2025  | [[Tingus Goose]] | Idle Game | PC          |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

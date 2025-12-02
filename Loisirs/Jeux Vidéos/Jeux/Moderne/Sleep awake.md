@@ -2,26 +2,25 @@
 type: game
 ---
 
-# She’s Leaving
+# Sleep awake
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Blue Hat Studio]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Blue Hat Studio]]
-- **Plateformes** : PC, PS5, Xbox
+- **Éditeur** : 
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Survival Horror]], [[Enquête]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 4/10 (Checkview)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -38,7 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description     | URL                          |
-| --------------- | ---------------------------- |
-| Release Trailer | https://youtu.be/nw82OzAtGt4 |
-|                 |                              |
+| Description  | URL                          |
+| ------------ | ---------------------------- |
+| Release Date | https://youtu.be/q1GrdtdSPh0 |

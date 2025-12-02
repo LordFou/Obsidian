@@ -11,7 +11,7 @@ type: game
 	- Studio : [[Lunar Software]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[FPS]], [[Horreur]]
 - **Résumé** : 
@@ -41,6 +41,6 @@ type: game
 - Débuté en 2012 !
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description     | URL                          |
+| --------------- | ---------------------------- |
+| Release Trailer | https://youtu.be/hH5ZYM3nCP0 |

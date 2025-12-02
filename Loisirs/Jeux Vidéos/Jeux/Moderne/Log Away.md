@@ -2,26 +2,25 @@
 type: game
 ---
 
-# She’s Leaving
+# Log Away
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Blue Hat Studio]]
+	- Studio : [[THE-MARK Entertainment]]
 	- Personnalités : 
-- **Éditeur** : [[Blue Hat Studio]]
-- **Plateformes** : PC, PS5, Xbox
+- **Éditeur** : 
+- **Plateformes** : PC
 - **Franchise** : 
-- **Genre** : [[Survival Horror]], [[Enquête]]
+- **Genre** : [[Housing]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 4/10 (Checkview)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -40,5 +39,4 @@ type: game
 
 | Description     | URL                          |
 | --------------- | ---------------------------- |
-| Release Trailer | https://youtu.be/nw82OzAtGt4 |
-|                 |                              |
+| Release Trailer | https://youtu.be/F443omsOn3w |
