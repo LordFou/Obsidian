@@ -1,21 +1,19 @@
 ---
 type: game
 ---
-![[image-213.webp]]
-# Sol Cesto
+
+# Octopath Traveler - Champions of the Continent
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
-		- [[Géraud Zucchini]] - Doc Geraud (Programmeur)
-		- [[Chariospirale]] (Dessinateur)
-- **Éditeur** : [[Goblinz Publishing]]
-- **Plateformes** : [[PC]]
+- **Éditeur** : 
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Dungeon Crawler]], [[Roguelike]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques

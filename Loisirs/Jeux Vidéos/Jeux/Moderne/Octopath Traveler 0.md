@@ -9,18 +9,21 @@ type: game
 - **Année de sortie** : 2025
 - **Développeur** : 
 	- Studio : 
+		- [[Square Enix]]
+		- [[DokiDoki Groove Works Inc]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
-- **Franchise** : 
+- **Éditeur** : [[Square Enix]]
+- **Plateformes** : All
+- **Franchise** : [[Franchise Octopath Traveler]]
 - **Genre** : [[RPG]]
-- **Résumé** : 
+- **Résumé** : Véritable remake de A à Z du jeu mobile free-to-play [[Octopath Traveler - Champions of the Continent]]
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 8.5/10 (CheckPoint)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -37,6 +40,7 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description     | URL                          |
+| --------------- | ---------------------------- |
+| Annouce Trailer | https://youtu.be/PSRFT5OVqKs |
+![[image-214.webp]]
