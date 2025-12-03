@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Trasher.md",
+                "file": "Rockstar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trasher"
+              "title": "Rockstar"
             }
           }
         ],
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Trasher",
+                "query": "gta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -161,8 +161,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,8 +235,12 @@
   },
   "active": "8e973f0f32d86818",
   "lastOpenFiles": [
-    "Creature.md",
+    "Dan Houser.md",
+    "Rockstar.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/GTA V.md",
+    "Loisirs/Jeux Vidéos/Jeux/Franchise/Franchise GTA.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Trasher.md",
+    "Creature.md",
     "Puddle.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Octopath Traveler 0.md",
     "Franchise Octopath Traveler.md",
@@ -263,11 +266,7 @@
     "Attachments/image-210.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Wandering Sword.md",
     "Octopath Traveler.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Let it Die - Inferno.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Rising Heat.md",
-    "Apogee.md",
     "Attachments/image-209.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Marvel Cosmic Invasion.md",
     "Attachments/image-208.webp",
     "Attachments/image-207.webp",
     "Attachments/image-206.webp",
