@@ -16,7 +16,9 @@ type: game
 - **Plateformes** : All
 - **Franchise** : [[Franchise Octopath Traveler]]
 - **Genre** : [[RPG]]
-- **Résumé** : Véritable remake de A à Z du jeu mobile free-to-play [[Octopath Traveler - Champions of the Continent]]
+- **Résumé** : 
+	- Véritable remake de A à Z du jeu mobile free-to-play [[Octopath Traveler - Champions of the Continent]]. 
+	- Quête des anneaux divins et de vengeance
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -28,7 +30,7 @@ type: game
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : 
+- **Lieu(x)** : Continent d'[[Orsterra]]
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Octopath Traveler 0.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Trasher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Octopath Traveler 0"
+              "title": "Trasher"
             }
           }
         ],
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Octop",
+                "query": "Trasher",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -161,7 +161,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,9 +236,12 @@
   },
   "active": "8e973f0f32d86818",
   "lastOpenFiles": [
+    "Creature.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Trasher.md",
+    "Puddle.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Octopath Traveler 0.md",
     "Franchise Octopath Traveler.md",
     "Octopath Traveler - Champions of the Continent.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Octopath Traveler 0.md",
     "Attachments/image-214.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sol Cesto.md",
     "Attachments/image-213.webp",
@@ -265,11 +269,8 @@
     "Attachments/image-209.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Marvel Cosmic Invasion.md",
     "Attachments/image-208.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Project Motor Racing.md",
     "Attachments/image-207.webp",
-    "Straight4 Studios.md",
     "Attachments/image-206.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Pioneers of Pagonia.md",
     "Attachments/image-205.webp",
     "Loisirs/Jeux Vidéos/Logiciels",
     "Loisirs/Sport/Statistiques",
