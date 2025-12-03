@@ -37,6 +37,7 @@ type: personne
 | 2025           | [[Championnat d’Europe de Gymnastique\|Championnats d'Europe]] | Or       | Poutre              |                                                |
 | 2025           | [[Championnat d’Europe de Gymnastique\|Championnats d'Europe]] | Or       | Barres asymétriques |                                                |
 | 2025 - JUILLET | FIN DE CARRIERE                                                |          |                     |                                                |
+| 2025           | Ordre de Léopold                                               |          |                     | Pour une carrière exceptionnelle               |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
