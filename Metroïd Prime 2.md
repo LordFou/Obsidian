@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Metroid Prime 4 - Beyond
+# Metroïd Prime 2
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[Switch]], [[Switch 2]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action]], [[FPS]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description      | URL                          |
-| ---------------- | ---------------------------- |
-| Overview Trailer | https://youtu.be/7mBR0H1F5hs |
+| Description | URL |
+| ----------- | --- |
+|             |     |
