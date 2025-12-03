@@ -1,24 +1,24 @@
 ---
 type: game
 ---
-![[image-215.webp]]
-# Total Chaos
+![[image-216.webp]]
+# The Last Case of John Morley
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Trigger Happy Interactive]]
+	- Studio : [[Indigo Studios - Interactive Stories]]
 	- Personnalités : 
-- **Éditeur** : [[Apogee]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
+- **Éditeur** : 
+- **Plateformes** : PC
 - **Franchise** : 
-- **Genre** : [[FPS]], [[Survival Horror]]
+- **Genre** : [[Enquête]], [[Aventure]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : 3D
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
@@ -34,9 +34,9 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- Total Chaos était à l'origine [un mod](https://doomwiki.org/wiki/Total_Chaos?ref=temalesjeux.fr) primé de [[Doom 2]]
+- 
 ## Liens et Ressources
 
-| Description   | URL                                                            |
-| ------------- | -------------------------------------------------------------- |
-| Bande Annonce | https://www.youtube.com/watch?v=eIz6v3-y7ug&ref=temalesjeux.fr |
+| Description | URL |
+| ----------- | --- |
+|             |     |
