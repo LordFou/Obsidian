@@ -13,11 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                   | Résultat  | Remarque |
-| ----- | --------------------------------------------- | --------- | -------- |
-| 2023  | [[Euro de Basket]] - 2023                     | Vainqueur |          |
-| 2025  | [[Euro de Basket]] - 2025                     | Finaliste |          |
-| 2025  | Meilleure Joueuse - Euroligue - Novembre 2025 |           |          |
+| Année | Compétition                                   | Résultat  | Remarque                     |
+| ----- | --------------------------------------------- | --------- | ---------------------------- |
+| 2023  | [[Euro de Basket]] - 2023                     | Vainqueur |                              |
+| 2025  | [[Euro de Basket]] - 2025                     | Finaliste |                              |
+| 2025  | Meilleure Joueuse - Euroligue - Novembre 2025 |           | https://youtu.be/WX6vGruL_DI |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -34,3 +34,4 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 # Sources et Références
 - https://www.rtbf.be/article/julie-allemand-encensee-par-sa-coach-impossible-de-la-sortir-du-terrain-elle-est-tellement-intelligente-11588170
 - 
+![[image-212.webp]]

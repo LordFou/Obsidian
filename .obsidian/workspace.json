@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Julie Allemand.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Sol Cesto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Julie Allemand"
+              "title": "Sol Cesto"
             }
           }
         ],
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Julie Allemand",
+                "query": "Sol Cesto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -161,7 +161,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,6 +236,10 @@
   },
   "active": "8e973f0f32d86818",
   "lastOpenFiles": [
+    "Attachments/image-213.webp",
+    "Julie Allemand.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sol Cesto.md",
+    "Attachments/image-212.webp",
     "Loisirs/Sport/Sportifs/Maya Cloetens.md",
     "Nina Derwael.md",
     "Loisirs/Sport/Tour d'Italie.md",
@@ -264,13 +269,9 @@
     "Attachments/image-206.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Pioneers of Pagonia.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Unbeatable.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Log Away.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Skate Story.md",
-    "Sam Eng.md",
     "Attachments/image-205.webp",
     "Attachments/image-204.webp",
     "Attachments/image-203.webp",
-    "Attachments/image-202.webp",
     "Loisirs/Jeux Vidéos/Logiciels",
     "Loisirs/Sport/Statistiques",
     "Culture/Politique",
