@@ -1,29 +1,28 @@
 ---
 type: game
 ---
-![[image-216.webp]]
-# The Last Case of John Morley
+![[image-218.webp]]
+# Hunter's Moon - A Sovereign Syndicate Adventure
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Indigo Studios - Interactive Stories]]
+	- Studio : [[Crimson Herring Studios]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : PC
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Enquête]], [[Aventure]]
+- **Genre** : [[Deck Building]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- Izual : un jeu d'enquête un poil dirigiste mais à l'atmosphère fort réussie
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
-- **Durée estimée** : quelques heures
+- **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
