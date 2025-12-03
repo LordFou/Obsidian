@@ -12,7 +12,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : [[Nintendo]]
 - **Plateformes** : [[Switch]], [[Switch 2]]
-- **Franchise** : 
+- **Franchise** : [[Franchise Metroïd]]
 - **Genre** : [[Action]], [[FPS]]
 - **Résumé** : 
 

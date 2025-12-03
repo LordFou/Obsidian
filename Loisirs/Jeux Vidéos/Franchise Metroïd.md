@@ -14,7 +14,7 @@ type: game
 - Genre principal : {{Stratégie, Action-Aventure, FPS...}}
 
 ## Résumé et historique
-{{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
+- Personnage Principal : [[Samus]]
 
 ```timeline-labeled
 [line-5, body-2]

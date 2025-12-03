@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Metroïd Prime 4 - Beyond.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Tingus Goose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metroïd Prime 4 - Beyond"
+              "title": "Tingus Goose"
             }
           }
         ],
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Metroid Prime 4",
+                "query": "Tingus Goose",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -161,8 +161,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,12 +235,13 @@
   },
   "active": "8e973f0f32d86818",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Metroïd Prime 4 - Beyond.md",
     "Loisirs/Jeux Vidéos/Franchise Metroïd.md",
+    "Samus.md",
     "Metroïd Prime 3.md",
     "Metroïd Prime 2.md",
     "Super Metroïd.md",
     "Metroïd Prime.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Metroïd Prime 4 - Beyond.md",
     "Retro Studios.md",
     "Rockstar.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/GTA V.md",
@@ -264,7 +264,6 @@
     "Nina Derwael.md",
     "Loisirs/Sport/Tour d'Italie.md",
     "La santé dans le peloton.md",
-    "Loisirs/Sport/Sportifs/Lucas Henveaux.md",
     "Attachments/image-211.webp",
     "Attachments/image-210.webp",
     "Attachments/image-209.webp",
