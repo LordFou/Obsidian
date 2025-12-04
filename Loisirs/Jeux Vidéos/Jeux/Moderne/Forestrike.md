@@ -29,7 +29,7 @@ type: game
 	- On choisit une école en début de run mais au fur et à mesure du périple, on peut accéder à des compétences des autres écoles.
 	- Chaque combat = 1 écran = 1 arène fermée
 	- Début de jeu avec 3 PV => très dur !
-	- En réalité on 
+	- En réalité on peut préméditer les combats et les actions pour trouver la solution de l'étape. Ensuite on passe en temps réel et il faut refaire ce que l'on a fait en préméditation sauf que là, on perd réellement les PV
 - **Durée estimée** : 
 
 ## Histoire et Univers
