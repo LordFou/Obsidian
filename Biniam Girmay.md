@@ -2,14 +2,14 @@
 type: personne
 ---
 
-# Binam Girmay
+# Biniam Girmay
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Erytrhéen
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Intermarché]]
+- **Équipe(s) / Club(s)** :  [[Intermarché]], [[NSN Cycling Team]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions

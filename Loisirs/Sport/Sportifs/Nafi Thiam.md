@@ -13,12 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                       | Résultat | Remarque                 |
-| ----- | ----------------------------------------------------------------- | -------- | ------------------------ |
-| 2016  | [[JO 2016]] - Heptathlon                                          | 1iere    |                          |
-| 2020  | [[JO 2020]] - Heptathlon                                          | 1iere    |                          |
-| 2024  | [[JO 2024]] - Heptathlon                                          | 1iere    | ==Triplé !==             |
-| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - Heptathlon | Abandon  | cfr la controverse + bas |
+| Année | Compétition                                                                         | Résultat | Remarque                 |
+| ----- | ----------------------------------------------------------------------------------- | -------- | ------------------------ |
+| 2016  | [[JO 2016]] - Heptathlon                                                            | 1iere    |                          |
+| 2020  | [[JO 2020]] - Heptathlon                                                            | 1iere    |                          |
+| 2024  | [[JO 2024]] - Heptathlon                                                            | 1iere    | ==Triplé !==             |
+| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - Heptathlon                   | Abandon  | cfr la controverse + bas |
+| 2025  | [[Championnat de Belgique d'Athlétisme\|Championnat de Belgique]] - Lancer du poids | 1ière    |                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -39,6 +40,8 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 - La saga continue 
 	- Le site Le Soir dévoile les mails échangés entre responsable de la ligue belge d'[[Athlétisme]] et l'on découvre qu'il voulait réellement faire un exemple pour que tout le monde rentre dans le rang
 	- La ministre des sports Jacqueline Galant suspend la subvention de la ligue francophone en attendant de vérifier l'info comme quoi les athlètes qui auraient accepté le code de conduite aurait reçu 500 euros de compensation pour les calmer. [RTBF Sport](https://www.rtbf.be/article/choquee-par-des-primes-de-loyaute-la-ministre-jacqueline-galant-suspend-la-subvention-a-la-ligue-belge-francophone-d-athletisme-11615668)
+	- https://www.rtbf.be/article/smith-exprime-des-regrets-et-la-revision-du-code-de-conduite-que-faut-il-retenir-des-debats-sur-l-affaire-thiam-au-parlement-flamand-11637852
+	- 
 ![[image-102.webp|500x742]] 
 *This will take a while to digest. But I’ll be back ❤️‍🩹*
 # Retraite et Reconversion

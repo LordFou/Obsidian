@@ -6,7 +6,7 @@
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Rockstar]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 

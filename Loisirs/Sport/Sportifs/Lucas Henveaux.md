@@ -13,13 +13,15 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                          | Résultat    | Remarque |                                      |
-| ----- | -------------------------------------------------------------------- | ----------- | -------- | ------------------------------------ |
-| 2025  | [[Championnat du Monde de Natation\|Championnat du Monde]] - 400m Nl |             |          |                                      |
-| 2025  | [[Championnat du Monde de Natation\|Championnat du Monde]] - 200m Nl | Demi-finale | 1:46.23  |                                      |
-| 2025  | [[Championnat du Monde de Natation\|Championnat du Monde]] - 200m 4n | Demi-finale | 2:00.18  |                                      |
-| 2025  | Coupe du Monde - Petit bain - 2e manche - 400m 4n                    | 2e          | 4:08.56  | Record de Belgique<br>Westmont (USA) |
-| 2025  | Coupe du Monde - Petit bain - 2e manche - 800m                       | 4e          | 7:34.51  | Record de Belgique<br>Westmont (USA) |
+| Année | Compétition                                                          | Résultat                         | Remarque        |                                      |
+| ----- | -------------------------------------------------------------------- | -------------------------------- | --------------- | ------------------------------------ |
+| 2025  | [[Championnat du Monde de Natation\|Championnat du Monde]] - 400m Nl |                                  |                 |                                      |
+| 2025  | [[Championnat du Monde de Natation\|Championnat du Monde]] - 200m Nl | Demi-finale                      | 1:46.23         |                                      |
+| 2025  | [[Championnat du Monde de Natation\|Championnat du Monde]] - 200m 4n | Demi-finale                      | 2:00.18         |                                      |
+| 2025  | Coupe du Monde - Petit bain - 2e manche - 400m 4n                    | 2e                               | 4:08.56         | Record de Belgique<br>Westmont (USA) |
+| 2025  | Coupe du Monde - Petit bain - 2e manche - 800m                       | 4e                               | 7:34.51         | Record de Belgique<br>Westmont (USA) |
+| 2025  | Euro - Petit bain - 200m Nl                                          | 1ier (Demi-finale)<br>? (Finale) | 1:41.56         |                                      |
+| 2025  | Euro - Petit bain - 400m Nl                                          | 10e (Série)                      | 3:39.00 (Série) |                                      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

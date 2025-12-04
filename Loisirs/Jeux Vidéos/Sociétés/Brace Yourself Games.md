@@ -14,9 +14,9 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 ## Jeux Développés
 | Année | Titre                   | Genre         | Plateformes |
 | ----- | ----------------------- | ------------- | ----------- |
+| 2023  | [[Phantom Brigade]]     |               |             |
 | 2025  | Rift Of The NecroDancer | Jeu de rythme | PC          |
 |       | Industries of Titan     |               |             |
-|       | Phantom Brigade         |               |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

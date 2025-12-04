@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-202.webp]]
 # Sam Maes
 
 # Informations Générales
@@ -13,9 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                            | Résultat | Remarque |
-| ----- | -------------------------------------- | -------- | -------- |
-| 2025  | Coupe du Monde - Sölden - Slalom Géant | 20e      | Autriche |
+| Année | Compétition                                                      | Résultat | Remarque                         |
+| ----- | ---------------------------------------------------------------- | -------- | -------------------------------- |
+| 2025  | Coupe du Monde - Sölden (Autriche) - Slalom Géant                | 20e      |                                  |
+| 2025  | Coupe du Monde - Copper Mountain (Colorado - USA) - Slalom Géant | 7e       | Meilleur résultat de sa carrière |
+|       |                                                                  |          |                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

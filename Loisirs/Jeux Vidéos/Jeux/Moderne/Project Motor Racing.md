@@ -1,0 +1,43 @@
+---
+type: game
+---
+![[image-207.webp]]
+# Project Motor Racing
+
+## Informations Générales
+
+- **Année de sortie** : 2025
+- **Développeur** : 
+	- Studio : [[Straight4 Studios]]
+	- Personnalités : 
+- **Éditeur** : [[GIANTS Software]]
+- **Plateformes** : 
+- **Franchise** : 
+- **Genre** :
+- **Résumé** : 
+
+## Détails Techniques
+- **Moteur de jeu** : 
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Audio** : (Type de musique, Bande-son notable)
+- **Réception critique** : 
+	- 6.5/10 (Checkpoint)
+- **Gameplay** :
+- **Durée estimée** : 
+
+## Histoire et Univers
+- **Lieu(x)** : 
+- **Epoque** : 
+- **Personnages principaux** : 
+- **Ennemis** :
+- **Thèmes abordés** : 
+- **Influencé par** :
+- **A inspiré** : 
+- **Comparable à** :
+## Anecdotes et Curiosités
+- 
+## Liens et Ressources
+
+| Description      | URL                          |
+| ---------------- | ---------------------------- |
+| Gamescom Trailer | https://youtu.be/xHU2YcFqRHk |

@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[Pasted image 20250614232425.png]]
+![[image-211.webp]]
 # Roos Vanotterdijk
 
 # Informations Générales
@@ -29,7 +29,8 @@ type: personne
 | 2025  | Coupe du Monde - Petit bain - 1ière manche - 100m Pap                         | 4e (Série)<br>3e (Finale) | 56.97 (Série)<br>55.64 (Finale)                        | Record de Belgique<br>Carmel (USA) |
 | 2025  | Coupe du Monde - Petit bain - 1ière manche - 50m Dos                          | 9e (Série)                |                                                        | Carmel (USA)                       |
 | 2025  | Coupe du Monde - Petit bain - 1ière manche - 100m Dos                         | 9e (Série)                |                                                        | Carmel (USA)                       |
-|       |                                                                               |                           |                                                        |                                    |
+| 2025  | Euro - Petit bain - 50m Pap                                                   | 2e                        | 25.20 (Série)<br>25.06 (Demi-finale)<br>24.84 (Finale) | Record de Belgique                 |
+| 2025  | Euro - Petit bain - 100m 4N                                                   | 3e (Demi-Finale)          | (Finale)                                               |                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

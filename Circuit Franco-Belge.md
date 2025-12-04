@@ -11,7 +11,7 @@ type: event
 | Année | Vainqueur            | Nationalité | Remarque |
 | ----- | -------------------- | ----------- | -------- |
 | 2023  | [[Arnaud De Lie]]    | Belge       |          |
-| 2024  | [[Binam Girmay]]     | Erythréen   |          |
+| 2024  | [[Biniam Girmay]]     | Erythréen   |          |
 | 2025  | [[Jonas Abrahamsen]] | Danois      |          |
 # Femmes
 

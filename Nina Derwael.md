@@ -37,6 +37,7 @@ type: personne
 | 2025           | [[Championnat d’Europe de Gymnastique\|Championnats d'Europe]] | Or       | Poutre              |                                                |
 | 2025           | [[Championnat d’Europe de Gymnastique\|Championnats d'Europe]] | Or       | Barres asymétriques |                                                |
 | 2025 - JUILLET | FIN DE CARRIERE                                                |          |                     |                                                |
+| 2025           | Ordre de Léopold                                               |          |                     | Pour une carrière exceptionnelle               |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -44,6 +45,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 # Records et Faits Marquants
 - Tout simplement le meilleur palmarès d'une gymnaste belge jusqu'à présent.
 - Une figure porte désormais son nom à l'agrès des barres asymétriques. Elle partage cette figure avec la gymnaste ...
+- Elle recevra l'ordre de Léopold
 # Controverses ou Événements Importants
 - En septembre 2023, Nina fait une mauvaise chute à l’entraînement. Et à quelques mois des Jeux Olympiques de Paris, la difficile sentence tombe : la gymnaste va devoir être opérée à l’épaule et manquera les championnats du monde à domicile à Anvers. Une énorme claque pour la sportive de haut niveau. Un moment particulièrement difficile pour elle, et qui l’empêchera en outre de défendre ses chances à 100% à Paris.
 # Retraite et Reconversion

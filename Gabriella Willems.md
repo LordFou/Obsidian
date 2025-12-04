@@ -13,9 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                       | Résultat | Remarque |
-| ----- | --------------------------------- | -------- | -------- |
-| 2025  | Grand Prix de judo de Guadalajara | Bronze   |          |
+| Année | Compétition                               | Résultat     | Remarque |
+| ----- | ----------------------------------------- | ------------ | -------- |
+| 2025  | Grand Prix de judo de Guadalajara         | Bronze       |          |
+| 2025  | Grand Chelem de judo d’Abou Dhabi (-70kg) | Premier tour | oups     |
+|       |                                           |              |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

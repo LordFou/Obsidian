@@ -18,8 +18,8 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
+date: Novembre 2025
+title: [[Nintendo]] purchases [[Bandai Namco Studios Singapore]]
 content:
 ```
 

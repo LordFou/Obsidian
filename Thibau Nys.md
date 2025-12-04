@@ -21,6 +21,7 @@ type: personne
 | 2025  | [[Cross de Koppenberg]]                                   | 1ier     |          |
 | 2025  | [[Cross de Hamme]]                                        | 1ier     |          |
 | 2025  | Coupe du Monde de Cyclocross - Tabor (République Tchèque) | 1ier     |          |
+| 2025  | Coupe du Monde de Cyclocross - Flamanville (France)       | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

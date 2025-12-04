@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-208.webp]]
 # Marvel Cosmic Invasion
 
 ## Informations Générales
@@ -38,6 +38,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description          | URL                          |
+| -------------------- | ---------------------------- |
+| Release Date Trailer | https://youtu.be/EKeLz4D8gBs |

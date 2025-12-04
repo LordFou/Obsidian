@@ -14,7 +14,7 @@ type: game
 - Genre principal : {{Stratégie, Action-Aventure, FPS...}}
 
 ## Résumé et historique
-{{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
+- Personnage Principal : [[Samus]]
 
 ```timeline-labeled
 [line-5, body-2]
@@ -23,9 +23,13 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre | Année | Plateformes | Remarque |
-| ----- | ----- | ----------- | -------- |
-|       |       |             |          |
+| Titre                                                                                   | Année | Plateformes | Remarque |
+| --------------------------------------------------------------------------------------- | ----- | ----------- | -------- |
+| [[Super Metroïd]]                                                                       | 1994  |             |          |
+| [[Metroïd Prime]]                                                                       | 2002  |             |          |
+| [[Metroïd Prime 2]]                                                                     | 2004  |             |          |
+| [[Metroïd Prime 3]]                                                                     | 2007  |             |          |
+| [[Loisirs/Jeux Vidéos/Jeux/Moderne/Metroïd Prime 4 - Beyond\|Metroïd Prime 4 - Beyond]] | 2024  |             |          |
 
 
 ## Mécaniques et innovations
