@@ -1,4 +1,8 @@
-# Brace Yourself Games
+---
+type: societe
+---
+
+# Space Kraken Studios
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -7,16 +11,22 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Nom complet** :  
 - **Date de création** :  
 - **Fondateurs** :  
+- **Personnalités** :
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
+```timeline-labeled
+[line-5, body-2]
+date:  
+title: 
+content:
+```
+
 ## Jeux Développés
-| Année | Titre                   | Genre         | Plateformes |
-| ----- | ----------------------- | ------------- | ----------- |
-| 2023  | [[Phantom Brigade]]     |               |             |
-| 2025  | Rift Of The NecroDancer | Jeu de rythme | PC          |
-|       | Industries of Titan     |               |             |
+| Année | Titre      | Genre              | Plateformes           |
+| ----- | ---------- | ------------------ | --------------------- |
+| XXXX  | Nom du jeu | Action / RPG / FPS | PC, PS5, Xbox, Switch |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
