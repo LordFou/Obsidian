@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Kirby Airriders.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Kirby Air Riders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kirby Airriders"
+              "title": "Kirby Air Riders"
             },
             "group": "b58ce1bcaa492250"
           },
@@ -27,10 +27,14 @@
             "id": "1822c651f616887c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire The Masquerade - Bloodlines 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Vampire The Masquerade - Bloodlines 2"
             }
           }
         ],
@@ -47,7 +51,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Kirby Airriders.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Kirby Air Riders.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -75,7 +79,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Kirby Airriders"
+              "title": "Graphique de Kirby Air Riders"
             },
             "group": "b58ce1bcaa492250"
           }
@@ -111,12 +115,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Vampire",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "Rechercher"
@@ -266,7 +270,11 @@
   },
   "active": "1822c651f616887c",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Kirby Airriders.md",
+    "Loisirs/Jeux Vidéos/Sociétés/Splash Damage.md",
+    "Bandai Namco Studios Singapore.md",
+    "Nintendo.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/World of Warcraft.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Kirby Air Riders.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/33 immortals.md",
     "Loisirs/Jeux Vidéos/Jeux/Forestrike.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Lumines Arise.md",
@@ -289,10 +297,6 @@
     "Xiaming Game.md",
     "THE-MARK Entertainment.md",
     "SweatyChair.md",
-    "Super Metroïd.md",
-    "Straight4 Studios.md",
-    "Space Kraken Studios.md",
-    "Sovereign Syndicate.md",
     "Attachments/image-221.webp",
     "Attachments/image-220.webp",
     "Attachments/image-219.webp",

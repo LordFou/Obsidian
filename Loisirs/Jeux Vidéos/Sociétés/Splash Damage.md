@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Bandai Namco Studios Singapore
+# Splash Damage
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -18,16 +18,15 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
-content:
+date: Décembre 2025
+title: Gros licenciement mais pas de fermeture
+content: le jeu [[Projet Astrid]] est sur la sellete
 ```
 
 ## Jeux Développés
-| Année | Titre          | Genre              | Plateformes           |
-| ----- | -------------- | ------------------ | --------------------- |
-| XXXX  | [[Tekken]] (?) | Action / RPG / FPS | PC, PS5, Xbox, Switch |
-|       |                |                    |                       |
+| Année | Titre        | Genre              | Plateformes           |
+| ----- | ------------ | ------------------ | --------------------- |
+| XXXX  | Gear Tactics | Action / RPG / FPS | PC, PS5, Xbox, Switch |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
