@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Franchise Quake
+# Franchise Assasin's Creed
 
 
 ## Informations générales
@@ -22,10 +22,9 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre       | Année | Plateformes | Remarque |
-| ----------- | ----- | ----------- | -------- |
-| [[Quake]]   |       |             |          |
-| [[Quake 3]] |       |             |          |
+| Titre                | Année | Plateformes | Remarque |
+| -------------------- | ----- | ----------- | -------- |
+| [[Assassin's Creed]] |       |             |          |
 
 
 ## Mécaniques et innovations

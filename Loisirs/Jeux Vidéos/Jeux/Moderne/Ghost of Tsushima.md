@@ -2,11 +2,11 @@
 type: game
 ---
 
-# Earthbound
+# Ghost of Tsushima
 
 ## Informations Générales
 
-- **Année de sortie** : 2003 (?)
+- **Année de sortie** : 
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
@@ -30,10 +30,8 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-- **Influencé par** :
+- **Influencé par** : [[Assassin's Creed]]
 - **A inspiré** : 
-	- Il a inspiré des tas de jeu
-		- 
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - 

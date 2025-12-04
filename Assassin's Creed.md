@@ -2,17 +2,17 @@
 type: game
 ---
 
-# Earthbound
+# Assassin's Creed
 
 ## Informations Générales
 
-- **Année de sortie** : 2003 (?)
+- **Année de sortie** : 
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise Assasin's Creed]]
 - **Genre** :
 - **Résumé** : 
 
@@ -32,8 +32,6 @@ type: game
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
-	- Il a inspiré des tas de jeu
-		- 
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - 
