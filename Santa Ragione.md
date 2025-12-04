@@ -24,9 +24,10 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre      | Genre        | Plateformes |
-| ----- | ---------- | ------------ | ----------- |
-| 2025  | [[Horses]] | Serious Game | PC          |
+| Année | Titre        | Genre        | Plateformes |
+| ----- | ------------ | ------------ | ----------- |
+|       | Fotonica (?) |              |             |
+| 2025  | [[Horses]]   | Serious Game | PC          |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
