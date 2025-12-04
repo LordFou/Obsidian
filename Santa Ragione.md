@@ -12,7 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  
+- **Pays d’origine** :  Italie
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -34,7 +34,7 @@ content:
 - Moteur 2
 
 ## Style et Influence
-Décrire le style graphique, les thématiques abordées, les influences notables.
+- Jeux au style social
 
 ## Succès et Récompenses
 Lister les prix, distinctions ou records obtenus.

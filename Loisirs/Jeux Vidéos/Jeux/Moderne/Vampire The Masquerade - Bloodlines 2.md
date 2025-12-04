@@ -42,7 +42,7 @@ type: game
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - Ce n'est donc pas la suite de [[Vampire The Masquerade - Bloodlines]] au niveau du genre (RPG)
-- Parad
+- [[Paradox Interactive]] annonce que le jeu est un gros four
 ## Liens et Ressources
 
 | Description | URL |

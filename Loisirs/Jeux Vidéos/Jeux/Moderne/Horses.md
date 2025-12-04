@@ -31,6 +31,7 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 	- [[Esclavage]] (?)
+	- 
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
