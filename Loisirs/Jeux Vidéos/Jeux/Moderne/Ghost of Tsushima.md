@@ -2,20 +2,18 @@
 type: game
 ---
 
-# Vampire The Masquerade - Bloodlines 2
+# Ghost of Tsushima
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 
 - **Développeur** : 
 	- Studio : 
-		- [[Paradox Interactive]]
-		- The Chinese Room (?)
 	- Personnalités : 
-- **Éditeur** : [[Paradox Interactive]]
+- **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Vampire The Masquerade]]
-- **Genre** : [[Action Aventure]]
+- **Franchise** : 
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -24,25 +22,19 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
-	- [[Monde ouvert]]
-	- Un peu d'[[Infiltration]]
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- [[Seattle]]
 - **Epoque** : 
-	- Hiver
 - **Personnages principaux** : 
-	- Le nomade (Phyrer)
 - **Ennemis** :
 - **Thèmes abordés** : 
-- **Influencé par** :
+- **Influencé par** : [[Assassin's Creed]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- Ce n'est donc pas la suite de [[Vampire The Masquerade - Bloodlines]] au niveau du genre (RPG)
-- [[Paradox Interactive]] annonce que le jeu est un gros four
+- 
 ## Liens et Ressources
 
 | Description | URL |

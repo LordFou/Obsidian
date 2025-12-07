@@ -6,7 +6,7 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2003 (?)
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
@@ -32,6 +32,8 @@ type: game
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
+	- Il a inspiré des tas de jeu
+		- 
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - 

@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Bandai Namco Studios Singapore
+# Santa Ragione
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -12,7 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  
+- **Pays d’origine** :  Italie
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -24,17 +24,17 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre          | Genre              | Plateformes           |
-| ----- | -------------- | ------------------ | --------------------- |
-| XXXX  | [[Tekken]] (?) | Action / RPG / FPS | PC, PS5, Xbox, Switch |
-|       |                |                    |                       |
+| Année | Titre        | Genre        | Plateformes |
+| ----- | ------------ | ------------ | ----------- |
+|       | Fotonica (?) |              |             |
+| 2025  | [[Horses]]   | Serious Game | PC          |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
 - Moteur 2
 
 ## Style et Influence
-Décrire le style graphique, les thématiques abordées, les influences notables.
+- Jeux au style social
 
 ## Succès et Récompenses
 Lister les prix, distinctions ou records obtenus.

@@ -2,29 +2,31 @@
 type: game
 ---
 
-# 33 immortals
+# Assassin's Creed
 
 ## Informations Générales
 
-- **Année de sortie** : [[2025]] (?)
+- **Année de sortie** : 
 - **Développeur** : 
-	- Société : [[Thunder Lotus Games]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[Xbox]] ([[GamePass (XBox)]])
-- **Genre** : action, MMO
-- **Résumé** : c'est un genre de diablo qui se joue à 33 sur une map, sans chat vocal. On pose des buff ou debuff et il faut plusieurs joueurs à le faire au même endroit pour le déclencher.
-- **Etat** : Accès anticipé
+- **Plateformes** : 
+- **Franchise** : [[Franchise Assasin's Creed]]
+- **Genre** :
+- **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : 3D vue du dessus
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-- **Gameplay** : coop, MMO, 
+- **Gameplay** :
+- **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+- **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
@@ -34,4 +36,7 @@ type: game
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
-- https://thunderlotusgames.com/games/33-immortals/
+
+| Description | URL |
+| ----------- | --- |
+|             |     |
