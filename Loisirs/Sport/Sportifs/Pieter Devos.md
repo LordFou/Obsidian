@@ -2,24 +2,20 @@
 type: personne
 ---
 
-# Max Verstappen
+# Pieter Devos
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Néerlandais
-- **Sport / Discipline** :  F1
+- **Nationalité** : Belge
+- **Sport / Discipline** : [[Equitation]]  
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[RedBull]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                    | Résultat | Remarque |
-| ----- | ------------------------------ | -------- | -------- |
-| 2024  | [[Championnat du Monde de F1]] | 1ier     |          |
-| 2025  | [[Grand Prix d'Italie]]        | 1ier     |          |
-| 2025  | [[Grand Prix d'Azerbaïdjan]]   | 1ier     |          |
-| 2025  | [[Grand Prix du Qatar]]        | 1ier     |          |
-| 2025  | [[Grand Prix Abu Dhabi]]       | 1ier     |          |
+| Année | Compétition                            | Résultat | Remarque |
+| ----- | -------------------------------------- | -------- | -------- |
+| 2025  | Grand Prix CSI 5 étoiles de la Corogne | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

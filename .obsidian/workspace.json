@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Championnat du Monde de F1.md",
+                "file": "Loisirs/Sport/Sportifs/Matthias Casse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Championnat du Monde de F1"
+              "title": "Matthias Casse"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Championnat du Monde de F1",
+                "query": "Matthi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,14 +204,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "acbfcced6e5eac9a",
+  "active": "8e973f0f32d86818",
   "lastOpenFiles": [
+    "Attachments/image-223.webp",
+    "Chloé Herbiet.md",
+    "Attachments/image-222.webp",
+    "Journal de bord/2025-12-07.md",
+    "Marathon de Valence.md",
+    "Loisirs/Sport/Sportifs/Pieter Devos.md",
     "Max Verstappen.md",
     "Loisirs/Sport/Compétitions/Championnat du Monde de F1.md",
+    "Lando Norris.md",
     "Loisirs/Sport/Compétitions/Grand Prix Abu Dhabi.md",
     "Lucinda Brand.md",
     "Loisirs/Sport/Sportifs/Michael Vanthourenhout.md",
-    "Journal de bord/2025-12-07.md",
     "Red Lions.md",
     "Loisirs/Sport/Sportifs/Nafi Thiam.md",
     "conflict-files-obsidian-git.md",
@@ -228,11 +233,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Planet Centaury.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Lumines Arise.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Kirby Air Riders.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Horses.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost of Tsushima.md",
-    "Journal de bord/2025-12-04.md",
-    "Franchise Assasin's Creed.md",
-    "Assassin's Creed.md",
     "Attachments/image-221.webp",
     "Attachments/image-220.webp",
     "Attachments/image-219.webp",
@@ -242,7 +242,6 @@
     "Attachments/image-215.webp",
     "Attachments/image-214.webp",
     "Attachments/image-213.webp",
-    "Attachments/image-212.webp",
     "Loisirs/Jeux Vidéos/Logiciels",
     "Loisirs/Sport/Statistiques",
     "Culture/Politique",
@@ -257,7 +256,4 @@
     "Loisirs/Jeux Vidéos/Généalogie Mr Driller.canvas",
     "Attachments/Download.mp4",
     "Loisirs/Jeux Vidéos/Livres",
-    "Sans titre",
-    "Loisirs/Internet"
-  ]
-}
+    "Sans ti

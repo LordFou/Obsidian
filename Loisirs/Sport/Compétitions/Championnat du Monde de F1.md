@@ -8,11 +8,11 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur        | Nationalité | Remarque |
-| ----- | ---------------- | ----------- | -------- |
-| 2021  |                  |             |          |
-| 2022  |                  |             |          |
-| 2023  |                  |             |          |
-| 2024  |                  |             |          |
-| 2025  | [[Lando Norris]] | Brittanique |          |
-|       |                  |             |          |
+| Année | Vainqueur          | Nationalité | Remarque |
+| ----- | ------------------ | ----------- | -------- |
+| 2021  |                    |             |          |
+| 2022  |                    |             |          |
+| 2023  |                    |             |          |
+| 2024  | [[Max Verstappen]] | Néerlandais |          |
+| 2025  | [[Lando Norris]]   | Brittanique |          |
+|       |                    |             |          |

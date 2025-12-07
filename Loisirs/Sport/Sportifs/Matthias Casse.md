@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-223.webp]]
 # Matthias Casse
 
 # Informations Générales
@@ -13,9 +13,9 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition                           | Résultat | Remarque         |
+| ----- | ------------------------------------- | -------- | ---------------- |
+| 2025  | Grand Chelem de judo de Tokyo (-81kg) | 7e       | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -31,4 +31,4 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 
 # Sources et Références
 - [Lien vers une source](#)
-- [Article détaillé](#)
+- [Arti
