@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-224.webp]]
 # Nina Pinzarrone
 
 # Informations Générales
@@ -13,9 +13,9 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| 2025  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition           | Résultat | Remarque |
+| ----- | --------------------- | -------- | -------- |
+| 2025  | Golden Spin de Zagreb | 7e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

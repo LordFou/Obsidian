@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Nina Pinzarrone.md",
+                "file": "Loisirs/Sport/Sportifs/Bart Swings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nina Pinzarrone"
+              "title": "Bart Swings"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Nina",
+                "query": "Bart Swings",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,8 +206,9 @@
   },
   "active": "8e973f0f32d86818",
   "lastOpenFiles": [
-    "Loisirs/Sport/Sportifs/Sarah Dumont.md",
     "Loisirs/Sport/Sportifs/Nina Pinzarrone.md",
+    "Attachments/image-224.webp",
+    "Loisirs/Sport/Sportifs/Sarah Dumont.md",
     "Loisirs/Sport/Sportifs/Florine Gaspard.md",
     "Loisirs/Sport/Sportifs/Lucas Henveaux.md",
     "Journal de bord/2025-12-07.md",
@@ -234,7 +234,6 @@
     "Quake.md",
     "Loisirs/Jeux Vidéos/Sociétés/Splash Damage.md",
     "Loisirs/Jeux Vidéos/Sociétés/Embracer.md",
-    "Loisirs/Jeux Vidéos/Périphériques/Steam Machine.md",
     "Attachments/image-221.webp",
     "Attachments/image-220.webp",
     "Attachments/image-219.webp",
@@ -242,7 +241,6 @@
     "Attachments/image-217.webp",
     "Attachments/image-216.webp",
     "Attachments/image-215.webp",
-    "Attachments/image-214.webp",
     "Loisirs/Jeux Vidéos/Logiciels",
     "Loisirs/Sport/Statistiques",
     "Culture/Politique",
