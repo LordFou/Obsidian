@@ -31,4 +31,4 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 
 # Sources et Références
 - [Lien vers une source](#)
-- [Arti
+- [Article détaillé](#)
