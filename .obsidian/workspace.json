@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Bart Swings.md",
+                "file": "Culture/L'extrême droite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bart Swings"
+              "title": "L'extrême droite"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Bart Swings",
+                "query": "bollo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,6 +206,8 @@
   },
   "active": "8e973f0f32d86818",
   "lastOpenFiles": [
+    "Attachments/image-225.webp",
+    "Loisirs/Sport/Sportifs/Bart Swings.md",
     "Loisirs/Sport/Sportifs/Nina Pinzarrone.md",
     "Attachments/image-224.webp",
     "Loisirs/Sport/Sportifs/Sarah Dumont.md",
@@ -233,7 +235,6 @@
     "Santa Ragione.md",
     "Quake.md",
     "Loisirs/Jeux Vidéos/Sociétés/Splash Damage.md",
-    "Loisirs/Jeux Vidéos/Sociétés/Embracer.md",
     "Attachments/image-221.webp",
     "Attachments/image-220.webp",
     "Attachments/image-219.webp",
