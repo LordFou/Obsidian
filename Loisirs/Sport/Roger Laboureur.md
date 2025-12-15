@@ -8,7 +8,7 @@ type: personne
 Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
 
 ## Informations Générales
-- **Date de naissance** :  1937 - 2025
+- **Date de naissance** :  1935 - 2025
 - **Nationalité** :  Belge
 - **Profession(s)** : Commentateur Sportif 
 - **Entreprise(s) associée(s)** : [[RTBF]]

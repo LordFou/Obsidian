@@ -22,14 +22,14 @@ type: personne
 | 2018           | [[Championnat du Monde de Gymnastique\|Championnat du monde]]  | Or       | Barres asymétriques | Devant [[Simone Biles]]                        |
 | 2018           | [[Championnat du Monde de Gymnastique\|Championnat du monde]]  | 4e       | Concours Général    |                                                |
 | 2018           | [[Championnat d’Europe de Gymnastique\|Championnat d'Europe]]  | Or       | Barres asymétriques |                                                |
-| 2018           | [[Sportive Belge de l'année]]                                  | 1iere    |                     |                                                |
+| 2018           | [[Sportif-Sportive Belge de l'année]]                                  | 1iere    |                     |                                                |
 | 2018           | [[Trophée National Mérite Sportif]]                            | 1iere    |                     |                                                |
 | 2019           | [[Championnat d’Europe de Gymnastique\|Championnat d'Europe]]  | Argent   | Poutre              |                                                |
 | 2019           | [[Championnat d’Europe de Gymnastique\|Championnat d'Europe]]  | Or       | Poutre              |                                                |
 | 2019           | [[Championnat d’Europe de Gymnastique\|Championnat d'Europe]]  | 4e       | Barres asymétriques |                                                |
 | 2019           | [[Championnat du Monde de Gymnastique\|Championnat du monde]]  | 5e       | Concours Général    |                                                |
 | 2019           | [[Championnat du Monde de Gymnastique\|Championnat du monde]]  | Or       | Barres asymétriques |                                                |
-| 2019           | [[Sportive Belge de l'année]]                                  | 1iere    |                     |                                                |
+| 2019           | [[Sportif-Sportive Belge de l'année]]                                  | 1iere    |                     |                                                |
 | 2021           | [[JO 2020]]                                                    | Or       | Barres asymétriques |                                                |
 | 2022           | [[Championnat du Monde de Gymnastique\|Championnat du monde]]  | Bronze   | Barres asymétriques |                                                |
 | 2024           | Coupe du Monde - Caire                                         | Or       | Poutre              |                                                |

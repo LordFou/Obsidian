@@ -18,7 +18,7 @@
 
 
 ## Records et Faits Marquants
-- 48 points inscrits lors du match Golden State de s’incliner sur le parquet de Portland 136-131.
+- 48 points inscrits lors du match Golden State vs Portland (136-131).
 - Son fameux gimmick "Dodo"
   ![[Pasted image 20250321215018.jpg]]
 
