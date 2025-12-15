@@ -13,10 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                       | Résultat                   | Remarque                |
-| ----- | --------------------------------- | -------------------------- | ----------------------- |
-| 2025  | Coupe du Monde - Levi - Finlande  | Eliminé en première manche |                         |
-| 2025  | Coupe du Monde - Gurgl - Autriche | 2e                         | ==Premier podium !!!!== |
+| Année | Compétition                                          | Résultat                   | Remarque                |
+| ----- | ---------------------------------------------------- | -------------------------- | ----------------------- |
+| 2025  | Coupe du Monde - Levi - Finlande                     | Eliminé en première manche |                         |
+| 2025  | Coupe du Monde - Gurgl - Autriche                    | 2e                         | ==Premier podium !!!!== |
+| 2025  | Coupe du Monde - Val d'Isère (France) - Slalom Géant | 22e                        |                         |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
