@@ -8,13 +8,13 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur                | Nationalité | Remarque |
-| ----- | ------------------------ | ----------- | -------- |
-| 2025  | [[Mathieu van der Poel]] | Néerlandais |          |
-|       |                          |             |          |
+| Année | Vainqueur                | Nationalité | Remarque            |
+| ----- | ------------------------ | ----------- | ------------------- |
+| 2025  | [[Mathieu van der Poel]] | Néerlandais | 2e - [[Thibau Nys]] |
+|       |                          |             |                     |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur         | Nationalité | Remarque |
+| ----- | ----------------- | ----------- | -------- |
+| 2025  | [[Lucinda Brand]] | Néerlanda   |          |
+|       |                   |             |          |

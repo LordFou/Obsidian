@@ -17,6 +17,7 @@ type: personne
 | ----- | ------------------------------------------------ | -------- | --------------------------------- |
 | 2025  | Coupe du monde - Salt Lake City (USA) - 5000m    | 13e      |                                   |
 | 2025  | Coupe du Monde - Heerenveen (Pays-Bas) - 10 000m | 2e       | 12:04,75 - ==Record de Belgique== |
+| 2025  | Coupe du Monde - Hamar  (Norvège) - Mass-start   | 2e       |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
