@@ -18,8 +18,10 @@
 
 
 ## Records et Faits Marquants
-- Son fameux gimmick "Dodo"![[Pasted image 20250321215018.jpg]]
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- 48 points inscrits lors du match Golden State de s’incliner sur le parquet de Portland 136-131.
+- Son fameux gimmick "Dodo"
+  ![[Pasted image 20250321215018.jpg]]
+
 
 ## Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

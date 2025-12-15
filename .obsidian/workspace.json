@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Roger Laboureur.md",
+                "file": "Loisirs/Sport/Sportifs/Stephen Curry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roger Laboureur"
+              "title": "Stephen Curry"
             },
             "group": "8680513a05281d44"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Roger Laboureur.md",
+                "file": "Loisirs/Sport/Sportifs/Stephen Curry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -59,12 +59,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792587,
+                  "scale": 0.7132754626224423,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Roger Laboureur"
+              "title": "Graphique de Stephen Curry"
             },
             "group": "8680513a05281d44"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bollo",
+                "query": "Stephen Curry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,8 +179,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,10 +252,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12aaa866bfb4ef34",
+  "active": "8e973f0f32d86818",
   "lastOpenFiles": [
-    "RTBF.md",
+    "Loisirs/Sport/Sportifs/Lucas Coenen.md",
     "Loisirs/Sport/Roger Laboureur.md",
+    "Loisirs/Sport/Sportifs/Vincent Kompany.md",
+    "Attachments/image-226.webp",
+    "Trophée Raymond Goethals.md",
+    "RTBF.md",
     "Journal de bord/2025-12-15.md",
     "Journal de bord/2025-12-12.md",
     "Culture/L'extrême droite.md",
@@ -282,15 +285,11 @@
     "Loisirs/Sport/Sportifs/Michael Vanthourenhout.md",
     "Red Lions.md",
     "Loisirs/Sport/Sportifs/Nafi Thiam.md",
-    "conflict-files-obsidian-git.md",
-    "Victor Moison.md",
-    "Valve.md",
     "Attachments/image-221.webp",
     "Attachments/image-220.webp",
     "Attachments/image-219.webp",
     "Attachments/image-218.webp",
     "Attachments/image-217.webp",
-    "Attachments/image-216.webp",
     "Loisirs/Jeux Vidéos/Logiciels",
     "Loisirs/Sport/Statistiques",
     "Culture/Politique",
