@@ -18,6 +18,8 @@ type: personne
 | 2025  | Coupe du Monde - Sölden (Autriche) - Slalom Géant                | 20e      |                                  |
 | 2025  | Coupe du Monde - Copper Mountain (Colorado - USA) - Slalom Géant | 7e       | Meilleur résultat de sa carrière |
 | 2025  | Coupe du Monde - Val d'Isère (France) - Slalom Géant             | 20e      |                                  |
+| 2025  | Coupe du Monde - Beaver Creek (USA) - Slalom Géant               | 12e      |                                  |
+|       |                                                                  |          |                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
