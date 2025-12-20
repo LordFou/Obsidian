@@ -30,38 +30,39 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 # Palmarès et Distinctions
 
 ## Carrière
-| Courses                        | Année | Remarque                                                                              |
-| ------------------------------ | ----- | ------------------------------------------------------------------------------------- |
-| [[Strade Bianche]]             | 2018  | Début de quelques années de folie                                                     |
-| [[Tour de France]] - 10e étape | 2019  | Sprint Massif                                                                         |
-| [[Tour de France]] - 5e étape  | 2020  | Sprint Massif                                                                         |
-| [[Tour de France]] - 7e étape  | 2020  | Sprint en petit peloton                                                               |
-| [[Tour de France]] - 11e étape | 2021  | Victoire en solitaire sur le mont Ventoux                                             |
-| [[Tour de France]] - 20e étape | 2021  | CLM                                                                                   |
-| [[Tour de France]] - 21e étape | 2021  | Sprint Massif                                                                         |
-| [[Tour de France]] - 4e étape  | 2022  | Victoire en solitaire                                                                 |
-| [[Tour de France]] - 8e étape  | 2022  | Sprint de puncheur/sprinteur                                                          |
-| [[Tour de France]] - 20e étape | 2022  | CLM                                                                                   |
-| [[Bretagne Classic]]           | 2022  |                                                                                       |
-| [[Tour d'Italie]] - 9e étape   | 2025  | Etape des routes blanches                                                             |
-| [[Tour de France]] - 21e étape | 2025  | Etape finale <br>3 fois la butte de [[Montmartre]]<br>Arrivée sur les Champs Elysées. |
-| [[Critérium d'Herentals]]      | 2025  |                                                                                       |
+| Année | Courses                                                     | Remarque                                                                              |     |
+| ----- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------- | --- |
+| 2018  | [[Strade Bianche]]                                          | Début de quelques années de folie                                                     |     |
+| 2019  | [[Tour de France]] - 10e étape                              | Sprint Massif                                                                         |     |
+| 2020  | [[Tour de France]] - 5e étape                               | Sprint Massif                                                                         |     |
+| 2020  | [[Tour de France]] - 7e étape                               | Sprint en petit peloton                                                               |     |
+| 2021  | [[Tour de France]] - 11e étape                              | Victoire en solitaire sur le mont Ventoux                                             |     |
+| 2021  | [[Tour de France]] - 20e étape                              | CLM                                                                                   |     |
+| 2021  | [[Tour de France]] - 21e étape                              | Sprint Massif                                                                         |     |
+| 2022  | [[Tour de France]] - 4e étape                               | Victoire en solitaire                                                                 |     |
+| 2022  | [[Tour de France]] - 8e étape                               | Sprint de puncheur/sprinteur                                                          |     |
+| 2022  | [[Tour de France]] - 20e étape                              | CLM                                                                                   |     |
+| 2022  | [[Bretagne Classic]]                                        |                                                                                       |     |
+| 2025  | [[Tour d'Italie]] - 9e étape                                | Etape des routes blanches                                                             |     |
+| 2025  | [[Tour de France]] - 21e étape                              | Etape finale <br>3 fois la butte de [[Montmartre]]<br>Arrivée sur les Champs Elysées. |     |
+| 2025  | [[Critérium d'Herentals]]                                   |                                                                                       |     |
+| 2025  | CXWorldCup - Coupe du Monde - 5e Manche - Anvers (Belgique) | 1ier                                                                                  |     |
 
-## 2025
-
-| Compétition                     | Résultat | Remarque                                                                   |
-| ------------------------------- | -------- | -------------------------------------------------------------------------- |
-| [[Grand Prix de l'E3]]          | 2e       | Derrière Pawless                                                           |
-| [[Tour des Flandres]]           | 4e       | Derrière Pogacar, Vanderpoel, Pedersen                                     |
-| [[Paris-Roubaix]]               | 4e       | Derrière Vanderpoel, Pogacar, Pedersen                                     |
-| [[Flèche Brabançonne]]          | 2e       | Derrière Evenepoel                                                         |
-| [[Amstel Gold Race]]            | 4e       | Derrière Skjelmöse, Pogacar, Evenepoel                                     |
-| [[Tour d'Italie]] - 9e étape    | 1e 🥇    | Etape des routes blanches                                                  |
-| [[Tour de France]] - 8e étape   | 2e       | Sprint massif                                                              |
-| [[Tour de France]] - 15e étape  | 4e       | Sprint dans le petit peloton d'échappée                                    |
-| [[Tour de France]] - 21e étape  | 1e 🥇    | Victoire sur les Champs Elysées <br>après une lutte avec [[Tadej Pogacar]] |
-| [[Critérium d'Herentals]]       | 1e 🥇    |                                                                            |
-| [[Tour d'Allemagne]] - 1e étape | 5e       | CLM                                                                        |
+| Année | Compétition                                                       | Résultat | Remarque                                                                   |
+| ----- | ----------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
+| 2025  | [[Grand Prix de l'E3]]                                            | 2e       | Derrière Pawless                                                           |
+| 2025  | [[Tour des Flandres]]                                             | 4e       | Derrière Pogacar, Vanderpoel, Pedersen                                     |
+| 2025  | [[Paris-Roubaix]]                                                 | 4e       | Derrière Vanderpoel, Pogacar, Pedersen                                     |
+| 2025  | [[Flèche Brabançonne]]                                            | 2e       | Derrière Evenepoel                                                         |
+| 2025  | [[Loisirs/Sport/Compétitions/Amstel Gold Race\|Amstel Gold Race]] | 4e       | Derrière Skjelmöse, Pogacar, Evenepoel                                     |
+| 2025  | [[Tour d'Italie]] - 9e étape                                      | 1e 🥇    | Etape des routes blanches                                                  |
+| 2025  | [[Tour de France]] - 8e étape                                     | 2e       | Sprint massif                                                              |
+| 2025  | [[Tour de France]] - 15e étape                                    | 4e       | Sprint dans le petit peloton d'échappée                                    |
+| 2025  | [[Tour de France]] - 21e étape                                    | 1e 🥇    | Victoire sur les Champs Elysées <br>après une lutte avec [[Tadej Pogacar]] |
+| 2025  | [[Critérium d'Herentals]]                                         | 1e 🥇    |                                                                            |
+| 2025  | [[Tour d'Allemagne]] - 1e étape                                   | 5e       | CLM                                                                        |
+| 2025  | CXWorldCup - Coupe du Monde - 5e Manche - Anvers (Belgique)       | 1ier     |                                                                            |
+|       |                                                                   |          |                                                                            |
 ![[Pasted image 20250415003019.png]]
 # Style et Caractéristiques
 - Humain

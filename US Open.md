@@ -8,11 +8,12 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur           | Nationalité | Remarque |
-| ----- | ------------------- | ----------- | -------- |
-| 2021  | [[Daniil Medvedev]] |             |          |
-| 2025  | [[Carlos Alcaraz]]  | Espagnol    |          |
-|       |                     |             |          |
+| Année | Vainqueur              | Nationalité | Remarque |
+| ----- | ---------------------- | ----------- | -------- |
+| 2016  | [[Stanislas Wawrinka]] | Suisse      |          |
+| 2021  | [[Daniil Medvedev]]    | Russe       |          |
+| 2025  | [[Carlos Alcaraz]]     | Espagnol    |          |
+|       |                        |             |          |
 # Femmes
 
 | Année | Vainqueur           | Nationalité | Remarque |

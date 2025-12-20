@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Wout Van Aert.md",
+                "file": "Loisirs/Sport/Sportifs/Stanislas Wawrinka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wout Van Aert"
+              "title": "Stanislas Wawrinka"
             },
             "group": "8680513a05281d44"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Wout Van Aert.md",
+                "file": "Loisirs/Sport/Sportifs/Stanislas Wawrinka.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Wout Van Aert"
+              "title": "Graphique de Stanislas Wawrinka"
             },
             "group": "8680513a05281d44"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Wout van ",
+                "query": "Stanislas Wawrinka",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,7 +179,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -254,6 +255,13 @@
   },
   "active": "8e973f0f32d86818",
   "lastOpenFiles": [
+    "Coupe Davis.md",
+    "Loisirs/Sport/Sportifs/Stanislas Wawrinka.md",
+    "US Open.md",
+    "Roland-Garros.md",
+    "Open d'Australie.md",
+    "Alexander Blockx.md",
+    "Loisirs/Sport/Sportifs/Wout Van Aert.md",
     "Loisirs/Sport/Sportifs/Mathieu van der Poel.md",
     "Loisirs/Sport/Sportifs/Kim Meylemans.md",
     "Journal de bord/2025-12-20.md",
@@ -275,15 +283,8 @@
     "Loisirs/Sport/Sportifs/Vincent Kompany.md",
     "Attachments/image-226.webp",
     "Trophée Raymond Goethals.md",
-    "RTBF.md",
-    "Journal de bord/2025-12-15.md",
-    "Journal de bord/2025-12-12.md",
-    "Culture/L'extrême droite.md",
     "Attachments/image-225.webp",
-    "Loisirs/Sport/Sportifs/Nina Pinzarrone.md",
     "Attachments/image-224.webp",
-    "Loisirs/Sport/Sportifs/Sarah Dumont.md",
-    "Loisirs/Sport/Sportifs/Florine Gaspard.md",
     "Attachments/image-223.webp",
     "Attachments/image-222.webp",
     "Attachments/image-221.webp",

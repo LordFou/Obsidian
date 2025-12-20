@@ -8,10 +8,11 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur          | Nationalité | Remarque                             |
-| ----- | ------------------ | ----------- | ------------------------------------ |
-| 2025  | [[Carlos Alcaraz]] | Espagnol    | Plus longue finale de tournoi (5h29) |
-|       |                    |             |                                      |
+| Année | Vainqueur              | Nationalité | Remarque                             |
+| ----- | ---------------------- | ----------- | ------------------------------------ |
+| 2015  | [[Stanislas Wawrinka]] | Suisse      |                                      |
+| 2025  | [[Carlos Alcaraz]]     | Espagnol    | Plus longue finale de tournoi (5h29) |
+|       |                        |             |                                      |
 # Femmes
 
 | Année | Vainqueur      | Nationalité | Remarque |

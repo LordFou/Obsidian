@@ -2,29 +2,30 @@
 type: personne
 ---
 
-# Alexander Blockx
+# Stanislas Wawrinka
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
+- **Nationalité** :  Suisse
 - **Sport / Discipline** : [[Tennis]] 
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
-- **Période d’activité** :  
+- **Période d’activité** :  - 2026
 
 # Palmarès et Distinctions
-| Année | Compétition                      | Résultat       | Remarque |
-| ----- | -------------------------------- | -------------- | -------- |
-| ?     | ?                                | Vainqueur      |          |
-| 2025  | ?                                | Vainqueur      |          |
-| 2025  | [[Challenger 125 de Bratislava]] | Vainqueur      |          |
-| 2025  | Next Gen ATP Finals              | Demi-finaliste |          |
+| Année | Compétition          | Résultat  | Remarque               |
+| ----- | -------------------- | --------- | ---------------------- |
+| 2008  | [[JO 2008]] - Double | Vainqueur | avec [[Roger Federer]] |
+| 2014  | [[Coupe Davis]]      | Vainqueur |                        |
+| 2014  | [[Open d'Australie]] | Vainqueur |                        |
+| 2015  | [[Roland-Garros]]    | Vainqueur |                        |
+| 2016  | [[US Open]]          | Vainqueur |                        |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- 3 victoires en Grand Chelem
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
