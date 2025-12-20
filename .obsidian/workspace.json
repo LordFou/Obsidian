@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laurens Vanthoor.md",
+                "file": "Loisirs/Sport/Sportifs/Ajay Mitchell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laurens Vanthoor"
+              "title": "Ajay Mitchell"
             },
             "group": "8680513a05281d44"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Laurens Vanthoor.md",
+                "file": "Loisirs/Sport/Sportifs/Ajay Mitchell.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Laurens Vanthoor"
+              "title": "Graphique de Ajay Mitchell"
             },
             "group": "8680513a05281d44"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Laurens Vanthoor",
+                "query": "Europe Basket",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,7 +179,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -254,7 +255,11 @@
   },
   "active": "8e973f0f32d86818",
   "lastOpenFiles": [
+    "Barry Mitchell.md",
     "Loisirs/Sport/Sportifs/Ajay Mitchell.md",
+    "Loisirs/Sport/Sportifs/Julie Vanloo.md",
+    "Euro de Basket.md",
+    "Laurens Vanthoor.md",
     "Justin Verboomen.md",
     "Fem van Empel.md",
     "Loisirs/Sport/Roger Federer.md",
@@ -277,10 +282,6 @@
     "Thibau Nys.md",
     "Sportif-Sportive Belge de l'année.md",
     "Emma Meesseman.md",
-    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
-    "Emma Meesman.md",
-    "Championnat WNBA.md",
-    "Loisirs/Sport/Roger Laboureur.md",
     "Attachments/image-226.webp",
     "Attachments/image-225.webp",
     "Attachments/image-224.webp",
