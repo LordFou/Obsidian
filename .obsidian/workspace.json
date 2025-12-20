@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Armand Marchant.md",
+                "file": "Journal de bord/2025-12-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Armand Marchant"
+              "title": "2025-12-20"
             },
             "group": "8680513a05281d44"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Armand Marchant.md",
+                "file": "Journal de bord/2025-12-20.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Armand Marchant"
+              "title": "Graphique de 2025-12-20"
             },
             "group": "8680513a05281d44"
           }
@@ -252,8 +252,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "8e973f0f32d86818",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Armand Marchant.md",
+    "Journal de bord/2025-12-20.md",
     "Sam Maes.md",
     "Lucinda Brand.md",
     "Attachments/image-227.webp",
@@ -282,8 +284,6 @@
     "Loisirs/Sport/Sportifs/Sarah Dumont.md",
     "Loisirs/Sport/Sportifs/Florine Gaspard.md",
     "Loisirs/Sport/Sportifs/Lucas Henveaux.md",
-    "Journal de bord/2025-12-07.md",
-    "Loisirs/Sport/Sportifs/Matthias Casse.md",
     "Attachments/image-223.webp",
     "Attachments/image-222.webp",
     "Attachments/image-221.webp",
