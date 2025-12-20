@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Stanislas Wawrinka.md",
+                "file": "Laurens Vanthoor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stanislas Wawrinka"
+              "title": "Laurens Vanthoor"
             },
             "group": "8680513a05281d44"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Stanislas Wawrinka.md",
+                "file": "Laurens Vanthoor.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Stanislas Wawrinka"
+              "title": "Graphique de Laurens Vanthoor"
             },
             "group": "8680513a05281d44"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Stanislas Wawrinka",
+                "query": "Laurens Vanthoor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,8 +179,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,8 +254,12 @@
   },
   "active": "8e973f0f32d86818",
   "lastOpenFiles": [
-    "Coupe Davis.md",
+    "Loisirs/Sport/Sportifs/Ajay Mitchell.md",
+    "Justin Verboomen.md",
+    "Fem van Empel.md",
+    "Loisirs/Sport/Roger Federer.md",
     "Loisirs/Sport/Sportifs/Stanislas Wawrinka.md",
+    "Coupe Davis.md",
     "US Open.md",
     "Roland-Garros.md",
     "Open d'Australie.md",
@@ -278,11 +281,7 @@
     "Emma Meesman.md",
     "Championnat WNBA.md",
     "Loisirs/Sport/Roger Laboureur.md",
-    "Loisirs/Sport/Sportifs/Stephen Curry.md",
-    "Loisirs/Sport/Sportifs/Lucas Coenen.md",
-    "Loisirs/Sport/Sportifs/Vincent Kompany.md",
     "Attachments/image-226.webp",
-    "Trophée Raymond Goethals.md",
     "Attachments/image-225.webp",
     "Attachments/image-224.webp",
     "Attachments/image-223.webp",
