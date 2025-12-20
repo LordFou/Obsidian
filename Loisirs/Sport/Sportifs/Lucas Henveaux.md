@@ -23,6 +23,7 @@ type: personne
 | 2025  | Euro - Petit bain - 200m Nl                                          | 1ier (Demi-finale)<br>? (Finale) | 1:41.56          |                                      |
 | 2025  | Euro - Petit bain - 400m Nl                                          | 10e (Série)                      | 3:39.00 (Série)  |                                      |
 | 2025  | Euro - Petit bain - 800m Nl                                          | 2e (Finale)                      | 7:28.03 (Finale) | Record de Belgique                   |
+| 2025  | Euro - Petit bain - 400m 4n                                          | 4e (Finale)                      | 4:03.89 (Finale) | Record de Belgique                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -33,6 +34,7 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 # Controverses ou Événements Importants
 - Record de Belgique
 	- 800m Nl => 7:28.03
+	- 400m 4n => 4:03.89 (Petit Bain)
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
