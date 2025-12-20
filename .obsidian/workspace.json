@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Trophée de la Flandrienne.md",
+                "file": "Loisirs/Sport/Sportifs/Simon Gauzy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trophée de la Flandrienne"
+              "title": "Simon Gauzy"
             },
             "group": "8680513a05281d44"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Trophée de la Flandrienne.md",
+                "file": "Loisirs/Sport/Sportifs/Simon Gauzy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Trophée de la Flandrienne"
+              "title": "Graphique de Simon Gauzy"
             },
             "group": "8680513a05281d44"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Roos",
+                "query": "Simon Gauzy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -180,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -253,9 +253,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "acbfcced6e5eac9a",
+  "active": "8e973f0f32d86818",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Lucas Henveaux.md",
+    "Loisirs/Sport/Sportifs/Simon Gauzy.md",
     "Roos Vanotterdijk.md",
+    "Loisirs/Sport/Lotte Kopecky.md",
     "Loisirs/Sport/Compétitions/Trophée de la Flandrienne.md",
     "Loisirs/Sport/Compétitions/Vélo d'Or.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
@@ -263,7 +266,6 @@
     "Loisirs/Sport/Sportifs/Bart Swings.md",
     "Patinage de vitesse.md",
     "Attachments/image-231.webp",
-    "Loisirs/Sport/Sportifs/Lucas Henveaux.md",
     "Loisirs/Sport/Sportifs/Florine Gaspard.md",
     "Loisirs/Sport/Sportifs/Maximilien Drion.md",
     "Attachments/image-230.webp",
@@ -283,8 +285,6 @@
     "Loisirs/Sport/Roger Federer.md",
     "Loisirs/Sport/Sportifs/Stanislas Wawrinka.md",
     "Coupe Davis.md",
-    "US Open.md",
-    "Roland-Garros.md",
     "Attachments/image-227.webp",
     "Attachments/image-226.webp",
     "Attachments/image-225.webp",
