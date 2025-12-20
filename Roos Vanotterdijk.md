@@ -31,6 +31,8 @@ type: personne
 | 2025  | Coupe du Monde - Petit bain - 1ière manche - 100m Dos                         | 9e (Série)                |                                                        | Carmel (USA)                       |
 | 2025  | Euro - Petit bain - 50m Pap                                                   | 2e                        | 25.20 (Série)<br>25.06 (Demi-finale)<br>24.84 (Finale) | Record de Belgique                 |
 | 2025  | Euro - Petit bain - 100m 4N                                                   | 3e (Demi-Finale)          | (Finale)                                               |                                    |
+| 2025  | Euro - Petit bain - 200m Br                                                   | 8e (Finale)               |                                                        |                                    |
+| 2025  | Euro - Petit bain - 100m Pap                                                  | 5e (Finale)               |                                                        |                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

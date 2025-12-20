@@ -1,24 +1,21 @@
 ---
 type: personne
 ---
-![[image-231.webp]]
-# Bart Swings
+
+# Mina Libeer
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** : [[Patinage de vitesse]] 
+- **Sport / Discipline** :  [[Judo]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                         | Résultat | Remarque                          |
-| ----- | --------------------------------------------------- | -------- | --------------------------------- |
-| 2025  | Coupe du monde - Salt Lake City (USA) - 5000m       | 13e      |                                   |
-| 2025  | Coupe du Monde - Heerenveen (Pays-Bas) - 10 000m    | 2e       | 12:04,75 - ==Record de Belgique== |
-| 2025  | Coupe du Monde - Hamar  (Norvège) - Mass-start      | 2e       |                                   |
-| 2025  | Coupe du Monde - Heerenveen (Pays-Bas) - Mass-start | 4e       |                                   |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
