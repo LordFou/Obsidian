@@ -61,8 +61,8 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 | 2025  | [[Tour de France]] - 21e étape                                    | 1e 🥇    | Victoire sur les Champs Elysées <br>après une lutte avec [[Tadej Pogacar]] |
 | 2025  | [[Critérium d'Herentals]]                                         | 1e 🥇    |                                                                            |
 | 2025  | [[Tour d'Allemagne]] - 1e étape                                   | 5e       | CLM                                                                        |
-| 2025  | CXWorldCup - Coupe du Monde - 5e Manche - Anvers (Belgique)       | 1ier     |                                                                            |
-|       |                                                                   |          |                                                                            |
+| 2025  | CXWorldCup - Coupe du Monde - 5e Manche - Anvers (Belgique)       | 7e       |                                                                            |
+| 2025  | X2O - Cross Hofstade                                              | 2e       |                                                                            |
 ![[Pasted image 20250415003019.png]]
 # Style et Caractéristiques
 - Humain

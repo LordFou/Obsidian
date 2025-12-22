@@ -23,6 +23,7 @@ type: personne
 | 2025  | CXWorldCup - 3e manche - Terralba (Italie)                               | 1ière    |          |
 | 2025  | CXWorldCup - [[Cyclocross de la Citadelle de Namur\|Citadelle de Namur]] | 1ière    |          |
 | 2025  | CXWorldCup - 6e manche - [[Cross des dunes]]                             | 1ière    |          |
+| 2025  | X2O - Cross Hofstade                                                     | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
