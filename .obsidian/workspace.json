@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e75ae49af1ee5c8e",
+        "id": "d09a9b9dd710ea83",
         "type": "tabs",
         "children": [
           {
-            "id": "7212440f1534a172",
+            "id": "cc4f641a807d2d1b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -205,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7212440f1534a172",
+  "active": "f2d09065e559f000",
   "lastOpenFiles": [
     "Journal de bord/2025-12-22.md",
     "conflict-files-obsidian-git.md",
