@@ -20,6 +20,6 @@
   "close": true,
   "localBacklinks": true,
   "localForelinks": true,
-  "localInterlinks": true,
+  "localInterlinks": false,
   "localJumps": 1
 }
