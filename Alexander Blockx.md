@@ -13,11 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                      | Résultat  | Remarque |
-| ----- | -------------------------------- | --------- | -------- |
-| ?     | ?                                | Vainqueur |          |
-| 2025  | ?                                | Vainqueur |          |
-| 2025  | [[Challenger 125 de Bratislava]] | Vainqueur |          |
+| Année | Compétition                      | Résultat       | Remarque |
+| ----- | -------------------------------- | -------------- | -------- |
+| ?     | ?                                | Vainqueur      |          |
+| 2025  | ?                                | Vainqueur      |          |
+| 2025  | [[Challenger 125 de Bratislava]] | Vainqueur      |          |
+| 2025  | Next Gen ATP Finals              | Demi-finaliste |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

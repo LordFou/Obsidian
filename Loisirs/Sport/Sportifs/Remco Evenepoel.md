@@ -17,7 +17,7 @@ type: personne
 | 2019  | [[Clasica San Sebastian]]                                                        | 1ier 🏆  |                                                                           |
 | 2019  | [[Championnat d'Europe de Cyclisme\|Championnat d'Europe]] - Route               | 1ier 🏆  |                                                                           |
 | 2019  | [[Championnat d'Europe de Cyclisme\|Championnat d'Europe]] - CLM                 | 2e       |                                                                           |
-| 2019  | [[Sportive Belge de l'année]]                                                    | 1ier     |                                                                           |
+| 2019  | [[Sportif-Sportive Belge de l'année]]                                            | 1ier     |                                                                           |
 | 2020  | [[Tour de San Juan]]                                                             | 1ier 🏆  |                                                                           |
 | 2020  | [[Tour de l'Algarve]]                                                            | 1ier 🏆  |                                                                           |
 | 2020  | [[Tour de Burgos]]                                                               | 1ier 🏆  |                                                                           |
@@ -58,7 +58,7 @@ type: personne
 | 2025  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - Route                      | 2e       | derrière [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]]                   |
 | 2025  | [[Tour de Lombardie]]                                                            | 2e       | derrière [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]]                   |
 | 2025  | [[Vélo de Cristal]]                                                              | 1ier 🏆  |                                                                           |
-|       |                                                                                  |          |                                                                           |
+| 2025  | [[Sportif-Sportive Belge de l'année]]                                            | 1ier     |                                                                           |
 ## Historique
 ```timeline-labeled
 [line-5, body-2]

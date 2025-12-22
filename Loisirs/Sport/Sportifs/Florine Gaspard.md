@@ -23,13 +23,16 @@ type: personne
 | 2025  | Coupe du Monde - Petit bain - 1ière manche - 50m Br                      | 3e (Série)<br>2e (Finale) | 29.85 (Série)<br>29.58 (Finale)             | Record de Belgique<br>Carmel (USA) |
 | 2025  | Coupe du Monde - Petit bain - 1ière manche - 50m Nl                      | 7e (Finale)               |                                             | Carmel (USA)                       |
 | 2025  | Euro - Petit bain - 100m Brasse                                          | 2e (Finale)               | 1.03.61 (Demi-finale)<br>1.03.73 (Finale)   |                                    |
+| 2025  | Euro - Petit bain - 50m Nl                                               | 10e (Demi-Finale)         | 23.99                                       |                                    |
+| 2025  | Euro - Petit bain - 50m Brasse                                           | 3e (Finale)               | 29.47 (Demi-finale)<br>29.34 (Finale)       |                                    |
+
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
 - Record de Belgique
-	- 50m Br - Petit bain - 29.58
+	- 50m Br - Petit bain - 29.33
 	- 100m Br - Petit bain - 1.03.61
 
 # Controverses ou Événements Importants

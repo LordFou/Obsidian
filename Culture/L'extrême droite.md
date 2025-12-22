@@ -5,6 +5,8 @@
 - Raphaël Enthoven (?) => à analyser
   ![[Pasted image 20250817000141.png]]
 - Marguerite Stern : égérie antiféministe de l'extrême-droite, vénérée par les médias Bolloré
+- Bolloré
+  ![[image-225.webp]]
 - Pierre-Edouard Stérin
 	- Milliardaire
 	- Smartbox

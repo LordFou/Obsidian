@@ -2,16 +2,17 @@
 type: event
 ---
 
-# Sportive Belge de l'année
+# Trophée Raymond Goethals
 
 # Introduction
+
+Trophée du meilleur entraîneur belge de football de l'année
 
 # Hommes
 
 | Année | Vainqueur           | Remarque |
 | ----- | ------------------- | -------- |
-| 2019  | [[Remco Evenepoel]] |          |
-| 2025  |                     |          |
+| 2025  | [[Vincent Kompany]] |          |
 |       |                     |          |
 # Femmes
 

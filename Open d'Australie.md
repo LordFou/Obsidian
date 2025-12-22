@@ -8,10 +8,11 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur              | Nationalité | Remarque |
+| ----- | ---------------------- | ----------- | -------- |
+| 2014  | [[Stanislas Wawrinka]] | Suisse      |          |
+| 2025  |                        |             |          |
+|       |                        |             |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

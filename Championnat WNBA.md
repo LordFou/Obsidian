@@ -8,10 +8,10 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur              | Remarque                                  |
-| ----- | ---------------------- | ----------------------------------------- |
-| 2022  | [[Washington Mystics]] | Présence d'[[Emma Meesman]] dans l'équipe |
-|       |                        |                                           |
+| Année | Vainqueur              | Remarque                                    |
+| ----- | ---------------------- | ------------------------------------------- |
+| 2022  | [[Washington Mystics]] | Présence d'[[Emma Meesseman]] dans l'équipe |
+|       |                        |                                             |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

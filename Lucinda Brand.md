@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-227.webp]]
 # Lucinda Brand
 
 # Informations Générales
@@ -13,13 +13,15 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                               | Résultat | Remarque |
-| ----- | --------------------------------------------------------- | -------- | -------- |
-| 2025  | [[Cross de Koppenberg]]                                   | 1ière    |          |
-| 2025  | [[Jaarmarktcross]]                                        | 1ière    |          |
-| 2025  | [[Cross de Merkplas]]                                     | 1ière    |          |
-| 2025  | [[Cross de Hamme]]                                        | 1ière    |          |
-| 2025  | Coupe du Monde de Cyclocross - Tabor (République Tchèque) | 1iere    |          |
+| Année | Compétition                                                              | Résultat | Remarque |
+| ----- | ------------------------------------------------------------------------ | -------- | -------- |
+| 2025  | [[Cross de Koppenberg]]                                                  | 1ière    |          |
+| 2025  | [[Jaarmarktcross]]                                                       | 1ière    |          |
+| 2025  | [[Cross de Merkplas]]                                                    | 1ière    |          |
+| 2025  | [[Cross de Hamme]]                                                       | 1ière    |          |
+| 2025  | CXWorldCup - Tabor (République Tchèque)                                  | 1ière    |          |
+| 2025  | CXWorldCup - 3e manche - Terralba (Italie)                               | 1ière    |          |
+| 2025  | CXWorldCup - [[Cyclocross de la Citadelle de Namur\|Citadelle de Namur]] | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

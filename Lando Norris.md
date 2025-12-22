@@ -19,6 +19,7 @@ type: personne
 | 2025  | [[Grand Prix de Grande-Bretagne]] | 1ier     |          |
 | 2025  | [[Grand Prix de Hongrie]]         | 1ier     |          |
 | 2025  | [[Grand Prix du Mexique]]         | 1ier     |          |
+| 2025  | [[Championnat du Monde de F1]]    | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

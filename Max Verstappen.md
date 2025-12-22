@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-228.webp]]
 # Max Verstappen
 
 # Informations Générales
@@ -13,11 +13,14 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                  | Résultat | Remarque |
-| ----- | ---------------------------- | -------- | -------- |
-| 2025  | [[Grand Prix d'Italie]]      | 1ier     |          |
-| 2025  | [[Grand Prix d'Azerbaïdjan]] | 1ier     |          |
-| 2025  | [[Grand Prix du Qatar]]      | 1ier     |          |
+| Année | Compétition                           | Résultat | Remarque |
+| ----- | ------------------------------------- | -------- | -------- |
+| 2024  | [[Championnat du Monde de F1]]        | 1ier     |          |
+| 2025  | [[Grand Prix d'Italie]]               | 1ier     |          |
+| 2025  | [[Grand Prix d'Azerbaïdjan]]          | 1ier     |          |
+| 2025  | [[Grand Prix du Qatar]]               | 1ier     |          |
+| 2025  | [[Grand Prix Abu Dhabi]]              | 1ier     |          |
+| 2025  | [[Championnat du Monde de F1]] - 2025 | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
