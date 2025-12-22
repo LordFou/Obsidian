@@ -13,10 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition         | Résultat | Remarque |
-| ----- | ------------------- | -------- | -------- |
-| 2025  | [[Jaarmarktcross]]  | 1ier     |          |
-| 2025  | [[Cross des dunes]] | 2e       |          |
+| Année | Compétition                                  | Résultat | Remarque |
+| ----- | -------------------------------------------- | -------- | -------- |
+| 2025  | [[Jaarmarktcross]]                           | 1ier     |          |
+| 2025  | [[Cross des dunes]] - CxWorldCup - 6e manche | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
