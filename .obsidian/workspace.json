@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Jan Vermeiren.md",
+                "file": "Journal de bord/2025-12-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jan Vermeiren"
+              "title": "2025-12-23"
             },
             "group": "8680513a05281d44"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Jan Vermeiren.md",
+                "file": "Journal de bord/2025-12-23.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -60,11 +60,11 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.7132754626224425,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Jan Vermeiren"
+              "title": "Graphique de 2025-12-23"
             },
             "group": "8680513a05281d44"
           }
@@ -234,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,10 +252,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8e973f0f32d86818",
+  "active": "12aaa866bfb4ef34",
   "lastOpenFiles": [
-    "Loisirs/Sport/Sportifs/Simon Gauzy.md",
     "Loisirs/Sport/Sportifs/Jan Vermeiren.md",
+    "Journal de bord/2025-12-23.md",
+    "Loisirs/Sport/Sportifs/Simon Gauzy.md",
     "Loisirs/Sport/Sportifs/Lucas Henveaux.md",
     "Roos Vanotterdijk.md",
     "Loisirs/Sport/Lotte Kopecky.md",
@@ -284,7 +284,6 @@
     "Justin Verboomen.md",
     "Fem van Empel.md",
     "Loisirs/Sport/Roger Federer.md",
-    "Loisirs/Sport/Sportifs/Stanislas Wawrinka.md",
     "Attachments/image-227.webp",
     "Attachments/image-226.webp",
     "Attachments/image-225.webp",
