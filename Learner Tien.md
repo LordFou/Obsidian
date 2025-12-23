@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Laurens Sweeck
+# Learner Tien
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** : Belge
-- **Sport / Discipline** : [[Cyclocross]]  
+- **Nationalité** :  
+- **Sport / Discipline** : [[Tennis]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                  | Résultat | Remarque |
-| ----- | -------------------------------------------- | -------- | -------- |
-| 2025  | [[Jaarmarktcross]]                           | 1ier     |          |
-| 2025  | [[Cross des dunes]] - CxWorldCup - 6e manche | 2e       |          |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
