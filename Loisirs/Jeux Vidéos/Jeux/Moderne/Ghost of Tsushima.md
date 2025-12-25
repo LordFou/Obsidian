@@ -8,9 +8,9 @@ type: game
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Sucker Punch]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Sony]] (?)
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :

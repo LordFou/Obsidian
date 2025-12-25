@@ -2,26 +2,26 @@
 type: game
 ---
 
-# Henry Halfhead
+# Ghost of Yoteï
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Lululu Entertainment]]
+	- Studio : [[Sucker Punch]]
 	- Personnalités : 
-- **Éditeur** : [[popagenda]]
+- **Éditeur** : [[Sony]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : 
+- **Genre** : [[Action]], [[Aventure]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 6/10 (Canard PC)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
+	- 8/10 (Canard Pc)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -29,6 +29,8 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Atsu
+	- 
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
