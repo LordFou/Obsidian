@@ -25,7 +25,7 @@ type: game
 - **Réception critique** : 
 	- 8/10 ([[Canard PC]]) => "On cherche ce qui ne va pas mais en fait ce jeu est vraiment top"
 	- ==Game of the Year 2025==
-	  
+	  ![[image-234.webp]]
 	- 5 millions d'exemplaires en 5 mois
 - **Gameplay** :
 
