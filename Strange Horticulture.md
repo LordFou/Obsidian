@@ -1,28 +1,26 @@
 ---
 type: game
 ---
-![[image-2.webp|500x234]] 
 
-# Plan B - Terraform
+# Strange Horticulture
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Gaddy Games]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Gaddy Games]]
-- **Plateformes** : PC
+- **Éditeur** : 
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Simulation]], [[Automatisation]]
-- **Résumé** : jeu de gestion à l'échelle d'une planète, où l'on gère des chaînes de production afin de faire croître des villes futuristes
+- **Genre** :
+- **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 8/10 (Canard Pc)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -32,7 +30,6 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- [[Ecologie]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
@@ -43,4 +40,3 @@ type: game
 | Description | URL |
 | ----------- | --- |
 |             |     |
-![[image-3.webp|500x281]]

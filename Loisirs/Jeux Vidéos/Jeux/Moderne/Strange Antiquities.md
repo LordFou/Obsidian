@@ -1,28 +1,27 @@
 ---
 type: game
 ---
-![[image-2.webp|500x234]] 
 
-# Plan B - Terraform
+# Strange Antiquities
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Gaddy Games]]
+	- Studio : [[Bad Viking]]
 	- Personnalités : 
-- **Éditeur** : [[Gaddy Games]]
-- **Plateformes** : PC
+- **Éditeur** : [[Iceberg Interactive]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Simulation]], [[Automatisation]]
-- **Résumé** : jeu de gestion à l'échelle d'une planète, où l'on gère des chaînes de production afin de faire croître des villes futuristes
+- **Genre** : [[Puzzle]], [[Enigme]]
+- **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
-	- 8/10 (Canard Pc)
+	- 8/10 (Canard PC)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -32,7 +31,6 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- [[Ecologie]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
@@ -43,4 +41,3 @@ type: game
 | Description | URL |
 | ----------- | --- |
 |             |     |
-![[image-3.webp|500x281]]

@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Supermassive Games
+# Bad Viking
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,9 +24,10 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                  | Genre             | Plateformes |
-| ----- | ---------------------- | ----------------- | ----------- |
-| 2025  | [[Little Nightmare 3]] | Aventure, Horreur | PC          |
+| Année | Titre                    | Genre  | Plateformes |
+| ----- | ------------------------ | ------ | ----------- |
+| 2025  | [[Strange Antiquities]]  | Puzzle |             |
+|       | [[Strange Horticulture]] |        |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

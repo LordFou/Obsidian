@@ -11,10 +11,14 @@
             "id": "2ebeefd2456279b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Little Nightmare 3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Little Nightmare 3"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Plan B - Terraform",
+                "query": "little",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -202,8 +206,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "2ebeefd2456279b1",
   "lastOpenFiles": [
+    "Supermassive Games.md",
+    "Little Nightmare 3.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/CloverPit.md",
+    "Future Friends Games.md",
+    "Panik Arcade.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Strange Antiquities.md",
+    "Bad Viking.md",
+    "Strange Horticulture.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Digimon Story - Time Stranger.md",
+    "Media Vision Inc..md",
+    "Gaddy Games.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Plan B - Terraform.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre 4.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Blippo+.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Henry Halfhead.md",
@@ -218,21 +235,9 @@
     "Championnats d’Europe de dressage.md",
     "Devolver Digital.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Silent Hill F.md",
-    "Neobards Entertainment.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hades 2.md",
-    "Franchise Hades.md",
-    "Hades.md",
-    "Battlefield 6.md",
-    "Battlefield Studio.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Franchise Battlefield.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Pathfinder - Kingmaker.md",
-    "Mina The Hollower.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Clair Obscur - Expedition 33.md",
     "Attachments/image-234.webp",
     "Attachments/image-233.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/007 First Light.md",
     "Attachments/image-232.webp",
-    "Loisirs/Sport/Sportifs/Wout Van Aert.md",
     "Attachments/image-231.webp",
     "Attachments/image-230.webp",
     "Attachments/image-229.webp",

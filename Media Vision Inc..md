@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Supermassive Games
+# Media Vision Inc.
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -12,7 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  Royaume-Uni
+- **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -24,9 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                  | Genre             | Plateformes |
-| ----- | ---------------------- | ----------------- | ----------- |
-| 2025  | [[Little Nightmare 3]] | Aventure, Horreur | PC          |
+| Année | Titre                             | Genre  | Plateformes |
+| ----- | --------------------------------- | ------ | ----------- |
+| 2025  | [[Digimon Story - Time Stranger]] | Combat |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
