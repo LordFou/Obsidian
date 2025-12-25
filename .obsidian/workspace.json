@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Bye",
+                "query": "Consume me",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,8 +207,9 @@
   },
   "active": "2ebeefd2456279b1",
   "lastOpenFiles": [
-    "Little Sewing Machine.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Consume Me.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Bye Sweet Carole.md",
+    "Little Sewing Machine.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/No, I'm Not a Human.md",
     "Trioskaz.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Roman Triumph.md",
@@ -234,7 +234,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Ghost of Yoteï.md",
     "Sucker Punch.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost of Tsushima.md",
-    "Loisirs/Jeux Vidéos/Jeux/Ape Out.md",
     "Attachments/image-234.webp",
     "Attachments/image-233.webp",
     "Attachments/image-232.webp",
