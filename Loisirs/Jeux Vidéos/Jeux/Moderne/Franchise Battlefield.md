@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Battlefield
+# Franchise Battlefield
 
 
 ## Informations générales
@@ -22,9 +22,9 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre         | Année | Plateformes | Remarque |
-| ------------- | ----- | ----------- | -------- |
-| Battlefield 6 |       |             |          |
+| Titre             | Année | Plateformes | Remarque |
+| ----------------- | ----- | ----------- | -------- |
+| [[Battlefield 6]] | 2025  |             |          |
 
 
 ## Mécaniques et innovations
