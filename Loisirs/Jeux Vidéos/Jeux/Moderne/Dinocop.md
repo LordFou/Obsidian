@@ -1,24 +1,24 @@
 ---
 type: game
 ---
-![[image-244.webp]]
-# Hypogea
+![[image-245.webp]]
+# Dinocop
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
-	- Personnalités : [[Charlie Wagner]]
-- **Éditeur** : [[Charlie Wagner]]
-- **Plateformes** : [[PC]]
+	- Studio : [[Pieces Games]]
+	- Personnalités : 
+- **Éditeur** : [[Pieces Games]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Plateforme]],
-- **Résumé** : court jeu de plate-forme à l'atmosphère bien épaisse, où l'on tâtonne dans un étrange complexe souterrain à l'abandon.
+- **Genre** : [[Enquête]]
+- **Résumé** : vous explorerez un hôtel rempli de dinos pour résoudre des enquêtes de haut vol. Une aventure farfelue et rigolote, mais qui ne se prive pas de poser de vraies questions.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[3D]]
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
