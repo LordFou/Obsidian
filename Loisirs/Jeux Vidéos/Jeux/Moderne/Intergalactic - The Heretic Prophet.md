@@ -2,17 +2,17 @@
 type: game
 ---
 
-# Uncharted
+# Intergalactic - The Heretic Prophet
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2027
 - **Développeur** : 
 	- Studio : [[Naughty Dog]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Uncharted]]
+- **Franchise** : 
 - **Genre** :
 - **Résumé** : 
 
@@ -34,7 +34,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Crunch en décembre 2025 alors qu'il y a encore 2 ans de développement au planning => inquiétant pour les équipes
 ## Liens et Ressources
 
 | Description | URL |

@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Uncharted
+# The Last of Us
 
 ## Informations Générales
 
@@ -12,7 +12,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Uncharted]]
+- **Franchise** : 
 - **Genre** :
 - **Résumé** : 
 

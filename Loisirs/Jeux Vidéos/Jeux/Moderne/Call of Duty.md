@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Uncharted
+# Call of Duty
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Naughty Dog]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Uncharted]]
-- **Genre** :
+- **Franchise** : [[Franchise Call of Duty]]
+- **Genre** : [[FPS]]
 - **Résumé** : 
 
 ## Détails Techniques
