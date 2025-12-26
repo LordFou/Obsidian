@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Respawn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,6 +207,10 @@
   },
   "active": "2ebeefd2456279b1",
   "lastOpenFiles": [
+    "Attachments/image-236.webp",
+    "Attachments/image-235.webp",
+    "Loisirs/Jeux Vidéos/Sociétés/Respawn.md",
+    "Titan Fall.md",
     "Franchise Call of Duty.md",
     "Vince Zampella.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Call of Duty.md",
@@ -230,9 +234,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Strange Antiquities.md",
     "Bad Viking.md",
     "Strange Horticulture.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Digimon Story - Time Stranger.md",
-    "Media Vision Inc..md",
-    "Gaddy Games.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Attachments/image-234.webp",
     "Attachments/image-233.webp",
@@ -243,7 +244,6 @@
     "Attachments/image-228.webp",
     "Attachments/image-227.webp",
     "Attachments/image-226.webp",
-    "Attachments/image-225.webp",
     "Sans titre"
   ]
 }

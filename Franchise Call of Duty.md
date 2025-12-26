@@ -39,5 +39,5 @@ content:
 - {{Fait ou anecdote 3}}
 
 ## Liens connexes
-- [[Lien vers une autre note]] (ex: un jeu spécifique, un développeur)
-- [Page Wikipédia](https://wikipedia.org)
+- [Livre de Netsabes](https://sebastien.delahaye.net/callofcoulisses/?ref=temalesjeux.fr)
+- 

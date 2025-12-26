@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-236.webp]]
 # Vince Zampella
 
 ## Présentation
@@ -60,7 +60,7 @@ if (tableData.length > 0) {
 Lister les prix et reconnaissances obtenues.
 
 ## Controverses ou Faits Marquants
-Évoquer les polémiques ou événements notables liés à cette personne.
+- Décédé dans un accident de voiture
 
 ## Sources et Références
 - [Lien vers une source](#)
