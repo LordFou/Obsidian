@@ -2,23 +2,23 @@
 type: game
 ---
 
-# Swordhaven - Conspiracy
+# Half-Life - Legacy
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[AtomTeam]]
+	- Studio : [[The Phoenix Project Software SVG]]
 	- Personnalités : 
-- **Éditeur** : [[AtomTeam]]
+- **Éditeur** : [[The Phoenix Project Software SVG]]
 - **Plateformes** : 
-- **Franchise** : 
-- **Genre** : [[RPG]]
+- **Franchise** : [[Franchise Half-Life]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[3D Isométrique]]
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :

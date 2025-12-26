@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# AtomTeam
+# Studio Rent
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,11 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                       | Genre | Plateformes |
-| ----- | --------------------------- | ----- | ----------- |
-| 2025  | [[Swordhaven - Iron Conspiracy]] | RPG   | PC          |
-|       | [[Atom RPG]]                | RPG   |             |
-|       | [[Atom RPG - Trudograd]]    | RPG   |             |
+| Année | Titre        | Genre          | Plateformes |
+| ----- | ------------ | -------------- | ----------- |
+| 2025  | [[Villainy]] | Déduction Game | PC          |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
