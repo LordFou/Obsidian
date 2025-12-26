@@ -8,9 +8,9 @@ type: game
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
+	- Studio : Bastinus Rex
 	- Personnalités : 
-		- Bastien Mahaut
+		- [[Bastien Mahaut]]
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
