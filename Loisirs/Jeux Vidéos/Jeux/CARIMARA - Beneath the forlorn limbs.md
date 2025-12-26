@@ -10,6 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
+		- Bastien Mahaut
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
