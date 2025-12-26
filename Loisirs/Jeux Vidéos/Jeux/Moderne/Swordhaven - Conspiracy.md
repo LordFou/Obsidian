@@ -1,30 +1,28 @@
 ---
 type: game
 ---
-![[image-238.webp]]
-# Terminator 2D - No Fate
+
+# Swordhaven - Conspiracy
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Bitmap Bureau]]
+	- Studio : [[AtomTeam]]
 	- Personnalités : 
-- **Éditeur** : [[Reef Entertainment]]
+- **Éditeur** : [[AtomTeam]]
 - **Plateformes** : 
-- **Franchise** : [[Franchise de Terminator]]
-- **Genre** : [[Plateforme]]
+- **Franchise** : 
+- **Genre** : [[RPG]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[Pixel Art]], [[Rétro]]
+- **Graphismes** : [[3D Isométrique]]
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- Superbe Pixel Art
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
-	- 1 heure mais 27€ à la sortie (ouch !)
 
 ## Histoire et Univers
 - **Lieu(x)** : 
@@ -32,15 +30,12 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- Terminator
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
-
-![[image-237.webp]]
 
 | Description | URL |
 | ----------- | --- |
