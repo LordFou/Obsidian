@@ -2,19 +2,19 @@
 type: game
 ---
 
-# Expelled !
+# Expelled!
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : inkle
+	- Studio : [[inkle]]
 	- Personnalités : 
-- **Éditeur** : inkle
+- **Éditeur** : [[inkle]]
 - **Plateformes** : PC, Switch
 - **Franchise** : 
 - **Genre** : Enquête
-- **Résumé** : 
+- **Résumé** : On y mène une enquête en moins d'une heure à chaque fois, en découvrant de nouveaux indices et en suivant de nouvelles pistes à chaque partie, jusqu'à la tentative finale
 
 ## Détails Techniques
 - **Moteur de jeu** : 

@@ -1,26 +1,27 @@
 ---
 type: game
 ---
-![[image-246.webp]]
-# Paper Animal Aventure
+![[image-247.webp]]
+# The Berlin Apartment
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Cuddling Raccoons Studio]]
+	- Studio : [[btf]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
+- **Éditeur** : [[btf]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Roguelike]]
-- **Résumé** : des animaux rondelets, un monde cubique, un feu de camp où discuter avec nos amis et des combats en temps réel. Un melting pot très réussi de plein de jeux comme les vieux Zelda, Final Fantasy et Paper Mario.
+- **Genre** : [[Aventure Narrative]]
+- **Résumé** : il peint une étonnante fresque à travers les époques, en donnant à voir plusieurs historiettes de locataires du même logement.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- POTY 2025 (izual)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -32,7 +33,7 @@ type: game
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
-- **Comparable à** :
+- **Comparable à** : 
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
