@@ -24,8 +24,8 @@ content:
 ## Jeux principaux
 | Titre                  | Année | Plateformes | Remarque |
 | ---------------------- | ----- | ----------- | -------- |
-| [[Half-Life - Legacy]] | 2025  |             |          |
 | [[Half-Life]]          |       |             |          |
+| [[Half-Life - Legacy]] | 2025  |             |          |
 
 
 ## Mécaniques et innovations

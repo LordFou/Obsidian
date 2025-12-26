@@ -2,17 +2,16 @@
 type: game
 ---
 
-# Baldur's Gate 3
+# Angelina Era
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Analgesic Productions]]
 	- Personnalités : 
-		- [[Amelia Tyler]] (Doublage)
-- **Éditeur** : 
-- **Plateformes** : 
+- **Éditeur** : [[Analgesic Productions]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** :
 - **Résumé** : 
@@ -21,7 +20,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 8/10 (CheckPoint)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -35,9 +35,9 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 20 millions de licences vendues
+- 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                          |
+| ----------- | ---------------------------- |
+| Trailer     | https://youtu.be/MxTp_owQobo |
