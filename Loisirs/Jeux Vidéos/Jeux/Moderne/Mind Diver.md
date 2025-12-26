@@ -2,27 +2,25 @@
 type: game
 ---
 
-# Sheepherds
+# Mind Diver
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Ultimo Disco]]
+	- Studio : [[Indoor Sunglasses]]
 	- Personnalités : 
-- **Éditeur** : [[Ultimo Disco]]
+- **Éditeur** : [[PLAYISM]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Simulation]] de chien de berger.
-- **Résumé** : Ce jeu paisible et coloré propose de diriger des troupeaux ovins à l'aide d'un adorable chien, qui les guide autour des obstacles et des champs de fleurs permettant de teindre leur laine.
-
+- **Genre** : [[Enquête]]
+- **Résumé** :  On plonge dans les souvenirs d'une victime amnésique, à la recherche de détails clés de son passé pour élucider une disparition inquiétante. S'ensuit une série d'implacables déductions logiques, à réaliser en furetant dans la mémoire de notre hôte.
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
-	- Izual 
-		- POTY de bronze 2025
+	- Encensé par [[Lucas Pope]]
 - **Gameplay** :
 - **Durée estimée** : 
 

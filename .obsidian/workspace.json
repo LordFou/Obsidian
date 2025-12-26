@@ -6,6 +6,7 @@
       {
         "id": "37d43b87eca39355",
         "type": "tabs",
+        "dimension": 64.48445171849427,
         "children": [
           {
             "id": "2ebeefd2456279b1",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Sheepherds.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Mind Diver.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sheepherds"
+              "title": "Mind Diver"
             },
             "group": "adb53edb863c710b"
           }
@@ -27,6 +28,7 @@
       {
         "id": "ae21073af914c3df",
         "type": "tabs",
+        "dimension": 35.51554828150573,
         "children": [
           {
             "id": "93a33877c7f5c56f",
@@ -34,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Sheepherds.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Mind Diver.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Sheepherds"
+              "title": "Graphique de Mind Diver"
             },
             "group": "adb53edb863c710b"
           }
@@ -98,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sheepherds",
+                "query": "Return of the Obra Dinn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -252,8 +254,13 @@
   },
   "active": "2ebeefd2456279b1",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Time Flies.md",
+    "Indoor Sunglasses.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Mind Diver.md",
+    "Lucas Pope.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Return of the Obra Dinn.md",
+    "Ultimo Disco.md",
     "Loisirs/Jeux Vidéos/Jeux/Sheepherds.md",
+    "Loisirs/Jeux Vidéos/Jeux/Time Flies.md",
     "Panic.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Herdling.md",
     "Playables.md",
@@ -275,13 +282,8 @@
     "The Phoenix Project Software SVG.md",
     "Franchise Half-Life.md",
     "Half-Life.md",
-    "Among Us.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Villainy.md",
-    "Studio Rent.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Swordhaven - Iron Conspiracy.md",
     "Attachments/image-239.webp",
-    "AtomTeam.md",
     "Attachments/image-238.webp",
     "Attachments/image-237.webp",
     "Attachments/Pasted image 20251226111345.png",
