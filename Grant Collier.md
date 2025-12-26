@@ -1,14 +1,14 @@
 ---
 type: personne
 ---
-![[image-236.webp]]
-# Vince Zampella
+
+# Grant Collier
 
 ## Présentation
 Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
 
 ## Informations Générales
-- **Date de naissance** :  1970 - 2025
+- **Date de naissance** :  
 - **Nationalité** :  
 - **Profession(s)** : (Développeur, Designer, Compositeur, Journaliste, etc.)  
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
@@ -60,7 +60,7 @@ if (tableData.length > 0) {
 Lister les prix et reconnaissances obtenues.
 
 ## Controverses ou Faits Marquants
-- Décédé dans un accident de voiture => [Article PC Gamer](https://www.pcgamer.com/games/vince-zampella-the-co-founder-of-infinity-ward-and-head-of-battlefield-dies-in-car-crash/)
+Évoquer les polémiques ou événements notables liés à cette personne.
 
 ## Sources et Références
 - [Lien vers une source](#)

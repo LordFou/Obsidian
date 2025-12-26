@@ -2,28 +2,26 @@
 type: game
 ---
 
-# Battlefield 6
+# Medal of Honor - Allied Assault
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Battlefield Studio]]
+	- Studio : 
 	- Personnalités : 
-		- [[Vince Zampella]] (à la tête de la licence ?)
-- **Éditeur** : [[Electronic Arts]]
+		- [[Vince Zampella]] (Lead Designer)
+- **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Battlefield]]
-- **Genre** : [[FPS]]
+- **Franchise** : 
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-	- Battlefield Portal : Editeur communautaire
-- **Graphismes** : 3D
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 7/10 (Canard PC)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 

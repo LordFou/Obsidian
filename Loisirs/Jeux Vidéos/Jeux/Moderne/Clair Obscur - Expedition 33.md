@@ -51,6 +51,9 @@ type: game
 	- Xenoblade (univers disloqué et dément)
 ## Anecdotes et Curiosités
 - Le jeu est présenté comme une œuvre où peinture, littérature, musique et jeu vidéo convergent.
+
+# Polémiques
+- Après avoir découvert que le jeu se ser
 ## Liens et Ressources
 
 | Description | URL                                                                                          |
