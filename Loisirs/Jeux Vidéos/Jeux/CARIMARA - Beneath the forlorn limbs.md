@@ -1,27 +1,26 @@
 ---
 type: game
 ---
-
-# Angelina Era
+![[image-240.webp]]
+# CARIMARA - Beneath the forlorn limbs
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Analgesic Productions]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Analgesic Productions]]
-- **Plateformes** : [[PC]]
+- **Éditeur** : 
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Survival Horror]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[3D Isométrique]]
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 8/10 (CheckPoint)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -38,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/MxTp_owQobo |
+| Description | URL |
+| ----------- | --- |
+|             |     |
