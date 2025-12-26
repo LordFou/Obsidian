@@ -24,9 +24,10 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre         | Genre   | Plateformes |
-| ----- | ------------- | ------- | ----------- |
-| 2025  | [[Expelled!]] | Enquête | PC, Swit    |
+| Année | Titre          | Genre   | Plateformes     |
+| ----- | -------------- | ------- | --------------- |
+| 2025  | [[Expelled!]]  | Enquête | PC, Switch, Ios |
+|       | [[Overboard!]] | Enquête |                 |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

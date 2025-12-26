@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inkle.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Expelled!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "inkle"
+              "title": "Expelled!"
             },
             "group": "adb53edb863c710b"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "inkle.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Expelled!.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de inkle"
+              "title": "Graphique de Expelled!"
             },
             "group": "adb53edb863c710b"
           }
@@ -255,8 +255,10 @@
   },
   "active": "2ebeefd2456279b1",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Expelled!.md",
+    "Attachments/image-248.webp",
     "inkle.md",
+    "Overboard!.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Expelled!.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Berlin Apartment.md",
     "btf.md",
     "Attachments/image-247.webp",
@@ -285,8 +287,6 @@
     "Ultimo Disco.md",
     "Loisirs/Jeux Vidéos/Jeux/Sheepherds.md",
     "Loisirs/Jeux Vidéos/Jeux/Time Flies.md",
-    "Panic.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Herdling.md",
     "Attachments/image-241.webp",
     "Attachments/image-240.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",

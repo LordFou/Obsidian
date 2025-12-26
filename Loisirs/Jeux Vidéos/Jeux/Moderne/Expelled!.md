@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-248.webp]]
 # Expelled!
 
 ## Informations Générales
