@@ -14,7 +14,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Personnalités** :
 	- Corto Laly (Directeur Créatif)
 	- François de la Taste
-- **Pays d’origine** : France (Bretagne)
+- **Pays d’origine** : France (Bretagne - Rennes)
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 - **Nrb Personnes** : 10

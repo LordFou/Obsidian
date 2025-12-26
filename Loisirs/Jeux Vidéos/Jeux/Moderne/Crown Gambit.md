@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-![[Pasted image 20250606213825.jpg]]
+![[image-241.webp]]
 # Crown Gambit
 
 ## Informations Générales
@@ -40,6 +40,7 @@ type: game
 		- -- : Equilibrage
 	- [[Izual]]
 		- Sa direction artistique aux petits oignons, ses personnages intrigants (notamment le chevalier-candélabre) et son atmosphère crépusculaire lui octroient une personnalité du tonnerre. Quant à ses mécaniques, elles ne déméritent pas avec des combats tactiques qui reposent sur un concept – pas nouveau mais toujours efficace – de lignes à défendre avec des capacités aux effets en croix ou en colonne.
+		- POTY 2025 (Petit jeu de l'année 2025 : -400 évaluations steam )
 - **Gameplay** :
 	- Le champ de bataille (là où on place/joue les cartes) varie en fonction des lieux de l'histoire
 - **Durée estimée** : 
