@@ -53,7 +53,7 @@ type: game
 - Le jeu est présenté comme une œuvre où peinture, littérature, musique et jeu vidéo convergent.
 
 # Polémiques
-- Après avoir découvert que le jeu se ser
+- Après avoir découvert que le jeu se sert de l'IA pour générer certains assets, l'organisation des jeux indépendants lui retirera son prix de l'année => [Article](https://www.videogameschronicle.com/news/clair-obscur-expedition-33-game-of-the-year-award-pulled-after-admitting-to-generative-ai-use/)
 ## Liens et Ressources
 
 | Description | URL                                                                                          |
