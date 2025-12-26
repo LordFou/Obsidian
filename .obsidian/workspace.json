@@ -13,13 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wild Wits.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Sheepherds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wild Wits"
-            }
+              "title": "Sheepherds"
+            },
+            "group": "adb53edb863c710b"
+          }
+        ]
+      },
+      {
+        "id": "ae21073af914c3df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93a33877c7f5c56f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Sheepherds.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graphique de Sheepherds"
+            },
+            "group": "adb53edb863c710b"
           }
         ]
       }
@@ -53,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Crown Gambit",
+                "query": "Sheepherds",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +129,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,6 +252,12 @@
   },
   "active": "2ebeefd2456279b1",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Time Flies.md",
+    "Loisirs/Jeux Vidéos/Jeux/Sheepherds.md",
+    "Panic.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Herdling.md",
+    "Playables.md",
+    "Wild Wits.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Crown Gambit.md",
     "Attachments/image-241.webp",
     "Lucinda Brand.md",
@@ -232,12 +282,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Swordhaven - Iron Conspiracy.md",
     "Attachments/image-239.webp",
     "AtomTeam.md",
-    "Atom RPG - Trudograd.md",
-    "Atom RPG.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Terminator 2D - No Fate.md",
-    "Rétro.md",
-    "Reef Entertainment.md",
-    "Bitmap Bureau.md",
     "Attachments/image-238.webp",
     "Attachments/image-237.webp",
     "Attachments/Pasted image 20251226111345.png",
