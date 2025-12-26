@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/CARIMARA - Beneath the forlorn limbs.md",
+                "file": "Loisirs/Internet/Les perles du net.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CARIMARA - Beneath the forlorn limbs"
+              "title": "Les perles du net"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Angelina",
+                "query": "perles",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,8 +208,9 @@
   },
   "active": "2ebeefd2456279b1",
   "lastOpenFiles": [
-    "Bastien Mahaut.md",
+    "Exemple - Harcèlement erroné sur internet.md",
     "Loisirs/Jeux Vidéos/Jeux/CARIMARA - Beneath the forlorn limbs.md",
+    "Bastien Mahaut.md",
     "Attachments/image-240.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Angelina Era.md",
     "Analgesic Productions.md",
@@ -238,7 +240,6 @@
     "Coffee Stain Studios.md",
     "Attachments/Pasted image 20251226111345.png",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Marathon.md",
-    "Bungie.md",
     "Attachments/image-236.webp",
     "Attachments/image-235.webp",
     "Attachments/image-234.webp",
