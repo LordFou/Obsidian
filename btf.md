@@ -24,9 +24,11 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre         | Genre              | Plateformes           |
-| ----- | ------------- | ------------------ | --------------------- |
-| 2025  | [[Constance]] | Action, Plateforme | PC, PS5, Xbox, Switch |
+| Année | Titre                    | Genre              | Plateformes           |
+| ----- | ------------------------ | ------------------ | --------------------- |
+| 2025  | [[Constance]]            | Action, Plateforme | PC, PS5, Xbox, Switch |
+| 2025  | [[The Berlin Apartment]] | Aventure narrative | PC                    |
+|       |                          |                    |                       |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

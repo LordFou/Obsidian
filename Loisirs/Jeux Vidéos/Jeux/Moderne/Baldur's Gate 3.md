@@ -35,7 +35,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- 20 millions de licences vendues
 ## Liens et Ressources
 
 | Description | URL |

@@ -14,7 +14,7 @@ type: game
 		- [[Exaheva]] (Illustratrice)
 		- [[Nico Nowak]] (Pixel Artist)
 - **Éditeur** : Arte
-- **Plateformes** : Pc, Mac 
+- **Plateformes** : [[PC]], [[Mac]] 
 - **Genre** : [[Serious Game]], [[Visual Novel]], [[Tycoon]]
 - **Résumé** : Jeu racontant une histoire d'un certain Timothé qui a subi ou subit des abus sexuels. On ne voit rien, mais on vit son histoire à travers les choix des personnages qui gravitent autour de lui. Et du coup, on vit, on réfléchit à ce problème.
 

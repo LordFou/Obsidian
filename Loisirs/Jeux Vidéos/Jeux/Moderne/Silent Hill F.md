@@ -8,9 +8,9 @@ type: game
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Konami]]
+	- Studio : [[Neobards Entertainment]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Konami]]
 - **Plateformes** : PC, [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : [[Franchise Silent Hill|Silent Hill]]
 - **Genre** : [[Survival Horror]]
@@ -25,6 +25,7 @@ type: game
 		- Ambiance vieux Silent Hill qui fonctionne bien
 		- Monster Design est vraiment bien bien
 		- Combats bof bof
+		- 8/10
 - **Gameplay** :
 - **Durée estimée** : 
 

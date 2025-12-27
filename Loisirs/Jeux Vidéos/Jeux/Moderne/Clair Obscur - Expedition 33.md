@@ -1,6 +1,7 @@
 ---
 type: game
 ---
+
 # Clair Obscur - Expedition 33
 
 ## Informations Générales
@@ -23,6 +24,9 @@ type: game
 	- ![[Pasted image 20250505112328.png]]
 - **Réception critique** : 
 	- 8/10 ([[Canard PC]]) => "On cherche ce qui ne va pas mais en fait ce jeu est vraiment top"
+	- ==Game of the Year 2025==
+	  ![[image-234.webp]]
+	- 5 millions d'exemplaires en 5 mois
 - **Gameplay** :
 
 ## Histoire et Univers
@@ -47,6 +51,9 @@ type: game
 	- Xenoblade (univers disloqué et dément)
 ## Anecdotes et Curiosités
 - Le jeu est présenté comme une œuvre où peinture, littérature, musique et jeu vidéo convergent.
+
+# Polémiques
+- Après avoir découvert que le jeu se sert de l'IA pour générer certains assets, l'organisation des jeux indépendants lui retirera son prix de l'année => [Article](https://www.videogameschronicle.com/news/clair-obscur-expedition-33-game-of-the-year-award-pulled-after-admitting-to-generative-ai-use/)
 ## Liens et Ressources
 
 | Description | URL                                                                                          |

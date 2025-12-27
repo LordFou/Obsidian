@@ -8,9 +8,9 @@ type: game
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Critical Reflex]]
+	- Studio : [[Trioskaz]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Critical Reflex]]
 - **Plateformes** : PC
 - **Franchise** : 
 - **Genre** : [[Survival Horror]]
@@ -20,7 +20,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : ?
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 6/10 (Canard PC)
 - **Gameplay** :
 - **Durée estimée** : 
 

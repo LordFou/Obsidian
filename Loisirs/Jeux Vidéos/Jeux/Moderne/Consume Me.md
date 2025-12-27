@@ -2,38 +2,34 @@
 type: game
 ---
 
-# Expelled !
+# Consume Me
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : inkle
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : inkle
-- **Plateformes** : PC, Switch
+- **Éditeur** : 
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : Enquête
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : 2D
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 8/10 (Canard PC)
-		- Très bien écrit
-- **Gameplay** : 
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : Angleterre
-- **Epoque** : Années 1920
+- **Lieu(x)** : 
+- **Epoque** : 
 - **Personnages principaux** : 
-	- Verity Amersham
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- La vie en pensionnat
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

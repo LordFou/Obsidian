@@ -24,8 +24,8 @@ content:
 ## Jeux principaux
 | Titre       | Année | Plateformes | Remarque |
 | ----------- | ----- | ----------- | -------- |
-| [[Hades]]   |       |             |          |
-| [[Hades 2]] |       |             |          |
+| [[Hades]]   | 2020  |             |          |
+| [[Hades 2]] | 2025  |             |          |
 
 
 ## Mécaniques et innovations

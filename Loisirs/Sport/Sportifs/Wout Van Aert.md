@@ -63,6 +63,7 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 | 2025  | [[Tour d'Allemagne]] - 1e étape                                   | 5e       | CLM                                                                        |
 | 2025  | CXWorldCup - Coupe du Monde - 5e Manche - Anvers (Belgique)       | 7e       |                                                                            |
 | 2025  | X2O - Cross Hofstade                                              | 2e       |                                                                            |
+| 2025  | Cross Heusden-Zolder -  Superprestige                             | 2e       |                                                                            |
 ![[Pasted image 20250415003019.png]]
 # Style et Caractéristiques
 - Humain

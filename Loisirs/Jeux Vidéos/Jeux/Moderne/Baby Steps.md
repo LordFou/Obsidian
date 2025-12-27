@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : [[Gabe Cuzzillo]], [[Bennett Foddy]], [[Maxi Boch]] (Dev)
-- **Éditeur** : [[Devolver Digital]]
+- **Éditeur** : [[Devolver]]
 - **Plateformes** : PC, [[PlayStation 5]]
 - **Franchise** : 
 - **Genre** : [[Simulation]]
@@ -34,7 +34,7 @@ type: game
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
-- **Comparable à** :
+- **Comparable à** : [[Getting Over It]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources

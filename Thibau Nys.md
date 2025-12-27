@@ -13,16 +13,18 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                                                | Résultat | Remarque |
-| ----- | ------------------------------------------------------------------------------------------ | -------- | -------- |
-| 2024  | [[Championnat d'Europe de Cyclocross\|Champ. Europe]]                                      | 1ier     |          |
-| 2025  | [[Critérium d'Alost]]                                                                      | 3e       |          |
-| 2025  | [[Critérium de Roulers]]                                                                   | 3e       |          |
-| 2025  | [[Cross de Koppenberg]]                                                                    | 1ier     |          |
-| 2025  | [[Cross de Hamme]]                                                                         | 1ier     |          |
-| 2025  | Coupe du Monde de Cyclocross - Tabor (République Tchèque)                                  | 1ier     |          |
-| 2025  | Coupe du Monde de Cyclocross - Flamanville (France)                                        | 1ier     |          |
-| 2025  | Coupe du Monde de Cyclocross - [[Cyclocross de la Citadelle de Namur\|Citadelle de Namur]] | 2e       |          |
+| Année | Compétition                                                              | Résultat | Remarque                          |
+| ----- | ------------------------------------------------------------------------ | -------- | --------------------------------- |
+| 2024  | [[Championnat d'Europe de Cyclocross\|Champ. Europe]]                    | 1ier     |                                   |
+| 2025  | [[Critérium d'Alost]]                                                    | 3e       |                                   |
+| 2025  | [[Critérium de Roulers]]                                                 | 3e       |                                   |
+| 2025  | [[Cross de Koppenberg]]                                                  | 1ier     |                                   |
+| 2025  | [[Cross de Hamme]]                                                       | 1ier     |                                   |
+| 2025  | CXWorldCup - Tabor (République Tchèque)                                  | 1ier     |                                   |
+| 2025  | CXWorldCup - Flamanville (France)                                        | 1ier     |                                   |
+| 2025  | CXWorldCup - [[Cyclocross de la Citadelle de Namur\|Citadelle de Namur]] | 2e       | derrière [[Mathieu van der Poel]] |
+| 2025  | CXWorldCup - 7e manche - Cross de Gavere                                 | 2e       | derrière [[Mathieu van der Poel]] |
+|       |                                                                          |          |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Battlefield
+# Franchise Half-Life
 
 
 ## Informations générales
@@ -22,9 +22,10 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre         | Année | Plateformes | Remarque |
-| ------------- | ----- | ----------- | -------- |
-| Battlefield 6 |       |             |          |
+| Titre                  | Année | Plateformes | Remarque |
+| ---------------------- | ----- | ----------- | -------- |
+| [[Half-Life]]          |       |             |          |
+| [[Half-Life - Legacy]] | 2025  |             |          |
 
 
 ## Mécaniques et innovations

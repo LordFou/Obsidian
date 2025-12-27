@@ -21,7 +21,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 8/10 (Canard Pc)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -31,6 +32,7 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Ecologie]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

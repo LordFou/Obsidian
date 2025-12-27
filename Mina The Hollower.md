@@ -34,7 +34,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Date de sortie repoussée de quelques semaines
 ## Liens et Ressources
 
 | Description | URL |

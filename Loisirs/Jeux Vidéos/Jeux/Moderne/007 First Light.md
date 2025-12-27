@@ -6,7 +6,7 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 2026 (?)
+- **Année de sortie** : Mai 2026 (?)
 - **Développeur** : 
 	- Studio : [[IO Interactive]] 
 	- Personnalités : 
@@ -40,7 +40,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- A été retardé une fois de Mars à Mai 2026
 ## Liens et Ressources
 
 | Description      | URL                          |

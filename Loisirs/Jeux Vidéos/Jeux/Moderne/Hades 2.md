@@ -23,6 +23,7 @@ type: game
 - **Graphismes** : 2,5D
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
+	- 8/10 (Canard Pc)
 	- CheckPoint
 	  ![[image-119.webp|510x305]]
 - **Gameplay** :
