@@ -6,7 +6,6 @@
       {
         "id": "549f7c86fd56ce59",
         "type": "tabs",
-        "dimension": 63.62973760932945,
         "children": [
           {
             "id": "8e973f0f32d86818",
@@ -20,70 +19,9 @@
               },
               "icon": "lucide-file",
               "title": "2025-12-27"
-            },
-            "group": "8680513a05281d44"
-          }
-        ]
-      },
-      {
-        "id": "adcf3f1d2908f179",
-        "type": "tabs",
-        "dimension": 36.370262390670554,
-        "children": [
-          {
-            "id": "12aaa866bfb4ef34",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Journal de bord/2025-12-23.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224425,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-12-23"
-            },
-            "group": "8680513a05281d44"
-          },
-          {
-            "id": "97738a669df05ad3",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "recalbox",
+                "query": "ghost",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -266,7 +204,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8e973f0f32d86818",
+  "active": "c8ddbab28469fc36",
   "lastOpenFiles": [
     "Journal de bord/2025-12-23.md",
     "Journal de bord/2025-12-27.md",
