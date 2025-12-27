@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2025-12-23.md",
+                "file": "Journal de bord/2025-12-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-23"
+              "title": "2025-12-27"
             },
             "group": "8680513a05281d44"
           }
@@ -266,10 +266,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "8e973f0f32d86818",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Journal de bord/2025-12-23.md",
+    "Journal de bord/2025-12-27.md",
+    "conflict-files-obsidian-git.md",
     "Loisirs/Sport/Compétitions/Cross des dunes.md",
     "Learner Tien.md",
     "Journal de bord/2025-12-22.md",
@@ -297,7 +298,6 @@
     "Loisirs/Sport/Sportifs/Ajay Mitchell.md",
     "Barry Mitchell.md",
     "Loisirs/Sport/Sportifs/Julie Vanloo.md",
-    "Euro de Basket.md",
     "Attachments/image-227.webp",
     "Attachments/image-226.webp",
     "Attachments/image-225.webp",
