@@ -6,6 +6,7 @@
       {
         "id": "dc349b6b55f59a1a",
         "type": "tabs",
+        "dimension": 66.11405835543766,
         "children": [
           {
             "id": "3c596a8973160c74",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Avowed.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dispatch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Avowed"
+              "title": "Dispatch"
             },
             "group": "e9888f3eff57ebb1"
           }
@@ -27,6 +28,7 @@
       {
         "id": "54433040a753d18f",
         "type": "tabs",
+        "dimension": 33.88594164456234,
         "children": [
           {
             "id": "22f370a6b5cdfe34",
@@ -34,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Avowed.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dispatch.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -58,11 +60,11 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Avowed"
+              "title": "Graphique de Dispatch"
             },
             "group": "e9888f3eff57ebb1"
           }
@@ -85,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Donke",
+                "query": "Dispatch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,11 +179,12 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 368.5
   },
   "right": {
     "id": "2a4328d55d7357ae",
@@ -231,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,18 +253,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "22f370a6b5cdfe34",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Split Fiction.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dispatch.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Donkey Kong Bananza.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Avowed.md",
     "Kaï.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Gravity Circuit.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Avowed.md",
     "Brandon Keener.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost of Yoteï.md",
     "Erika Ishii.md",
     "Journal de bord/2025-12-27.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost of Tsushima.md",
     "conflict-files-obsidian-git.md",
-    "Loisirs/Jeux Vidéos/Jeux/Sheepherds.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sheepherds.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Aliens.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Villainy.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The RPG.md",
@@ -271,12 +278,9 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Artificial Nexus.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Ape Out.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Angelina Era.md",
-    "Loisirs/Jeux Vidéos/Jeux/CARIMARA - Beneath the forlorn limbs.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/CARIMARA - Beneath the forlorn limbs.md",
     "Loisirs/Jeux Vidéos/Catégories/3D Isométrique.md",
     "Little Sewing Machine.md",
-    "Journal de bord/2025-12-25.md",
-    "Jason West.md",
-    "Indoor Sunglasses.md",
     "Attachments/image-248.webp",
     "Attachments/image-247.webp",
     "Attachments/image-246.webp",

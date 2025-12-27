@@ -2,27 +2,26 @@
 type: game
 ---
 
-# Split Fiction
+# Dispatch
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Hazelight Studios]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Electronic Arts]]
+- **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action]], [[Coopération]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 7/10 (Canard PC)
-- **Gameplay** : Coopération
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
