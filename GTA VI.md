@@ -34,6 +34,9 @@ type: game
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - Sortie repoussée 2 fois, ce qui embête bien les autres jeux qui ne veulent pas sortir en même temps que ce mastodonte.
+
+# Polémiques
+- 1 an avant la sortie
 ## Liens et Ressources
 
 | Description | URL |

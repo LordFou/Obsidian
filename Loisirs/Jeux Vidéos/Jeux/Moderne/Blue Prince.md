@@ -9,7 +9,7 @@ type: game
 - **Année de sortie** : 2025
 - **Développeur** : 
 	- Studio : [[Dogubomb]]
-	- Personnalités : [[Tonda Rons]]
+	- Personnalités : [[Tonda Ros]]
 - **Éditeur** : [[Raw Fury]]
 - **Plateformes** : 
 - **Franchise** : 

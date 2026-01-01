@@ -2,7 +2,7 @@
 type: personne
 ---
 
-# Tonda Rons
+# Tonda Ros
 
 ## Présentation
 Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
@@ -15,9 +15,9 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 
 ```timeline-labeled
 [line-5, body-2]
-date:   
-title: 
-content:
+date: Décembre 2025  
+title: Tonda annonce qu'elle ne fera pas d'autre jeu
+content: elle a l'ambition de faire un long métrage et du coup n'aura plus le temps pour les jeux vidéos.
 ```
 
 
@@ -63,5 +63,5 @@ Lister les prix et reconnaissances obtenues.
 Évoquer les polémiques ou événements notables liés à cette personne.
 
 ## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+- http://www.tondaros.com/index.html
+- https://www.imdb.com/fr/name/nm4033320/
