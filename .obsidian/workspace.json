@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dispatch.md",
+                "file": "Journal de bord/2026-01-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dispatch"
+              "title": "2026-01-01"
             },
             "group": "e9888f3eff57ebb1"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dispatch.md",
+                "file": "Journal de bord/2026-01-01.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Dispatch"
+              "title": "Graphique de 2026-01-01"
             },
             "group": "e9888f3eff57ebb1"
           }
@@ -253,10 +253,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "22f370a6b5cdfe34",
+  "active": "3c596a8973160c74",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Split Fiction.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Dispatch.md",
+    "Journal de bord/2026-01-01.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Split Fiction.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Donkey Kong Bananza.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Avowed.md",
     "Kaï.md",
@@ -280,7 +281,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Angelina Era.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/CARIMARA - Beneath the forlorn limbs.md",
     "Loisirs/Jeux Vidéos/Catégories/3D Isométrique.md",
-    "Little Sewing Machine.md",
     "Attachments/image-248.webp",
     "Attachments/image-247.webp",
     "Attachments/image-246.webp",
