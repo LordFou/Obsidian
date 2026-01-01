@@ -2,25 +2,26 @@
 type: game
 ---
 
-# Europa Universalis V
+# ARC Raiders
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Paradox Tinto]]
+	- Studio : [[Embark Studios]]
 	- Personnalités : 
-- **Éditeur** :  [[Paradox Interactive]]
-- **Plateformes** : [[PC]]
-- **Franchise** : [[Franchise Europa Universalis]]
-- **Genre** : [[Stratégie]]
+- **Éditeur** : [[Embark Studios]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
+- **Franchise** : 
+- **Genre** : [[Extraction-Shooter]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 3D
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 8/10 (Canard PC)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -32,7 +33,7 @@ type: game
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
-- **Comparable à** :
+- **Comparable à** : [[Escape From Tarkov]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
