@@ -35,6 +35,8 @@ type: game
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - Collab avec [[Balatro]] (Ante Chamber) sur un DLC en nov 2025
+- DLC en hommage à [[Franchise Castlevania||Castlevania]]
+- DLC dans le monde de [[Warhammer]]
 ## Liens et Ressources
 
 | Description | URL |

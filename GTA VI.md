@@ -36,7 +36,7 @@ type: game
 - Sortie repoussée 2 fois, ce qui embête bien les autres jeux qui ne veulent pas sortir en même temps que ce mastodonte.
 
 # Polémiques
-- 1 an avant la sortie
+- 1 an avant la sortie, [[Rockstar]] vire une trentaine de ses salariés.
 ## Liens et Ressources
 
 | Description | URL |

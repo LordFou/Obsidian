@@ -1,5 +1,8 @@
+---
+type: game
+---
 
-# Castlevania
+# Franchise Castlevania
 
 
 ## Informations générales
