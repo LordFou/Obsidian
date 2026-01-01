@@ -2,27 +2,26 @@
 type: game
 ---
 
-# GTA V
+# GTA VI
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026 (?)
 - **Développeur** : 
 	- Studio : [[Rockstar]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Rockstar]]
 - **Plateformes** : 
 - **Franchise** : [[Franchise GTA]]
-- **Genre** :
+- **Genre** : 
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : (Type de musique, Bande-son notable)
+- **Graphismes** : 3D
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-- **Gameplay** : 
-	- GTA Online
+- **Gameplay** :
+- **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
@@ -34,8 +33,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- Le mode online permet aux joueurs d'organiser des vraies séances de rôle play. On peut citer par exemple :
-	- Une représentation de la pièce de [[Shakespeare]] : [[Hamlet]]
+- Sortie repoussée 2 fois, ce qui embête bien les autres jeux qui ne veulent pas sortir en même temps que ce mastodonte.
 ## Liens et Ressources
 
 | Description | URL |

@@ -18,7 +18,7 @@ type: game
 | Titre            | Année     | Plateformes     | Remarque         |
 | ---------------- | --------- | --------------- | ---------------- |
 | [[GTA V]]        | {{Année}} | All             | {{Info notable}} |
-| {{Nom du jeu 2}} | {{Année}} | {{Plateformes}} | {{Info notable}} |
+| [[GTA VI]]       | 2026 (?)  | {{Plateformes}} | {{Info notable}} |
 | {{Nom du jeu 3}} | {{Année}} | {{Plateformes}} | {{Info notable}} |
 
 ## Mécaniques et innovations
