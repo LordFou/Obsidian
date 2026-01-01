@@ -24,7 +24,7 @@ content:
 ## Jeux principaux
 | Titre                    | Année | Plateformes | Remarque |
 | ------------------------ | ----- | ----------- | -------- |
-| [[Europa Universalis V]] | 2025  |             |          |
+| [[Europa Universalis V]] | 2025  | PC          |          |
 
 
 ## Mécaniques et innovations
