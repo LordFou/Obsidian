@@ -13,10 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                           | Résultat | Remarque |
-| ----- | ------------------------------------- | -------- | -------- |
-| 2025  | Cross Heusden-Zolder -  Superprestige | 1ier     |          |
-| 2025  |                                       |          |          |
+| Année | Compétition                                   | Résultat | Remarque |
+| ----- | --------------------------------------------- | -------- | -------- |
+| 2025  | CXWorldCup - 8e manche - Cross de Dendermonde | 2e       |          |
+| 2025  | Superprestige - Cross Heusden-Zolder          | 1ier     |          |
+| 2025  | Superprestige - Cross Diegem                  | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

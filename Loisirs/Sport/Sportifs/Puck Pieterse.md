@@ -2,22 +2,20 @@
 type: personne
 ---
 
-# Laurens Sweeck
+# Puck Pieterse
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** : Belge
-- **Sport / Discipline** : [[Cyclocross]]  
+- **Nationalité** :  Néerlandaise
+- **Sport / Discipline** :  [[Cyclocross]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                   | Résultat | Remarque |
-| ----- | --------------------------------------------- | -------- | -------- |
-| 2025  | [[Jaarmarktcross]]                            | 1ier     |          |
-| 2025  | [[Cross des dunes]] - CxWorldCup - 6e manche  | 2e       |          |
-| 2025  | CXWorldCup - 8e manche - Cross de Dendermonde | 3e       |          |
+| Année | Compétition                  | Résultat | Remarque |
+| ----- | ---------------------------- | -------- | -------- |
+| 2025  | Superprestige - Cross Diegem | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -26,6 +26,8 @@ type: personne
 | 2025  | X2O - Cross Hofstade                                                     | 1ière    |          |
 | 2025  | CXWorldCup - 7e manche - Cross de Gavere                                 | 1ière    |          |
 | 2025  | X2O - Cross Baal                                                         | 1ière    |          |
+| 2025  | Cross de Loenhout                                                        | 1ière    |          |
+
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
