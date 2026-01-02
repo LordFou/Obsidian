@@ -25,6 +25,7 @@ type: personne
 | 2025  | CXWorldCup - 6e manche - [[Cross des dunes]]                             | 1ière    |          |
 | 2025  | X2O - Cross Hofstade                                                     | 1ière    |          |
 | 2025  | CXWorldCup - 7e manche - Cross de Gavere                                 | 1ière    |          |
+| 2025  | X2O - Cross Baal                                                         | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

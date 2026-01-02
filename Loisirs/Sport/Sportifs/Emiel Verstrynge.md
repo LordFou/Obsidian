@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Tibor Del Grosso
+# Emiel Verstrynge
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Néerlandais
-- **Sport / Discipline** :  [[Cyclocross]]
+- **Nationalité** :  Belge
+- **Sport / Discipline** : [[Cyclocross]] 
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                           | Résultat | Remarque |
-| ----- | ------------------------------------- | -------- | -------- |
-| 2025  | Cross Heusden-Zolder -  Superprestige | 1ier     |          |
-| 2025  |                                       |          |          |
+| Année | Compétition                  | Résultat | Remarque                          |
+| ----- | ---------------------------- | -------- | --------------------------------- |
+| 2025  | X2O - 6e manche - Cross Baal | 2e       | Derrière [[Mathieu van der Poel]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
