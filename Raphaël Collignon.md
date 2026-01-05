@@ -24,6 +24,7 @@ type: personne
 | 2025  | [[ATP - Tournoi de Bruxelles]]   | Demi-finale                |                                                                                      |
 | 2025  | [[Coupe Davis]] - 1/4 finale     | Victoire                   | Contre la France                                                                     |
 | 2025  | [[Coupe Davis]] - 1/2 finale     | Défaite                    | Contre l'Italie                                                                      |
+| 2026  | [[ATP - Tournoi de Brisbane]]    | Qualifié                   |                                                                                      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
