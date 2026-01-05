@@ -60,7 +60,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
@@ -234,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5,
-    "collapsed": true
+    "width": 390.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,7 +252,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ebeefd2456279b1",
+  "active": "93a33877c7f5c56f",
   "lastOpenFiles": [
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Expelled!.md",
     "Journal de bord/2026-01-05.md",
