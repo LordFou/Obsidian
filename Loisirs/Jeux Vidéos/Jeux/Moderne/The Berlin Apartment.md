@@ -22,6 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- POTY 2025 (izual)
+	- 6/10 (Canard PC)
 - **Gameplay** :
 - **Durée estimée** : 
 

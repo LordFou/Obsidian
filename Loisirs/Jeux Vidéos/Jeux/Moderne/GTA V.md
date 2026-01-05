@@ -1,4 +1,6 @@
-
+---
+type: game
+---
 
 # GTA V
 
@@ -10,7 +12,7 @@
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise GTA]]
 - **Genre** :
 - **Résumé** : 
 

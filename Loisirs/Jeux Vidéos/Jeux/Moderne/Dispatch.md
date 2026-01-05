@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Vampire Survivor
+# Dispatch
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2025
 - **Développeur** : 
 	- Studio : 
-	- Personnalités : [[Poncle]]
+	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : All
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Vampire Survivor Like]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -34,9 +34,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- Collab avec [[Balatro]] (Ante Chamber) sur un DLC en nov 2025
-- DLC en hommage à [[Franchise Castlevania||Castlevania]]
-- DLC dans le monde de [[Warhammer]]
+- 
 ## Liens et Ressources
 
 | Description | URL |

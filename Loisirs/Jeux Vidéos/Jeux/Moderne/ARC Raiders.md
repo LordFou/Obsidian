@@ -2,25 +2,26 @@
 type: game
 ---
 
-# Vampire Survivor
+# ARC Raiders
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
-	- Personnalités : [[Poncle]]
-- **Éditeur** : 
-- **Plateformes** : All
+	- Studio : [[Embark Studios]]
+	- Personnalités : 
+- **Éditeur** : [[Embark Studios]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Vampire Survivor Like]]
+- **Genre** : [[Extraction-Shooter]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 3D
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 8/10 (Canard PC)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -32,11 +33,9 @@ type: game
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
-- **Comparable à** :
+- **Comparable à** : [[Escape From Tarkov]]
 ## Anecdotes et Curiosités
-- Collab avec [[Balatro]] (Ante Chamber) sur un DLC en nov 2025
-- DLC en hommage à [[Franchise Castlevania||Castlevania]]
-- DLC dans le monde de [[Warhammer]]
+- 
 ## Liens et Ressources
 
 | Description | URL |

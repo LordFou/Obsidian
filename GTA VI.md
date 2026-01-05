@@ -2,24 +2,23 @@
 type: game
 ---
 
-# Vampire Survivor
+# GTA VI
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026 (?)
 - **Développeur** : 
-	- Studio : 
-	- Personnalités : [[Poncle]]
-- **Éditeur** : 
-- **Plateformes** : All
-- **Franchise** : 
-- **Genre** : [[Vampire Survivor Like]]
+	- Studio : [[Rockstar]]
+	- Personnalités : 
+- **Éditeur** : [[Rockstar]]
+- **Plateformes** : 
+- **Franchise** : [[Franchise GTA]]
+- **Genre** : 
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : (Type de musique, Bande-son notable)
+- **Graphismes** : 3D
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
@@ -34,9 +33,10 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- Collab avec [[Balatro]] (Ante Chamber) sur un DLC en nov 2025
-- DLC en hommage à [[Franchise Castlevania||Castlevania]]
-- DLC dans le monde de [[Warhammer]]
+- Sortie repoussée 2 fois, ce qui embête bien les autres jeux qui ne veulent pas sortir en même temps que ce mastodonte.
+
+# Polémiques
+- 1 an avant la sortie, [[Rockstar]] vire une trentaine de ses salariés.
 ## Liens et Ressources
 
 | Description | URL |

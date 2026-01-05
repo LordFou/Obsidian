@@ -6,10 +6,10 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : [[2025]]
+- **Année de sortie** : 2025
 - **Développeur** : 
 	- Studio : [[Obsidian]]
-	- Personnalités : 
+	- Personnalités : [[Brandon Keener]] (Interprête [[Kaï]])
 - **Éditeur** : [[Xbox Games Studio]]
 - **Plateformes** : PC, Xbox
 - **Genre** : [[Action RPG]]
@@ -33,6 +33,7 @@ type: game
 - **Epoque** : Quelques années après l'histoire de [[Deadfire]] (?)
 - **Personnages principaux** : 
 	- L'émissaire
+	- [[Kaï]]
 - **Ennemis** :
 - **Thèmes abordés** : 
 	- Dans la quête "Offrandes aux anciens", on aborde le [[Rite de passage (Fin de vie)|rite de passage]] : il faut déposer de la nourriture pour les défunts afin que leur voyage dans l'au-delà se passe au mieux

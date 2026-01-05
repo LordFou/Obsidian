@@ -22,6 +22,7 @@ type: personne
 | 2025  | Global Champions Tour - 12e manche - Grand Prix de New York                   | 1ier     |          |
 | 2025  | Grand Prix du Global Champions Tour de Rome                                   | 2e       |          |
 | 2025  | Jumping CSI de Stockholm - Grand Prix                                         | 1ier     |          |
+| 2025  | Coupe du Monde - Malines - Saut d'obstacles                                   | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

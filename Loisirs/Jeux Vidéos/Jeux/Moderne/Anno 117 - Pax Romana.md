@@ -6,21 +6,22 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : ?
+- **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Ubisoft]] Mainz
+	- Studio : [[Ubisoft Mainz]]
 	- Personnalités : 
 - **Éditeur** : [[Ubisoft]]
 - **Plateformes** : 
 - **Franchise** : [[Franchise Anno|Anno]]
-- **Genre** : [[City-Builder]]
+- **Genre** : [[City-Builder]], [[Stratégie]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 8/10 (Canard PC)
 - **Gameplay** :
 - **Durée estimée** : 
 

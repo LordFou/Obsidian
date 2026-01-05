@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : [[Electronic Arts]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : Action
+- **Genre** : [[Action]], [[Coopération]]
 - **Résumé** : 
 
 ## Détails Techniques

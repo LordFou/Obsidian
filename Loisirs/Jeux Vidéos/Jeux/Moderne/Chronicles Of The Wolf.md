@@ -41,7 +41,7 @@ type: game
 - **Thèmes abordés** : 
 	- [[la Bête du Gévaudan]] (une bête mystérieuse)
 	- [[l’Ordre de la Rose-Croix]] (une société ésotérique)
-- **Influencé par** : [[Castlevania]], [[Metroïd]]
+- **Influencé par** : [[Franchise Castlevania]], [[Metroïd]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

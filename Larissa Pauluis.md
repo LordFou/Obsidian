@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                        | Résultat | Remarque |
-| ----- | ---------------------------------- | -------- | -------- |
-| 2025  | Grand Prix de dressage à Stuttgart | 4e       | 71,804 % |
+| Année | Compétition                            | Résultat | Remarque                    |
+| ----- | -------------------------------------- | -------- | --------------------------- |
+| 2025  | Grand Prix de dressage à Stuttgart     | 4e       | 71,804 %                    |
+| 2025  | Grand Prix Libre de dressage à Malines | 1ière    | 82.975 % - Record personnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

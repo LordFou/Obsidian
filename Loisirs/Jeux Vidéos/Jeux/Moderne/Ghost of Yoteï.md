@@ -10,6 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Sucker Punch]]
 	- Personnalités : 
+		- [[Erika Ishii]] (Interprête)
 - **Éditeur** : [[Sony]]
 - **Plateformes** : 
 - **Franchise** : 
@@ -28,6 +29,7 @@ type: game
 ## Histoire et Univers
 - **Lieu(x)** : 
 - **Epoque** : 
+	- [[Edo]]
 - **Personnages principaux** : 
 	- Atsu
 	- 

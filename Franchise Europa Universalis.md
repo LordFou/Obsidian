@@ -1,25 +1,31 @@
+---
+type: game
+---
 
-# Castlevania
+# Franchise Europa Universalis
 
 
 ## Informations générales
 - Créateur(s) : {{Nom du ou des créateurs}}
-- Développeur(s) : [[Konami]]
-- Éditeur(s) : [[Konami]]
+- Développeur(s) : {{Studio(s) de développement}}
+- Éditeur(s) : {{Nom de l’éditeur}}
 - Première apparition : {{Nom du premier jeu (année)}}
 - Genre principal : {{Stratégie, Action-Aventure, FPS...}}
 
 ## Résumé et historique
 {{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
 
+```timeline-labeled
+[line-5, body-2]
+date:  
+title: 
+content:
+```
 ## Jeux principaux
-| Titre                                   | Année | Plateformes           | Remarque         |
-| --------------------------------------- | ----- | --------------------- | ---------------- |
-| Castlevania 2 - Belmont's Revenge       | 1991  | Game Boy              | {{Info notable}} |
-| [[Castlevania - Symphony Of The Night]] | 1997  | Playstation<br>Saturn | {{Info notable}} |
-| Castlevania - Aria of Sorrow            | 2003  | Game Boy Advance      | {{Info notable}} |
-| Castlevania - Advance Collection        | ?     | ?                     |                  |
-|                                         |       |                       |                  |
+| Titre                    | Année | Plateformes | Remarque |
+| ------------------------ | ----- | ----------- | -------- |
+| [[Europa Universalis V]] | 2025  | PC          |          |
+
 
 ## Mécaniques et innovations
 {{Description des éléments de gameplay marquants, des innovations techniques et de ce qui rend la franchise unique.}}

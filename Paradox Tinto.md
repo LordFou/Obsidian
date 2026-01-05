@@ -2,17 +2,17 @@
 type: societe
 ---
 
-# Double Fine
+# Paradox Tinto
 
 ## Présentation
-Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
+- Filiale de [[Paradox Interactive]]
 
 ## Informations Générales
-- **Nom complet** :  Double Fine Production
+- **Nom complet** :  
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  USA
+- **Pays d’origine** : Espagne
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -24,10 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre            | Genre | Plateformes |
-| ----- | ---------------- | ----- | ----------- |
-|       | [[Psychonaut 2]] |       |             |
-| XXXX  | [[Keeper]]       |       | PC          |
+| Année | Titre                    | Genre     | Plateformes |
+| ----- | ------------------------ | --------- | ----------- |
+| 2025  | [[Europa Universalis V]] | Stratégie | PC          |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

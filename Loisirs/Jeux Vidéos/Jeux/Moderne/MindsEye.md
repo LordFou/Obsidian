@@ -36,7 +36,7 @@ type: game
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - Buggé à mort lors de la sortie
-- A connu énormément de soucis durant le développement qui font dire que le crash était inévitable (?)
+- A connu énormément de soucis durant le développement qui font dire que le crash était inévitable dont 4 mois de crunch.
 - Peu après la sortie, une centaine de personnes seront virées.
 ## Liens et Ressources
 

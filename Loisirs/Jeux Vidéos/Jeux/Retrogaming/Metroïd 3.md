@@ -33,7 +33,7 @@
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- C'est lui qui fait que l'on parle aujourd'hui du style [[Metroïdvania]], contraction de Metroïd et [[Castlevania]].
+- C'est lui qui fait que l'on parle aujourd'hui du style [[Metroïdvania]], contraction de Metroïd et [[Franchise Castlevania]].
 ## Liens et Ressources
 
 | Description | URL |

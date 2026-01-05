@@ -53,7 +53,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : [[Tiger Electronics]]
 - **Plateformes** : [[Saturn]], [[Playstation]], [[Game.com]]
-- **Franchise** : [[Castlevania]]
+- **Franchise** : [[Franchise Castlevania]]
 - **Genre** : 
 - **Résumé** : 
 

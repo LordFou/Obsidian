@@ -24,7 +24,9 @@ type: personne
 | 2025  | CXWorldCup - Flamanville (France)                                        | 1ier     |                                   |
 | 2025  | CXWorldCup - [[Cyclocross de la Citadelle de Namur\|Citadelle de Namur]] | 2e       | derrière [[Mathieu van der Poel]] |
 | 2025  | CXWorldCup - 7e manche - Cross de Gavere                                 | 2e       | derrière [[Mathieu van der Poel]] |
-|       |                                                                          |          |                                   |
+| 2025  | CXWorldCup - 8e manche - Cross de Dendermonde                            | 1ier     |                                   |
+| 2025  | Superprestige - Cross Diegem                                             | 2e       |                                   |
+| 2025  | X2O - 6e manche - Cross Baal                                             | 3e       |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

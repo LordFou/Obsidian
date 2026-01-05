@@ -24,7 +24,8 @@ content:
 ## Jeux principaux
 | Titre                     | Année | Plateformes | Remarque |
 | ------------------------- | ----- | ----------- | -------- |
-| [[Anno 117 - Pax Romana]] |       |             |          |
+| [[Anno 117 - Pax Romana]] | 2025  | PC          |          |
+| [[Anno 1800]]             |       |             |          |
 
 
 ## Mécaniques et innovations

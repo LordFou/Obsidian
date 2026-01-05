@@ -11,7 +11,8 @@ type: game
 	- Studio : [[Double Fine]]
 	- Personnalités : 
 		- [[Tim Schafer]]
-- **Éditeur** : 
+		- [[Lee Petty]] ([[Directeur Créatif]])
+- **Éditeur** : [[Xbox Games Studio]]
 - **Plateformes** : [[PC]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Aventure Narrative]], [[Walking-Sim]], [[Puzzle]]
@@ -22,7 +23,8 @@ type: game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : 
 	- Aucune parole ! Juste de la musique et des sons d'ambiance.
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 8/10 (Canard PC)
 - **Gameplay** :
 	- Jeu 100% muet (sans dialogue)
 	- Linéaire 
