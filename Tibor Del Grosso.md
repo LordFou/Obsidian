@@ -18,6 +18,7 @@ type: personne
 | 2025  | CXWorldCup - 8e manche - Cross de Dendermonde | 2e       |          |
 | 2025  | Superprestige - Cross Heusden-Zolder          | 1ier     |          |
 | 2025  | Superprestige - Cross Diegem                  | 1ier     |          |
+| 2026  | CXWorldCup - 9e manche - Cross de Zonhoven    | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

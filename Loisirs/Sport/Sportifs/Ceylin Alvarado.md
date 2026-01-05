@@ -16,7 +16,8 @@ type: personne
 | Année | Compétition                                     | Résultat | Remarque |
 | ----- | ----------------------------------------------- | -------- | -------- |
 | 2024  | Zilvermeercross (Mol)                           | 1ière    |          |
-| 2025  | Exact Cross - 5e manche - Zilvermeercross (Mol) | 1ière    |          |
+| 2026  | Exact Cross - 5e manche - Zilvermeercross (Mol) | 1ière    |          |
+| 2026  | Coupe du Monde - Cross de Zonhoven              | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
