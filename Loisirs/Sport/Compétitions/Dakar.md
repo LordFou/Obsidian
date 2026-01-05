@@ -11,11 +11,11 @@ type: event
 
 ### Etapes 
 
-|       | Vainqueur                                    | Général                                      | Remarques       |
-| ----- | -------------------------------------------- | -------------------------------------------- | --------------- |
-| 1ière | Edgar Canet (Moto)<br>Mattias Ekström (Auto) | Edgar Canet (Moto)<br>Mattias Ekström (Auto) | Prologue (22km) |
-|       |                                              |                                              |                 |
-|       |                                              |                                              |                 |
+|          | Vainqueur                                            | Général                                      | Remarques |
+| -------- | ---------------------------------------------------- | -------------------------------------------- | --------- |
+| Prologue | Edgar Canet (Moto)<br>Mattias Ekström (Auto)         | Edgar Canet (Moto)<br>Mattias Ekström (Auto) | 22km      |
+| 1e étape | Edgar Canet (Moto)<br>[[Guillaume de Mévius]] (Auto) |                                              |           |
+|          |                                                      |                                              |           |
 ## Femmes
 
 ### Etapes
