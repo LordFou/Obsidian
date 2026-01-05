@@ -1,11 +1,11 @@
 ---
 type: personne
 ---
-![[Pasted image 20250719223113.jpg]]
+![[image-251.webp]]
 # Jana Van Lent
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  2001 (?)
 - **Nationalité** :  Belge
 - **Sport / Discipline** :  Athlétisme
 - **Poste / Spécialité** (si applicable) :  
@@ -18,6 +18,8 @@ type: personne
 | 2025  | Ligue de Diamant - Londres - 5000m             | 14e + Record de Belgique | qui a été détenu 3 jours par [[Elise Vanderelst]] |
 | 2025  | [[Championnats du monde d'athlétisme]] - 5000m | 32e                      | 15.14.93                                          |
 | 2025  | [[Championnats du monde d'athlétisme]] - 10km  | 13e                      |                                                   |
+| 2026  | Prom'Classic - 10km route                      | 1ière                    | Record d'Europe (30.10)                           |
+|       |                                                |                          |                                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
