@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-01-05.md",
+                "file": "Loisirs/Sport/Sportifs/Ceylin Alvarado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-05"
+              "title": "Ceylin Alvarado"
             },
             "group": "adb53edb863c710b"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2026-01-05.md",
+                "file": "Loisirs/Sport/Sportifs/Ceylin Alvarado.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2026-01-05"
+              "title": "Graphique de Ceylin Alvarado"
             },
             "group": "adb53edb863c710b"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Expell",
+                "query": "Ceylin Alvarado",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,8 +131,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,8 +254,9 @@
   },
   "active": "2ebeefd2456279b1",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Expelled!.md",
     "Journal de bord/2026-01-05.md",
+    "Loisirs/Sport/Sportifs/Ceylin Alvarado.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Expelled!.md",
     "conflict-files-obsidian-git.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Dispatch.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/CARIMARA - Beneath the forlorn limbs.md",
@@ -283,7 +283,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Paper Animal Aventure.md",
     "Attachments/image-246.webp",
     "Cuddling Raccoons Studio.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dinocop.md",
     "Attachments/image-245.webp",
     "Attachments/image-244.webp",
     "Attachments/image-243.webp",
