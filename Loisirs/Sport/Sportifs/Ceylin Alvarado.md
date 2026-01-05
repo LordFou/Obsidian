@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                               | Résultat                   | Remarque         |
-| ----- | ----------------------------------------- | -------- | ------------------------ | ---------------- |
-| 2025  | Exact Cross - 5e manche - Zilvermeercross | | 1ère place / Médaille d’ | Détail optionnel |
+| Année | Compétition                                     | Résultat | Remarque |
+| ----- | ----------------------------------------------- | -------- | -------- |
+| 2024  | Zilvermeercross (Mol)                           | 1ière    |          |
+| 2025  | Exact Cross - 5e manche - Zilvermeercross (Mol) | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

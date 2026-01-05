@@ -27,6 +27,7 @@ type: personne
 | 2025  | CXWorldCup - 8e manche - Cross de Dendermonde                            | 1ier     |                                   |
 | 2025  | Superprestige - Cross Diegem                                             | 2e       |                                   |
 | 2025  | X2O - 6e manche - Cross Baal                                             | 3e       |                                   |
+| 2025  | Exact Cross - 5e manche (?) - Zilvermeercross (Mol)                      | 2e       | derrière [[Mathieu van der Poel]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

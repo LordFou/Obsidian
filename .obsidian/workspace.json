@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Ceylin Alvarado.md",
+                "file": "Thibau Nys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ceylin Alvarado"
+              "title": "Thibau Nys"
             },
             "group": "adb53edb863c710b"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Ceylin Alvarado.md",
+                "file": "Thibau Nys.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Ceylin Alvarado"
+              "title": "Graphique de Thibau Nys"
             },
             "group": "adb53edb863c710b"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ceylin Alvarado",
+                "query": "MAthieu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,7 +131,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,8 +255,9 @@
   },
   "active": "2ebeefd2456279b1",
   "lastOpenFiles": [
-    "Journal de bord/2026-01-05.md",
+    "Loisirs/Sport/Sportifs/Mathieu van der Poel.md",
     "Loisirs/Sport/Sportifs/Ceylin Alvarado.md",
+    "Journal de bord/2026-01-05.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Expelled!.md",
     "conflict-files-obsidian-git.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Dispatch.md",
@@ -282,7 +284,6 @@
     "Attachments/image-247.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Paper Animal Aventure.md",
     "Attachments/image-246.webp",
-    "Cuddling Raccoons Studio.md",
     "Attachments/image-245.webp",
     "Attachments/image-244.webp",
     "Attachments/image-243.webp",
