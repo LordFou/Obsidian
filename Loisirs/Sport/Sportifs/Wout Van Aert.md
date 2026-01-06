@@ -86,6 +86,7 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 - Pas mal de chutes graves et autant de retour
 - Pas de monument pavés pour lui
 - Vu toutes ses secondes places, on l'appelle le [[Poulidor]] belge.
+- Janvier 2026 : fracture légère à la cheville
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
