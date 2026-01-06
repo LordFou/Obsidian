@@ -6,7 +6,7 @@
       {
         "id": "37d43b87eca39355",
         "type": "tabs",
-        "dimension": 74.95908346972176,
+        "dimension": 71.35842880523732,
         "children": [
           {
             "id": "2ebeefd2456279b1",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-01-06.md",
+                "file": "Culture/Géographie/Groenland.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-06"
+              "title": "Groenland"
             },
             "group": "adb53edb863c710b"
           }
@@ -28,7 +28,7 @@
       {
         "id": "ae21073af914c3df",
         "type": "tabs",
-        "dimension": 25.04091653027824,
+        "dimension": 28.641571194762683,
         "children": [
           {
             "id": "93a33877c7f5c56f",
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2026-01-06.md",
+                "file": "Culture/Géographie/Groenland.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2026-01-06"
+              "title": "Graphique de Groenland"
             },
             "group": "adb53edb863c710b"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Rap",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,12 +131,11 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 269.5
   },
   "right": {
     "id": "424a7915b112611b",
@@ -255,9 +254,12 @@
   },
   "active": "2ebeefd2456279b1",
   "lastOpenFiles": [
+    "Attachments/image-254.webp",
+    "Journal de bord/2026-01-06.md",
+    "Culture/Géographie/Groenland.md",
+    "Culture/Géographie",
     "Loisirs/Sport/Compétitions/Dakar.md",
     "Attachments/image-253.webp",
-    "Journal de bord/2026-01-06.md",
     "United Cup.md",
     "Loisirs/Sport/Equipes/Equipe nationale belge de Tennis.md",
     "Raphaël Collignon.md",
@@ -284,7 +286,6 @@
     "Loisirs/Sport/Sportifs/Amandine Fouquenet.md",
     "Loisirs/Sport/Sportifs/Marion Norbert Riberolle.md",
     "Loisirs/Sport/Sportifs/Niels Vandeputte.md",
-    "Laurant Weill.md",
     "Attachments/image-248.webp",
     "Attachments/image-247.webp",
     "Attachments/image-246.webp",
