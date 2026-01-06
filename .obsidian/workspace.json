@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Dakar.md",
+                "file": "Journal de bord/2026-01-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dakar"
+              "title": "2026-01-06"
             },
             "group": "adb53edb863c710b"
           }
@@ -28,7 +28,7 @@
       {
         "id": "ae21073af914c3df",
         "type": "tabs",
-        "dimension": 25.040916530278235,
+        "dimension": 25.04091653027824,
         "children": [
           {
             "id": "93a33877c7f5c56f",
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Dakar.md",
+                "file": "Journal de bord/2026-01-06.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Dakar"
+              "title": "Graphique de 2026-01-06"
             },
             "group": "adb53edb863c710b"
           }
@@ -255,6 +255,8 @@
   },
   "active": "2ebeefd2456279b1",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Dakar.md",
+    "Journal de bord/2026-01-06.md",
     "Loisirs/Sport/Sportifs/Wout Van Aert.md",
     "Loisirs/Sport/Sportifs/Sofia Costoulas.md",
     "Tibor Del Grosso.md",
@@ -262,7 +264,6 @@
     "Loisirs/Sport/Sportifs/Mathieu van der Poel.md",
     "Lucinda Brand.md",
     "Loisirs/Sport/Sportifs/Ceylin Alvarado.md",
-    "Loisirs/Sport/Compétitions/Dakar.md",
     "Guillaume de Mévius.md",
     "Journal de bord/2026-01-05.md",
     "Jana Van Lent.md",
@@ -283,7 +284,6 @@
     "Thibau Nys.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Expelled!.md",
     "conflict-files-obsidian-git.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dispatch.md",
     "Attachments/image-248.webp",
     "Attachments/image-247.webp",
     "Attachments/image-246.webp",
