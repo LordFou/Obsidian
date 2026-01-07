@@ -34,7 +34,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- 7 années de développement
 ## Liens et Ressources
 
 | Description | URL |
