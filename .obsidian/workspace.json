@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-01-07.md",
+                "file": "Alexander Blockx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-07"
+              "title": "Alexander Blockx"
             },
             "group": "adb53edb863c710b"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2026-01-07.md",
+                "file": "Alexander Blockx.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2026-01-07"
+              "title": "Graphique de Alexander Blockx"
             },
             "group": "adb53edb863c710b"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Alexander Blockx",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,7 +131,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,8 +255,8 @@
   },
   "active": "2ebeefd2456279b1",
   "lastOpenFiles": [
-    "Culture/Géographie/Groenland.md",
     "Journal de bord/2026-01-07.md",
+    "Culture/Géographie/Groenland.md",
     "Attachments/image-254.webp",
     "Journal de bord/2026-01-06.md",
     "Culture/Géographie",
