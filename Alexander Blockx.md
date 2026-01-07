@@ -13,12 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                      | Résultat  | Remarque                |
-| ----- | -------------------------------- | --------- | ----------------------- |
-| ?     | ?                                | Vainqueur |                         |
-| 2025  | ?                                | Vainqueur |                         |
-| 2025  | [[Challenger 125 de Bratislava]] | Vainqueur |                         |
-| 2025  | Next Gen ATP Finals              | Finaliste | Contre [[Learner Tien]] |
+| Année | Compétition                          | Résultat   | Remarque                |
+| ----- | ------------------------------------ | ---------- | ----------------------- |
+| ?     | ?                                    | Vainqueur  |                         |
+| 2025  | ?                                    | Vainqueur  |                         |
+| 2025  | [[Challenger - Tournoi de Bratislava]]     | Vainqueur  |                         |
+| 2025  | Next Gen ATP Finals                  | Finaliste  | Contre [[Learner Tien]] |
+| 2026  | [[Challenger - Tournoi de Canberra]] | 1/4 finale |                         |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
