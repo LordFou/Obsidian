@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-255.webp]]
 # Ghost of Yoteï
 
 ## Informations Générales
@@ -15,14 +15,15 @@ type: game
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** : [[Action]], [[Aventure]]
-- **Résumé** : 
+- **Résumé** : vous jouez Atsu qui doit se venger de 6 individus plus affreux les uns que les autres.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- 8/10 (Canard Pc)
+	- 8/10 (Canard Pc
+	- 3 millions de vente le premier mois
 - **Gameplay** :
 - **Durée estimée** : 
 

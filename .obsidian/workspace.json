@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/InFamous - Second Son.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost of Yoteï.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "InFamous - Second Son"
+              "title": "Ghost of Yoteï"
             },
             "group": "adb53edb863c710b"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/InFamous - Second Son.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost of Yoteï.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de InFamous - Second Son"
+              "title": "Graphique de Ghost of Yoteï"
             },
             "group": "adb53edb863c710b"
           }
@@ -254,8 +254,11 @@
   },
   "active": "2ebeefd2456279b1",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost of Tsushima.md",
+    "Attachments/image-255.webp",
+    "Sucker Punch.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost of Yoteï.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/InFamous - Second Son.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost of Tsushima.md",
     "Loisirs/Sport/Compétitions/Dakar.md",
     "Alexander Blockx.md",
     "Loisirs/Sport/Compétitions/Challenger - Tournoi de Bratislava.md",
@@ -284,9 +287,6 @@
     "Attachments/image-250.webp",
     "Attachments/image-249.webp",
     "ATP - Tournoi d'Auckland.md",
-    "Loisirs/Sport/Compétitions/ATP - Tournoi de Brisbane.md",
-    "ATP - Tournoi de Bruxelles.md",
-    "Loisirs/Sport/Compétitions/ATP - Tournoi de Shangaï.md",
     "Attachments/image-248.webp",
     "Attachments/image-247.webp",
     "Attachments/image-246.webp",

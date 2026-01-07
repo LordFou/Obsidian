@@ -24,11 +24,11 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                 | Genre            | Plateformes |
-| ----- | --------------------- | ---------------- | ----------- |
-|       | [[Ghost of Tsushima]] | Action, Aventure |             |
-| 2025  | [[Ghost of Yoteï]]    | Action, Aventure |             |
-|       |                       |                  |             |
+| Année | Titre                     | Genre            | Plateformes |
+| ----- | ------------------------- | ---------------- | ----------- |
+| 2013  | [[InFamous - Second Son]] |                  |             |
+|       | [[Ghost of Tsushima]]     | Action, Aventure |             |
+| 2025  | [[Ghost of Yoteï]]        | Action, Aventure |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
