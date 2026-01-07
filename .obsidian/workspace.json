@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost of Yoteï.md",
+                "file": "Loisirs/Jeux Vidéos/Personnalités/David Rosen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ghost of Yoteï"
+              "title": "David Rosen"
             },
             "group": "adb53edb863c710b"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost of Yoteï.md",
+                "file": "Loisirs/Jeux Vidéos/Personnalités/David Rosen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Ghost of Yoteï"
+              "title": "Graphique de David Rosen"
             },
             "group": "adb53edb863c710b"
           }
@@ -254,9 +254,10 @@
   },
   "active": "2ebeefd2456279b1",
   "lastOpenFiles": [
-    "Attachments/image-255.webp",
     "Sucker Punch.md",
+    "Loisirs/Jeux Vidéos/Personnalités/David Rosen.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost of Yoteï.md",
+    "Attachments/image-255.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/InFamous - Second Son.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost of Tsushima.md",
     "Loisirs/Sport/Compétitions/Dakar.md",
@@ -290,7 +291,6 @@
     "Attachments/image-248.webp",
     "Attachments/image-247.webp",
     "Attachments/image-246.webp",
-    "Attachments/image-245.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Sans titre"
   ]

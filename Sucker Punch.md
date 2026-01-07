@@ -27,7 +27,7 @@ content:
 | Année | Titre                     | Genre            | Plateformes |
 | ----- | ------------------------- | ---------------- | ----------- |
 | 2013  | [[InFamous - Second Son]] |                  |             |
-|       | [[Ghost of Tsushima]]     | Action, Aventure |             |
+| 2020  | [[Ghost of Tsushima]]     | Action, Aventure |             |
 | 2025  | [[Ghost of Yoteï]]        | Action, Aventure |             |
 
 ## Moteur(s) Utilisé(s)
