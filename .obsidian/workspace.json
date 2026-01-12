@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trump.md",
+                "file": "Journal de bord/2026-01-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trump"
+              "title": "2026-01-12"
             },
             "group": "e9888f3eff57ebb1"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Trump.md",
+                "file": "Journal de bord/2026-01-12.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Trump"
+              "title": "Graphique de 2026-01-12"
             },
             "group": "e9888f3eff57ebb1"
           }
@@ -254,8 +254,9 @@
   },
   "active": "3c596a8973160c74",
   "lastOpenFiles": [
-    "Nicolas Maduro.md",
     "Trump.md",
+    "Journal de bord/2026-01-12.md",
+    "Nicolas Maduro.md",
     "Journal de bord/2026-01-03.md",
     "Loisirs/Sport/Sportifs/Wout Van Aert.md",
     "Loisirs/Sport/Sportifs/Mathieu van der Poel.md",
@@ -279,7 +280,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Berlin Apartment.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Europa Universalis V.md",
     "Franchise Europa Universalis.md",
-    "Paradox Tinto.md",
     "Attachments/image-248.webp",
     "Attachments/image-247.webp",
     "Attachments/image-246.webp",
