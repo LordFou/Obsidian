@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Personnalités/David Rosen.md",
+                "file": "Journal de bord/2026-01-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "David Rosen"
+              "title": "2026-01-12"
             },
             "group": "adb53edb863c710b"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Personnalités/David Rosen.md",
+                "file": "Journal de bord/2026-01-12.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de David Rosen"
+              "title": "Graphique de 2026-01-12"
             },
             "group": "adb53edb863c710b"
           }
@@ -253,8 +253,9 @@
   },
   "active": "2ebeefd2456279b1",
   "lastOpenFiles": [
-    "Sucker Punch.md",
     "Loisirs/Jeux Vidéos/Personnalités/David Rosen.md",
+    "Journal de bord/2026-01-12.md",
+    "Sucker Punch.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost of Yoteï.md",
     "Attachments/image-255.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/InFamous - Second Son.md",
@@ -286,7 +287,6 @@
     "Attachments/image-251.webp",
     "Attachments/image-250.webp",
     "Attachments/image-249.webp",
-    "ATP - Tournoi d'Auckland.md",
     "Attachments/image-248.webp",
     "Attachments/image-247.webp",
     "Attachments/image-246.webp",
