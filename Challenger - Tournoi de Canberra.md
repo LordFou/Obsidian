@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Challenger - Tournoi de Canberra
+# Challenger 125 - Tournoi de Canberra
 
 # Introduction
 

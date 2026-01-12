@@ -1,8 +1,8 @@
 ---
 type: personne
 ---
-
-# Marion Norbert Riberolle
+![[image-261.webp]]
+# Marion Norbert-Riberolle
 
 # Informations Générales
 - **Date de naissance** :  
@@ -18,7 +18,7 @@ type: personne
 | 2025  | [[Championnat de Belgique de Cyclocross]]                 | 1ière    |          |
 | 2025  | Coupe du Monde de Cyclocross - Tabor (République Tchèque) | 8e       |          |
 | 2025  | Superprestige - Cross de Gullegem                         | 2e       |          |
-|       |                                                           |          |          |
+| 2026  | [[Championnat de Belgique de Cyclocross]]                 | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -14,7 +14,8 @@ Indoor Red Lions
 
 Equipe masculine belge de hockey en salle
 
-| Année | Compétition            | Résultats | Remarques |
-| ----- | ---------------------- | --------- | --------- |
-| 2026  | [[Euro Hockey Indoor]] |           |           |
-|       |                        |           |           |
+| Année | Compétition            | Résultats                  | Remarques |
+| ----- | ---------------------- | -------------------------- | --------- |
+| 2024  | [[Euro Hockey Indoor]] | 3e                         |           |
+| 2026  | [[Euro Hockey Indoor]] | Eliminé en phase de groupe |           |
+|       |                        |                            |           |
