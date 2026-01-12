@@ -19,6 +19,7 @@ type: event
 | 3e étape | Mitch Guthrie (Auto)<br>Tosha Schareina (Moto)       | Mitch Guthrie (Auto)<br>Daniel Sanders (Moto)     | [[Guillaume de Mévius]] - 60e<br>421 km |
 | 4e étape | Tosha Schareina (Moto)<br>Henk Lategan (Auto)        | Tosha Schareina (Moto)<br>Henk Lategan (Auto)     | 451 km                                  |
 | 5e étape | Mitch Guthrie (Auto)<br>Luciano Benavides (Moto)<br> | Henk Lategan (Auto)<br>Daniel Sanders (Moto)      | 356 km                                  |
+| 6e étape | Nasser Al-Attiyah (Auto)<br>Ricky Brabec (Moto)      | Nasser Al-Attiyah (Auto)<br>Daniel Sanders (Moto) | [[Guillaume de Mévius]] - 47e           |
 ## Femmes
 
 ### Etapes
