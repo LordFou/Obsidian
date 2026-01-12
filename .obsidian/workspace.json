@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Marion Norbert Riberolle",
+                "query": "F",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,7 +204,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "48a7521af0a0bc7e",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
     "Loisirs/Sport/Sportifs/Marion Norbert-Riberolle.md",
     "Attachments/image-261.webp",
