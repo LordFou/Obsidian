@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Championnat de Belgique de Cyclocross.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Radiolight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Championnat de Belgique de Cyclocross"
+              "title": "Radiolight"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "F",
+                "query": "Radiolight",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,11 +205,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "48a7521af0a0bc7e",
   "lastOpenFiles": [
+    "Championnat de Belgique de Cyclocross.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Radiolight.md",
     "Loisirs/Sport/Sportifs/Marion Norbert-Riberolle.md",
     "Attachments/image-261.webp",
-    "Championnat de Belgique de Cyclocross.md",
     "Sam Maes.md",
     "Loisirs/Sport/Sportifs/Lindsey Vonn.md",
     "Attachments/image-260.webp",
