@@ -2,23 +2,22 @@
 type: personne
 ---
 
-# Marion Norbert Riberolle
+# Ceylin Alvarado
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** : Belge
-- **Sport / Discipline** : [[Cyclisme]]  
+- **Nationalité** :  Néerlandaise
+- **Sport / Discipline** :  [[Cyclocross]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                               | Résultat | Remarque |
-| ----- | --------------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnat de Belgique de Cyclocross]]                 | 1ière    |          |
-| 2025  | Coupe du Monde de Cyclocross - Tabor (République Tchèque) | 8e       |          |
-| 2025  | Superprestige - Cross de Gullegem                         | 2e       |          |
-|       |                                                           |          |          |
+| Année | Compétition                                     | Résultat | Remarque |
+| ----- | ----------------------------------------------- | -------- | -------- |
+| 2024  | Zilvermeercross (Mol)                           | 1ière    |          |
+| 2026  | Exact Cross - 5e manche - Zilvermeercross (Mol) | 1ière    |          |
+| 2026  | Coupe du Monde - Cross de Zonhoven              | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

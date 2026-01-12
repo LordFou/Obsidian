@@ -1,24 +1,21 @@
 ---
 type: personne
 ---
-
-# Marion Norbert Riberolle
+![[image-249.webp]]
+# Sofia Costoulas
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** : Belge
-- **Sport / Discipline** : [[Cyclisme]]  
+- **Nationalité** :  Belge
+- **Sport / Discipline** :  [[Tennis]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                               | Résultat | Remarque |
-| ----- | --------------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnat de Belgique de Cyclocross]]                 | 1ière    |          |
-| 2025  | Coupe du Monde de Cyclocross - Tabor (République Tchèque) | 8e       |          |
-| 2025  | Superprestige - Cross de Gullegem                         | 2e       |          |
-|       |                                                           |          |          |
+| Année | Compétition                  | Résultat | Remarque                               |
+| ----- | ---------------------------- | -------- | -------------------------------------- |
+| 2026  | [[ATP - Tournoi d'Auckland]] | 2e tour  | Premier qualif pour un tournoi ATP 250 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
