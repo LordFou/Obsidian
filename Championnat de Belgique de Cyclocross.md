@@ -8,10 +8,10 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur | Remarque |
-| ----- | --------- | -------- |
-| 2025  |           |          |
-|       |           |          |
+| Année | Vainqueur      | Remarque |
+| ----- | -------------- | -------- |
+| 2025  | [[Thibau Nys]] |          |
+| 2026  | [[Thibau Nys]] |          |
 # Femmes
 
 | Année | Vainqueur                    | Remarque |

@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                                | Résultat | Remarque |
 | ----- | ------------------------------------------ | -------- | -------- |
 | 2025  | CXWorldCup - 3e manche - Terralba (Italie) | 1ier     |          |
+| 2026  | [[Championnat de Belgique de Cyclocross]]  | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
