@@ -11,10 +11,14 @@
             "id": "844f719ee779c7c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Loisirs/Sport/Compétitions/Dakar.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Dakar"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "InFamous  Second Son",
+                "query": "Dakar",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 390.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,17 +208,21 @@
   },
   "active": "844f719ee779c7c9",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Isabelle van Elst.md",
+    "Famille/Membres/Sandrine Leclercq.md",
+    "Loisirs/Sport/Sportifs/Sandrine Tas.md",
+    "Loisirs/Sport/Sportifs/Fran Vanhoutte.md",
+    "Loisirs/Sport/Sportifs/Bart Swings.md",
+    "Loisirs/Sport/Compétitions/Championnat d'Europe de patinage de vitesse.md",
     "Journal de bord/2026-01-12.md",
     "Attachments/image-257.webp",
     "Attachments/image-256.webp",
     "conflict-files-obsidian-git.md",
     "Loisirs/Sport/Sportifs/Toumani Camara.md",
-    "Loisirs/Sport/Sportifs/Sandrine Tas.md",
     "Loisirs/Sport/Sportifs/Marion Norbert-Riberolle.md",
     "Loisirs/Sport/Sportifs/Lindsey Vonn.md",
     "Loisirs/Sport/Equipes/Equipe nationale belge de patinage de vitesse.md",
     "Loisirs/Sport/Compétitions/Euro Hockey Indoor.md",
-    "Loisirs/Sport/Compétitions/Championnat d'Europe de patinage de vitesse.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Radiolight.md",
     "Attachments/image-261.webp",
     "Attachments/image-260.webp",
@@ -234,9 +244,6 @@
     "Journal de bord/2026-01-06.md",
     "Culture/Géographie",
     "Attachments/image-253.webp",
-    "United Cup.md",
-    "Loisirs/Sport/Equipes/Equipe nationale belge de Tennis.md",
-    "Raphaël Collignon.md",
     "Attachments/image-252.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Sans titre"
