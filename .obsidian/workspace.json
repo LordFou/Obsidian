@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "9b5738f129032660",
+    "type": "split",
+    "children": [
+      {
+        "id": "25ced80ff1cefe07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "844f719ee779c7c9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10646f34a5623bcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a516746cabd1b8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2066e9a3d214d366",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "eb3c1bcab851ce97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "InFamous  Second Son",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "b4ebb1a377404fc4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          },
+          {
+            "id": "dbacc6f984f28690",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "424a7915b112611b",
+    "type": "split",
+    "children": [
+      {
+        "id": "793a32453de58a2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38e1afb54a3a7718",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Borderlands 4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Borderlands 4"
+            }
+          },
+          {
+            "id": "e2303466fd1c8ab2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Borderlands 4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Borderlands 4"
+            }
+          },
+          {
+            "id": "9871d3b303142bba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "662b93150171007e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Borderlands 4.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Borderlands 4"
+            }
+          },
+          {
+            "id": "864783adcd7d7f25",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "f2d09065e559f000",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 390.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "markdown-importer:Ouvrir l'importateur Markdown": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "844f719ee779c7c9",
+  "lastOpenFiles": [
+    "Journal de bord/2026-01-12.md",
+    "Attachments/image-257.webp",
+    "Attachments/image-256.webp",
+    "conflict-files-obsidian-git.md",
+    "Loisirs/Sport/Sportifs/Toumani Camara.md",
+    "Loisirs/Sport/Sportifs/Sandrine Tas.md",
+    "Loisirs/Sport/Sportifs/Marion Norbert-Riberolle.md",
+    "Loisirs/Sport/Sportifs/Lindsey Vonn.md",
+    "Loisirs/Sport/Equipes/Equipe nationale belge de patinage de vitesse.md",
+    "Loisirs/Sport/Compétitions/Euro Hockey Indoor.md",
+    "Loisirs/Sport/Compétitions/Championnat d'Europe de patinage de vitesse.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Radiolight.md",
+    "Attachments/image-261.webp",
+    "Attachments/image-260.webp",
+    "Attachments/image-259.webp",
+    "Attachments/image-258.webp",
+    "Loisirs/Jeux Vidéos/Personnalités/David Rosen.md",
+    "Sucker Punch.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost of Yoteï.md",
+    "Attachments/image-255.webp",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/InFamous - Second Son.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost of Tsushima.md",
+    "Loisirs/Sport/Compétitions/Dakar.md",
+    "Alexander Blockx.md",
+    "Loisirs/Sport/Compétitions/Challenger - Tournoi de Bratislava.md",
+    "Challenger - Tournoi de Canberra.md",
+    "Journal de bord/2026-01-07.md",
+    "Culture/Géographie/Groenland.md",
+    "Attachments/image-254.webp",
+    "Journal de bord/2026-01-06.md",
+    "Culture/Géographie",
+    "Attachments/image-253.webp",
+    "United Cup.md",
+    "Loisirs/Sport/Equipes/Equipe nationale belge de Tennis.md",
+    "Raphaël Collignon.md",
+    "Attachments/image-252.webp",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
+    "Sans titre"
+  ]
+}
