@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Challenger 125 - Tournoi de Canberra
+# Euro Hockey Indoor
 
 # Introduction
 

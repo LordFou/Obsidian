@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Challenger 125 - Tournoi de Canberra
+# Championnat d'Europe de patinage de vitesse
 
 # Introduction
 

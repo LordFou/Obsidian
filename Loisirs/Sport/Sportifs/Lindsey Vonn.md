@@ -1,27 +1,28 @@
 ---
 type: personne
 ---
-![[image-249.webp]]
-# Sofia Costoulas
+![[image-260.webp]]
+# Lindsey Vonn
 
 # Informations Générales
-- **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Tennis]]
+- **Date de naissance** :  1984
+- **Nationalité** :  Américaine
+- **Sport / Discipline** :  [[Ski]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
+- **Surnom** : Speed Queen
 
 # Palmarès et Distinctions
-| Année | Compétition                  | Résultat    | Remarque                               |
-| ----- | ---------------------------- | ----------- | -------------------------------------- |
-| 2026  | [[ATP - Tournoi d'Auckland]] | 2e tour (?) | Premier qualif pour un tournoi ATP 250 |
+| Année | Compétition                                       | Résultat | Remarque |
+| ----- | ------------------------------------------------- | -------- | -------- |
+| 2026  | Coupe du monde - Zauchensee (Autriche) - Descente | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- 84 victoires en Coupe du monde à 41 ans
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

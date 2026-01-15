@@ -1,27 +1,28 @@
 ---
 type: personne
 ---
-![[image-249.webp]]
-# Sofia Costoulas
+![[image-256.webp]]
+# Toumani Camara
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Tennis]]
+- **Nationalité** : Belge
+- **Sport / Discipline** :  [[Basket-Ball]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                  | Résultat    | Remarque                               |
-| ----- | ---------------------------- | ----------- | -------------------------------------- |
-| 2026  | [[ATP - Tournoi d'Auckland]] | 2e tour (?) | Premier qualif pour un tournoi ATP 250 |
+| Année | Compétition      | Résultat | Remarque |
+| ----- | ---------------- | -------- | -------- |
+| 2025  | Saison 2024-2025 | ?        |          |
+| 2026  | Saison 2025-2026 | ?        |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Lors d'un match en janvier 2026, il a perdu une dent lors d'un énorme contact. Après avoir été soigné sur le banc pendant quelques minutes, il va remonter et faire un match de feu. 
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

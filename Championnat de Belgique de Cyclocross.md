@@ -16,5 +16,5 @@ type: event
 
 | Année | Vainqueur                    | Remarque |
 | ----- | ---------------------------- | -------- |
-| 2025  | [[Marion Norbert Riberolle]] |          |
-|       |                              |          |
+| 2025  | [[Marion Norbert-Riberolle]] |          |
+| 2026  | [[Marion Norbert-Riberolle]] |          |

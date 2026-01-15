@@ -1,21 +1,21 @@
 ---
 type: personne
 ---
-![[image-249.webp]]
-# Sofia Costoulas
+![[image-258.webp]]
+# Sandrine Tas
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Tennis]]
+- **Sport / Discipline** :  [[Patinage de vitesse]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                  | Résultat    | Remarque                               |
-| ----- | ---------------------------- | ----------- | -------------------------------------- |
-| 2026  | [[ATP - Tournoi d'Auckland]] | 2e tour (?) | Premier qualif pour un tournoi ATP 250 |
+| Année | Compétition                                             | Résultat | Remarque |
+| ----- | ------------------------------------------------------- | -------- | -------- |
+| 2026  | [[Championnat d'Europe de patinage de vitesse]] - 3000m | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

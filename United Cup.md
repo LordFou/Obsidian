@@ -6,15 +6,9 @@ type: event
 
 # Introduction
 
-# Hommes
+Tournoi mixte par nation
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
-# Femmes
-
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur | Remarque                                                                                 |
+| ----- | --------- | ---------------------------------------------------------------------------------------- |
+| 2026  | Pologne   | Victoire contre la Suisse<br>[[Equipe nationale belge de Tennis]] a perdu en demi finale |
+|       |           |                                                                                          |
