@@ -22,8 +22,21 @@
               "title": "2026-01-12"
             },
             "group": "adb53edb863c710b"
+          },
+          {
+            "id": "2b230914e1ade238",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ae21073af914c3df",
@@ -252,7 +265,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ebeefd2456279b1",
+  "active": "2b230914e1ade238",
   "lastOpenFiles": [
     "Loisirs/Jeux Vidéos/Personnalités/David Rosen.md",
     "Journal de bord/2026-01-12.md",
