@@ -17,6 +17,7 @@ type: personne
 | ----- | -------------------------------------- | -------- | -------- |
 | 2016  | [[Championnat d'Europe de Cyclocross]] | 1ier     |          |
 | 2025  | [[Championnat d'Europe de Cyclocross]] | 1ier     |          |
+| 2026  | Maandagcross d'Otegem                  | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

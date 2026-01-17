@@ -15,9 +15,12 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                               | Résultat | Remarque |
 | ----- | --------------------------------------------------------- | -------- | -------- |
+| ?     | Maandagcross d'Otegem                                     | 1ière    |          |
+| ?     | Maandagcross d'Otegem                                     | 1ière    |          |
 | 2025  | [[Championnat de Belgique de Cyclocross]]                 | 1ière    |          |
 | 2025  | Coupe du Monde de Cyclocross - Tabor (République Tchèque) | 8e       |          |
 | 2025  | Superprestige - Cross de Gullegem                         | 2e       |          |
+| 2025  | Superprestige - Cross de Ruddervoorde                     | 1ière    |          |
 | 2026  | [[Championnat de Belgique de Cyclocross]]                 | 1ière    |          |
 | 2026  | Maandagcross d'Otegem                                     | 1ière    |          |
 
