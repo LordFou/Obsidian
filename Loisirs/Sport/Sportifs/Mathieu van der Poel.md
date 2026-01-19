@@ -35,6 +35,8 @@ type: personne
 | 2025  | X2O - 6e manche - Cross Baal                        | 1ier    |                                                                                                        |
 | 2025  | Exact Cross - 5e manche (?) - Zilvermeercross (Mol) | 1ier    |                                                                                                        |
 | 2026  | CXWorldCup - 9e manche - Cross de Zonhoven          | 1ier    |                                                                                                        |
+| 2026  | Coupe du Monde - Benidorm                           | 1ière   |                                                                                                        |
+| 2026  | Coupe du Monde - Classement final                   | 1ière   |                                                                                                        |
 
 ## Style et Caractéristiques
 - Toujours à l'attaque et beaucoup de victoires en solitaire
