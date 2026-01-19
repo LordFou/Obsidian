@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat | Remarque |
-| ----- | --------------------- | -------- | -------- |
-| 2025  | Golden Spin de Zagreb | 7e       |          |
+| Année | Compétition                     | Résultat | Remarque |
+| ----- | ------------------------------- | -------- | -------- |
+| 2025  | Golden Spin de Zagreb           | 7e       |          |
+| 2026  | [[Euro de patinage artistique]] | 4e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
