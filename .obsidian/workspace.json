@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Kim Meylemans.md",
+                "file": "Loisirs/Sport/Sportifs/Maximilien Drion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kim Meylemans"
+              "title": "Maximilien Drion"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kim Meylemans",
+                "query": "Maximilien",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,8 +208,12 @@
   },
   "active": "74458af3ae35047c",
   "lastOpenFiles": [
-    "Loisirs/Sport/Sportifs/Thomas Detry.md",
+    "Red Panthers.md",
+    "Loisirs/Sport/Compétitions/Championnat d'Europe de Hockey Indoor.md",
+    "Loisirs/Sport/Compétitions/Euro Hockey Indoor.md",
     "Loisirs/Sport/Compétitions/Dakar.md",
+    "Loisirs/Sport/Sportifs/Kim Meylemans.md",
+    "Loisirs/Sport/Sportifs/Thomas Detry.md",
     "Loisirs/Sport/Sportifs/Armand Marchant.md",
     "Loena Hendrickx.md",
     "Attachments/image-264.webp",
@@ -235,10 +239,6 @@
     "Attachments/image-256.webp",
     "conflict-files-obsidian-git.md",
     "Loisirs/Sport/Sportifs/Toumani Camara.md",
-    "Loisirs/Sport/Sportifs/Lindsey Vonn.md",
-    "Loisirs/Sport/Equipes/Equipe nationale belge de patinage de vitesse.md",
-    "Loisirs/Sport/Compétitions/Euro Hockey Indoor.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Radiolight.md",
     "Attachments/image-261.webp",
     "Attachments/image-260.webp",
     "Attachments/image-259.webp",
