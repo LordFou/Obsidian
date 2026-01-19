@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "25ced80ff1cefe07",
+        "id": "19c0e890119877bd",
         "type": "tabs",
         "children": [
           {
-            "id": "844f719ee779c7c9",
+            "id": "74458af3ae35047c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loena Hendrickx.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Loena Hendrickx"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -53,8 +49,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Loena",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -206,8 +202,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "844f719ee779c7c9",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
+    "Loena Hendrickx.md",
     "Attachments/image-264.webp",
     "Loisirs/Sport/Sportifs/Marion Norbert-Riberolle.md",
     "Toon Aerts.md",
@@ -243,7 +240,6 @@
     "Attachments/image-258.webp",
     "Loisirs/Jeux Vidéos/Personnalités/David Rosen.md",
     "Attachments/image-255.webp",
-    "Attachments/image-254.webp",
     "Culture/Géographie",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Sans titre"
