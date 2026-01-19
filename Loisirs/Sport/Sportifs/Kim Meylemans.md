@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-196.webp]]
+![[image-265.webp]]
 # Kim Meylemans
 
 # Informations Générales
@@ -45,4 +45,6 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 - [Lien vers une source](#)
 - [Article détaillé](#)
 
-![[image-257.webp]]
+![[image-257.webp]] 
+
+![[image-196.webp]] 
