@@ -25,7 +25,7 @@ type: event
 | 9e étape  | Eryk Goczal (Auto)<br>Tosha Schareina (Moto)          | Nani Roma (Auto)<br>Daniel Sanders (Moto)            | [[Guillaume de Mévius]] - 5e<br>                            |
 | 10e étape | Adrien Van Beveren (Moto)<br>Mathieu Serradori (Auto) | Ricky Brabec (Moto)<br>Nasser Al-Attiyah (Auto)      |                                                             |
 | 11e étape | Skyler Howes (Moto)<br>Mattias Ekstrom (Auto)         | Luciano Benavides (Moto)<br>Nasser Al-Attiyah (Auto) | [[Guillaume de Mévius]] - 6e                                |
-|           |                                                       |                                                      |                                                             |
+| 12e étape |                                                       | Ricky Brabec (Moto)<br>Nasser Al-Attiyah (Auto)      |                                                             |
 ## Femmes
 
 ### Etapes

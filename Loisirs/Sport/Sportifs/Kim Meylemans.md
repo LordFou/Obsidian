@@ -25,7 +25,9 @@ type: personne
 | 2025  | Sigulda                                      | 1ière     |          |
 | 2025  | Winterberg                                   | 7e        |          |
 | 2026  | Championnat d'Europe - Saint-Moritz (Suisse) | ==1ière== |          |
-| 2026  | Coupe du Monde - Altenberg                   | ?         |          |
+| 2026  | Coupe du Monde - Altenberg                   | 3e        |          |
+| 2026  | Coupe du Monde - Classement final            | ==1ière== |          |
+|       |                                              |           |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

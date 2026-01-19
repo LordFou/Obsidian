@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Maximilien Drion.md",
+                "file": "Loisirs/Sport/Compétitions/Dakar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maximilien Drion"
+              "title": "Dakar"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Maximilien",
+                "query": "Kim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -208,11 +208,12 @@
   },
   "active": "74458af3ae35047c",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Kim Meylemans.md",
+    "Loisirs/Sport/Sportifs/Maximilien Drion.md",
     "Red Panthers.md",
     "Loisirs/Sport/Compétitions/Championnat d'Europe de Hockey Indoor.md",
     "Loisirs/Sport/Compétitions/Euro Hockey Indoor.md",
     "Loisirs/Sport/Compétitions/Dakar.md",
-    "Loisirs/Sport/Sportifs/Kim Meylemans.md",
     "Loisirs/Sport/Sportifs/Thomas Detry.md",
     "Loisirs/Sport/Sportifs/Armand Marchant.md",
     "Loena Hendrickx.md",
@@ -238,7 +239,6 @@
     "Attachments/image-257.webp",
     "Attachments/image-256.webp",
     "conflict-files-obsidian-git.md",
-    "Loisirs/Sport/Sportifs/Toumani Camara.md",
     "Attachments/image-261.webp",
     "Attachments/image-260.webp",
     "Attachments/image-259.webp",
