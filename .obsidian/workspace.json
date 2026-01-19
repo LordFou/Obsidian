@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Armand Marchant.md",
+                "file": "Loisirs/Sport/Sportifs/Thomas Detry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Armand Marchant"
+              "title": "Thomas Detry"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Armand Marchant",
+                "query": "Thomas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,9 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbacc6f984f28690",
+  "active": "74458af3ae35047c",
   "lastOpenFiles": [
     "Loisirs/Sport/Compétitions/Dakar.md",
+    "Loisirs/Sport/Sportifs/Thomas Detry.md",
+    "Loisirs/Sport/Sportifs/Armand Marchant.md",
     "Loena Hendrickx.md",
     "Attachments/image-264.webp",
     "Loisirs/Sport/Sportifs/Marion Norbert-Riberolle.md",
@@ -224,7 +225,6 @@
     "Loisirs/Sport/Sportifs/Michael Vanthourenhout.md",
     "Loisirs/Sport/Sportifs/Emiel Verstrynge.md",
     "Thibau Nys.md",
-    "Loisirs/Sport/Sportifs/Armand Marchant.md",
     "Championnat de Belgique de Cyclocross.md",
     "Famille/Membres/Sandrine Leclercq.md",
     "Loisirs/Sport/Sportifs/Sandrine Tas.md",
@@ -242,7 +242,6 @@
     "Attachments/image-260.webp",
     "Attachments/image-259.webp",
     "Attachments/image-258.webp",
-    "Loisirs/Jeux Vidéos/Personnalités/David Rosen.md",
     "Attachments/image-255.webp",
     "Culture/Géographie",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
