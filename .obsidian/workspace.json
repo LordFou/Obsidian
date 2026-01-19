@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Dakar.md",
+                "file": "Loisirs/Sport/Sportifs/Armand Marchant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dakar"
+              "title": "Armand Marchant"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dakar",
+                "query": "Armand Marchant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -206,14 +206,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74458af3ae35047c",
+  "active": "dbacc6f984f28690",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Dakar.md",
     "Loena Hendrickx.md",
     "Attachments/image-264.webp",
     "Loisirs/Sport/Sportifs/Marion Norbert-Riberolle.md",
     "Toon Aerts.md",
     "Attachments/image-263.webp",
-    "Loisirs/Sport/Compétitions/Dakar.md",
     "Loisirs/Sport/Sportifs/Mathias Vosté.md",
     "Loisirs/Sport/Sportifs/Isabelle van Elst.md",
     "Loisirs/Sport/Sportifs/Fran Vanhoutte.md",

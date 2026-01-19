@@ -20,6 +20,8 @@ type: personne
 | 2025  | Coupe du Monde - Val d'Isère (France) - Slalom Géant          | 22e                        |                         |
 | 2026  | Coupe du Monde - Madonna di Campiglio (Italie) - Slalom Géant | 6e                         |                         |
 | 2026  | Coupe du Monde - Abelboden (Suisse) - Slalom Géant            | 10e                        |                         |
+| 2026  | Coupe d'Europe - Crans-Montana (Suisse) - Slalom Géant        | ==1ier==                   |                         |
+|       |                                                               |                            |                         |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
