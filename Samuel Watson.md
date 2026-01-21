@@ -2,20 +2,20 @@
 type: personne
 ---
 
-# Barbora Krejcikova
+# Samuel Watson
 
 # Informations Générales
-- **Date de naissance** :  
-- **Nationalité** :  Tchèque
-- **Sport / Discipline** :  [[Tennis]]
+- **Date de naissance** :  2001
+- **Nationalité** : Britannique
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Ineos]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition              | Résultat  | Remarque |
-| ----- | ------------------------ | --------- | -------- |
-| 2024  | [[Wimbledon]] | Vainqueur |          |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

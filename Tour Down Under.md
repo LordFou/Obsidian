@@ -5,17 +5,17 @@ type: event
 
 # Introduction
 
-# Edition 2025
+# Edition 2026
 
 ## Hommes
 
 ### Etapes 
 
-|     | Vainqueur     | Général            | Montagne  | Points            | Jeune          | Remarques                                         |
-| --- | ------------- | ------------------ | --------- | ----------------- | -------------- | ------------------------------------------------- |
-|     |               |                    |           |                   |                |                                                   |
-|     |               |                    |           |                   |                |                                                   |
-|     |               |                    |           |                   |                |                                                   |
+|     | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques                       |
+| --- | ----------------- | ----------------- | -------- | ------ | ----- | ------------------------------- |
+| 1e  | [[Samuel Watson]] | [[Samuel Watson]] |          |        |       | 27e - [[Fabio Van den Bossche]] |
+|     |                   |                   |          |        |       |                                 |
+|     |                   |                   |          |        |       |                                 |
 ## Femmes
 
 ### Etapes
@@ -31,7 +31,7 @@ type: event
 | Année | Vainqueur            | Nationalité | Remarque |
 | ----- | -------------------- | ----------- | -------- |
 | 2025  | [[Jonathan Narvaez]] | Equatorien  |          |
-|       |                      |             |          |
+| 2026  |                      |             |          |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

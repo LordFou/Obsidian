@@ -17,11 +17,11 @@ type: personne
 | ----- | ---------------------------------- | ------------ | ------------------------------------------------------------------- |
 | 2019  | [[US Open]] - Double               | Vainqueur    | avec [[Aryna Sabalenka]]                                            |
 | 2021  | [[Open d'Australie]] - Double      | Vainqueur    | avec [[Aryna Sabalenka]]                                            |
-| 2021  | [[Tournoi de Wimbledon]] - Double  | Vainqueur    | avec [[Su-Wei Hsieh]]                                               |
+| 2021  | [[Wimbledon]] - Double  | Vainqueur    | avec [[Su-Wei Hsieh]]                                               |
 | 2024  | [[Open d'Australie]] - Double      | Vainqueur    | avec [[Su-Wei Hsieh]]                                               |
 | 2025  | [[Tournoi de Rosmalen]] - Simple   | Vainqueur    | 10e titre en simple                                                 |
-| 2025  | [[Tournoi de Wimbledon]] - Simple  | 8e de finale |                                                                     |
-| 2025  | [[Tournoi de Wimbledon]] - Double  | Vainqueur    | 5e titre de grand chelem en double<br>avec [[Veronika Kudermetova]] |
+| 2025  | [[Wimbledon]] - Simple  | 8e de finale |                                                                     |
+| 2025  | [[Wimbledon]] - Double  | Vainqueur    | 5e titre de grand chelem en double<br>avec [[Veronika Kudermetova]] |
 | 2025  | [[US Open]] - Simple               | 3e tour      |                                                                     |
 | 2025  | [[US Open]] - Double               | Demi-finale  | avec [[Veronika Kudermetova]]                                       |
 | 2025  | [[Tournoi de Wuhan]] - Simple      | 2e tour      | Blessée au dos                                                      |
@@ -36,7 +36,7 @@ type: personne
 
 # Records et Faits Marquants
 - Lors du [[Tournoi de Rosmalen]] en 2025, elle sauve 11 balles de match en demi-finale.
-- 4 finales en double à [[Tournoi de Wimbledon|Wimbledon]]
+- 4 finales en double à [[Wimbledon|Wimbledon]]
 - 5 titres de grand chelem en double
 - WTA - 21e
 

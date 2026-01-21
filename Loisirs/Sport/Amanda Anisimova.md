@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition              | Résultat  | Remarque |
 | ----- | ------------------------ | --------- | -------- |
-| 2025  | [[Tournoi de Wimbledon]] | Finaliste |          |
+| 2025  | [[Wimbledon]] | Finaliste |          |
 | 2025  | [[US Open]]              | Finaliste |          |
 
 # Style et Caractéristiques

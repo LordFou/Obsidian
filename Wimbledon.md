@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Tournoi de Wimbledon
+# Wimbledon
 
 # Introduction
 
