@@ -8,7 +8,10 @@ type: game
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : Dotemu
+	- Studio : 
+		- [[Dotemu]]
+		- [[Guard Crush]]
+		- [[Supamonks]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 

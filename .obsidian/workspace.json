@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Goodnight Universe.md",
+                "file": "Dotemu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goodnight Universe"
+              "title": "Dotemu"
             },
             "group": "847baa34de6b2a56"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Goodnight Universe.md",
+                "file": "Dotemu.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Goodnight Universe"
+              "title": "Graphique de Dotemu"
             },
             "group": "847baa34de6b2a56"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Before ",
+                "query": "Absolum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,7 +131,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,11 +255,12 @@
   },
   "active": "19121f6138c9baca",
   "lastOpenFiles": [
-    "Skybound Games.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Absolum.md",
+    "Dotemu.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Goodnight Universe.md",
+    "Skybound Games.md",
     "Nice Dream.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Before Your Eyes.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Absolum.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Europa Universalis V.md",
     "Lionel Taminiaux.md",
     "Tour Down Under.md",
@@ -281,7 +283,6 @@
     "Loisirs/Sport/Sportifs/Evi Van Acker.md",
     "Elise Mertens.md",
     "Loisirs/Sport/Compétitions/Coupe d'Afrique de Football.md",
-    "Thibau Nys.md",
     "Attachments/image-266.webp",
     "Attachments/image-265.webp",
     "Attachments/image-264.webp",
