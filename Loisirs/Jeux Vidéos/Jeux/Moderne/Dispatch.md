@@ -8,19 +8,20 @@ type: game
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[AdHoc Studio]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
+- **Éditeur** : [[AdHoc Studio]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Jeu narratif]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 7/10 (Canard PC)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -30,7 +31,7 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-- **Influencé par** :
+- **Influencé par** : les jeux [[Telltales]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

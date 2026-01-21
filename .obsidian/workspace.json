@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dotemu.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dispatch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dotemu"
+              "title": "Dispatch"
             },
             "group": "847baa34de6b2a56"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dotemu.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dispatch.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Dotemu"
+              "title": "Graphique de Dispatch"
             },
             "group": "847baa34de6b2a56"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Absolum",
+                "query": "dispat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,8 +255,19 @@
   },
   "active": "19121f6138c9baca",
   "lastOpenFiles": [
+    "Telltales.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dispatch.md",
+    "AdHoc Studio.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Absolum.md",
+    "Street of Rage 4.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Teenage Mutant Ninja Turtles - Tactical Takedown.md",
+    "Franchise Street of Rage.md",
+    "Supamonks.md",
+    "Guard Crush.md",
     "Dotemu.md",
+    "Templates/Fiche Jeu.md",
+    "Templates/Fiche Société Edition.md",
+    "Templates/Fiche Studio Développement.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Goodnight Universe.md",
     "Skybound Games.md",
     "Nice Dream.md",
@@ -270,19 +281,8 @@
     "Coupe du Monde.md",
     "Journal de bord/2026-01-21.md",
     "Coupe du Monde 2026.md",
-    "Samuel Watson.md",
     "Attachments/image-268.webp",
-    "Jonathan Narvaez.md",
     "Attachments/image-267.webp",
-    "Fabio Van den Bossche.md",
-    "Zizou Bergs.md",
-    "Raphaël Collignon.md",
-    "Wimbledon.md",
-    "Loisirs/Sport/Australien Open.md",
-    "Mark Rutte.md",
-    "Loisirs/Sport/Sportifs/Evi Van Acker.md",
-    "Elise Mertens.md",
-    "Loisirs/Sport/Compétitions/Coupe d'Afrique de Football.md",
     "Attachments/image-266.webp",
     "Attachments/image-265.webp",
     "Attachments/image-264.webp",

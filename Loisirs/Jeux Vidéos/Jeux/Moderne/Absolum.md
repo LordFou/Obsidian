@@ -13,24 +13,30 @@ type: game
 		- [[Guard Crush]]
 		- [[Supamonks]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
+- **Éditeur** : [[Dotemu]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Beat'em all]], [[Roguelite]], [[Coopération]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
-- **Gameplay** :
+- **Réception critique** : 
+	- 9/10 (Canard PC)
+- **Gameplay** : 
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- Monde de Talamh
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Galandra (Guerrière)
+	- Ciderla
+	- Brome (Mage)
+	- Karl (Nain)
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
