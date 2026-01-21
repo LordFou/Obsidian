@@ -90,6 +90,7 @@ Lister les prix et reconnaissances obtenues.
 	- Shadow of the Colossus
 	- Shenmue
 	- Jet Set Radio
-- Il
+- Son but était de devenir game designer mais il ne voulait pas faire des études (trop long, trop cher), donc il l'a joué au culot en passant par la filière testeur de jeux et a monté les échelons petit à petit.
+- Il a utilisé des outils comme [[JIRA]] notamment pour tous les tickets de testeur.
 ## Sources et Références
 - https://www.pointnthink.fr/fr/interview-yoann-gueritot/
