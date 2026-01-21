@@ -1,27 +1,26 @@
 ---
 type: game
 ---
-![[image-270.webp]]
-# The Outer Worlds 2
+
+# Big Hops
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Obsidian]]
+	- Studio : [[Luckshot Games]]
 	- Personnalités : 
-- **Éditeur** : [[Xbox Games Studio]]
-- **Plateformes** : [[PC]], [[XBox One]], [[Xbox Series]], [[Playstation 4]], [[Playstation 5]]
+- **Éditeur** : [[Luckshot Games]]
+- **Plateformes** : [[PC]], [[Switch]], [[Playstation 5]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Plateforme]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- Canard PC : 8/10
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
