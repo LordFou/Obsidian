@@ -11,8 +11,8 @@ type: game
 	- Studio : [[Douze Dixièmes]]
 	- Personnalités : 
 - **Éditeur** : [[Focus Entertainment]]
-- **Plateformes** : 
-	- **Franchise** : 
+- **Plateformes** : [[Xbox Series]]
+- **Franchise** : 
 - **Genre** : [[Metroïdvania]]
 - **Résumé** : 
 
@@ -20,7 +20,11 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Point & Click 
+		- Elégant
+		- Côté exigeant (assumé par les développeurs)
+		- Exploration parfois décevante avec certains 
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -28,6 +32,7 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- MIO le robot
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
@@ -40,4 +45,4 @@ type: game
 | Description           | URL                                                  |
 | --------------------- | ---------------------------------------------------- |
 | Article Point & Click | https://www.pointnthink.fr/fr/mio-memories-in-orbit/ |
-|                       |                                                      |
+| Vidéo                 |                                                      |

@@ -26,14 +26,16 @@ content:
 ## Jeux Développés
 | Année | Titre                       |
 | ----- | --------------------------- |
+| ?     | [[Shady Part Of Me]]        |
 | 2026  | [[MIO - Memories in Orbit]] |
+|       |                             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
 - Moteur 2
 
 ## Style et Influence
-Décrire le style graphique, les thématiques abordées, les influences notables.
+- Ils s'inspirent généralement du monde de la peinture pour créer leurs jeux.
 
 ## Succès et Récompenses
 Lister les prix, distinctions ou records obtenus.
