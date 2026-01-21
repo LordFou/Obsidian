@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hiroshi Matsumaya.md",
+                "file": "Douze Dixièmes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hiroshi Matsumaya"
+              "title": "Douze Dixièmes"
             },
             "group": "847baa34de6b2a56"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Hiroshi Matsumaya.md",
+                "file": "Douze Dixièmes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Hiroshi Matsumaya"
+              "title": "Graphique de Douze Dixièmes"
             },
             "group": "847baa34de6b2a56"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Final Fant",
+                "query": "MIO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,8 +254,12 @@
   },
   "active": "19121f6138c9baca",
   "lastOpenFiles": [
-    "CyberConnect2.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/MIO - Memories in Orbit.md",
+    "Douze Dixièmes.md",
+    "Focus Entertainment.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/RoadCraft.md",
     "Hiroshi Matsumaya.md",
+    "CyberConnect2.md",
     "Fuga - Melodies of Steel.md",
     "Franchise Fuga - Melodies of Steel.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Solatorobo.md",
@@ -276,10 +280,6 @@
     "The Chinese Room.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire The Masquerade - Bloodlines 2.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Légendes Pokémon - Z-A.md",
-    "Game Freak.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Rue Valley.md",
-    "Owlcat Games.md",
-    "Emotion Sparks Studio.md",
     "Attachments/image-268.webp",
     "Attachments/image-267.webp",
     "Attachments/image-266.webp",
