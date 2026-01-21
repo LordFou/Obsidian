@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Electronic Arts
+# Sports Interactive
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -12,21 +12,21 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  
-- **Site officiel** : [Lien](#)  [[[[]]]]
+- **Pays d’origine** :  Angleterre
+- **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
 ```timeline-labeled
 [line-5, body-2]
-date: Septembre 2025  
-title: Rachat de la société
-content: [[Electronic Arts]] est racheté par l'Arabie Saoudite (via le fond d'investissement [[PIF]]) (93,4% !!) et la famille [[Trump]]... via la firme de son gendre [[Jared Kushner]] et sa société [[Affinity Partners]]
+date:  
+title: 
+content:
 ```
 
 ## Jeux Développés
-| Année | Titre      | Genre              | Plateformes           |
-| ----- | ---------- | ------------------ | --------------------- |
-| XXXX  | Nom du jeu | Action / RPG / FPS | PC, PS5, Xbox, Switch |
+| Année | Titre                     |
+| ----- | ------------------------- |
+| 2025  | [[Football Manager 2026]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
