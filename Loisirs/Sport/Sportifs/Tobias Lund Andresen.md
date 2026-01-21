@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Franziska Koch
+# Tobias Lund Andresen
 
 # Informations Générales
-- **Date de naissance** :  
-- **Nationalité** :  Allemande
+- **Date de naissance** :  2003
+- **Nationalité** :  Danemark
 - **Sport / Discipline** :  [[Cyclisme]]
-- **Poste / Spécialité** (si applicable) :  [[Picnic Post NL]]
-- **Équipe(s) / Club(s)** :  
+- **Poste / Spécialité** (si applicable) :  
+- **Équipe(s) / Club(s)** :  [[Picnic Post NL]],[[Décathlon]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                   | Résultat | Remarque   |
-| ----- | ----------------------------- | -------- | ---------- |
-| 2025  | [[Tour de France]] - 1e étape | 48e      | Combattive |
-| 2025  | [[Tour de France]] - 4e étape | 140e     | Combattive |
+| Année | Compétition                    | Résultat | Remarque |
+| ----- | ------------------------------ | -------- | -------- |
+| 2026  | [[Tour Down Under]] - 1e étape | 1ier     | Sprint   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

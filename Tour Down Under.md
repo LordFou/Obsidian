@@ -11,11 +11,11 @@ type: event
 
 ### Etapes 
 
-|     | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques                       |
-| --- | ----------------- | ----------------- | -------- | ------ | ----- | ------------------------------- |
-| 1e  | [[Samuel Watson]] | [[Samuel Watson]] |          |        |       | 27e - [[Fabio Van den Bossche]] |
-|     |                   |                   |          |        |       |                                 |
-|     |                   |                   |          |        |       |                                 |
+|          | Vainqueur                | Général           | Montagne | Points | Jeune | Remarques                       |
+| -------- | ------------------------ | ----------------- | -------- | ------ | ----- | ------------------------------- |
+| Prologue | [[Samuel Watson]]        | [[Samuel Watson]] |          |        |       | 27e - [[Fabio Van den Bossche]] |
+| 1e étape | [[Tobias Lund Andresen]] |                   |          |        |       | 7e - [[Lionel Taminiaux]]       |
+|          |                          |                   |          |        |       |                                 |
 ## Femmes
 
 ### Etapes

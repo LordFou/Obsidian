@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition      | Résultat | Remarque         |
-| ----- | ---------------- | -------- | ---------------- |
-| 2025  | [[Textielprijs]] | 1ier     | Détail optionnel |
+| Année | Compétition                    | Résultat | Remarque |
+| ----- | ------------------------------ | -------- | -------- |
+| 2025  | [[Textielprijs]]               | 1ier     |          |
+| 2026  | [[Tour Down Under]] - 1e étape | 7e       | Sprint   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
