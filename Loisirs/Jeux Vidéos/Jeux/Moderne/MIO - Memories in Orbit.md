@@ -23,8 +23,11 @@ type: game
 - **Réception critique** : 
 	- Point & Click 
 		- Elégant
+		- Gameplay fluide, précis et réactif
+		- Musique ++
 		- Côté exigeant (assumé par les développeurs)
-		- Exploration parfois décevante avec certains 
+		- Exploration parfois décevante avec certains aller-retour fastidieux
+		- Economie peu équilibrée
 - **Gameplay** :
 - **Durée estimée** : 
 
