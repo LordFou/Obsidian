@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : [[Sam Eng]]
-- **Éditeur** : [[Devolver]]
+- **Éditeur** : [[Devolver Digital]]
 - **Plateformes** : PC, PS5, Switch 2
 - **Franchise** : 
 - **Genre** :

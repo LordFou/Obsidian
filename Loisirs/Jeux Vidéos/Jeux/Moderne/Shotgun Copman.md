@@ -7,7 +7,7 @@
 - **Développeur** : 
 	- Studio : [[DeadToast Entertainment]]
 	- Personnalités : 
-- **Éditeur** : [[Devolver]]
+- **Éditeur** : [[Devolver Digital]]
 - **Plateformes** : PC, Switch
 - **Franchise** : 
 - **Genre** : [[Action]], [[Shooter]], [[Plateforme]], [[Speedrun]]

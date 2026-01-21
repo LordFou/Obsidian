@@ -2,28 +2,25 @@
 type: game
 ---
 
-# Ninja Gaiden 4
+# Rue Valley
 
 ## Informations Générales
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
-		- [[Team Ninja]]
-		- [[PlatinumGames]]
+	- Studio : Emotion 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Ninja Gaiden]]
-- **Genre** : [[Action]]
+- **Franchise** : 
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 6/10 (Canard PC)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -34,6 +31,7 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Disco Elysium]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

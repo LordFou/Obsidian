@@ -9,18 +9,21 @@ type: game
 - **Année de sortie** : 
 - **Développeur** : 
 	- Studio : 
+		- Sora
+		- [[Bandai Namco Studios]] - Japon
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
+- **Éditeur** : [[Nintendo]]
+- **Plateformes** : [[Switch 2]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Course]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 8/10 (Canard PC)
 - **Gameplay** :
 - **Durée estimée** : 
 

@@ -2,28 +2,25 @@
 type: game
 ---
 
-# Ninja Gaiden 4
+# Tekken
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 
 - **Développeur** : 
 	- Studio : 
-		- [[Team Ninja]]
-		- [[PlatinumGames]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Ninja Gaiden]]
-- **Genre** : [[Action]]
+- **Franchise** : 
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 6/10 (Canard PC)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
