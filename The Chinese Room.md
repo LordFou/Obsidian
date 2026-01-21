@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Game Freak
+# The Chinese Room
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -12,7 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  Japon
+- **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -24,10 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                      | Genre | Plateformes           |
-| ----- | -------------------------- | ----- | --------------------- |
-| 2025  | [[Légendes Pokémon - Z-A]] |       | PC, PS5, Xbox, Switch |
-|       |                            |       |                       |
+| Année | Titre                                     |
+| ----- | ----------------------------------------- |
+| 2025  | [[Vampire The Masquerade - Bloodlines 2]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

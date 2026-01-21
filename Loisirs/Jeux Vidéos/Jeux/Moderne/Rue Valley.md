@@ -8,9 +8,9 @@ type: game
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : Emotion 
+	- Studio : [[Emotion Sparks Studio]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Owlcat Games]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :
@@ -20,7 +20,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** :
+	- 7/10 (Canard PC)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -30,6 +31,7 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Boucle temporelle]]
 - **Influencé par** :
 	- [[Disco Elysium]]
 - **A inspiré** : 
