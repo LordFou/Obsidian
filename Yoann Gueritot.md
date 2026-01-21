@@ -10,8 +10,13 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 ## Informations Générales
 - **Date de naissance** :  1987
 - **Nationalité** :  Français
-- **Profession(s)** : (Développeur, Designer, Compositeur, Journaliste, etc.)  
-- **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
+- **Profession(s)** : 
+	- Testeur
+	- Réalisateur 
+- **Entreprise(s) associée(s)** : 
+	- CyberConnect2
+	- [[PlatinumGames]]
+	- [[Sega]]
 
 ```timeline-labeled
 [line-5, body-2]
@@ -21,7 +26,15 @@ content:
 
 date: 2013 
 title: Arrivée au Japon
-content: Il est engagé au sein de 
+content: Il est engagé au sein de [[CyberConnect2]]
+
+date: ? 
+title: Entrée chez [[PlatinumGames]]
+content:
+
+date: 2026 
+title: Entrée chez [[Sega]]
+content:
 ```
 
 
@@ -66,6 +79,17 @@ Lister les prix et reconnaissances obtenues.
 ## Controverses ou Faits Marquants
 Évoquer les polémiques ou événements notables liés à cette personne.
 
+# Anecdotes
+- Premières consoles
+	- [[NES]] 
+	- [[Megadrive]]
+- Premiers jeux
+	- Final Fantasy I
+	- Suikoden
+	- Katamary Damacy
+	- Shadow of the Colossus
+	- Shenmue
+	- Jet Set Radio
+- Il
 ## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+- https://www.pointnthink.fr/fr/interview-yoann-gueritot/

@@ -1,16 +1,19 @@
-![[Pasted image 20250518015521.png]]
-# Dick Tracy
+---
+type: game
+---
+
+# Final Fantasy VII - Remake
 
 ## Informations Générales
 
-- **Année de sortie** : [[1991]]
+- **Année de sortie** : 2013 (?)
 - **Développeur** : 
-	- Studio : [[Disney]]
+	- Studio : 
 	- Personnalités : 
-		- [[Roger Hector]] (Superviseur)
+		- [[Yoann Gueritot]] 
 - **Éditeur** : 
-- **Plateformes** : [[Megadrive]]
-- **Franchise** : 
+- **Plateformes** : 
+- **Franchise** : [[Franchise Final Fantasy]]
 - **Genre** :
 - **Résumé** : 
 
@@ -20,6 +23,7 @@
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
+- **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 

@@ -22,9 +22,9 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre | Année | Plateformes | Remarque |
-| ----- | ----- | ----------- | -------- |
-|       |       |             |          |
+| Titre                          | Année    | Plateformes | Remarque |
+| ------------------------------ | -------- | ----------- | -------- |
+| [[Final Fantasy VII - Remake]] | 2013 (?) |             |          |
 
 
 ## Mécaniques et innovations

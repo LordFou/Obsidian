@@ -1,15 +1,18 @@
-![[Pasted image 20250518015521.png]]
-# Dick Tracy
+---
+type: game
+---
+
+# Dragon Ball Z - Kakarot
 
 ## Informations Générales
 
-- **Année de sortie** : [[1991]]
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Disney]]
+	- Studio : 
 	- Personnalités : 
-		- [[Roger Hector]] (Superviseur)
+		- [[Yoann Gueritot]]
 - **Éditeur** : 
-- **Plateformes** : [[Megadrive]]
+- **Plateformes** : 
 - **Franchise** : 
 - **Genre** :
 - **Résumé** : 
@@ -20,6 +23,7 @@
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
+- **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 

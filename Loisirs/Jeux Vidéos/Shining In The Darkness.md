@@ -8,7 +8,7 @@
 	- Studio : [[Sega]]
 	- Personnalités : [[Shuo Takahashi]], [[Hiroyuki Takahashi]]
 - **Éditeur** : 
-- **Plateformes** : [[Mega Drive]]
+- **Plateformes** : [[Megadrive]]
 - **Franchise** : [[Shining Force|Shining]]
 - **Genre** : [[Dungeon Crawler]]
 - **Résumé** : 
