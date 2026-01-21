@@ -1,27 +1,26 @@
 ---
 type: game
 ---
-![[image-271.webp]]
-# Big Hops
+![[image-272.webp]]
+# Cassette Boy
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Luckshot Games]]
+	- Studio : [[Wonderland Kazakiri]] 
 	- Personnalités : 
-- **Éditeur** : [[Luckshot Games]]
-- **Plateformes** : [[PC]], [[Switch]], [[Playstation 5]]
+- **Éditeur** : [[Pocketpair Publishing]]
+- **Plateformes** : [[Playstation 5]], [[PC]], [[Switch]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Plateforme]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- CheckPoint : 7.5 / 10
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -40,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/WpEAiQ5BCqE |
+| Trailer     | https://youtu.be/aXk4QbJthX8 |

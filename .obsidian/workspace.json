@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Big Hops.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cassette Boy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Big Hops"
+              "title": "Cassette Boy"
             },
             "group": "847baa34de6b2a56"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Big Hops.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cassette Boy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Big Hops"
+              "title": "Graphique de Cassette Boy"
             },
             "group": "847baa34de6b2a56"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Big Hops",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,8 +254,13 @@
   },
   "active": "19121f6138c9baca",
   "lastOpenFiles": [
-    "Luckshot Games.md",
+    "Attachments/image-272.webp",
+    "Pocketpair Publishing.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cassette Boy.md",
+    "Wonderland Kazakiri.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Big Hops.md",
+    "Attachments/image-271.webp",
+    "Luckshot Games.md",
     "The Outer Worlds 2.md",
     "Loisirs/Jeux Vidéos/Sociétés/Obsidian.md",
     "Attachments/image-270.webp",
@@ -279,10 +284,6 @@
     "Franchise Final Fantasy.md",
     "Fuga - Melodies of Steel 2.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Fuga - Melodies of Steel 3.md",
-    "PIF.md",
-    "Electronic Arts.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Football Manager 2026.md",
-    "Sports Interactive.md",
     "Attachments/image-268.webp",
     "Attachments/image-267.webp",
     "Attachments/image-266.webp",
@@ -290,7 +291,6 @@
     "Attachments/image-264.webp",
     "Attachments/image-263.webp",
     "Attachments/image-262.webp",
-    "Attachments/image-257.webp",
     "Culture/Géographie",
     "Sans titre"
   ]
