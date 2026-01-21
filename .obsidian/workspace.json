@@ -6,7 +6,7 @@
       {
         "id": "19c0e890119877bd",
         "type": "tabs",
-        "dimension": 69.23076923076923,
+        "dimension": 69.63993453355155,
         "children": [
           {
             "id": "19121f6138c9baca",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Douze Dixièmes.md",
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Douze Dixièmes"
+              "title": "Obsidian"
             },
             "group": "847baa34de6b2a56"
           }
@@ -28,7 +28,7 @@
       {
         "id": "5b05c08145c25f75",
         "type": "tabs",
-        "dimension": 30.76923076923077,
+        "dimension": 30.360065466448443,
         "children": [
           {
             "id": "c22676abf5bf3096",
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Douze Dixièmes.md",
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Obsidian.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Douze Dixièmes"
+              "title": "Graphique de Obsidian"
             },
             "group": "847baa34de6b2a56"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MIO",
+                "query": "Outer World",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -255,9 +255,12 @@
   },
   "active": "19121f6138c9baca",
   "lastOpenFiles": [
+    "The Outer Worlds 2.md",
+    "Attachments/image-270.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/MIO - Memories in Orbit.md",
-    "Focus Entertainment.md",
+    "Attachments/image-269.webp",
     "Douze Dixièmes.md",
+    "Focus Entertainment.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Shady Part Of Me.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/RoadCraft.md",
@@ -281,7 +284,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Séance of Blake Manor.md",
     "Spooky Doorways.md",
     "The Chinese Room.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire The Masquerade - Bloodlines 2.md",
     "Attachments/image-268.webp",
     "Attachments/image-267.webp",
     "Attachments/image-266.webp",
@@ -290,8 +292,6 @@
     "Attachments/image-263.webp",
     "Attachments/image-262.webp",
     "Attachments/image-257.webp",
-    "Attachments/image-256.webp",
-    "Attachments/image-261.webp",
     "Culture/Géographie",
     "Sans titre"
   ]

@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-269.webp]]
 # MIO - Memories in Orbit
 
 ## Informations Générales
@@ -11,7 +11,7 @@ type: game
 	- Studio : [[Douze Dixièmes]]
 	- Personnalités : 
 - **Éditeur** : [[Focus Entertainment]]
-- **Plateformes** : [[Xbox Series]]
+- **Plateformes** : [[Xbox Series]], [[XBox One]], [[Switch]], [[Switch 2]], [[Playstation 4]], [[Playstation 5]]
 - **Franchise** : 
 - **Genre** : [[Metroïdvania]]
 - **Résumé** : 
@@ -28,6 +28,7 @@ type: game
 		- Côté exigeant (assumé par les développeurs)
 		- Exploration parfois décevante avec certains aller-retour fastidieux
 		- Economie peu équilibrée
+	- CheckPoint : 9/10 !!
 - **Gameplay** :
 - **Durée estimée** : 
 
