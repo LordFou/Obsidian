@@ -11,6 +11,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Nom complet** :  
 - **Date de création** :  
 - **Fondateurs** :  
+- **Président** : [[Hiroshi Matsumaya]]
 - **Personnalités** :
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
@@ -24,11 +25,13 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre             |
-| ----- | ----------------- |
-| XXXX  | [[Tail Concerto]] |
-|       | [[Solatorobo]]    |
-|       | Fu                |
+| Année | Titre                          |
+| ----- | ------------------------------ |
+| XXXX  | [[Tail Concerto]]              |
+|       | [[Solatorobo]]                 |
+|       | [[Fuga - Melodies of Steel]]   |
+|       | [[Fuga - Melodies of Steel 2]] |
+|       |                                |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

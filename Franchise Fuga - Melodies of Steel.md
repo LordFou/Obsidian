@@ -13,7 +13,12 @@ type: game
 - Genre principal : {{Stratégie, Action-Aventure, FPS...}}
 
 ## Résumé et historique
-{{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
+- Le jeu montre que la détermination, l’enthousiasme et la solidarité peuvent venir à bout de tous les obstacles. C’est un principe typiquement shônen.
+- Sujet de prédilection
+	- L'enfance
+	- La mort
+	- Le sacrifice
+	- La guerre
 
 ```timeline-labeled
 [line-5, body-2]
