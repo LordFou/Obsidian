@@ -12,9 +12,10 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 - **Nationalité** :  Français
 - **Profession(s)** : 
 	- Testeur
+	- Level Designer
 	- Réalisateur 
 - **Entreprise(s) associée(s)** : 
-	- CyberConnect2
+	- [[CyberConnect2]]
 	- [[PlatinumGames]]
 	- [[Sega]]
 
@@ -84,7 +85,7 @@ Lister les prix et reconnaissances obtenues.
 	- [[NES]] 
 	- [[Megadrive]]
 - Premiers jeux
-	- Final Fantasy I
+	- Final Fantasy VII
 	- Suikoden
 	- Katamary Damacy
 	- Shadow of the Colossus

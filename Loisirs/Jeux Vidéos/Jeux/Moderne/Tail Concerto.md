@@ -2,18 +2,17 @@
 type: game
 ---
 
-# Final Fantasy VII - Remake
+# Tail Concerto
 
 ## Informations Générales
 
-- **Année de sortie** : 2013 (?)
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[CyberConnect2]]
 	- Personnalités : 
-		- [[Yoann Gueritot]] 
-- **Éditeur** : [[Square Enix]] (?)
+- **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Final Fantasy]]
+- **Franchise** : 
 - **Genre** :
 - **Résumé** : 
 
