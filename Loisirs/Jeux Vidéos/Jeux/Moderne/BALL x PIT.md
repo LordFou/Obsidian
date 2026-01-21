@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : [[Kenny Sun]]
-- **Éditeur** : [[Devolver]]
+- **Éditeur** : [[Devolver Digital]]
 - **Plateformes** : All
 - **Franchise** : 
 - **Genre** : [[Casse-briques]], [[Vampire Survivor Like]], [[Roguelite]], [[Shoot'em up]]

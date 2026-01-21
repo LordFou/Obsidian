@@ -2,27 +2,27 @@
 type: game
 ---
 
-# Lumines Arise
+# Demonschool
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Enhance Monstars]]
+	- Studio : [[Necrosoft Games]]
 	- Personnalités : 
-		- [[Tetsuya Mizugushi]]
-- **Éditeur** : Enhance
-- **Plateformes** : [[PC]], [[Playstation 5]]
+- **Éditeur** : [[Ysbryd Games]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Puzzle]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[2D]]
+- **Graphismes** : [[3D Isométrique]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
-	- 8/10 (Canard PC)
+	- 7/10 (Canard PC)
+		- Beau et con à la fois 
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -33,6 +33,7 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- Persona 1 et Persona 2
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

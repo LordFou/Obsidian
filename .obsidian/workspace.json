@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dispatch.md",
+                "file": "Devolver Digital.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dispatch"
+              "title": "Devolver Digital"
             },
             "group": "847baa34de6b2a56"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dispatch.md",
+                "file": "Devolver Digital.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Dispatch"
+              "title": "Graphique de Devolver Digital"
             },
             "group": "847baa34de6b2a56"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dispat",
+                "query": "Devolver",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,8 +255,21 @@
   },
   "active": "19121f6138c9baca",
   "lastOpenFiles": [
-    "Telltales.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/BALL x PIT.md",
+    "Devolver.md",
+    "Devolver Digital.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Lumines Arise.md",
+    "Tetsuya Mizugushi.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Tetris Effect.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Child of Eden.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Rez.md",
+    "Enhance Monstars.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Demonschool.md",
+    "Ysbryd Games.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/World of Horror.md",
+    "Necrosoft Games.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Dispatch.md",
+    "Telltales.md",
     "AdHoc Studio.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Absolum.md",
     "Street of Rage 4.md",
@@ -268,19 +281,6 @@
     "Templates/Fiche Jeu.md",
     "Templates/Fiche Société Edition.md",
     "Templates/Fiche Studio Développement.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Goodnight Universe.md",
-    "Skybound Games.md",
-    "Nice Dream.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Before Your Eyes.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Europa Universalis V.md",
-    "Lionel Taminiaux.md",
-    "Tour Down Under.md",
-    "Loisirs/Sport/Sportifs/Tobias Lund Andresen.md",
-    "Picnic Post NL.md",
-    "Franziska Koch.md",
-    "Coupe du Monde.md",
-    "Journal de bord/2026-01-21.md",
-    "Coupe du Monde 2026.md",
     "Attachments/image-268.webp",
     "Attachments/image-267.webp",
     "Attachments/image-266.webp",

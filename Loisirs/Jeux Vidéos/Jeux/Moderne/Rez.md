@@ -2,27 +2,26 @@
 type: game
 ---
 
-# Lumines Arise
+# Rez
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 2001
 - **Développeur** : 
-	- Studio : [[Enhance Monstars]]
+	- Studio : 
 	- Personnalités : 
 		- [[Tetsuya Mizugushi]]
-- **Éditeur** : Enhance
-- **Plateformes** : [[PC]], [[Playstation 5]]
+- **Éditeur** : 
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Puzzle]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[2D]]
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 8/10 (Canard PC)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
