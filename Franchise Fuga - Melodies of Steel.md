@@ -21,6 +21,12 @@ date:
 title: 
 content:
 ```
+## Jeux principaux
+| Titre                          | Année | Plateformes | Remarque |
+| ------------------------------ | ----- | ----------- | -------- |
+| [[Fuga - Melodies of Steel]]   |       |             |          |
+| [[Fuga - Melodies of Steel 2]] |       |             |          |
+| [[Fuga - Melodies of Steel 3]] | 2025  |             |          |
 
 
 ## Mécaniques et innovations

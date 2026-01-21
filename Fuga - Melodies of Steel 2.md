@@ -2,18 +2,19 @@
 type: game
 ---
 
-# Fuga - Melodies of Steel 3
+# Fuga - Melodies of Steel 2
 
 ## Informations Générales
 
 - **Année de sortie** : 
-- **Développeur** : 2025
+- **Développeur** : 
 	- Studio : 
 	- Personnalités : 
+		- [[Yoann Gueritot]] (Réalisateur)
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Fuga - Melodies of Steel|Fuga]]
-- **Genre** : RPG, Simulation
+- **Franchise** : [[Franchise Fuga - Melodies of Steel]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,7 +38,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/If5Lzf_M9KU |
-|             |                              |
+| Description | URL |
+| ----------- | --- |
+|             |     |
