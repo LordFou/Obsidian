@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jay Vine.md",
+                "file": "Loisirs/Sport/Compétitions/Rallye de Monte-Carlo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jay Vine"
+              "title": "Rallye de Monte-Carlo"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Jay v",
+                "query": "WRC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jay Vine.md",
+                "file": "Loisirs/Sport/Compétitions/Rallye de Monte-Carlo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Jay Vine"
+              "title": "Rétrolien pour Rallye de Monte-Carlo"
             }
           },
           {
@@ -124,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jay Vine.md",
+                "file": "Loisirs/Sport/Compétitions/Rallye de Monte-Carlo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Jay Vine"
+              "title": "Liens sortants de Rallye de Monte-Carlo"
             }
           },
           {
@@ -206,8 +205,9 @@
   },
   "active": "b317aae6ae42f336",
   "lastOpenFiles": [
-    "Tour Down Under.md",
     "Jay Vine.md",
+    "Loisirs/Sport/Compétitions/Rallye de Monte-Carlo.md",
+    "Tour Down Under.md",
     "Elise Mertens.md",
     "Loisirs/Restaurant.md",
     "Loisirs/Tourisme/Chateaux.md",
@@ -237,7 +237,6 @@
     "CyberConnect2.md",
     "Fuga - Melodies of Steel.md",
     "Franchise Fuga - Melodies of Steel.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Solatorobo.md",
     "Attachments/image-268.webp",
     "Attachments/image-267.webp",
     "Attachments/image-266.webp",
