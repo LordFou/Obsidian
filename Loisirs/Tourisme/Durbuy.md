@@ -1,1 +1,4 @@
-- Le champ mégalithique de [[Wéris]] 
+- Le champ [[mégalithique]] de [[Wéris]] 
+	- [Wiki](https://fr.wikipedia.org/wiki/Champ_m%C3%A9galithique_de_W%C3%A9ris)
+	- [Site Officiel](https://megalithes-weris.be/)
+- 
