@@ -1,4 +1,8 @@
 - Le champ [[mégalithique]] de [[Wéris]] 
 	- [Wiki](https://fr.wikipedia.org/wiki/Champ_m%C3%A9galithique_de_W%C3%A9ris)
 	- [Site Officiel](https://megalithes-weris.be/)
-- 
+	- Promotion billet combiné ! **Pour 8****€**, visitez le **Musée des Mégalithes**, dégustez la **Dolménius**, et visitez le [**Parc des Topiaires**](http://www.topiaires.durbuy.be/) de Durbuy ! Billets en vente à la Maison des Mégalithes et au Parc des Topiaires.
+	- L'**entrée** au musée est **gratuite** le 1er dimanche du mois.
+- Le Parc des Topiaires
+	- [Site Officiel](https://topiaires.be/)
+	- 

@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "durbuy",
+                "query": "Final",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,8 +206,10 @@
   },
   "active": "b317aae6ae42f336",
   "lastOpenFiles": [
-    "Journal de bord/2026-01-22.md",
+    "Final Fantasy VII - Remake.md",
+    "Franchise Final Fantasy.md",
     "Loisirs/Tourisme/Durbuy.md",
+    "Journal de bord/2026-01-22.md",
     "Loisirs/Tourisme",
     "Loisirs/Sans titre.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cassette Boy.md",
@@ -233,10 +236,8 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Solatorobo.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Tail Concerto.md",
     "Yoann Gueritot.md",
-    "Final Fantasy VII - Remake.md",
     "Megadrive.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Dragon Ball Z - Kakarot.md",
-    "Franchise Final Fantasy.md",
     "Attachments/image-268.webp",
     "Attachments/image-267.webp",
     "Attachments/image-266.webp",
