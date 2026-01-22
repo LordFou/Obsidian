@@ -3,6 +3,7 @@
 	- [Site Officiel](https://megalithes-weris.be/)
 	- Promotion billet combiné ! **Pour 8****€**, visitez le **Musée des Mégalithes**, dégustez la **Dolménius**, et visitez le [**Parc des Topiaires**](http://www.topiaires.durbuy.be/) de Durbuy ! Billets en vente à la Maison des Mégalithes et au Parc des Topiaires.
 	- L'**entrée** au musée est **gratuite** le 1er dimanche du mois.
+	- [Géocaching](https://www.geocaching.com/play/map?sort=distance&asc=true&st=Place+Ars%C3%A8ne+Soreil+7%2C+6940+Durbuy&ot=query&r=16&mlat=50.32614200917675&mlng=5.529191493988037&zoom=16)
 - Le Parc des Topiaires
 	- [Site Officiel](https://topiaires.be/)
 	- 
