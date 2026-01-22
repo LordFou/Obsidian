@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4d14216ac1df35b1",
+        "id": "9ea238d89abcefd8",
         "type": "tabs",
         "children": [
           {
-            "id": "cc228b7dd077ef4f",
+            "id": "b317aae6ae42f336",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-01-22.md",
+                "file": "Loisirs/Tourisme/Durbuy.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-22"
+              "title": "Durbuy"
             }
           }
         ]
@@ -114,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Borderlands 4.md",
+                "file": "Loisirs/Tourisme/Durbuy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Borderlands 4"
+              "title": "Rétrolien pour Durbuy"
             }
           },
           {
@@ -191,13 +181,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 390.5,
-    "collapsed": true
+    "width": 384.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,9 +203,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc228b7dd077ef4f",
+  "active": "b317aae6ae42f336",
   "lastOpenFiles": [
     "Journal de bord/2026-01-22.md",
+    "Loisirs/Tourisme/Durbuy.md",
+    "Loisirs/Tourisme",
+    "Loisirs/Sans titre.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cassette Boy.md",
     "Attachments/image-272.webp",
     "Pocketpair Publishing.md",
@@ -246,8 +237,6 @@
     "Megadrive.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Dragon Ball Z - Kakarot.md",
     "Franchise Final Fantasy.md",
-    "Fuga - Melodies of Steel 2.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Fuga - Melodies of Steel 3.md",
     "Attachments/image-268.webp",
     "Attachments/image-267.webp",
     "Attachments/image-266.webp",
