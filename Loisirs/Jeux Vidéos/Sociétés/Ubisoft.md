@@ -38,6 +38,7 @@ Lister les prix, distinctions ou records obtenus.
 	- [[Serge Hascoet]]
 	- [[Guillaume Patrux]]
 	- [[Yves Guillemot]]
+- Janvier 2026, la firme réorganise ses équipes de développement en 7 équipes qui se partagent les jeux. 7 jeux sont annulés, 6 repoussés. La firme prône également la suppression du télétravail...
 
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
