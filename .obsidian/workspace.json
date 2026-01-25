@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "54433040a753d18f",
+        "id": "bfcb2835509d65de",
         "type": "tabs",
         "children": [
           {
-            "id": "48a7521af0a0bc7e",
+            "id": "86d6266e6059f0f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Radiolight.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Radiolight"
-            }
-          },
-          {
-            "id": "fca53af786ac595f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "title": "Nouvel onglet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,10 +201,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fca53af786ac595f",
+  "active": "86d6266e6059f0f3",
   "lastOpenFiles": [
-    "Championnat de Belgique de Cyclocross.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Radiolight.md",
+    "Championnat de Belgique de Cyclocross.md",
     "Loisirs/Sport/Sportifs/Marion Norbert-Riberolle.md",
     "Attachments/image-261.webp",
     "Sam Maes.md",
