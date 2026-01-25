@@ -49,7 +49,7 @@ type: personne
 - 3 Paris Roubaix
 - X champions du monde de cyclo cross
 - Lors du [[Tour de France]] 2025, il part contre toute attente au km 0 avec [[Jonas Rickaert]] dans une échappée alors que l'étape était promise aux sprinters. L'échappée échouera à 1000m de la ligne d'arrivée.
-- 50e victoire en Coupe du monde
+- 50 victoires en Coupe du monde de cyclocross.
 
 ## Controverses ou Événements Importants
 - Mai 2025 : fracture du scaphoïde.

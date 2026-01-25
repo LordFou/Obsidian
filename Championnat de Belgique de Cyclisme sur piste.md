@@ -14,7 +14,8 @@ type: event
 |       |           |             |          |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Epreuve                | Vainqueur         | Remarque |
+| ----- | ---------------------- | ----------------- | -------- |
+| 2025  | Omnium                 | [[Lotte Kopecky]] |          |
+| 2026  | Poursuite Individuelle | [[Lotte Kopecky]] |          |
+| 2026  |                        |                   |          |
