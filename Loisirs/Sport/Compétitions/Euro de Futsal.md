@@ -2,7 +2,7 @@
 type: event
 ---
 
-# {{title}}
+# Euro de Futsal
 
 # Introduction
 
