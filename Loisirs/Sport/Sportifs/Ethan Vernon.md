@@ -2,22 +2,20 @@
 type: personne
 ---
 
-# Jonathan Narvaez
+# Ethan Vernon
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Equatorien
+- **Nationalité** :  Britannique
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[UAE]]
+- **Équipe(s) / Club(s)** :  [[NSN Cycling Team]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                            | Résultat | Remarque  |
-| ----- | -------------------------------------- | -------- | --------- |
-| 2025  | [[Tour Down Under]] - Classement Final | 1ier     |           |
-| 2025  | [[Tour d'Allemagne]] - 2e étape        | 1ier     |           |
-| 2026  | [[Tour Down Under]] - 4e étape         | Abandon  | Sur chute |
+| Année | Compétition                    | Résultat | Remarque |
+| ----- | ------------------------------ | -------- | -------- |
+| 2026  | [[Tour Down Under]] - 4e étape | 1ier     | Sprint   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -26,7 +24,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-- Janvier 2026 => Fractures aux vertèbres thoracique duant le [[Tour Down Under]]
+Évoquer les polémiques ou moments clés de sa carrière.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
