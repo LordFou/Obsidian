@@ -6,7 +6,13 @@
 - [ ] Certif Gaz
 - [ ] Certif Electricité
 - [ ] Moustiquaire dans notre chambre
+- [ ] Armoires BD/Livres en bas escalier
+- [ ] 
 
+## Divers
+
+- [ ] Dons Ry-Ponet ou Autocollant
+- [ ] 
 ## Loisirs
 
 - [x] Achat Barbecue
