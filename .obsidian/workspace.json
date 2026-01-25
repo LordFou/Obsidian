@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Lennert Van Eetvelt.md",
+                "file": "Loisirs/Sport/Compétitions/JO 2026 - Hiver.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lennert Van Eetvelt"
+              "title": "JO 2026 - Hiver"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "JO 2026",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Lennert Van Eetvelt.md",
+                "file": "Loisirs/Sport/Compétitions/JO 2026 - Hiver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Lennert Van Eetvelt"
+              "title": "Rétrolien pour JO 2026 - Hiver"
             }
           },
           {
@@ -123,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Lennert Van Eetvelt.md",
+                "file": "Loisirs/Sport/Compétitions/JO 2026 - Hiver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Lennert Van Eetvelt"
+              "title": "Liens sortants de JO 2026 - Hiver"
             }
           },
           {
@@ -204,9 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aefc5933cb81ebb8",
+  "active": "dbacc6f984f28690",
   "lastOpenFiles": [
     "Loisirs/Sport/Sportifs/Sam Welsford.md",
+    "Loisirs/Sport/Compétitions/JO 2026 - Hiver.md",
     "Loisirs/Sport/Sportifs/Lennert Van Eetvelt.md",
     "Tour Down Under.md",
     "Journal de bord/Todo List.md",
@@ -236,7 +238,6 @@
     "Attachments/image-269.webp",
     "Douze Dixièmes.md",
     "Focus Entertainment.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shady Part Of Me.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Attachments/image-268.webp",
     "Attachments/image-267.webp",

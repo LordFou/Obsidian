@@ -13,10 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition        | Résultat | Remarque |
-| ----- | ------------------ | -------- | -------- |
-| 2025  | [[Tour de France]] | Abandon  |          |
-| 2026  | Tour               | Abandon  | Chute    |
+| Année | Compétition                    | Résultat | Remarque |
+| ----- | ------------------------------ | -------- | -------- |
+| 2025  | [[Tour de France]] - 14e étape | Abandon  |          |
+| 2026  | [[Tour Down Under]]            | Abandon  | Chute    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
