@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Australien Open
+# Australian Open
 
 # Introduction
 
