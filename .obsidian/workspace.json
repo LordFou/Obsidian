@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Radiolight"
             }
+          },
+          {
+            "id": "fca53af786ac595f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,7 +218,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "48a7521af0a0bc7e",
+  "active": "fca53af786ac595f",
   "lastOpenFiles": [
     "Championnat de Belgique de Cyclocross.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Radiolight.md",
