@@ -1,0 +1,1 @@
+Secrétaire Général de l'OTAN.

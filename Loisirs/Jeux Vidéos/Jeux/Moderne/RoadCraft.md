@@ -9,7 +9,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Saber]]
 	- Personnalités : 
-- **Éditeur** : [[Focus]]
+- **Éditeur** : [[Focus Entertainment]]
 - **Plateformes** : PC, Xbox, PS
 - **Franchise** : 
 - **Genre** : [[Gestion]], [[Construction]], [[Destruction]]

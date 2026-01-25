@@ -8,7 +8,7 @@ type: game
 
 - **Année de sortie** : ?
 - **Développeur** : 
-	- Studio : [[Spooky Doorway]]
+	- Studio : [[Spooky Doorways]]
 	- Personnalités : 
 - **Éditeur** : [[Raw Fury]]
 - **Plateformes** : PC
@@ -20,7 +20,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 8/10 (Canard PC)
 - **Gameplay** :
 	- Chaque action/choix prend du temps sur les 48h de l'enquête et il faut donc faire des choix.
 - **Durée estimée** : 

@@ -13,11 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                    | Résultat | Remarque                     |
-| ----- | -------------------------------------------------------------- | -------- | ---------------------------- |
-| 2025  | Coupe du monde de patinage de vitesse - Salt Lake City - 1500m | 14e      | 1:54.22 - Record de Belgique |
-| 2025  | Coupe du monde de patinage de vitesse - Calgary - 1500m        | 12e      | 1:54.00 - Record de Belgique |
-|       |                                                                |          |                              |
+| Année | Compétition                                                         | Résultat | Remarque                     |
+| ----- | ------------------------------------------------------------------- | -------- | ---------------------------- |
+| 2025  | Coupe du monde de patinage de vitesse - Salt Lake City - 1500m      | 14e      | 1:54.22 - Record de Belgique |
+| 2025  | Coupe du monde de patinage de vitesse - Calgary - 1500m             | 12e      | 1:54.00 - Record de Belgique |
+| 2026  | [[Championnat d'Europe de patinage de vitesse]] - Sprint par équipe | 2e       |                              |
+| 2026  | [[Championnat d'Europe de patinage de vitesse]] - 1500m             | Chute    |                              |
+| 2026  | [[Championnat d'Europe de patinage de vitesse]] - 1000m             | 5e       |                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

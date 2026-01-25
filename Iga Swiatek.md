@@ -20,7 +20,7 @@ type: personne
 | 2022  | [[US Open]]               | Vainqueure |          |
 | 2023  | [[Roland-Garros]]         | Vainqueure |          |
 | 2024  | [[Roland-Garros]]         | Vainqueure |          |
-| 2025  | [[Tournoi de Wimbledon]]  | Vainqueure |          |
+| 2025  | [[Wimbledon]]  | Vainqueure |          |
 | 2025  | [[Tournoi de Cincinnati]] | Vainqueure |          |
 
 # Style et Caractéristiques
@@ -30,7 +30,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - 4 titres à [[Roland-Garros]]
 - 24 titres sur le circuit à 24 ans
 - 11 titres en WTA 1000 (seule [[Serena Williams]] fait mieux avec 13 titres)
-- En 2025, elle gagne [[Tournoi de Wimbledon|Wimbledon]] sur un double 6-0, ce qui n'avait plus été fait depuis 1911
+- En 2025, elle gagne [[Wimbledon|Wimbledon]] sur un double 6-0, ce qui n'avait plus été fait depuis 1911
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
 

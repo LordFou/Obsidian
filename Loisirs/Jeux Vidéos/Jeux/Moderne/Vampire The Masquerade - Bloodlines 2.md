@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : 
 		- [[Paradox Interactive]]
-		- The Chinese Room (?)
+		- [[The Chinese Room]] 
 	- Personnalités : 
 - **Éditeur** : [[Paradox Interactive]]
 - **Plateformes** : 
@@ -22,7 +22,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 4/10 (Canard PC)
 - **Gameplay** :
 	- [[Monde ouvert]]
 	- Un peu d'[[Infiltration]]

@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Spooky Doorway
+# Emotion Sparks Studio
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -12,7 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  Irlande
+- **Pays d’origine** :  Serbie
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -24,9 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                         | Genre   | Plateformes |
-| ----- | ----------------------------- | ------- | ----------- |
-| 2025  | [[The Séance of Blake Manor]] | Enquête | PC          |
+| Année | Titre          |
+| ----- | -------------- |
+| 2025  | [[Rue Valley]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

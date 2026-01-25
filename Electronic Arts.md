@@ -13,14 +13,14 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Fondateurs** :  
 - **Personnalités** :
 - **Pays d’origine** :  
-- **Site officiel** : [Lien](#)  
+- **Site officiel** : [Lien](#)  [[[[]]]]
 - **Mascotte** :
 
 ```timeline-labeled
 [line-5, body-2]
 date: Septembre 2025  
 title: Rachat de la société
-content: [[Electronic Arts]] est racheté par l'Arabie Saoudite (via le fond d'investissement PIF) (93,4% !!) et la famille [[Trump]]... via la firme de son gendre [[Jared Kushner]] et sa société [[Affinity Partners]]
+content: [[Electronic Arts]] est racheté par l'Arabie Saoudite (via le fond d'investissement [[PIF]]) (93,4% !!) et la famille [[Trump]]... via la firme de son gendre [[Jared Kushner]] et sa société [[Affinity Partners]]
 ```
 
 ## Jeux Développés

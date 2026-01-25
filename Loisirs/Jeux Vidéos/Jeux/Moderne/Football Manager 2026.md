@@ -8,12 +8,12 @@ type: game
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Sports Interactive]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Sega]]
 - **Plateformes** : 
 - **Franchise** : [[Franchise Football Manager]]
-- **Genre** :
+- **Genre** : [[Sport]]
 - **Résumé** : 
 
 ## Détails Techniques

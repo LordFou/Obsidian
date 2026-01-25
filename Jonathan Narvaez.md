@@ -9,7 +9,7 @@ type: personne
 - **Nationalité** :  Equatorien
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[UAE]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions

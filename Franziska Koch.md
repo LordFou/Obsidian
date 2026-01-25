@@ -8,7 +8,7 @@ type: personne
 - **Date de naissance** :  
 - **Nationalité** :  Allemande
 - **Sport / Discipline** :  [[Cyclisme]]
-- **Poste / Spécialité** (si applicable) :  [[Picnic]]
+- **Poste / Spécialité** (si applicable) :  [[Picnic Post NL]]
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 

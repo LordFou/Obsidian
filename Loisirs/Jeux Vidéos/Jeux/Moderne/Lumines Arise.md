@@ -6,21 +6,23 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Enhance Monstars]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
+		- [[Tetsuya Mizugushi]]
+- **Éditeur** : Enhance
+- **Plateformes** : [[PC]], [[Playstation 5]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Puzzle]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : [[2D]]
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 8/10 (Canard PC)
 - **Gameplay** :
 - **Durée estimée** : 
 

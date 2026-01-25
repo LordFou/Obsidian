@@ -13,11 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                   | Résultat  | Remarque                     |
-| ----- | --------------------------------------------- | --------- | ---------------------------- |
-| 2023  | [[Euro de Basket]] - 2023                     | Vainqueur |                              |
-| 2025  | [[Euro de Basket]] - 2025                     | Finaliste |                              |
-| 2025  | Meilleure Joueuse - Euroligue - Novembre 2025 |           | https://youtu.be/WX6vGruL_DI |
+| Année | Compétition                                   | Résultat   | Remarque                     |
+| ----- | --------------------------------------------- | ---------- | ---------------------------- |
+| 2023  | [[Euro de Basket]] - 2023                     | Vainqueur  |                              |
+| 2025  | [[Euro de Basket]] - 2025                     | Finaliste  |                              |
+| 2025  | Meilleure Joueuse - Euroligue - Novembre 2025 |            | https://youtu.be/WX6vGruL_DI |
+| 2026  | Coupe de Turquie                              | Vainqueure | Avec Fenerbahçe              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

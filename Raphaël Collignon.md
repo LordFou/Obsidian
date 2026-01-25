@@ -11,20 +11,23 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
+- **Top Ranking** : 72 
 
 # Palmarès et Distinctions
 | Année | Compétition                      | Résultat                   | Remarque                                                                             |
 | ----- | -------------------------------- | -------------------------- | ------------------------------------------------------------------------------------ |
+| 2025  | [[Wimbledon]]                    | 1ier tour                  | ==Premier tournoi du grand Chelem==                                                  |
 | 2025  | [[US Open]]                      | 3e tour                    | 2 premières victoires en grand chelem !<br>Dont une contre Casper Ruud (12e mondial) |
 | 2025  | [[Coupe Davis]] - 2e tour qualif | Victoire de son 1ier match | ==Contre le 8e mondial==                                                             |
 | 2025  | [[Coupe Davis]] - 2e tour qualif | Victoire de son 2e match   | ==Qualification de la Belgique pour la phase finale==                                |
 | 2025  | [[ATP - Challenger d’Orléans]]   | Finale                     | perdue                                                                               |
-| 2025  | [[European Open]] - Double       | 1e tour                    | avec [[David Goffin]]                                                                |
-| 2025  | [[ATP - Tournoi de Bâle]]        | 1e tour                    |                                                                                      |
+| 2025  | [[European Open]] - Double       | 1ier tour                  | avec [[David Goffin]]                                                                |
+| 2025  | [[ATP - Tournoi de Bâle]]        | 1ier tour                  |                                                                                      |
 | 2025  | [[ATP - Tournoi de Bruxelles]]   | Demi-finale                |                                                                                      |
 | 2025  | [[Coupe Davis]] - 1/4 finale     | Victoire                   | Contre la France                                                                     |
 | 2025  | [[Coupe Davis]] - 1/2 finale     | Défaite                    | Contre l'Italie                                                                      |
 | 2026  | [[ATP - Tournoi de Brisbane]]    | 1/4 finale                 | Après être passé par les qualifications                                              |
+| 2026  | [[Australien Open]]              | 1ier tour                  | Abandon après 3h de match                                                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

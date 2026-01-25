@@ -13,10 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                | Résultat | Remarque |
-| ----- | -------------------------- | -------- | -------- |
-| 2025  | [[Grand Prix ISU d’Osaka]] | 3e       |          |
-| 2025  | Grand Prix ISU d'Helsinki  | 10e ?    |          |
+| Année | Compétition                     | Résultat | Remarque |
+| ----- | ------------------------------- | -------- | -------- |
+| 2025  | [[Grand Prix ISU d’Osaka]]      | 3e       |          |
+| 2025  | Grand Prix ISU d'Helsinki       | 10e ?    |          |
+| 2026  | [[Euro de patinage artistique]] | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -33,3 +34,5 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 # Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
+
+![[image-264.webp]]

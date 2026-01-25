@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                | Résultat  | Remarque |
 | ----- | -------------------------- | --------- | -------- |
-| 2025  | [[Tournoi de Wimbledon]]   | Vainqueur |          |
+| 2025  | [[Wimbledon]]   | Vainqueur |          |
 | 2025  | [[Tournoi de Cincinnati]]  | Finaliste |          |
 | 2025  | [[Masters 1.000 de Paris]] | Vainqueur |          |
 |       |                            |           |          |

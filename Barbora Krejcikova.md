@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition              | Résultat  | Remarque |
 | ----- | ------------------------ | --------- | -------- |
-| 2024  | [[Tournoi de Wimbledon]] | Vainqueur |          |
+| 2024  | [[Wimbledon]] | Vainqueur |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

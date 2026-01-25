@@ -15,8 +15,8 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition              | Résultat       | Remarque |
 | ----- | ------------------------ | -------------- | -------- |
-| 2019  | [[Tournoi de Wimbledon]] | Demi-finaliste |          |
-| 2023  | [[Tournoi de Wimbledon]] | Demi-finaliste |          |
+| 2019  | [[Wimbledon]] | Demi-finaliste |          |
+| 2023  | [[Wimbledon]] | Demi-finaliste |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Lizardcube]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Dotemu]] (?)
 - **Plateformes** : 
 - **Franchise** : [[Franchise Street of Rage]]
 - **Genre** :

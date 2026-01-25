@@ -13,7 +13,7 @@ type: game
 	- Personnalités : 
 		- [[Shuo Takahashi]], [[Hiroyuki Takahashi]]
 - **Éditeur** : [[Sega]]
-- **Plateformes** : [[Mega Drive]]
+- **Plateformes** : [[Megadrive]]
 - **Franchise** : [[Franchise Shining|Shining]]
 - **Genre** : [[Tactical RPG]]
 - **Résumé** : Jeu de combat tactique mais qui n'est pas dénué d'exploration, de RPG, d'histoire. C'est de la fantasy qui s'écarte un peu du chemin habituel avec aussi des centaures, des hommes oiseaux,... Les villes regorgent de héros, d'histoires et d'armes à dégoter.

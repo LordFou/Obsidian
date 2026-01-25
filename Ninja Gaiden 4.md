@@ -6,21 +6,24 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2025
 - **Développeur** : 
 	- Studio : 
+		- [[Team Ninja]]
+		- [[PlatinumGames]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : [[Franchise Ninja Gaiden]]
-- **Genre** :
+- **Genre** : [[Action]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 6/10 (Canard PC)
 - **Gameplay** :
 - **Durée estimée** : 
 

@@ -17,7 +17,7 @@ type: personne
 | ----- | -------------------------- | --------- | ------------------------------------------ |
 | 2022  | [[US Open]]                | Vainqueur |                                            |
 | 2025  | [[Roland-Garros]]          | Vainqueur | Plus longue finale de l'histoire jusque là |
-| 2025  | [[Tournoi de Wimbledon]]   | Finaliste |                                            |
+| 2025  | [[Wimbledon]]   | Finaliste |                                            |
 | 2025  | [[Tournoi de Cincinnati]]  | Vainqueur |                                            |
 | 2025  | [[US Open]]                | Vainqueur |                                            |
 | 2025  | [[ATP - Tournoi de Tokyo]] | Vainqueur |                                            |

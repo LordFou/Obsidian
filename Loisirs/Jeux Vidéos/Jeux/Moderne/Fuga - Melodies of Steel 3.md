@@ -12,7 +12,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Fuga|Fuga]]
+- **Franchise** : [[Franchise Fuga - Melodies of Steel|Fuga]]
 - **Genre** : RPG, Simulation
 - **Résumé** : 
 

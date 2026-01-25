@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : [[Gabe Cuzzillo]], [[Bennett Foddy]], [[Maxi Boch]] (Dev)
-- **Éditeur** : [[Devolver]]
+- **Éditeur** : [[Devolver Digital]]
 - **Plateformes** : PC, [[PlayStation 5]]
 - **Franchise** : 
 - **Genre** : [[Simulation]]
