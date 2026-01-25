@@ -14,8 +14,8 @@ type: event
 |       |           |             |          |
 # Femmes
 
-| Année | Epreuve                | Vainqueur         | Remarque |
-| ----- | ---------------------- | ----------------- | -------- |
-| 2025  | Omnium                 | [[Lotte Kopecky]] |          |
-| 2026  | Poursuite Individuelle | [[Lotte Kopecky]] |          |
-| 2026  |                        |                   |          |
+| Année | Epreuve                | Vainqueur                             | Remarque |
+| ----- | ---------------------- | ------------------------------------- | -------- |
+| 2025  | Omnium                 | [[Lotte Kopecky]]                     |          |
+| 2026  | Poursuite Individuelle | [[Lotte Kopecky]]                     |          |
+| 2026  | Duo (?)                | [[Lotte Kopecky]] & [[Shari Bossuyt]] |          |

@@ -1,24 +1,22 @@
 ---
 type: personne
 ---
-![[image-173.webp]]
-# Hélène Hesters
 
-Soeur de [[Jules Hesters]]
+# Jasper De Buyst
+
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** : [[Cyclisme sur piste]] 
+- **Sport / Discipline** :  [[Cyclisme sur piste]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                                            | Résultat | Remarque |
-| ----- | -------------------------------------------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnat du Monde de Cyclisme sur piste]] - Course à l'éliminitation              | 3e       |          |
-| 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - Elimination | 1ière 🥇 |          |
-| 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - Kilomètre   | 1ière 🥇 |          |
+| Année | Compétition                                                                        | Résultat | Remarque                 |
+| ----- | ---------------------------------------------------------------------------------- | -------- | ------------------------ |
+| 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - Madison | 1ier     | avec [[Jasper De Buyst]] |
+|       |                                                                                    |          |                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

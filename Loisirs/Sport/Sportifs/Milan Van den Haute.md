@@ -1,14 +1,13 @@
 ---
 type: personne
 ---
-![[image-173.webp]]
-# Hélène Hesters
 
-Soeur de [[Jules Hesters]]
+# Milan Van den Haute
+
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** : [[Cyclisme sur piste]] 
+- **Nationalité** :  
+- **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
@@ -16,9 +15,7 @@ Soeur de [[Jules Hesters]]
 # Palmarès et Distinctions
 | Année | Compétition                                                                            | Résultat | Remarque |
 | ----- | -------------------------------------------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnat du Monde de Cyclisme sur piste]] - Course à l'éliminitation              | 3e       |          |
-| 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - Elimination | 1ière 🥇 |          |
-| 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - Kilomètre   | 1ière 🥇 |          |
+| 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - Elimination | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

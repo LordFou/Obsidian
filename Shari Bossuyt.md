@@ -13,12 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                            | Résultat | Remarque                   |
-| ----- | ---------------------------------------------------------------------- | -------- | -------------------------- |
-| 2025  | [[Tour de France]] - 3e étape                                          | 5e       | Sprint                     |
-| 2025  | [[Tour de France]] - 4e étape                                          | 6e       | Sprint                     |
-| 2025  | [[Grand Prix de Wallonie]]                                             | 1e       |                            |
-| 2025  | [[Championnat du Monde de Cyclisme sur piste]] - Course à l'américaine | 4e       | avec [[Katrijn De Clercq]] |
+| Année | Compétition                                                                  | Résultat | Remarque                   |
+| ----- | ---------------------------------------------------------------------------- | -------- | -------------------------- |
+| 2025  | [[Tour de France]] - 3e étape                                                | 5e       | Sprint                     |
+| 2025  | [[Tour de France]] - 4e étape                                                | 6e       | Sprint                     |
+| 2025  | [[Grand Prix de Wallonie]]                                                   | 1ière 🥇 |                            |
+| 2025  | [[Championnat du Monde de Cyclisme sur piste]] - Course à l'américaine       | 4e       | avec [[Katrijn De Clercq]] |
+| 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - ? | 1ière 🥇 | avec [[Shari Bossuyt]]     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
