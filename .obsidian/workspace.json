@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shuai Zhang.md",
+                "file": "Resident Evil 9 - Requiem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shuai Zhang"
+              "title": "Resident Evil 9 - Requiem"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Elise",
+                "query": "Resident Evil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shuai Zhang.md",
+                "file": "Resident Evil 9 - Requiem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Shuai Zhang"
+              "title": "Rétrolien pour Resident Evil 9 - Requiem"
             }
           },
           {
@@ -139,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shuai Zhang.md",
+                "file": "Resident Evil 9 - Requiem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Shuai Zhang"
+              "title": "Liens sortants de Resident Evil 9 - Requiem"
             }
           },
           {
@@ -221,8 +221,14 @@
   },
   "active": "bc60c3da93e17436",
   "lastOpenFiles": [
-    "Elise Mertens.md",
+    "Loisirs/Jeux Vidéos/Franchise Resident Evil.md",
+    "Resident Evil 9 - Requiem.md",
+    "Attachments/image-275.webp",
+    "Leon Kennedy.md",
+    "Grace Ashcroft.md",
+    "Diables Rouges.md",
     "Shuai Zhang.md",
+    "Elise Mertens.md",
     "Loisirs/Sport/Sportifs/Dries Vanthoor.md",
     "Météorologie.md",
     "Marc Hirschi.md",
@@ -244,11 +250,6 @@
     "Loisirs/Sport/Matthew Brennan.md",
     "Loisirs/Sport/Tour de Cologne.md",
     "Loisirs/Sport/Sportifs/Pieter Sisk.md",
-    "LLM.md",
-    "Steam.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Metal Eden.md",
-    "Two Strikes.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Crown Gambit.md",
     "Loisirs/Tourisme",
     "Attachments/image-272.webp",
     "Attachments/image-271.webp",
@@ -258,7 +259,6 @@
     "Attachments/image-268.webp",
     "Attachments/image-267.webp",
     "Attachments/image-266.webp",
-    "Attachments/image-265.webp",
     "Culture/Géographie",
     "Sans titre"
   ]

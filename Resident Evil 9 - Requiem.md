@@ -1,12 +1,12 @@
 ---
 type: game
 ---
-
+![[image-275.webp]]
 # Resident Evil Requiem
 
 ## Informations Générales
 
-- **Année de sortie** : 2026 (?)
+- **Année de sortie** : 2026 
 - **Développeur** : 
 	- Studio : [[Capcom]]
 	- Personnalités : 
@@ -27,11 +27,14 @@ type: game
 ## Histoire et Univers
 - **Lieu(x)** : 
 	- [[Manoir]]
-	- [[Raccoon City]] (?)
+	- [[Raccoon City Hospital]]
 - **Epoque** : 
 - **Personnages principaux** : 
+	- [[Grace Ashcroft]] (Analyste du FBI)
+	- [[Leon Kennedy]]
 - **Ennemis** :
 	- Vieille dame géante
+	- [[zombie|Zombies]]
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
