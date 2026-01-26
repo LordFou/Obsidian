@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Valve.md",
+                "file": "Steam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Valve"
+              "title": "Steam"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Valve",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -105,17 +105,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Valve.md",
+                "file": "Steam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Valve"
+              "title": "Rétrolien pour Steam"
             }
           },
           {
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Valve.md",
+                "file": "Steam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Valve"
+              "title": "Liens sortants de Steam"
             }
           },
           {
@@ -206,6 +206,11 @@
   },
   "active": "1994548637ec0c45",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Metal Eden.md",
+    "Steam.md",
+    "Two Strikes.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Crown Gambit.md",
+    "Valve.md",
     "Jasper De Buyst.md",
     "Loisirs/Sport/Sportifs/Jules Hesters.md",
     "Loisirs/Sport/Sportifs/Milan Van den Haute.md",
@@ -227,11 +232,6 @@
     "Su-Wei Hsieh.md",
     "Loisirs/Sport/Australian Open.md",
     "Diables Rouges.md",
-    "Templates/Fiche Event - Cyclisme Tour.md",
-    "Templates/Fiche Event Sportif.md",
-    "Loisirs/Sport/Compétitions/Euro de Futsal.md",
-    "Loisirs/Sport/Compétitions/JO 2026 - Hiver.md",
-    "Loisirs/Sport/Sportifs/Sam Welsford.md",
     "Loisirs/Tourisme",
     "Attachments/image-272.webp",
     "Attachments/image-271.webp",
