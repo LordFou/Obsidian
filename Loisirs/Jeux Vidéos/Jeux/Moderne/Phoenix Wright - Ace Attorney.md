@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-277.webp]]
 # Phoenix Wright - Ace Attorney
 
 ## Informations Générales
@@ -28,6 +28,9 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Phoenix Wright
+	- Benjamin Hunter
+	- Un [[perroquet]] ==!!!!==
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
