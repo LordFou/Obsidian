@@ -26,6 +26,7 @@ type: personne
 | 2025  | [[Tour de Pologne]] - 5e étape         | 1ier     | Sprint                                       |
 | 2025  | [[Tour d'Allemagne]] - 4e étape        | 1ier     | Sprint                                       |
 | 2025  | [[Tour de Grande Bretagne]] - 3e étape | 1ier     | Sprint                                       |
+| 2026  | [[Tour Down Under]] - 5e étape         | 1ier     | Sprint                                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
