@@ -40,6 +40,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description                                                | URL                                                                 |
+| ---------------------------------------------------------- | ------------------------------------------------------------------- |
+| Article Point & Think sur un procès réel avec un perroquet | https://www.pointnthink.fr/fr/ace-attorney-perroquet-game-of-faune/ |

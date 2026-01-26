@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Phoenix Wright - Ace Attorney.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Palworld.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phoenix Wright - Ace Attorney"
+              "title": "Palworld"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Phoenix",
+                "query": "Palworld",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,17 +119,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Phoenix Wright - Ace Attorney.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Palworld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Phoenix Wright - Ace Attorney"
+              "title": "Rétrolien pour Palworld"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Phoenix Wright - Ace Attorney.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Palworld.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Phoenix Wright - Ace Attorney"
+              "title": "Liens sortants de Palworld"
             }
           },
           {
@@ -220,9 +220,15 @@
   },
   "active": "bc60c3da93e17436",
   "lastOpenFiles": [
+    "Pocketpair Publishing.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Palworld.md",
+    "Envision.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Pioneers of Pagonia.md",
+    "Franchise The Settlers.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre 5.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Phoenix Wright - Ace Attorney.md",
     "Attachments/image-277.webp",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Phoenix.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Phoenix Wright - Ace Attorney.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Spirit Lift.md",
     "Attachments/image-276.webp",
     "prettysmart games.md",
@@ -243,13 +249,8 @@
     "Paul Magnier.md",
     "Loisirs/Sport/Sportifs/Armand Marchant.md",
     "Loisirs/Sport/Sportifs/Keneth Kiprop.md",
-    "Jana Van Lent.md",
-    "Oliver Solberg.md",
     "Attachments/image-274.webp",
-    "Loisirs/Sport/Compétitions/Rallye de Monte-Carlo.md",
-    "Jay Vine.md",
     "Attachments/image-273.webp",
-    "Tour Down Under.md",
     "Loisirs/Tourisme",
     "Attachments/image-272.webp",
     "Attachments/image-271.webp",
@@ -257,7 +258,6 @@
     "Attachments/image-269.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Attachments/image-268.webp",
-    "Attachments/image-267.webp",
     "Culture/Géographie",
     "Sans titre"
   ]

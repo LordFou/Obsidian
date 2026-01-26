@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Pioneers of Pagonia
+# Palworld
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Envision]] 
+	- Studio : Pock
 	- Personnalités : 
-- **Éditeur** :  [[Envision]] 
+- **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise The Settlers]]
-- **Genre** : [[City-Builder]]
+- **Franchise** : 
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description          | URL                          |
-| -------------------- | ---------------------------- |
-| Release Date Trailer | https://youtu.be/JxGbOZs7uk4 |
+| Description | URL |
+| ----------- | --- |
+|             |     |
