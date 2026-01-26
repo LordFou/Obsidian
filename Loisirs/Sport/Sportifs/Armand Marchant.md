@@ -22,6 +22,7 @@ type: personne
 | 2026  | Coupe du Monde - Abelboden (Suisse) - Slalom Géant            | 10e                        |                         |
 | 2026  | Coupe d'Europe - Crans-Montana (Suisse) - Slalom Géant        | ==1ier==                   |                         |
 | 2026  | Coupe du Monde - Wengen (Suisse) - Slalom Géant               | 25e                        |                         |
+| 2026  | Coupe du Monde - Kitzbühel (Autriche) - Slalom Géant          | 6e                         |                         |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

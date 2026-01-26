@@ -9,13 +9,14 @@ type: personne
 - **Nationalité** :  Néerlandais
 - **Sport / Discipline** : Cyclisme
 - **Poste / Spécialité** (si applicable) : Sprinteur
-- **Équipe(s) / Club(s)** : Jayco Alula  
+- **Équipe(s) / Club(s)** : [[Unibet]], [[Jayco]],
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
 | Année | Compétition                     | Résultat | Remarque |
 | ----- | ------------------------------- | -------- | -------- |
-| 2025  | [[Tour de Slovénie]] - 3e étape | 1ier     |          |
+| 2025  | [[Tour de Slovénie]] - 3e étape | 1ier     | Sprint   |
+| 2026  | [[Grand Prix de Valence]]       | 1ier     | Sprint   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
