@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/The Spirit Lift.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Spirit Lift"
+              "title": "Cairn"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Spirit",
+                "query": "Cairn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -99,8 +99,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/The Spirit Lift.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour The Spirit Lift"
+              "title": "Rétrolien pour Cairn"
             }
           },
           {
@@ -139,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/The Spirit Lift.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de The Spirit Lift"
+              "title": "Liens sortants de Cairn"
             }
           },
           {
@@ -222,6 +221,11 @@
   },
   "active": "bc60c3da93e17436",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Steel Century Groove.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Project - Gorgon.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Roots Devour.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Spirit Lift.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Highguard.md",
     "Loisirs/Jeux Vidéos/Sociétés/Respawn.md",
     "Titan Fall.md",
@@ -245,13 +249,8 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Phoenix Wright - Ace Attorney.md",
     "Attachments/image-277.webp",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Phoenix.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Spirit Lift.md",
     "Attachments/image-276.webp",
-    "prettysmart games.md",
-    "Resident Evil 9 - Requiem.md",
-    "Loisirs/Jeux Vidéos/Franchise Resident Evil.md",
     "Attachments/image-275.webp",
-    "Leon Kennedy.md",
     "Attachments/image-274.webp",
     "Attachments/image-273.webp",
     "Loisirs/Tourisme",
