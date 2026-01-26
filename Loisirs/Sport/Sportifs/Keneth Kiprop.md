@@ -1,22 +1,21 @@
 ---
 type: personne
 ---
-![[image-274.webp]]
-# Oliver Solberg
+
+# Keneth Kiprop
 
 # Informations Générales
-- **Date de naissance** :  2001
-- **Nationalité** :  Suédois
-- **Sport / Discipline** :  [[Rallye]]
+- **Date de naissance** :  
+- **Nationalité** :  Ougandais
+- **Sport / Discipline** :  [[Athlétisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition               | Résultat | Remarque |
-| ----- | ------------------------- | -------- | -------- |
-| 2025  | [[Rallye d'Estonie]]      | 1ier     | Toyota   |
-| 2026  | [[Rallye de Monte-Carlo]] | 1ier     | Toyota   |
+| Année | Compétition         | Résultat | Remarque |
+| ----- | ------------------- | -------- | -------- |
+| 2026  | Cross Cup de Hannut | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -25,7 +24,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-- Plus jeune vainqueur à 24 ans du [[Rallye de Monte-Carlo]]
+Évoquer les polémiques ou moments clés de sa carrière.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
