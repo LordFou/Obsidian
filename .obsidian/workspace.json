@@ -35,7 +35,8 @@
               "title": "LLM"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Steam.md",
+                "file": "LLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Steam"
+              "title": "Rétrolien pour LLM"
             }
           },
           {
@@ -137,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Steam.md",
+                "file": "LLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Steam"
+              "title": "Liens sortants de LLM"
             }
           },
           {
@@ -217,10 +218,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1994548637ec0c45",
+  "active": "bc60c3da93e17436",
   "lastOpenFiles": [
-    "LLM.md",
     "Steam.md",
+    "LLM.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Metal Eden.md",
     "Two Strikes.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Crown Gambit.md",
