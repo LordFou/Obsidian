@@ -196,12 +196,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,8 +221,9 @@
   },
   "active": "bc60c3da93e17436",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Folklore Hunter.md",
+    "Simulation.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The 9th Charnel.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Folklore Hunter.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/CODE VEIN II.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Chrono Ark.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/City Tales – Medieval Era.md",
@@ -247,7 +248,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Dreadway.md",
     "ZweiBier Indie.md",
     "Reality Twist.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cassette Boy.md",
     "Attachments/image-277.webp",
     "Attachments/image-276.webp",
     "Attachments/image-275.webp",
