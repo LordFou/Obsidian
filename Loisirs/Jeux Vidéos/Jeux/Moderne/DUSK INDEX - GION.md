@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Cairn
+# DUSK INDEX - GION
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]], [[Playstation 5]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]],
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[Simulation]], [[Sport]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -30,7 +30,6 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- [[Alpinisme]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
@@ -38,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/nhyMWuORSuA |
+| Description | URL |
+| ----------- | --- |
+|             |     |

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/DUSK INDEX - GION.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cairn"
+              "title": "DUSK INDEX - GION"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Cairn",
+                "query": "I Hate This Place",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/DUSK INDEX - GION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Cairn"
+              "title": "Rétrolien pour DUSK INDEX - GION"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/DUSK INDEX - GION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Cairn"
+              "title": "Liens sortants de DUSK INDEX - GION"
             }
           },
           {
@@ -221,8 +221,12 @@
   },
   "active": "bc60c3da93e17436",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Steel Century Groove.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/I Hate This Place.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/DUSK INDEX - GION.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Perfect Pencil.md",
+    "Aventure.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Steel Century Groove.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Project - Gorgon.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Roots Devour.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Spirit Lift.md",
@@ -244,11 +248,7 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Palworld.md",
     "Envision.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Pioneers of Pagonia.md",
-    "Franchise The Settlers.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre 5.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Phoenix Wright - Ace Attorney.md",
     "Attachments/image-277.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Phoenix.md",
     "Attachments/image-276.webp",
     "Attachments/image-275.webp",
     "Attachments/image-274.webp",

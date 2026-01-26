@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Cairn
+# The Perfect Pencil
 
 ## Informations Générales
 
@@ -11,9 +11,9 @@ type: game
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]], [[Playstation 5]]
+- **Plateformes** : [[PC]], [[Switch]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[Simulation]], [[Sport]]
+- **Genre** : [[Action]], [[Aventure]], [[Metroïdvania]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -30,7 +30,6 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- [[Alpinisme]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
@@ -40,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/nhyMWuORSuA |
+| Trailer     | https://youtu.be/bVwGogIT6FI |
