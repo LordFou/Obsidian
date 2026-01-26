@@ -1,19 +1,19 @@
 ---
 type: game
 ---
-![[image-276.webp]]
-# The Spirit Lift
+
+# Craftlings
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[prettysmart games]]
+	- Studio : [[ARIANO Games]]
 	- Personnalités : 
-- **Éditeur** : [[prettysmart games]]
+- **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Deckbuilding]], [[Roguelike]], [[Aventure]], [[Stratégie]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -21,14 +21,13 @@ type: game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
-	- 7.5/10 (CheckPoint)
+	- 7/10 (CheckPoint)
 - **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
 - **Epoque** : 
-	- [[Années 90]]
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
@@ -39,6 +38,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/miM6lfojxdE |
+| Description      | URL                          |
+| ---------------- | ---------------------------- |
+| Gameplay Trailer | https://youtu.be/61Vimthxyo0 |

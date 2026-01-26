@@ -1,34 +1,32 @@
 ---
 type: game
 ---
-![[image-276.webp]]
-# The Spirit Lift
+
+# Highguard
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[prettysmart games]]
+	- Studio : [[Respawn]]
 	- Personnalités : 
-- **Éditeur** : [[prettysmart games]]
+- **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Deckbuilding]], [[Roguelike]], [[Aventure]], [[Stratégie]]
+- **Genre** : [[Action]], [[FPS]], [[Free2Play]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 7.5/10 (CheckPoint)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
 - **Epoque** : 
-	- [[Années 90]]
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
@@ -41,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/miM6lfojxdE |
+| Trailer     | https://youtu.be/y_6tjMvckZ0 |

@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Respawn
+# ARIANO Games
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -10,7 +10,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 ## Informations Générales
 - **Nom complet** :  
 - **Date de création** :  
-- **Fondateurs** :  [[Vince Zampella]]
+- **Fondateurs** :  
 - **Personnalités** :
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
@@ -26,8 +26,7 @@ content:
 ## Jeux Développés
 | Année | Titre          |
 | ----- | -------------- |
-| XXXX  | [[Titan Fall]] |
-| 2026  | [[Highguard]]  |
+| 2026  | [[Craftlings]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
