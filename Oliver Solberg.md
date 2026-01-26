@@ -5,7 +5,7 @@ type: personne
 # Oliver Solberg
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  2001
 - **Nationalité** :  Suédois
 - **Sport / Discipline** :  Rallye
 - **Poste / Spécialité** (si applicable) :  
@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition          | Résultat | Remarque |
-| ----- | -------------------- | -------- | -------- |
-| 2025  | [[Rallye d'Estonie]] | 1ier     | Toyota   |
+| Année | Compétition               | Résultat | Remarque |
+| ----- | ------------------------- | -------- | -------- |
+| 2025  | [[Rallye d'Estonie]]      | 1ier     | Toyota   |
+| 2026  | [[Rallye de Monte-Carlo]] | 1ier     | Toyota   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
