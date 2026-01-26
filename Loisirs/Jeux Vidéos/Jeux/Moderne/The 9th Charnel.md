@@ -2,7 +2,7 @@
 type: game
 ---
 
-# DUSK INDEX - GION
+# The 9th Charnel
 
 ## Informations Générales
 
@@ -11,9 +11,9 @@ type: game
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Aventure]], [[Visual Novel]]
+- **Genre** : [[Action]], [[Adventure]], [[Simulation]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/SMjmsP3_fgM |
+| Description | URL |
+| ----------- | --- |
+|             |     |

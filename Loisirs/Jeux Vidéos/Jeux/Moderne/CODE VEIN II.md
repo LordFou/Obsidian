@@ -2,7 +2,7 @@
 type: game
 ---
 
-# DUSK INDEX - GION
+# CODE VEIN II
 
 ## Informations Générales
 
@@ -11,9 +11,9 @@ type: game
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Aventure]], [[Visual Novel]]
+- **Genre** : [[Action]], [[RPG]], [[Souls Like]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -39,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/SMjmsP3_fgM |
+| Trailer     | https://youtu.be/mdD6dEhhges |

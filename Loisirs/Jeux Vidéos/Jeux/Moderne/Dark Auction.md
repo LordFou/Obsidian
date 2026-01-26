@@ -2,7 +2,7 @@
 type: game
 ---
 
-# DUSK INDEX - GION
+# Dark Auction
 
 ## Informations Générales
 
@@ -11,9 +11,9 @@ type: game
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Switch]]
 - **Franchise** : 
-- **Genre** : [[Aventure]], [[Visual Novel]]
+- **Genre** : [[Aventure]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -39,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/SMjmsP3_fgM |
+| Trailer     | https://youtu.be/9181j4NedQk |
