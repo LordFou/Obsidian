@@ -13,10 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                    | Résultat         | Remarque |
-| ----- | ---------------------------------------------- | ---------------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 1500m | Eliminé en série |          |
-| 2025  | [[Championnats du monde d'athlétisme]] - 800m  | Eliminé en série |          |
+| Année | Compétition                                    | Résultat         | Remarque                                   |     |
+| ----- | ---------------------------------------------- | ---------------- | ------------------------------------------ | --- |
+| 2025  | [[Championnats du monde d'athlétisme]] - 1500m | Eliminé en série |                                            |     |
+| 2025  | [[Championnats du monde d'athlétisme]] - 800m  | Eliminé en série |                                            |     |
+| 2026  | Meeting de Boston (Indoor) - 2000m             | 3e               | ==Record d'Europe !==<br>Record de Belgiqu |     |
+|       |                                                |                  |                                            |     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
