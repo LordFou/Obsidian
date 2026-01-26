@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Grand Prix de Valence.md",
+                "file": "Marc Hirschi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grand Prix de Valence"
+              "title": "Marc Hirschi"
             }
           }
         ],
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Grand Prix de Valence.md",
+                "file": "Marc Hirschi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Grand Prix de Valence"
+              "title": "Rétrolien pour Marc Hirschi"
             }
           },
           {
@@ -139,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Grand Prix de Valence.md",
+                "file": "Marc Hirschi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Grand Prix de Valence"
+              "title": "Liens sortants de Marc Hirschi"
             }
           },
           {
@@ -219,12 +219,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbacc6f984f28690",
+  "active": "bc60c3da93e17436",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Grand Prix de Valence.md",
+    "Dylan Groenewegen.md",
     "Loisirs/Sport/Sportifs/Emilien Jeannière.md",
     "Paul Magnier.md",
-    "Dylan Groenewegen.md",
-    "Loisirs/Sport/Compétitions/Grand Prix de Valence.md",
     "Loisirs/Sport/Sportifs/Armand Marchant.md",
     "Loisirs/Sport/Sportifs/Keneth Kiprop.md",
     "Jana Van Lent.md",

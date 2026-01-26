@@ -15,6 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                     | Résultat | Remarque |
 | ----- | ------------------------------- | -------- | -------- |
+| 2024  | [[Grand Prix de Valence]]       | 1ier     | Sprint   |
 | 2025  | [[Tour de Slovénie]] - 3e étape | 1ier     | Sprint   |
 | 2026  | [[Grand Prix de Valence]]       | 1ier     | Sprint   |
 
