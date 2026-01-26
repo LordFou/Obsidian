@@ -1,19 +1,19 @@
 ---
 type: game
 ---
-![[image-272.webp]]
-# Cassette Boy
+
+# Dreadway
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Wonderland Kazakiri]] 
+	- Studio : [[Reality Twist]]
 	- Personnalités : 
-- **Éditeur** : [[Pocketpair]]
-- **Plateformes** : [[Playstation 5]], [[PC]], [[Switch]], [[Xbox Series]]
+- **Éditeur** : [[ZweiBier Indie]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Coopération]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -21,7 +21,7 @@ type: game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
-	- CheckPoint : 6/10
+	- 4.5/10 (CheckPoint)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -38,6 +38,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/aXk4QbJthX8 |
+| Description      | URL                          |
+| ---------------- | ---------------------------- |
+| Gameplay Trailer | https://youtu.be/GlGjROhjHD4 |

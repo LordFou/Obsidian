@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Palworld.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dreadway.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Palworld"
+              "title": "Dreadway"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Palworld",
+                "query": "Dreadway",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Palworld.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dreadway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Palworld"
+              "title": "Rétrolien pour Dreadway"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Palworld.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dreadway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Palworld"
+              "title": "Liens sortants de Dreadway"
             }
           },
           {
@@ -220,6 +220,12 @@
   },
   "active": "bc60c3da93e17436",
   "lastOpenFiles": [
+    "ZweiBier Indie.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dreadway.md",
+    "Reality Twist.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cassette Boy.md",
+    "Pocketpair.md",
+    "Craftopia.md",
     "Pocketpair Publishing.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Palworld.md",
     "Envision.md",
@@ -243,12 +249,6 @@
     "Loisirs/Sport/Sportifs/Dries Vanthoor.md",
     "Météorologie.md",
     "Marc Hirschi.md",
-    "Loisirs/Sport/Compétitions/Grand Prix de Valence.md",
-    "Dylan Groenewegen.md",
-    "Loisirs/Sport/Sportifs/Emilien Jeannière.md",
-    "Paul Magnier.md",
-    "Loisirs/Sport/Sportifs/Armand Marchant.md",
-    "Loisirs/Sport/Sportifs/Keneth Kiprop.md",
     "Attachments/image-274.webp",
     "Attachments/image-273.webp",
     "Loisirs/Tourisme",

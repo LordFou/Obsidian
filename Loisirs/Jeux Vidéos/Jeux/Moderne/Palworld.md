@@ -8,7 +8,7 @@ type: game
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : Pock
+	- Studio : [[Pocketpair]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
