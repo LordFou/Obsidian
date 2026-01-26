@@ -17,8 +17,11 @@ type: personne
 | Année | Compétition                        | Résultat     | Remarque                                                            |
 | ----- | ---------------------------------- | ------------ | ------------------------------------------------------------------- |
 | 2019  | [[US Open]] - Double               | Vainqueur    | avec [[Aryna Sabalenka]]                                            |
+| 2020  | [[Australian Open]] - Simple       | 1/8 finale   |                                                                     |
+| 2021  | [[Australian Open]] - Simple       | 1/8 finale   |                                                                     |
 | 2021  | [[Australian Open]] - Double       | Vainqueur    | avec [[Aryna Sabalenka]]                                            |
 | 2021  | [[Wimbledon]] - Double             | Vainqueur    | avec [[Su-Wei Hsieh]]                                               |
+| 2022  | [[Australian Open]] - Simple       | 1/8 finale   |                                                                     |
 | 2024  | [[Australian Open]] - Double       | Vainqueur    | avec [[Su-Wei Hsieh]]                                               |
 | 2025  | [[Tournoi de Rosmalen]] - Simple   | Vainqueur    | 10e titre en simple                                                 |
 | 2025  | [[Wimbledon]] - Simple             | 8e de finale |                                                                     |
@@ -28,7 +31,8 @@ type: personne
 | 2025  | [[Tournoi de Wuhan]] - Simple      | 2e tour      | Blessée au dos                                                      |
 | 2025  | [[WTA - Tournoi d'Osaka]] - Simple | 2e tour      |                                                                     |
 | 2025  | [[Masters WTA de Ryad]] - Double   | Vainqueur    | avec V                                                              |
-| 2026  | [[Australian Open]] - Simple       | 1/8 finale   |                                                                     |
+| 2026  | [[Australian Open]] - Simple       | 1/8 finale   | Défaite contre Rybanika (5e WTA)                                    |
+| 2026  | [[Australian Open]] - Double       | 1/8 finale   | avec [[Shuai Zhang]]                                                |
 
 # Style et Caractéristiques
 - C'est une joueuse très équilibrée et régulière qui intègre en juin 2025 le club très fermé des joueuses qui ont gagné un tournoi sur les 3 types de surface.
