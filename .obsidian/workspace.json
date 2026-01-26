@@ -11,10 +11,14 @@
             "id": "1994548637ec0c45",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Valve.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Valve"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Jules Hesters",
+                "query": "Valve",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Valve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +115,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Rétrolien pour Valve"
             }
           },
           {
@@ -119,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Valve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants"
+              "title": "Liens sortants de Valve"
             }
           },
           {
