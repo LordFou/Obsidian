@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TR-49",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +113,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,7 +233,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38e1afb54a3a7718",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
     "Attachments/image-280.webp",
     "inkle.md",
