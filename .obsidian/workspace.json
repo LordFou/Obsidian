@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/TR-49.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/The Legend of Heroes - Trails Beyond the Horizon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TR-49"
+              "title": "The Legend of Heroes - Trails Beyond the Horizon"
             }
           }
         ],
@@ -113,8 +113,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/TR-49.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/The Legend of Heroes - Trails Beyond the Horizon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour TR-49"
+              "title": "Rétrolien pour The Legend of Heroes - Trails Beyond the Horizon"
             }
           },
           {
@@ -153,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/TR-49.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/The Legend of Heroes - Trails Beyond the Horizon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de TR-49"
+              "title": "Liens sortants de The Legend of Heroes - Trails Beyond the Horizon"
             }
           },
           {
@@ -233,11 +232,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "6cd7440ba2fad7de",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/TR-49.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Legend of Heroes - Trails Beyond the Horizon.md",
     "Attachments/image-280.webp",
     "inkle.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/TR-49.md",
     "Stop Killing Games.md",
     "Jonathan Milan.md",
     "Attachments/image-279.webp",
@@ -271,7 +271,6 @@
     "Loisirs/Tourisme",
     "Attachments/image-272.webp",
     "Attachments/image-271.webp",
-    "Attachments/image-270.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Culture/Géographie",
     "Sans titre"
