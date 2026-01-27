@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-01-27.md",
+                "file": "Jay Vine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-27"
+              "title": "Jay Vine"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Folklore Hunter",
+                "query": "Jay",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -99,7 +99,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -221,8 +222,11 @@
   },
   "active": "bc60c3da93e17436",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The 9th Charnel.md",
+    "Shuai Zhang.md",
+    "Elise Mertens.md",
+    "Météorologie.md",
     "Journal de bord/2026-01-27.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The 9th Charnel.md",
     "Simulation.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Folklore Hunter.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/CODE VEIN II.md",
@@ -245,9 +249,6 @@
     "Attachments/image-278.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Craftlings.md",
     "ARIANO Games.md",
-    "Craftings.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dreadway.md",
-    "ZweiBier Indie.md",
     "Attachments/image-277.webp",
     "Attachments/image-276.webp",
     "Attachments/image-275.webp",

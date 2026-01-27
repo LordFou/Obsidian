@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                  | Résultat   | Remarque               |
 | ----- | ---------------------------- | ---------- | ---------------------- |
-| 2026  | [[Australian Open]] - Double | 1/8 finale | avec [[Elise Mertens]] |
+| 2026  | [[Australian Open]] - Double | 1/4 finale | avec [[Elise Mertens]] |
 |       |                              |            |                        |
 
 # Style et Caractéristiques
