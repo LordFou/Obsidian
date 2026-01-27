@@ -18,7 +18,7 @@ Quelques secteurs pavés célèbres
 | ----- | -------------- | ----------- | --------------------------------- | --------------------------------------------------------------------------- | --- |
 | 2023  | [[Mathieu van der Poel]] | Néerlandais |                                   |                                                                             |     |
 | 2024  | [[Mathieu van der Poel]] | Néerlandais |                                   |                                                                             |     |
-| 2025  | [[Mathieu van der Poel]] | Néerlandais | ![[2025-04-13#^ParisRoubaix2025]] | 4e  [[Wout Van Aert]]<br><br>5e [[Vermeech]]<br><br>10e <br>[[Laurens Rex]] |     |
+| 2025  | [[Mathieu van der Poel]] | Néerlandais | ![[2025-04-13#^ParisRoubaix2025]] | 4e  [[Wout Van Aert]]<br><br>5e [[Vermeech]]<br><br>10e <br>[[Laurenz Rex]] |     |
 |       |                |             |                                   |                                                                             |     |
 |       |                |             |                                   |                                                                             |     |
 # Femmes
