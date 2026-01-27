@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/The Legend of Heroes - Trails Beyond the Horizon.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/The Hunt for Red October.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Legend of Heroes - Trails Beyond the Horizon"
+              "title": "The Hunt for Red October"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Code Vein",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/The Legend of Heroes - Trails Beyond the Horizon.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/The Hunt for Red October.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour The Legend of Heroes - Trails Beyond the Horizon"
+              "title": "Rétrolien pour The Hunt for Red October"
             }
           },
           {
@@ -152,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/The Legend of Heroes - Trails Beyond the Horizon.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/The Hunt for Red October.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de The Legend of Heroes - Trails Beyond the Horizon"
+              "title": "Liens sortants de The Hunt for Red October"
             }
           },
           {
@@ -234,8 +234,16 @@
   },
   "active": "6cd7440ba2fad7de",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/TR-49.md",
+    "Grandslam.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/The Hunt for Red October.md",
+    "Oxford Digital Enterprises.md",
+    "Attachments/image-282.webp",
+    "Attachments/image-281.webp",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/CODE VEIN II.md",
+    "Bandai Namco Studios.md",
+    "Bandai Namco.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Legend of Heroes - Trails Beyond the Horizon.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/TR-49.md",
     "Attachments/image-280.webp",
     "inkle.md",
     "Stop Killing Games.md",
@@ -255,13 +263,7 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The 9th Charnel.md",
     "Simulation.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Folklore Hunter.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/CODE VEIN II.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Chrono Ark.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/City Tales – Medieval Era.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dark Auction.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/DUSK INDEX - GION.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/I Hate This Place.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Perfect Pencil.md",
     "Attachments/image-278.webp",
     "Attachments/image-277.webp",
     "Attachments/image-276.webp",
@@ -269,8 +271,6 @@
     "Attachments/image-274.webp",
     "Attachments/image-273.webp",
     "Loisirs/Tourisme",
-    "Attachments/image-272.webp",
-    "Attachments/image-271.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Culture/Géographie",
     "Sans titre"

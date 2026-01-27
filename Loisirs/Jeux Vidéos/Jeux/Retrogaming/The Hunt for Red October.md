@@ -1,27 +1,26 @@
 ---
 type: game
 ---
-
-# Tamagotchi Plaza
+![[image-282.webp]]
+# The Hunt for Red October
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 1987
 - **Développeur** : 
-	- Studio : [[Hyde, inc]]
+	- Studio : [[Oxford Digital Enterprises]]
 	- Personnalités : 
-- **Éditeur** : [[Bandai Namco]]
-- **Plateformes** : [[Switch]]
+- **Éditeur** : [[Grandslam]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Simulation]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 5/10 (CheckPoint)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -31,6 +30,7 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Guerre sous-marine]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
@@ -38,6 +38,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/pLAh2gf07M4 |
+| Description | URL |
+| ----------- | --- |
+|             |     |

@@ -8,7 +8,7 @@ type: game
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Bandai Namco Entertainment]]
+	- Studio : [[Bandai Namco]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : PC, [[Playstation 5]]

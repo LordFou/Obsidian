@@ -13,7 +13,7 @@ type: game
 		- Clouded Leopard
 		- NIS America
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : Nihon Falcom
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :

@@ -2,13 +2,13 @@
 type: societe
 ---
 
-# Bandai Namco Studios
+# Bandai Namco
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
 
 ## Informations Générales
-- **Nom complet** :  
+- **Nom complet** :  Bandai Namco Entertainment
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
@@ -24,11 +24,10 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                |
-| ----- | -------------------- |
-| 2025  | [[Kirby Air Riders]] |
-| 2026  | [[CODE VEIN II]]     |
-|       |                      |
+| Année | Titre        | Genre              | Plateformes           |
+| ----- | ------------ | ------------------ | --------------------- |
+| 2025  | [[Hirogami]] | Action / RPG / FPS | PC, PS5, Xbox, Switch |
+|       |              |                    |                       |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
