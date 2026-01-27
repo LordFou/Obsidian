@@ -8,7 +8,7 @@ type: personne
 - **Nationalité** :  [[Belge]]
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) : Tours, Classiques, CLM
-- **Équipe(s) / Club(s)** :  [[Quick Step]]
+- **Équipe(s) / Club(s)** :  [[Quick-Step]]
 - **Période d’activité** :  
 
 ## Palmarès et Distinctions
@@ -79,7 +79,7 @@ content: Ce sera effectif fin de saison 2025
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 ## Records et Faits Marquants
-- Il signe la 1000e victoire de [[Quick Step]] lors de la 4e étape du [[Critérium du Dauphiné]] 2025
+- Il signe la 1000e victoire de [[Quick-Step]] lors de la 4e étape du [[Critérium du Dauphiné]] 2025
 - Chute impressionnante au [[Tour de Lombardie]] (?) qui l'éloignera très longtemps des pelotons
 - Double médaillé d'or au [[JO 2024]]
 - Fin 2024, se blesse à l'entraînement, il fonce dans la portière d'une voiture de factrice en stationnement qui n'a pas fait attention => 4 mois de revalidation. De son aveu, c'est actuellement la période la plus difficile de sa vie.

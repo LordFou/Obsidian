@@ -9,7 +9,7 @@ type: personne
 - **Nationalité** :  1996
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  [[Grimpeuse]]
-- **Équipe(s) / Club(s)** :  [[Quick Step]]
+- **Équipe(s) / Club(s)** :  [[Quick-Step]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions

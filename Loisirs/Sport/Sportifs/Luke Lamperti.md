@@ -8,7 +8,7 @@ type: personne
 - **Date de naissance** :  
 - **Nationalité** :  Américain
 - **Sport / Discipline** :  [[Cyclisme]]
-- **Poste / Spécialité** (si applicable) :  [[Quick Step]]
+- **Poste / Spécialité** (si applicable) :  [[Quick-Step]]
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 

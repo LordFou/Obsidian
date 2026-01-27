@@ -9,7 +9,7 @@ type: personne
 - **Nationalité** :  Français
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Quick Step]]
+- **Équipe(s) / Club(s)** :  [[Quick-Step]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions

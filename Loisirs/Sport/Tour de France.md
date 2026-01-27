@@ -21,7 +21,7 @@ Aussi surnommé la petite reine, le tour de France est le 3e évènement sportif
 	- [[Jasper Philipsen]]
 - Les équipes principales restent
 	- [[UAE]]
-	- [[Quick Step]]
+	- [[Quick-Step]]
 	- [[Visma]]
 	- [[Alpecin]]
 
@@ -99,7 +99,7 @@ Aussi surnommé la petite reine, le tour de France est le 3e évènement sportif
 | [[Visma]]      | 3             |
 | UAE            | 2             |
 | [[SD-Worx]]    | 2             |
-| [[Quick Step]] | 1             |
+| [[Quick-Step]] | 1             |
 | [[Jayco]]      | 1             |
 
 | Nation | Nbr Victoires |
