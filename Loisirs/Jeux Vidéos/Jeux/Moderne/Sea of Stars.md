@@ -23,6 +23,7 @@ type: game
 - **Réception critique** : 
 	- Pix'n Love : le JRPG Néo-Rétro de 2023 !!
 - **Gameplay** :
+	- Lors des actions en tour par tour, on peut cependant tenter de contrer les attaques en temps réel pour réduire les dégâts.
 - **Durée estimée** : 
 
 ## Histoire et Univers
@@ -37,6 +38,7 @@ type: game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[A Song Of Sunlight]] (Tour par tour mais contre en temps réel)
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
