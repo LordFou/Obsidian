@@ -1,28 +1,26 @@
 ---
 type: game
 ---
-![[image-280.webp]]
-# TR-49
+![[image-284.webp]]
+# A Song Of Sunlight
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[inkle]]
+	- Studio : [[RageForDragons]]
 	- Personnalités : 
-- **Éditeur** : [[inkle]]
+- **Éditeur** : [[RageForDragons]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Enquête]], [[Réflexion]]
-- **Résumé** : un jeu mâtiné d'enquête et de réflexion. On doit y percer les secrets d'un mystérieux ordinateur de la Seconde Guerre mondiale, verrouillé jusqu'au trognon avec des codes tous plus retors les uns que les autres.
+- **Genre** : [[RPG]], [[Roman Graphique]]
+- **Résumé** : Petit RPG gratuit qui saura vous proposer plein de réflexions sur l'existence, le bien commun et la survie
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : minimaliste dans le sens, pas bcp de choses différentes à afficher durant le court du jeu
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 8/10 (CheckPoint)
-	- [[The Guardian]] l'a surkiffé
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -35,6 +33,7 @@ type: game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[Sea of Stars]] (pour le côté combat en tour par tour mais avec interaction en temps réels)
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
