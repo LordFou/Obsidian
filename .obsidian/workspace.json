@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emeric Thoa.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/TR-49.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Emeric Thoa"
+              "title": "TR-49"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Cairn",
+                "query": "TR-49",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emeric Thoa.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/TR-49.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Emeric Thoa"
+              "title": "Rétrolien pour TR-49"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emeric Thoa.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/TR-49.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Emeric Thoa"
+              "title": "Liens sortants de TR-49"
             }
           },
           {
@@ -235,8 +235,8 @@
   },
   "active": "6cd7440ba2fad7de",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
     "Emeric Thoa.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
     "Loisirs/Sport/Compétitions/AlUla Tour.md",
     "Milan Fretin.md",
     "Jonathan Milan.md",
