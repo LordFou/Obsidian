@@ -11,11 +11,11 @@ type: event
 
 ### Etapes 
 
-|     | Vainqueur          | Général            | Montagne | Points | Jeune | Remarques |
-| --- | ------------------ | ------------------ | -------- | ------ | ----- | --------- |
-| 1e  | [[Jonathan Milan]] | [[Jonathan Milan]] |          |        |       |           |
-|     |                    |                    |          |        |       |           |
-|     |                    |                    |          |        |       |           |
+|     | Vainqueur          | Général            | Remarques             |
+| --- | ------------------ | ------------------ | --------------------- |
+| 1e  | [[Jonathan Milan]] | [[Jonathan Milan]] | 2e - [[Milan Fretin]] |
+| 2e  | [[Jonathan Milan]] | [[Jonathan Milan]] | 8e - [[Milan Fretin]] |
+|     |                    |                    |                       |
 ## Femmes
 
 ### Etapes
