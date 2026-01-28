@@ -13,15 +13,16 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition               | Résultat   | Remarque |
-| ----- | ------------------------- | ---------- | -------- |
-| 2020  | [[Roland-Garros]]         | Vainqueure |          |
-| 2022  | [[Roland-Garros]]         | Vainqueure |          |
-| 2022  | [[US Open]]               | Vainqueure |          |
-| 2023  | [[Roland-Garros]]         | Vainqueure |          |
-| 2024  | [[Roland-Garros]]         | Vainqueure |          |
-| 2025  | [[Wimbledon]]  | Vainqueure |          |
-| 2025  | [[Tournoi de Cincinnati]] | Vainqueure |          |
+| Année | Compétition               | Résultat   | Remarque      |
+| ----- | ------------------------- | ---------- | ------------- |
+| 2020  | [[Roland-Garros]]         | Vainqueure |               |
+| 2022  | [[Roland-Garros]]         | Vainqueure |               |
+| 2022  | [[US Open]]               | Vainqueure |               |
+| 2023  | [[Roland-Garros]]         | Vainqueure |               |
+| 2024  | [[Roland-Garros]]         | Vainqueure |               |
+| 2025  | [[Wimbledon]]             | Vainqueure |               |
+| 2025  | [[Tournoi de Cincinnati]] | Vainqueure |               |
+| 2026  | [[Australian Open]]       | 1/4 finale | Eliminée par  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

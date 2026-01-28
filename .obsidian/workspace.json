@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sam Maes.md",
+                "file": "Iga Swiatek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sam Maes"
+              "title": "Iga Swiatek"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sam Maes",
+                "query": "Iga swi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sam Maes.md",
+                "file": "Iga Swiatek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Sam Maes"
+              "title": "Rétrolien pour Iga Swiatek"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sam Maes.md",
+                "file": "Iga Swiatek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Sam Maes"
+              "title": "Liens sortants de Iga Swiatek"
             }
           },
           {
@@ -235,6 +235,8 @@
   },
   "active": "6cd7440ba2fad7de",
   "lastOpenFiles": [
+    "Elise Mertens.md",
+    "Sam Maes.md",
     "Loisirs/Jeux Vidéos/Sociétés/Ubisoft.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/RoboCop.md",
     "Attachments/image-283.webp",
@@ -262,10 +264,8 @@
     "Classement UCI.md",
     "Jay Vine.md",
     "Shuai Zhang.md",
-    "Elise Mertens.md",
     "Météorologie.md",
     "Journal de bord/2026-01-27.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The 9th Charnel.md",
     "Attachments/image-278.webp",
     "Attachments/image-277.webp",
     "Attachments/image-276.webp",
