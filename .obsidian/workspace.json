@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/AlUla Tour.md",
+                "file": "Emeric Thoa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AlUla Tour"
+              "title": "Emeric Thoa"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "milan fre",
+                "query": "Cairn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/AlUla Tour.md",
+                "file": "Emeric Thoa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour AlUla Tour"
+              "title": "Rétrolien pour Emeric Thoa"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/AlUla Tour.md",
+                "file": "Emeric Thoa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de AlUla Tour"
+              "title": "Liens sortants de Emeric Thoa"
             }
           },
           {
@@ -235,8 +235,10 @@
   },
   "active": "6cd7440ba2fad7de",
   "lastOpenFiles": [
-    "Milan Fretin.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
+    "Emeric Thoa.md",
     "Loisirs/Sport/Compétitions/AlUla Tour.md",
+    "Milan Fretin.md",
     "Jonathan Milan.md",
     "Iga Swiatek.md",
     "Elise Mertens.md",
@@ -264,8 +266,6 @@
     "Quick-Step.md",
     "Classement UCI.md",
     "Jay Vine.md",
-    "Shuai Zhang.md",
-    "Météorologie.md",
     "Attachments/image-278.webp",
     "Attachments/image-277.webp",
     "Attachments/image-276.webp",

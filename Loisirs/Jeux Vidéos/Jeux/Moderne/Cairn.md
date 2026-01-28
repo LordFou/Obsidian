@@ -10,6 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
+		- [[Emeric Thoa]] (Directeur Créatif)
 - **Éditeur** : 
 - **Plateformes** : [[PC]], [[Playstation 5]]
 - **Franchise** : 
