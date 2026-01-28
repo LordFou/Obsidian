@@ -171,12 +171,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e8bc039b7443ecb",
+  "active": "2066e9a3d214d366",
   "lastOpenFiles": [
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Orcs Must Die - By The Blade.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Escape from Ever After.md",
