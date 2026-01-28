@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Cooking Simulator 2 - Better Together
+# Arknights - Endfield
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[HYPERGRYPH]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]]
+- **Plateformes** : [[PC]], [[Playstation 5]]
 - **Franchise** : 
-- **Genre** :  [[Casual]], [[RPG]], [[Simulation]]
+- **Genre** : [[Action]], [[Aventure]], [[RPG]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -39,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/VqFopYzooqQ |
+| Trailer     | https://youtu.be/oJ00ggFb8A0 |

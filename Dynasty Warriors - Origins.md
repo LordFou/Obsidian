@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Cooking Simulator 2 - Better Together
+# Dynasty Warriors - Origins
 
 ## Informations Générales
 
@@ -11,9 +11,9 @@ type: game
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]]
-- **Franchise** : 
-- **Genre** :  [[Casual]], [[RPG]], [[Simulation]]
+- **Plateformes** : [[Switch 2]]
+- **Franchise** : [[Franchise Dynasty Warriors]]
+- **Genre** : [[Action]], [[RPG]], [[Stratégie]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/VqFopYzooqQ |
+| Description     | URL                          |
+| --------------- | ---------------------------- |
+| Nintendo Direct | https://youtu.be/yL69vFOt_lM |

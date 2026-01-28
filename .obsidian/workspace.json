@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cooking Simulator 2 - Better Together.md",
+                "file": "Dynasty Warriors - Origins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cooking Simulator 2 - Better Together"
+              "title": "Dynasty Warriors - Origins"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Cooking",
+                "query": "Dynasty",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cooking Simulator 2 - Better Together.md",
+                "file": "Dynasty Warriors - Origins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Cooking Simulator 2 - Better Together"
+              "title": "Rétrolien pour Dynasty Warriors - Origins"
             }
           },
           {
@@ -123,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cooking Simulator 2 - Better Together.md",
+                "file": "Dynasty Warriors - Origins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Cooking Simulator 2 - Better Together"
+              "title": "Liens sortants de Dynasty Warriors - Origins"
             }
           },
           {
@@ -196,8 +197,15 @@
   },
   "active": "1e8bc039b7443ecb",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/MIO - Memories in Orbit.md",
+    "Loisirs/Jeux Vidéos/Jeux/Franchise/Franchise Dynasty Warriors.md",
+    "Dynasty Warriors - Origins.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Arknights - Endfield.md",
+    "HYPERGRYPH.md",
+    "Final Fantasy VII - Remake.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/TR-49.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Eldegarde.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cooking Simulator 2 - Better Together.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/MIO - Memories in Orbit.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/2XKO.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/GHOST CAM.md",
     "Meta Quest.md",
@@ -210,20 +218,13 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sea of Stars.md",
     "RageForDragons.md",
     "Attachments/image-284.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/TR-49.md",
     "Emeric Thoa.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
     "Loisirs/Sport/Compétitions/AlUla Tour.md",
     "Milan Fretin.md",
     "Jonathan Milan.md",
     "Iga Swiatek.md",
-    "Elise Mertens.md",
-    "Sam Maes.md",
-    "Loisirs/Jeux Vidéos/Sociétés/Ubisoft.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/RoboCop.md",
     "Attachments/image-283.webp",
-    "Ocean Software.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/The Hunt for Red October.md",
     "Attachments/image-282.webp",
     "Attachments/image-281.webp",
     "Attachments/image-280.webp",

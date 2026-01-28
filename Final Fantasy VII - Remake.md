@@ -14,8 +14,8 @@ type: game
 - **Éditeur** : [[Square Enix]] (?)
 - **Plateformes** : 
 - **Franchise** : [[Franchise Final Fantasy]]
-- **Genre** :
-- **Résumé** : 
+- **Genre** : [[Action]], [[Aventure]], [[RPG]]
+- **Résumé** : [[Xbox Series]], [[Switch 2]]
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -27,8 +27,10 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- Cité de [[Midgar]]
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Cloud Strife
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
@@ -38,6 +40,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                          |
+| ----------- | ---------------------------- |
+| Trailer     | https://youtu.be/YwZ8SkxWIQU |

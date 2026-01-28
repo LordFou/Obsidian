@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Cooking Simulator 2 - Better Together
+# Eldegarde
 
 ## Informations Générales
 
@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** :  [[Casual]], [[RPG]], [[Simulation]]
+- **Genre** : [[Action]], [[Aventure]], [[MMORPG]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -39,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/VqFopYzooqQ |
+| Trailer     | https://youtu.be/bFy3_1O7bmQ |

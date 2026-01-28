@@ -22,9 +22,9 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre | Année | Plateformes | Remarque |
-| ----- | ----- | ----------- | -------- |
-|       |       |             |          |
+| Titre | Année                          |
+| ----- | ------------------------------ |
+| 2026  | [[Dynasty Warriors - Origins]] |
 
 
 ## Mécaniques et innovations
