@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sociétés/Ubisoft.md",
+                "file": "Sam Maes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ubisoft"
+              "title": "Sam Maes"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ubisof",
+                "query": "Sam Maes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sociétés/Ubisoft.md",
+                "file": "Sam Maes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Ubisoft"
+              "title": "Rétrolien pour Sam Maes"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sociétés/Ubisoft.md",
+                "file": "Sam Maes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Ubisoft"
+              "title": "Liens sortants de Sam Maes"
             }
           },
           {
@@ -235,6 +235,7 @@
   },
   "active": "6cd7440ba2fad7de",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Sociétés/Ubisoft.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/RoboCop.md",
     "Attachments/image-283.webp",
     "Ocean Software.md",
