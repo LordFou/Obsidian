@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/RoboCop.md",
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Ubisoft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RoboCop"
+              "title": "Ubisoft"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "RoboCop",
+                "query": "ubisof",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +113,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/RoboCop.md",
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Ubisoft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour RoboCop"
+              "title": "Rétrolien pour Ubisoft"
             }
           },
           {
@@ -152,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/RoboCop.md",
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Ubisoft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de RoboCop"
+              "title": "Liens sortants de Ubisoft"
             }
           },
           {
@@ -234,9 +235,9 @@
   },
   "active": "6cd7440ba2fad7de",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/RoboCop.md",
     "Attachments/image-283.webp",
     "Ocean Software.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/RoboCop.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/The Hunt for Red October.md",
     "Grandslam.md",
     "Oxford Digital Enterprises.md",
@@ -269,7 +270,6 @@
     "Attachments/image-276.webp",
     "Attachments/image-275.webp",
     "Attachments/image-274.webp",
-    "Attachments/image-273.webp",
     "Loisirs/Tourisme",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Culture/Géographie",
