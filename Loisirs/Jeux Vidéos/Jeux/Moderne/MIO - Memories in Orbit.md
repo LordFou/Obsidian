@@ -49,4 +49,4 @@ type: game
 | Description           | URL                                                  |
 | --------------------- | ---------------------------------------------------- |
 | Article Point & Click | https://www.pointnthink.fr/fr/mio-memories-in-orbit/ |
-| Vidéo                 |                                                      |
+| Vidéo                 | https://youtu.be/ETCpWo0A0i0                         |
