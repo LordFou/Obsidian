@@ -9,10 +9,10 @@ type: event
 Fait partie du [[Challenge de Majorque]]
 # Hommes
 
-| Année | Vainqueur           | Nationalité | Remarque |
-| ----- | ------------------- | ----------- | -------- |
-| 2026  | [[Remco Evenepoel]] | Belge       |          |
-|       |                     |             |          |
+| Année | Vainqueur           | Nationalité | Remarque                |
+| ----- | ------------------- | ----------- | ----------------------- |
+| 2026  | [[Remco Evenepoel]] | Belge       | 3e - [[Maxim Van Gils]] |
+|       |                     |             |                         |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
