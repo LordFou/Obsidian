@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2026-01-31"
             }
+          },
+          {
+            "id": "94718ec52d998aab",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,10 +219,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e8bc039b7443ecb",
+  "active": "94718ec52d998aab",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Escape from Ever After.md",
+    "conflict-files-obsidian-git.md",
     "Journal de bord/2026-01-31.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Escape from Ever After.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Orcs Must Die - By The Blade.md",
     "Franchise Orcs Must Die.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/No Rest for the Wicked.md",
@@ -231,7 +247,6 @@
     "Another Indie.md",
     "Sailike Games.md",
     "Franchise Fable.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Fable.md",
     "Attachments/image-284.webp",
     "Attachments/image-283.webp",
     "Attachments/image-282.webp",

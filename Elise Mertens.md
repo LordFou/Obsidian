@@ -14,25 +14,25 @@ type: personne
 - **Top Ranking** : 21
 
 # Palmarès et Distinctions
-| Année | Compétition                        | Résultat     | Remarque                                                            |
-| ----- | ---------------------------------- | ------------ | ------------------------------------------------------------------- |
-| 2019  | [[US Open]] - Double               | Vainqueur    | avec [[Aryna Sabalenka]]                                            |
-| 2020  | [[Australian Open]] - Simple       | 1/8 finale   |                                                                     |
-| 2021  | [[Australian Open]] - Simple       | 1/8 finale   |                                                                     |
-| 2021  | [[Australian Open]] - Double       | Vainqueur    | avec [[Aryna Sabalenka]]                                            |
-| 2021  | [[Wimbledon]] - Double             | Vainqueur    | avec [[Su-Wei Hsieh]]                                               |
-| 2022  | [[Australian Open]] - Simple       | 1/8 finale   |                                                                     |
-| 2024  | [[Australian Open]] - Double       | Vainqueur    | avec [[Su-Wei Hsieh]]                                               |
-| 2025  | [[Tournoi de Rosmalen]] - Simple   | Vainqueur    | 10e titre en simple                                                 |
-| 2025  | [[Wimbledon]] - Simple             | 8e de finale |                                                                     |
-| 2025  | [[Wimbledon]] - Double             | Vainqueur    | 5e titre de grand chelem en double<br>avec [[Veronika Kudermetova]] |
-| 2025  | [[US Open]] - Simple               | 3e tour      |                                                                     |
-| 2025  | [[US Open]] - Double               | Demi-finale  | avec [[Veronika Kudermetova]]                                       |
-| 2025  | [[Tournoi de Wuhan]] - Simple      | 2e tour      | Blessée au dos                                                      |
-| 2025  | [[WTA - Tournoi d'Osaka]] - Simple | 2e tour      |                                                                     |
-| 2025  | [[Masters WTA de Ryad]] - Double   | Vainqueur    | avec V                                                              |
-| 2026  | [[Australian Open]] - Simple       | 1/8 finale   | Défaite contre Rybanika (5e WTA)                                    |
-| 2026  | [[Australian Open]] - Double       | 1/2 finale   | avec [[Shuai Zhang]]                                                |
+| Année | Compétition                        | Résultat      | Remarque                                                            |
+| ----- | ---------------------------------- | ------------- | ------------------------------------------------------------------- |
+| 2019  | [[US Open]] - Double               | ==Vainqueur== | avec [[Aryna Sabalenka]]                                            |
+| 2020  | [[Australian Open]] - Simple       | 1/8 finale    |                                                                     |
+| 2021  | [[Australian Open]] - Simple       | 1/8 finale    |                                                                     |
+| 2021  | [[Australian Open]] - Double       | ==Vainqueur== | avec [[Aryna Sabalenka]]                                            |
+| 2021  | [[Wimbledon]] - Double             | ==Vainqueur== | avec [[Su-Wei Hsieh]]                                               |
+| 2022  | [[Australian Open]] - Simple       | 1/8 finale    |                                                                     |
+| 2024  | [[Australian Open]] - Double       | ==Vainqueur== | avec [[Su-Wei Hsieh]]                                               |
+| 2025  | [[Tournoi de Rosmalen]] - Simple   | Vainqueur     | 10e titre en simple                                                 |
+| 2025  | [[Wimbledon]] - Simple             | 8e de finale  |                                                                     |
+| 2025  | [[Wimbledon]] - Double             | ==Vainqueur== | 5e titre de grand chelem en double<br>avec [[Veronika Kudermetova]] |
+| 2025  | [[US Open]] - Simple               | 3e tour       |                                                                     |
+| 2025  | [[US Open]] - Double               | Demi-finale   | avec [[Veronika Kudermetova]]                                       |
+| 2025  | [[Tournoi de Wuhan]] - Simple      | 2e tour       | Blessée au dos                                                      |
+| 2025  | [[WTA - Tournoi d'Osaka]] - Simple | 2e tour       |                                                                     |
+| 2025  | [[Masters WTA de Ryad]] - Double   | Vainqueur     | avec V                                                              |
+| 2026  | [[Australian Open]] - Simple       | 1/8 finale    | Défaite contre Rybanika (5e WTA)                                    |
+| 2026  | [[Australian Open]] - Double       | ==Vainqueur== | avec [[Shuai Zhang]]                                                |
 
 # Style et Caractéristiques
 - C'est une joueuse très équilibrée et régulière qui intègre en juin 2025 le club très fermé des joueuses qui ont gagné un tournoi sur les 3 types de surface.
@@ -42,7 +42,7 @@ type: personne
 # Records et Faits Marquants
 - Lors du [[Tournoi de Rosmalen]] en 2025, elle sauve 11 balles de match en demi-finale.
 - 4 finales en double à [[Wimbledon|Wimbledon]]
-- 5 titres de grand chelem en double
+- 6 titres de grand chelem en double
 - WTA - 21e
 
 # Controverses ou Événements Importants
