@@ -10,10 +10,10 @@ type: game
 - **Développeur** : 
 	- Studio : [[Size Five Games]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[No More Robots]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Point & Click]]
 - **Résumé** : incarnez un dictateur galactique un poil loser dans un [[Point & Click]]
 
 ## Détails Techniques

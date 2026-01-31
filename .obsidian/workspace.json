@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Size Five Games.md",
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Ubisoft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Size Five Games"
+              "title": "Ubisoft"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Earth Must Die",
+                "query": "Ubiso",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,7 +207,9 @@
   },
   "active": "1e8bc039b7443ecb",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Earth Must Die.md",
+    "No More Robots.md",
     "Size Five Games.md",
     "Sleepy Castle Studio.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Escape from Ever After.md",
@@ -214,7 +217,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Millenium Dream.md",
     "Attachments/image-286.webp",
     "LucidDreamLab.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
     "The Game Bakers.md",
     "Furi.md",
     "Haven.md",
@@ -233,7 +235,6 @@
     "Loisirs/Sport/Sportifs/Marion Norbert-Riberolle.md",
     "Lucinda Brand.md",
     "Loisirs/Sport/Compétitions/Championnat du Monde de Cyclocross.md",
-    "Aaron Dockx.md",
     "Attachments/image-285.webp",
     "Attachments/image-284.webp",
     "Attachments/image-283.webp",

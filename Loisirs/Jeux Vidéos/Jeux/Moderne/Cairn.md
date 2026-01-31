@@ -12,7 +12,7 @@ type: game
 	- Personnalités : 
 		- [[Emeric Thoa]] (Directeur Créatif)
 - **Éditeur** : 
-- **Plateformes** : [[PC]], [[Playstation 5]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Action]], [[Aventure]], [[Simulation]], [[Sport]]
 - **Résumé** : 
@@ -23,6 +23,8 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- Izual :  J'y ai retrouvé de vraies sensations d'escalade, et mon cerveau de joueur tactique en a été comblé.
+	- CheckPoint : 9.5/10
+	- Canard PC : 8/10
 - **Gameplay** :
 - **Durée estimée** : 
 
