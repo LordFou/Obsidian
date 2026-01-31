@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maxim Van Gils.md",
+                "file": "Dopage dans le sport.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maxim Van Gils"
+              "title": "Dopage dans le sport"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Trofeo Andratx – Pollença",
+                "query": "dopage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,6 +207,7 @@
   },
   "active": "1e8bc039b7443ecb",
   "lastOpenFiles": [
+    "Maxim Van Gils.md",
     "Loisirs/Sport/Compétitions/Trofeo Andratx – Pollença.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Loisirs/Sport/Sportifs/Marion Norbert-Riberolle.md",
@@ -232,7 +234,6 @@
     "Attachments/image-285.webp",
     "Elise Mertens.md",
     "Journal de bord/2026-01-31.md",
-    "conflict-files-obsidian-git.md",
     "Attachments/image-284.webp",
     "Attachments/image-283.webp",
     "Attachments/image-282.webp",
