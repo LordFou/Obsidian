@@ -15,10 +15,10 @@ type: event
 |       |                        |             |          |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur          | Nationalité    | Remarque |
+| ----- | ------------------ | -------------- | -------- |
+| 2026  | [[Elena Rybakina]] | Kazakhstanaise |          |
+|       |                    |                |          |
 ## Doubles
 
 | Année | Vainqueur         | Nationalité | Remarque                 |

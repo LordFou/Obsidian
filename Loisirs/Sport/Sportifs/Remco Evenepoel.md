@@ -61,7 +61,9 @@ type: personne
 | 2025  | [[Vélo de Cristal]]                                                              | 1ier 🏆  |                                                                           |
 | 2025  | [[Sportif-Sportive Belge de l'année]]                                            | 1ier     |                                                                           |
 |       |                                                                                  |          |                                                                           |
-| 2026  | [[Trofeo Ses Salines]]                                                        | 1ier     | CLM par équipe avec [[Bora Redbull]]                                      |
+| 2026  | [[Trofeo Ses Salines]]                                                           | 1ier     | CLM par équipe avec [[Bora Redbull]]. =>  [[Challenge de Majorque]]       |
+| 2026  | [[Trofeo Serra Tramuntana]]                                                      | 1ier     | 1'38 d'avance  => [[Challenge de Majorque]]                               |
+|       |                                                                                  |          |                                                                           |
 ## Historique
 ```timeline-labeled
 [line-5, body-2]

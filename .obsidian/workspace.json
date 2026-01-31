@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Novak Djokovic.md",
+                "file": "Australian Open.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Novak Djokovic"
+              "title": "Australian Open"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Djoko",
+                "query": "Elena Rybakina",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,10 +205,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "1e8bc039b7443ecb",
   "lastOpenFiles": [
-    "Loisirs/Sport/Compétitions/Championnat du Monde de Cyclocross.md",
+    "Loisirs/Sport/Aryna Sabalenka.md",
+    "Loisirs/Sport/Sportifs/Elena Rybakina.md",
+    "Australian Open.md",
+    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
+    "Loisirs/Sport/Compétitions/Trofeo Serra Tramuntana.md",
     "Loisirs/Sport/Compétitions/Novak Djokovic.md",
+    "Loisirs/Sport/Compétitions/Championnat du Monde de Cyclocross.md",
     "Championnat d'Europe de Cyclocross.md",
     "Loisirs/Sport/Sportifs/Lindsey Vonn.md",
     "JO 2026.md",
@@ -216,13 +221,11 @@
     "Laurenz Rex.md",
     "Diables Rouges.md",
     "Loisirs/Sport/Compétitions/Trofeo Ses Salines.md",
-    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Mauri Vansevenant.md",
     "Loisirs/Sport/Compétitions/AlUla Tour.md",
     "Yannis Voisard.md",
     "Loisirs/Sport/Sportifs/Armand Marchant.md",
     "Attachments/image-285.webp",
-    "Loisirs/Sport/Aryna Sabalenka.md",
     "Elise Mertens.md",
     "Journal de bord/2026-01-31.md",
     "conflict-files-obsidian-git.md",
@@ -231,9 +234,6 @@
     "Franchise Orcs Must Die.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/No Rest for the Wicked.md",
     "Moon Studios.md",
-    "Ori and the Blind Forest.md",
-    "Ori and the Will of the Wisps.md",
-    "Franchise Ori.md",
     "Attachments/image-284.webp",
     "Attachments/image-283.webp",
     "Attachments/image-282.webp",
