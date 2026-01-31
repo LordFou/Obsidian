@@ -63,7 +63,7 @@ type: personne
 |       |                                                                                  |          |                                                                           |
 | 2026  | [[Trofeo Ses Salines]]                                                           | 1ier     | CLM par équipe avec [[Bora Redbull]]. =>  [[Challenge de Majorque]]       |
 | 2026  | [[Trofeo Serra Tramuntana]]                                                      | 1ier     | 1'38 d'avance  => [[Challenge de Majorque]]                               |
-|       |                                                                                  |          |                                                                           |
+| 2026  | [[Trofeo Andratx – Pollença]]                                                    | 1ier     | [[Challenge de Majorque]]                                                 |
 ## Historique
 ```timeline-labeled
 [line-5, body-2]
