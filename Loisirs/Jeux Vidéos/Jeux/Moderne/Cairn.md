@@ -6,9 +6,9 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[The Game Bakers]]
 	- Personnalités : 
 		- [[Emeric Thoa]] (Directeur Créatif)
 - **Éditeur** : 
@@ -21,7 +21,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Izual :  J'y ai retrouvé de vraies sensations d'escalade, et mon cerveau de joueur tactique en a été comblé.
 - **Gameplay** :
 - **Durée estimée** : 
 
