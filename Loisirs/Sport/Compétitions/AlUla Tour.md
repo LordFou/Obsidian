@@ -11,11 +11,11 @@ type: event
 
 ### Etapes 
 
-|     | Vainqueur          | Général            | Remarques             |
-| --- | ------------------ | ------------------ | --------------------- |
-| 1e  | [[Jonathan Milan]] | [[Jonathan Milan]] | 2e - [[Milan Fretin]] |
-| 2e  | [[Jonathan Milan]] | [[Jonathan Milan]] | 8e - [[Milan Fretin]] |
-|     |                    |                    |                       |
+|     | Vainqueur          | Général            | Remarques                  |
+| --- | ------------------ | ------------------ | -------------------------- |
+| 1e  | [[Jonathan Milan]] | [[Jonathan Milan]] | 2e - [[Milan Fretin]]      |
+| 2e  | [[Jonathan Milan]] | [[Jonathan Milan]] | 8e - [[Milan Fretin]]      |
+| 3e  | [[Yannis Voisard]] | [[Yannis Voisard]] | 5e - [[Mauri Vansevenant]] |
 ## Femmes
 
 ### Etapes

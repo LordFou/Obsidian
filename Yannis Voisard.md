@@ -2,20 +2,20 @@
 type: personne
 ---
 
-# Laurenz Rex
+# Yannis Voisard
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
+- **Nationalité** : Suisse
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** : [[Intermarché]], [[Quick-Step]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
 | Année | Compétition               | Résultat | Remarque |
 | ----- | ------------------------- | -------- | -------- |
-| 2026  | [[AlUla Tour]] - 1e étape | 4e       |          |
+| 2026  | [[AlUla Tour]] - 3e étape | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -24,7 +24,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-- Chute impressionnante lors de la 3e étape du [[AlUla Tour]]
+Évoquer les polémiques ou moments clés de sa carrière.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
