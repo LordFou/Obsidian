@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mauri Vansevenant.md",
+                "file": "Laurenz Rex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mauri Vansevenant"
+              "title": "Laurenz Rex"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Challenge de Majorque",
+                "query": "Lauren",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,10 +205,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2066e9a3d214d366",
+  "active": "1e8bc039b7443ecb",
   "lastOpenFiles": [
-    "Loisirs/Sport/Compétitions/AlUla Tour.md",
+    "Diables Rouges.md",
+    "Loisirs/Sport/Compétitions/Trofeo Ses Salines.md",
+    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Mauri Vansevenant.md",
+    "Loisirs/Sport/Compétitions/AlUla Tour.md",
     "Yannis Voisard.md",
     "Laurenz Rex.md",
     "Loisirs/Sport/Sportifs/Armand Marchant.md",
@@ -230,9 +234,6 @@
     "HYPERGRYPH.md",
     "Final Fantasy VII - Remake.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/TR-49.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Eldegarde.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cooking Simulator 2 - Better Together.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/MIO - Memories in Orbit.md",
     "Attachments/image-284.webp",
     "Attachments/image-283.webp",
     "Attachments/image-282.webp",
