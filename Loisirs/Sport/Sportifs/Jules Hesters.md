@@ -14,9 +14,10 @@ Frère de [[Hélène Hesters]]
 - **Période d’activité** :  ? -> 2025
 
 # Palmarès et Distinctions
-| Année | Compétition                                                                                 | Résultat | Remarque |
-| ----- | ------------------------------------------------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnat du Monde de Cyclisme sur piste\| Champ. Monde Piste]] - Course à l'américaine | 10e      |          |
+| Année | Compétition                                                                                 | Résultat | Remarque                 |
+| ----- | ------------------------------------------------------------------------------------------- | -------- | ------------------------ |
+| 2025  | [[Championnat du Monde de Cyclisme sur piste\| Champ. Monde Piste]] - Course à l'américaine | 10e      |                          |
+| 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - Madison          | 1ier     | avec [[Jasper De Buyst]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

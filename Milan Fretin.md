@@ -13,10 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                     | Résultat | Remarque |
-| ----- | ------------------------------- | -------- | -------- |
-| 2025  | [[Tour de Wallonie]] - 3e étape | 2e       | Sprint   |
-|       |                                 |          |          |
+| Année | Compétition                     | Résultat | Remarque                             |
+| ----- | ------------------------------- | -------- | ------------------------------------ |
+| 2025  | [[Tour de Wallonie]] - 3e étape | 2e       | Sprint                               |
+| 2026  | [[AlUla Tour]] - 1e étape       | 2e       | Sprint - Derrière [[Jonathan Milan]] |
+|       |                                 |          |                                      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

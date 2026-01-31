@@ -6,13 +6,13 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Envision]] 
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** :  [[Envision]] 
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise The Settlers]]
 - **Genre** : [[City-Builder]]
 - **Résumé** : 
 

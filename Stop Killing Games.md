@@ -1,0 +1,3 @@
+Groupement qui a monté une pétition qui réclame aux éditeurs de cesser de nous vendre des jeux au prix fort avant de les rendre inopérants quelques années plus tard.
+
+Avec l’annonce de 1 294 188 noms vérifiés sur le million requis, Moritz Katzner, un des bénévoles du mouvement Stop Killing Games, confirme sur Reddit que la barre a été définitivement franchie et que la demande va être examinée de façon formelle par la Commission européenne.

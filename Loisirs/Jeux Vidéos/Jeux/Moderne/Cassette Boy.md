@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Wonderland Kazakiri]] 
 	- Personnalités : 
-- **Éditeur** : [[Pocketpair Publishing]]
+- **Éditeur** : [[Pocketpair]]
 - **Plateformes** : [[Playstation 5]], [[PC]], [[Switch]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** :

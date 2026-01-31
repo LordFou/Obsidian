@@ -14,7 +14,7 @@ type: game
 - **Plateformes** : [[Xbox Series]], [[XBox One]], [[Switch]], [[Switch 2]], [[Playstation 4]], [[Playstation 5]]
 - **Franchise** : 
 - **Genre** : [[Metroïdvania]]
-- **Résumé** : 
+- **Résumé** : aux commandes de MIO, un robot agile doté de capacités extraordinaires, parcourez les méandres de l’Arche, un vaisseau gigantesque et envahi par des machines hors de contrôle.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -49,4 +49,4 @@ type: game
 | Description           | URL                                                  |
 | --------------------- | ---------------------------------------------------- |
 | Article Point & Click | https://www.pointnthink.fr/fr/mio-memories-in-orbit/ |
-| Vidéo                 |                                                      |
+| Vidéo                 | https://youtu.be/ETCpWo0A0i0                         |

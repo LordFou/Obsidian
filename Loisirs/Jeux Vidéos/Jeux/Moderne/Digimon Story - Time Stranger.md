@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Media Vision Inc.]]
 	- Personnalités : 
-- **Éditeur** : [[Bandai Namco Entertainment]]
+- **Éditeur** : [[Bandai Namco]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :

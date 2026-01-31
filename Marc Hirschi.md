@@ -17,6 +17,7 @@ type: personne
 | ----- | ------------------------------------------------- | -------- | -------- |
 | 2024  | [[Tour de République Tchèque]] - Classement Final | 1ier     |          |
 | 2024  | [[Bretagne Classic]]                              | 1ier     |          |
+| 2025  | [[Grand Prix de Valence]]                         | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

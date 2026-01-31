@@ -21,6 +21,7 @@ type: personne
 | 2025  | [[Championnat du Monde de Cyclisme\|Championnat du Monde]] - CLM | 2e       |                               |
 | 2026  | Championnat National - CLM                                       | 1ier     |                               |
 | 2026  | [[Tour Down Under]] - 2e étape                                   | 1ier     | :luc_plus: Classement général |
+| 2026  | [[Tour Down Under]] - Classement final                           | 1ier     |                               |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -29,7 +30,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Janvier 2026 : opéré au poignet pour une fracture causée par un kangourou lors du [[Tour Down Under]]
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
@@ -37,3 +38,5 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 # Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
+
+![[image-273.webp]]

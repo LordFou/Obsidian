@@ -9,7 +9,7 @@ type: personne
 - **Nationalité** :  Français
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) : 
-- **Équipe(s) / Club(s)** :  [[Tudor]], [[Quick Step]]
+- **Équipe(s) / Club(s)** :  [[Tudor]], [[Quick-Step]]
 - **Période d’activité** :  
 - **Surnom** : Alaph'
 

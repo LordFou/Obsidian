@@ -27,6 +27,8 @@ content:
 | Année | Titre                |
 | ----- | -------------------- |
 | 2025  | [[Kirby Air Riders]] |
+| 2026  | [[CODE VEIN II]]     |
+|       |                      |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

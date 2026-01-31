@@ -13,13 +13,14 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                    | Résultat                 | Remarque                                          |
-| ----- | ---------------------------------------------- | ------------------------ | ------------------------------------------------- |
-| 2025  | Ligue de Diamant - Londres - 5000m             | 14e + Record de Belgique | qui a été détenu 3 jours par [[Elise Vanderelst]] |
-| 2025  | [[Championnats du monde d'athlétisme]] - 5000m | 32e                      | 15.14.93                                          |
-| 2025  | [[Championnats du monde d'athlétisme]] - 10km  | 13e                      |                                                   |
-| 2026  | Prom'Classic - 10km route                      | 1ière                    | Record d'Europe (30.10)                           |
-|       |                                                |                          |                                                   |
+| Année | Compétition                                                   | Résultat                 | Remarque                                          |
+| ----- | ------------------------------------------------------------- | ------------------------ | ------------------------------------------------- |
+| 2025  | Ligue de Diamant - Londres - 5000m                            | 14e + Record de Belgique | qui a été détenu 3 jours par [[Elise Vanderelst]] |
+| 2025  | [[Championnats du monde d'athlétisme\| Champ. Monde]] - 5000m | 32e                      | 15.14.93                                          |
+| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 10km   | 13e                      |                                                   |
+| 2025  | Champ. Europe Cross Country                                   | 4e                       |                                                   |
+| 2026  | Prom'Classic - 10km route                                     | 1ière                    | Record d'Europe (30.10)                           |
+| 2026  | Cross Cup de Hannut                                           | 1ière                    |                                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

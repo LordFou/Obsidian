@@ -24,9 +24,10 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre          | Genre | Plateformes |
-| ----- | -------------- | ----- | ----------- |
-| XXXX  | [[Titan Fall]] | FPS   |             |
+| Année | Titre          |
+| ----- | -------------- |
+| XXXX  | [[Titan Fall]] |
+| 2026  | [[Highguard]]  |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

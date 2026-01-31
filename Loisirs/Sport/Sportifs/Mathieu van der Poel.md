@@ -34,8 +34,9 @@ type: personne
 | 2025  | CXWorldCup - 7e manche - Cross de Gavere            | 1ier    |                                                                                                        |
 | 2025  | X2O - 6e manche - Cross Baal                        | 1ier    |                                                                                                        |
 | 2025  | Exact Cross - 5e manche (?) - Zilvermeercross (Mol) | 1ier    |                                                                                                        |
-| 2026  | CXWorldCup - 9e manche - Cross de Zonhoven          | 1ier    |                                                                                                        |
-| 2026  | CXWorldCup - Benidorm                               | 1ier    |                                                                                                        |
+| 2026  | CXWorldCup - 9e manche - Zonhoven                   | 1ier    |                                                                                                        |
+| 2026  | CXWorldCup - 10e manche - Benidorm                  | 1ier    |                                                                                                        |
+| 2026  | CXWorldCup - 11e manche -  Maasmechelen             | 1ier    |                                                                                                        |
 | 2026  | CXWorldCup - Classement final                       | 1ier    |                                                                                                        |
 
 ## Style et Caractéristiques
@@ -48,6 +49,7 @@ type: personne
 - 3 Paris Roubaix
 - X champions du monde de cyclo cross
 - Lors du [[Tour de France]] 2025, il part contre toute attente au km 0 avec [[Jonas Rickaert]] dans une échappée alors que l'étape était promise aux sprinters. L'échappée échouera à 1000m de la ligne d'arrivée.
+- 50 victoires en Coupe du monde de cyclocross.
 
 ## Controverses ou Événements Importants
 - Mai 2025 : fracture du scaphoïde.

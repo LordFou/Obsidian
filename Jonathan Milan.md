@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-279.webp]]
 # Jonathan Milan
 
 # Informations Générales
@@ -24,6 +24,9 @@ type: personne
 | 2025  | [[Tour de France]] - Maillot Vert    | 1ier 🥇      |                                              |
 | 2025  | [[Critérium d'Herentals]]            | 2e           |                                              |
 | 2025  | [[Championnat des Flandres]]         | 1ier 🥇      |                                              |
+|       |                                      |              |                                              |
+| 2026  | [[AlUla Tour]] - 1e étape            | 1ier 🥇      |                                              |
+| 2026  | [[AlUla Tour]] - 2e étape            | 1ier 🥇      |                                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

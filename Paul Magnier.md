@@ -9,7 +9,7 @@ type: personne
 - **Nationalité** :  Français
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Quick Step]]
+- **Équipe(s) / Club(s)** :  [[Quick-Step]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
@@ -37,6 +37,7 @@ type: personne
 | 2025  | [[Tour du Guangxi]] - 3e étape   | 1ier     |                           |
 | 2025  | [[Tour du Guangxi]] - 4e étape   | 1ier     |                           |
 | 2025  | [[Tour du Guangxi]] - 5e étape   | 1ier     |                           |
+| 2026  | [[Grand Prix de Valence]]        | 2e       | Sprint                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Open d'Australie
+# Australian Open
 
 # Introduction
 
@@ -19,3 +19,9 @@ type: event
 | ----- | --------- | ----------- | -------- |
 | 2025  |           |             |          |
 |       |           |             |          |
+## Doubles
+
+| Année | Vainqueur         | Nationalité | Remarque                 |
+| ----- | ----------------- | ----------- | ------------------------ |
+| 2021  | [[Elise Mertens]] | Belge       | avec [[Aryna Sabalenka]] |
+| 2024  | [[Elise Mertens]] | Belge       | avec [[Su-Wei Hsieh]]    |

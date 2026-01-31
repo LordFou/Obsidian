@@ -22,7 +22,7 @@ type: personne
 | 2025  | [[ATP - Tournoi de Tokyo]]   | 2e tour               | Défaite contre [[Carlos Alcaraz]]                            |
 | 2025  | [[ATP - Tournoi de Shangaï]] | 1/4e finale           | Meilleur résultat en ATP<br>Défaite contre [[Novac Jokovic]] |
 | 2025  | [[Masters 1.000 de Paris]]   | 2e tour               | Défaite contre [[David Sinner]]                              |
-| 2026  | [[Australien Open]]          | 1ier tour             |                                                              |
+| 2026  | [[Australian Open]]          | 1ier tour             |                                                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

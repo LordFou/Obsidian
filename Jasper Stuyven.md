@@ -9,7 +9,7 @@ type: personne
 - **Nationalité** :  Belge
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Lidl-Trek]], [[Quick Step]]
+- **Équipe(s) / Club(s)** :  [[Lidl-Trek]], [[Quick-Step]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions

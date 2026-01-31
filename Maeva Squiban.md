@@ -19,6 +19,7 @@ type: personne
 | 2025  | [[Tour de France]] - 6e étape         | 1ière<br>Combattive du jour | 3e victoire de sa carrière |
 | 2025  | [[Tour de France]] - 7e étape         | 1ière<br>Combattive du jour | 4e victoire de sa carrière |
 | 2025  | [[Tour de France]] - Super Combattive | 1ière                       |                            |
+| 2026  | [[Trofeo Marratxi-Felanitx]]          | 1ière                       |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

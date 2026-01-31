@@ -23,6 +23,7 @@ type: personne
 | 2026  | Coupe du Monde - Alta Badia (Italie) - Slalom Géant              | 17e      |                                  |
 | 2026  | Coupe du Monde - Adelboden (Suisse) - Slalom Géant               | 19e      |                                  |
 | 2026  | Coupe du Monde - Wengen (Suisse) - Slalom Géant                  | 21e      |                                  |
+| 2026  | Coupe du Monde - Schladming (Autriche) - Slalom Géant            | 6e       |                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

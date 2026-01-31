@@ -8,10 +8,10 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur          | Nationalité | Remarque                  |
+| ----- | ------------------ | ----------- | ------------------------- |
+| 2025  |                    |             |                           |
+| 2026  | [[Oliver Solberg]] | Suédois     | 5e - [[Thierry Neuville]] |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

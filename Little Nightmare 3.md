@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Supermassive Games]]
 	- Personnalités : 
-- **Éditeur** : [[Bandai Namco Entertainment]]
+- **Éditeur** : [[Bandai Namco]]
 - **Plateformes** : PC
 - **Franchise** : [[Franchise Little Nightmare|Little Nightmare]]
 - **Genre** : [[Aventure]], [[Horreur]]

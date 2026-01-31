@@ -26,7 +26,7 @@ type: game
 | [[Resident Evil 5]]               |           |                                                                                                                                                                          |                                                                           |
 | [[Resident Evil 6]]               |           |                                                                                                                                                                          |                                                                           |
 | [[Resident Evil 7 - Biohazard]]   |           |                                                                                                                                                                          |                                                                           |
-| [[Resident Evil Requiem]]         | 2026 (?)  |                                                                                                                                                                          |                                                                           |
+| [[Resident Evil 9 - Requiem]]         | 2026      | [[Xbox Series]]                                                                                                                                                          |                                                                           |
 ## Points communs des jeux de la franchise
 - Les sources de documentation (notes, documents,...)
 - Certains dialogues surréalistes

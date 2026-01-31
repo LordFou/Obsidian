@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[SAS CO.,LTD.]]
 	- Personnalités : 
-- **Éditeur** : [[Bandai Namco Entertainment]]
+- **Éditeur** : [[Bandai Namco]]
 - **Plateformes** : PC
 - **Franchise** : 
 - **Genre** : [[Jeu de rythme]]

@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Hyde, inc]]
 	- Personnalités : 
-- **Éditeur** : [[Bandai Namco Entertainment]]
+- **Éditeur** : [[Bandai Namco]]
 - **Plateformes** : [[Switch]]
 - **Franchise** : 
 - **Genre** :

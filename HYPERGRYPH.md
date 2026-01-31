@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Bandai Namco Entertainment
+# HYPERGRYPH
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,10 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre        | Genre              | Plateformes           |
-| ----- | ------------ | ------------------ | --------------------- |
-| 2025  | [[Hirogami]] | Action / RPG / FPS | PC, PS5, Xbox, Switch |
-|       |              |                    |                       |
+| Année | Titre                    |
+| ----- | ------------------------ |
+| 2026  | [[Arknights - Endfield]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

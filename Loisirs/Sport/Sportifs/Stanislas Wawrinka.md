@@ -17,7 +17,7 @@ type: personne
 | ----- | -------------------- | --------- | ---------------------- |
 | 2008  | [[JO 2008]] - Double | Vainqueur | avec [[Roger Federer]] |
 | 2014  | [[Coupe Davis]]      | Vainqueur |                        |
-| 2014  | [[Open d'Australie]] | Vainqueur |                        |
+| 2014  | [[Australian Open]] | Vainqueur |                        |
 | 2015  | [[Roland-Garros]]    | Vainqueur |                        |
 | 2016  | [[US Open]]          | Vainqueur |                        |
 
