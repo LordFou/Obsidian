@@ -1,22 +1,20 @@
 ---
 type: game
 ---
-![[image-287.webp]]
-# Escape from Ever After
+
+# Earth Must Die
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
-		- [[Sleepy Castle Studio]]
-		- [[Wing-It! Creative]]
+	- Studio : [[Size Five Games]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]], [[Playstation 4]], [[Playstation 5]], [[XBox One]],[[Xbox Series]], [[Switch 2]]
+- **Plateformes** : 
 - **Franchise** : 
 - **Genre** :
-- **Résumé** : 
+- **Résumé** : incarnez un dictateur galactique un poil loser dans un [[Point & Click]]
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -32,8 +30,7 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-- **Influencé par** : 
-	- [[Paper Mario]]
+- **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

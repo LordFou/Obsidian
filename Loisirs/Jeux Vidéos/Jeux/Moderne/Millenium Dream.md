@@ -1,22 +1,20 @@
 ---
 type: game
 ---
-![[image-287.webp]]
-# Escape from Ever After
+![[image-286.webp]]
+# Millenium Dream
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
-		- [[Sleepy Castle Studio]]
-		- [[Wing-It! Creative]]
+	- Studio : [[LucidDreamLab]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]], [[Playstation 4]], [[Playstation 5]], [[XBox One]],[[Xbox Series]], [[Switch 2]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
-- **Résumé** : 
+- **Genre** : [[Horreur]]
+- **Résumé** : Il reprend le motif des backrooms/espaces liminaires et l'étend à une ville chinoise, dans un jeu mi-contemplatif, mi-horrifique.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -32,8 +30,7 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-- **Influencé par** : 
-	- [[Paper Mario]]
+- **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
