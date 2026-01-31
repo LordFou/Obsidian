@@ -1,31 +1,31 @@
 ---
 type: personne
 ---
-![[image-260.webp]]
-# Lindsey Vonn
+
+# Novak Djokovic
 
 # Informations Générales
-- **Date de naissance** :  1984
-- **Nationalité** :  Américaine
-- **Sport / Discipline** :  [[Ski]]
+- **Date de naissance** :  
+- **Nationalité** :  Serbe
+- **Sport / Discipline** :  [[Tennis]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
-- **Surnom** : Speed Queen
 
 # Palmarès et Distinctions
-| Année | Compétition                                       | Résultat | Remarque |
-| ----- | ------------------------------------------------- | -------- | -------- |
-| 2026  | Coupe du monde - Zauchensee (Autriche) - Descente | 1ière    |          |
+| Année | Compétition         | Résultat  | Remarque |
+| ----- | ------------------- | --------- | -------- |
+| 2026  | [[Australian Open]] | Finaliste |          |
+|       |                     |           |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-- 84 victoires en Coupe du monde à 41 ans
+Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-- Blessure au genou juste avant les [[JO 2026]]
+Évoquer les polémiques ou moments clés de sa carrière.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

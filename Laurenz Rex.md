@@ -27,7 +27,7 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 - Chute impressionnante lors de la 3e étape du [[AlUla Tour]] 
 	- Fracture de trois apophyses épineuses
 	- Plusieurs semaines de repos avant la rééducation
-	- Retou
+	- Retour en fin de saison (?)
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
