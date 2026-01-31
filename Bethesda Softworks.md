@@ -2,11 +2,10 @@
 type: societe
 ---
 
-# Human Head Studio
+# Bethesda Softworks
 
 ## Présentation
-- Fondé par des anciens de [[Raven Software]]
-- Absorbé par [[Bethesda Softworks]]
+Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
 
 ## Informations Générales
 - **Nom complet** :  
@@ -25,13 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre               |
-| ----- | ------------------- |
-|       | [[Rune]]            |
-| 2003  | [[Dead Man’s Hand]] |
-| 2006  | [[Prey]]            |
-| 2018  | The Quiet Man       |
-| 2019  | Rune 2              |
+| Année | Titre       |
+| ----- | ----------- |
+| XXXX  | [[Redfall]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

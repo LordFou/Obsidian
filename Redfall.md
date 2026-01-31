@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Dead Man’s Hand
+# Redfall
 
 ## Informations Générales
 
-- **Année de sortie** : 2003
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Human Head Studio]]
+	- Studio : [[Bethesda Softworks]]
 	- Personnalités : 
-- **Éditeur** : [[Atari]]
-- **Plateformes** : [[PC]], [[Xbox]]
+- **Éditeur** : 
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[FPS]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques

@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Dead Man’s Hand
+# Rune
 
 ## Informations Générales
 
-- **Année de sortie** : 2003
+- **Année de sortie** : 
 - **Développeur** : 
 	- Studio : [[Human Head Studio]]
 	- Personnalités : 
-- **Éditeur** : [[Atari]]
-- **Plateformes** : [[PC]], [[Xbox]]
+- **Éditeur** : 
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[FPS]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques

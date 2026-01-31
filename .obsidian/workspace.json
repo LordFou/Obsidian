@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Dead Man’s Hand.md",
+                "file": "Redfall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dead Man’s Hand"
+              "title": "Redfall"
             }
           }
         ]
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -206,8 +207,13 @@
   },
   "active": "1e8bc039b7443ecb",
   "lastOpenFiles": [
+    "Bethesda Softworks.md",
+    "Redfall.md",
     "Human Head Studio.md",
+    "Raven Software.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Dead Man’s Hand.md",
+    "Prey.md",
+    "Rune.md",
     "Dopage dans le sport.md",
     "Maxim Van Gils.md",
     "Loisirs/Sport/Compétitions/Trofeo Andratx – Pollença.md",
@@ -227,11 +233,6 @@
     "JO 2026.md",
     "Carlos Alcaraz.md",
     "Laurenz Rex.md",
-    "Diables Rouges.md",
-    "Loisirs/Sport/Compétitions/Trofeo Ses Salines.md",
-    "Mauri Vansevenant.md",
-    "Loisirs/Sport/Compétitions/AlUla Tour.md",
-    "Yannis Voisard.md",
     "Attachments/image-285.webp",
     "Attachments/image-284.webp",
     "Attachments/image-283.webp",
