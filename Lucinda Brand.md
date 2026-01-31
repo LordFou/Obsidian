@@ -27,10 +27,11 @@ type: personne
 | 2025  | CXWorldCup - 7e manche - Cross de Gavere                                 | 1ière    |          |
 | 2025  | X2O - Cross Baal                                                         | 1ière    |          |
 | 2025  | Cross de Loenhout                                                        | 1ière    |          |
+|       |                                                                          |          |          |
 | 2026  | Coupe du Monde - Cross de Zonhoven                                       | 2e       |          |
 | 2026  | Coupe du Monde - Benidorm                                                | 1ière    |          |
 | 2026  | Coupe du Monde - Classement final                                        | 1ière    |          |
-|       |                                                                          |          |          |
+| 2026  | Championnat du Mon                                                       |          |          |
 
 
 # Style et Caractéristiques

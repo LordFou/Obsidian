@@ -2,23 +2,20 @@
 type: personne
 ---
 
-# Elena Rybakina
+# Madison Keys
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** : Kazakhstanaise
+- **Nationalité** :  ?
 - **Sport / Discipline** :  [[Tennis]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition             | Résultat  | Remarque                           |
-| ----- | ----------------------- | --------- | ---------------------------------- |
-| 2022  | [[Wimbledon]]           | Vainqueur |                                    |
-| 2023  | [[Australian Open]]     | Finaliste | Défaite contre [[Aryna Sabalenka]] |
-| 2025  | [[Masters WTA de Ryad]] | Vainqueur |                                    |
-| 2026  | [[Australian Open]]     | Vainqueur | Contre [[Aryna Sabalenka]]         |
+| Année | Compétition         | Résultat   | Remarque                   |
+| ----- | ------------------- | ---------- | -------------------------- |
+| 2025  | [[Australian Open]] | Vainqueure | contre [[Aryna Sabalenka]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

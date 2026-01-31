@@ -2,23 +2,20 @@
 type: personne
 ---
 
-# Elena Rybakina
+# Aaron Dockx
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** : Kazakhstanaise
-- **Sport / Discipline** :  [[Tennis]]
+- **Nationalité** :  Belge
+- **Sport / Discipline** :  [[Cyclocross]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition             | Résultat  | Remarque                           |
-| ----- | ----------------------- | --------- | ---------------------------------- |
-| 2022  | [[Wimbledon]]           | Vainqueur |                                    |
-| 2023  | [[Australian Open]]     | Finaliste | Défaite contre [[Aryna Sabalenka]] |
-| 2025  | [[Masters WTA de Ryad]] | Vainqueur |                                    |
-| 2026  | [[Australian Open]]     | Vainqueur | Contre [[Aryna Sabalenka]]         |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
