@@ -5,6 +5,8 @@ type: personne
 # Jules Hesters
 
 Frère de [[Hélène Hesters]]
+
+![[image-290.webp]]
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge

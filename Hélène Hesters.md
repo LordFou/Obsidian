@@ -5,6 +5,8 @@ type: personne
 # Hélène Hesters
 
 Soeur de [[Jules Hesters]]
+
+![[image-289.webp]]
 # Informations Générales
 - **Date de naissance** :  2004
 - **Nationalité** :  Belge
