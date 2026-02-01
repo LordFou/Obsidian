@@ -1,27 +1,26 @@
 ---
 type: game
 ---
-![[image-292.webp]]
-# I Hate This Place
+
+# The Light Bringer
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 2021
 - **Développeur** : 
 	- Studio : [[Rock Square Thunder]]
 	- Personnalités : 
-- **Éditeur** : [[Broken Mirror Games]], [[Feardemic]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch]]
+- **Éditeur** : 
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Survival Horror]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- CheckPoint : 6/10
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -32,12 +31,13 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- Le comics du même nom
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
-| Description      | URL                          |
-| ---------------- | ---------------------------- |
-| Gameplay Trailer | https://youtu.be/BtgCRwEvVsI |
+| Description | URL |
+| ----------- | --- |
+|             |     |

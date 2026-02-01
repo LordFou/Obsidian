@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/HumanitZ.md",
+                "file": "The Light Bringer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HumanitZ"
+              "title": "The Light Bringer"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HumanitZ",
+                "query": "I hate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -207,8 +208,15 @@
   },
   "active": "1e8bc039b7443ecb",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost Gunners.md",
+    "Rock Square Thunder.md",
+    "The Light Bringer.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/I Hate This Place.md",
+    "Feardemic.md",
+    "Broken Mirror Games.md",
+    "Attachments/image-292.webp",
+    "Attachments/image-291.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/HumanitZ.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost Gunners.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Dead Pets - A Punk Rock Slice Of Life Sim.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Nioh 3.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Unemployment Simulator 2018.md",
@@ -230,19 +238,12 @@
     "Antonio Morgado.md",
     "Loisirs/Sport/Arne Marit.md",
     "Loisirs/Sport/Compétitions/Grand Prix du Morbihan.md",
-    "Loisirs/Sport/Compétitions/Trofeo Palma.md",
-    "Journal de bord/2026-02-01.md",
-    "Maxim Van Gils.md",
-    "Loisirs/Sport/Sportifs/Mathieu van der Poel.md",
-    "Rallye des Legend Boucles.md",
     "Attachments/image-288.webp",
     "Attachments/image-287.webp",
     "Attachments/image-286.webp",
     "Attachments/image-285.webp",
     "Attachments/image-284.webp",
     "Attachments/image-283.webp",
-    "Attachments/image-282.webp",
-    "Attachments/image-281.webp",
     "Loisirs/Tourisme",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Culture/Géographie",
