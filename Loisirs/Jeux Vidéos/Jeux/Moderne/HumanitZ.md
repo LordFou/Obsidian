@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Action]], [[Aventure]], [[RPG]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                          |
+| ----------- | ---------------------------- |
+| Trailer     | https://youtu.be/Q-jSDwToqsQ |
