@@ -5,7 +5,7 @@ type: personne
 # Novak Djokovic
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  1986
 - **Nationalité** :  Serbe
 - **Sport / Discipline** :  [[Tennis]]
 - **Poste / Spécialité** (si applicable) :  
@@ -13,10 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition         | Résultat  | Remarque |
-| ----- | ------------------- | --------- | -------- |
-| 2026  | [[Australian Open]] | Finaliste |          |
-|       |                     |           |          |
+| Année | Compétition         | Résultat  | Remarque                          |
+| ----- | ------------------- | --------- | --------------------------------- |
+| 2026  | [[Australian Open]] | Finaliste | Défaite contre [[Carlos Alcaraz]] |
+|       |                     |           |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
