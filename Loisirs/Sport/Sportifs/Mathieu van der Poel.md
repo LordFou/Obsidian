@@ -8,7 +8,7 @@ type: personne
 - **Nationalité** :  Néerlandaise
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  Alpecin
+- **Équipe(s) / Club(s)** :  [[Alpecin]]
 - **Période d’activité** :  
 
 ## Palmarès et Distinctions
@@ -23,6 +23,7 @@ type: personne
 | 2023  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
 | 2024  | [[Championnat du monde de Gravel]]                  | 1ier    |                                                                                                        |
 | 2024  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
+| 2025  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
 | 2025  | [[Grand Prix Samyn]]                                | 1ier    |                                                                                                        |
 | 2025  | [[Grand Prix de l'E3]]                              | 1ier    |                                                                                                        |
 | 2025  | [[Milan San Remo]]                                  | 1ier    | Ils ont attaqué à 3 (Lui, [[Tadej Pogacar]] et [[Ganna]]) dans la [[Cipressa]], ce qui n'arrive jamais |
@@ -44,15 +45,7 @@ type: personne
 | 2026  | CXWorldCup - 10e manche - Benidorm                  | 1ier    |                                                                                                        |
 | 2026  | CXWorldCup - 11e manche -  Maasmechelen             | 1ier    |                                                                                                        |
 | 2026  | CXWorldCup - Classement final                       | 1ier    |                                                                                                        |
-| 2025  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
 | 2026  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
-> [!example]- Tableau – Versions du jeu
-> | Version | Année | Plateforme |
-> |--------|-------|------------|
-> | NES    | 1987  | Nintendo   |
-> | SNES   | 1991  | Nintendo   |
-> | PS1    | 1998  | Sony       |
-
 ## Style et Caractéristiques
 - Toujours à l'attaque et beaucoup de victoires en solitaire
 - Il s'est déjà prix des bonnes fringales
