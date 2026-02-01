@@ -38,6 +38,14 @@ type: personne
 | 2026  | CXWorldCup - 10e manche - Benidorm                  | 1ier    |                                                                                                        |
 | 2026  | CXWorldCup - 11e manche -  Maasmechelen             | 1ier    |                                                                                                        |
 | 2026  | CXWorldCup - Classement final                       | 1ier    |                                                                                                        |
+| 2015  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
+| 2019  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
+| 2020  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
+| 2021  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
+| 2023  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
+| 2024  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
+| 2025  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
+| 2026  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
 
 ## Style et Caractéristiques
 - Toujours à l'attaque et beaucoup de victoires en solitaire
@@ -47,7 +55,15 @@ type: personne
 - 2 Milan San Remo
 - 3 Tour des Flandres
 - 3 Paris Roubaix
-- X champions du monde de cyclo cross
+- 8x champions du monde de cyclo cross => ==Record Absolu !!!==
+	- 2015
+	- 2019
+	- 2020
+	- 2021
+	- 2023
+	- 2024
+	- 2025
+	- 2026
 - Lors du [[Tour de France]] 2025, il part contre toute attente au km 0 avec [[Jonas Rickaert]] dans une échappée alors que l'étape était promise aux sprinters. L'échappée échouera à 1000m de la ligne d'arrivée.
 - 50 victoires en Coupe du monde de cyclocross.
 
