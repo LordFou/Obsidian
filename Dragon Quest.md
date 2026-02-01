@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Aces of Thunder
+# Dragon Quest
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio :  
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]], [[Playstation 5]]
-- **Franchise** : 
-- **Genre** : [[Simulation]], [[Action]]
+- **Plateformes** : 
+- **Franchise** : [[Franchise Dragon Quest]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/lp_VwoKNpC0 |
+| Description | URL |
+| ----------- | --- |
+|             |     |

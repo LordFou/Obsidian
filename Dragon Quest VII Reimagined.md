@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Aces of Thunder
+# Dragon Quest VII Reimagined
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio :  
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]], [[Playstation 5]]
+- **Plateformes** : [[PC]],[[Playstation 5]],[[Xbox Series]], [[Switch 2]]
 - **Franchise** : 
-- **Genre** : [[Simulation]], [[Action]]
+- **Genre** : [[Aventure]], [[RPG]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -39,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/lp_VwoKNpC0 |
+| Trailer     | https://youtu.be/z13aCVkZaaw |

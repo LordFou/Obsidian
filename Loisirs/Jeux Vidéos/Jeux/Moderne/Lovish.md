@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Aces of Thunder
+# Lovish
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio :  
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]], [[Playstation 5]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[XBox One]], [[Xbox Series]], [[Switch]]
 - **Franchise** : 
-- **Genre** : [[Simulation]], [[Action]]
+- **Genre** : [[Action]], [[Aventure]], [[Casual]], [[Plateforme]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -39,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/lp_VwoKNpC0 |
+| Trailer     | https://youtu.be/rA9lX-kZ_0o |
