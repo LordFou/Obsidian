@@ -2,7 +2,7 @@
 type: personne
 ---
 
-# Mathieu Bablet
+# Guillaume Singelin
 
 ## Présentation
 Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
@@ -11,9 +11,7 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 - **Date de naissance** :  
 - **Nationalité** :  
 - **Profession(s)** : 
-	- [[Directeur Créatif]]
-	- [[Directeur Artistique]]
-	- Bande Dessinée (mais quoi)
+	- [[Character Designer]]
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 
 ```timeline-labeled

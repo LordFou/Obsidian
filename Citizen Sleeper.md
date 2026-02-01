@@ -10,9 +10,10 @@ type: game
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
+		- [[Guillaume Singelin]] (Character Designer)
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise Citizen Sleeper]]
 - **Genre** :
 - **Résumé** : 
 

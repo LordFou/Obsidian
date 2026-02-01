@@ -1,3 +1,6 @@
+---
+type: game
+---
 ![[Pasted image 20250405002143.jpg]]
 # Citizen Sleeper 2
 
@@ -7,6 +10,7 @@
 - **Développeur** : 
 	- Studio : [[Jump Over The Age]]
 	- Personnalités : 
+		- [[Guillaume Singelin]] (Character Designer)
 - **Éditeur** : [[Fellow Traveller]]
 - **Plateformes** : All
 - **Genre** : [[RPG]] Narratif

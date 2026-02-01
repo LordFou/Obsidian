@@ -33,6 +33,7 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Aava
 - **Ennemis** :
 - **Thèmes abordés** : 
 	- [[Alpinisme]]
