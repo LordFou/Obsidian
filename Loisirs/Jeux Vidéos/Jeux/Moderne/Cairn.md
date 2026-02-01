@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-293.webp]]
 # Cairn
 
 ## Informations Générales
@@ -11,6 +11,7 @@ type: game
 	- Studio : [[The Game Bakers]]
 	- Personnalités : 
 		- [[Emeric Thoa]] (Directeur Créatif)
+		- [[Mathieu Bablet]] (Directeur Artistique et Créatif)
 - **Éditeur** : 
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 

@@ -8,12 +8,12 @@ type: game
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[The Game Bakers]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Romance]]
 - **Résumé** : 
 
 ## Détails Techniques

@@ -35,7 +35,7 @@ content:
 - Moteur 2
 
 ## Style et Influence
-Décrire le style graphique, les thématiques abordées, les influences notables.
+- Leur jeu [[Furi]],[[Haven]] et [[Cairn]] font partie d'une trilogie thématique explorant différentes facettes de la liberté, vivre libre, aimer librement, puis chercher une liberté absolue, au prix de l’effort, du risque et du sacrifice.
 
 ## Succès et Récompenses
 Lister les prix, distinctions ou records obtenus.

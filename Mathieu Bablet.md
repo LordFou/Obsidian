@@ -2,7 +2,7 @@
 type: personne
 ---
 
-# Emeric Thoa
+# Mathieu Bablet
 
 ## Présentation
 Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
@@ -12,6 +12,8 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 - **Nationalité** :  
 - **Profession(s)** : 
 	- [[Directeur Créatif]]
+	- [[Directeur Artistique]]
+	- 
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 
 ```timeline-labeled
@@ -64,8 +66,5 @@ Lister les prix et reconnaissances obtenues.
 Évoquer les polémiques ou événements notables liés à cette personne.
 
 ## Sources et Références
-
-| Description           | Lien                                             |
-| --------------------- | ------------------------------------------------ |
-| Article Point & Think | https://www.pointnthink.fr/fr/emeric-thoa-cairn/ |
-
+- [Lien vers une source](#)
+- [Article détaillé](#)
