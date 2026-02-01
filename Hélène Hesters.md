@@ -17,8 +17,10 @@ Soeur de [[Jules Hesters]]
 | Année | Compétition                                                                            | Résultat | Remarque |
 | ----- | -------------------------------------------------------------------------------------- | -------- | -------- |
 | 2025  | [[Championnat du Monde de Cyclisme sur piste]] - Course à l'éliminitation              | 3e       |          |
+|       |                                                                                        |          |          |
 | 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - Elimination | 1ière 🥇 |          |
 | 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - Kilomètre   | 1ière 🥇 |          |
+| 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Scratch                               | 1ière 🥇 |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
