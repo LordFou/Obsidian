@@ -12,6 +12,12 @@ type: personne
 - **Période d’activité** :  
 
 ## Palmarès et Distinctions
+
+## Sommaire
+- [[#NES]]
+- [[#SNES]]
+- [[#PlayStation]]
+
 | Année | Compétition                                         | Result  | Remarque                                                                                               |
 | ----- | --------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------ |
 | 2015  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
