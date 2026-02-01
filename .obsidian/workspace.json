@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-02-01.md",
+                "file": "Carlos Alcaraz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-01"
+              "title": "Carlos Alcaraz"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TR-49",
+                "query": "Austr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,8 +207,9 @@
   },
   "active": "1e8bc039b7443ecb",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/TR-49.md",
+    "Australian Open.md",
     "Journal de bord/2026-02-01.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/TR-49.md",
     "inkle.md",
     "Loisirs/Internet/Les perles du net.md",
     "Sim City.md",
@@ -234,7 +235,6 @@
     "LucidDreamLab.md",
     "The Game Bakers.md",
     "Furi.md",
-    "Haven.md",
     "Attachments/image-285.webp",
     "Attachments/image-284.webp",
     "Attachments/image-283.webp",

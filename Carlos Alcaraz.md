@@ -22,13 +22,13 @@ type: personne
 | 2025  | [[US Open]]                | Vainqueur |                                            |
 | 2025  | [[ATP - Tournoi de Tokyo]] | Vainqueur |                                            |
 |       |                            |           |                                            |
-| 2026  | [[Australian Open]]        | Finale    |                                            |
+| 2026  | [[Australian Open]]        | Vainqueur | contre [[Novak Djokovic]]                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- A gagné les 4 titres du [[Grand Chelem]]
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
