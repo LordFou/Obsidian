@@ -2,18 +2,16 @@
 type: event
 ---
 
-# Trofeo Palma
+# Grand Prix du Morbihan
 
 # Introduction
-
-Manche du [[Challenge de Majorque]]
 
 # Hommes
 
 | Année | Vainqueur      | Nationalité | Remarque |
 | ----- | -------------- | ----------- | -------- |
-| 2026  | [[Arne Marit]] | Belge       |          |
-|       |                |             |          |
+| 2021  | [[Arne Marit]] | Belge       |          |
+| 2026  |                |             |          |
 |       |                |             |          |
 # Femmes
 

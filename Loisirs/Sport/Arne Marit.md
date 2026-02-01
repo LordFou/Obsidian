@@ -9,13 +9,14 @@ type: personne
 - **Nationalité** :  Belge
 - **Sport / Discipline** : [[Cyclisme]] 
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Bora Redbull]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition                | Résultat | Remarque |
+| ----- | -------------------------- | -------- | -------- |
+| 2021  | [[Grand Prix du Morbihan]] | 1ier     |          |
+| 2026  | [[Trofeo Palma]]           | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
