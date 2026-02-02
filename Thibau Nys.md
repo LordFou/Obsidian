@@ -29,9 +29,10 @@ type: personne
 | 2025  | Superprestige - Cross Diegem                                             | 2e       |                                   |
 | 2025  | X2O - 6e manche - Cross Baal                                             | 3e       |                                   |
 | 2025  | Exact Cross - 5e manche (?) - Zilvermeercross (Mol)                      | 2e       | derrière [[Mathieu van der Poel]] |
+|       |                                                                          |          |                                   |
 | 2026  | [[Championnat de Belgique de Cyclocross]]                                | 1ier     |                                   |
 | 2026  | CXWorldCup - Benidorm                                                    | 2e       | derrière [[Mathieu van der Poel]] |
-|       |                                                                          |          |                                   |
+| 2026  | [[Championnat du Monde de Cyclocross]]                                   | 3e       |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
