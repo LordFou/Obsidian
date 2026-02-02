@@ -39,6 +39,7 @@ Lister les prix, distinctions ou records obtenus.
 	- [[Guillaume Patrux]]
 	- [[Yves Guillemot]]
 - Janvier 2026, la firme réorganise ses équipes de développement en 7 équipes qui se partagent les jeux. 7 jeux sont annulés, 6 repoussés. La firme prône également la suppression du télétravail... => L'action qui valait plus de 100 euros en 2018, en vaut moins de cinq aujourd'hui.
+- Fin janvier, suppression de 200 postes au siège francilien de Saint-Mandé
 
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.

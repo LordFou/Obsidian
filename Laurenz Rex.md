@@ -24,7 +24,10 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Chute impressionnante lors de la 3e étape du [[AlUla Tour]] 
+	- Fracture de trois apophyses épineuses
+	- Plusieurs semaines de repos avant la rééducation
+	- Retour en fin de saison (?)
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

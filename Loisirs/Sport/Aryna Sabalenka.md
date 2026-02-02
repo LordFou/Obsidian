@@ -13,14 +13,19 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition         | Résultat   | Remarque                    |
-| ----- | ------------------- | ---------- | --------------------------- |
-| 2023  | [[Australian Open]] | Vainqueure |                             |
-| 2024  | [[Australian Open]] | Vainqueure |                             |
-| 2024  | [[US Open]]         | Vainqueure |                             |
-| 2025  | [[Australian Open]] | Finaliste  |                             |
-| 2025  | [[Roland-Garros]]   | Finaliste  |                             |
-| 2025  | [[US Open]]         | Vainqueure | contre [[Amanda Anisimova]] |
+| Année | Compétition         | Résultat   | Remarque                          |
+| ----- | ------------------- | ---------- | --------------------------------- |
+| 2023  | [[Australian Open]] | Vainqueure |                                   |
+|       |                     |            |                                   |
+| 2024  | [[Australian Open]] | Vainqueure |                                   |
+| 2024  | [[US Open]]         | Vainqueure |                                   |
+|       |                     |            |                                   |
+| 2025  | [[Australian Open]] | Finaliste  | Défaite contre [[Madison Keys]]   |
+| 2025  | [[Roland-Garros]]   | Finaliste  |                                   |
+| 2025  | [[US Open]]         | Vainqueure | contre [[Amanda Anisimova]]       |
+|       |                     |            |                                   |
+| 2026  | [[Australian Open]] | Finaliste  | Défaite contre [[Elena Rybakina]] |
+|       |                     |            |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

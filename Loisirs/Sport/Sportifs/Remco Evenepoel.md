@@ -44,6 +44,7 @@ type: personne
 | 2024  | [[JO 2024\|JO]] - Route                                                          | Or 🥇    |                                                                           |
 | 2024  | [[JO 2024\|JO]] - CLM                                                            | Or 🥇    |                                                                           |
 | 2024  | [[Championnat du Monde de Cyclisme\|Championnat du Monde]] - CLM                 | 1ier 🏆  |                                                                           |
+|       |                                                                                  |          |                                                                           |
 | 2025  | [[Flèche Brabançonne]]                                                           | 1ier 🏆  | 2e Van Aert                                                               |
 | 2025  | [[Flèche Wallonne]]                                                              | 9e       | 1e Pogacar                                                                |
 | 2025  | [[Critérium du Dauphiné]] - 4e étape                                             | 1ier 🏆  | CLM<br>Prise du maillot jaune et blanc                                    |
@@ -59,6 +60,10 @@ type: personne
 | 2025  | [[Tour de Lombardie]]                                                            | 2e       | derrière [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]]                   |
 | 2025  | [[Vélo de Cristal]]                                                              | 1ier 🏆  |                                                                           |
 | 2025  | [[Sportif-Sportive Belge de l'année]]                                            | 1ier     |                                                                           |
+|       |                                                                                  |          |                                                                           |
+| 2026  | [[Trofeo Ses Salines]]                                                           | 1ier     | CLM par équipe avec [[Bora Redbull]]. =>  [[Challenge de Majorque]]       |
+| 2026  | [[Trofeo Serra Tramuntana]]                                                      | 1ier     | 1'38 d'avance  => [[Challenge de Majorque]]                               |
+| 2026  | [[Trofeo Andratx – Pollença]]                                                    | 1ier     | [[Challenge de Majorque]]                                                 |
 ## Historique
 ```timeline-labeled
 [line-5, body-2]

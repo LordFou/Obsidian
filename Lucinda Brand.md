@@ -15,6 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                              | Résultat | Remarque |
 | ----- | ------------------------------------------------------------------------ | -------- | -------- |
+| 2021  | [[Championnat du Monde de Cyclocross]]                                   | 1ière    |          |
 | 2025  | [[Cross de Koppenberg]]                                                  | 1ière    |          |
 | 2025  | [[Jaarmarktcross]]                                                       | 1ière    |          |
 | 2025  | [[Cross de Merkplas]]                                                    | 1ière    |          |
@@ -27,10 +28,11 @@ type: personne
 | 2025  | CXWorldCup - 7e manche - Cross de Gavere                                 | 1ière    |          |
 | 2025  | X2O - Cross Baal                                                         | 1ière    |          |
 | 2025  | Cross de Loenhout                                                        | 1ière    |          |
+|       |                                                                          |          |          |
 | 2026  | Coupe du Monde - Cross de Zonhoven                                       | 2e       |          |
 | 2026  | Coupe du Monde - Benidorm                                                | 1ière    |          |
 | 2026  | Coupe du Monde - Classement final                                        | 1ière    |          |
-|       |                                                                          |          |          |
+| 2026  | [[Championnat du Monde de Cyclocross]]                                   | 1ière    |          |
 
 
 # Style et Caractéristiques

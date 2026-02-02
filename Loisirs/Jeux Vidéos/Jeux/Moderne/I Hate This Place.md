@@ -1,16 +1,16 @@
 ---
 type: game
 ---
-
+![[image-292.webp]]
 # I Hate This Place
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Rock Square Thunder]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Broken Mirror Games]], [[Feardemic]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch]]
 - **Franchise** : 
 - **Genre** : [[Survival Horror]]
@@ -20,7 +20,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- CheckPoint : 6/10
 - **Gameplay** :
 - **Durée estimée** : 
 

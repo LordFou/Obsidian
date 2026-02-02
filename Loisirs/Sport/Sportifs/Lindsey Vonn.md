@@ -25,7 +25,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - 84 victoires en Coupe du monde à 41 ans
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Blessure au genou juste avant les [[JO 2026]]
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

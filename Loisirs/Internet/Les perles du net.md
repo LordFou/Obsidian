@@ -11,10 +11,13 @@
 
 # Outils
 - https://2025.gamesrecap.io/
-- https://fromsmash.com/fr => transfert de fichiers
+	- https://fromsmash.com/fr => transfert de fichiers
 
 # Effet Streisand - Cheh !
 - https://bsky.app/profile/daronyoshi.ca/post/3lqtzwhupfc2d
+
+# Jeux vidéos
+- New-York en [[Pixel Art]], façon [[Sim City]] => https://cannoneyed.com/isometric-nyc/
 
 # Délires du monde
 - [La régate de Henley-on-Todd](https://fr.wikipedia.org/wiki/R%C3%A9gate_de_Henley-on-Todd)

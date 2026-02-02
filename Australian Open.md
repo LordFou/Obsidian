@@ -8,17 +8,18 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur              | Nationalité | Remarque |
-| ----- | ---------------------- | ----------- | -------- |
-| 2014  | [[Stanislas Wawrinka]] | Suisse      |          |
-| 2025  |                        |             |          |
-|       |                        |             |          |
+| Année | Vainqueur              | Nationalité | Remarque                  |
+| ----- | ---------------------- | ----------- | ------------------------- |
+| 2014  | [[Stanislas Wawrinka]] | Suisse      |                           |
+| 2026  | [[Carlos Alcaraz]]     | Espagnol    | contre [[Novak Djokovic]] |
+|       |                        |             |                           |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur          | Nationalité    | Remarque |
+| ----- | ------------------ | -------------- | -------- |
+| 2025  | [[Madison Keys]]   | ?              |          |
+| 2026  | [[Elena Rybakina]] | Kazakhstanaise |          |
+|       |                    |                |          |
 ## Doubles
 
 | Année | Vainqueur         | Nationalité | Remarque                 |

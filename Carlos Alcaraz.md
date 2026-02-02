@@ -1,11 +1,11 @@
 ---
 type: personne
 ---
-
+![[image-288.webp]]
 # Carlos Alcaraz
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  2003
 - **Nationalité** :  
 - **Sport / Discipline** :  Tennis
 - **Poste / Spécialité** (si applicable) :  
@@ -17,16 +17,18 @@ type: personne
 | ----- | -------------------------- | --------- | ------------------------------------------ |
 | 2022  | [[US Open]]                | Vainqueur |                                            |
 | 2025  | [[Roland-Garros]]          | Vainqueur | Plus longue finale de l'histoire jusque là |
-| 2025  | [[Wimbledon]]   | Finaliste |                                            |
+| 2025  | [[Wimbledon]]              | Finaliste |                                            |
 | 2025  | [[Tournoi de Cincinnati]]  | Vainqueur |                                            |
 | 2025  | [[US Open]]                | Vainqueur |                                            |
 | 2025  | [[ATP - Tournoi de Tokyo]] | Vainqueur |                                            |
+|       |                            |           |                                            |
+| 2026  | [[Australian Open]]        | Vainqueur | contre [[Novak Djokovic]]                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- A gagné les 4 titres du [[Grand Chelem]] à 22 ans ! (Record de jeunesse)
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

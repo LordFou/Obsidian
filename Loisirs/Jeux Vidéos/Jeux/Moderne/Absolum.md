@@ -25,6 +25,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- 9/10 (Canard PC)
+	- 500k exemplaire vendu déjà
 - **Gameplay** : 
 - **Durée estimée** : 
 

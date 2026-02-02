@@ -7,3 +7,6 @@
 - [[Marvin Bracy]], vice-champion du monde du 100m en 2022, suspendu 45 mois
 # Valeurs sanguines
 - Octobre 2025 - [[Oier Lazkano]] en cyclisme : sanctionné pour des variations anormales de ses valeurs sanguines lors des saisons 2022, 2023 et 2024 => [Source](https://www.rtbf.be/article/oier-lazkano-suspendu-movistar-tombe-des-nues-redbull-coupe-le-cordon-11625211)
+
+# Inconnu
+- Paul George a écopé d'une suspension de 25 matches sans salaire de la part de la NBA pour utilisation d'un médicament interdit

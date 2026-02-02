@@ -11,7 +11,8 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
-- **Top Ranking** : 21
+- **Top Ranking** Simple : 21
+- ==**Top Ranking Double** : 1==
 
 # Palmarès et Distinctions
 | Année | Compétition                        | Résultat      | Remarque                                                            |
@@ -43,7 +44,10 @@ type: personne
 - Lors du [[Tournoi de Rosmalen]] en 2025, elle sauve 11 balles de match en demi-finale.
 - 4 finales en double à [[Wimbledon|Wimbledon]]
 - 6 titres de grand chelem en double
-- WTA - 21e
+- En tout, Mertens :
+	- a remporté 23 tournois du double sur le circuit 
+	- a perdu à 14 reprises en finale. 
+	- a remporté 10 titres en simple.
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

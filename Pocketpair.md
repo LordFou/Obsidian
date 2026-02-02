@@ -40,7 +40,7 @@ Décrire le style graphique, les thématiques abordées, les influences notables
 Lister les prix, distinctions ou records obtenus.
 
 ## Controverses ou Événements Marquants
-Évoquer les polémiques ou faits marquants de l’histoire de la société.
+- Il faut montrer son historique d'heures de jeux sur Steam avant d'être embauché. Un choix mis en avant par le PDG du studio, qui explique vouloir recruter "de vrais joueurs Steam", des gens "qui jouent à des jeux indés dispos uniquement sur Steam".
 
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
