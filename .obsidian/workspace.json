@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
+                "file": "The Game Bakers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cairn"
+              "title": "The Game Bakers"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
+                "file": "The Game Bakers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Cairn"
+              "title": "Graphique de The Game Bakers"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -254,8 +254,8 @@
   },
   "active": "1e8bc039b7443ecb",
   "lastOpenFiles": [
-    "Elisabeth Revol.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
+    "Elisabeth Revol.md",
     "Loann Giroud.md",
     "Mathieu Bablet.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/PEAK.md",

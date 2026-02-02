@@ -40,10 +40,11 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- Le mont Cami
 - **Epoque** : 
 - **Personnages principaux** : 
 	- Aava
-	- Climbot (petit robot qui assure Aava dan)
+	- Climbot (petit robot qui assure Aava dans sa grimpe)
 - **Ennemis** :
 - **Thèmes abordés** : 
 	- [[Alpinisme]]
