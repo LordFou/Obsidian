@@ -6,6 +6,7 @@
       {
         "id": "68207e614e735bc0",
         "type": "tabs",
+        "dimension": 73.64217252396166,
         "children": [
           {
             "id": "1e8bc039b7443ecb",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathieu Bablet.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mathieu Bablet"
+              "title": "Cairn"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -27,6 +28,7 @@
       {
         "id": "e3e944704fce5238",
         "type": "tabs",
+        "dimension": 26.357827476038338,
         "children": [
           {
             "id": "64746e8f6cde8fc6",
@@ -34,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mathieu Bablet.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -58,11 +60,11 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Mathieu Bablet"
+              "title": "Graphique de Cairn"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -250,8 +252,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e8bc039b7443ecb",
+  "active": "64746e8f6cde8fc6",
   "lastOpenFiles": [
+    "Mathieu Bablet.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/PEAK.md",
     "Alpinisme.md",
@@ -276,7 +279,6 @@
     "Franchise Citizen Sleeper.md",
     "Citizen Sleeper.md",
     "Guillaume Singelin.md",
-    "Mathieu Bablet.md",
     "Emeric Thoa.md",
     "Furi.md",
     "Attachments/image-293.webp",
