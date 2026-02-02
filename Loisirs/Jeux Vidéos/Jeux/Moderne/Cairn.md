@@ -12,6 +12,12 @@ type: game
 	- Personnalités : 
 		- [[Emeric Thoa]] (Directeur Créatif)
 		- [[Mathieu Bablet]] (Directeur Artistique et Créatif)
+		- [[Loann Giroud]] (Guide de Chamonix)
+		- [[Elisabeth Revol]] (Alpiniste et Himalayiste) 
+		- [[Sophia Eleni]] (Doubleuse)
+		- [[Camille Constantin Da Silva]] (Chanteuse, Doubleuse)
+		- [[Hyoie O’Grady]] (Doubleur)
+		- [[Adam Howden]] (Doubleur)
 - **Éditeur** : 
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
@@ -37,6 +43,7 @@ type: game
 - **Epoque** : 
 - **Personnages principaux** : 
 	- Aava
+	- Climbot (petit robot qui assure Aava dan)
 - **Ennemis** :
 - **Thèmes abordés** : 
 	- [[Alpinisme]]
@@ -47,6 +54,7 @@ type: game
 - 4 ans de prototypage
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/nhyMWuORSuA |
+| Description           | URL                                              |
+| --------------------- | ------------------------------------------------ |
+| Trailer               | https://youtu.be/nhyMWuORSuA                     |
+| Article Point & Think | https://www.pointnthink.fr/fr/emeric-thoa-cairn/ |
