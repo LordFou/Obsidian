@@ -1,11 +1,11 @@
 ---
 type: personne
 ---
-
+![[image-294.webp]]
 # Jasper De Buyst
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  1993
 - **Nationalité** :  Belge
 - **Sport / Discipline** :  [[Cyclisme sur piste]]
 - **Poste / Spécialité** (si applicable) :  
@@ -15,7 +15,10 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                                        | Résultat | Remarque               |
 | ----- | ---------------------------------------------------------------------------------- | -------- | ---------------------- |
+| 2025  | [[Championnat du Monde de Cyclisme sur piste]] - Course aux points                 | 3e       |                        |
+|       |                                                                                    |          |                        |
 | 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - Madison | 1ier     | avec [[Jules Hesters]] |
+| 2026  | [[Championnat du Monde de Cyclisme sur piste]] - Course aux points                 | 3e       |                        |
 |       |                                                                                    |          |                        |
 
 # Style et Caractéristiques

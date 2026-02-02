@@ -15,6 +15,8 @@ type: event
 | 2025  | [[Albert Torres]]                                   | Omnium                 | Espagnol    |          |
 | 2025  | [[Elia Viviani]]                                    | Course à l'élimination | Italien     |          |
 | 2025  | [[Lindsay De Vylder]] <br>[[Fabio Van den Bossche]] | Madison                | Belge       |          |
+|       |                                                     |                        |             |          |
+| 2026  | [[Tim Torn Teutenberg]]                             | Course aux points      | Allemand    |          |
 # Femmes
 
 | Année | Vainqueur                                   | Epreuve               | Nationalité  | Remarque |
