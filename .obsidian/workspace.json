@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Lotte Kopecky.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lotte Kopecky"
+              "title": "Cairn"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Jasper De Buyst",
+                "query": "haven",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,6 +208,9 @@
   },
   "active": "1e8bc039b7443ecb",
   "lastOpenFiles": [
+    "The Game Bakers.md",
+    "Haven.md",
+    "Loisirs/Sport/Lotte Kopecky.md",
     "Championnat d'Europe de Cyclisme sur piste.md",
     "Tim Torn Teutenberg.md",
     "Jasper De Buyst.md",
@@ -227,15 +230,12 @@
     "Guillaume Singelin.md",
     "Mathieu Bablet.md",
     "Emeric Thoa.md",
-    "The Game Bakers.md",
     "Furi.md",
-    "Haven.md",
     "Attachments/image-293.webp",
     "The Light Bringer.md",
     "Rock Square Thunder.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/I Hate This Place.md",
     "Feardemic.md",
-    "Broken Mirror Games.md",
     "Attachments/image-292.webp",
     "Attachments/image-291.webp",
     "Attachments/image-290.webp",

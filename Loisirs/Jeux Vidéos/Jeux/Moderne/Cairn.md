@@ -27,6 +27,7 @@ type: game
 	- CheckPoint : 9.5/10
 	- Canard PC : 8/10
 - **Gameplay** :
+	- On peut vraiment expérimenter l'escalade de la montagne par n'importe quelle voie, vous êtes absolument libre, tout dépend de l'énergie de votre personnage et de vos mouvements.
 - **Durée estimée** : 
 
 ## Histoire et Univers
