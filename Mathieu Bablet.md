@@ -5,11 +5,13 @@ type: personne
 # Mathieu Bablet
 
 ## Présentation
-Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
+- Roman graphique :
+	- Shangri-La
+	- Carbone & Silicium
 
 ## Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
+- **Nationalité** : Français (Grenoble)
 - **Profession(s)** : 
 	- [[Directeur Créatif]]
 	- [[Directeur Artistique]]

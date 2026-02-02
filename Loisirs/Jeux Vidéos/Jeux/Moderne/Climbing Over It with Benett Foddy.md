@@ -1,27 +1,26 @@
 ---
 type: game
 ---
-![[Pasted image 20250709005039.png]]
-# PEAK
+
+# Climbing Over It with Benett Foddy
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Aggro Crab]], [[Landfall]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Aggro Crab]], [[Landfall]]
+- **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Escalade]], [[Coopération]]
-- **Résumé** : Curieux mélange de jeu de survie et d'escalade
+- **Genre** :
+- **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 8/10 (CheckPoint)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 

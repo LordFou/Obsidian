@@ -28,6 +28,7 @@ type: game
 	- Canard PC : 8/10
 - **Gameplay** :
 	- On peut vraiment expérimenter l'escalade de la montagne par n'importe quelle voie, vous êtes absolument libre, tout dépend de l'énergie de votre personnage et de vos mouvements.
+	- C'est une vraie simulation, le centre du gameplay est l'escalade.
 - **Durée estimée** : 
 
 ## Histoire et Univers
@@ -42,7 +43,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- 4 ans de prototypage
 ## Liens et Ressources
 
 | Description | URL                          |

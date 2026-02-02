@@ -13,13 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
+                "file": "Mathieu Bablet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cairn"
-            }
+              "title": "Mathieu Bablet"
+            },
+            "group": "6a30e240eaa583ef"
+          }
+        ]
+      },
+      {
+        "id": "e3e944704fce5238",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64746e8f6cde8fc6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Mathieu Bablet.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graphique de Mathieu Bablet"
+            },
+            "group": "6a30e240eaa583ef"
           }
         ]
       }
@@ -53,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "haven",
+                "query": "Climbing Over It with Benett Foddy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +129,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,6 +252,11 @@
   },
   "active": "1e8bc039b7443ecb",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/PEAK.md",
+    "Alpinisme.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Climbing Over It with Benett Foddy.md",
+    "Escalade.md",
     "The Game Bakers.md",
     "Haven.md",
     "Loisirs/Sport/Lotte Kopecky.md",
@@ -221,7 +270,6 @@
     "Thibau Nys.md",
     "Journal de bord/2026-02-02.md",
     "conflict-files-obsidian-git.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Citizen Sleeper 2.md",
     "Fellow Traveller.md",
     "Jump Over The Age.md",
@@ -232,10 +280,6 @@
     "Emeric Thoa.md",
     "Furi.md",
     "Attachments/image-293.webp",
-    "The Light Bringer.md",
-    "Rock Square Thunder.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/I Hate This Place.md",
-    "Feardemic.md",
     "Attachments/image-292.webp",
     "Attachments/image-291.webp",
     "Attachments/image-290.webp",
