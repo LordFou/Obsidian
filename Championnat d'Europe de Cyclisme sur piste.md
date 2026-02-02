@@ -8,13 +8,13 @@ type: event
 
 # Hommes
 
-| Année | Epreuve     | Vainqueur         | Nationalité | Remarque |
-| ----- | ----------- | ----------------- | ----------- | -------- |
-| 2026  | Elimination | [[Tobias Hansen]] | Danois      |          |
-|       |             |                   |             |          |
+| Année | Epreuve     | Vainqueur               | Nationalité | Remarque |
+| ----- | ----------- | ----------------------- | ----------- | -------- |
+| 2026  | Elimination | [[Tobias Hansen]]       | Danois      |          |
+| 2026  | Points      | [[Tim Torn Teutenberg]] | Allemand    |          |
 # Femmes
 
-| Année | Epreuve | Vainqueur          | Nationalité | Remarque |
-| ----- | ------- | ------------------ | ----------- | -------- |
-| 2026  | Scratch | [[Hélène Hesters]] | Belge       |          |
-|       |         |                    |             |          |
+| Année | Epreuve     | Vainqueur          | Nationalité | Remarque |
+| ----- | ----------- | ------------------ | ----------- | -------- |
+| 2026  | Scratch     | [[Hélène Hesters]] | Belge       |          |
+| 2026  | Elimination | [[Lotte Kopecky]]  | Belge       |          |

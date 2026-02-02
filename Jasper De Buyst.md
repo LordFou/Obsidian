@@ -15,10 +15,10 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                                        | Résultat | Remarque               |
 | ----- | ---------------------------------------------------------------------------------- | -------- | ---------------------- |
-| 2025  | [[Championnat du Monde de Cyclisme sur piste]] - Course aux points                 | 3e       |                        |
+| 2025  | [[Championnat d'Europe de Cyclisme sur piste]] - Course aux points                 | 3e       |                        |
 |       |                                                                                    |          |                        |
 | 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - Madison | 1ier     | avec [[Jules Hesters]] |
-| 2026  | [[Championnat du Monde de Cyclisme sur piste]] - Course aux points                 | 3e       |                        |
+| 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Course aux points                 | 3e       |                        |
 |       |                                                                                    |          |                        |
 
 # Style et Caractéristiques

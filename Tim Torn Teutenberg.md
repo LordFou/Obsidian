@@ -15,8 +15,8 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                        | Résultat | Remarque |
 | ----- | ------------------------------------------------------------------ | -------- | -------- |
-| 2026  | [[Championnat du Monde de Cyclisme sur piste]] - Eliminitation     | 2e       |          |
-| 2026  | [[Championnat du Monde de Cyclisme sur piste]] - Course aux points | 1ier     |          |
+| 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Eliminitation     | 2e       |          |
+| 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Course aux points | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
