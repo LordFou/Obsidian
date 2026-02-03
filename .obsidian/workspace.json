@@ -6,7 +6,7 @@
       {
         "id": "68207e614e735bc0",
         "type": "tabs",
-        "dimension": 56.38977635782748,
+        "dimension": 64.93610223642172,
         "children": [
           {
             "id": "1e8bc039b7443ecb",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Unemployment Simulator 2018.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Lovish.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unemployment Simulator 2018"
+              "title": "Lovish"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -28,7 +28,7 @@
       {
         "id": "e3e944704fce5238",
         "type": "tabs",
-        "dimension": 43.61022364217252,
+        "dimension": 35.063897763578275,
         "children": [
           {
             "id": "64746e8f6cde8fc6",
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Unemployment Simulator 2018.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Lovish.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Unemployment Simulator 2018"
+              "title": "Graphique de Lovish"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Mario Tenn",
+                "query": "Lovish",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,10 +253,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "1e8bc039b7443ecb",
   "lastOpenFiles": [
-    "Wilson Tanner Smith.md",
+    "LABS Works.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Lovish.md",
+    "Dragon Quest VII Reimagined.md",
+    "Attachments/image-302.webp",
+    "Franchise Dragon Quest.md",
+    "HexaDrive.md",
+    "Square Enix.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Unemployment Simulator 2018.md",
+    "Wilson Tanner Smith.md",
     "turbolento.md",
     "Samuel Lehikoinen.md",
     "Shari Bossuyt.md",
@@ -280,17 +287,10 @@
     "Mauri Vansevenant.md",
     "Jan Christen.md",
     "Leonie Bentveld.md",
-    "Loisirs/Sport/Sportifs/Tobias Lund Andresen.md",
-    "GP La Marseillaise.md",
-    "Steffen De Schuyteneer.md",
-    "Loisirs/Sport/Sportifs/Bryan Coquard.md",
-    "Ludo Diercksens.md",
-    "Judo.md",
     "Attachments/image-296.webp",
     "Attachments/image-295.webp",
     "Attachments/image-294.webp",
     "Attachments/image-293.webp",
-    "Attachments/image-292.webp",
     "Loisirs/Tourisme",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Culture/Géographie",
