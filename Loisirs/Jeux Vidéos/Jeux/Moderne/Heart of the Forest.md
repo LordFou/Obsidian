@@ -2,25 +2,23 @@
 type: game
 ---
 
-# Dead Pets - A Punk Rock Slice Of Life Sim
+# Heart of the Forest
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
-		- [[Triple Topping]]
-		- [[Akupara Games]]
+	- Studio : [[Trapped Predator]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Aventure]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : FMV
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
@@ -41,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/OgksR38ck8I |
+| Trailer     | https://youtu.be/LVfKbhzbUmA |

@@ -2,20 +2,18 @@
 type: game
 ---
 
-# Dead Pets - A Punk Rock Slice Of Life Sim
+# Relooted
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
-		- [[Triple Topping]]
-		- [[Akupara Games]]
+	- Studio : [[Nyamakop]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Aventure]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -41,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/OgksR38ck8I |
+| Trailer     | https://youtu.be/KgPxPfXb734 |

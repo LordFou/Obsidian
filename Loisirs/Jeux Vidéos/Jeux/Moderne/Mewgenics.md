@@ -2,20 +2,20 @@
 type: game
 ---
 
-# Dead Pets - A Punk Rock Slice Of Life Sim
+# Mewgenics
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
 	- Studio : 
-		- [[Triple Topping]]
-		- [[Akupara Games]]
 	- Personnalités : 
+		-  [[Edmund McMillen]]
+		- [[Tyler Glaiel]]
 - **Éditeur** : 
-- **Plateformes** : [[PC]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Aventure]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -41,4 +41,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/OgksR38ck8I |
+| Trailer     | https://youtu.be/s8X4X-WeT5w |

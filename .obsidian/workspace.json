@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Lovish.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Heart of the Forest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lovish"
+              "title": "Heart of the Forest"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Lovish.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Heart of the Forest.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Lovish"
+              "title": "Graphique de Heart of the Forest"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Lovish",
+                "query": "Heart",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,8 +131,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,8 +254,18 @@
   },
   "active": "1e8bc039b7443ecb",
   "lastOpenFiles": [
-    "LABS Works.md",
+    "Trapped Predator.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Heart of the Forest.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Relooted.md",
+    "Nyamakop.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Mewgenics.md",
+    "Tyler Glaiel.md",
+    "Edmund McMillen.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dead Pets - A Punk Rock Slice Of Life Sim.md",
+    "Akupara Games.md",
+    "Triple Topping.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Lovish.md",
+    "LABS Works.md",
     "Dragon Quest VII Reimagined.md",
     "Attachments/image-302.webp",
     "Franchise Dragon Quest.md",
@@ -276,17 +285,7 @@
     "Attachments/image-299.webp",
     "Loisirs/Sport/Sportifs/Hanne Desmet.md",
     "Attachments/image-298.webp",
-    "Tim Merlier.md",
-    "Loisirs/Sport/Sportifs/Lindsey Vonn.md",
-    "Matteo Malucelli.md",
-    "Loisirs/Sport/Compétitions/AlUla Tour.md",
-    "Loisirs/Sport/Compétitions/Championnat du Monde de Cyclocross.md",
-    "Ally Wollaston.md",
     "Attachments/image-297.webp",
-    "Cadel Evans Great Ocean Road Race.md",
-    "Mauri Vansevenant.md",
-    "Jan Christen.md",
-    "Leonie Bentveld.md",
     "Attachments/image-296.webp",
     "Attachments/image-295.webp",
     "Attachments/image-294.webp",
