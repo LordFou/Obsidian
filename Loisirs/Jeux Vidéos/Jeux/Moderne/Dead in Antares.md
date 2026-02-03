@@ -2,13 +2,13 @@
 type: game
 ---
 
-# Heart of the Forest
+# Dead in Antares
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Trapped Predator]]
+	- Studio : [[Ishtar Games]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
@@ -18,7 +18,7 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[FMV]]
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
@@ -39,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/LVfKbhzbUmA |
+| Trailer     | https://youtu.be/W8K82czpWio |

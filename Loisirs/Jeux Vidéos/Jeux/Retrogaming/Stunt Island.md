@@ -2,23 +2,23 @@
 type: game
 ---
 
-# Heart of the Forest
+# Stunt Island
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 1992
 - **Développeur** : 
-	- Studio : [[Trapped Predator]]
+	- Studio : [[The Assembly Line]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Disney]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Simulation]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[FMV]]
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/LVfKbhzbUmA |
+| Description | URL |
+| ----------- | --- |
+|             |     |
