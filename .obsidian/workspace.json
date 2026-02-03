@@ -6,7 +6,7 @@
       {
         "id": "68207e614e735bc0",
         "type": "tabs",
-        "dimension": 69.24920127795528,
+        "dimension": 56.38977635782748,
         "children": [
           {
             "id": "1e8bc039b7443ecb",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eliott Crestan.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Unemployment Simulator 2018.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eliott Crestan"
+              "title": "Unemployment Simulator 2018"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -28,7 +28,7 @@
       {
         "id": "e3e944704fce5238",
         "type": "tabs",
-        "dimension": 30.75079872204473,
+        "dimension": 43.61022364217252,
         "children": [
           {
             "id": "64746e8f6cde8fc6",
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Eliott Crestan.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Unemployment Simulator 2018.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Eliott Crestan"
+              "title": "Graphique de Unemployment Simulator 2018"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Eliot",
+                "query": "Unempl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,6 +255,11 @@
   },
   "active": "1e8bc039b7443ecb",
   "lastOpenFiles": [
+    "Shari Bossuyt.md",
+    "Letrozole.md",
+    "Championnat de Belgique de Cyclisme sur piste.md",
+    "Attachments/image-301.webp",
+    "Eliott Crestan.md",
     "Loisirs/Sport/Sportifs/Maximilien Drion.md",
     "Attachments/image-300.webp",
     "Attachments/image-299.webp",
@@ -283,14 +288,9 @@
     "Journal de bord/2026-02-03.md",
     "Loisirs/Sport/Sportifs/Sans titre 1.md",
     "Loisirs/Jeux Vidéos/Panorama dans les jeux vidéos.md",
-    "Représentation de la maison dans les jeux vidéos.md",
-    "Dragon Quest VII Reimagined.md",
-    "The Game Bakers.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
     "Attachments/image-294.webp",
     "Attachments/image-293.webp",
     "Attachments/image-292.webp",
-    "Attachments/image-291.webp",
     "Loisirs/Tourisme",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Culture/Géographie",

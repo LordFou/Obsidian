@@ -8,8 +8,9 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : Samuel Lehikoinen
 	- Personnalités : 
+		- Samuel Lehikoinen
 - **Éditeur** : 
 - **Plateformes** : [[PC]]
 - **Franchise** : 

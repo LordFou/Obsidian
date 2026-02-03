@@ -7,19 +7,21 @@ type: personne
 # Informations Générales
 - **Date de naissance** :  2001
 - **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Sport / Discipline** :  [[Cyclisme]], [[Cyclisme sur piste]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  [[Quick-Step]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                                  | Résultat | Remarque                   |
-| ----- | ---------------------------------------------------------------------------- | -------- | -------------------------- |
-| 2025  | [[Tour de France]] - 3e étape                                                | 5e       | Sprint                     |
-| 2025  | [[Tour de France]] - 4e étape                                                | 6e       | Sprint                     |
-| 2025  | [[Grand Prix de Wallonie]]                                                   | 1ière 🥇 |                            |
-| 2025  | [[Championnat du Monde de Cyclisme sur piste]] - Course à l'américaine       | 4e       | avec [[Katrijn De Clercq]] |
-| 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - ? | 1ière 🥇 | avec [[Shari Bossuyt]]     |
+| Année | Compétition                                                                          | Résultat | Remarque                   |
+| ----- | ------------------------------------------------------------------------------------ | -------- | -------------------------- |
+| 2025  | [[Tour de France]] - 3e étape                                                        | 5e       | Sprint                     |
+| 2025  | [[Tour de France]] - 4e étape                                                        | 6e       | Sprint                     |
+| 2025  | [[Grand Prix de Wallonie]]                                                           | 1ière 🥇 |                            |
+| 2025  | [[Championnat du Monde de Cyclisme sur piste\|Champ. Monde]] - Course à l'américaine | 4e       | avec [[Katrijn De Clercq]] |
+|       |                                                                                      |          |                            |
+| 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - ?         | 1ière 🥇 | avec [[Lotte Kopecky]]     |
+| 2026  | [[Championnat du Monde de Cyclisme sur piste\|Champ. Monde]] - Omnium                | 3e       |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -33,5 +35,5 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
 # Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+
+![[image-301.webp]]
