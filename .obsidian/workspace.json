@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre 6.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/New World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sans titre 6"
+              "title": "New World"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre 6.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/New World.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Sans titre 6"
+              "title": "Graphique de New World"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -255,7 +255,7 @@
   "active": "1e8bc039b7443ecb",
   "lastOpenFiles": [
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Stunt Island.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre 6.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/New World.md",
     "Disney.md",
     "The Assembly Line.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Horripilant.md",
