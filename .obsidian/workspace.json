@@ -6,7 +6,7 @@
       {
         "id": "68207e614e735bc0",
         "type": "tabs",
-        "dimension": 73.64217252396166,
+        "dimension": 69.24920127795528,
         "children": [
           {
             "id": "1e8bc039b7443ecb",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-02-03.md",
+                "file": "Judo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-03"
+              "title": "Judo"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -28,7 +28,7 @@
       {
         "id": "e3e944704fce5238",
         "type": "tabs",
-        "dimension": 26.357827476038338,
+        "dimension": 30.75079872204473,
         "children": [
           {
             "id": "64746e8f6cde8fc6",
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2026-02-03.md",
+                "file": "Judo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2026-02-03"
+              "title": "Graphique de Judo"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mathia",
+                "query": "matthias casse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -253,10 +253,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "1e8bc039b7443ecb",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Panorama dans les jeux vidéos.md",
+    "Loisirs/Sport/Sportifs/Matthias Casse.md",
+    "Judo.md",
+    "Attachments/image-296.webp",
+    "Attachments/image-295.webp",
     "Journal de bord/2026-02-03.md",
+    "Loisirs/Sport/Sportifs/Sans titre 1.md",
+    "Loisirs/Jeux Vidéos/Panorama dans les jeux vidéos.md",
     "Représentation de la maison dans les jeux vidéos.md",
     "Dragon Quest VII Reimagined.md",
     "The Game Bakers.md",
@@ -279,9 +284,6 @@
     "Loisirs/Sport/Compétitions/Championnat du Monde de Cyclocross.md",
     "Thibau Nys.md",
     "Journal de bord/2026-02-02.md",
-    "conflict-files-obsidian-git.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Citizen Sleeper 2.md",
-    "Fellow Traveller.md",
     "Attachments/image-293.webp",
     "Attachments/image-292.webp",
     "Attachments/image-291.webp",
@@ -289,8 +291,6 @@
     "Attachments/image-289.webp",
     "Attachments/image-288.webp",
     "Attachments/image-287.webp",
-    "Attachments/image-286.webp",
-    "Attachments/image-285.webp",
     "Loisirs/Tourisme",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Culture/Géographie",
