@@ -37,6 +37,7 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/z13aCVkZaaw |
+| Description | URL                                                                                           |
+| ----------- | --------------------------------------------------------------------------------------------- |
+| Trailer     | https://youtu.be/z13aCVkZaaw                                                                  |
+| Livre       | https://www.thevideogamelibrary.org/book/dragon-quest-vii-reimagined-guidebook-to-a-new-world |

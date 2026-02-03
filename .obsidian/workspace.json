@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Game Bakers.md",
+                "file": "Loisirs/Jeux Vidéos/Panorama dans les jeux vidéos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Game Bakers"
+              "title": "Panorama dans les jeux vidéos"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Game Bakers.md",
+                "file": "Loisirs/Jeux Vidéos/Panorama dans les jeux vidéos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de The Game Bakers"
+              "title": "Graphique de Panorama dans les jeux vidéos"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Climbing Over It with Benett Foddy",
+                "query": "Jeu Vidéos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,6 +254,10 @@
   },
   "active": "1e8bc039b7443ecb",
   "lastOpenFiles": [
+    "Représentation de la maison dans les jeux vidéos.md",
+    "Loisirs/Jeux Vidéos/Panorama dans les jeux vidéos.md",
+    "Dragon Quest VII Reimagined.md",
+    "The Game Bakers.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
     "Elisabeth Revol.md",
     "Loann Giroud.md",
@@ -262,7 +266,6 @@
     "Alpinisme.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Climbing Over It with Benett Foddy.md",
     "Escalade.md",
-    "The Game Bakers.md",
     "Haven.md",
     "Loisirs/Sport/Lotte Kopecky.md",
     "Championnat d'Europe de Cyclisme sur piste.md",
@@ -278,9 +281,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Citizen Sleeper 2.md",
     "Fellow Traveller.md",
     "Jump Over The Age.md",
-    "Franchise Citizen Sleeper.md",
-    "Citizen Sleeper.md",
-    "Guillaume Singelin.md",
     "Attachments/image-293.webp",
     "Attachments/image-292.webp",
     "Attachments/image-291.webp",
