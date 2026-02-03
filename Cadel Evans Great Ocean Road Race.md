@@ -14,7 +14,8 @@ type: event
 |       |                          |             |          |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur          | Nationalité    | Remarque |
+| ----- | ------------------ | -------------- | -------- |
+| 2025  | [[Ally Wollaston]] | Néo-Zélandaise |          |
+| 2026  | [[Ally Wollaston]] | Néo-Zélandaise |          |
+|       |                    |                |          |

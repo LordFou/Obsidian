@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/AlUla Tour.md",
+                "file": "Matteo Malucelli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AlUla Tour"
+              "title": "Matteo Malucelli"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/AlUla Tour.md",
+                "file": "Matteo Malucelli.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de AlUla Tour"
+              "title": "Graphique de Matteo Malucelli"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alu",
+                "query": "Cadel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -255,10 +255,16 @@
   },
   "active": "1e8bc039b7443ecb",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/AlUla Tour.md",
+    "Matteo Malucelli.md",
     "Loisirs/Sport/Compétitions/Championnat du Monde de Cyclocross.md",
+    "Ally Wollaston.md",
+    "Attachments/image-297.webp",
+    "Cadel Evans Great Ocean Road Race.md",
+    "Mauri Vansevenant.md",
+    "Jan Christen.md",
     "Leonie Bentveld.md",
     "Loisirs/Sport/Sportifs/Tobias Lund Andresen.md",
-    "Cadel Evans Great Ocean Road Race.md",
     "GP La Marseillaise.md",
     "Steffen De Schuyteneer.md",
     "Loisirs/Sport/Sportifs/Bryan Coquard.md",
@@ -278,11 +284,6 @@
     "Loann Giroud.md",
     "Mathieu Bablet.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/PEAK.md",
-    "Alpinisme.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Climbing Over It with Benett Foddy.md",
-    "Escalade.md",
-    "Haven.md",
-    "Loisirs/Sport/Lotte Kopecky.md",
     "Attachments/image-294.webp",
     "Attachments/image-293.webp",
     "Attachments/image-292.webp",
@@ -290,7 +291,6 @@
     "Attachments/image-290.webp",
     "Attachments/image-289.webp",
     "Attachments/image-288.webp",
-    "Attachments/image-287.webp",
     "Loisirs/Tourisme",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Culture/Géographie",
