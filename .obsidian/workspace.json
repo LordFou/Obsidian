@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Panorama dans les jeux vidéos.md",
+                "file": "Journal de bord/2026-02-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Panorama dans les jeux vidéos"
+              "title": "2026-02-03"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Panorama dans les jeux vidéos.md",
+                "file": "Journal de bord/2026-02-03.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Panorama dans les jeux vidéos"
+              "title": "Graphique de 2026-02-03"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Jeu Vidéos",
+                "query": "mathia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,7 +131,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,10 +253,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e8bc039b7443ecb",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
-    "Représentation de la maison dans les jeux vidéos.md",
     "Loisirs/Jeux Vidéos/Panorama dans les jeux vidéos.md",
+    "Journal de bord/2026-02-03.md",
+    "Représentation de la maison dans les jeux vidéos.md",
     "Dragon Quest VII Reimagined.md",
     "The Game Bakers.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
@@ -280,7 +282,6 @@
     "conflict-files-obsidian-git.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Citizen Sleeper 2.md",
     "Fellow Traveller.md",
-    "Jump Over The Age.md",
     "Attachments/image-293.webp",
     "Attachments/image-292.webp",
     "Attachments/image-291.webp",
