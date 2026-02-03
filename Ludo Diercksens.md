@@ -24,7 +24,7 @@ type: personne
 | 1999  | Championnat de Belgique        | 1ier     |                                   |
 | 1999  | [[Tour de France]] - 11e étape | 1ier     | Retiré pour soupçon de [[dopage]] |
 |       | Tour d’Autriche - 1 étape      | 1ier     |                                   |
-|       | GP La Marseillaise             | 1ier     |                                   |
+|       | [[GP La Marseillaise]]         | 1ier     |                                   |
 |       | Paris-Bourges                  | 1ier     |                                   |
 |       | GP de Denain                   | 1ier     |                                   |
 |       | Izegem Koerse                  | 1ier     |                                   |

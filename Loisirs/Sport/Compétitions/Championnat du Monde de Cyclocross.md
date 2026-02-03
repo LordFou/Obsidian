@@ -8,15 +8,15 @@ type: event
 
 # Hommes
 
-| Année | Epreuve           | Vainqueur           | Nationalité | Remarque      |
-| ----- | ----------------- | ------------------- | ----------- | ------------- |
-| 2026  | Relais Mixte      | Pays-Bas            | -           | 3e - Belgique |
-| 2026  | Espoirs Messieurs | [[Aaron Dockx]]     | Belge       |               |
+| Année | Epreuve      | Vainqueur       | Nationalité | Remarque      |
+| ----- | ------------ | --------------- | ----------- | ------------- |
+| 2026  | Relais Mixte | Pays-Bas        | -           | 3e - Belgique |
+| 2026  | Espoirs      | [[Aaron Dockx]] | Belge       |               |
 
 # Femmes
 
-| Année | Vainqueur         | Nationalité  | Remarque |
-| ----- | ----------------- | ------------ | -------- |
-| 2021  | [[Lucinda Brand]] | Néerlandaise |          |
-| 2026  | [[Lucinda Brand]] | Néerlandaise |          |
-|       |                   |              |          |
+| Année | Epreuve | Vainqueur           | Nationalité  | Remarque |
+| ----- | ------- | ------------------- | ------------ | -------- |
+| 2021  |         | [[Lucinda Brand]]   | Néerlandaise |          |
+| 2026  |         | [[Lucinda Brand]]   | Néerlandaise |          |
+| 2026  | Espoirs | [[Leonie Bentveld]] | Néerlandaise |          |

@@ -16,6 +16,8 @@ type: event
 | 1e  | [[Jonathan Milan]] | [[Jonathan Milan]] | 2e - [[Milan Fretin]]      |
 | 2e  | [[Jonathan Milan]] | [[Jonathan Milan]] | 8e - [[Milan Fretin]]      |
 | 3e  | [[Yannis Voisard]] | [[Yannis Voisard]] | 5e - [[Mauri Vansevenant]] |
+| 4e  |                    |                    |                            |
+| 5e  | Jan Christen       |                    |                            |
 ## Femmes
 
 ### Etapes

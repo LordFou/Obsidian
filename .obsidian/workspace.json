@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Judo.md",
+                "file": "Loisirs/Sport/Compétitions/AlUla Tour.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Judo"
+              "title": "AlUla Tour"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Judo.md",
+                "file": "Loisirs/Sport/Compétitions/AlUla Tour.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Judo"
+              "title": "Graphique de AlUla Tour"
             },
             "group": "6a30e240eaa583ef"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "matthias casse",
+                "query": "alu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -255,8 +255,16 @@
   },
   "active": "1e8bc039b7443ecb",
   "lastOpenFiles": [
-    "Loisirs/Sport/Sportifs/Matthias Casse.md",
+    "Loisirs/Sport/Compétitions/Championnat du Monde de Cyclocross.md",
+    "Leonie Bentveld.md",
+    "Loisirs/Sport/Sportifs/Tobias Lund Andresen.md",
+    "Cadel Evans Great Ocean Road Race.md",
+    "GP La Marseillaise.md",
+    "Steffen De Schuyteneer.md",
+    "Loisirs/Sport/Sportifs/Bryan Coquard.md",
+    "Ludo Diercksens.md",
     "Judo.md",
+    "Loisirs/Sport/Sportifs/Matthias Casse.md",
     "Attachments/image-296.webp",
     "Attachments/image-295.webp",
     "Journal de bord/2026-02-03.md",
@@ -275,15 +283,7 @@
     "Escalade.md",
     "Haven.md",
     "Loisirs/Sport/Lotte Kopecky.md",
-    "Championnat d'Europe de Cyclisme sur piste.md",
-    "Tim Torn Teutenberg.md",
-    "Jasper De Buyst.md",
     "Attachments/image-294.webp",
-    "Championnat du Monde de Cyclisme sur piste.md",
-    "Tibor Del Grosso.md",
-    "Loisirs/Sport/Compétitions/Championnat du Monde de Cyclocross.md",
-    "Thibau Nys.md",
-    "Journal de bord/2026-02-02.md",
     "Attachments/image-293.webp",
     "Attachments/image-292.webp",
     "Attachments/image-291.webp",

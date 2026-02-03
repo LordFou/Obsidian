@@ -5,8 +5,8 @@ type: personne
 # Tobias Lund Andresen
 
 # Informations Générales
-- **Date de naissance** :  2003
-- **Nationalité** :  Danemark
+- **Date de naissance** :  2002
+- **Nationalité** :  Danois
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  [[Picnic Post NL]],[[Décathlon]]
