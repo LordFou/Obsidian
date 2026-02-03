@@ -45,7 +45,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Controverses ou Événements Importants
 - Chute lors du [[Tour de Münster]] en octobre 2025
-- 
+- Blessure au genou qui l'empêche de commencer la saison 2026 avant mars
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

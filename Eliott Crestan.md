@@ -18,6 +18,7 @@ type: personne
 | 2025  | Championnats d'Europe d'athlétisme - 800m    | 2e          |                 |
 | 2025  | [[Meeting de Berne]] - 800m                  | 1ier        |                 |
 | 2025  | [[Championnats du monde d'athlétisme]] - 800 | Demi-finale | Série (1:45.05) |
+| 2026  | Meeting indoor d’Ostrava - 800m              |             | 1.43.83         |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
