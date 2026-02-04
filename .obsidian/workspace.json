@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0ba9b1019d5036ea",
+        "id": "2495aaa6f0249ae4",
         "type": "tabs",
         "children": [
           {
-            "id": "b02230b9b6cb607f",
+            "id": "bf3e2231682522d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Huntdown - Overtime.md",
+                "file": "Journal de bord/2026-02-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Huntdown - Overtime"
+              "title": "2026-02-04"
             }
           }
         ]
@@ -205,8 +205,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b02230b9b6cb607f",
+  "active": "bf3e2231682522d6",
   "lastOpenFiles": [
+    "Journal de bord/2026-02-04.md",
+    "Loisirs/Jeux Vidéos/Jeux/Navigateur/Sans titre.md",
     "Huntdown - Overtime.md",
     "Playstation 2.md",
     "Loisirs/Jeux Vidéos/Périphériques/QuickShot 2.md",
@@ -231,8 +233,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Climbing Over It with Benett Foddy.md",
     "Loann Giroud.md",
     "Letrozole.md",
-    "Leonie Bentveld.md",
-    "LABS Works.md",
     "Attachments/image-302.webp",
     "Attachments/image-301.webp",
     "Attachments/image-300.webp",
