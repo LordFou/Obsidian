@@ -12,7 +12,8 @@ type: event
 | ----- | ----------- | ----------------------- | ----------- | -------- |
 | 2026  | Elimination | [[Tobias Hansen]]       | Danois      |          |
 | 2026  | Points      | [[Tim Torn Teutenberg]] | Allemand    |          |
-| 2026  | Omnium      | Iuri Leitao             | Portugais   |          |
+| 2026  | Omnium      | [[Iuri Leitao]]         | Portugais   |          |
+| 2026  | Sprint      | [[Matthew Richardson]]  | Anglais     |          |
 # Femmes
 
 | Année | Epreuve     | Vainqueur          | Nationalité | Remarque |
@@ -21,3 +22,4 @@ type: event
 | 2026  | Elimination | [[Lotte Kopecky]]  | Belge       |          |
 | 2026  | Time Trial  | [[Mathilde Gros]]  | Française   |          |
 | 2026  | Poursuite   |                    |             |          |
+| 2026  | Points      | [[Lotte Kopecky]]  | Belge       |          |

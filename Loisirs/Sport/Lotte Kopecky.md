@@ -47,6 +47,7 @@ type: personne
 | 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - Poursuite Individuelle | 1ière 🥇 |                                                                           |
 | 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - ?                      | 1ière 🥇 | avec [[Shari Bossuyt]]                                                    |
 | 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Elimination                                      | 1ière 🥇 |                                                                           |
+| 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Points                                           | 1ière 🥇 |                                                                           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
