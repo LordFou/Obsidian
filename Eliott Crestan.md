@@ -13,17 +13,20 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                  | Résultat    | Remarque        |
-| ----- | -------------------------------------------- | ----------- | --------------- |
-| 2025  | Championnats d'Europe d'athlétisme - 800m    | 2e          |                 |
-| 2025  | [[Meeting de Berne]] - 800m                  | 1ier        |                 |
-| 2025  | [[Championnats du monde d'athlétisme]] - 800 | Demi-finale | Série (1:45.05) |
+| Année | Compétition                                                | Résultat    | Remarque                       |
+| ----- | ---------------------------------------------------------- | ----------- | ------------------------------ |
+| 2025  | Championnats d'Europe d'athlétisme - Nankin (Chine) - 800m | 2e          |                                |
+| 2025  | [[Meeting de Berne]] - 800m                                | 1ier        |                                |
+| 2025  | [[Championnats du monde d'athlétisme]] - 800               | Demi-finale | Série (1:45.05)                |
+| 2026  | Meeting indoor d’Ostrava - 800m                            | 1ier        | 1.43.83 <br>Record de Belgique |
+|       |                                                            |             |                                |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Record de Belgique
+	- 800m Indoor : 1.43.83
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-223.webp]]
+![[image-296.webp]]
 # Matthias Casse
 
 # Informations Générales
@@ -13,9 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                           | Résultat | Remarque         |
-| ----- | ------------------------------------- | -------- | ---------------- |
-| 2025  | Grand Chelem de judo de Tokyo (-81kg) | 7e       | Détail optionnel |
+| Année | Compétition                           | Résultat | Remarque |
+| ----- | ------------------------------------- | -------- | -------- |
+| 2021  | Championnat du Monde de Judo (?)      | ==1ier== |          |
+| 2025  | Grand Chelem de judo de Tokyo (-81kg) | 7e       |          |
+| 2025  | Grand Chelem de judo de Paris (?)     | ?        |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

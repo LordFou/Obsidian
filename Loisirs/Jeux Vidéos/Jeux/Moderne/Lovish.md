@@ -8,7 +8,7 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[LABS Works]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : [[PC]], [[Playstation 5]], [[XBox One]], [[Xbox Series]], [[Switch]]

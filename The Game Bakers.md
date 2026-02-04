@@ -36,6 +36,7 @@ content:
 
 ## Style et Influence
 - Leur jeu [[Furi]],[[Haven]] et [[Cairn]] font partie d'une trilogie thématique explorant différentes facettes de la liberté, vivre libre, aimer librement, puis chercher une liberté absolue, au prix de l’effort, du risque et du sacrifice.
+- La force de Game Bakers aujourd’hui c’est sa core team qui travaille ensemble et se fait confiance depuis 10-15 ans.
 
 ## Succès et Récompenses
 Lister les prix, distinctions ou records obtenus.

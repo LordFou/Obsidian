@@ -9,6 +9,8 @@ type: game
 - **Année de sortie** : 2026
 - **Développeur** : 
 	- Studio : 
+		- [[Triple Topping]]
+		- [[Akupara Games]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : [[PC]]

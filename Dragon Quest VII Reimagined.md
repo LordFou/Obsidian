@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-302.webp]]
 # Dragon Quest VII Reimagined
 
 ## Informations Générales
@@ -9,18 +9,21 @@ type: game
 - **Année de sortie** : 2026
 - **Développeur** : 
 	- Studio : 
+		- [[Square Enix]] - Creative Studio 2
+		- [[HexaDrive]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : [[PC]],[[Playstation 5]],[[Xbox Series]], [[Switch 2]]
-- **Franchise** : 
+- **Éditeur** : [[Square Enix]]
+- **Plateformes** : [[PC]],[[Playstation 5]],[[Xbox Series]], [[Switch 2]], [[Switch]]
+- **Franchise** : [[Franchise Dragon Quest]]
 - **Genre** : [[Aventure]], [[RPG]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 3D
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- CheckPoint : 8.5/10
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -37,6 +40,7 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/z13aCVkZaaw |
+| Description | URL                                                                                           |
+| ----------- | --------------------------------------------------------------------------------------------- |
+| Trailer     | https://youtu.be/z13aCVkZaaw                                                                  |
+| Livre       | https://www.thevideogamelibrary.org/book/dragon-quest-vii-reimagined-guidebook-to-a-new-world |

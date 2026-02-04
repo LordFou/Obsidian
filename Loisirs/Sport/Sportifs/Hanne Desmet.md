@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-199.webp]]
+![[image-298.webp]]  
 # Hanne Desmet
 
 # Informations Générales
@@ -17,7 +17,7 @@ type: personne
 | ----- | --------------------------------------------- | -------- | -------- |
 | 2025  | Coupe du Monde - Dordrecht (Pays-Bas) - 1000m | 3e       |          |
 | 2025  | Coupe du Monde - Gdansk (Pologne) - 1000m     | 1ière    |          |
-|       |                                               |          |          |
+| 2026  | [[JO 2026]] - Porte Drapeau                   |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -34,3 +34,5 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 # Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
+
+  ![[image-199.webp]]

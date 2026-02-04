@@ -31,6 +31,7 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Alpinisme]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

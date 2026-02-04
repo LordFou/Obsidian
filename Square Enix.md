@@ -24,9 +24,10 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                                              | Genre        | Plateformes |
-| ----- | -------------------------------------------------- | ------------ | ----------- |
-| 2025  | [[Final Fantasy Tactics - The Ivalice Chronicles]] | Tactical RPG |             |
+| Année | Titre                                              | Remarques                     |
+| ----- | -------------------------------------------------- | ----------------------------- |
+| 2025  | [[Final Fantasy Tactics - The Ivalice Chronicles]] |                               |
+| 2026  | [[Dragon Quest VII Reimagined]]                    | Square Enix Creative Studio 2 |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

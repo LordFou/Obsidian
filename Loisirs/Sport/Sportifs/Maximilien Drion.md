@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-230.webp]]
+![[image-300.webp]]
 # Maximilien Drion
 
 # Informations Générales
@@ -17,6 +17,7 @@ type: personne
 | ----- | ------------------------------------------------ | -------- | -------- |
 | 2025  | Coupe du Monde - 1e Manche - Solitude (USA)      | 3e       |          |
 | 2026  | Coupe du Monde - 2e Manche - Courchevel (France) | 6e       |          |
+| 2026  | [[JO 2026]] - Porte Drapeau                      |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -31,5 +32,5 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
 # Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+
+![[image-230.webp]]

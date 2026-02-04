@@ -8,9 +8,11 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Samuel Lehikoinen]]
 	- Personnalités : 
-- **Éditeur** : 
+		- [[Samuel Lehikoinen]] (Développeur)
+		- [[Wilson Tanner Smith]] (Compositeur)
+- **Éditeur** : [[turbolento]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Aventure]], [[Casual]], [[Simulation]]
@@ -18,9 +20,11 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Graphismes** : [[Pixel Art]]
+- **Audio** :
+	- La bande originale variée du compositeur [[Wilson Tanner Smith]] parvient à merveille à la fois à atténuer et à accentuer les tonalités plus sombres du jeu.
+- **Réception critique** : 
+	- CheckPoint : 7/10 
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -30,6 +34,7 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Le chômage]] forcé et ses conséquences
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
