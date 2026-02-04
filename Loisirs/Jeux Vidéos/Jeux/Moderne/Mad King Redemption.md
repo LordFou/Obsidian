@@ -2,13 +2,13 @@
 type: game
 ---
 
-# Zwaard
+# Mad King Redemption
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 2026 (?)
 - **Développeur** : 
-	- Studio : Beleef Studios
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
@@ -18,7 +18,7 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 2.5D
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :

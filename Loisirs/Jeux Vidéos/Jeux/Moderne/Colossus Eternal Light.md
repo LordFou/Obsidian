@@ -2,13 +2,13 @@
 type: game
 ---
 
-# Zwaard
+# Colossus Eternal Blight
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : ?
 - **Développeur** : 
-	- Studio : Beleef Studios
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
