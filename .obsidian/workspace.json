@@ -11,10 +11,14 @@
             "id": "0300181547d4a085",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Shari Bossuyt.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Shari Bossuyt"
             }
           }
         ]
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "shari",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -200,10 +204,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "0300181547d4a085",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Hélène Hesters.md",
+    "conflict-files-obsidian-git.md",
     "Yannis Voisard.md",
     "Tobias Hansen.md",
     "The Light Bringer.md",
