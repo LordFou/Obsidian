@@ -12,6 +12,7 @@ type: event
 | ----- | ----------- | ----------------------- | ----------- | -------- |
 | 2026  | Elimination | [[Tobias Hansen]]       | Danois      |          |
 | 2026  | Points      | [[Tim Torn Teutenberg]] | Allemand    |          |
+| 2026  | Omnium      | Iuri Leitao             | Portu       |          |
 # Femmes
 
 | Année | Epreuve     | Vainqueur          | Nationalité | Remarque |
