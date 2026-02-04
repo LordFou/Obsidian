@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "31ae2e5438c2f2e0",
+        "id": "a6e61157ae012d3c",
         "type": "tabs",
         "children": [
           {
-            "id": "793f2b9173099c53",
+            "id": "8b38c3f8b2a536d8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shari",
+                "query": "Ministry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -128,7 +128,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,8 +201,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "793f2b9173099c53",
+  "active": "8b38c3f8b2a536d8",
   "lastOpenFiles": [
+    "Ministry of Truth - 1984.md",
     "Shari Bossuyt.md",
     "contamination alimentaire.md",
     "conflict-files-obsidian-git.md",
@@ -227,7 +229,6 @@
     "Journal de bord/2026-02-03.md",
     "Journal de bord/2026-02-02.md",
     "Jan Christen.md",
-    "Ishtar Games.md",
     "Attachments/image-302.webp",
     "Attachments/image-301.webp",
     "Attachments/image-300.webp",
