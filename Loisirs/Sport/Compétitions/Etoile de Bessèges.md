@@ -11,11 +11,11 @@ type: event
 
 ### Etapes 
 
-|          | Vainqueur      | Général        | Monts                  | Points | Jeune          | Remarques |
-| -------- | -------------- | -------------- | ---------------------- | ------ | -------------- | --------- |
-| 1e étape | [[Tom Crabbe]] | [[Tom Crabbe]] | [[Victor Vercouillie]] |        | [[Tom Crabbe]] |           |
-|          |                |                |                        |        |                |           |
-|          |                |                |                        |        |                |           |
+|          | Vainqueur      | Général        | Monts                  | Points         | Jeune          | Remarques |
+| -------- | -------------- | -------------- | ---------------------- | -------------- | -------------- | --------- |
+| 1e étape | [[Tom Crabbe]] | [[Tom Crabbe]] | [[Victor Vercouillie]] | [[Tom Crabbe]] | [[Tom Crabbe]] |           |
+|          |                |                |                        |                |                |           |
+|          |                |                |                        |                |                |           |
 ## Femmes
 
 ### Etapes

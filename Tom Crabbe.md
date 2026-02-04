@@ -13,10 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                       | Résultat | Remarque                |
-| ----- | --------------------------------- | -------- | ----------------------- |
-| 2025  | [[Tour de Grande Bretagne]]       | 2e       | Derrière [[Olav Kooij]] |
-| 2026  | [[Etoile de Bessèges]] - 1e étape | ==1ier== |                         |
+| Année | Compétition                       | Résultat | Remarque                                  |
+| ----- | --------------------------------- | -------- | ----------------------------------------- |
+| 2025  | [[Tour de Grande Bretagne]]       | 2e       | Derrière [[Olav Kooij]]                   |
+| 2026  | [[Etoile de Bessèges]] - 1e étape | ==1ier== | :luc_plus: Maillot General, Points, Jeune |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
