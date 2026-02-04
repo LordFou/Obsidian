@@ -18,3 +18,5 @@ type: event
 | ----- | ----------- | ------------------ | ----------- | -------- |
 | 2026  | Scratch     | [[Hélène Hesters]] | Belge       |          |
 | 2026  | Elimination | [[Lotte Kopecky]]  | Belge       |          |
+| 2026  | Time Trial  | [[Mathilde Gros]]  | Française   |          |
+| 2026  | Poursuite   |                    |             |          |

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tom Crabbe.md",
+                "file": "Championnat d'Europe de Cyclisme sur piste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tom Crabbe"
+              "title": "Championnat d'Europe de Cyclisme sur piste"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arnaud",
+                "query": "cyclisme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,10 +206,12 @@
   },
   "active": "bf3e2231682522d6",
   "lastOpenFiles": [
+    "Mathilde Gros.md",
+    "Championnat d'Europe de Cyclisme sur piste.md",
+    "Tom Crabbe.md",
     "Loisirs/Sport/Compétitions/Etoile de Bessèges.md",
     "Victor Vercouillie.md",
     "Templates/Fiche Event - Cyclisme Tour.md",
-    "Tom Crabbe.md",
     "Tim Merlier.md",
     "Loisirs/Sport/Arnaud Démare.md",
     "Loisirs/Sport/Arnaud De Lie.md",
@@ -231,8 +232,6 @@
     "QuickShot.md",
     "Ministry of Truth - 1984.md",
     "Shari Bossuyt.md",
-    "contamination alimentaire.md",
-    "conflict-files-obsidian-git.md",
     "Attachments/image-302.webp",
     "Attachments/image-301.webp",
     "Attachments/image-300.webp",
