@@ -23,7 +23,7 @@ type: matos
 - {{Titre du jeu 3 (année)}}
 
 ## Anecdotes et faits marquants
-- Console la plus vendue dans l'histoire
+- En 2026, un décompilateur va permettre de remettre les jeux PS2 sur PC (?)
 
 ## Liens connexes
 - [Page Wikipédia](https://wikipedia.org)
