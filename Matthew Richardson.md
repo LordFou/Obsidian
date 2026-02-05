@@ -2,20 +2,20 @@
 type: personne
 ---
 
-# Victor Vercouillie
+# Matthew Richardson
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** : [[Cyclisme]] 
+- **Nationalité** :  Anglais
+- **Sport / Discipline** :  [[Cyclisme sur piste]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                       | Résultat          | Remarque |
-| ----- | --------------------------------- | ----------------- | -------- |
-| 2026  | [[Etoile de Bessèges]] - 1e étape | Maillot des monts |          |
+| Année | Compétition                                             | Résultat | Remarque |
+| ----- | ------------------------------------------------------- | -------- | -------- |
+| 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Sprint | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

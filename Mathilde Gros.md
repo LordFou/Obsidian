@@ -2,20 +2,20 @@
 type: personne
 ---
 
-# Victor Vercouillie
+# Mathilde Gros
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** : [[Cyclisme]] 
+- **Nationalité** :  Française
+- **Sport / Discipline** :  [[Cyclisme sur piste]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                       | Résultat          | Remarque |
-| ----- | --------------------------------- | ----------------- | -------- |
-| 2026  | [[Etoile de Bessèges]] - 1e étape | Maillot des monts |          |
+| Année | Compétition                                                  | Résultat | Remarque |
+| ----- | ------------------------------------------------------------ | -------- | -------- |
+| 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Time Trials | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -2,11 +2,11 @@
 type: matos
 ---
 
-# Playstation 2
+# QuickShot 2
 
 ## Informations principales
 - Fabricant : {{Nom du fabricant}}
-- Année de sortie : {{Année}}
+- Année de sortie : 2026
 - Génération : {{Ex: 8-bit, 16-bit, 32-bit...}}
 - Type : {{Console de salon, Portable, Micro-ordinateur...}}
 - Support(s) : {{Cartouches, CD, Disquettes, etc.}}
@@ -15,7 +15,7 @@ type: matos
 - Mascotte : 
 
 ## Résumé et historique
-{{Gros résumé sur l’histoire de la console/micro, son impact sur le marché, ses innovations, ses succès ou échecs. Parle aussi des modèles révisés et de son influence sur l’industrie.}}
+- Descendant du [[QuickShot]] des années [[Micro-ordinateur]]
 
 ## Jeux emblématiques
 - {{Titre du jeu 1 (année)}}
@@ -23,7 +23,9 @@ type: matos
 - {{Titre du jeu 3 (année)}}
 
 ## Anecdotes et faits marquants
-- En 2026, un décompilateur va permettre de remettre les jeux PS2 sur PC (?)
+- {{Fait ou anecdote 1}}
+- {{Fait ou anecdote 2}}
+- {{Lien avec la musique, le design, l’influence culturelle...}}
 
 ## Liens connexes
 - [Page Wikipédia](https://wikipedia.org)

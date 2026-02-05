@@ -2,7 +2,7 @@
 type: matos
 ---
 
-# Playstation 2
+# QuickShot
 
 ## Informations principales
 - Fabricant : {{Nom du fabricant}}
@@ -23,7 +23,9 @@ type: matos
 - {{Titre du jeu 3 (année)}}
 
 ## Anecdotes et faits marquants
-- En 2026, un décompilateur va permettre de remettre les jeux PS2 sur PC (?)
+- {{Fait ou anecdote 1}}
+- {{Fait ou anecdote 2}}
+- {{Lien avec la musique, le design, l’influence culturelle...}}
 
 ## Liens connexes
 - [Page Wikipédia](https://wikipedia.org)

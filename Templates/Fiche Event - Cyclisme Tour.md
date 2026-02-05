@@ -5,7 +5,7 @@ type: event
 
 # Introduction
 
-# Edition 2025
+# Edition 2026
 
 ## Hommes
 
@@ -30,7 +30,7 @@ type: event
 
 | Année | Vainqueur | Nationalité | Remarque |
 | ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
+| 2026  |           |             |          |
 |       |           |             |          |
 ### Femmes
 

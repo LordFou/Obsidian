@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Tom Crabbé
+# Iuri Leitao
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** : [[Cyclisme]] 
+- **Nationalité** :  Portugais
+- **Sport / Discipline** :  [[Cyclisme sur piste]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Flanders-Baloise]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                 | Résultat | Remarque                |
-| ----- | --------------------------- | -------- | ----------------------- |
-| 2025  | [[Tour de Grande Bretagne]] | 2e       | Derrière [[Olav Kooij]] |
-|       |                             |          |                         |
+| Année | Compétition                                             | Résultat | Remarque |
+| ----- | ------------------------------------------------------- | -------- | -------- |
+| 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Omnium | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
