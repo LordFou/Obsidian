@@ -21,6 +21,7 @@ Frère de [[Hélène Hesters]]
 | 2025  | [[Championnat du Monde de Cyclisme sur piste\| Champ. Monde]] - Course à l'américaine | 10e      |                          |
 | 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National]] - Madison          | 1ier     | avec [[Jasper De Buyst]] |
 | 2026  | [[Championnat d'Europe de Cyclisme sur piste\|Champ. Europe]] - Scratch               | 3e 🥉    |                          |
+| 2026  | [[Championnat d'Europe de Cyclisme sur piste\|Champ. Europe]] - Madison               | 3e       | avec [[Jasper De Buyst]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
