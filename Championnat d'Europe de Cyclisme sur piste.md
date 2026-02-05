@@ -18,11 +18,8 @@ type: event
 
 | Année | Epreuve     | Vainqueur          | Nationalité | Remarque |
 | ----- | ----------- | ------------------ | ----------- | -------- |
-|       |             |                    |             |          |
-|       |             |                    |             |          |
-|       |             |                    |             |          |
-|       |             |                    |             |          |
-|       |             |                    |             |          |
+| 2022  | Points      | [[Lotte Kopecky]]  | Belge       |          |
+| 2024  | Points      | [[Lotte Kopecky]]  | Belge       |          |
 |       |             |                    |             |          |
 | 2026  | Scratch     | [[Hélène Hesters]] | Belge       |          |
 | 2026  | Elimination | [[Lotte Kopecky]]  | Belge       |          |
