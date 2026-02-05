@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-303.webp]]
 # Tom Crabbe
 
 # Informations Générales

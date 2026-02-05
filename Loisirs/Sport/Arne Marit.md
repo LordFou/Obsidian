@@ -13,10 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                | Résultat | Remarque |
-| ----- | -------------------------- | -------- | -------- |
-| 2021  | [[Grand Prix du Morbihan]] | 1ier     |          |
-| 2026  | [[Trofeo Palma]]           | 1ier     |          |
+| Année | Compétition                    | Résultat | Remarque                   |
+| ----- | ------------------------------ | -------- | -------------------------- |
+| 2021  | [[Grand Prix du Morbihan]]     | 1ier     |                            |
+| 2026  | [[Trofeo Palma]]               | 1ier     |                            |
+| 2026  | [[Tour de Valence]] - 1e étape | 2e       | Derrière [[Biniam Girmay]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

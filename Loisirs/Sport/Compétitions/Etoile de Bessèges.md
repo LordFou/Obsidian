@@ -11,11 +11,13 @@ type: event
 
 ### Etapes 
 
-|          | Vainqueur      | Général        | Monts                  | Points         | Jeune          | Remarques |
-| -------- | -------------- | -------------- | ---------------------- | -------------- | -------------- | --------- |
-| 1e étape | [[Tom Crabbe]] | [[Tom Crabbe]] | [[Victor Vercouillie]] | [[Tom Crabbe]] | [[Tom Crabbe]] |           |
-|          |                |                |                        |                |                |           |
-|          |                |                |                        |                |                |           |
+|     | Vainqueur      | Général        | Monts                  | Points         | Jeune          | Remarques |
+| --- | -------------- | -------------- | ---------------------- | -------------- | -------------- | --------- |
+| 1e  | [[Tom Crabbe]] | [[Tom Crabbe]] | [[Victor Vercouillie]] | [[Tom Crabbe]] | [[Tom Crabbe]] |           |
+| 2e  |                |                |                        |                |                |           |
+| 3e  |                |                |                        |                |                |           |
+| 4e  |                |                |                        |                |                |           |
+| 5e  |                |                |                        |                |                |           |
 ## Femmes
 
 ### Etapes
@@ -28,10 +30,10 @@ type: event
 ### Hommes
 
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur           | Nationalité | Remarque |
+| ----- | ------------------- | ----------- | -------- |
+| 2025  | [[Kevin Vauquelin]] | Française   |          |
+| 2026  |                     |             |          |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

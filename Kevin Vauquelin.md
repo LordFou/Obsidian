@@ -13,12 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                           | Résultat | Remarque      |
-| ----- | ------------------------------------- | -------- | ------------- |
-| 2024  | [[Tour de France]] - 2e étape         | 1ier     |               |
-| 2025  | [[Tour de Suisse]] - Classement Final | 2e       |               |
-| 2025  | [[Tour de Suisse]] - Classement Jeune | 1ier     |               |
-| 2025  | [[Tour de France]] - 2e étape         | 4e       | Maillot Blanc |
+| Année | Compétition                               | Résultat | Remarque      |
+| ----- | ----------------------------------------- | -------- | ------------- |
+| 2024  | [[Tour de France]] - 2e étape             | 1ier     |               |
+| 2025  | [[Etoile de Bessèges]] - Classement Final | 1ier     |               |
+| 2025  | [[Tour de Suisse]] - Classement Final     | 2e       |               |
+| 2025  | [[Tour de Suisse]] - Classement Jeune     | 1ier     |               |
+| 2025  | [[Tour de France]] - 2e étape             | 4e       | Maillot Blanc |
 ```timeline-labeled
 [line-5, body-2]
 date: Octobre 2025  

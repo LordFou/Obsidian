@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
+                "file": "Loisirs/Sport/Arne Marit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cairn"
+              "title": "Arne Marit"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ashes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,17 +205,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "1e8bc039b7443ecb",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Tour de Valence.md",
+    "Biniam Girmay.md",
+    "Hazelight Studios.md",
+    "Culture/Histoire/Chronologie/1981.md",
+    "Loisirs/Sport/Compétitions/Etoile de Bessèges.md",
+    "Tom Crabbe.md",
+    "Attachments/image-303.webp",
+    "Kevin Vauquelin.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
     "Journal de bord/2026-02-05.md",
     "conflict-files-obsidian-git.md",
     "contamination alimentaire.md",
-    "Tom Crabbe.md",
     "QuickShot.md",
     "Ministry of Truth - 1984.md",
     "Matthew Richardson.md",
     "Mathilde Gros.md",
-    "Loisirs/Sport/Compétitions/Etoile de Bessèges.md",
     "Loisirs/Jeux Vidéos/Périphériques/QuickShot 2.md",
     "Loisirs/Jeux Vidéos/Jeux/Navigateur/Sans titre.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Zwaard.md",
@@ -227,12 +234,6 @@
     "Iuri Leitao.md",
     "Huntdown - Overtime.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/New World.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Stunt Island.md",
-    "Disney.md",
-    "The Assembly Line.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Horripilant.md",
-    "Alexandre Declos.md",
-    "Pas Game Studio.md",
     "Attachments/image-302.webp",
     "Attachments/image-301.webp",
     "Attachments/image-300.webp",
@@ -242,7 +243,6 @@
     "Attachments/image-296.webp",
     "Attachments/image-295.webp",
     "Attachments/image-294.webp",
-    "Attachments/image-293.webp",
     "Loisirs/Tourisme",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Culture/Géographie",
