@@ -27,6 +27,7 @@ type: personne
 | 2022  | [[Championnat d'Europe de Cyclisme sur piste]] - Elimination                                      | 1ière 🥇 |                                                                         |
 | 2022  | [[Championnat d'Europe de Cyclisme sur piste]] - Points                                           | 1ière 🥇 |                                                                         |
 | 2022  | [[Championnat du Monde de Cyclisme sur piste]] - Elimination                                      | 1ière 🥇 |                                                                         |
+| 2022  | [[Championnat du Monde de Cyclisme sur piste]] - Madison                                          | 1ière 🥇 | avec [[Shari Bossuyt]]                                                  |
 |       |                                                                                                   |          |                                                                         |
 | 2023  | [[Simac Ladies Tour]] - Classement final                                                          | 1ière 🥇 |                                                                         |
 | 2023  | [[Championnat du Monde de Cyclisme]]                                                              | 1ière 🥇 |                                                                         |
@@ -53,9 +54,10 @@ type: personne
 | 2025  | [[Trophée de la Flandrienne]]                                                                     | 1ière 🥇 |                                                                         |
 |       |                                                                                                   |          |                                                                         |
 | 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - Poursuite Individuelle | 1ière 🥇 |                                                                         |
-| 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - ?                      | 1ière 🥇 | avec [[Shari Bossuyt]]                                                  |
+| 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - Madison (?)            | 1ière 🥇 | avec [[Shari Bossuyt]]                                                  |
 | 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Elimination                                      | 1ière 🥇 |                                                                         |
 | 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Points                                           | 1ière 🥇 |                                                                         |
+| 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Madison                                          | 1ière 🥇 | avec [[Shari Bossuyt]]                                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
