@@ -71,5 +71,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
 # Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+
+# Images
+
+![[image-305.webp]]
