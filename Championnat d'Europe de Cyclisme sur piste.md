@@ -18,6 +18,12 @@ type: event
 
 | Année | Epreuve     | Vainqueur          | Nationalité | Remarque |
 | ----- | ----------- | ------------------ | ----------- | -------- |
+|       |             |                    |             |          |
+|       |             |                    |             |          |
+|       |             |                    |             |          |
+|       |             |                    |             |          |
+|       |             |                    |             |          |
+|       |             |                    |             |          |
 | 2026  | Scratch     | [[Hélène Hesters]] | Belge       |          |
 | 2026  | Elimination | [[Lotte Kopecky]]  | Belge       |          |
 | 2026  | Time Trial  | [[Mathilde Gros]]  | Française   |          |

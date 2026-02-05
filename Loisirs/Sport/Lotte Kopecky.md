@@ -20,10 +20,12 @@ type: personne
 |       |                                                                                                   |          |                                                                         |
 | 2021  | [[Vélo de Cristal]]                                                                               | 1ière 🥇 |                                                                         |
 | 2021  | [[Trophée de la Flandrienne]]                                                                     | 1ière 🥇 |                                                                         |
+| 2021  | [[Championnat du Monde de Cyclisme sur piste]] - Points                                           | 1ière 🥇 |                                                                         |
 |       |                                                                                                   |          |                                                                         |
 | 2022  | [[Vélo de Cristal]]                                                                               | 1ière 🥇 |                                                                         |
 | 2022  | [[Trophée de la Flandrienne]]                                                                     | 1ière 🥇 |                                                                         |
 | 2022  | [[Championnat d'Europe de Cyclisme sur piste]] - Elimination                                      | 1ière 🥇 |                                                                         |
+| 2022  | [[Championnat d'Europe de Cyclisme sur piste]] - Points                                           | 1ière 🥇 |                                                                         |
 | 2022  | [[Championnat du Monde de Cyclisme sur piste]] - Elimination                                      | 1ière 🥇 |                                                                         |
 |       |                                                                                                   |          |                                                                         |
 | 2023  | [[Simac Ladies Tour]] - Classement final                                                          | 1ière 🥇 |                                                                         |
@@ -32,12 +34,14 @@ type: personne
 | 2023  | [[Trophée de la Flandrienne]]                                                                     | 1ière 🥇 |                                                                         |
 | 2023  | [[Championnat d'Europe de Cyclisme sur piste]] - Elimination                                      | 1ière 🥇 |                                                                         |
 | 2023  | [[Championnat du Monde de Cyclisme sur piste]] - Elimination                                      | 1ière 🥇 |                                                                         |
+| 2023  | [[Championnat du Monde de Cyclisme sur piste]] - Points                                           | 1ière 🥇 |                                                                         |
 |       |                                                                                                   |          |                                                                         |
 | 2024  | [[Simac Ladies Tour]] - Classement final                                                          | 1ière 🥇 |                                                                         |
 | 2024  | [[Championnat du Monde de Cyclisme]]                                                              | 1ière 🥇 |                                                                         |
 | 2024  | [[Vélo de Cristal]]                                                                               | 1ière 🥇 |                                                                         |
 | 2024  | [[Trophée de la Flandrienne]]                                                                     | 1ière 🥇 |                                                                         |
 | 2024  | [[Championnat d'Europe de Cyclisme sur piste]] - Elimination                                      | 1ière 🥇 |                                                                         |
+| 2024  | [[Championnat d'Europe de Cyclisme sur piste]] - Points                                           | 1ière 🥇 |                                                                         |
 |       |                                                                                                   |          |                                                                         |
 | 2025  | [[Tour des Flandres]]                                                                             | 1ière 🥇 |                                                                         |
 | 2025  | [[Championnat de Belgique de Cyclisme\|Championnat National]] - CLM                               | 1ière 🥇 |                                                                         |

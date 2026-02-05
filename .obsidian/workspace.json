@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Arne Marit.md",
+                "file": "Championnat d'Europe de Cyclisme sur piste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arne Marit"
+              "title": "Championnat d'Europe de Cyclisme sur piste"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Lotte",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,6 +208,14 @@
   },
   "active": "1e8bc039b7443ecb",
   "lastOpenFiles": [
+    "Loisirs/Sport/Lotte Kopecky.md",
+    "Laurens Sweeck.md",
+    "Loisirs/Sport/Sportifs/Niels Vandeputte.md",
+    "Attachments/image-304.webp",
+    "Championnat National Belge de gravel.md",
+    "Niels Vande Putte.md",
+    "Loisirs/Sport/Sportifs/Marthe Truyen.md",
+    "Loisirs/Sport/Arne Marit.md",
     "Loisirs/Sport/Compétitions/Tour de Valence.md",
     "Biniam Girmay.md",
     "Hazelight Studios.md",
@@ -227,13 +236,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Navigateur/Sans titre.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Zwaard.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Scott Pilgrim EX.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Mad King Redemption.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Fatal Frame 2.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Colossus Eternal Light.md",
-    "Journal de bord/2026-02-04.md",
-    "Iuri Leitao.md",
-    "Huntdown - Overtime.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/New World.md",
     "Attachments/image-302.webp",
     "Attachments/image-301.webp",
     "Attachments/image-300.webp",
@@ -242,7 +244,6 @@
     "Attachments/image-297.webp",
     "Attachments/image-296.webp",
     "Attachments/image-295.webp",
-    "Attachments/image-294.webp",
     "Loisirs/Tourisme",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Culture/Géographie",

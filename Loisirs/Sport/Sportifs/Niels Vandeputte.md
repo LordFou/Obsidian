@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-304.webp]]
 # Niels Vandeputte
 
 # Informations Générales
@@ -9,13 +9,15 @@ type: personne
 - **Nationalité** :  Belge
 - **Sport / Discipline** :  [[Cyclocross]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Alpecin]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                       | Résultat | Remarque |
-| ----- | --------------------------------- | -------- | -------- |
-| 2025  | Superprestige - Cross de Gullegem | 1ier     |          |
+| Année | Compétition                              | Résultat | Remarque |
+| ----- | ---------------------------------------- | -------- | -------- |
+| 2025  | Superprestige - Cross de Gullegem        | 1ier     |          |
+| 2025  | [[Championnat National Belge de gravel]] | 1ier     |          |
+| 2026  | Exact Cross de Maldegem                  | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

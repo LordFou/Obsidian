@@ -8,10 +8,10 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur             | Remarque |
-| ----- | --------------------- | -------- |
-| 2025  | [[Niels Vande Putte]] |          |
-|       |                       |          |
+| Année | Vainqueur            | Remarque |
+| ----- | -------------------- | -------- |
+| 2025  | [[Niels Vandeputte]] |          |
+|       |                      |          |
 # Femmes
 
 | Année | Vainqueur         | Remarque |
