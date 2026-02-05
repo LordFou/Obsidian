@@ -8,5 +8,7 @@
 # Valeurs sanguines
 - Octobre 2025 - [[Oier Lazkano]] en cyclisme : sanctionné pour des variations anormales de ses valeurs sanguines lors des saisons 2022, 2023 et 2024 => [Source](https://www.rtbf.be/article/oier-lazkano-suspendu-movistar-tombe-des-nues-redbull-coupe-le-cordon-11625211)
 
+# Traitement hormonal
+- La boxeuse [[Imane Khelif]] révèle avoir pris un traitement hormonal avant sa médaille d'or aux [[JO 2024]] pour faire baisser son taux de [[testostérone]].
 # Inconnu
 - Paul George a écopé d'une suspension de 25 matches sans salaire de la part de la NBA pour utilisation d'un médicament interdit
