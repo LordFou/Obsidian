@@ -15,6 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                   | Résultat | Remarque |
 | ----- | --------------------------------------------- | -------- | -------- |
+| 2025  | ExactCross de Maldegem                        | 1ier     | (?)      |
 | 2025  | [[Jaarmarktcross]]                            | 1ier     |          |
 | 2025  | [[Cross des dunes]] - CxWorldCup - 6e manche  | 2e       |          |
 | 2025  | CXWorldCup - 8e manche - Cross de Dendermonde | 3e       |          |

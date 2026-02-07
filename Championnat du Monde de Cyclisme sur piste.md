@@ -21,5 +21,11 @@ type: event
 
 | Année | Vainqueur                                   | Epreuve               | Nationalité  | Remarque |
 | ----- | ------------------------------------------- | --------------------- | ------------ | -------- |
+| 2021  | [[Lotte Kopecky]]                           | Points                | Belge        |          |
+| 2022  | [[Lotte Kopecky]] & [[Shari Bossuyt]]       | Madison               | Belge        |          |
+| 2023  | [[Lotte Kopecky]]                           | Points                | Belge        |          |
+|       |                                             |                       |              |          |
+|       |                                             |                       |              |          |
+|       |                                             |                       |              |          |
 | 2025  | [[Katie Archibald]] <br>[[Madelaine Leech]] | Course à l'américaine | Britanniques |          |
 |       |                                             |                       |              |          |
