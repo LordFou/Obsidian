@@ -16,6 +16,8 @@ type: personne
 | Année | Compétition                       | Résultat | Remarque               |
 | ----- | --------------------------------- | -------- | ---------------------- |
 | 2026  | [[Etoile de Bessèges]] - 2e étape | ?        | Prise Maillot Montagne |
+| 2026  | [[Etoile de Bessèges]] - 3e étape | ?        | Prise Maillot Général  |
+|       |                                   |          |                        |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

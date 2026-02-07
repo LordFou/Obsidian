@@ -16,10 +16,10 @@ type: personne
 | Année | Compétition                                 | Résultat                 | Remarque |
 | ----- | ------------------------------------------- | ------------------------ | -------- |
 | 2026  | Coupe du Monde - Slopestyle - Laax (Suisse) | Qualifiée pour la finale |          |
+| 2026  | [[JO 2026]]                                 |                          |          |
 
 # Style et Caractéristiques
-Décrire le style de jeu, les points forts/faibles, les particularités.
-
+- Ses parents l’ont mise sur un snowboard à l’âge de six ans sur la piste de Snow Valley à Peer, près de Genk
 # Records et Faits Marquants
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 

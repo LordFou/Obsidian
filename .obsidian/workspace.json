@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Evy Poppe.md",
+                "file": "Loisirs/Sport/Sportifs/Sky Remans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evy Poppe"
+              "title": "Sky Remans"
             }
           }
         ],
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Evy Poppe",
+                "query": "Sky Remans",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,8 +147,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,15 +221,18 @@
   },
   "active": "fdbe6709e7c5c9fe",
   "lastOpenFiles": [
-    "JO 2026.md",
-    "Loisirs/Sport/Sportifs/Evy Poppe.md",
-    "Tom Crabbe.md",
-    "Loisirs/Sport/Compétitions/Etoile de Bessèges.md",
+    "Loisirs/Sport/Compétitions/Tour de Valence.md",
+    "August Andrew.md",
+    "Loisirs/Sport/Sportifs/Florian Vermeersch.md",
+    "Red Panthers.md",
     "Lucas Kubis.md",
+    "Loisirs/Sport/Compétitions/Etoile de Bessèges.md",
+    "Henri Uhlig.md",
+    "Loisirs/Sport/Sportifs/Evy Poppe.md",
+    "JO 2026.md",
+    "Tom Crabbe.md",
     "Mathieu Kockelmann.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
-    "Loisirs/Sport/Compétitions/Tour de Valence.md",
-    "Red Panthers.md",
     "Hockey Pro League.md",
     "Loisirs/Sport/Sportifs/Armand Marchant.md",
     "conflict-files-obsidian-git.md",
@@ -248,9 +250,6 @@
     "Iuri Leitao.md",
     "Mathilde Gros.md",
     "Victor Vercouillie.md",
-    "Templates/Fiche Event - Cyclisme Tour.md",
-    "Tim Merlier.md",
-    "Loisirs/Sport/Arnaud Démare.md",
     "Attachments/image-302.webp",
     "Attachments/image-301.webp",
     "Attachments/image-300.webp",
