@@ -6,16 +6,17 @@ type: personne
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Nationalité** :  Luxembourgeois
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** : [[Lotto-Intermarché]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
 | Année | Compétition                       | Résultat | Remarque |
 | ----- | --------------------------------- | -------- | -------- |
 | 2025  | [[Tour du Luxembourg]] - 2e étape | 1ier     |          |
+| 2026  | [[Etoile de Bessèges]] - 2e étape | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
