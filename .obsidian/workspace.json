@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cian Uijtdebroeks.md",
+                "file": "JO 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cian Uijtdebroeks"
+              "title": "JO 2026"
             }
           }
         ],
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Need for",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -219,8 +219,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "fdbe6709e7c5c9fe",
   "lastOpenFiles": [
+    "Cian Uijtdebroeks.md",
     "Loisirs/Sport/Sportifs/Hanne Desmet.md",
     "Loisirs/Sport/Compétitions/Tour de Valence.md",
     "Loisirs/Sport/Sportifs/Sky Remans.md",
@@ -250,7 +251,6 @@
     "Loisirs/Sport/Lotte Kopecky.md",
     "Championnat d'Europe de Cyclisme sur piste.md",
     "Matthew Richardson.md",
-    "Iuri Leitao.md",
     "Attachments/image-302.webp",
     "Attachments/image-301.webp",
     "Attachments/image-300.webp",
