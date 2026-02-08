@@ -2,23 +2,20 @@
 type: personne
 ---
 
-# Adam Yates
+# Franjo von Allmen
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Britannique
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Nationalité** :  Suisse
+- **Sport / Discipline** :  [[Ski]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                        | Résultat | Remarque |
-| ----- | ---------------------------------- | -------- | -------- |
-| 2024  | [[Tour d'Oman]] - Classement final | 1ier     |          |
-| 2025  | [[Tour d'Oman]] - Classement final | 1ier     |          |
-| 2025  | [[Coppa Agostini]]                 | 1ier     |          |
-| 2025  | [[Trofeo Tessile & Moda]]          | 1ier     |          |
+| Année | Compétition            | Résultat | Remarque |
+| ----- | ---------------------- | -------- | -------- |
+| 2026  | [[JO 2026]] - Descente | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

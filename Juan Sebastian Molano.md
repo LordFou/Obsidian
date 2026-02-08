@@ -13,11 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                | Résultat             | Remarque                |
-| ----- | -------------------------- | -------------------- | ----------------------- |
-| 2025  | [[Tour de Belgique]]       | Classement par point | Pas de victoire d'étape |
-| 2026  | [[Tour d'Oman]] - 1e étape | 1ier                 |                         |
-|       |                            |                      |                         |
+| Année | Compétition                   | Résultat             | Remarque                |
+| ----- | ----------------------------- | -------------------- | ----------------------- |
+| 2025  | [[Classique Bruges-La Panne]] | 1ier                 |                         |
+| 2025  | [[Tour de Belgique]]          | Classement par point | Pas de victoire d'étape |
+| 2026  | [[Tour d'Oman]] - 1e étape    | 1ier                 |                         |
+|       |                               |                      |                         |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

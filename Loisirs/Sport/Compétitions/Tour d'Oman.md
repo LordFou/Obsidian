@@ -27,6 +27,9 @@ type: event
 |     |           |         |          |        |       |           |
 |     |           |         |          |        |       |           |
 #### General
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-|       |           |             |          |
+| Année | Vainqueur       | Nationalité | Remarque |
+| ----- | --------------- | ----------- | -------- |
+| 2017  | [[Ben Hermans]] | Belge       |          |
+| 2024  | [[Adam Yates]]  | Anglais     |          |
+| 2025  | [[Adam Yates]]  | Anglais     |          |
+| 2026  |                 |             |          |

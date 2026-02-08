@@ -15,6 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                            | Résultat | Remarque |
 | ----- | -------------------------------------- | -------- | -------- |
+| 2017  | [[Tour d'Oman]] - Classement Final     | 1ier     |          |
 | 2018  | [[Tour d'Autriche]] - Classement Final | 1ier     |          |
 | 2019  | [[Tour d'Autriche]] - Classement Final | 1ier     |          |
 
