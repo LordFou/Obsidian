@@ -16,6 +16,8 @@ type: personne
 | Année | Compétition                                         | Résultat | Remarque |
 | ----- | --------------------------------------------------- | -------- | -------- |
 | 2025  | Coupe du Monde de Cyclocross - Flamanville (France) | 1iere    |          |
+| 2026  | [[Superprestige]] - Classement final                | 1ière    |          |
+|       |                                                     |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
