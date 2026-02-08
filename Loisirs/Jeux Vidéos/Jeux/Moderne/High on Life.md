@@ -2,7 +2,7 @@
 type: game
 ---
 
-# ChromaGun 2 - Dye Hard
+# High on Life
 
 ## Informations Générales
 
@@ -11,9 +11,9 @@ type: game
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]][[Playstation 5]],[[Xbox Series]],[[Switch 2]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Aventure]], [[Stratégie]], [[Puzzle]]
+- **Genre** : [[Action]], [[Aventure]], [[FPS]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -39,4 +39,5 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/pd_rWJcI4Uk |
+| Trailer     | https://youtu.be/GtTLjkB0vbo |
+|             |                              |

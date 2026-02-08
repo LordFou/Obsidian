@@ -2,7 +2,7 @@
 type: game
 ---
 
-# ChromaGun 2 - Dye Hard
+# Disciples - Domination
 
 ## Informations Générales
 
@@ -11,9 +11,9 @@ type: game
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]][[Playstation 5]],[[Xbox Series]],[[Switch 2]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Aventure]], [[Stratégie]], [[Puzzle]]
+- **Genre** : [[RPG]], [[Stratégie]], [[Tour par tour]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/pd_rWJcI4Uk |
+| Description | URL |
+| ----------- | --- |
+|             |     |

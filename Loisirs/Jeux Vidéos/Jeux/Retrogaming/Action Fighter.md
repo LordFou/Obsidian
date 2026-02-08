@@ -2,18 +2,18 @@
 type: game
 ---
 
-# ChromaGun 2 - Dye Hard
+# Action Fighter
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 1989
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Sega]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]][[Playstation 5]],[[Xbox Series]],[[Switch 2]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Aventure]], [[Stratégie]], [[Puzzle]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/pd_rWJcI4Uk |
+| Description | URL |
+| ----------- | --- |
+|             |     |
