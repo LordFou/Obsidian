@@ -25,7 +25,7 @@ type: personne
 |       |                                                              |          |                                   |
 | 2026  | [[Championnat d'Europe de patinage de vitesse]] - 5000m      | 5e       | 6:22.43                           |
 | 2026  | [[Championnat d'Europe de patinage de vitesse]] - Mass-start | ==1ier== | 60 points                         |
-| 2026  | [[JO 2026]] - 5000m                                          |          |                                   |
+| 2026  | [[JO 2026]] - 5000m                                          | 7e       |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
