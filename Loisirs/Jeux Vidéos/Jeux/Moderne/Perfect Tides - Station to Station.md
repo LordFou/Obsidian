@@ -2,25 +2,26 @@
 type: game
 ---
 
-# Action Fighter
+# Perfect Tides - Station to Station
 
 ## Informations Générales
 
-- **Année de sortie** : 1989
+- **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Sega]]
+	- Studio : [[Three Bees]]
 	- Personnalités : 
-- **Éditeur** : [[Firebird]]
+- **Éditeur** : 
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Course]], [[Shooter]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 8.5/10 (CheckPoint)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -37,6 +38,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                          |
+| ----------- | ---------------------------- |
+| Trailer     | https://youtu.be/ESUKobGZcH8 |
