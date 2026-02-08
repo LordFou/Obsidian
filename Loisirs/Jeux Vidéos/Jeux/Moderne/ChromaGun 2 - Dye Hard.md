@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Relooted
+# ChromaGun 2 - Dye Hard
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Nyamakop]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]]
+- **Plateformes** : [[PC]][[Playstation 5]],
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[Puzzle]]
+- **Genre** : [[Aventure]], [[Stratégie]], [[Puzzle]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/KgPxPfXb734 |
+| Description | URL |
+| ----------- | --- |
+|             |     |

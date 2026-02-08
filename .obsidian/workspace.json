@@ -11,10 +11,14 @@
             "id": "110a9f81c4f645ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/ChromaGun 2 - Dye Hard.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "ChromaGun 2 - Dye Hard"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour de Val",
+                "query": "Chroma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,6 +207,13 @@
   },
   "active": "110a9f81c4f645ef",
   "lastOpenFiles": [
+    "Mario Tennis Fever.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/ChromaGun 2 - Dye Hard.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Heart of the Forest.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Romeo is a Dead Man.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Relooted.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Prisoning - Fletcher’s Quest.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Mewgenics.md",
     "Raul Garcia Pierna.md",
     "Loisirs/Sport/Compétitions/Tour de Valence.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
@@ -223,13 +233,6 @@
     "Lotte Lie.md",
     "Loisirs/Sport/Sportifs/Maya Cloetens.md",
     "Breezy Johnson.md",
-    "Loisirs/Sport/Lotte Kopecky.md",
-    "Linda Zanetti.md",
-    "Shari Bossuyt.md",
-    "Liane Lippert.md",
-    "Loisirs/Sport/Sportifs/Lindsey Vonn.md",
-    "Loisirs/Sport/Compétitions/Tour d'Oman.md",
-    "Baptiste Veistroffer.md",
     "Attachments/image-307.webp",
     "Attachments/image-306.webp",
     "Attachments/image-305.webp",

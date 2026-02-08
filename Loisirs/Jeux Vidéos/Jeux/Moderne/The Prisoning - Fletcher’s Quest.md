@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Relooted
+# The Prisoning - Fletcher’s Quest
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Nyamakop]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]]
+- **Plateformes** : [[PC]], [[Switch]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[Puzzle]]
+- **Genre** : [[Action]], [[Aventure]], [[Plateforme]], [[Metroïdvania]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -39,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/KgPxPfXb734 |
+| Trailer     | https://youtu.be/yH07w3-bMv4 |

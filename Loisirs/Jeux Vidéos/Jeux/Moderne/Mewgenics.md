@@ -13,9 +13,9 @@ type: game
 		-  [[Edmund McMillen]]
 		- [[Tyler Glaiel]]
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Aventure]], [[RPG]], [[Simulation]], [[Stratégie]], [[Roguelite]], [[Tour par tour]]
 - **Résumé** : 
 
 ## Détails Techniques

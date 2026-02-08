@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Relooted
+# Romeo is a Dead Man
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Nyamakop]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]]
+- **Plateformes** : [[PC]], [[Xbox Series]], [[Playstation 5]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[Puzzle]]
+	- **Genre** : [[Action]], [[Aventure]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/KgPxPfXb734 |
+| Description | URL |
+| ----------- | --- |
+|             |     |
