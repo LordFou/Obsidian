@@ -8,10 +8,10 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Nationalité | Remarque |
+| ----- | ----------- | -------- |
+| 2026  | Espagne     |          |
+|       |             |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

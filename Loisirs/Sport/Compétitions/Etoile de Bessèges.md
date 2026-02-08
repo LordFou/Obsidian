@@ -11,12 +11,12 @@ type: event
 
 ### Etapes 
 
-|     | Vainqueur              | Général        | Montagne               | Points         | Jeune          | Remarques |
-| --- | ---------------------- | -------------- | ---------------------- | -------------- | -------------- | --------- |
-| 1e  | [[Tom Crabbe]]         | [[Tom Crabbe]] | [[Victor Vercouillie]] | [[Tom Crabbe]] | [[Tom Crabbe]] |           |
-| 2e  | [[Mathieu Kockelmann]] |                |                        |                |                |           |
-| 3e  | [[Henri Uhlig]]        |                |                        |                |                |           |
-| 4e  |                        |                |                        |                |                |           |
+|     | Vainqueur              | Général         | Montagne               | Points         | Jeune          | Remarques |
+| --- | ---------------------- | --------------- | ---------------------- | -------------- | -------------- | --------- |
+| 1e  | [[Tom Crabbe]]         | [[Tom Crabbe]]  | [[Victor Vercouillie]] | [[Tom Crabbe]] | [[Tom Crabbe]] |           |
+| 2e  | [[Mathieu Kockelmann]] |                 | [[Lucas Kubis]]        |                |                |           |
+| 3e  | [[Henri Uhlig]]        | [[Lucas Kubis]] |                        |                |                |           |
+| 4e  | [[Joppe Heremans]]     | [[Lucas Kubis]] |                        |                |                |           |
 ## Femmes
 
 ### Etapes
@@ -35,7 +35,7 @@ type: event
 |       |           |             |          |
 ### Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur           | Nationalité | Remarque |
+| ----- | ------------------- | ----------- | -------- |
+| 2025  | [[Kevin Vauquelin]] | Française   |          |
+|       |                     |             |          |
