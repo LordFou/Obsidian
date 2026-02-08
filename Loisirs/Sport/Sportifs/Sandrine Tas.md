@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-258.webp]]
+![[image-307.webp]]
 # Sandrine Tas
 
 # Informations Générales
@@ -17,6 +17,9 @@ type: personne
 | ----- | ------------------------------------------------------------------- | -------- | -------- |
 | 2026  | [[Championnat d'Europe de patinage de vitesse]] - 3000m             | 2e       |          |
 | 2026  | [[Championnat d'Europe de patinage de vitesse]] - Sprint par équipe | 2e       |          |
+| 2026  | [[JO 2026]] - 3000m                                                 | 7e       |          |
+| 2026  | [[JO 2026]] - 5000m                                                 |          |          |
+| 2026  | [[JO 2026]] - Mass Start                                            |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

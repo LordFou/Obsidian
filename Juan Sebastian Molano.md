@@ -5,17 +5,20 @@ type: personne
 # Juan Sebastian Molano
 
 # Informations Générales
-- **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Date de naissance** :  1995
+- **Nationalité** :  Colombien
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[UAE]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition          | Résultat             | Remarque                |
-| ----- | -------------------- | -------------------- | ----------------------- |
-| 2025  | [[Tour de Belgique]] | Classement par point | Pas de victoire d'étape |
+| Année | Compétition                   | Résultat             | Remarque                |
+| ----- | ----------------------------- | -------------------- | ----------------------- |
+| 2025  | [[Classique Bruges-La Panne]] | 1ier                 |                         |
+| 2025  | [[Tour de Belgique]]          | Classement par point | Pas de victoire d'étape |
+| 2026  | [[Tour d'Oman]] - 1e étape    | 1ier                 |                         |
+|       |                               |                      |                         |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

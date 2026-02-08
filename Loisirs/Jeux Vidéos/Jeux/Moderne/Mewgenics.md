@@ -13,16 +13,17 @@ type: game
 		-  [[Edmund McMillen]]
 		- [[Tyler Glaiel]]
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Aventure]], [[RPG]], [[Simulation]], [[Stratégie]], [[Roguelite]], [[Tour par tour]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 9/10 (CheckPoint)
 - **Gameplay** :
 - **Durée estimée** : 
 

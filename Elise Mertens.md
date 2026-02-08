@@ -5,7 +5,7 @@ type: personne
 # Elise Mertens
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  1990
 - **Nationalité** :  Belge
 - **Sport / Discipline** : [[Tennis]] 
 - **Poste / Spécialité** (si applicable) :  
@@ -34,6 +34,7 @@ type: personne
 | 2025  | [[Masters WTA de Ryad]] - Double   | Vainqueur     | avec V                                                              |
 | 2026  | [[Australian Open]] - Simple       | 1/8 finale    | Défaite contre Rybanika (5e WTA)                                    |
 | 2026  | [[Australian Open]] - Double       | ==Vainqueur== | avec [[Shuai Zhang]]                                                |
+| 2026  | [[WTA - Tournoi de Doha]]          |               |                                                                     |
 
 # Style et Caractéristiques
 - C'est une joueuse très équilibrée et régulière qui intègre en juin 2025 le club très fermé des joueuses qui ont gagné un tournoi sur les 3 types de surface.

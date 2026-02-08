@@ -18,6 +18,8 @@ type: personne
 | 2025  | Superprestige - Cross de Gullegem        | 1ier     |          |
 | 2025  | [[Championnat National Belge de gravel]] | 1ier     |          |
 | 2026  | Exact Cross de Maldegem                  | 1ier     |          |
+| 2026  | [[Superprestige]] - Classement final     | 1ier     |          |
+| 2026  | Trophée X2O - 7e manche - Cross de Lille | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

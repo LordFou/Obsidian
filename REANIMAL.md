@@ -6,14 +6,14 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 2026 (?)
+- **Année de sortie** : 2026 
 - **Développeur** : 
 	- Studio : [[Tarsier Studio]]
 	- Personnalités : 
 - **Éditeur** : [[THQ Nordic]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
 - **Franchise** : 
-- **Genre** : [[Horreur]]
+- **Genre** : [[Horreur]], [[Aventure]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                          |
+| ----------- | ---------------------------- |
+| Trailer     | https://youtu.be/ACZL7VziLS8 |

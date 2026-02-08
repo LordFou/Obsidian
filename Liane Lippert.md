@@ -17,6 +17,7 @@ type: personne
 | ----- | ---------------------------- | -------- | -------- |
 | 2025  | [[Tour d'Italie]] - 6e étape | 1ière    |          |
 | 2025  | [[Tour d'Italie]] - 8e étape | 1ière    |          |
+| 2026  | [[Tour de Valence]]          | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -11,9 +11,9 @@ type: game
 	- Studio : [[Trapped Predator]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Aventure]], [[Survival Horror]]
 - **Résumé** : 
 
 ## Détails Techniques

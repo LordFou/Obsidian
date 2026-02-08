@@ -19,7 +19,7 @@ type: personne
 |       |                                                                                    |          |                        |
 | 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - Madison | 1ier     | avec [[Jules Hesters]] |
 | 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Course aux points                 | 3e       |                        |
-|       |                                                                                    |          |                        |
+| 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Madison                           | 3e       | avec [[Jules Hesters]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Action]], [[Aventure]], [[Puzzle]]
 - **Résumé** : 
 
 ## Détails Techniques

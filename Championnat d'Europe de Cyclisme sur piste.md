@@ -14,6 +14,7 @@ type: event
 | 2026  | Points      | [[Tim Torn Teutenberg]] | Allemand    |          |
 | 2026  | Omnium      | [[Iuri Leitao]]         | Portugais   |          |
 | 2026  | Sprint      | [[Matthew Richardson]]  | Anglais     |          |
+|       |             |                         |             |          |
 # Femmes
 
 | Année | Epreuve     | Vainqueur                             | Nationalité | Remarque |

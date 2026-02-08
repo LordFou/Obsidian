@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition                               | Résultat | Remarque |
+| ----- | ----------------------------------------- | -------- | -------- |
+| 2026  | [[Etoile de Bessèges]] - 5e étape         | 1ier     | CLM      |
+| 2026  | [[Etoile de Bessèges]] - Classement final | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -1,35 +1,42 @@
 ---
-type: personne
+type: event
 ---
+# Etoile de Bessèges
 
-# Henri Uhlig
+# Introduction
 
-# Informations Générales
-- **Date de naissance** :  
-- **Nationalité** :  Allemand
-- **Sport / Discipline** :  [[Cyclisme]]
-- **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
-- **Période d’activité** :  
+# Edition 2026
 
-# Palmarès et Distinctions
-| Année | Compétition                       | Résultat | Remarque |
-| ----- | --------------------------------- | -------- | -------- |
-| 2026  | [[Etoile de Bessèges]] - 3e étape | 1ier     |          |
-|       |                                   |          |          |
+## Hommes
 
-# Style et Caractéristiques
-Décrire le style de jeu, les points forts/faibles, les particularités.
+### Etapes 
 
-# Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+|     | Vainqueur              | Général          | Montagne               | Points         | Jeune          | Remarques |
+| --- | ---------------------- | ---------------- | ---------------------- | -------------- | -------------- | --------- |
+| 1e  | [[Tom Crabbe]]         | [[Tom Crabbe]]   | [[Victor Vercouillie]] | [[Tom Crabbe]] | [[Tom Crabbe]] |           |
+| 2e  | [[Mathieu Kockelmann]] |                  | [[Lucas Kubis]]        |                |                |           |
+| 3e  | [[Henri Uhlig]]        | [[Lucas Kubis]]  |                        |                |                |           |
+| 4e  | [[Joppe Heremans]]     | [[Lucas Kubis]]  |                        |                |                |           |
+| 5e  | [[Ewen Costiou]]       | [[Ewen Costiou]] |                        |                |                | CLM       |
+## Femmes
 
-# Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+### Etapes
 
-# Retraite et Reconversion
-Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| --- | --------- | ------- | -------- | ------ | ----- | --------- |
 
-# Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+# General
+
+### Hommes
+
+
+| Année | Vainqueur           | Nationalité | Remarque |
+| ----- | ------------------- | ----------- | -------- |
+| 2025  | [[Kevin Vauquelin]] | Français    |          |
+| 2026  | [[Ewen Costiou]]    | Français    |          |
+### Femmes
+
+| Année | Vainqueur | Nationalité | Remarque |
+| ----- | --------- | ----------- | -------- |
+|       |           |             |          |
+
