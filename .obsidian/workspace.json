@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fc0516d6312422e2",
+        "id": "f1cb1a0d3a2d1622",
         "type": "tabs",
         "children": [
           {
-            "id": "1fce98a2a03e18fd",
+            "id": "a6cca42a1e3bb5a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal de bord/2026-02-08.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-02-08"
-            }
-          },
-          {
-            "id": "f2259320e0fc0334",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "title": "Nouvel onglet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2259320e0fc0334",
+  "active": "f2d09065e559f000",
   "lastOpenFiles": [
     "Journal de bord/2026-02-08.md",
     "Loisirs/Sport/Sportifs/Jules Hesters.md",
