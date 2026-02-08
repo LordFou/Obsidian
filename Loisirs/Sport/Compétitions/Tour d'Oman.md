@@ -14,7 +14,7 @@ type: event
 |     | Vainqueur                 | Général                   | Montagne | Points | Jeune | Remarques                 |
 | --- | ------------------------- | ------------------------- | -------- | ------ | ----- | ------------------------- |
 | 1e  | [[Juan Sebastian Molano]] | [[Juan Sebastian Molano]] |          |        |       | 3e - [[ Gerben Thijssen]] |
-|     |                           |                           |          |        |       |                           |
+| 2e  | [[Baptiste Veistroffer]]  | [[Baptiste Veistroffer]]  |          |        |       |                           |
 |     |                           |                           |          |        |       |                           |
 |     |                           |                           |          |        |       |                           |
 ### Femmes

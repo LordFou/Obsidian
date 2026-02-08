@@ -23,6 +23,7 @@ type: event
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
 | --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|     |           |         |          |        |       |           |
 
 # General
 
@@ -35,7 +36,7 @@ type: event
 |       |           |             |          |
 ### Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur         | Nationalité | Remarque               |
+| ----- | ----------------- | ----------- | ---------------------- |
+| 2026  | [[Liane Lippert]] | Allemande   | 2e - [[Shari Bossuyt]] |
+|       |                   |             |                        |

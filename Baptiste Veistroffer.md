@@ -2,22 +2,21 @@
 type: personne
 ---
 
-# Liane Lippert
+# Baptiste Veistroffer
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Allemande
-- **Sport / Discipline** :  Cyclisme
+- **Nationalité** :  Français
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Lotto-Intermarché]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                  | Résultat | Remarque |
-| ----- | ---------------------------- | -------- | -------- |
-| 2025  | [[Tour d'Italie]] - 6e étape | 1ière    |          |
-| 2025  | [[Tour d'Italie]] - 8e étape | 1ière    |          |
-| 2026  | [[Tour de Valence]]          | 1ière    |          |
+| Année | Compétition                | Résultat | Remarque           |
+| ----- | -------------------------- | -------- | ------------------ |
+| 2026  | [[Tour d'Oman]] - 2e étape | 1ier     | :luc_plus: Général |
+|       |                            |          |                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
