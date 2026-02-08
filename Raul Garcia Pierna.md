@@ -1,25 +1,21 @@
 ---
 type: personne
 ---
-![[image-304.webp]]
-# Niels Vandeputte
+
+# Raul Garcia Pierna
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Cyclocross]]
+- **Nationalité** :  Espagnol
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Alpecin]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                              | Résultat | Remarque |
-| ----- | ---------------------------------------- | -------- | -------- |
-| 2025  | Superprestige - Cross de Gullegem        | 1ier     |          |
-| 2025  | [[Championnat National Belge de gravel]] | 1ier     |          |
-| 2026  | Exact Cross de Maldegem                  | 1ier     |          |
-| 2026  | [[Superprestige]] - Classement final     | 1ier     |          |
-| 2026  | Trophée X2O - 7e manche - Cross de Lille | 1ier     |          |
+| Année | Compétition                    | Résultat | Remarque |
+| ----- | ------------------------------ | -------- | -------- |
+| 2026  | [[Tour de Valence]] - 5e étape | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

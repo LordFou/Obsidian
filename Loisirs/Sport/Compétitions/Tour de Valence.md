@@ -11,21 +11,22 @@ type: event
 
 ### Etapes 
 
-|     | Vainqueur           | Général             | Montagne | Points | Jeune | Remarques                                          |
-| --- | ------------------- | ------------------- | -------- | ------ | ----- | -------------------------------------------------- |
-| 1e  | [[Biniam Girmay]]   | [[Biniam Girmay]]   |          |        |       | 2e  - [[Arne Marit]]                               |
-| 2e  | [[Remco Evenepoel]] | [[Biniam Girmay]]   |          |        |       | Temps non compté pour le général <- Vents violents |
-| 3e  | [[August Andrew]]   | [[Biniam Girmay]]   |          |        |       | 3e - [[Florian Vermeersch]]                        |
-| 4e  | [[Remco Evenepoel]] | [[Remco Evenepoel]] |          |        |       |                                                    |
+|     | Vainqueur              | Général             | Montagne | Points | Jeune | Remarques                                          |
+| --- | ---------------------- | ------------------- | -------- | ------ | ----- | -------------------------------------------------- |
+| 1e  | [[Biniam Girmay]]      | [[Biniam Girmay]]   |          |        |       | 2e  - [[Arne Marit]]                               |
+| 2e  | [[Remco Evenepoel]]    | [[Biniam Girmay]]   |          |        |       | Temps non compté pour le général <- Vents violents |
+| 3e  | [[August Andrew]]      | [[Biniam Girmay]]   |          |        |       | 3e - [[Florian Vermeersch]]                        |
+| 4e  | [[Remco Evenepoel]]    | [[Remco Evenepoel]] |          |        |       |                                                    |
+| 5e  | [[Raul Garcia Pierna]] | [[Remco Evenepoel]] |          |        |       |                                                    |
 # General
 
 ### Hommes
 
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur           | Nationalité | Remarque |
+| ----- | ------------------- | ----------- | -------- |
+| 2026  | [[Remco Evenepoel]] | Belge       |          |
+|       |                     |             |          |
 ### Femmes
 
 | Année | Vainqueur         | Nationalité | Remarque               |

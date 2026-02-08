@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "71e78c58ce92b06f",
+        "id": "afcf282f5e362c42",
         "type": "tabs",
         "children": [
           {
-            "id": "15a6a870713f4530",
+            "id": "110a9f81c4f645ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loisirs/Sport/Compétitions/Etoile de Bessèges.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Etoile de Bessèges"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Etoile",
+                "query": "Tour de Val",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,10 +202,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15a6a870713f4530",
+  "active": "110a9f81c4f645ef",
   "lastOpenFiles": [
-    "Ewen Costiou.md",
+    "Raul Garcia Pierna.md",
+    "Loisirs/Sport/Compétitions/Tour de Valence.md",
+    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
+    "Loisirs/Sport/Sportifs/Niels Vandeputte.md",
     "Loisirs/Sport/Compétitions/Etoile de Bessèges.md",
+    "Ewen Costiou.md",
     "Red Panthers.md",
     "Elise Mertens.md",
     "WTA - Tournoi de Doha.md",
@@ -224,16 +224,12 @@
     "Loisirs/Sport/Sportifs/Maya Cloetens.md",
     "Breezy Johnson.md",
     "Loisirs/Sport/Lotte Kopecky.md",
-    "Loisirs/Sport/Compétitions/Tour de Valence.md",
     "Linda Zanetti.md",
     "Shari Bossuyt.md",
     "Liane Lippert.md",
     "Loisirs/Sport/Sportifs/Lindsey Vonn.md",
     "Loisirs/Sport/Compétitions/Tour d'Oman.md",
     "Baptiste Veistroffer.md",
-    "Loisirs/Sport/Equipes/Diables Noirs.md",
-    "Loisirs/Sport/Compétitions/Euro de Futsal.md",
-    "Diables Rouges.md",
     "Attachments/image-307.webp",
     "Attachments/image-306.webp",
     "Attachments/image-305.webp",
