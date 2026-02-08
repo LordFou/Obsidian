@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Mathieu Kockelmann
+# Evy Poppe
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Luxembourgeois
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Nationalité** :  Belge
+- **Sport / Discipline** :  [[Snowboard]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** : [[Lotto-Intermarché]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                       | Résultat | Remarque |
-| ----- | --------------------------------- | -------- | -------- |
-| 2025  | [[Tour du Luxembourg]] - 2e étape | 1ier     |          |
-| 2026  | [[Etoile de Bessèges]] - 2e étape | 1ier     |          |
+| Année | Compétition | Résultat | Remarque |
+| ----- | ----------- | -------- | -------- |
+| 2026  | [[JO 2026]] |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

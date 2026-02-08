@@ -13,7 +13,7 @@ type: event
 
 |          | Vainqueur              | Général                | Montagne             | Points           | Remarques                  |
 | -------- | ---------------------- | ---------------------- | -------------------- | ---------------- | -------------------------- |
-| 1e (NDL) | [[Olav Kooij]]         | [[Olav Kooij]]         | [[Bauke Mollema]]    | [[Olav Kooij]]   | 8e - [[Florian Vermeesch]] |
+| 1e (NDL) | [[Olav Kooij]]         | [[Olav Kooij]]         | [[Bauke Mollema]]    | [[Olav Kooij]]   | 8e - [[Florian Vermeersch]] |
 | 2e (FRA) | [[Paul Lapeira]]       | [[Paul Lapeira]]       | [[Tomasz Budziński]] | [[Paul Lapeira]] |                            |
 | 3e (ANG) | [[Ben Turner]]         | [[Paul Lapeira]]       | [[Timo Kielich]]     | [[Ben Turner]]   | 7e - [[Arjen Lyvins]]      |
 | 4e (FRA) | [[Paul Magnier]]       | [[Paul Lapeira]]       | [[Timo Kielich]]     | [[Ben Turner]]   |                            |

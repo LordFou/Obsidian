@@ -2,21 +2,23 @@
 type: personne
 ---
 
-# Henri Uhlig
+# Florian Vermeersch
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Allemand
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Nationalité** :  Belge
+- **Sport / Discipline** : Cyclisme 
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                       | Résultat | Remarque |
-| ----- | --------------------------------- | -------- | -------- |
-| 2026  | [[Etoile de Bessèges]] - 3e étape | 1ier     |          |
-|       |                                   |          |          |
+| Année | Compétition                                                         | Résultat | Remarque |
+| ----- | ------------------------------------------------------------------- | -------- | -------- |
+| ?     | [[Championnat du monde de Gravel]]                                  | 2e       |          |
+| ?     | [[Championnat du monde de Gravel]]                                  | 2e       |          |
+| 2025  | [[Championnat de Belgique de Cyclisme\|Championnat National]] - CLM | 2e       |          |
+| 2025  | [[Championnat du monde de Gravel]]                                  | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

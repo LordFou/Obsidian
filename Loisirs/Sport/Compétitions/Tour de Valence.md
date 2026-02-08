@@ -11,11 +11,11 @@ type: event
 
 ### Etapes 
 
-|     | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques            |
-| --- | ----------------- | ----------------- | -------- | ------ | ----- | -------------------- |
-| 1e  | [[Biniam Girmay]] | [[Biniam Girmay]] |          |        |       | 2e  - [[Arne Marit]] |
-|     |                   |                   |          |        |       |                      |
-|     |                   |                   |          |        |       |                      |
+|     | Vainqueur           | Général           | Montagne | Points | Jeune | Remarques                                          |
+| --- | ------------------- | ----------------- | -------- | ------ | ----- | -------------------------------------------------- |
+| 1e  | [[Biniam Girmay]]   | [[Biniam Girmay]] |          |        |       | 2e  - [[Arne Marit]]                               |
+| 2e  | [[Remco Evenepoel]] | [[Biniam Girmay]] |          |        |       | Temps non compté pour le général <- Vents violents |
+| 3e  | [[August Andrew]]   | [[Biniam Girmay]] |          |        |       | 3e - [[Florian Vermeersch]]                        |
 ## Femmes
 
 ### Etapes

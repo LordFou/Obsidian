@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Mathieu Kockelmann
+# Sander Eitrem
 
 # Informations Générales
-- **Date de naissance** :  
-- **Nationalité** :  Luxembourgeois
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Date de naissance** :  2006
+- **Nationalité** :  Norvégien
+- **Sport / Discipline** :  [[Patinage de vitesse]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** : [[Lotto-Intermarché]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                       | Résultat | Remarque |
-| ----- | --------------------------------- | -------- | -------- |
-| 2025  | [[Tour du Luxembourg]] - 2e étape | 1ier     |          |
-| 2026  | [[Etoile de Bessèges]] - 2e étape | 1ier     |          |
+| Année | Compétition         | Résultat | Remarque |
+| ----- | ------------------- | -------- | -------- |
+| 2026  | [[JO 2026]] - 5000m | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
