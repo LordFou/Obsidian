@@ -11,13 +11,30 @@
             "id": "1fce98a2a03e18fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Journal de bord/2026-02-08.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "2026-02-08"
+            }
+          },
+          {
+            "id": "f2259320e0fc0334",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,8 +218,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1fce98a2a03e18fd",
+  "active": "f2259320e0fc0334",
   "lastOpenFiles": [
+    "Journal de bord/2026-02-08.md",
     "Loisirs/Sport/Sportifs/Jules Hesters.md",
     "Jasper De Buyst.md",
     "Loisirs/Sport/Sportifs/Lowie Nulens.md",
@@ -231,7 +249,6 @@
     "Tom Crabbe.md",
     "Attachments/image-303.webp",
     "Kevin Vauquelin.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
     "Attachments/image-302.webp",
     "Attachments/image-301.webp",
     "Attachments/image-300.webp",
