@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Maya Cloetens
+# Linda Zanetti
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** : [[Biathlon]]
+- **Nationalité** :  Italienne
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                     | Résultat | Remarque                                    |
-| ----- | ----------------------------------------------- | -------- | ------------------------------------------- |
-| 2025  | Coupe du Monde de Biathlon - Oestersund (Suède) | 6e       | Meilleure performance belge en [[Biathlon]] |
-| 2026  | [[JO 2026]] - Biathlon - Relais Mixte           | 19e      |                                             |
+| Année | Compétition         | Résultat | Remarque |
+| ----- | ------------------- | -------- | -------- |
+| 2025  | [[Tour de Valence]] | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

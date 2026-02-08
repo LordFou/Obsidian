@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Maya Cloetens
+# Breezy Johnson
 
 # Informations Générales
-- **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** : [[Biathlon]]
+- **Date de naissance** :  1995
+- **Nationalité** :  Américaine
+- **Sport / Discipline** :  [[Ski]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                     | Résultat | Remarque                                    |
-| ----- | ----------------------------------------------- | -------- | ------------------------------------------- |
-| 2025  | Coupe du Monde de Biathlon - Oestersund (Suède) | 6e       | Meilleure performance belge en [[Biathlon]] |
-| 2026  | [[JO 2026]] - Biathlon - Relais Mixte           | 19e      |                                             |
+| Année | Compétition            | Résultat | Remarque |
+| ----- | ---------------------- | -------- | -------- |
+| 2026  | [[JO 2026]] - Descente | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

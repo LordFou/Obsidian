@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Tour de Valence.md",
+                "file": "Loisirs/Sport/Sportifs/Maya Cloetens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour de Valence"
+              "title": "Maya Cloetens"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour de Vale",
+                "query": "Lynxes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -208,8 +208,13 @@
   },
   "active": "15a6a870713f4530",
   "lastOpenFiles": [
-    "Shari Bossuyt.md",
+    "Loisirs/Sport/Equipes/Belgian Linxes.md",
+    "Breezy Johnson.md",
+    "JO 2026.md",
+    "Loisirs/Sport/Lotte Kopecky.md",
     "Loisirs/Sport/Compétitions/Tour de Valence.md",
+    "Linda Zanetti.md",
+    "Shari Bossuyt.md",
     "Liane Lippert.md",
     "Loisirs/Sport/Sportifs/Lindsey Vonn.md",
     "Loisirs/Sport/Compétitions/Tour d'Oman.md",
@@ -220,7 +225,6 @@
     "Loisirs/Sport/Sportifs/Sandrine Tas.md",
     "Attachments/image-307.webp",
     "Francesca Lollobrigida.md",
-    "JO 2026.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Loisirs/Sport/Compétitions/Etoile de Bessèges.md",
     "Joppe Heremans.md",
@@ -231,10 +235,6 @@
     "Tom Crabbe.md",
     "Superprestige.md",
     "Loisirs/Sport/Sportifs/Aniek van Alphen.md",
-    "Loisirs/Sport/Sportifs/Amandine Fouquenet.md",
-    "Loisirs/Sport/Sportifs/Niels Vandeputte.md",
-    "Loisirs/Sport/Sportifs/Michael Vanthourenhout.md",
-    "Loisirs/Sport/Equipes/Equipe nationale belge de Tennis.md",
     "Attachments/image-306.webp",
     "Attachments/image-305.webp",
     "Attachments/image-304.webp",
