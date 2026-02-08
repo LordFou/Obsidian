@@ -2,22 +2,20 @@
 type: personne
 ---
 
-# Juan Sebastian Molano
+# Gerben Thijssen
 
 # Informations Générales
-- **Date de naissance** :  1995
-- **Nationalité** :  Colombien
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Date de naissance** :  
+- **Nationalité** :  Belge
+- **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[UAE]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                | Résultat             | Remarque                |
-| ----- | -------------------------- | -------------------- | ----------------------- |
-| 2025  | [[Tour de Belgique]]       | Classement par point | Pas de victoire d'étape |
-| 2026  | [[Tour d'Oman]] - 1e étape | 1ier                 |                         |
-|       |                            |                      |                         |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
