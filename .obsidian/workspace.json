@@ -147,7 +147,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -219,7 +220,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fdbe6709e7c5c9fe",
+  "active": "acbfcced6e5eac9a",
   "lastOpenFiles": [
     "Cian Uijtdebroeks.md",
     "Loisirs/Sport/Sportifs/Hanne Desmet.md",
