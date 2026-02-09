@@ -11,6 +11,7 @@ type: game
 	- Studio : 
 	- Personnalités : 
 		- [[Yoann Gueritot]] 
+		- [[Naoki Hamaguchi]] (Co-réalisateur)
 - **Éditeur** : [[Square Enix]] (?)
 - **Plateformes** : 
 - **Franchise** : [[Franchise Final Fantasy]]
