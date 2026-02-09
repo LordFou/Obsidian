@@ -9,10 +9,13 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ## Informations Générales
 - **Nom complet** :  
-- **Date de création** :  
+- **Date de création** :  2013
 - **Fondateurs** :  
+	- [[Jordi de Paco]]
+	- [[Marina Gonzàles]]
+	- [[Paula Ruiz]] (“Fingerspit”)
 - **Personnalités** :
-- **Pays d’origine** :  
+- **Pays d’origine** :  Espagne
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
