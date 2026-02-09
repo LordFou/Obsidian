@@ -2,13 +2,13 @@
 type: game
 ---
 
-# Interview with the Whisperer
+# Rêverie
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Deconstructeam]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 

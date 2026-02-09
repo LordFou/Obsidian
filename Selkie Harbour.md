@@ -12,7 +12,9 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  Espagne
+	- [[Manon Gevers]]
+	- [[Guillermo Ferrando]]
+- **Pays d’origine** :  Espagne - Irlande
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -24,16 +26,20 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                     | Genre    | Plateformes           |
-| ----- | ------------------------- | -------- | --------------------- |
-| 2025  | [[Many Nights a Whisper]] | Narratif | PC, PS5, Xbox, Switch |
+| Année | Titre                      | Genre    | Plateformes           |
+| ----- | -------------------------- | -------- | --------------------- |
+|       | [[Rêverie]]                |          |                       |
+|       | [[The Anglerfish Project]] |          |                       |
+| 2025  | [[Many Nights a Whisper]]  | Narratif | PC, PS5, Xbox, Switch |
+|       |                            |          |                       |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
 - Moteur 2
 
 ## Style et Influence
-Décrire le style graphique, les thématiques abordées, les influences notables.
+- Jeux expérimentaux et contemplatifs
+- Leurs œuvres sont proches de l’expérience, souvent teintées de philosophie et avec une approche artistique très personnelle.
 
 ## Succès et Récompenses
 Lister les prix, distinctions ou records obtenus.

@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Interview with the Whisperer
+# The Cosmic Wheel Sisterhood
 
 ## Informations Générales
 

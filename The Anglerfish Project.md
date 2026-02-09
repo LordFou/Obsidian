@@ -1,14 +1,14 @@
 ---
 type: game
 ---
-
-# Interview with the Whisperer
+![[image-311.webp]]
+# The Anglerfish Project
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Deconstructeam]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 

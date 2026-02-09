@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Interview with the Whisperer.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Many Nights a Whisper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interview with the Whisperer"
+              "title": "Many Nights a Whisper"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Interview with the Whisperer",
+                "query": "The Red Strings Club",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -207,12 +207,22 @@
   },
   "active": "f7018f6941ec760a",
   "lastOpenFiles": [
+    "Selkie Harbour.md",
+    "Guillermo Ferrando.md",
+    "The Anglerfish Project.md",
+    "Attachments/image-311.webp",
+    "Attachments/image-310.webp",
+    "Rêverie.md",
+    "Manon Gevers.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Many Nights a Whisper.md",
+    "Deconstructeam.md",
     "Paula Ruiz.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Interview with the Whisperer.md",
-    "Deconstructeam.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Gods will be watching.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Red Strings Club.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Cosmic Wheel Sisterhood.md",
     "Marina Gonzàles.md",
     "Jordi de Paco.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Many Nights a Whisper.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Relooted.md",
     "Loisirs/Sport/Sportifs/Fran Vanhoutte.md",
     "Attachments/image-309.webp",
@@ -226,23 +236,12 @@
     "Loisirs/Sport/Compétitions/Tour d'Oman.md",
     "Raphaël Collignon.md",
     "Loisirs/Sport/Sportifs/Bart Swings.md",
-    "Loisirs/Sport/Equipes/Belgian Linxes.md",
-    "Loisirs/Sport/Sportifs/Sky Remans.md",
-    "Loisirs/Sport/Sportifs/Dries Degrieck.md",
-    "Egan Bernal.md",
-    "Championnat National Colombien de Cyclisme.md",
-    "Journal de bord/2026-02-09.md",
-    "Tim Merlier.md",
-    "conflict-files-obsidian-git.md",
-    "WTA - Tournoi de Doha.md",
     "Attachments/image-307.webp",
     "Attachments/image-306.webp",
     "Attachments/image-305.webp",
     "Attachments/image-304.webp",
     "Attachments/image-303.webp",
     "Attachments/image-302.webp",
-    "Attachments/image-301.webp",
-    "Attachments/image-300.webp",
     "Loisirs/Tourisme",
     "Culture/Géographie",
     "Loisirs/Jeux Vidéos/Logiciels",

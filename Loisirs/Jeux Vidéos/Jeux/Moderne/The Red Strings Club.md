@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Interview with the Whisperer
+# The Red Strings Club
 
 ## Informations Générales
 
