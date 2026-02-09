@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Worming From Home.md",
+                "file": "Loisirs/Jeux Vidéos/Périphériques/Steam Machine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Worming From Home"
+              "title": "Steam Machine"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Worming From Home",
+                "query": "Mus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,10 +204,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7018f6941ec760a",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
-    "Mason Sabharwal.md",
+    "Stardew Valley.md",
+    "Eric Barone.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Unemployment Simulator 2018.md",
+    "turbolento.md",
+    "Attachments/image-318.webp",
+    "Franchise Dragon Quest.md",
+    "Dragon Quest VII Reimagined.md",
+    "Dragon Quest 7.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Dark Rites of Arkham.md",
+    "enComplot.md",
+    "Postmodern Adventures.md",
+    "Attachments/image-317.webp",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Pie in the Sky.md",
+    "indie.io.md",
+    "Monster Shop Games.md",
+    "Attachments/image-316.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Worming From Home.md",
+    "Mason Sabharwal.md",
     "Zach Northrop.md",
     "Loisirs/Jeux Vidéos/Périphériques/Arcade Stick.md",
     "Attachments/image-315.webp",
@@ -224,25 +239,9 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Cosmic Wheel Sisterhood.md",
     "Attachments/image-312.webp",
     "Selkie Harbour.md",
-    "Guillermo Ferrando.md",
-    "The Anglerfish Project.md",
     "Attachments/image-311.webp",
     "Attachments/image-310.webp",
-    "Rêverie.md",
-    "Manon Gevers.md",
-    "Paula Ruiz.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Interview with the Whisperer.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Gods will be watching.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Red Strings Club.md",
-    "Marina Gonzàles.md",
-    "Jordi de Paco.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Relooted.md",
-    "Loisirs/Sport/Sportifs/Fran Vanhoutte.md",
     "Attachments/image-309.webp",
-    "Loisirs/Sport/Sportifs/Isabelle van Elst.md",
-    "Attachments/image-308.webp",
-    "Attachments/image-307.webp",
-    "Attachments/image-306.webp",
     "Loisirs/Tourisme",
     "Culture/Géographie",
     "Loisirs/Jeux Vidéos/Logiciels",

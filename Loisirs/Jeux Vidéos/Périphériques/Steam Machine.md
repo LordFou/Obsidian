@@ -15,7 +15,8 @@ type: matos
 - Mascotte : 
 
 ## Résumé et historique
-{{Gros résumé sur l’histoire de la console/micro, son impact sur le marché, ses innovations, ses succès ou échecs. Parle aussi des modèles révisés et de son influence sur l’industrie.}}
+- La Steam Machine est affectée par les pénuries de RAM liées à l'IA. 
+	- La firme espère toujours sortir sa console, le Steam Frame et le nouveau Steam Controller avant la seconde moitié de l'année, mais leur prix (non-annoncé) va devoir augmenter.
 
 ## Anecdotes et faits marquants
 - {{Fait ou anecdote 1}}

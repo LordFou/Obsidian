@@ -2,18 +2,17 @@
 type: game
 ---
 
-# Stardew Valley
+# Dragon Quest 7
 
 ## Informations Générales
 
-- **Année de sortie** : 2016
+- **Année de sortie** : 
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
-		- [[Eric Barone]]
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise Dragon Quest]]
 - **Genre** :
 - **Résumé** : 
 

@@ -4,6 +4,8 @@ type: game
 ![[image-302.webp]]
 # Dragon Quest VII Reimagined
 
+Remake de l'antique [[Dragon Quest 7]]
+
 ## Informations Générales
 
 - **Année de sortie** : 2026
@@ -16,7 +18,7 @@ type: game
 - **Plateformes** : [[PC]],[[Playstation 5]],[[Xbox Series]], [[Switch 2]], [[Switch]]
 - **Franchise** : [[Franchise Dragon Quest]]
 - **Genre** : [[Aventure]], [[RPG]]
-- **Résumé** : 
+- **Résumé** : Nette amélioration à la fois du jeu original et de son premier remake
 
 ## Détails Techniques
 - **Moteur de jeu** : 

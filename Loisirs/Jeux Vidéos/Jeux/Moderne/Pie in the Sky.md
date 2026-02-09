@@ -1,21 +1,20 @@
 ---
 type: game
 ---
-
-# Stardew Valley
+![[image-316.webp]]
+# Pie in the Sky
 
 ## Informations Générales
 
-- **Année de sortie** : 2016
+- **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Monster Shop Games]]
 	- Personnalités : 
-		- [[Eric Barone]]
-- **Éditeur** : 
+- **Éditeur** : [[indie.io]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :
-- **Résumé** : 
+- **Résumé** : Le jeu vous plonge en effet dans la peau d'une "[pie australienne](https://fr.wikipedia.org/wiki/Cassican_fl%C3%BBteur?ref=temalesjeux.fr)", avec pour mission de pourrir la vie des badauds.
 
 ## Détails Techniques
 - **Moteur de jeu** : 

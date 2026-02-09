@@ -6,17 +6,17 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 2026 (?)
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
 		- [[Zach Northrop]]
 		- [[Mason Sabharwal]]
-- **Éditeur** : 
+- **Éditeur** : [[Zach Northrop]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :
-- **Résumé** : 
+- **Résumé** : un simulateur de lombric employé dans la finance et qui travaille de chez lui, dans son appartement hélas taillé pour un humain.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
