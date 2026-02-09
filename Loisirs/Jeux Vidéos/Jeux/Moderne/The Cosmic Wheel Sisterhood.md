@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-312.webp]]
 # The Cosmic Wheel Sisterhood
 
 ## Informations Générales
