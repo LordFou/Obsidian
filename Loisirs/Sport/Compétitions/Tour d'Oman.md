@@ -15,7 +15,7 @@ type: event
 | --- | ------------------------- | ------------------------- | -------- | ------ | ----- | ------------------------- |
 | 1e  | [[Juan Sebastian Molano]] | [[Juan Sebastian Molano]] |          |        |       | 3e - [[ Gerben Thijssen]] |
 | 2e  | [[Baptiste Veistroffer]]  | [[Baptiste Veistroffer]]  |          |        |       |                           |
-|     |                           |                           |          |        |       |                           |
+| 3e  | [[Mauro Schmid]]          | [[Mauro Schmid]]          |          |        |       | 24e - [[Niels Driesen]]   |
 |     |                           |                           |          |        |       |                           |
 ### Femmes
 #### Etapes 
