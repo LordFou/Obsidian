@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Escape from Ever After.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Worming From Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Escape from Ever After"
+              "title": "Worming From Home"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Escape",
+                "query": "Worming From Home",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,8 +207,13 @@
   },
   "active": "f7018f6941ec760a",
   "lastOpenFiles": [
-    "Hypetrain Digital.md",
+    "Mason Sabharwal.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Worming From Home.md",
+    "Zach Northrop.md",
+    "Loisirs/Jeux Vidéos/Périphériques/Arcade Stick.md",
+    "Attachments/image-315.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Escape from Ever After.md",
+    "Hypetrain Digital.md",
     "Wing-It! Creative.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Ride 6.md",
     "Attachments/image-314.webp",
@@ -234,14 +240,9 @@
     "Loisirs/Sport/Sportifs/Fran Vanhoutte.md",
     "Attachments/image-309.webp",
     "Loisirs/Sport/Sportifs/Isabelle van Elst.md",
-    "JO 2026.md",
-    "Jutta Leerdam.md",
-    "Max Langenham.md",
-    "Tanguy Nef.md",
     "Attachments/image-308.webp",
     "Attachments/image-307.webp",
     "Attachments/image-306.webp",
-    "Attachments/image-305.webp",
     "Loisirs/Tourisme",
     "Culture/Géographie",
     "Loisirs/Jeux Vidéos/Logiciels",
