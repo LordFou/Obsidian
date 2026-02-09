@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Dries Degrieck.md",
+                "file": "Loisirs/Sport/Sportifs/Bart Swings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dries Degrieck"
+              "title": "Bart Swings"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dries Degrieck",
+                "query": "Bart",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,12 +206,14 @@
   },
   "active": "f7018f6941ec760a",
   "lastOpenFiles": [
-    "Egan Bernal.md",
+    "Loisirs/Sport/Equipes/Belgian Linxes.md",
+    "JO 2026.md",
+    "Loisirs/Sport/Sportifs/Sky Remans.md",
     "Loisirs/Sport/Sportifs/Dries Degrieck.md",
+    "Egan Bernal.md",
     "Championnat National Colombien de Cyclisme.md",
     "Journal de bord/2026-02-09.md",
     "Tim Merlier.md",
-    "JO 2026.md",
     "conflict-files-obsidian-git.md",
     "WTA - Tournoi de Doha.md",
     "Three Bees.md",
@@ -231,8 +232,6 @@
     "Franjo von Allmen.md",
     "Francesca Lollobrigida.md",
     "Florent Claude.md",
-    "Firebird.md",
-    "Classique Bruges-La Panne.md",
     "Attachments/image-307.webp",
     "Attachments/image-306.webp",
     "Attachments/image-305.webp",
