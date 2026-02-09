@@ -1,11 +1,11 @@
 ---
 type: personne
 ---
-
+![[image-309.webp]]
 # Fran Vanhoutte
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  2003
 - **Nationalité** :  Belge
 - **Sport / Discipline** : [[Patinage de vitesse]] 
 - **Poste / Spécialité** (si applicable) :  
@@ -19,6 +19,8 @@ type: personne
 | 2026  | [[Championnat d'Europe de patinage de vitesse]] - 500m              | 9e       |                            |
 | 2026  | [[Championnat d'Europe de patinage de vitesse]] - Sprint par équipe | 2e       |                            |
 | 2026  | [[Championnat d'Europe de patinage de vitesse]] - Mass-start        | 2e       |                            |
+| 2026  | [[JO 2026]] - 1000m                                                 | 23e      |                            |
+|       |                                                                     |          |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
