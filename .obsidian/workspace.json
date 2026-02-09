@@ -11,10 +11,14 @@
             "id": "f7018f6941ec760a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Loisirs/Sport/Sportifs/Dries Degrieck.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Dries Degrieck"
             }
           }
         ]
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Dries Degrieck",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -128,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,8 +205,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c8ddbab28469fc36",
+  "active": "f7018f6941ec760a",
   "lastOpenFiles": [
+    "Egan Bernal.md",
+    "Loisirs/Sport/Sportifs/Dries Degrieck.md",
+    "Championnat National Colombien de Cyclisme.md",
     "Journal de bord/2026-02-09.md",
     "Tim Merlier.md",
     "JO 2026.md",
@@ -225,10 +233,7 @@
     "Florent Claude.md",
     "Firebird.md",
     "Classique Bruges-La Panne.md",
-    "Breezy Johnson.md",
-    "Baptiste Veistroffer.md",
     "Attachments/image-307.webp",
-    "Loisirs/Sport/Sportifs/Bart Swings.md",
     "Attachments/image-306.webp",
     "Attachments/image-305.webp",
     "Attachments/image-304.webp",
