@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Fran Vanhoutte.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Many Nights a Whisper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fran Vanhoutte"
+              "title": "Many Nights a Whisper"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Isabelle ",
+                "query": "Many Nights a Whisper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,9 +206,10 @@
   },
   "active": "f7018f6941ec760a",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Relooted.md",
+    "Loisirs/Sport/Sportifs/Fran Vanhoutte.md",
     "Attachments/image-309.webp",
     "Loisirs/Sport/Sportifs/Isabelle van Elst.md",
-    "Loisirs/Sport/Sportifs/Fran Vanhoutte.md",
     "JO 2026.md",
     "Jutta Leerdam.md",
     "Max Langenham.md",
@@ -241,7 +242,6 @@
     "Attachments/image-302.webp",
     "Attachments/image-301.webp",
     "Attachments/image-300.webp",
-    "Attachments/image-299.webp",
     "Loisirs/Tourisme",
     "Culture/Géographie",
     "Loisirs/Jeux Vidéos/Logiciels",

@@ -38,6 +38,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description           | URL                                                  |
+| --------------------- | ---------------------------------------------------- |
+| Article Point & Think | https://www.pointnthink.fr/fr/many-nights-a-whisper/ |
