@@ -14,7 +14,7 @@ type: game
 - **Plateformes** : [[PC]], [[Switch]], [[Playstation 5]]
 - **Franchise** : 
 - **Genre** : [[Plateforme]]
-- **Résumé** : 
+- **Résumé** : Vous guiderez une grenouille enjouée et munie d'une langue-grappin à travers des décors variés et colorés.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -34,6 +34,7 @@ type: game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[A Short Hike]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources

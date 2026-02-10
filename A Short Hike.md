@@ -2,18 +2,18 @@
 type: game
 ---
 
-# 2XKO
+# A Short Hike
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Riot]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Combat]], [[Free2Play]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/J9YltcB9LyM |
+| Description | URL |
+| ----------- | --- |
+|             |     |
