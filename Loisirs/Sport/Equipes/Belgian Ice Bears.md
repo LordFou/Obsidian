@@ -7,3 +7,4 @@ Equipe mixte de [[shorttrack]]
 | ----- | -------------------------- | -------- | ----------------------------------------------------------------------------- |
 | 2025  | [[JO 2026]] - Relais mixte | 3e 🥉    | [[Tineke den Dulk]]<br>[[Ward Petre]]<br>[[Hanne Desmet]]<br>[[Stijn Desmet]] |
 |       |                            |          |                                                                               |
+![[image-319.webp]]
