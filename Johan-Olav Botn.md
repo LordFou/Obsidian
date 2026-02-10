@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Johannes Klaebo
+# Johan-Olav Botn
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Norvégien
 - **Sport / Discipline** :  [[Ski]]
-- **Poste / Spécialité** (si applicable) :  [[Ski de fond]]
+- **Poste / Spécialité** (si applicable) :  [[Biathlon]]
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                        | Résultat | Remarque |
-| ----- | ---------------------------------- | -------- | -------- |
-| 2026  | [[JO 2026]] - Skiathlon            | 1ier     |          |
-| 2026  | [[JO 2026]] - Ski de fond - Sprint | 1ier     |          |
+| Année | Compétition            | Résultat | Remarque |
+| ----- | ---------------------- | -------- | -------- |
+| 2026  | [[JO 2026]] - Biathlon | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

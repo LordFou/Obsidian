@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-320.webp]]
 # Florent Claude
 
 # Informations Générales
@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                           | Résultat | Remarque                    |
 | ----- | ------------------------------------- | -------- | --------------------------- |
 | 2026  | [[JO 2026]] - Biathlon - Relais Mixte | 19e      | Avec les [[Belgian Linxes]] |
+| 2026  | [[JO 2026]] - Biathlon - Individuel   | 46e      |                             |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
