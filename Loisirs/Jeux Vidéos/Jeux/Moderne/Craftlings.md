@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-324.webp]]
 # Craftlings
 
 ## Informations Générales
@@ -10,15 +10,15 @@ type: game
 - **Développeur** : 
 	- Studio : [[ARIANO Games]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
+- **Éditeur** : [[ARIANO Games]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** :
-- **Résumé** : 
+- **Genre** : [[City-Builder]]
+- **Résumé** : City-builder un peu particulier : vu de côté, on y dirige des villageois un peu benêts qui ont la fâcheuse habitude d'avancer en ligne droite.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : [[Pixel Art]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- 7/10 (CheckPoint)
@@ -32,6 +32,8 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Kingdom]]
+	- [[Lemmings]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
