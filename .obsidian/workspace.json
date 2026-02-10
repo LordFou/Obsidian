@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Erlend Blikra.md",
+                "file": "Sport & Guerre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Erlend Blikra"
+              "title": "Sport & Guerre"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour d'o",
+                "query": "Guerre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,8 +207,8 @@
   },
   "active": "defb7ca7c76ab9bd",
   "lastOpenFiles": [
-    "Loisirs/Sport/Compétitions/Tour d'Oman.md",
     "Erlend Blikra.md",
+    "Loisirs/Sport/Compétitions/Tour d'Oman.md",
     "Johan-Olav Botn.md",
     "JO 2026.md",
     "Thierry Langer.md",
