@@ -8,9 +8,9 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Grasshopper Manufacture]], [[Suda51]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Grasshopper Manufacture]]
 - **Plateformes** : [[PC]], [[Xbox Series]], [[Playstation 5]]
 - **Franchise** : 
 	- **Genre** : [[Action]], [[Aventure]]
@@ -20,7 +20,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 6.5/10 (CheckPoint)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -28,6 +29,7 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Romeo Stargazer
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
@@ -37,6 +39,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                          |
+| ----------- | ---------------------------- |
+| Trailer     | https://youtu.be/ceog9nU0ucs |
