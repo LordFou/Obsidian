@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "afcf282f5e362c42",
+        "id": "4d81d32d011bf94e",
         "type": "tabs",
         "children": [
           {
-            "id": "110a9f81c4f645ef",
+            "id": "defb7ca7c76ab9bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-02-10.md",
+                "file": "Cian Uijtdebroeks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-10"
+              "title": "Cian Uijtdebroeks"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Perfect",
+                "query": " Cian Uijtdebroeks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,44 +205,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "110a9f81c4f645ef",
+  "active": "defb7ca7c76ab9bd",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Perfect Tides - Station to Station.md",
+    "Paris-Nice.md",
+    "Cian Uijtdebroeks.md",
+    "Alexander Blockx.md",
+    "Raphaël Collignon.md",
+    "ATP - Tournoi de Bruxelles.md",
+    "ATP - Challenger d’Orléans.md",
+    "David Goffin.md",
+    "ATP - Tournoi de Pau.md",
     "Journal de bord/2026-02-10.md",
-    "Three Bees.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Mewgenics.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dead Pets - A Punk Rock Slice Of Life Sim.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Action Fighter.md",
-    "Firebird.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Clue - Murder by Death.md",
-    "REANIMAL.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/High on Life.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Ride 6.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Disciples - Domination.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/ChromaGun 2 - Dye Hard.md",
-    "Mario Tennis Fever.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Heart of the Forest.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Romeo is a Dead Man.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Relooted.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Prisoning - Fletcher’s Quest.md",
-    "Raul Garcia Pierna.md",
-    "Loisirs/Sport/Compétitions/Tour de Valence.md",
-    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
-    "Loisirs/Sport/Sportifs/Niels Vandeputte.md",
-    "Loisirs/Sport/Compétitions/Etoile de Bessèges.md",
-    "Ewen Costiou.md",
-    "Red Panthers.md",
-    "Elise Mertens.md",
-    "Attachments/image-307.webp",
-    "Attachments/image-306.webp",
-    "Attachments/image-305.webp",
-    "Attachments/image-304.webp",
-    "Attachments/image-303.webp",
-    "Attachments/image-302.webp",
-    "Attachments/image-301.webp",
-    "Attachments/image-300.webp",
-    "Attachments/image-299.webp",
-    "Attachments/image-298.webp",
+    "conflict-files-obsidian-git.md",
+    "Loisirs/Jeux Vidéos/Musée/Computer History Museum.md",
+    "Loisirs/Jeux Vidéos/Musée",
+    "indie.io.md",
+    "enComplot.md",
+    "Zach Northrop.md",
+    "Wing-It! Creative.md",
+    "The Anglerfish Project.md",
+    "Tanguy Nef.md",
+    "Rêverie.md",
+    "Postmodern Adventures.md",
+    "Paula Ruiz.md",
+    "Naoki Hamaguchi.md",
+    "Monster Shop Games.md",
+    "Milestone.md",
+    "Max Langenham.md",
+    "Mauro Schmid.md",
+    "Mason Sabharwal.md",
+    "Attachments/image-318.webp",
+    "Attachments/image-317.webp",
+    "Attachments/image-316.webp",
+    "Attachments/image-315.webp",
+    "Attachments/image-314.webp",
+    "Attachments/image-313.webp",
+    "Attachments/image-312.webp",
+    "Attachments/image-311.webp",
+    "Attachments/image-310.webp",
+    "Attachments/image-309.webp",
     "Loisirs/Tourisme",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Culture/Géographie",

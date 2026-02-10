@@ -9,10 +9,13 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ## Informations Générales
 - **Nom complet** :  
-- **Date de création** :  
+- **Date de création** :  2013
 - **Fondateurs** :  
+	- [[Jordi de Paco]]
+	- [[Marina Gonzàles]]
+	- [[Paula Ruiz]] (“Fingerspit”)
 - **Personnalités** :
-- **Pays d’origine** :  
+- **Pays d’origine** :  Espagne
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -24,16 +27,20 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                     | Genre    | Plateformes           |
-| ----- | ------------------------- | -------- | --------------------- |
-| 2025  | [[Many Nights a Whisper]] | Narratif | PC, PS5, Xbox, Switch |
+| Année | Titre                            | Genre    | Plateformes           |
+| ----- | -------------------------------- | -------- | --------------------- |
+|       | [[Interview with the Whisperer]] |          |                       |
+|       | [[Gods will be watching]]        |          |                       |
+|       | [[The Red Strings Club]]         |          |                       |
+|       | [[The Cosmic Wheel Sisterhood]]  |          |                       |
+| 2025  | [[Many Nights a Whisper]]        | Narratif | PC, PS5, Xbox, Switch |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
 - Moteur 2
 
 ## Style et Influence
-Décrire le style graphique, les thématiques abordées, les influences notables.
+- Talent d’écriture et expériences narratives profondes et innovantes
 
 ## Succès et Récompenses
 Lister les prix, distinctions ou records obtenus.

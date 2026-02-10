@@ -6,10 +6,11 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2016
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
+		- [[Eric Barone]]
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 

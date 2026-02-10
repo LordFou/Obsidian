@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Milestone S.r.l.
+# Postmodern Adventures
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,9 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre        | Genre  | Plateformes |
-| ----- | ------------ | ------ | ----------- |
-| 2025  | [[Screamer]] | Course | PC          |
+| Année | Titre                        |
+| ----- | ---------------------------- |
+| 2026  | [[The Dark Rites of Arkham]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

@@ -8,9 +8,9 @@ type: game
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Milestone S.r.l.]]
+	- Studio : [[Milestone]]
 	- Personnalités : 
-- **Éditeur** : [[Milestone S.r.l.]]
+- **Éditeur** : [[Milestone]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** : [[Course]]

@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-318.webp]]
 # Unemployment Simulator 2018
 
 ## Informations Générales
@@ -16,7 +16,7 @@ type: game
 - **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Aventure]], [[Casual]], [[Simulation]]
-- **Résumé** : 
+- **Résumé** : Simulateur de chômage promet de vous faire vivre dépression et désœuvrement, en surveillant des jauges de dopamine, d'anxiété et de fatigue.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
