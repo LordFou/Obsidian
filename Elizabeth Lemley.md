@@ -5,7 +5,7 @@ type: personne
 # Elizabeth Lemley
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  2006
 - **Nationalité** :  Américaine
 - **Sport / Discipline** :  [[Ski]]
 - **Poste / Spécialité** (si applicable) :  [[Ski de bosse]]
