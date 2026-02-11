@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REANIMAL.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Airwolf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REANIMAL"
+              "title": "Airwolf"
             }
           }
         ],
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "REanimal",
+                "query": "Airwolf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,8 +223,10 @@
   },
   "active": "7c491e8fb9777dc1",
   "lastOpenFiles": [
-    "Ico.md",
+    "Amstrad CPC.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Airwolf.md",
     "REANIMAL.md",
+    "Ico.md",
     "Culture/Histoire/Films à (re)voir.md",
     "Elizabeth Lemley.md",
     "JO 2026.md",
@@ -253,8 +257,6 @@
     "Attachments/image-320.webp",
     "Attachments/image-319.webp",
     "Attachments/Pasted image 20260210224023.png",
-    "ATP - Tournoi de Pau.md",
-    "A Short Hike.md",
     "Loisirs/Jeux Vidéos/Musée",
     "Attachments/image-318.webp",
     "Attachments/image-317.webp",

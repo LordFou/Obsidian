@@ -24,7 +24,7 @@ type: game
 	- RTBF iXpé
 		- Montée en puissance très bien gérée
 		- A 2, c'est encore mieux
-		- 
+		- 8/10
 - **Gameplay** :
 - **Durée estimée** : 5-6h
 
