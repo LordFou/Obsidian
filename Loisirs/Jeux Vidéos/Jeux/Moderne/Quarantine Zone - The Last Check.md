@@ -1,19 +1,19 @@
 ---
 type: game
 ---
-![[image-32.webp|500x234]]
-# REANIMAL
+
+# Quarantine Zone - The Last Check
 
 ## Informations Générales
 
-- **Année de sortie** : 2026 
+- **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Tarsier Studio]]
+	- Studio : [[Brigada Games]]
 	- Personnalités : 
-- **Éditeur** : [[THQ Nordic]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
+- **Éditeur** : [[Brigada Games]], [[Devolver Digital]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Horreur]], [[Aventure]], [[Coopération]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -21,14 +21,9 @@ type: game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
-	- RTBF iXpé
-		- Montée en puissance très bien gérée
-		- A 2, c'est encore mieux
-		- 8/10
-	- CheckPoint : 7,5/10
-	- Canard PC : 8/10
+	- CheckPoint : 6.5/10
 - **Gameplay** :
-- **Durée estimée** : 3 à 5h
+- **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
@@ -39,12 +34,10 @@ type: game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
-	- [[Ico]] (Sentiment de vulnérabilité)
-	- [[Inside]] (Style)
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/ACZL7VziLS8 |
+| Trailer     | https://youtu.be/BMNt5u3oFYc |
