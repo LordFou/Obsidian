@@ -1,22 +1,21 @@
 ---
 type: personne
 ---
-![[image-331.webp]]
-# Mathias Vosté
+
+# Jordan Stolz
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
+- **Nationalité** :  Américain
 - **Sport / Discipline** :  [[Patinage de vitesse]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                            | Résultat | Remarque |
-| ----- | ---------------------------------------------------------------------- | -------- | -------- |
-| 2026  | [[Championnat d'Europe de patinage de vitesse\|Champ. Europe]] - 1500m | 13e      |          |
-| 2026  | [[JO 2026]] - 1000m                                                    | 17e      |          |
+| Année | Compétition                               | Résultat | Remarque                   |
+| ----- | ----------------------------------------- | -------- | -------------------------- |
+| 2026  | [[JO 2026]] - Patinage de vitesse - 1000m | 1ier     | 1:06.28 - Record Olympique |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
