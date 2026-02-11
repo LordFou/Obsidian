@@ -18,6 +18,7 @@ type: personne
 | 2024  | [[Tour du Rwanda]] - 4e étape                     | 1ier     |                            |
 | 2025  | [[Tour de République Tchèque]] - 2e étape         | 1ier     | :luc_plus: Maillot Général |
 | 2025  | [[Tour de République Tchèque]] - Classement Final | 1ier     |                            |
+|       |                                                   |          |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

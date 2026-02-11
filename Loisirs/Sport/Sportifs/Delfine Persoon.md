@@ -2,22 +2,20 @@
 type: personne
 ---
 
-# Christian Scaroni
+# Delfine Persoon
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Italien
-- **Sport / Discipline** : [[Cyclisme]] 
+- **Nationalité** :  Belge
+- **Sport / Discipline** : [[Boxe]] 
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Astana]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                        | Résultat | Remarque                 |
-| ----- | ---------------------------------- | -------- | ------------------------ |
-| 2025  | [[Tour d'Italie]] - 16e étape      | 1ier     | Grosse étape de montagne |
-| 2026  | [[Tour d'Oman]] - 5e étape         | 1ier     |                          |
-| 2026  | [[Tour d'Oman]] - Classement final | 1ier     |                          |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
