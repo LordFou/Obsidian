@@ -11,10 +11,14 @@
             "id": "13f77c7a5f4fd8ba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Journal de bord/2026-02-11.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "2026-02-11"
             }
           }
         ]
@@ -202,6 +206,7 @@
   },
   "active": "13f77c7a5f4fd8ba",
   "lastOpenFiles": [
+    "Journal de bord/2026-02-11.md",
     "Final Fantasy VII - Remake.md",
     "Naoki Hamaguchi.md",
     "Franchise Final Fantasy.md",
@@ -232,7 +237,6 @@
     "Attachments/image-315.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Escape from Ever After.md",
     "Hypetrain Digital.md",
-    "Wing-It! Creative.md",
     "Attachments/image-314.webp",
     "Attachments/image-313.webp",
     "Attachments/image-312.webp",
