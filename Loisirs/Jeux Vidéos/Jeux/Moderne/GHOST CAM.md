@@ -8,7 +8,7 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[ARCH REBELS]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : [[PC]], [[Meta Quest]]
