@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Airwolf
+# Fort Apocalypse
 
 ## Informations Générales
 
@@ -11,7 +11,7 @@ type: game
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[Amstrad CPC]]
+- **Plateformes** : [[Commodore 64]]
 - **Franchise** : 
 - **Genre** :
 - **Résumé** : 
@@ -20,10 +20,7 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- Génération Micro : 
-		- Une belle bouse ^^
-		- Très difficile
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -33,11 +30,9 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- [[Hélicoptère]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
-	- [[Fort Apocalypse]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
