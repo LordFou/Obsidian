@@ -1,27 +1,26 @@
 ---
 type: game
 ---
-
-# Romeo is a Dead Man
+![[image-323.webp]]
+# Hank - Drowning On Dry Land
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Grasshopper Manufacture]], [[Suda51]]
+	- Studio : [[My Next Games]]
 	- Personnalités : 
-- **Éditeur** : [[Grasshopper Manufacture]]
-- **Plateformes** : [[PC]], [[Xbox Series]], [[Playstation 5]]
+- **Éditeur** : 
+- **Plateformes** : 
 - **Franchise** : 
-	- **Genre** : [[Action]], [[Aventure]]
+- **Genre** : ?
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : Style Comics
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 6.5/10 (CheckPoint)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -29,7 +28,6 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
-	- Romeo Stargazer
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
@@ -39,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/ceog9nU0ucs |
+| Description | URL |
+| ----------- | --- |
+|             |     |

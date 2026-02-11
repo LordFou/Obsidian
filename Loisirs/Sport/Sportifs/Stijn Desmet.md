@@ -13,9 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                              | Résultat        | Remarque |
-| ----- | ---------------------------------------- | --------------- | -------- |
-| 2025  | Coupe du Monde - Gdansk (Pologne) - 500m | Quart de finale |          |
+| Année | Compétition                              | Résultat        | Remarque              |
+| ----- | ---------------------------------------- | --------------- | --------------------- |
+| 2025  | Coupe du Monde - Gdansk (Pologne) - 500m | Quart de finale |                       |
+| 2026  | [[JO 2026]] - Relais Mixte               | 3e 🥉           | [[Belgian Ice Bears]] |
+|       |                                          |                 |                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

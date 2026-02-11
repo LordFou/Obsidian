@@ -24,9 +24,10 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre          | Genre           | Plateformes           |
-| ----- | -------------- | --------------- | --------------------- |
-| 2025  | [[Darkwood 2]] | Survival Horror | PC, PS5, Xbox, Switch |
+| Année | Titre            | Genre           | Plateformes           |
+| ----- | ---------------- | --------------- | --------------------- |
+| 2025  | [[Darkwood 2]]   | Survival Horror | PC, PS5, Xbox, Switch |
+| 2026  | [[Pathologic 3]] | Horreur         |                       |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

@@ -11,12 +11,12 @@ type: event
 ### Hommes
 #### Etapes 
 
-|     | Vainqueur                 | Général                   | Montagne | Points | Jeune | Remarques                 |
-| --- | ------------------------- | ------------------------- | -------- | ------ | ----- | ------------------------- |
-| 1e  | [[Juan Sebastian Molano]] | [[Juan Sebastian Molano]] |          |        |       | 3e - [[ Gerben Thijssen]] |
-| 2e  | [[Baptiste Veistroffer]]  | [[Baptiste Veistroffer]]  |          |        |       |                           |
-| 3e  | [[Mauro Schmid]]          | [[Mauro Schmid]]          |          |        |       | 24e - [[Niels Driesen]]   |
-|     |                           |                           |          |        |       |                           |
+|     | Vainqueur                 | Général                   | Montagne | Points | Jeune | Remarques                        |
+| --- | ------------------------- | ------------------------- | -------- | ------ | ----- | -------------------------------- |
+| 1e  | [[Juan Sebastian Molano]] | [[Juan Sebastian Molano]] |          |        |       | 3e - [[ Gerben Thijssen]]        |
+| 2e  | [[Baptiste Veistroffer]]  | [[Baptiste Veistroffer]]  |          |        |       |                                  |
+| 3e  | [[Mauro Schmid]]          | [[Mauro Schmid]]          |          |        |       | 24e - [[Niels Driesen]]          |
+| 4e  | [[Erlend Blikra]]         | [[Mauro Schmid]]          |          |        |       | Sprint<br>8e - [[Amaury Capiot]] |
 ### Femmes
 #### Etapes 
 

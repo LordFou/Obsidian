@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# ARIANO Games Gmbh
+# Sandstorm Studio Inc.
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,9 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre          |
-| ----- | -------------- |
-| 2026  | [[Craftlings]] |
+| Année | Titre            |
+| ----- | ---------------- |
+| 2026  | [[Rising Front]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

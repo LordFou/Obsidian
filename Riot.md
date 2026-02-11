@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# ARIANO Games Gmbh
+# Riot
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -18,15 +18,15 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
-content:
+date: Février 2026 
+title: Essorage du personnel
+content: 3 semaines après la sortie de [[2XKO]], Riot a décidé de virer 80 personnes
 ```
 
 ## Jeux Développés
-| Année | Titre          |
-| ----- | -------------- |
-| 2026  | [[Craftlings]] |
+| Année | Titre    |
+| ----- | -------- |
+| 2026  | [[2XKO]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

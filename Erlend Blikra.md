@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Johannes Klaebo
+# Erlend Blikra
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Norvégien
-- **Sport / Discipline** :  [[Ski]]
-- **Poste / Spécialité** (si applicable) :  [[Ski de fond]]
-- **Équipe(s) / Club(s)** :  
+- **Sport / Discipline** :  [[Cyclisme]]
+- **Poste / Spécialité** (si applicable) :  
+- **Équipe(s) / Club(s)** :  [[Uno-x]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                        | Résultat | Remarque |
-| ----- | ---------------------------------- | -------- | -------- |
-| 2026  | [[JO 2026]] - Skiathlon            | 1ier     |          |
-| 2026  | [[JO 2026]] - Ski de fond - Sprint | 1ier     |          |
+| Année | Compétition                | Résultat | Remarque |
+| ----- | -------------------------- | -------- | -------- |
+| 2026  | [[Tour d'Oman]] - 4e étape | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

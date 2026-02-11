@@ -2,26 +2,25 @@
 type: game
 ---
 
-# Romeo is a Dead Man
+# Anthem
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Grasshopper Manufacture]], [[Suda51]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Grasshopper Manufacture]]
-- **Plateformes** : [[PC]], [[Xbox Series]], [[Playstation 5]]
+- **Éditeur** : 
+- **Plateformes** : 
 - **Franchise** : 
-	- **Genre** : [[Action]], [[Aventure]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 6.5/10 (CheckPoint)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -29,16 +28,15 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
-	- Romeo Stargazer
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- [[Mort d'un jeu vidéo]] => Coupure des serveurs en février 2026
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/ceog9nU0ucs |
+| Description | URL |
+| ----------- | --- |
+|             |     |
