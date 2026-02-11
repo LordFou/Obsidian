@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-327.webp]]
 # Christian Scaroni
 
 # Informations Générales

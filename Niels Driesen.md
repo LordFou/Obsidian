@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Tanguy Nef
+# Niels Driesen
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Nationalité** : Belge
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Lotto-Intermarché]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                   | Résultat | Remarque                   |
-| ----- | --------------------------------------------- | -------- | -------------------------- |
-| 2026  | [[JO 2026]] - Combiné de ski alpin par équipe | 1ier<br> | avec [[Franjo von Allmen]] |
-|       |                                               |          |                            |
+| Année | Compétition                        | Résultat | Remarque |
+| ----- | ---------------------------------- | -------- | -------- |
+| 2026  | [[Tour d'Oman]] - Classement final | 15e      |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

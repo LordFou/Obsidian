@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-328.webp]]
 # Maya Cloetens
 
 # Informations Générales

@@ -5,7 +5,7 @@ type: personne
 # Franjo von Allmen
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  2001
 - **Nationalité** :  Suisse
 - **Sport / Discipline** :  [[Ski]]
 - **Poste / Spécialité** (si applicable) :  
@@ -13,9 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition            | Résultat | Remarque |
-| ----- | ---------------------- | -------- | -------- |
-| 2026  | [[JO 2026]] - Descente | 1ier     |          |
+| Année | Compétition                                   | Résultat | Remarque            |
+| ----- | --------------------------------------------- | -------- | ------------------- |
+| 2026  | [[JO 2026]] - Descente                        | 1ier     |                     |
+| 2026  | [[JO 2026]] - Combiné de ski alpin par équipe | 1ier<br> | avec [[Tanguy Nef]] |
+| 2026  | [[JO 2026]] - Super G                         | 1ier     |                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
