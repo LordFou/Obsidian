@@ -11,7 +11,8 @@
 
 # Outils
 - https://2025.gamesrecap.io/
-	- https://fromsmash.com/fr => transfert de fichiers
+- https://fromsmash.com/fr => transfert de fichiers
+- https://flourish.studio/pricing/ => créer une ligne du temps ou un tableau
 
 # Effet Streisand - Cheh !
 - https://bsky.app/profile/daronyoshi.ca/post/3lqtzwhupfc2d

@@ -13,16 +13,22 @@ type: game
 - **Éditeur** : [[THQ Nordic]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
 - **Franchise** : 
-- **Genre** : [[Horreur]], [[Aventure]]
+- **Genre** : [[Horreur]], [[Aventure]], [[Coopération]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- RTBF iXpé
+		- Montée en puissance très bien gérée
+		- A 2, c'est encore mieux
+		- 8/10
+	- CheckPoint : 7,5/10
+	- Canard PC : 8/10
 - **Gameplay** :
-- **Durée estimée** : 
+- **Durée estimée** : 3 à 5h
 
 ## Histoire et Univers
 - **Lieu(x)** : 
@@ -33,6 +39,8 @@ type: game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[Ico]] (Sentiment de vulnérabilité)
+	- [[Inside]] (Style)
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources

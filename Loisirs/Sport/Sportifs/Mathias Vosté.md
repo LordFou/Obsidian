@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-331.webp]]
 # Mathias Vosté
 
 # Informations Générales
@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                             | Résultat | Remarque |
-| ----- | ------------------------------------------------------- | -------- | -------- |
-| 2026  | [[Championnat d'Europe de patinage de vitesse]] - 1500m | 13e      |          |
+| Année | Compétition                                                            | Résultat | Remarque |
+| ----- | ---------------------------------------------------------------------- | -------- | -------- |
+| 2026  | [[Championnat d'Europe de patinage de vitesse\|Champ. Europe]] - 1500m | 13e      |          |
+| 2026  | [[JO 2026]] - 1000m                                                    | 17e      |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

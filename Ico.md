@@ -2,18 +2,18 @@
 type: game
 ---
 
-# GHOST CAM
+# Ico
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 2003
 - **Développeur** : 
-	- Studio : [[ARCH REBELS]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]], [[Meta Quest]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Horreur]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/fDg0OdIzndQ |
+| Description | URL |
+| ----------- | --- |
+|             |     |

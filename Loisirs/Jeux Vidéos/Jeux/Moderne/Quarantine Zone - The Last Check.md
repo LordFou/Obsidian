@@ -2,25 +2,26 @@
 type: game
 ---
 
-# GHOST CAM
+# Quarantine Zone - The Last Check
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[ARCH REBELS]]
+	- Studio : [[Brigada Games]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : [[PC]], [[Meta Quest]]
+- **Éditeur** : [[Brigada Games]], [[Devolver Digital]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Horreur]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- CheckPoint : 6.5/10
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -39,4 +40,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/fDg0OdIzndQ |
+| Trailer     | https://youtu.be/BMNt5u3oFYc |

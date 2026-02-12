@@ -1,8 +1,8 @@
 ---
 type: personne
 ---
-
-# Tanguy Nef
+![[image-326.webp]]
+# Marin Cilic
 
 # Informations Générales
 - **Date de naissance** :  
@@ -13,16 +13,15 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                   | Résultat | Remarque                   |
-| ----- | --------------------------------------------- | -------- | -------------------------- |
-| 2026  | [[JO 2026]] - Combiné de ski alpin par équipe | 1ier<br> | avec [[Franjo von Allmen]] |
-|       |                                               |          |                            |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- 600 victoire en WTA
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

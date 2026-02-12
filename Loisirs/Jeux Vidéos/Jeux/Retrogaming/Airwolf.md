@@ -2,25 +2,28 @@
 type: game
 ---
 
-# GHOST CAM
+# Airwolf
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[ARCH REBELS]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]], [[Meta Quest]]
+- **Plateformes** : [[Amstrad CPC]]
 - **Franchise** : 
-- **Genre** : [[Horreur]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Génération Micro : 
+		- Une belle bouse ^^
+		- Très difficile
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -30,13 +33,15 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Hélicoptère]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[Fort Apocalypse]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/fDg0OdIzndQ |
+| Description | URL |
+| ----------- | --- |
+|             |     |

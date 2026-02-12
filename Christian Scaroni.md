@@ -1,21 +1,23 @@
 ---
 type: personne
 ---
-
+![[image-327.webp]]
 # Christian Scaroni
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Nationalité** :  Italien
+- **Sport / Discipline** : [[Cyclisme]] 
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Astana]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                   | Résultat | Remarque                 |
-| ----- | ----------------------------- | -------- | ------------------------ |
-| 2025  | [[Tour d'Italie]] - 16e étape | 1ier     | Grosse étape de montagne |
+| Année | Compétition                        | Résultat | Remarque                 |
+| ----- | ---------------------------------- | -------- | ------------------------ |
+| 2025  | [[Tour d'Italie]] - 16e étape      | 1ier     | Grosse étape de montagne |
+| 2026  | [[Tour d'Oman]] - 5e étape         | 1ier     |                          |
+| 2026  | [[Tour d'Oman]] - Classement final | 1ier     |                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

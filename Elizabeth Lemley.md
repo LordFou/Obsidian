@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Tanguy Nef
+# Elizabeth Lemley
 
 # Informations Générales
-- **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
-- **Poste / Spécialité** (si applicable) :  
+- **Date de naissance** :  2006
+- **Nationalité** :  Américaine
+- **Sport / Discipline** :  [[Ski]]
+- **Poste / Spécialité** (si applicable) :  [[Ski de bosse]]
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                   | Résultat | Remarque                   |
-| ----- | --------------------------------------------- | -------- | -------------------------- |
-| 2026  | [[JO 2026]] - Combiné de ski alpin par équipe | 1ier<br> | avec [[Franjo von Allmen]] |
-|       |                                               |          |                            |
+| Année | Compétition                        | Résultat | Remarque |
+| ----- | ---------------------------------- | -------- | -------- |
+| 2026  | [[JO 2026]] - Ski Freestyle bosses | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
