@@ -15,7 +15,8 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition         | Résultat | Remarque |
 | ----- | ------------------- | -------- | -------- |
-| 2026  | [[JO 2026]] - 3000m | 1ier     |          |
+| 2026  | [[JO 2026]] - 3000m | 1ière    |          |
+| 2026  | [[JO 2026]] - 5000m | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

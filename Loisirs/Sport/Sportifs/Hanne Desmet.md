@@ -19,6 +19,7 @@ type: personne
 | 2025  | Coupe du Monde - Gdansk (Pologne) - 1000m     | 1ière    |                       |
 | 2026  | [[JO 2026]] - Porte Drapeau                   |          |                       |
 | 2026  | [[JO 2026]] - Relais Mixte                    | 3e 🥉    | [[Belgian Ice Bears]] |
+| 2026  |                                               |          |                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

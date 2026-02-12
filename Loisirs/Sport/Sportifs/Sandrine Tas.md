@@ -13,19 +13,21 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                         | Résultat | Remarque |
-| ----- | ------------------------------------------------------------------- | -------- | -------- |
-| 2026  | [[Championnat d'Europe de patinage de vitesse]] - 3000m             | 2e       |          |
-| 2026  | [[Championnat d'Europe de patinage de vitesse]] - Sprint par équipe | 2e       |          |
-| 2026  | [[JO 2026]] - 3000m                                                 | 7e       |          |
-| 2026  | [[JO 2026]] - 5000m                                                 |          |          |
-| 2026  | [[JO 2026]] - Mass Start                                            |          |          |
+| Année | Compétition                                                         | Résultat | Remarque                                                   |
+| ----- | ------------------------------------------------------------------- | -------- | ---------------------------------------------------------- |
+| 2026  | [[Championnat d'Europe de patinage de vitesse]] - 3000m             | 2e       |                                                            |
+| 2026  | [[Championnat d'Europe de patinage de vitesse]] - Sprint par équipe | 2e       |                                                            |
+| 2026  | [[JO 2026]] - 3000m                                                 | 7e       |                                                            |
+| 2026  | [[JO 2026]] - 5000m                                                 | 4e       | Meilleur perf belge au JO<br>Record de Belgique => 6:46.47 |
+| 2026  | [[JO 2026]] - Mass Start                                            |          |                                                            |
+|       |                                                                     |          |                                                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Record de Belgique
+	- 5000m => 6:46.47
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
