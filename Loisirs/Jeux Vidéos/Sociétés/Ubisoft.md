@@ -45,6 +45,7 @@ Lister les prix, distinctions ou records obtenus.
 	- Ils veulent virer 55 personnes de Massive Entertainment et Ubisoft Stockholm
 	- 29 personnes ont été licenciés à Abu Dhabi
 	- Une grève de 3 jours est enclenchée
+	  ![[image-335.webp]]
 
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.

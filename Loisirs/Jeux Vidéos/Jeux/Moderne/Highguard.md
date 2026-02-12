@@ -8,7 +8,7 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Respawn]]
+	- Studio : [[Respawn]], [[Wildlight]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
@@ -34,7 +34,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- 14 jours après sa sortie, la plupart de l'équipe des développeurs est virée par [[Wildlight]]
 ## Liens et Ressources
 
 | Description | URL                          |
