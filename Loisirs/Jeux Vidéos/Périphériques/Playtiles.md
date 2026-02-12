@@ -1,7 +1,7 @@
 ---
 type: matos
 ---
-
+![[image-333.webp]]
 # Playtiles
 
 ## Informations principales
@@ -24,3 +24,5 @@ Ce petit dispositif est une petite plaque en plastique avec une croix directionn
 
 ## Liens connexes
 - [Page Wikipédia](https://wikipedia.org)
+
+![[image-334.webp]]

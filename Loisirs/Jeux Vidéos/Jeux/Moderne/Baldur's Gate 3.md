@@ -13,7 +13,7 @@ type: game
 		- [[Amelia Tyler]] (Doublage)
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise Baldur's Gate]]
 - **Genre** :
 - **Résumé** : 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Périphériques/Playtiles.md",
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Ubisoft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Playtiles"
+              "title": "Ubisoft"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Playtiles",
+                "query": "Ubiso",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,8 +207,13 @@
   },
   "active": "dc7800529d57cbbe",
   "lastOpenFiles": [
-    "Loisirs/Sport/Sportifs/Hanne Desmet.md",
+    "Franchise Baldur's Gate.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Baldur's Gate 3.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Highguard.md",
     "Loisirs/Jeux Vidéos/Périphériques/Playtiles.md",
+    "Attachments/image-334.webp",
+    "Attachments/image-333.webp",
+    "Loisirs/Sport/Sportifs/Hanne Desmet.md",
     "JO 2026.md",
     "Francesca Lollobrigida.md",
     "Loisirs/Sport/Sportifs/Sandrine Tas.md",
@@ -229,9 +235,6 @@
     "Journal de bord/2026-02-11.md",
     "Ico.md",
     "Fort Apocalypse.md",
-    "Elizabeth Lemley.md",
-    "Commodore 64.md",
-    "Brigada Games.md",
     "Attachments/image-332.webp",
     "Attachments/image-331.webp",
     "Attachments/image-330.webp",
@@ -240,8 +243,6 @@
     "Attachments/image-327.webp",
     "Attachments/image-326.webp",
     "Attachments/image-325.webp",
-    "Attachments/image-324.webp",
-    "Attachments/Pasted image 20260210224023.png",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",

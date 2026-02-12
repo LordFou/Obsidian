@@ -1,0 +1,41 @@
+---
+type: game
+---
+
+# Franchise Baldur's Gate
+
+
+## Informations générales
+- Créateur(s) : {{Nom du ou des créateurs}}
+- Développeur(s) : {{Studio(s) de développement}}
+- Éditeur(s) : {{Nom de l’éditeur}}
+- Première apparition : {{Nom du premier jeu (année)}}
+- Genre principal : {{Stratégie, Action-Aventure, FPS...}}
+
+## Résumé et historique
+{{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
+
+```timeline-labeled
+[line-5, body-2]
+date:  
+title: 
+content:
+```
+## Jeux principaux
+| Titre | Année | Plateformes | Remarque |
+| ----- | ----- | ----------- | -------- |
+|       |       |             |          |
+
+
+## Mécaniques et innovations
+{{Description des éléments de gameplay marquants, des innovations techniques et de ce qui rend la franchise unique.}}
+
+## Réception et héritage
+{{Analyse de la réception critique et populaire, ventes, influence sur d’autres jeux, adaptations en films, séries, livres...}}
+
+## Anecdotes
+- Une **série Baldur's Gate** est en développement chez HBO. Le projet serait entre les mains de [[Craig Mazin]], créateur de la formidable série [[Chernobyl]] et co-créateur de la non moins formidable série [[The Last of Us]].
+
+## Liens connexes
+- [[Lien vers une autre note]] (ex: un jeu spécifique, un développeur)
+- [Page Wikipédia](https://wikipedia.org)
