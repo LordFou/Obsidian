@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/The Irony.md",
+                "file": "Journal de bord/2026-02-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Irony"
+              "title": "2026-02-14"
             }
           }
         ]
@@ -205,10 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "dc7800529d57cbbe",
   "lastOpenFiles": [
-    "Journal de bord/2026-02-13.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Irony.md",
+    "Journal de bord/2026-02-14.md",
+    "Journal de bord/2026-02-13.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Highguard.md",
     "Wildlight.md",
     "Loisirs/Jeux Vidéos/Sociétés/Ubisoft.md",
@@ -235,7 +236,6 @@
     "Loisirs/Sport/Sportifs/Marin Cilic.md",
     "Loisirs/Sport/Sportifs/Jordan Stolz.md",
     "Loisirs/Sport/Sportifs/Delfine Persoon.md",
-    "Loisirs/Sport/Rallye de Suède.md",
     "Attachments/image-332.webp",
     "Attachments/image-331.webp",
     "Attachments/image-330.webp",
