@@ -22,7 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
-- **Durée estimée** : 
+- **Durée estimée** : 7-8h
 
 ## Histoire et Univers
 - **Lieu(x)** : 
@@ -31,6 +31,7 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Lovecraft]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

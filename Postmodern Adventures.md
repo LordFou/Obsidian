@@ -12,7 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  
+- **Pays d’origine** :  Espagne
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -27,8 +27,8 @@ content:
 | Année | Titre                        |
 | ----- | ---------------------------- |
 | 2026  | [[The Dark Rites of Arkham]] |
-|       |                              |
-|       |                              |
+| 2024  |                              |
+| 2022  |                              |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
