@@ -2,21 +2,21 @@
 type: personne
 ---
 
-# Francesca Lollobrigida
+# Federica Brignone
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** : Italienne
-- **Sport / Discipline** : [[Patinage de vitesse]] 
-- **Poste / Spécialité** (si applicable) :  
+- **Nationalité** :  Italienne
+- **Sport / Discipline** :  Ski
+- **Poste / Spécialité** (si applicable) :  Super G
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition         | Résultat | Remarque |
-| ----- | ------------------- | -------- | -------- |
-| 2026  | [[JO 2026]] - 3000m | 1ière    |          |
-| 2026  | [[JO 2026]] - 5000m | 1ière    |          |
+| Année | Compétition | Résultat | Remarque |
+| ----- | ----------- | -------- | -------- |
+| 2026  | [[JO 2026]] | 1ière    |          |
+|       |             |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

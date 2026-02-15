@@ -13,12 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                   | Résultat | Remarque              |
-| ----- | --------------------------------------------- | -------- | --------------------- |
-| 2025  | Coupe du Monde - Dordrecht (Pays-Bas) - 1000m | 3e       |                       |
-| 2025  | Coupe du Monde - Gdansk (Pologne) - 1000m     | 1ière    |                       |
-| 2026  | [[JO 2026]] - Porte Drapeau                   |          |                       |
-| 2026  | [[JO 2026]] - Relais Mixte                    | 3e 🥉    | [[Belgian Ice Bears]] |
+| Année | Compétition                                    | Résultat   | Remarque              |
+| ----- | ---------------------------------------------- | ---------- | --------------------- |
+| 2025  | Coupe du Monde - Dordrecht (Pays-Bas) - 1000m  | 3e         |                       |
+| 2025  | Coupe du Monde - Gdansk (Pologne) - 1000m      | 1ière      |                       |
+| 2026  | [[JO 2026]] - Porte Drapeau                    |            |                       |
+| 2026  | [[JO 2026]] - Relais Mixte                     | 3e 🥉      | [[Belgian Ice Bears]] |
+| 2026  | [[JO 2026]] - Patinage de vitesse - Shorttrack | 1/4 finale |                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

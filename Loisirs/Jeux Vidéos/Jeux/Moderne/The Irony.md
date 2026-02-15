@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Highguard
+# The Irony
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 2027 (?)
 - **Développeur** : 
-	- Studio : [[Respawn]], [[Wildlight]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action]], [[FPS]], [[Free2Play]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -34,9 +34,9 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 14 jours après sa sortie, la plupart de l'équipe des développeurs est virée par [[Wildlight]]
+- 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/y_6tjMvckZ0 |
+| Description | URL |
+| ----------- | --- |
+|             |     |
