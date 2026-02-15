@@ -27,6 +27,8 @@ content:
 | Année | Titre                        |
 | ----- | ---------------------------- |
 | 2026  | [[The Dark Rites of Arkham]] |
+|       |                              |
+|       |                              |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

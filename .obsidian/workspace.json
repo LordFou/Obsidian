@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Menace.md",
+                "file": "La grande dépression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Menace"
+              "title": "La grande dépression"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "menace",
+                "query": "The Dar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,9 +206,12 @@
   },
   "active": "5e52442902e1ac19",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Dark Rites of Arkham.md",
+    "La grande dépression.md",
+    "Postmodern Adventures.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Menace.md",
     "Overhype Studios.md",
     "Battle Brothers.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Menace.md",
     "conflict-files-obsidian-git.md",
     "Journal de bord/2026-02-15.md",
     "Wildlight.md",
@@ -234,9 +236,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Kejora.md",
     "Soft Source.md",
     "Berangin Creative.md",
-    "Brigada Games.md",
-    "REANIMAL.md",
-    "ATP - Tournoi de Pau.md",
     "Attachments/image-331.webp",
     "Attachments/image-330.webp",
     "Attachments/image-329.webp",

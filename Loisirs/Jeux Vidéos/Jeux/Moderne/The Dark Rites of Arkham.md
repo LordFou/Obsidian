@@ -27,6 +27,7 @@ type: game
 ## Histoire et Univers
 - **Lieu(x)** : 
 - **Epoque** : 
+	- [[La grande dépression]]
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
