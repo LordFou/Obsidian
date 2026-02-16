@@ -2,21 +2,21 @@
 type: personne
 ---
 
-# Pieter Devos
+# Metodej Jilek
 
 # Informations Générales
-- **Date de naissance** :  
-- **Nationalité** : Belge
-- **Sport / Discipline** : [[Equitation]]  
+- **Date de naissance** :  2006
+- **Nationalité** :  Tchèque
+- **Sport / Discipline** :  [[Patinage de vitesse]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                 | Résultat | Remarque |
-| ----- | ------------------------------------------- | -------- | -------- |
-| 2025  | Grand Prix de la Corogne - Concours de saut | 1ier     |          |
-| 2026  | Grand Prix de Doha - Concours de saut       | 3e       |          |
+| Année | Compétition           | Résultat | Remarque |
+| ----- | --------------------- | -------- | -------- |
+| 2026  | [[JO 2026]] - 5000m   | 2e       |          |
+| 2026  | [[JO 2026]] - 10 000m | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
