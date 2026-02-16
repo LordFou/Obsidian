@@ -2,11 +2,11 @@
 type: personne
 ---
 
-# Maren Kirkeeide
+# Eve Bouvard
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Norvégienne
+- **Nationalité** :  Belge
 - **Sport / Discipline** :  [[Ski]]
 - **Poste / Spécialité** (si applicable) :  [[Biathlon]]
 - **Équipe(s) / Club(s)** :  
@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                     | Résultat | Remarque |
 | ----- | ------------------------------- | -------- | -------- |
-| 2026  | [[JO 2026]] - Biathlon - Sprint | 1ier     |          |
+| 2026  | [[JO 2026]] - Biathlon - Sprint | 74e      |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

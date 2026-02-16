@@ -20,6 +20,7 @@ type: personne
 | 2026  | Exact Cross de Maldegem                  | 1ier     |          |
 | 2026  | [[Superprestige]] - Classement final     | 1ier     |          |
 | 2026  | Trophée X2O - 7e manche - Cross de Lille | 1ier     |          |
+| 2026  | Exact Cross de Saint-Nicolas             | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

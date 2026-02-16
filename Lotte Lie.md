@@ -17,6 +17,7 @@ type: personne
 | ----- | ------------------------------------- | -------- | ----------------------------------- |
 | 2026  | [[JO 2026]] - Biathlon - Relais Mixte | 19e      | Avec les [[Belgian Linxes]]         |
 | 2026  | [[JO 2026]] - Biathlon                | 19e      | Meilleur résultat belge en biathlon |
+| 2026  | [[JO 2026]] - Biathlon - Sprint       | 39e      |                                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
