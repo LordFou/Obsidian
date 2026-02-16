@@ -19,8 +19,8 @@ type: personne
 | 2026  | [[Championnat d'Europe de patinage de vitesse]] - 500m              | 9e       |                            |
 | 2026  | [[Championnat d'Europe de patinage de vitesse]] - Sprint par équipe | 2e       |                            |
 | 2026  | [[Championnat d'Europe de patinage de vitesse]] - Mass-start        | 2e       |                            |
-| 2026  | [[JO 2026]] - 1000m                                                 | 23e      |                            |
-|       |                                                                     |          |                            |
+| 2026  | [[JO 2026]] - Patinage de vitesse - 1000m                           | 23e      |                            |
+| 2026  | [[JO 2026]] - Patinage de vitesse - 500m                            | 23e      |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
