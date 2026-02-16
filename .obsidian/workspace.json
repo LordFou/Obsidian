@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sam Maes.md",
+                "file": "Tim Wellens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sam Maes"
+              "title": "Tim Wellens"
             }
           }
         ]
@@ -186,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,8 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2066e9a3d214d366",
+  "active": "4642048edb23d37c",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Clasica Jaen.md",
+    "Sam Maes.md",
     "Loisirs/Sport/Sportifs/Hanne Desmet.md",
     "Ilan Van Wilder.md",
     "Loisirs/Sport/Compétitions/UAE Tour.md",
@@ -231,8 +232,6 @@
     "Jeline Vandromme.md",
     "ITF - Tournoi de Grenoble.md",
     "Loisirs/Sport/Sportifs/Evy Poppe.md",
-    "Demi Vollering.md",
-    "Loisirs/Sport/Compétitions/Tour de Valence.md",
     "Attachments/image-338.webp",
     "Attachments/image-337.webp",
     "Attachments/image-336.webp",
