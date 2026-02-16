@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pieter",
+                "query": "JO 2022",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,10 +206,15 @@
   },
   "active": "4642048edb23d37c",
   "lastOpenFiles": [
+    "Ayumu Hirano.md",
+    "Loisirs/Sport/Compétitions/JO 2022.md",
+    "JO 2026.md",
+    "Yuto Totsuka.md",
+    "Kira Kimura.md",
+    "Kokomo Murase.md",
     "Loisirs/Sport/Sportifs/Pieter Devos.md",
     "Loisirs/Sport/Sportifs/Kim Meylemans.md",
     "Metodej Jilek.md",
-    "JO 2026.md",
     "Loisirs/Sport/Sportifs/Bart Swings.md",
     "Thierry Langer.md",
     "Loisirs/Sport/Sportifs/Quentin Fillon Maillet.md",
@@ -230,11 +234,6 @@
     "La grande dépression.md",
     "Postmodern Adventures.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Dark Rites of Arkham.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Menace.md",
-    "Journal de bord/2026-02-14.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Irony.md",
-    "Journal de bord/2026-02-13.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Highguard.md",
     "Attachments/image-335.webp",
     "Attachments/image-334.webp",
     "Attachments/image-333.webp",
