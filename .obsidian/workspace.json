@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JO 2026.md",
+                "file": "Maren Kirkeeide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JO 2026"
+              "title": "Maren Kirkeeide"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "JO 2022",
+                "query": "Sam maes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,9 +208,15 @@
   },
   "active": "4642048edb23d37c",
   "lastOpenFiles": [
+    "JO 2026.md",
+    "Maren Kirkeeide.md",
+    "Sam Maes.md",
+    "Lucas Pinheiro Braathen.md",
+    "Mikhail Shaidorov.md",
+    "Justin Verboomen.md",
+    "Larissa Pauluis.md",
     "Ayumu Hirano.md",
     "Loisirs/Sport/Compétitions/JO 2022.md",
-    "JO 2026.md",
     "Yuto Totsuka.md",
     "Kira Kimura.md",
     "Kokomo Murase.md",
@@ -228,12 +236,6 @@
     "Loisirs/Sport/Sportifs/Hanne Desmet.md",
     "Loisirs/Sport/Sportifs/Lebron James.md",
     "Overhype Studios.md",
-    "Battle Brothers.md",
-    "Franchise Dragon Quest.md",
-    "Journal de bord/2026-02-15.md",
-    "La grande dépression.md",
-    "Postmodern Adventures.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Dark Rites of Arkham.md",
     "Attachments/image-335.webp",
     "Attachments/image-334.webp",
     "Attachments/image-333.webp",

@@ -2,22 +2,20 @@
 type: personne
 ---
 
-# Larissa Pauluis
+# Lucas Pinheiro Braathen
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** : Belge
-- **Sport / Discipline** : [[Equitation]]  
+- **Nationalité** :  Brésilien
+- **Sport / Discipline** :  [[Ski]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                            | Résultat | Remarque                    |
-| ----- | -------------------------------------- | -------- | --------------------------- |
-| 2025  | Grand Prix de dressage à Stuttgart     | 4e       | 71,804 %                    |
-| 2025  | Grand Prix Libre de dressage à Malines | 1ière    | 82.975 % - Record personnel |
-| 2026  | Grand Prix de Neumünster               | 2e       |                             |
+| Année | Compétition                | Résultat | Remarque |
+| ----- | -------------------------- | -------- | -------- |
+| 2026  | [[JO 2026]] - Slalom Géant | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
