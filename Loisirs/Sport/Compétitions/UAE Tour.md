@@ -11,11 +11,11 @@ type: event
 
 ### Etapes 
 
-|     | Vainqueur          | Général            | Montagne | Points | Jeune | Remarques |
-| --- | ------------------ | ------------------ | -------- | ------ | ----- | --------- |
-| 1e  | [[Isaac Del Toro]] | [[Isaac Del Toro]] |          |        |       | 6e - Ila  |
-|     |                    |                    |          |        |       |           |
-|     |                    |                    |          |        |       |           |
+|     | Vainqueur          | Général            | Montagne | Points | Jeune | Remarques                |
+| --- | ------------------ | ------------------ | -------- | ------ | ----- | ------------------------ |
+| 1e  | [[Isaac Del Toro]] | [[Isaac Del Toro]] |          |        |       | 6e - [[Ilan Van Wilder]] |
+|     |                    |                    |          |        |       |                          |
+|     |                    |                    |          |        |       |                          |
 ## Femmes
 
 ### Etapes
