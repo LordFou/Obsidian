@@ -26,6 +26,8 @@ type: personne
 | 2025  | Grand Prix du Top douze de dressage à Francfort            | 1ier     |                |
 | 2025  | Top 12 de dressage à Frankfurt                             | 1ier     |                |
 | 2026  | Grand Prix de Neumünster                                   | 1ier     |                |
+| 2026  | Neumünster remix                                           | 2e       |                |
+|       |                                                            |          |                |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

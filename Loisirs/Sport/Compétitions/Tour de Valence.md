@@ -18,6 +18,9 @@ type: event
 | 3e  | [[August Andrew]]      | [[Biniam Girmay]]   |          |        |       | 3e - [[Florian Vermeersch]]                        |
 | 4e  | [[Remco Evenepoel]]    | [[Remco Evenepoel]] |          |        |       |                                                    |
 | 5e  | [[Raul Garcia Pierna]] | [[Remco Evenepoel]] |          |        |       |                                                    |
+## Femmes
+
+
 # General
 
 ### Hommes

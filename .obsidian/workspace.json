@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thierry Neuville.md",
+                "file": "Loisirs/Sport/Compétitions/Tour de Valence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thierry Neuville"
+              "title": "Tour de Valence"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Lari",
+                "query": "Tour de Valence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,8 +206,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "4642048edb23d37c",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Marion Norbert-Riberolle.md",
+    "Loisirs/Sport/Sportifs/Ceylin del Carmen Alvarado.md",
+    "Justin Verboomen.md",
+    "Larissa Pauluis.md",
+    "Attachments/image-338.webp",
+    "Thierry Neuville.md",
     "Elfyn Evans.md",
     "Loisirs/Sport/Rallye de Suède.md",
     "Jana Van Lent.md",
@@ -229,11 +235,6 @@
     "Lotte Lie.md",
     "Loisirs/Sport/Sportifs/Eve Bouvard.md",
     "Loisirs/Sport/Sportifs/Maya Cloetens.md",
-    "Maren Kirkeeide.md",
-    "Sam Maes.md",
-    "Lucas Pinheiro Braathen.md",
-    "Mikhail Shaidorov.md",
-    "Justin Verboomen.md",
     "Attachments/image-337.webp",
     "Attachments/image-336.webp",
     "Attachments/image-335.webp",
@@ -243,7 +244,6 @@
     "Attachments/image-331.webp",
     "Attachments/image-330.webp",
     "Attachments/image-329.webp",
-    "Attachments/image-328.webp",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
