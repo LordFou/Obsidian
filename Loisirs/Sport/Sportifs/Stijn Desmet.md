@@ -17,7 +17,7 @@ type: personne
 | ----- | ---------------------------------------- | --------------- | --------------------- |
 | 2025  | Coupe du Monde - Gdansk (Pologne) - 500m | Quart de finale |                       |
 | 2026  | [[JO 2026]] - Relais Mixte               | 3e 🥉           | [[Belgian Ice Bears]] |
-|       |                                          |                 |                       |
+| 2026  | [[JO 2026]] - Shorttrack - 1500m         | 1/4 finale      |                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

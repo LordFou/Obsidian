@@ -6,8 +6,8 @@ type: personne
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Nationalité** : Belge
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
@@ -20,6 +20,8 @@ type: personne
 | 2025  | [[Tour de l'Avenir]] - 5e étape                             | 1ier                    |                                                         |
 | 2025  | [[Tour de l'Avenir]] - 6e étape                             | 1ier                    |                                                         |
 | 2025  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - Route | 1ier                    |                                                         |
+|       |                                                             |                         |                                                         |
+| 2026  | [[Figueira Champions Classic]]                              | 4e                      |                                                         |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
