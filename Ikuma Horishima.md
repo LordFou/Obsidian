@@ -8,14 +8,14 @@ type: personne
 - **Date de naissance** :  
 - **Nationalité** :  Japonaise
 - **Sport / Discipline** :  [[Ski]]
-- **Poste / Spécialité** (si applicable) :  Ski de boss
+- **Poste / Spécialité** (si applicable) :  [[Ski de bosse]]
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition                | Résultat | Remarque |
+| ----- | -------------------------- | -------- | -------- |
+| 2026  | [[JO 2026]] - Ski de bosse | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

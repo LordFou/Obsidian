@@ -20,7 +20,7 @@ type: personne
 | 2026  | [[JO 2026]] - 3000m                                                 | 7e       |                                                            |
 | 2026  | [[JO 2026]] - 5000m                                                 | 4e       | Meilleur perf belge au JO<br>Record de Belgique => 6:46.47 |
 | 2026  | [[JO 2026]] - Mass Start                                            |          |                                                            |
-|       |                                                                     |          |                                                            |
+| 2026  | [[JO 2026]] - 1500m                                                 |          |                                                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

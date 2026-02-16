@@ -13,17 +13,17 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                   | Résultat                   | Remarque                |
-| ----- | ------------------------------------------------------------- | -------------------------- | ----------------------- |
-| 2025  | Coupe du Monde - Levi (Finlande) - Slalom Géant               | Eliminé en première manche |                         |
-| 2025  | Coupe du Monde - Gurgl (Autriche) - Slalom Géant              | 2e                         | ==Premier podium !!!!== |
-| 2025  | Coupe du Monde - Val d'Isère (France) - Slalom Géant          | 22e                        |                         |
-| 2026  | Coupe du Monde - Madonna di Campiglio (Italie) - Slalom Géant | 6e                         |                         |
-| 2026  | Coupe du Monde - Abelboden (Suisse) - Slalom Géant            | 10e                        |                         |
-| 2026  | Coupe d'Europe - Crans-Montana (Suisse) - Slalom Géant        | ==1ier==                   |                         |
-| 2026  | Coupe du Monde - Wengen (Suisse) - Slalom Géant               | 25e                        |                         |
-| 2026  | Coupe du Monde - Kitzbühel (Autriche) - Slalom Géant          | 6e                         |                         |
-| 2026  | [[JO 2026]] - Slalom Géant                                    |                            |                         |
+| Année | Compétition                                                   | Résultat                   | Remarque                   |
+| ----- | ------------------------------------------------------------- | -------------------------- | -------------------------- |
+| 2025  | Coupe du Monde - Levi (Finlande) - Slalom Géant               | Eliminé en première manche |                            |
+| 2025  | Coupe du Monde - Gurgl (Autriche) - Slalom Géant              | 2e                         | ==Premier podium !!!!==    |
+| 2025  | Coupe du Monde - Val d'Isère (France) - Slalom Géant          | 22e                        |                            |
+| 2026  | Coupe du Monde - Madonna di Campiglio (Italie) - Slalom Géant | 6e                         |                            |
+| 2026  | Coupe du Monde - Abelboden (Suisse) - Slalom Géant            | 10e                        |                            |
+| 2026  | Coupe d'Europe - Crans-Montana (Suisse) - Slalom Géant        | ==1ier==                   |                            |
+| 2026  | Coupe du Monde - Wengen (Suisse) - Slalom Géant               | 25e                        |                            |
+| 2026  | Coupe du Monde - Kitzbühel (Autriche) - Slalom Géant          | 6e                         |                            |
+| 2026  | [[JO 2026]] - Slalom Géant                                    | 5e                         | Meilleur perf belge aux JO |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

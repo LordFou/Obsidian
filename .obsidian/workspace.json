@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ikuma Horishima.md",
+                "file": "Loisirs/Sport/Compétitions/UAE Tour.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ikuma Horishima"
+              "title": "UAE Tour"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Diables",
+                "query": "UAE Tour",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,8 +207,12 @@
   },
   "active": "4642048edb23d37c",
   "lastOpenFiles": [
-    "JO 2026.md",
+    "Loisirs/Sport/Tadej Pogacar.md",
+    "Loisirs/Sport/Compétitions/UAE Tour.md",
+    "Loisirs/Sport/Sportifs/Armand Marchant.md",
+    "Loisirs/Sport/Sportifs/Sandrine Tas.md",
     "Ikuma Horishima.md",
+    "JO 2026.md",
     "Femke Kok.md",
     "Loisirs/Sport/Sportifs/Fran Vanhoutte.md",
     "Loisirs/Sport/Equipes/Diables Noirs.md",
@@ -230,10 +233,6 @@
     "Loisirs/Sport/Compétitions/Tour de Valence.md",
     "Lotte Claes.md",
     "Loisirs/Sport/Tour de France.md",
-    "Loisirs/Sport/Sportifs/Marion Norbert-Riberolle.md",
-    "Loisirs/Sport/Sportifs/Ceylin del Carmen Alvarado.md",
-    "Justin Verboomen.md",
-    "Larissa Pauluis.md",
     "Attachments/image-338.webp",
     "Attachments/image-337.webp",
     "Attachments/image-336.webp",
