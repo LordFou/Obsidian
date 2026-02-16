@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "95ca1712faa8aa9c",
+    "id": "9b5738f129032660",
     "type": "split",
     "children": [
       {
-        "id": "7311817e86c41357",
+        "id": "89a32232dc94ae9a",
         "type": "tabs",
         "children": [
           {
-            "id": "5e52442902e1ac19",
+            "id": "dc7800529d57cbbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Franchise Dragon Quest.md",
+                "file": "Journal de bord/2026-02-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Franchise Dragon Quest"
+              "title": "2026-02-14"
             }
           }
         ]
@@ -27,32 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "849482b537eaac43",
+    "id": "10646f34a5623bcc",
     "type": "split",
     "children": [
       {
-        "id": "f290839097ef2b58",
+        "id": "1a516746cabd1b8e",
         "type": "tabs",
         "children": [
           {
-            "id": "2bb9a73ff8daed1d",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "dra",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "byModifiedTime"
-              },
-              "icon": "lucide-search",
-              "title": "Rechercher"
-            }
-          },
-          {
-            "id": "a47971b47ce877f4",
+            "id": "2066e9a3d214d366",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,40 +48,34 @@
             }
           },
           {
-            "id": "bab163f298354a9b",
+            "id": "eb3c1bcab851ce97",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "search",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
+                "query": "signalis",
+                "matchingCase": false,
+                "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "sortOrder": "byModifiedTime"
               },
-              "icon": "links-coming-in",
-              "title": "Rétrolien pour Shovel Knight"
+              "icon": "lucide-search",
+              "title": "Rechercher"
             }
           },
           {
-            "id": "b8bdd3190f8c16a1",
+            "id": "b4ebb1a377404fc4",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Liens sortants de Shovel Knight"
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
             }
           },
           {
-            "id": "acbfcced6e5eac9a",
+            "id": "dbacc6f984f28690",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -106,48 +83,57 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "68c628d38f8bddd5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "ArcticRace.md",
-                "followCursor": false,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Plan de ArcticRace"
-            }
-          },
-          {
-            "id": "6d294a252d82d0cd",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Signet"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 240.5
   },
   "right": {
-    "id": "2a4328d55d7357ae",
+    "id": "424a7915b112611b",
     "type": "split",
     "children": [
       {
-        "id": "6b01a48df7e98e93",
+        "id": "793a32453de58a2b",
         "type": "tabs",
         "children": [
           {
-            "id": "c84a04fc0e9661e1",
+            "id": "38e1afb54a3a7718",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Escape from Ever After.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Escape from Ever After"
+            }
+          },
+          {
+            "id": "e2303466fd1c8ab2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Escape from Ever After.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Escape from Ever After"
+            }
+          },
+          {
+            "id": "9871d3b303142bba",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -162,17 +148,22 @@
             }
           },
           {
-            "id": "7b650f1619db0015",
+            "id": "662b93150171007e",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "type": "outline",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Borderlands 4.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Borderlands 4"
             }
           },
           {
-            "id": "c8ddbab28469fc36",
+            "id": "f2d09065e559f000",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -180,19 +171,26 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e7e49126b864d5ce",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
-      "bases:Create new base": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -200,42 +198,45 @@
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "markdown-importer:Ouvrir l'importateur Markdown": false,
+      "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e52442902e1ac19",
+  "active": "f2d09065e559f000",
   "lastOpenFiles": [
-    "Dragon Quest.md",
-    "Franchise Dragon Quest.md",
-    "Dragon Quest 7.md",
-    "Dragon Quest VII Reimagined.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Dark Rites of Arkham.md",
-    "Postmodern Adventures.md",
-    "La grande dépression.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Menace.md",
     "Overhype Studios.md",
-    "Battle Brothers.md",
-    "conflict-files-obsidian-git.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Menace.md",
+    "La grande dépression.md",
     "Journal de bord/2026-02-15.md",
-    "Wildlight.md",
-    "Loisirs/Jeux Vidéos/Périphériques/Playtiles.md",
+    "Battle Brothers.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Irony.md",
     "Journal de bord/2026-02-14.md",
     "Journal de bord/2026-02-13.md",
-    "Journal de bord/2026-02-12.md",
-    "Franchise Baldur's Gate.md",
-    "Federica Brignone.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Highguard.md",
+    "Wildlight.md",
+    "Loisirs/Jeux Vidéos/Sociétés/Ubisoft.md",
     "Attachments/image-335.webp",
+    "ICE.md",
+    "Trump.md",
+    "Riot.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/2XKO.md",
+    "Franchise Baldur's Gate.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Baldur's Gate 3.md",
+    "Loisirs/Jeux Vidéos/Périphériques/Playtiles.md",
     "Attachments/image-334.webp",
     "Attachments/image-333.webp",
-    "Les médias et la politique.md",
+    "Loisirs/Sport/Sportifs/Hanne Desmet.md",
+    "JO 2026.md",
+    "Francesca Lollobrigida.md",
+    "Loisirs/Sport/Sportifs/Sandrine Tas.md",
+    "Federica Brignone.md",
+    "Ligue des Nations.md",
+    "Journal de bord/2026-02-12.md",
+    "conflict-files-obsidian-git.md",
     "Attachments/image-332.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Spirit Lift.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/GHOST CAM.md",
-    "ARCH REBELS.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cassette Boy.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hank - Drowning On Dry Land.md",
     "Attachments/image-331.webp",
     "Attachments/image-330.webp",
     "Attachments/image-329.webp",
@@ -244,19 +245,8 @@
     "Attachments/image-326.webp",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Culture/Géographie",
-    "Loisirs/Jeux Vidéos/Logiciels",
-    "Loisirs/Sport/Statistiques",
-    "Culture/Politique",
-    "Généalogie Matos Atari.canvas",
-    "Historique Jeu Vidéo.canvas",
-    "Génération des consoles de jeux vidéo.canvas",
-    "Loisirs/Jeux Vidéos/Généalogie Société.canvas",
-    "Généalogie des Jeux Vidéos.canvas",
-    "Journal de bord/Archives",
-    "Loisirs/Jeux Vidéos/Moteurs",
-    "Loisirs/Sport/Equipes",
-    "Loisirs/Jeux Vidéos/Généalogie Mr Driller.canvas",
-    "Attachments/Download.mp4"
+    "Sans titre"
   ]
 }
