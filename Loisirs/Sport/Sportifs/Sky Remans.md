@@ -17,6 +17,7 @@ type: personne
 | ----- | ------------------------------------------- | ---------------------------------- | -------- |
 | 2026  | Coupe du Monde - Slopestyle - Laax (Suisse) | Qualifiée pour la finale           |          |
 | 2026  | [[JO 2026]] - Big Air                       | Non qualifiée pour la finale (27e) |          |
+| 2026  | [[JO 2026]] - Slopestyle                    | Eliminée en qualification          |          |
 
 # Style et Caractéristiques
 - Ses parents l’ont mise sur un snowboard à l’âge de six ans sur la piste de Snow Valley à Peer, près de Genk
