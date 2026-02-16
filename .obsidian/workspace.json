@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overhype Studios.md",
+                "file": "Yellow Aces.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Overhype Studios"
+              "title": "Yellow Aces"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hanne",
+                "query": "Bill",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,14 +205,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "4642048edb23d37c",
   "lastOpenFiles": [
+    "Loisirs/Sport/Equipes/Equipe nationale belge de Tennis.md",
+    "Yellow Aces.md",
+    "Loisirs/Sport/Compétitions/Billie Jean King Cup.md",
+    "Loisirs/Sport/Sportifs/Hanne Desmet.md",
+    "Loisirs/Sport/Sportifs/Lebron James.md",
+    "Overhype Studios.md",
     "Battle Brothers.md",
     "Franchise Dragon Quest.md",
     "Journal de bord/2026-02-15.md",
     "La grande dépression.md",
     "Postmodern Adventures.md",
-    "Overhype Studios.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Dark Rites of Arkham.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Menace.md",
     "Journal de bord/2026-02-14.md",
@@ -231,11 +236,6 @@
     "Loisirs/Jeux Vidéos/Périphériques/Playtiles.md",
     "Attachments/image-334.webp",
     "Attachments/image-333.webp",
-    "Loisirs/Sport/Sportifs/Hanne Desmet.md",
-    "JO 2026.md",
-    "Francesca Lollobrigida.md",
-    "Loisirs/Sport/Sportifs/Sandrine Tas.md",
-    "Federica Brignone.md",
     "Attachments/image-332.webp",
     "Attachments/image-331.webp",
     "Attachments/image-330.webp",
