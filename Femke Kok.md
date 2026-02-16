@@ -2,23 +2,20 @@
 type: personne
 ---
 
-# Milan Fretin
+# Femke Kok
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Nationalité** :  Néerlandaise
+- **Sport / Discipline** :  [[Patinage de vitesse]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                     | Résultat | Remarque                             |
-| ----- | ------------------------------- | -------- | ------------------------------------ |
-| 2025  | [[Tour de Wallonie]] - 3e étape | 2e       | Sprint                               |
-| 2026  | [[AlUla Tour]] - 1e étape       | 2e       | Sprint - Derrière [[Jonathan Milan]] |
-| 2026  | [[Clasica Almeria]]             | 2e       | Sprint - Derrière [[Biniam Girmay]]  |
-|       |                                 |          |                                      |
+| Année | Compétition                              | Résultat                   | Remarque         |
+| ----- | ---------------------------------------- | -------------------------- | ---------------- |
+| 2026  | [[JO 2026]] - Patinage de vitesse - 500m | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

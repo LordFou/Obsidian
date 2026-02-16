@@ -34,7 +34,7 @@ type: personne
 | 2026  | Coupe du Monde - Classement final                                        | 1ière    |          |
 | 2026  | [[Championnat du Monde de Cyclocross]]                                   | 1ière    |          |
 | 2026  | Exact Cross de Saint-Nicolas                                             | 1ière    |          |
-| 2026  | Trophée X2O - Classement Final                                           | 1ier     |          |
+| 2026  | Trophée X2O - Classement Final                                           | 1ière    |          |
 
 
 # Style et Caractéristiques
