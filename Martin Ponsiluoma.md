@@ -1,24 +1,21 @@
 ---
 type: personne
 ---
-![[image-320.webp]]
-# Florent Claude
+
+# Martin Ponsiluoma
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
+- **Nationalité** :  Suédois
 - **Sport / Discipline** :  [[Ski]]
 - **Poste / Spécialité** (si applicable) :  [[Biathlon]]
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                           | Résultat | Remarque                    |
-| ----- | ------------------------------------- | -------- | --------------------------- |
-| 2026  | [[JO 2026]] - Biathlon - Relais Mixte | 19e      | Avec les [[Belgian Linxes]] |
-| 2026  | [[JO 2026]] - Biathlon - Individuel   | 46e      |                             |
-| 2026  | [[JO 2026]] - Biathlon - Sprint       | 38e      |                             |
-| 2026  | [[JO 2026]] - Biathlon - Poursuite    | 50e      |                             |
+| Année | Compétition                        | Résultat | Remarque |
+| ----- | ---------------------------------- | -------- | -------- |
+| 2026  | [[JO 2026]] - Biathlon - Poursuite | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

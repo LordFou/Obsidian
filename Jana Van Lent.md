@@ -21,6 +21,7 @@ type: personne
 | 2025  | Champ. Europe Cross Country                                   | 4e                       |                                                   |
 | 2026  | Prom'Classic - 10km route                                     | 1ière                    | Record d'Europe (30.10)                           |
 | 2026  | Cross Cup de Hannut                                           | 1ière                    |                                                   |
+| 2026  | Monaco - 5km route                                            |                          | Record de Belgique (14.48)                        |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

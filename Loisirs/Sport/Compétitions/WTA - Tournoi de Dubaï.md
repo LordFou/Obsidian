@@ -2,16 +2,16 @@
 type: event
 ---
 
-# Rallye de Suède - WRC
+# WTA - Tournoi de Dubaï
 
 # Introduction
 
 # Hommes
 
-| Année | Vainqueur       | Nationalité | Remarque |
-| ----- | --------------- | ----------- | -------- |
-| 2026  | [[Elfyn Evans]] | Gallois     |          |
-|       |                 |             |          |
+| Année | Vainqueur | Nationalité | Remarque |
+| ----- | --------- | ----------- | -------- |
+| 2026  |           |             |          |
+|       |           |             |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

@@ -21,6 +21,7 @@ type: personne
 | 2025  | [[Rallye du Chili]]                                  | 4e       |          |
 | 2025  | [[Rallye d'Arabie Saoudite]]                         | 1ier 🥇  |          |
 | 2025  | [[Championnat du Monde - WRC\|Championnat du Monde]] | 5e       |          |
+| 2026  | [[Rallye de Suède]]                                  | 7e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
