@@ -1,23 +1,21 @@
 ---
 type: personne
 ---
-![[image-229.webp]]
-# Kelly Van Petegem
+
+# Elana Meyers Taylor
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** : [[Bobsleigh ]]
+- **Nationalité** :  Américaine
+- **Sport / Discipline** :  [[Bobsleigh]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                  | Résultat | Remarque |
-| ----- | ------------------------------------------------------------ | -------- | -------- |
-| 2025  | Coupe du Monde - 3e Manche - Altenberg (Allemagne) - Monobob | 3e       |          |
-| 2026  | Coupe du Monde - ? Manche - Altenberg (Allemagne) - Monobob  | 16e      |          |
-| 2026  | [[JO 2026]] - Monobob                                        | 19e      |          |
+| Année | Compétition           | Résultat | Remarque |
+| ----- | --------------------- | -------- | -------- |
+| 2026  | [[JO 2026]] - Monobob | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
