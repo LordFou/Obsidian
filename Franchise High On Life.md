@@ -24,7 +24,7 @@ content:
 ## Jeux principaux
 | Titre              | Année | Plateformes | Remarque |
 | ------------------ | ----- | ----------- | -------- |
-| [[High on Life 2]]   |       |             |          |
+| [[High on Life]]   |       |             |          |
 | [[High on Life 2]] |       |             |          |
 
 
