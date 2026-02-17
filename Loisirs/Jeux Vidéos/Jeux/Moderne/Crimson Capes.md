@@ -1,27 +1,26 @@
 ---
 type: game
 ---
-![[image-345.webp]]
-# Nioh 3
+![[image-346.webp]]
+# Crimson Capes
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[KOEI TECMO GAMES]]
+	- Studio : [[Poor Locke]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]],[[Playstation 5]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action]], [[RPG]], [[Hack & Slash]]
+- **Genre** : [[Souls Like]], [[Simulation]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : [[Pixel Art]], [[2D]]
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 7/10 (CheckPoint)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -38,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/Xf1lAlf33Ho |
+| Description | URL |
+| ----------- | --- |
+|             |     |
