@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : [[Square Enix]]
 - **Plateformes** : [[PC]], [[Switch]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Aventure]], [[RPG]], [[Simulation]]
 - **Résumé** : 
 
 ## Détails Techniques

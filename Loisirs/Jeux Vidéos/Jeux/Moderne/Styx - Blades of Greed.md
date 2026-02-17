@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Dead in Antares
+# Styx - Blades of Greed
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Ishtar Games]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Stratégie]], [[Tour par tour]], [[Survie]], [[Aventure]], [[RPG]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/W8K82czpWio |
+| Description | URL |
+| ----------- | --- |
+|             |     |

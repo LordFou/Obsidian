@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Dead in Antares
+# Demon Tides
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Ishtar Games]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Stratégie]], [[Tour par tour]], [[Survie]], [[Aventure]], [[RPG]]
+- **Genre** : [[Action]], [[Aventure]], [[Plateforme]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -39,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/W8K82czpWio |
+| Trailer     | https://youtu.be/4g9hmjD_WTM |

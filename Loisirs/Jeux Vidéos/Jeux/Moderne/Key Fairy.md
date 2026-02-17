@@ -2,23 +2,24 @@
 type: game
 ---
 
-# Dead in Antares
+# Key Fairy
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Ishtar Games]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Stratégie]], [[Tour par tour]], [[Survie]], [[Aventure]], [[RPG]]
+- **Genre** : [[Action]], [[Aventure]], [RPG]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 
+	- [[Noir et Blanc]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
@@ -39,4 +40,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/W8K82czpWio |
+| Trailer     | https://youtu.be/Renb-8rmT9Q |
