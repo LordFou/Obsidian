@@ -6,7 +6,6 @@
       {
         "id": "aa6a538c329ddca3",
         "type": "tabs",
-        "dimension": 59.584664536741215,
         "children": [
           {
             "id": "4642048edb23d37c",
@@ -20,53 +19,7 @@
               },
               "icon": "lucide-file",
               "title": "Creature Kitchen"
-            },
-            "group": "7e142a9554ddd16b"
-          }
-        ]
-      },
-      {
-        "id": "f2548af1ca38778a",
-        "type": "tabs",
-        "dimension": 40.415335463258785,
-        "children": [
-          {
-            "id": "82b51b124397197c",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Creature Kitchen.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graphique de Creature Kitchen"
-            },
-            "group": "7e142a9554ddd16b"
+            }
           }
         ]
       }
@@ -233,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
