@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Square Enix
+# Camelot Software Planning
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,11 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                                              | Remarques                     |
-| ----- | -------------------------------------------------- | ----------------------------- |
-| 2025  | [[Final Fantasy Tactics - The Ivalice Chronicles]] |                               |
-| 2026  | [[Dragon Quest VII Reimagined]]                    | Square Enix Creative Studio 2 |
-| 2026  | [[PARANORMASIGHT - The Mermaid’s Curse]]           |                               |
+| Année | Titre                  |
+| ----- | ---------------------- |
+| 2026  | [[Mario Tennis Fever]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
