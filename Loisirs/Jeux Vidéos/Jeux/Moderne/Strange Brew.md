@@ -11,14 +11,14 @@ type: game
 	- Studio : [[Electric Monk Media]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Action]], [[Aventure]], [[Casual]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 3D
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
@@ -28,7 +28,9 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Un canard
 - **Ennemis** :
+	- [[zombie|Zombies]]
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
