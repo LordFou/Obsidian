@@ -34,7 +34,7 @@ type: personne
 | 2025  | [[Masters WTA de Ryad]] - Double   | Vainqueur     | avec V                                                              |
 | 2026  | [[Australian Open]] - Simple       | 1/8 finale    | Défaite contre Rybanika (5e WTA)                                    |
 | 2026  | [[Australian Open]] - Double       | ==Vainqueur== | avec [[Shuai Zhang]]                                                |
-| 2026  | [[WTA - Tournoi de Doha]]          | 2e tour       | Diminuée physiquement                                               |
+| 2026  | [[Tournoi de Doha]]          | 2e tour       | Diminuée physiquement                                               |
 | 2026  | [[WTA - Tournoi de Dubaï]]         | 1/8 finale    |                                                                     |
 
 # Style et Caractéristiques
