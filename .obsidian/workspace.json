@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Relooted.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Nioh 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relooted"
+              "title": "Nioh 3"
             },
             "group": "7e142a9554ddd16b"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Relooted.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Nioh 3.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Relooted"
+              "title": "Graphique de Nioh 3"
             },
             "group": "7e142a9554ddd16b"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Reloo",
+                "query": "nioh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,6 +255,11 @@
   },
   "active": "4642048edb23d37c",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shadows of the Afterland.md",
+    "Aruma Studio.md",
+    "Attachments/image-344.webp",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Relooted.md",
+    "Attachments/image-343.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Romeo is a Dead Man.md",
     "Attachments/image-342.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Omelet You Cook.md",
@@ -281,16 +286,11 @@
     "Franchise High On Life.md",
     "Mario Tennis Fever.md",
     "Square Enix.md",
-    "Alexander Blockx.md",
-    "Camelot Software Planning.md",
     "Attachments/image-339.webp",
-    "Loisirs/Sport/Compétitions/Tournoi de Lille.md",
     "Attachments/image-338.webp",
     "Attachments/image-337.webp",
     "Attachments/image-336.webp",
     "Attachments/image-335.webp",
-    "Attachments/image-334.webp",
-    "Attachments/image-333.webp",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
