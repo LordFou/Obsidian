@@ -2,7 +2,7 @@
 type: game
 ---
 
-# High on Life
+# High on Life 2
 
 ## Informations Générales
 
@@ -12,7 +12,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
-- **Franchise** : 
+- **Franchise** : [[Franchise High On Life]]
 - **Genre** : [[Action]], [[Aventure]], [[FPS]]
 - **Résumé** : 
 
