@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Styx - Blades of Greed.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Mewgenics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Styx - Blades of Greed"
+              "title": "Mewgenics"
             },
             "group": "7e142a9554ddd16b"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Styx - Blades of Greed.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Mewgenics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Styx - Blades of Greed"
+              "title": "Graphique de Mewgenics"
             },
             "group": "7e142a9554ddd16b"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Styx",
+                "query": "The Binding",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,7 +131,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,8 +255,15 @@
   },
   "active": "4642048edb23d37c",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Demon Tides.md",
+    "Edmund McMillen.md",
+    "The Binding Of Isaac.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Mewgenics.md",
+    "Attachments/image-340.webp",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Horripilant.md",
+    "Pas Game Studio.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Ys X - Proud Nordics.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Styx - Blades of Greed.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Demon Tides.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/PARANORMASIGHT - The Mermaid’s Curse.md",
     "Noir et Blanc.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Key Fairy.md",
@@ -275,12 +283,6 @@
     "Tournoi de Rotterdam.md",
     "Tournoi de Doha.md",
     "Jan Christen.md",
-    "Maxim Van Gils.md",
-    "JO 2026.md",
-    "Loisirs/Sport/Sportifs/Fran Vanhoutte.md",
-    "Loisirs/Sport/Sportifs/Isabelle van Elst.md",
-    "Loisirs/Sport/Sportifs/Sandrine Tas.md",
-    "Marek Mackels.md",
     "Attachments/image-338.webp",
     "Attachments/image-337.webp",
     "Attachments/image-336.webp",
@@ -289,7 +291,6 @@
     "Attachments/image-333.webp",
     "Attachments/image-332.webp",
     "Attachments/image-331.webp",
-    "Attachments/image-330.webp",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",

@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Horripilant
+# Ys X - Proud Nordics
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Pas Game Studio]]
-	- Personnalités : [[Alexandre Declos]]
+	- Studio : 
+	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Switch 2]]
 - **Franchise** : 
-- **Genre** : [[Casual]], [[RPG]], [[Simulation]], [[Idle Game]], [[Clicker]]
+- **Genre** : [[Action]], [[RPG]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -39,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/td_Q6C--_ak |
+| Trailer     | https://youtu.be/Lsrkhkm6YnQ |
