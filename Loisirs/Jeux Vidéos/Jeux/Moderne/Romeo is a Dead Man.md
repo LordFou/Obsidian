@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-342.webp]]
 # Romeo is a Dead Man
 
 ## Informations Générales
@@ -14,7 +14,7 @@ type: game
 - **Plateformes** : [[PC]], [[Xbox Series]], [[Playstation 5]]
 - **Franchise** : 
 	- **Genre** : [[Action]], [[Aventure]]
-- **Résumé** : 
+- **Résumé** : Jeu de SF contenant de la romance et de l'ultra-violence. Le concept : recruté par le "FBI spatio-temporel", recherchez Juliette tout en dézinguant des gus à l'épée et au pistolet, façon beat 'em all japonais.
 
 ## Détails Techniques
 - **Moteur de jeu** : 

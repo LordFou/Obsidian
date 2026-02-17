@@ -20,7 +20,7 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 2.5D Isométrique
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- 9/10 (CheckPoint)
@@ -31,6 +31,7 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Des chats
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
