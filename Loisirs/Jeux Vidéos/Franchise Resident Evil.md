@@ -51,5 +51,5 @@ type: game
 - {{Fait ou anecdote 3}}
 
 ## Liens connexes
-- [[Lien vers une autre note]] (ex: un jeu spécifique, un développeur)
-- [Page Wikipédia](https://wikipedia.org)
+- [Emission Origami](https://youtu.be/3iC2ds3BylM)
+- 
