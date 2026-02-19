@@ -1,24 +1,21 @@
 ---
 type: personne
 ---
-![[bb6b07f0fd4afe38c61f232bbb693fd7-1756478795.webp]]
-# Paul Seixas
+
+# Zhongyan Ning
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Français
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Nationalité** :  Chinois
+- **Sport / Discipline** :  [[Patinage de vitesse]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                 | Résultat | Remarque |
-| ----- | ----------------------------------------------------------- | -------- | -------- |
-| 2025  | [[Tour de l'Avenir]] - 7e étape                             | 1ier     | CLM      |
-| 2025  | [[Tour de l'Avenir]] - Classement final                     | 1ier     |          |
-| 2025  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - Route | 3e       |          |
-| 2026  |                                                             |          |          |
+| Année | Compétition         | Résultat | Remarque |
+| ----- | ------------------- | -------- | -------- |
+| 2026  | [[JO 2026]] - 1500m | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

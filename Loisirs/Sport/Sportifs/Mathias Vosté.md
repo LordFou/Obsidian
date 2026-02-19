@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-331.webp]]
+![[image-349.webp]]
 # Mathias Vosté
 
 # Informations Générales
@@ -15,8 +15,10 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                            | Résultat | Remarque |
 | ----- | ---------------------------------------------------------------------- | -------- | -------- |
+| 2022  | [[JO 2022]] - 1500m                                                    | Dernier  |          |
 | 2026  | [[Championnat d'Europe de patinage de vitesse\|Champ. Europe]] - 1500m | 13e      |          |
 | 2026  | [[JO 2026]] - 1000m                                                    | 17e      |          |
+| 2026  | [[JO 2026]] - 1500m                                                    | 24e      |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
