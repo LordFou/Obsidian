@@ -37,7 +37,9 @@ type: personne
 | 2025  | [[Tour du Guangxi]] - 3e étape   | 1ier     |                           |
 | 2025  | [[Tour du Guangxi]] - 4e étape   | 1ier     |                           |
 | 2025  | [[Tour du Guangxi]] - 5e étape   | 1ier     |                           |
+|       |                                  |          |                           |
 | 2026  | [[Grand Prix de Valence]]        | 2e       | Sprint                    |
+| 2026  | [[Tour d'Algarve]] - 1e étape    | 1ier     | Sprint                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

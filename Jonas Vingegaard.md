@@ -18,6 +18,7 @@ type: personne
 | ?     | [[Tour de France]]                    | 1ier     |                            |
 | ?     | [[Tour de France]]                    | 1ier     |                            |
 | 2024  | [[Tour de France]] - Classement final | 2e       |                            |
+| 2025  | [[Tour d'Algarve]] - Classement final | 1ier     |                            |
 | 2025  | [[Tour d'Espagne]] - 2e étape         | 1ier     | :luc_plus: Maillot Général |
 | 2025  | [[Tour d'Espagne]] - 9e étape         | 1ier     |                            |
 | 2025  | [[Tour d'Espagne]] - 20e étape        | 1ier     |                            |

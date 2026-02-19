@@ -19,7 +19,7 @@ type: personne
 | 2019  | [[Championnat d'Europe de Cyclisme\|Championnat d'Europe]] - CLM                 | 2e       |                                                                           |
 | 2019  | [[Sportif-Sportive Belge de l'année]]                                            | 1ier     |                                                                           |
 | 2020  | [[Tour de San Juan]]                                                             | 1ier 🏆  |                                                                           |
-| 2020  | [[Tour de l'Algarve]]                                                            | 1ier 🏆  |                                                                           |
+| 2020  | [[Tour d'a                                                                       | 1ier 🏆  |                                                                           |
 | 2020  | [[Tour de Burgos]]                                                               | 1ier 🏆  |                                                                           |
 | 2020  | [[Tour de Pologne]] - Classement final                                           | 1ier 🏆  |                                                                           |
 | 2021  | [[Championnat d'Europe de Cyclisme\|Championnat d'Europe]] - Route               | 2e       |                                                                           |

@@ -36,7 +36,7 @@ type: personne
 | 2026  | [[Australian Open]] - Double        | ==Vainqueur== | avec [[Shuai Zhang]]                                                |
 | 2026  | [[Tournoi de Doha]]                 | 2e tour       | Diminuée physiquement                                               |
 | 2026  | [[WTA - Tournoi de Dubaï]] - Simple | 1/8 finale    | Défaite contre [[Coco Gauff]] (4e WTA)                              |
-| 2026  | [[WTA - Tournoi de Dubaï]] - Doube  | 1ier tour     | Défaite contre [[Coco Gauff]] (4e WTA)                              |
+| 2026  | [[WTA - Tournoi de Dubaï]] - Double | 1ier tour     |                                                                     |
 
 # Style et Caractéristiques
 - C'est une joueuse très équilibrée et régulière qui intègre en juin 2025 le club très fermé des joueuses qui ont gagné un tournoi sur les 3 types de surface.
