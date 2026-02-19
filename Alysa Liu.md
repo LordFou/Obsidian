@@ -1,23 +1,21 @@
 ---
 type: personne
 ---
-![[image-224.webp]]
-# Nina Pinzarrone
+
+# Alysa Liu
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** : Belge
-- **Sport / Discipline** : [[Patinage artistique]]  
+- **Nationalité** :  Américaine
+- **Sport / Discipline** :  [[Patinage artistique]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                     | Résultat | Remarque |
-| ----- | ------------------------------- | -------- | -------- |
-| 2025  | Golden Spin de Zagreb           | 7e       |          |
-| 2026  | [[Euro de patinage artistique]] | 4e       |          |
-| 2026  | [[JO 2026]]                     | 13e      | SB       |
+| Année | Compétition | Résultat | Remarque |
+| ----- | ----------- | -------- | -------- |
+| 2026  | [[JO 2026]] | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
