@@ -1,29 +1,26 @@
 ---
 type: game
 ---
-![[image-350.webp]]
-# Demon Tides
+
+# Demon Turf
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 
 - **Développeur** : 
 	- Studio : [[Fabraz]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]], [[Switch]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[Plateforme]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : 3D
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- Canard PC : 8/10
-		- Kocobé : Nous sommes devant une vraie nouvelle référence du jeu de plateforme en 3D.
-	- CheckPoint : 8/10
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -31,7 +28,6 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
-	- Beebz (une petite démone)
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
@@ -41,6 +37,7 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/4g9hmjD_WTM |
+| Description | URL |
+| ----------- | --- |
+|             |     |
+![[image-351.webp]]
