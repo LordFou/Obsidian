@@ -2,22 +2,20 @@
 type: personne
 ---
 
-# Lennert Van Eetvelt
+# Kim Vanreusel
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Cyclisme]]
-- **Poste / Spécialité** (si applicable) :  
+- **Sport / Discipline** :  [[Ski]]
+- **Poste / Spécialité** (si applicable) :  [[Slalom géant]]
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                    | Résultat | Remarque |
-| ----- | ------------------------------ | -------- | -------- |
-| 2025  | [[Tour de France]] - 14e étape | Abandon  |          |
-| 2026  | [[Tour Down Under]]            | Abandon  | Chute    |
-| 2026  | [[UAE Tour]] - 3e étape        | 3e       |          |
+| Année | Compétition                | Résultat | Remarque         |
+| ----- | -------------------------- | -------- | ---------------- |
+| 2026  | [[JO 2026]] - Slalom géant | 1ier     | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
