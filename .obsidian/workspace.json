@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
+                "file": "Loisirs/Sport/Sportifs/Maximilien Drion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Remco Evenepoel"
+              "title": "Maximilien Drion"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour d'alg",
+                "query": "Maxim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,9 +208,12 @@
   },
   "active": "4642048edb23d37c",
   "lastOpenFiles": [
-    "Tour de l'Algarve.md",
-    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
+    "Maxim Van Gils.md",
+    "Tiesj Benoot.md",
+    "Attachments/image-348.webp",
     "Tour d'Algarve.md",
+    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
+    "Tour de l'Algarve.md",
     "Jonas Vingegaard.md",
     "Jordi Meeus.md",
     "Paul Magnier.md",
@@ -233,8 +236,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/CARIMARA - Beneath the forlorn limbs.md",
     "The Rat Zone.md",
     "Attachments/image-347.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Capes.md",
-    "Poor Locke.md",
     "Attachments/image-346.webp",
     "Attachments/image-345.webp",
     "Attachments/image-344.webp",
@@ -243,7 +244,6 @@
     "Attachments/image-341.webp",
     "Attachments/image-340.webp",
     "Attachments/image-339.webp",
-    "Attachments/image-338.webp",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
