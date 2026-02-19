@@ -13,7 +13,7 @@ type: game
 		- [[Robert Belgrade]] (Narrateur/Voix)
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise Castlevania]]
 - **Genre** :
 - **Résumé** : 
 

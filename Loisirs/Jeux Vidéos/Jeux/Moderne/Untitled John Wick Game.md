@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Dead Cells
+# Untitled John Wick Game
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Evil Empire]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Roguelite]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -32,7 +32,6 @@ type: game
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
-	- [[The Rogue Prince of Persia]]
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - 

@@ -1,19 +1,19 @@
 ---
 type: game
 ---
-
-# Dead Cells
+![[image-352.webp]]
+# Castlevania - Belmont's Curse
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Evil Empire]]
+	- Studio : [[Evil Empire]], [[Konami]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
-- **Franchise** : 
-- **Genre** : [[Roguelite]]
+- **Éditeur** : [[Konami]]
+- **Plateformes** : [[PC]],[[Playstation 5]],[[Xbox Series]],[[Switch]]
+- **Franchise** : [[Franchise Castlevania]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -32,7 +32,6 @@ type: game
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
-	- [[The Rogue Prince of Persia]]
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - 

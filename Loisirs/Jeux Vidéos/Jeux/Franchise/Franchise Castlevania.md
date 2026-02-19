@@ -16,13 +16,13 @@ type: game
 {{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
 
 ## Jeux principaux
-| Titre                                   | Année | Plateformes           | Remarque         |
-| --------------------------------------- | ----- | --------------------- | ---------------- |
-| Castlevania 2 - Belmont's Revenge       | 1991  | Game Boy              | {{Info notable}} |
-| [[Castlevania - Symphony Of The Night]] | 1997  | Playstation<br>Saturn | {{Info notable}} |
-| Castlevania - Aria of Sorrow            | 2003  | Game Boy Advance      | {{Info notable}} |
-| Castlevania - Advance Collection        | ?     | ?                     |                  |
-|                                         |       |                       |                  |
+| Titre                                   | Année | Plateformes                                                  | Remarque                      |
+| --------------------------------------- | ----- | ------------------------------------------------------------ | ----------------------------- |
+| Castlevania 2 - Belmont's Revenge       | 1991  | Game Boy                                                     |                               |
+| [[Castlevania - Symphony Of The Night]] | 1997  | Playstation<br>Saturn                                        |                               |
+| Castlevania - Aria of Sorrow            | 2003  | Game Boy Advance                                             |                               |
+| Castlevania - Advance Collection        | ?     | ?                                                            |                               |
+| [[Castlevania - Belmont's Curse]]       | 2026  | [[PC]]<br>[[Playstation 5]]<br>[[Xbox Series]]<br>[[Switch]] | Pour les 40 ans de la licence |
 
 ## Mécaniques et innovations
 {{Description des éléments de gameplay marquants, des innovations techniques et de ce qui rend la franchise unique.}}

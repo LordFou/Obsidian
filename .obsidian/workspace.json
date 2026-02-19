@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Demon Tides.md",
+                "file": "Castlevania - Belmont's Curse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Demon Tides"
+              "title": "Castlevania - Belmont's Curse"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Fallout",
+                "query": "Untitled",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,12 +205,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "4642048edb23d37c",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Untitled John Wick Game.md",
+    "Castlevania - Belmont's Curse.md",
+    "Loisirs/Jeux Vidéos/Sociétés/Konami.md",
+    "Attachments/image-352.webp",
+    "Evil Empire.md",
+    "Dead Cells.md",
+    "Loisirs/Jeux Vidéos/Jeux/Franchise/Franchise Castlevania.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Castlevania - Symphony Of The Night.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Demon Tides.md",
     "Fabraz.md",
     "Demon Turf.md",
     "Attachments/image-351.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Demon Tides.md",
     "Attachments/image-350.webp",
     "Tour d'Algarve.md",
     "Paul Seixas.md",
@@ -231,18 +238,11 @@
     "Tour de l'Algarve.md",
     "Jonas Vingegaard.md",
     "Jordi Meeus.md",
-    "Paul Magnier.md",
-    "Elise Mertens.md",
-    "Loisirs/Sport/Equipes/Belgian Linxes.md",
-    "Marise Emonts.md",
-    "Loisirs/Sport/Sportifs/Eve Bouvard.md",
-    "Loisirs/Sport/Sportifs/Maya Cloetens.md",
     "Attachments/image-347.webp",
     "Attachments/image-346.webp",
     "Attachments/image-345.webp",
     "Attachments/image-344.webp",
     "Attachments/image-343.webp",
-    "Attachments/image-342.webp",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
