@@ -2,13 +2,13 @@
 type: game
 ---
 
-# Untitled John Wick Game
+# Dead or Alive 7
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Saber Interactive]]
+	- Studio : [[Team Ninja]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 

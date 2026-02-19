@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Team Ninja
+# Ember Lab
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -12,7 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  Japon
+- **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -24,11 +24,10 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre               |
-| ----- | ------------------- |
-| 2025  | [[Ninja Gaiden 4]]  |
-|       | Nioh                |
-|       | [[Dead or Alive 7]] |
+| Année | Titre                        |
+| ----- | ---------------------------- |
+| 2022  | [[Kena - Bridge of Spirits]] |
+| 2026  | [[Keno - Scars of Kosmora]]  |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

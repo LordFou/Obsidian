@@ -2,13 +2,13 @@
 type: game
 ---
 
-# Untitled John Wick Game
+# Kena - Bridge of Spirits
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2022
 - **Développeur** : 
-	- Studio : [[Saber Interactive]]
+	- Studio : [[Ember Lab]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 

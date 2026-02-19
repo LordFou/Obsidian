@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Castlevania - Belmont's Curse.md",
+                "file": "Silent Hill - Townfall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Castlevania - Belmont's Curse"
+              "title": "Silent Hill - Townfall"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Untitled",
+                "query": "Silent Hill",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,9 +208,16 @@
   },
   "active": "4642048edb23d37c",
   "lastOpenFiles": [
+    "Franchise Silent Hill.md",
+    "Silent Hill - Townfall.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dead or Alive 7.md",
+    "Team Ninja.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Keno - Scars of Kosmora.md",
+    "Ember Lab.md",
+    "Kena - Bridge of Spirits.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Untitled John Wick Game.md",
-    "Castlevania - Belmont's Curse.md",
     "Loisirs/Jeux Vidéos/Sociétés/Konami.md",
+    "Castlevania - Belmont's Curse.md",
     "Attachments/image-352.webp",
     "Evil Empire.md",
     "Dead Cells.md",
@@ -230,14 +238,7 @@
     "Loisirs/Sport/Compétitions/UAE Tour.md",
     "Marianne Fatton.md",
     "Oriol Cardona Coll.md",
-    "Loisirs/Sport/Sportifs/Maximilien Drion.md",
-    "Maxim Van Gils.md",
-    "Tiesj Benoot.md",
     "Attachments/image-348.webp",
-    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
-    "Tour de l'Algarve.md",
-    "Jonas Vingegaard.md",
-    "Jordi Meeus.md",
     "Attachments/image-347.webp",
     "Attachments/image-346.webp",
     "Attachments/image-345.webp",
