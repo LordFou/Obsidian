@@ -13,12 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                      | Résultat | Remarque |
-| ----- | ------------------------------------------------ | -------- | -------- |
-| 2025  | Coupe du Monde - 1e Manche - Solitude (USA)      | 3e       |          |
-| 2026  | Coupe du Monde - 2e Manche - Courchevel (France) | 6e       |          |
-| 2026  | [[JO 2026]] - Porte Drapeau                      |          |          |
-| 2026  | [[JO 2026]] - Ski alpinisme                      |          |          |
+| Année | Compétition                                      | Résultat    | Remarque      |
+| ----- | ------------------------------------------------ | ----------- | ------------- |
+| 2025  | Coupe du Monde - 1e Manche - Solitude (USA)      | 3e          |               |
+| 2026  | Coupe du Monde - 2e Manche - Courchevel (France) | 6e          |               |
+| 2026  | [[JO 2026]] - Porte Drapeau                      |             |               |
+| 2026  | [[JO 2026]] - Ski alpinisme                      | Demi-finale | 5e de sa demi |
+|       |                                                  |             |               |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -16,6 +16,8 @@ type: event
 | 1e (MEX) | [[Isaac Del Toro]]  | [[Isaac Del Toro]]  |          |        |       | 6e - [[Ilan Van Wilder]]                                                                    |
 | 2e (BEL) | [[Remco Evenepoel]] | [[Remco Evenepoel]] |          |        |       | CLM                                                                                         |
 | 3e (ITA) | [[Antonio Tiberi]]  | [[Antonio Tiberi]]  |          |        |       | 3e - [[Lennert Van Eetvelt]]<br>Remco glisse à la 11e place après avoir souffert de crampes |
+| 4e (ITA) | [[Jonathan Milan]]  | [[Antonio Tiberi]]  |          |        |       |                                                                                             |
+|          |                     |                     |          |        |       |                                                                                             |
 ## Femmes
 
 ### Etapes
