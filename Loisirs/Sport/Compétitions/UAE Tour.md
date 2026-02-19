@@ -11,11 +11,11 @@ type: event
 
 ### Etapes 
 
-|     | Vainqueur           | Général             | Montagne | Points | Jeune | Remarques                |
-| --- | ------------------- | ------------------- | -------- | ------ | ----- | ------------------------ |
-| 1e  | [[Isaac Del Toro]]  | [[Isaac Del Toro]]  |          |        |       | 6e - [[Ilan Van Wilder]] |
-| 2e  | [[Remco Evenepoel]] | [[Remco Evenepoel]] |          |        |       | CLM                      |
-|     |                     |                     |          |        |       |                          |
+|          | Vainqueur           | Général             | Montagne | Points | Jeune | Remarques                    |
+| -------- | ------------------- | ------------------- | -------- | ------ | ----- | ---------------------------- |
+| 1e (MEX) | [[Isaac Del Toro]]  | [[Isaac Del Toro]]  |          |        |       | 6e - [[Ilan Van Wilder]]     |
+| 2e (BEL) | [[Remco Evenepoel]] | [[Remco Evenepoel]] |          |        |       | CLM                          |
+| 3e (ITA) | [[Antonio Tiberi]]  | [[Antonio Tiberi]]  |          |        |       | 3e - [[Lennert Van Eetvelt]] |
 ## Femmes
 
 ### Etapes
