@@ -14,7 +14,7 @@ type: event
 |          | Vainqueur        | Général          | Montagne | Points | Jeune | Remarques                                                                   |
 | -------- | ---------------- | ---------------- | -------- | ------ | ----- | --------------------------------------------------------------------------- |
 | 1e (FRA) | [[Paul Magnier]] | [[Paul Magnier]] |          |        |       | 2e - [[Jordi Meeus]]<br>4e - [[Jasper Philipsen]]<br>6e - [[Arnaud de Lie]] |
-|          |                  |                  |          |        |       |                                                                             |
+| 2e (FRA) | [[Paul Seixas]]  | [[Paul Seixas]]  |          |        |       | 19e - [[Jarno Widar]]                                                       |
 |          |                  |                  |          |        |       |                                                                             |
 ## Femmes
 

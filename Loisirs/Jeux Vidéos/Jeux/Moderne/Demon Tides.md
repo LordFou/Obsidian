@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-350.webp]]
 # Demon Tides
 
 ## Informations Générales
@@ -18,9 +18,11 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 3D
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Canard PC : 8/10
+		- Kocobé : Nous sommes devant une vraie nouvelle référence du jeu de plateforme en 3D.
 - **Gameplay** :
 - **Durée estimée** : 
 
