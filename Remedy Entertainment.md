@@ -24,9 +24,10 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre               | Genre | Plateformes |
-| ----- | ------------------- | ----- | ----------- |
-| 2025  | [[FBC - Firebreak]] | FPS   | All         |
+| Année | Titre                | Genre | Plateformes |
+| ----- | -------------------- | ----- | ----------- |
+| 2025  | [[FBC - Firebreak]]  | FPS   | All         |
+|       | [[Control Resonant]] |       |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
