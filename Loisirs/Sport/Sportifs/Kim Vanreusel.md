@@ -13,9 +13,9 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                | Résultat | Remarque         |
-| ----- | -------------------------- | -------- | ---------------- |
-| 2026  | [[JO 2026]] - Slalom géant | 1ier     | Détail optionnel |
+| Année | Compétition                | Résultat | Remarque |
+| ----- | -------------------------- | -------- | -------- |
+| 2026  | [[JO 2026]] - Slalom géant | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
