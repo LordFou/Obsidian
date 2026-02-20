@@ -1,16 +1,16 @@
 ---
 type: game
 ---
-
+![[image-356.webp]]
 # Styx - Blades of Greed
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Cyanide]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Nacon]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Action]], [[Aventure]], [[Infiltration]]
@@ -18,7 +18,7 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 3D
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
@@ -28,6 +28,7 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Un gobelin (Styx)
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :

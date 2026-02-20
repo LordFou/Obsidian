@@ -14,13 +14,15 @@ type: game
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** : [[Plateforme]]
-- **Résumé** : explorez un vaste Archipel entièrement dessiné à la main, inspiré par d'anciennes fables et représenté avec un style d'animation classique image par image, et battez la mystérieuse Divinité.
+- **Résumé** : explorez un vaste archipel entièrement dessiné à la main, inspiré par d'anciennes fables et représenté avec un style d'animation classique image par image, et battez la mystérieuse Divinité.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : [[2D]]
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** :
+	- Izual
+		- Décors tropicaux à tomber
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -28,6 +30,7 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Un vieux monsieur (Goldman)
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
