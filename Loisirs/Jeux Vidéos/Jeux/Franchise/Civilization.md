@@ -5,7 +5,9 @@ type: game
 # Civilization
 
 ## Informations générales
-- Créateur(s) : [[Sid Meier]]
+- Créateur(s) : 
+	- [[Sid Meier]]
+	- [[Jake Salomon]]
 - Développeur(s) : {{Studio(s) de développement}}
 - Éditeur(s) : {{Nom de l’éditeur}}
 - Première apparition : {{Nom du premier jeu (année)}}
@@ -15,9 +17,9 @@ type: game
 {{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
 
 ## Jeux principaux
-| Titre            | Année     | Plateformes     | Remarque                       |
-| ---------------- | --------- | --------------- | ------------------------------ |
-| Civilization VII | 2025      | All             | Mélange civilisations possible |
+| Titre                | Année | Plateformes | Remarque                       |
+| -------------------- | ----- | ----------- | ------------------------------ |
+| [[Civilization VII]] | 2025  | All         | Mélange civilisations possible |
 ## Mécaniques et innovations
 {{Description des éléments de gameplay marquants, des innovations techniques et de ce qui rend la franchise unique.}}
 

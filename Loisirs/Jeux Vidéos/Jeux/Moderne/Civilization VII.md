@@ -1,3 +1,7 @@
+---
+type: game
+---
+
 # Civilization VII
 
 ![[Civ7_steam_logo.webp]]
