@@ -14,6 +14,7 @@
 	- Depuis le milieu des années 2000, des espions israéliens ([[MOSSAD]]) sont infiltrés en Iran et tuent des scientifiques qui travailleraient pour l'arme nucléaire. 
 		- Notamment, dans des attaques à moto dans la circulation.
 		- Frappe ultra précises sur leurs habitations 
+		- L'infiltration en Iran est facile car le régime est détesté par le peuple
 	- En 2009, un ingénieur néerlandais va diffuser un virus (StockNetz) qui va annihiler le programme iranien dans la centrale nucléaire de Natanz
 		- Ce virus accélère et décélère les centrifuges pour les mettre hors service
 		- Ralentissement du programme : 1 an et demi
@@ -28,4 +29,8 @@
 	- janvier 2018 : opération de vol
 	- Document de plus de 15 ans (donc avant l'accord) mais aucun ne prouve que l'accord de 2015 est caduque.
 	- [[Donald Trump]] se retire de l'accord de Vienne => les iraniens reprennent leur programme d'enrichissement d'uranium.
-- L'infiltration en Iran est facile car 
+- En XXXX, le premier scientifique iranien est abattu dans sa voiture par une mitrailleuse dirigée par Israël à plus de 2000km de là
+- Le 7 octobre 2022 (?), le [[Hamas]] tuent 1500 israliens et prennent une centaine d'otage après une incursion dans le pays.
+- La riposte d'Israël sur la bande de Gaza fait 70k morts palestiniens dont une majorité de civils
+- 1 an plus tard, le [[Hezbollah]] est attaqué par une explosion des beepers + bombardements. => le [[Hezbollah]] s'effondre
+- En dec 2024, chute de Bashar El Assad et dans le chaos, Israël détruit l'armée syrienne
