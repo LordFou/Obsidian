@@ -22,6 +22,7 @@ type: personne
 | 2026  | [[Championnat d'Europe de patinage de vitesse]] - 1000m             | 5e       |                              |
 | 2026  | [[JO 2026]] - 1000m                                                 | 20e      |                              |
 | 2026  | [[JO 2026]] - Poursuite par équipe                                  | 6e       |                              |
+| 2026  | [[JO 2026]] - 1500m                                                 | 20e      |                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

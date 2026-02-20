@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filippo Ganna.md",
+                "file": "JO 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Filippo Ganna"
+              "title": "JO 2026"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour d'al",
+                "query": "Johannes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,8 +205,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4642048edb23d37c",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
+    "Rijpma-de Jong.md",
+    "Loisirs/Sport/Compétitions/Championnat d'Europe de patinage de vitesse.md",
+    "JO 2026.md",
+    "Loisirs/Sport/Sportifs/Isabelle van Elst.md",
+    "Filippo Ganna.md",
     "Tour d'Algarve.md",
     "Juan Ayuso.md",
     "Paul Seixas.md",
@@ -228,11 +233,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Elder Scrolls Travels - Morrowind.md",
     "Hookaria Games.md",
     "Gabriel Sauvage.md",
-    "Franchise Elder Scrolls.md",
-    "Early Morning Studio.md",
-    "Donald Trump.md",
-    "Dome Keeper.md",
-    "Digital Image Design.md",
     "Attachments/image-361.webp",
     "Attachments/image-360.webp",
     "Attachments/image-359.webp",
