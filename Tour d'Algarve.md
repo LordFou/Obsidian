@@ -11,11 +11,11 @@ type: event
 
 ### Etapes 
 
-|          | Vainqueur        | Général          | Montagne | Points | Jeune | Remarques                                                                   |
-| -------- | ---------------- | ---------------- | -------- | ------ | ----- | --------------------------------------------------------------------------- |
-| 1e (FRA) | [[Paul Magnier]] | [[Paul Magnier]] |          |        |       | 2e - [[Jordi Meeus]]<br>4e - [[Jasper Philipsen]]<br>6e - [[Arnaud de Lie]] |
-| 2e (FRA) | [[Paul Seixas]]  | [[Paul Seixas]]  |          |        |       | 19e - [[Jarno Widar]]                                                       |
-|          |                  |                  |          |        |       |                                                                             |
+|          | Vainqueur         | Général          | Montagne | Points | Jeune | Remarques                                                                   |
+| -------- | ----------------- | ---------------- | -------- | ------ | ----- | --------------------------------------------------------------------------- |
+| 1e (FRA) | [[Paul Magnier]]  | [[Paul Magnier]] |          |        |       | 2e - [[Jordi Meeus]]<br>4e - [[Jasper Philipsen]]<br>6e - [[Arnaud de Lie]] |
+| 2e (FRA) | [[Paul Seixas]]   | [[Juan Ayuso]]   |          |        |       | 19e - [[Jarno Widar]]                                                       |
+| 3e (ITA) | [[Filippo Ganna]] | [[Juan Ayuso]]   |          |        |       |                                                                             |
 ## Femmes
 
 ### Etapes

@@ -18,7 +18,7 @@ type: personne
 | 2025  | [[Championnat National Italien de Cyclisme]] - CLM                        | 1ier     |           |
 | 2025  | [[Tour de France]]                                                        | Abandon  | Sur chute |
 | 2025  | [[Loisirs/Sport/Compétitions/Tour d'Espagne\|Tour d'Espagne]] - 18e étape | 1ier     | CLM       |
-|       |                                                                           |          |           |
+| 2026  | [[Tour d'Algarve]] - 3                                                    |          |           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
