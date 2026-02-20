@@ -2,19 +2,18 @@
 type: game
 ---
 
-# Citystate Metropolis
+# 1348 Ex Voto
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Sedleo]]
 	- Personnalités : 
-		- [[Andy Sztark]]
-- **Éditeur** : [[Andy Sztark]]
-- **Plateformes** : [[PC]]
+- **Éditeur** : [[Dear Villagers]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[City-Builder]]
+- **Genre** : [[Action]], [[Aventure]]
 - **Résumé** : 
 
 ## Détails Techniques
