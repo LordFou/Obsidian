@@ -41,4 +41,6 @@
 	- Ce sera donc un bombardement via B2 américain et une de leur bombardement
 	- Cessez le feu après 12 jours
 	- L'europe n'est pas certaine que la capacité de l'Iran ait été oblitérée
-- En 2026... révolte du peupl
+- En 2026, nouvelle révolte du peuple iranien contre son régime
+	- Des centaines de morts 
+	- Internet coupé pour cacher tout ça
