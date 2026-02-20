@@ -1,7 +1,8 @@
 ---
 type: societe
 ---
-# Don't Nod
+
+# Digital Image Design Ltd.
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -10,15 +11,22 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Nom complet** :  
 - **Date de création** :  
 - **Fondateurs** :  
+- **Personnalités** :
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
+```timeline-labeled
+[line-5, body-2]
+date:  
+title: 
+content:
+```
+
 ## Jeux Développés
-| Année | Titre            | Genre | Plateformes |
-| ----- | ---------------- | ----- | ----------- |
-| 2025  | [[Lost Records]] |       |             |
-|       | [[Aphelion]]     |       |             |
+| Année | Titre                            |
+| ----- | -------------------------------- |
+| 2026  | [[F-22 - Air Dominance Fighter]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
@@ -31,7 +39,7 @@ Décrire le style graphique, les thématiques abordées, les influences notables
 Lister les prix, distinctions ou records obtenus.
 
 ## Controverses ou Événements Marquants
-- Début 2025, l'entreprise traverse des difficultés niveau social. Une [[Grève générale]] est même organisée par une centaine d'employés du jeu vidéo pour notamment contrer un délestage de 69 employés suite aux mauvaises ventes des jeux précédents mais aussi dans le monde du jeu vidéo de manière générale.
+Évoquer les polémiques ou faits marquants de l’histoire de la société.
 
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
