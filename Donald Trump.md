@@ -6,7 +6,7 @@
 - Décembre 2025
 	- Gianni Infantino (Président FIFA) décerne un prix FIFA de la paix à Monseigneur Trump. 
 - Janvier 2026
-	- [[Trump]] attaque le vénézuela et enlève le dictateur [[Nicolas Maduro]] et sa femme pour les juger aux USA comme narco-trafiquant. Dans la foulée, il ne se cache même plus pour directement parler des opportunités que pourraient avoir les grandes compagnies pétrolières américaines.
+	- [[Donald Trump]] attaque le vénézuela et enlève le dictateur [[Nicolas Maduro]] et sa femme pour les juger aux USA comme narco-trafiquant. Dans la foulée, il ne se cache même plus pour directement parler des opportunités que pourraient avoir les grandes compagnies pétrolières américaines.
 		- Combien de temps avant que la Chine ne reprenne Taiwan ?
 		- Selon certains, la Russie est au courant et à laisser faire, ce qui sous-entend forcément des accords entre eux.
 		- Les 2 blocs (USA/Russie) se reforment

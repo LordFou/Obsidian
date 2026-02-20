@@ -5,10 +5,11 @@
 - Depuis l'Iran dit développer son domaine nucléaire uniquement pour usage médical, énergétique
 	- Les usines sont cachées et construites sur une vaste étendue.
 	- Ispahan
-- L'Iran finance
+- L'Iran finance 
 	- [[Hezbollah]] (Liban)
 	- [[Hamas]] (Palestine)
-	- Bachar Al Assad
+	- Bachar Al Assad (Syrie)
+	- Les milices (Iraq)
 - Opération contre l'Iran
 	- Depuis les années 2000, des espions israéliens ([[MOSSAD]]) sont infiltrés en Iran et tuent des scientifiques qui travailleraient pour l'arme nucléaire. 
 		- Notamment, dans des attaques à moto dans la circulation.
@@ -16,3 +17,10 @@
 	- En 2009, un ingénieur néerlandais va diffuser un virus (StockNetz) qui va annihiler le programme iranien dans la centrale nucléaire de Natanz
 		- Ce virus accélère et décélère les centrifuges pour les mettre hors service
 		- Ralentissement du programme : 1 an et demi
+	- En 2012 (?), le gouvernement veut tirer sur l'Iran mais l'armée et le [[MOSSAD]] les en dissuadent par crainte de représailles. Les USA (Barack Obama) et la France (François Hollande) ne veulent pas non plus aller à la guerre.
+		- 14 juillet 2009 - Accord de Vienne
+			- 19000 => 5000 centrifugeuses pour l'Iran
+			- Annulation des contraintes économiques
+			- Les iraniens espèrent une reprise économique et un gouvernement plus démocratique.
+			- Mais cet accord sera torpillé par [[Donald Trump]] et [[Benjamin Netanayou]]
+- Dès 2016, les israéliens travaillent à donner des preuves à [[Donald Trump]] de la présence des a

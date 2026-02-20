@@ -24,7 +24,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-- Durant les [[JO 2024]], elle avait été accusée d'être une athlète transgenre, par plusieurs personnalités dont Donald [[Trump]], [[Elon Musk]] ou encore la romancière britannique [[J.K. Rowling]]. => rien que des belles personnes quoi 👎
+- Durant les [[JO 2024]], elle avait été accusée d'être une athlète transgenre, par plusieurs personnalités dont Donald [[Donald Trump]], [[Elon Musk]] ou encore la romancière britannique [[J.K. Rowling]]. => rien que des belles personnes quoi 👎
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
