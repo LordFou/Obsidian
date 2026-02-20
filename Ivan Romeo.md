@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                          | Résultat | Remarque         |
-| ----- | ------------------------------------ | -------- | ---------------- |
-| 2025  | [[Critérium du Dauphiné]] - 3e étape | 1ier     | et Maillot Jaune |
+| Année | Compétition                          | Résultat | Remarque                      |
+| ----- | ------------------------------------ | -------- | ----------------------------- |
+| 2025  | [[Critérium du Dauphiné]] - 3e étape | 1ier     | et Maillot Jaune              |
+| 2026  | [[Tour d'Andalousie]] - 2e étape     | 1ier     | :luc_plus: Classement général |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

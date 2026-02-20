@@ -24,9 +24,11 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre        | Genre   | Plateformes |
-| ----- | ------------ | ------- | ----------- |
-| 2025  | [[REANIMAL]] | Horreur | PC          |
+| Année | Titre                  | Genre   | Plateformes |
+| ----- | ---------------------- | ------- | ----------- |
+|       | [[Little Nightmare]]   |         |             |
+|       | [[Little Nightmare 2]] |         |             |
+| 2025  | [[REANIMAL]]           | Horreur | PC          |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

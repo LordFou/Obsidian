@@ -25,7 +25,7 @@ content:
 | Titre                  | Année | Plateformes | Remarque |
 | ---------------------- | ----- | ----------- | -------- |
 | [[Little Nightmare]]   |       |             |          |
-| Little Nightmare 2     |       |             |          |
+| [[Little Nightmare 2]] |       |             |          |
 | [[Little Nightmare 3]] |       |             |          |
 
 

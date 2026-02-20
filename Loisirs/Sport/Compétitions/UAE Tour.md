@@ -17,7 +17,7 @@ type: event
 | 2e (BEL) | [[Remco Evenepoel]] | [[Remco Evenepoel]] |          |        |       | CLM                                                                                         |
 | 3e (ITA) | [[Antonio Tiberi]]  | [[Antonio Tiberi]]  |          |        |       | 3e - [[Lennert Van Eetvelt]]<br>Remco glisse à la 11e place après avoir souffert de crampes |
 | 4e (ITA) | [[Jonathan Milan]]  | [[Antonio Tiberi]]  |          |        |       |                                                                                             |
-|          |                     |                     |          |        |       |                                                                                             |
+| 5e (ITA) | [[Jonathan Milan]]  | [[Antonio Tiberi]]  |          |        |       | 7e - [[Steffen De Schuyteneer]]                                                             |
 ## Femmes
 
 ### Etapes

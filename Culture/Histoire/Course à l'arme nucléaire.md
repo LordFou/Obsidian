@@ -1,0 +1,46 @@
+# Iran VS Israël
+
+- Dans les années 60, les 2 nations collaboraient bcp, même dans le domaine nucléaire.
+- 1979 - Bascule côté iranien et fuite du shah d'Iran.
+- Depuis l'Iran dit développer son domaine nucléaire uniquement pour usage médical, énergétique
+	- Les usines sont cachées et construites sur une vaste étendue.
+	- Ispahan
+- L'Iran finance 
+	- [[Hezbollah]] (Liban)
+	- [[Hamas]] (Palestine)
+	- Bachar Al Assad (Syrie)
+	- Les milices (Iraq)
+- Opération contre l'Iran
+	- Depuis le milieu des années 2000, des espions israéliens ([[MOSSAD]]) sont infiltrés en Iran et tuent des scientifiques qui travailleraient pour l'arme nucléaire. 
+		- Notamment, dans des attaques à moto dans la circulation.
+		- Frappe ultra précises sur leurs habitations 
+		- L'infiltration en Iran est facile car le régime est détesté par le peuple
+	- En 2009, un ingénieur néerlandais va diffuser un virus (StockNetz) qui va annihiler le programme iranien dans la centrale nucléaire de Natanz
+		- Ce virus accélère et décélère les centrifuges pour les mettre hors service
+		- Ralentissement du programme : 1 an et demi
+	- En 2012 (?), le gouvernement veut tirer sur l'Iran mais l'armée et le [[MOSSAD]] les en dissuadent par crainte de représailles. Les USA (Barack Obama) et la France (François Hollande) ne veulent pas non plus aller à la guerre.
+		- 14 juillet 2015 - Accord de Vienne
+			- 19000 => 5000 centrifugeuses pour l'Iran
+			- Annulation des contraintes économiques
+			- Les iraniens espèrent une reprise économique et un gouvernement plus démocratique.
+			- Mais cet accord sera torpillé par [[Donald Trump]] et [[Benjamin Netanayou]]
+- Dès 2016, les israéliens travaillent à donner des preuves à [[Donald Trump]] de la présence des armes nucléaires
+- En 2018, Israël affirme avoir voler des documents de preuves dans le sud de Téhéran dans un endroit pas forcément sécurisé (Les iraniens ne voulaient pas attirer l'attention).
+	- janvier 2018 : opération de vol
+	- Document de plus de 15 ans (donc avant l'accord) mais aucun ne prouve que l'accord de 2015 est caduque.
+	- [[Donald Trump]] se retire de l'accord de Vienne => les iraniens reprennent leur programme d'enrichissement d'uranium.
+- En XXXX, le premier scientifique iranien est abattu dans sa voiture par une mitrailleuse dirigée par Israël à plus de 2000km de là
+- Le 7 octobre 2022 (?), le [[Hamas]] tuent 1500 israliens et prennent une centaine d'otage après une incursion dans le pays.
+- La riposte d'Israël sur la bande de Gaza fait 70k morts palestiniens dont une majorité de civils
+- 1 an plus tard, le [[Hezbollah]] est attaqué par une explosion des beepers + bombardements. => le [[Hezbollah]] s'effondre
+- En dec 2024, chute de Bashar El Assad et dans le chaos, Israël détruit l'armée syrienne dont la puissance aérienne et les bases de détection.
+- Du coup, une attaque aérienne en Iran est de nouveau possible en passant par la Syrie et l'Iraq (opération appuyée par les US où [[Donald Trump]] est réélu)
+	- Juin 2025, Israël attaque et c'est la panique en Iran (12 jours)
+	- L'Iran riposte et une 50aine de missiles passe quand même le bouclier Israel-USA (30aine de morts)
+	- Une seule centrale (Fordo) est inaccessible par les armes israeliennes car enfouie sous la roche
+	- Ce sera donc un bombardement via B2 américain et une de leur bombardement
+	- Cessez le feu après 12 jours
+	- L'europe n'est pas certaine que la capacité de l'Iran ait été oblitérée
+- En 2026, nouvelle révolte du peuple iranien contre son régime
+	- Des centaines de morts 
+	- Internet coupé pour cacher tout ça

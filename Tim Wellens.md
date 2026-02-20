@@ -15,6 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                     | Résultat         | Remarque                                           |
 | ----- | ----------------------------------------------- | ---------------- | -------------------------------------------------- |
+| 2018  | [[Tour d'Andalousie]] - Classement final        | 1ier             |                                                    |
 | 2025  | [[Championnat de Belgique de Cyclisme]] - Route | 1ier             | Détail optionnel                                   |
 | 2025  | [[Tour de France]] - 3e étape                   | Maillot Montagne | Juste pour éviter à [[Tadej Pogacar]] le protocole |
 | 2025  | [[Tour de France]] - 6e étape                   | Maillot Montagne |                                                    |

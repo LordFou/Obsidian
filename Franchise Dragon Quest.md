@@ -13,8 +13,7 @@ type: game
 - Genre principal : {{Stratégie, Action-Aventure, FPS...}}
 
 ## Résumé et historique
-{{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
-
+Vous jouez un petit groupe d'aventurier qui fait un périple d'îles en îles pour récupérer des tablettes. Chaque île est comme une petite histoire et il existe un fil rouge général.
 ```timeline-labeled
 [line-5, body-2]
 date:  

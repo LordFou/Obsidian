@@ -28,6 +28,7 @@ type: personne
 | 2026  | [[AlUla Tour]] - 1e étape            | 1ier 🥇      |                                              |
 | 2026  | [[AlUla Tour]] - 2e étape            | 1ier 🥇      |                                              |
 | 2026  | [[UAE Tour]] - 4e étape              | 1ier         | Sprint Massif                                |
+| 2026  | [[UAE Tour]] - 5e étape              | 1ier         | Sprint Massif                                |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
