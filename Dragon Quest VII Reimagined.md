@@ -27,7 +27,7 @@ Remake de l'antique [[Dragon Quest 7]]
 - **Réception critique** : 
 	- CheckPoint : 8.5/10
 - **Gameplay** :
-- **Durée estimée** : 
+- **Durée estimée** : 45-50h
 
 ## Histoire et Univers
 - **Lieu(x)** : 
