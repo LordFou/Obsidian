@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Tarsier Studio]]
 	- Personnalités : 
-- **Éditeur** : [[THQ Nordic]]
+- **Éditeur** : [[THQ Nordic]], [[Amplifier Studio]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
 - **Franchise** : 
 - **Genre** : [[Horreur]], [[Aventure]], [[Coopération]]
@@ -29,6 +29,7 @@ type: game
 	- Canard PC : 8/10
 - **Gameplay** :
 - **Durée estimée** : 3 à 5h
+- **Prix départ** : 40e
 
 ## Histoire et Univers
 - **Lieu(x)** : 
