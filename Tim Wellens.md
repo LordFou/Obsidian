@@ -21,6 +21,7 @@ type: personne
 | 2025  | [[Tour de France]] - 15e étape                  | 1ier             |                                                    |
 | 2025  | [[Critérium d'Alost]]                           | 1ier             |                                                    |
 | 2025  | [[Critérium de Roulers]]                        | 2e               |                                                    |
+| 2026  | [[Clasica Jaen]]                                | 1ier             |                                                    |
 
 # Style et Caractéristiques
 - Très bon équipier

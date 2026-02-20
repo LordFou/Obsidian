@@ -17,6 +17,7 @@ type: personne
 | ----- | ------------------------------- | -------- | -------- |
 | 2025  | Golden Spin de Zagreb           | 7e       |          |
 | 2026  | [[Euro de patinage artistique]] | 4e       |          |
+| 2026  | [[JO 2026]]                     | 13e      | SB       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

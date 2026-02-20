@@ -18,6 +18,8 @@ type: personne
 | 2025  | Coupe du Monde de Biathlon - Oestersund (Suède) | 6e       | Meilleure performance belge en [[Biathlon]] |
 | 2026  | [[JO 2026]] - Biathlon - Relais Mixte           | 19e      | Avec les [[Belgian Linxes]]                 |
 | 2026  | [[JO 2026]] - Biathlon                          | 33e      |                                             |
+| 2026  | [[JO 2026]] - Biathlon - Sprint                 | 26e      |                                             |
+| 2026  | [[JO 2026]] - Biathlon - Sprint par équipe      | 13e !!   | Avec les [[Belgian Linxes]]                 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

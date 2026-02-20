@@ -1,14 +1,14 @@
 ---
 type: game
 ---
-
+![[image-345.webp]]
 # Nioh 3
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[KOEI TECMO GAMES]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : [[PC]],[[Playstation 5]]

@@ -17,6 +17,7 @@ type: personne
 | ----- | ------------------------------- | -------- | ------------------------------------ |
 | 2025  | [[Tour de Wallonie]] - 3e étape | 2e       | Sprint                               |
 | 2026  | [[AlUla Tour]] - 1e étape       | 2e       | Sprint - Derrière [[Jonathan Milan]] |
+| 2026  | [[Clasica Almeria]]             | 2e       | Sprint - Derrière [[Biniam Girmay]]  |
 |       |                                 |          |                                      |
 
 # Style et Caractéristiques

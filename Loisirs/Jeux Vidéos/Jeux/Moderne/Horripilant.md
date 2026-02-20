@@ -11,9 +11,9 @@ type: game
 	- Studio : [[Pas Game Studio]]
 	- Personnalités : [[Alexandre Declos]]
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Casual]], [[RPG]], [[Simulation]], [[Idle Game]], [[Clicker]]
 - **Résumé** : 
 
 ## Détails Techniques

@@ -13,10 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                           | Résultat | Remarque                    |
-| ----- | ------------------------------------- | -------- | --------------------------- |
-| 2026  | [[JO 2026]] - Biathlon - Relais Mixte | 19e      | Avec les [[Belgian Linxes]] |
-| 2026  | [[JO 2026]] - Biathlon - Individuel   | 51e      |                             |
+| Année | Compétition                 | Résultat | Remarque                    |
+| ----- | --------------------------- | -------- | --------------------------- |
+| 2026  | [[JO 2026]] - Relais Mixte  | 19e      | Avec les [[Belgian Linxes]] |
+| 2026  | [[JO 2026]] - Individuel    | 51e      |                             |
+| 2026  | [[JO 2026]] - Sprint        | 85e      |                             |
+| 2026  | [[JO 2026]] - Relais Hommes | 19e      | Avec les [[Belgian Linxes]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

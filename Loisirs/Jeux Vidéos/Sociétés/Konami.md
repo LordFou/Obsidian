@@ -17,12 +17,13 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Mascotte** : un Manchot
 
 ## Jeux Développés
-| Année | Titre                                    | Genre                       | Plateformes                            |
-| ----- | ---------------------------------------- | --------------------------- | -------------------------------------- |
-| 1990  | [[Aliens]]                               | [[Beat'em up]], [[Shooter]] | Arcade                                 |
-|       | The Simpsons                             |                             | Arcade                                 |
-| 2025  | [[Metal Gear Solid Delta - Snake Eater]] |                             |                                        |
-| 2025  | [[Silent Hill F]]                        | Survival Horror             | PC, [[Playstation 5]], [[Xbox Series]] |
+| Année | Titre                                    | Genre                       | Plateformes                                |
+| ----- | ---------------------------------------- | --------------------------- | ------------------------------------------ |
+| 1990  | [[Aliens]]                               | [[Beat'em up]], [[Shooter]] | Arcade                                     |
+|       | The Simpsons                             |                             | Arcade                                     |
+| 2025  | [[Metal Gear Solid Delta - Snake Eater]] |                             |                                            |
+| 2025  | [[Silent Hill F]]                        | Survival Horror             | [[PC]], [[Playstation 5]], [[Xbox Series]] |
+| 2026  | [[Castlevania - Belmont's Curse]]        |                             |                                            |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

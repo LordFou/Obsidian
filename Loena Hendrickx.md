@@ -18,6 +18,7 @@ type: personne
 | 2025  | [[Grand Prix ISU d’Osaka]]      | 3e       |          |
 | 2025  | Grand Prix ISU d'Helsinki       | 10e ?    |          |
 | 2026  | [[Euro de patinage artistique]] | 2e       |          |
+| 2026  | [[JO 2026]]                     | 14e      |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

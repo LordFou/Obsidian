@@ -1,3 +1,6 @@
+---
+type: game
+---
 
 
 # Red Dead Redemption 2
@@ -25,13 +28,14 @@
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Arthur Morgan
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Quelqu'un a embauché [[Roger Clark]], voix d'Arthur Morgan dans le jeu, pour enregistrer un message d'excuses après avoir supprimé par accident la sauvegarde RDR2 de sa fiancée
 ## Liens et Ressources
 
 | Description                                  | URL                                                                         |

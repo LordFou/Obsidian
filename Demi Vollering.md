@@ -19,6 +19,9 @@ type: personne
 | 2025  | [[Tour de France]] - 5e étape                               | 2e       | Sprint à 6 |
 | 2025  | [[Tour de France]] - Classement final                       | 2e       |            |
 | 2025  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - Route | 1ière    |            |
+|       |                                                             |          |            |
+| 2026  | [[Tour de Valence]] - 4e étape                              | 1ière    |            |
+| 2026  | [[Tour de Valence]] - Classement final                      | 1ière    |            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

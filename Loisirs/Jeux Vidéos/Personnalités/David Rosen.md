@@ -8,7 +8,7 @@ type: personne
 Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
 
 ## Informations Générales
-- **Date de naissance** :  1930
+- **Date de naissance** :  1930 - Décembre 2025
 - **Nationalité** :  Américain
 - **Profession(s)** : 
 - **Entreprise(s) associée(s)** : 

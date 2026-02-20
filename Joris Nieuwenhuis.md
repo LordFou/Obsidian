@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat | Remarque |
-| ----- | --------------------- | -------- | -------- |
-| 2025  | [[Cross de Merkplas]] | 1ier     |          |
+| Année | Compétition                    | Résultat | Remarque |
+| ----- | ------------------------------ | -------- | -------- |
+| 2025  | [[Cross de Merkplas]]          | 1ier     |          |
+| 2026  | Trophée X2O - Classement Final | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

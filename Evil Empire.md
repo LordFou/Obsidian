@@ -24,9 +24,11 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                          | Genre      | Plateformes           |
-| ----- | ------------------------------ | ---------- | --------------------- |
-| 2025  | [[The Rogue Prince of Persia]] | Plateforme | PC, PS5, Xbox, Switch |
+| Année | Titre                             |
+| ----- | --------------------------------- |
+|       | [[Dead Cells]]                    |
+| 2025  | [[The Rogue Prince of Persia]]    |
+| 2026  | [[Castlevania - Belmont's Curse]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

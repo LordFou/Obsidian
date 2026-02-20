@@ -13,9 +13,9 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition | Résultat | Remarque |
-| ----- | ----------- | -------- | -------- |
-| 2026  | [[JO 2026]] |          |          |
+| Année | Compétition              | Résultat                  | Remarque |
+| ----- | ------------------------ | ------------------------- | -------- |
+| 2026  | [[JO 2026]] - Slopestyle | Eliminée en qualification |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

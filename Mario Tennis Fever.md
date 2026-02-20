@@ -8,7 +8,7 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Nintendo]]
+	- Studio : [[Camelot Software Planning]]
 	- Personnalités : 
 - **Éditeur** : [[Nintendo]]
 - **Plateformes** : [[Switch 2]]
@@ -20,7 +20,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- CheckPoint : 6/10
 - **Gameplay** :
 - **Durée estimée** : 
 

@@ -29,7 +29,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Fracture du bassin et de l'épaule (!) suite à une chute lors de la [[Clasica Jaen]] 2026, il va loupé quelques mois du début de la saison. Il a été balancé dans les barrières à l'arrivée par [[Jan Christen]]
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

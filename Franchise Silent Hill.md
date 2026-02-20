@@ -22,9 +22,12 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre | Année             | Plateformes | Remarque |
-| ----- | ----------------- | ----------- | -------- |
-| 2025  | [[Silent Hill F]] |             |          |
+| Titre | Année                      | Plateformes | Remarque |
+| ----- | -------------------------- | ----------- | -------- |
+|       | [[Silent Hill]]            |             |          |
+|       | [[Silent Hill 2]]          |             |          |
+| 2025  | [[Silent Hill F]]          |             |          |
+|       | [[Silent Hill - Townfall]] |             |          |
 
 
 ## Mécaniques et innovations

@@ -21,6 +21,9 @@ type: personne
 | 2025  | [[Tour de France]] - 17e étape | 2e       | Sprint   |
 | 2025  | [[Super 8 Classic]]            | 3e       | Sprint   |
 | 2025  | [[Binche-Chimay-Binche]]       | 1e       | Sprint   |
+|       |                                |          |          |
+| 2026  | [[Tour d'Algarve]] - 1e étape  | 2e       | Sprint   |
+|       |                                |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

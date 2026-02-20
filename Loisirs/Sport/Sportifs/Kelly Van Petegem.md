@@ -17,6 +17,7 @@ type: personne
 | ----- | ------------------------------------------------------------ | -------- | -------- |
 | 2025  | Coupe du Monde - 3e Manche - Altenberg (Allemagne) - Monobob | 3e       |          |
 | 2026  | Coupe du Monde - ? Manche - Altenberg (Allemagne) - Monobob  | 16e      |          |
+| 2026  | [[JO 2026]] - Monobob                                        | 19e      |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

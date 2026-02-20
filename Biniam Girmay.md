@@ -18,7 +18,7 @@ type: personne
 | 2024  | [[Circuit Franco-Belge]]       | 1ier     |                            |
 | 2025  | [[Tour de France]] - 1e étape  | 2e       | Maillot Blanc              |
 | 2026  | [[Tour de Valence]] - 1e étape | 1ier     | :luc_plus: Maillot Général |
-|       |                                |          |                            |
+| 2026  | [[Clasica Almeria]]            | 1ier     |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

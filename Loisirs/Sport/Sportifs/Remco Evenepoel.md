@@ -19,14 +19,18 @@ type: personne
 | 2019  | [[Championnat d'Europe de Cyclisme\|Championnat d'Europe]] - CLM                 | 2e       |                                                                           |
 | 2019  | [[Sportif-Sportive Belge de l'année]]                                            | 1ier     |                                                                           |
 | 2020  | [[Tour de San Juan]]                                                             | 1ier 🏆  |                                                                           |
-| 2020  | [[Tour de l'Algarve]]                                                            | 1ier 🏆  |                                                                           |
+| 2020  | [[Tour d'Algarve]] - Classement final                                            | 1ier 🏆  |                                                                           |
 | 2020  | [[Tour de Burgos]]                                                               | 1ier 🏆  |                                                                           |
 | 2020  | [[Tour de Pologne]] - Classement final                                           | 1ier 🏆  |                                                                           |
 | 2021  | [[Championnat d'Europe de Cyclisme\|Championnat d'Europe]] - Route               | 2e       |                                                                           |
 | 2021  | [[Championnat d'Europe de Cyclisme\|Championnat d'Europe]] - CLM                 | 3e       |                                                                           |
 | 2021  | [[Championnat du Monde de Cyclisme\|Championnat du Monde]] - CLM                 | 3e       |                                                                           |
+| 2022  | [[Tour d'Algarve]] - Classement final                                            | 1ier 🏆  |                                                                           |
 | 2022  | [[Liège-Bastogne-Liège]]                                                         | 1ier 🏆  |                                                                           |
 | 2022  | [[Championnat de Belgique de Cyclisme\|Championnat National]] - CLM              | 1ier 🏆  |                                                                           |
+| 2022  | [[Loisirs/Sport/Compétitions/Tour d'Espagne\|Tour d'Espagne]] - Xe étape         | 1ier 🏆  |                                                                           |
+| 2022  | [[Loisirs/Sport/Compétitions/Tour d'Espagne\|Tour d'Espagne]] - Xe étape         | 1ier 🏆  |                                                                           |
+| 2022  | [[Loisirs/Sport/Compétitions/Tour d'Espagne\|Tour d'Espagne]] - Xe étape         | 1ier 🏆  |                                                                           |
 | 2022  | [[Loisirs/Sport/Compétitions/Tour d'Espagne\|Tour d'Espagne]] - Classement final | 1ier 🏆  | Aucun belge n'avait gagné de grand tour depuis 1978                       |
 | 2022  | [[Championnat du Monde de Cyclisme\|Championnat du Monde]] - CLM                 | 3e       |                                                                           |
 | 2022  | [[Championnat du Monde de Cyclisme\|Championnat du Monde]] - Route               | 1ier 🏆  |                                                                           |
@@ -35,9 +39,7 @@ type: personne
 | 2023  | [[Tour d'Italie]] - Xe étape                                                     |          | CLM                                                                       |
 | 2023  | [[Championnat de Belgique de Cyclisme\|Championnat National]] - Route            | 1ier 🏆  |                                                                           |
 | 2023  | [[Championnat du Monde de Cyclisme\|Championnat du Monde]] - CLM                 | 1ier 🏆  |                                                                           |
-| 2022  | [[Loisirs/Sport/Compétitions/Tour d'Espagne\|Tour d'Espagne]] - Xe étape         | 1ier 🏆  |                                                                           |
-| 2022  | [[Loisirs/Sport/Compétitions/Tour d'Espagne\|Tour d'Espagne]] - Xe étape         | 1ier 🏆  |                                                                           |
-| 2022  | [[Loisirs/Sport/Compétitions/Tour d'Espagne\|Tour d'Espagne]] - Xe étape         | 1ier 🏆  |                                                                           |
+| 2024  | [[Tour d'Algarve]] - Classement final                                            | 1ier 🏆  |                                                                           |
 | 2024  | [[Tour de France]] - Xe étape                                                    | 1ier 🏆  |                                                                           |
 | 2024  | [[Tour de France]] - Maillot Blanc                                               | 1ier 🏆  |                                                                           |
 | 2024  | [[Tour de France]] - Classement final                                            | 3e       |                                                                           |
@@ -67,6 +69,7 @@ type: personne
 | 2026  | [[Tour de Valence]] - 2e étape                                                   | 1ier     | CLM                                                                       |
 | 2026  | [[Tour de Valence]] - 3e étape                                                   | 1ier     |                                                                           |
 | 2026  | [[Tour de Valence]] - Classement final                                           | 1ier     |                                                                           |
+| 2026  | [[UAE Tour]] - 2e étape                                                          | 1ier     | CLM                                                                       |
 ## Historique
 ```timeline-labeled
 [line-5, body-2]

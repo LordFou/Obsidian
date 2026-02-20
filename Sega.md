@@ -11,7 +11,9 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Nom complet** :  SErvice GAmes (SEGA)
 - **Date de création** :  
 - **Fondateurs** :  
+	- [[David Rosen]]
 - **Personnalités** :
+	- [[Hideki Sato]] (Ingénieur)
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :

@@ -5,7 +5,7 @@ type: personne
 # Jordan Stolz
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  2005
 - **Nationalité** :  Américain
 - **Sport / Discipline** :  [[Patinage de vitesse]]
 - **Poste / Spécialité** (si applicable) :  
@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                               | Résultat | Remarque                   |
 | ----- | ----------------------------------------- | -------- | -------------------------- |
 | 2026  | [[JO 2026]] - Patinage de vitesse - 1000m | 1ier     | 1:06.28 - Record Olympique |
+| 2026  | [[JO 2026]] - Patinage de vitesse - 500m  | 1ier     |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

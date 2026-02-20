@@ -10,8 +10,9 @@ type: game
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
+		- [[Edmund McMillen]]
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** :
 - **Résumé** : 

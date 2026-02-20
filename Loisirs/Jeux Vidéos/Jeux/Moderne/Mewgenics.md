@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-340.webp]]
 # Mewgenics
 
 ## Informations Générales
@@ -16,11 +16,11 @@ type: game
 - **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Aventure]], [[RPG]], [[Simulation]], [[Stratégie]], [[Roguelite]], [[Tour par tour]]
-- **Résumé** : 
+- **Résumé** : on élève des chats, qui ont des stats et des classes différentes, avant de les parachuter dans des batailles au tour par tour. Un bon milliard de compétences, d'objets, d'ennemis et de petites mécaniques.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 2.5D Isométrique
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- 9/10 (CheckPoint)
@@ -31,6 +31,7 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Des chats
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :

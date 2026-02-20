@@ -27,6 +27,7 @@ type: personne
 | 2026  | Championnat d'Europe - Saint-Moritz (Suisse) | ==1ière== |          |
 | 2026  | Coupe du Monde - Altenberg                   | 3e        |          |
 | 2026  | Coupe du Monde - Classement final            | ==1ière== |          |
+| 2026  | [[JO 2026]]                                  | 6e        |          |
 |       |                                              |           |          |
 
 # Style et Caractéristiques

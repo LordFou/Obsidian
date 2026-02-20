@@ -28,6 +28,7 @@ content:
 | ----- | -------------------------------------------------- | ----------------------------- |
 | 2025  | [[Final Fantasy Tactics - The Ivalice Chronicles]] |                               |
 | 2026  | [[Dragon Quest VII Reimagined]]                    | Square Enix Creative Studio 2 |
+| 2026  | [[PARANORMASIGHT - The Mermaid’s Curse]]           |                               |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

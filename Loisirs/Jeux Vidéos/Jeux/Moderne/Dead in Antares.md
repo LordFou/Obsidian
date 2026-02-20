@@ -11,9 +11,9 @@ type: game
 	- Studio : [[Ishtar Games]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Stratégie]], [[Tour par tour]], [[Survie]], [[Aventure]], [[RPG]]
 - **Résumé** : 
 
 ## Détails Techniques

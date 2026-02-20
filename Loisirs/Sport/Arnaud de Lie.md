@@ -6,8 +6,8 @@ type: personne
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Nationalité** :  Belge
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
@@ -31,6 +31,7 @@ type: personne
 | 2025  | [[Super 8 Classic]]                | 1ier 🥇  | Sprint                                                          |
 | 2025  | [[Paris-Chauny]]                   | 1ier 🥇  | Sprint                                                          |
 |       |                                    |          |                                                                 |
+| 2026  | [[Clasica Almeria]]                | 6e       | Sprint                                                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

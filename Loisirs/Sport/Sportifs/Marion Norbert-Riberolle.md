@@ -25,6 +25,7 @@ type: personne
 | 2026  | [[Championnat de Belgique de Cyclocross]]                 | 1ière        |                    |
 | 2026  | Maandagcross d'Otegem                                     | 1ière        |                    |
 | 2026  | [[Championnat du Monde de Cyclocross]]                    | Disqualifiée | pour mauvais geste |
+| 2026  | Trophée X2O - Cross de Bruxelles                          | 6e           |                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

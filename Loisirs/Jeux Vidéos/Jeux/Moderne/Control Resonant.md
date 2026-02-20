@@ -1,19 +1,19 @@
 ---
 type: game
 ---
-
-# High on Life
+![[image-353.webp]]
+# Control Resonant
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Remedy Entertainment]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
-- **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[FPS]]
+- **Plateformes** : 
+- **Franchise** : [[Franchise Control]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,7 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/GtTLjkB0vbo |
-|             |                              |
+| Description | URL |
+| ----------- | --- |
+|             |     |

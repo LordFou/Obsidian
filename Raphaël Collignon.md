@@ -16,6 +16,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                      | Résultat                   | Remarque                                                                             |
 | ----- | -------------------------------- | -------------------------- | ------------------------------------------------------------------------------------ |
+| 2025  | [[ATP - Tournoi de Pau]]         | Vainqueur                  |                                                                                      |
 | 2025  | [[Wimbledon]]                    | 1ier tour                  | ==Premier tournoi du grand Chelem==                                                  |
 | 2025  | [[US Open]]                      | 3e tour                    | 2 premières victoires en grand chelem !<br>Dont une contre Casper Ruud (12e mondial) |
 | 2025  | [[Coupe Davis]] - 2e tour qualif | Victoire de son 1ier match | ==Contre le 8e mondial==                                                             |
@@ -29,7 +30,8 @@ type: personne
 |       |                                  |                            |                                                                                      |
 | 2026  | [[ATP - Tournoi de Brisbane]]    | 1/4 finale                 | Après être passé par les qualifications                                              |
 | 2026  | [[Australian Open]]              | 1ier tour                  | Abandon après 3h de match                                                            |
-| 2026  | [[ATP - Tournoi de Pau]]         | 2e tour                    |                                                                                      |
+| 2026  | [[ATP - Tournoi de Pau]]         | Vainqueur                  |                                                                                      |
+|       |                                  |                            |                                                                                      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

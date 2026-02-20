@@ -17,6 +17,7 @@ type: personne
 | ----- | ------------------------------ | -------- | -------- |
 | 2025  | [[Tour de France]] - 14e étape | Abandon  |          |
 | 2026  | [[Tour Down Under]]            | Abandon  | Chute    |
+| 2026  | [[UAE Tour]] - 3e étape        | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
