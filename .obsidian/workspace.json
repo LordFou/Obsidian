@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Co",
+                "query": "jo 2026",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,8 +147,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,8 +222,10 @@
   },
   "active": "6d33bf9f118ade1c",
   "lastOpenFiles": [
-    "MOSSAD.md",
+    "Johannes Dale.md",
+    "JO 2026.md",
     "Culture/Histoire/Course à l'arme nucléaire.md",
+    "MOSSAD.md",
     "Loisirs/Jeux Vidéos/Thèmes/La Guerre froide.md",
     "Génocide Palestinien.md",
     "Loisirs/Sport/Pascal Ackermann.md",
@@ -251,8 +252,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Insider Trading.md",
     "Naiive.md",
     "Attachments/image-358.webp",
-    "REANIMAL.md",
-    "JO 2026.md",
     "Attachments/image-357.webp",
     "Attachments/image-356.webp",
     "Attachments/image-355.webp",
