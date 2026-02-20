@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JO 2026.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Franchise/Civilization.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "JO 2026"
+              "title": "Civilization"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Johannes",
+                "query": "Civi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,11 +205,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "4642048edb23d37c",
   "lastOpenFiles": [
+    "Slay the Spire 2.md",
+    "Franchise Slay The Spire.md",
+    "Slay the Spire.md",
+    "Loisirs/Sport/Sportifs/Finley Melville.md",
+    "Tineke den Dulk.md",
+    "JO 2026.md",
+    "Loisirs/Sport/Sportifs/Hanne Desmet.md",
     "Rijpma-de Jong.md",
     "Loisirs/Sport/Compétitions/Championnat d'Europe de patinage de vitesse.md",
-    "JO 2026.md",
     "Loisirs/Sport/Sportifs/Isabelle van Elst.md",
     "Filippo Ganna.md",
     "Tour d'Algarve.md",
@@ -227,12 +233,6 @@
     "MOSSAD.md",
     "Loisirs/Sport/Sportifs/Keely Hodgkinson.md",
     "Loisirs/Sport/Compétitions/Tour d'Andalousie.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire's Fall 2.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Slaverian Trucker.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Eternal Life of Goldman.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Elder Scrolls Travels - Morrowind.md",
-    "Hookaria Games.md",
-    "Gabriel Sauvage.md",
     "Attachments/image-361.webp",
     "Attachments/image-360.webp",
     "Attachments/image-359.webp",

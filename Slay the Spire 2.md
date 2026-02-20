@@ -2,17 +2,17 @@
 type: game
 ---
 
-# Slay the Spire
+# Slay the Spire 2
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Slay The Spire]]
+- **Franchise** : 
 - **Genre** :
 - **Résumé** : 
 

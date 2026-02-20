@@ -21,7 +21,7 @@ type: personne
 | 2026  | [[JO 2026]] - Relais Mixte                             | 3e 🥉      | [[Belgian Ice Bears]] |
 | 2026  | [[JO 2026]] - Patinage de vitesse - Shorttrack - 500m  | 1/4 finale |                       |
 | 2026  | [[JO 2026]] - Patinage de vitesse - Shorttrack - 1000m | 1/2 finale | Disqualifiée          |
-| 2026  | [[JO 2026]] - Patinage de vitesse - Shorttrack - 1500m |            |                       |
+| 2026  | [[JO 2026]] - Patinage de vitesse - Shorttrack - 1500m | 1/2 finale | Disqualifiée          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
