@@ -33,4 +33,12 @@
 - Le 7 octobre 2022 (?), le [[Hamas]] tuent 1500 israliens et prennent une centaine d'otage après une incursion dans le pays.
 - La riposte d'Israël sur la bande de Gaza fait 70k morts palestiniens dont une majorité de civils
 - 1 an plus tard, le [[Hezbollah]] est attaqué par une explosion des beepers + bombardements. => le [[Hezbollah]] s'effondre
-- En dec 2024, chute de Bashar El Assad et dans le chaos, Israël détruit l'armée syrienne
+- En dec 2024, chute de Bashar El Assad et dans le chaos, Israël détruit l'armée syrienne dont la puissance aérienne et les bases de détection.
+- Du coup, une attaque aérienne en Iran est de nouveau possible en passant par la Syrie et l'Iraq (opération appuyée par les US où [[Donald Trump]] est réélu)
+	- Juin 2025, Israël attaque et c'est la panique en Iran (12 jours)
+	- L'Iran riposte et une 50aine de missiles passe quand même le bouclier Israel-USA (30aine de morts)
+	- Une seule centrale (Fordo) est inaccessible par les armes israeliennes car enfouie sous la roche
+	- Ce sera donc un bombardement via B2 américain et une de leur bombardement
+	- Cessez le feu après 12 jours
+	- L'europe n'est pas certaine que la capacité de l'Iran ait été oblitérée
+- En 2026... révolte du peupl
