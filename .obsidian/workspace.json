@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Johannes Klaebo.md",
+                "file": "Océane Michelon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Johannes Klaebo"
+              "title": "Océane Michelon"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jo 2026",
+                "query": "UAE tour",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,7 +208,12 @@
   },
   "active": "4642048edb23d37c",
   "lastOpenFiles": [
+    "Attachments/image-362.webp",
     "JO 2026.md",
+    "Océane Michelon.md",
+    "Loisirs/Sport/Compétitions/UAE Tour.md",
+    "Loisirs/Sport/Tadej Pogacar.md",
+    "Johannes Klaebo.md",
     "Journal de bord/2026-02-21.md",
     "Loisirs/Sport/Compétitions/Tour d'Andalousie.md",
     "Axel Laurance.md",
@@ -228,11 +234,6 @@
     "Loisirs/Sport/Compétitions/Tour de Valence.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/1348 Ex Voto.md",
     "Dear Villagers.md",
-    "Sedleo.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Citystate Metropolis.md",
-    "Andy Sztark.md",
-    "Kim Gilli.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Warhammer 40k - Mechanicus II.md",
     "Attachments/image-361.webp",
     "Attachments/image-360.webp",
     "Attachments/image-359.webp",

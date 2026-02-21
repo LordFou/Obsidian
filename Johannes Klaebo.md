@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-336.webp]]
+
 # Johannes Klaebo
 
 # Informations Générales
@@ -25,7 +25,7 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-- Athlète le plus titré des JO d'hiver => 10 médailles d'or
+- Athlète le plus titré des JO d'hiver => 11 médailles d'or
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
