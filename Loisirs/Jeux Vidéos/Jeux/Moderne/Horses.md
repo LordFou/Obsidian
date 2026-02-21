@@ -12,6 +12,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
+	- [[PC]]
 - **Franchise** : 
 - **Genre** : [[Serious Game]]
 - **Résumé** : Jeu très dérangeant, très cru mais pour amener la réflexion sur certaines idées comme l'endoctrinement
@@ -21,6 +22,7 @@ type: game
 - **Graphismes** : 3D
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
+	- Canard PC : la réalisation n'est pas exempte de défaut, probablement à cause d'un budget serré mais on remarquera que l'univers du jeu vidéo n'est pas prêt a accepter facilement les jeux qui dérange à cause d'un message exprimé parfois de manière très crue.
 - **Gameplay** :
 	- Noir et Blanc
 	- Muet

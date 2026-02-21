@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Horses.md",
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Infinity Ward.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Horses"
+              "title": "Infinity Ward"
             },
             "group": "874f596295c5adad"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Horses.md",
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Infinity Ward.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Horses"
+              "title": "Graphique de Infinity Ward"
             },
             "group": "874f596295c5adad"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Horses",
+                "query": "Morsels",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,8 +131,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,11 +252,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4642048edb23d37c",
+  "active": "2066e9a3d214d366",
   "lastOpenFiles": [
+    "Jason West.md",
+    "Loisirs/Jeux Vidéos/Sociétés/Infinity Ward.md",
+    "Grant Collier.md",
+    "Vince Zampella.md",
+    "Call of Duty - Black Ops 7.md",
+    "Raven Software.md",
+    "Human Head Studio.md",
+    "Treyarch.md",
+    "Franchise Call of Duty.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Horses.md",
     "Santa Ragione.md",
     "Mediterranea Inferno.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Horses.md",
     "Loisirs/Sport/Equipes/Diables Noirs.md",
     "Arthur Fils.md",
     "Tournoi de Tokyo.md",
@@ -272,16 +280,7 @@
     "JO 2014.md",
     "JO 2026.md",
     "Loisirs/Sport/Sportifs/Bart Swings.md",
-    "Jordi Meeus.md",
-    "Tour d'Algarve.md",
-    "Paul Magnier.md",
-    "Loisirs/Sport/Compétitions/Tour d'Andalousie.md",
-    "Océane Michelon.md",
     "Attachments/image-362.webp",
-    "Loisirs/Sport/Compétitions/UAE Tour.md",
-    "Loisirs/Sport/Tadej Pogacar.md",
-    "Johannes Klaebo.md",
-    "Journal de bord/2026-02-21.md",
     "Attachments/image-361.webp",
     "Attachments/image-360.webp",
     "Attachments/image-359.webp",
