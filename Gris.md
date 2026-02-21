@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Chicory
+# Gris
 
 ## Informations Générales
 

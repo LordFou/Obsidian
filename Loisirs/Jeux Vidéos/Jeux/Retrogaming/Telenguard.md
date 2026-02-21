@@ -1,27 +1,30 @@
 ---
 type: game
 ---
-
-# Chicory
+![[image-363.webp]]
+# Telenguard
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 1985
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Avalon Hill]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
+- **Éditeur** : [[Avalon Hill]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[RPG]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Abandonware-france
+		- Très difficile
 - **Gameplay** :
+	- 50 niveaux dont le premier prendra du temps afin de comprendre tous les mécanismes du jeu.
 - **Durée estimée** : 
 
 ## Histoire et Univers

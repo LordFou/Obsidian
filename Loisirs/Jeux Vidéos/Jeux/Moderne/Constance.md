@@ -30,7 +30,7 @@ type: game
 		- Dans de splendides décors pastel, on y virevolte aux commandes d'une héroïne qui se bat avec son pinceau. Les avis [sont assez unanimes](https://www.gamekult.com/jeux/constance-3050888624/test.html?ref=temalesjeux.fr) et trouvent le jeu joli et chouette, même s'il lui manque des idées fortes pour se démarquer.
 		- 
 - **Gameplay** :
-- **Durée estimée** : 
+- **Durée estimée** : - de 10 heures
 
 ## Histoire et Univers
 - **Lieu(x)** : 
@@ -49,6 +49,7 @@ type: game
 	- [[Céleste]] (Histoire)
 	- [[Chicory]] (Histoire)
 	- [[Gris]] (Histoire)
+	- [[Braid]] (Univers graphique)
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
