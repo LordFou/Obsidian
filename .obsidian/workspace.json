@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/The Gladiators of Rome.md",
+                "file": "Microsoft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Gladiators of Rome"
+              "title": "Microsoft"
             },
             "group": "874f596295c5adad"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/The Gladiators of Rome.md",
+                "file": "Microsoft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de The Gladiators of Rome"
+              "title": "Graphique de Microsoft"
             },
             "group": "874f596295c5adad"
           }
@@ -254,8 +254,17 @@
   },
   "active": "4642048edb23d37c",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Telenguard.md",
+    "Matt Booty.md",
+    "Microsoft.md",
+    "Sarah Bond.md",
+    "Asha Sharma.md",
+    "Microsoft Gaming.md",
+    "Loisirs/Jeux Vidéos/Personnalités/Phil Spencer.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/The Gladiators of Rome.md",
+    "Attachments/image-364.webp",
+    "Activision.md",
+    "Cat Daddy Games.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Telenguard.md",
     "Avalon Hill.md",
     "Attachments/image-363.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Constance.md",
@@ -273,14 +282,6 @@
     "Grant Collier.md",
     "Vince Zampella.md",
     "Call of Duty - Black Ops 7.md",
-    "Raven Software.md",
-    "Human Head Studio.md",
-    "Treyarch.md",
-    "Franchise Call of Duty.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Horses.md",
-    "Santa Ragione.md",
-    "Mediterranea Inferno.md",
-    "Loisirs/Sport/Equipes/Diables Noirs.md",
     "Attachments/image-362.webp",
     "Attachments/image-361.webp",
     "Attachments/image-360.webp",
@@ -289,7 +290,6 @@
     "Attachments/image-357.webp",
     "Attachments/image-356.webp",
     "Attachments/image-355.webp",
-    "Attachments/image-354.webp",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",

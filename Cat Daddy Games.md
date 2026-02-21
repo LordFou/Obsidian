@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Microsoft
+# Cat Daddy Games
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -12,15 +12,9 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-	- [[Asha Sharma]], [[Phil Spencer]](Président [[Microsoft Gaming]])
-	- [[Sarah Bond]] (Présidente XBox)
-	- [[Matt Booty]] (Directeur [[Xbox Games Studio]])
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
-- **Filiales** : 
-	- [[Microsoft Gaming]]
-	- [[Xbox Games Studio]]
 
 ```timeline-labeled
 [line-5, body-2]
@@ -30,9 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre      | Genre              | Plateformes           |
-| ----- | ---------- | ------------------ | --------------------- |
-| XXXX  | Nom du jeu | Action / RPG / FPS | PC, PS5, Xbox, Switch |
+| Année | Titre                      |
+| ----- | -------------------------- |
+| 2003  | [[The Gladiators of Rome]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
@@ -45,7 +39,7 @@ Décrire le style graphique, les thématiques abordées, les influences notables
 Lister les prix, distinctions ou records obtenus.
 
 ## Controverses ou Événements Marquants
-- Lors de la guerre en Palestine en 2024-2025, la société est reconnue aider le gouvernement israélien notamment via du matériel informatique et des applications pour aider au niveau militaire.
+Évoquer les polémiques ou faits marquants de l’histoire de la société.
 
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
