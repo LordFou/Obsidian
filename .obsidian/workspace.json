@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sociétés/Infinity Ward.md",
+                "file": "Chicory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Infinity Ward"
+              "title": "Chicory"
             },
             "group": "874f596295c5adad"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sociétés/Infinity Ward.md",
+                "file": "Chicory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Infinity Ward"
+              "title": "Graphique de Chicory"
             },
             "group": "874f596295c5adad"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Morsels",
+                "query": "Constan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,7 +131,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,10 +253,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2066e9a3d214d366",
+  "active": "4642048edb23d37c",
   "lastOpenFiles": [
-    "Jason West.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Constance.md",
+    "Chicory.md",
+    "Céleste.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Morsels.md",
+    "Nuclear Throne.md",
+    "Furcula.md",
+    "Toby Dixon.md",
+    "Loisirs/Jeux Vidéos/Annapurna Interactive.md",
     "Loisirs/Jeux Vidéos/Sociétés/Infinity Ward.md",
+    "Jason West.md",
     "Grant Collier.md",
     "Vince Zampella.md",
     "Call of Duty - Black Ops 7.md",
@@ -272,14 +281,6 @@
     "Tournoi de Hambourg.md",
     "Tournoi de Lyon.md",
     "Alcaraz.md",
-    "Journal de bord/Archives/2025-03-23.md",
-    "Carlos Alcaraz.md",
-    "Tournoi de Doha.md",
-    "Alexander Blockx.md",
-    "Jorrit Bergsma.md",
-    "JO 2014.md",
-    "JO 2026.md",
-    "Loisirs/Sport/Sportifs/Bart Swings.md",
     "Attachments/image-362.webp",
     "Attachments/image-361.webp",
     "Attachments/image-360.webp",
