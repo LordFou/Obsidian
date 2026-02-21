@@ -11,6 +11,7 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
+- **Top Ranking** : 
 
 # Palmarès et Distinctions
 | Année | Compétition                            | Résultat  | Remarque                |
@@ -29,7 +30,7 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- 5 tournois challengers gagnés
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

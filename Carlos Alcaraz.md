@@ -23,6 +23,7 @@ type: personne
 | 2025  | [[ATP - Tournoi de Tokyo]] | Vainqueur |                                            |
 |       |                            |           |                                            |
 | 2026  | [[Australian Open]]        | Vainqueur | contre [[Novak Djokovic]]                  |
+| 2026  | [[Tournoi de Doha]]        | Vainqueur | contre [[Arthur Fils]]                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
