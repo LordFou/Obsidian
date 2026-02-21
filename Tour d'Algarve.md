@@ -16,6 +16,7 @@ type: event
 | 1e (FRA) | [[Paul Magnier]]  | [[Paul Magnier]] |          |        |       | 2e - [[Jordi Meeus]]<br>4e - [[Jasper Philipsen]]<br>6e - [[Arnaud de Lie]] |
 | 2e (FRA) | [[Paul Seixas]]   | [[Juan Ayuso]]   |          |        |       | 19e - [[Jarno Widar]]                                                       |
 | 3e (ITA) | [[Filippo Ganna]] | [[Juan Ayuso]]   |          |        |       |                                                                             |
+| 4e (FRA) | [[Paul Magnier]]  | [[Juan Ayuso]]   |          |        |       | 2e - [[Jordi Meeus]]                                                        |
 ## Femmes
 
 ### Etapes
