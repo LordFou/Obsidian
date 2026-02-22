@@ -25,9 +25,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                    |
-| ----- | ------------------------ |
-| XXXX  | Distant Shore - Bretagne |
+| Année | Titre                        |
+| ----- | ---------------------------- |
+| XXXX  | [[Distant Shore - Bretagne]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
