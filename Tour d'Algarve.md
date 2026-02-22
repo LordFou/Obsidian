@@ -17,6 +17,7 @@ type: event
 | 2e (FRA) | [[Paul Seixas]]   | [[Juan Ayuso]]   |          |        |       | 19e - [[Jarno Widar]]                                                       |
 | 3e (ITA) | [[Filippo Ganna]] | [[Juan Ayuso]]   |          |        |       |                                                                             |
 | 4e (FRA) | [[Paul Magnier]]  | [[Juan Ayuso]]   |          |        |       | 2e - [[Jordi Meeus]]                                                        |
+| 5e       | [[Juan Ayuso]]    | [[Juan Ayuso]]   |          |        |       |                                                                             |
 ## Femmes
 
 ### Etapes
