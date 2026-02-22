@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-365.webp]]
 # Distant Shore - Bretagne
 
 ## Informations Générales
