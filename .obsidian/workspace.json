@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Personnalités/Phil Spencer.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Distant Shore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phil Spencer"
+              "title": "Distant Shore"
             },
             "group": "874f596295c5adad"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Personnalités/Phil Spencer.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Distant Shore.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Phil Spencer"
+              "title": "Graphique de Distant Shore"
             },
             "group": "874f596295c5adad"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Constan",
+                "query": "Distant ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,7 +131,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,8 +255,10 @@
   },
   "active": "4642048edb23d37c",
   "lastOpenFiles": [
-    "Microsoft.md",
+    "Gabriel Sauvage.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Distant Shore.md",
     "Loisirs/Jeux Vidéos/Personnalités/Phil Spencer.md",
+    "Microsoft.md",
     "Satya Nadella.md",
     "Matt Booty.md",
     "Sarah Bond.md",
@@ -280,8 +283,6 @@
     "Loisirs/Jeux Vidéos/Annapurna Interactive.md",
     "Loisirs/Jeux Vidéos/Sociétés/Infinity Ward.md",
     "Jason West.md",
-    "Grant Collier.md",
-    "Vince Zampella.md",
     "Attachments/image-362.webp",
     "Attachments/image-361.webp",
     "Attachments/image-360.webp",
