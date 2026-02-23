@@ -14,17 +14,17 @@ type: personne
 - **Top Ranking** : 
 
 # Palmarès et Distinctions
-| Année | Compétition                            | Résultat  | Remarque                |
-| ----- | -------------------------------------- | --------- | ----------------------- |
-| ?     | ?                                      | Vainqueur |                         |
-| 2025  | ?                                      | Vainqueur |                         |
-| 2025  | [[Challenger - Tournoi de Bratislava]] | Vainqueur |                         |
-| 2025  | Next Gen ATP Finals                    | Finaliste | Contre [[Learner Tien]] |
-|       |                                        |           |                         |
-| 2026  | [[Challenger - Tournoi de Canberra]]   | Vainqueur | Arrivée dans le top 100 |
-| 2026  | [[Australian Open]]                    | 1ier Tour | [[Lucky Loser]]         |
-| 2026  | [[ATP - Tournoi de Pau]]               | ?         |                         |
-| 2026  | [[Tournoi de Lille]]                   | Finaliste |                         |
+| Année | Compétition                            | Résultat  | Remarque                           |
+| ----- | -------------------------------------- | --------- | ---------------------------------- |
+| ?     | ?                                      | Vainqueur |                                    |
+| 2025  | ?                                      | Vainqueur |                                    |
+| 2025  | [[Challenger - Tournoi de Bratislava]] | Vainqueur |                                    |
+| 2025  | Next Gen ATP Finals                    | Finaliste | Contre [[Learner Tien]]            |
+|       |                                        |           |                                    |
+| 2026  | [[Challenger - Tournoi de Canberra]]   | Vainqueur | Arrivée dans le top 100            |
+| 2026  | [[Australian Open]]                    | 1ier Tour | [[Lucky Loser]]                    |
+| 2026  | [[ATP - Tournoi de Pau]]               | ?         |                                    |
+| 2026  | [[Tournoi de Lille]]                   | Finaliste | Défaite contre [[Luca Van Assche]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

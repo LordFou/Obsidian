@@ -12,7 +12,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : [[Nacon]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
-- **Franchise** : 
+- **Franchise** : [[Franchise Styx]]
 - **Genre** : [[Action]], [[Aventure]], [[Infiltration]]
 - **Résumé** : 
 

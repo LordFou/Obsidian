@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-02-23.md",
+                "file": "Franchise Styx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-23"
+              "title": "Franchise Styx"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jo",
+                "query": "Styx",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,10 +205,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4642048edb23d37c",
+  "active": "dbacc6f984f28690",
   "lastOpenFiles": [
-    "Loisirs/Sport/Equipes/Waterloo Ducks.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Styx - Blades of Greed.md",
+    "Franchise Styx.md",
+    "Luca Van Assche.md",
+    "Alexander Blockx.md",
+    "Loisirs/Sport/Compétitions/Tournoi de Lille.md",
     "Journal de bord/2026-02-23.md",
+    "Loisirs/Sport/Equipes/Waterloo Ducks.md",
     "Attachments/image-366.webp",
     "EuroHockey Indoor Club Cup.md",
     "Eileen Gu.md",
@@ -230,12 +235,7 @@
     "Microsoft.md",
     "Satya Nadella.md",
     "Matt Booty.md",
-    "Sarah Bond.md",
-    "Asha Sharma.md",
-    "Microsoft Gaming.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/The Gladiators of Rome.md",
     "Attachments/image-364.webp",
-    "Activision.md",
     "Attachments/image-363.webp",
     "Attachments/image-362.webp",
     "Attachments/image-361.webp",
