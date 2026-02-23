@@ -1,28 +1,26 @@
 ---
 type: game
 ---
-![[image-367.webp]]
-# Lovish
+
+# God Of War - Sons of Sparta
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[LABS Works]]
+	- Studio : [[SIE Santa Monica Studio]], [[Mega Cat Studios]]
 	- Personnalités : 
-- **Éditeur** : [[DANGEN Entertainment]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[XBox One]], [[Xbox Series]], [[Switch]]
+- **Éditeur** : [[Sony]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[Casual]], [[Plateforme]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : 
-	- [[Pixel Art]], 8-bits
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- CheckPoint (7/10)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -39,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/rA9lX-kZ_0o |
+| Description | URL |
+| ----------- | --- |
+|             |     |
