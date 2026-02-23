@@ -8,19 +8,22 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[SIE Santa Monica Studio]], [[Mega Cat Studios]]
+	- Studio : 
+		- [[SIE Santa Monica Studio]]
+		- [[Mega Cat Studios]]
 	- Personnalités : 
 - **Éditeur** : [[Sony]]
-- **Plateformes** : 
-- **Franchise** : 
-- **Genre** :
+- **Plateformes** : [[Playstation 5]]
+- **Franchise** : [[Franchise God of War]]
+- **Genre** : [[Plateforme]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 2D
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- CheckPoint : 5/10
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -37,6 +40,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Trailer     | https://youtu.be/U52IoQjkQLQ?si=D-ye7HlYjFC_DOuR |
