@@ -3,7 +3,6 @@ doc_type: hypothesis-highlights
 url: >-
   https://checkpointgaming.net/reviews/2025/07/islanders-new-shores-review-a-whole-new-world/
 ---
-
 # ISLANDERS: New Shores Review - A whole new world
 
 ## Metadata
@@ -49,6 +48,7 @@ url: >-
 - Positif: Des visuels améliorés tout en conservant l'ambiance chaleureuse De nouvelles fonctionnalités ajoutent un nouveau défi à ce qui était déjà un jeu à succès Des mécanismes de jeu familiers pour ceux qui reviennent — [Updated on 2025-08-02 00:25:26](https://hyp.is/bJ1c-G8mEfCJJ78LQJN-8Q/checkpointgaming.net/reviews/2025/07/islanders-new-shores-review-a-whole-new-world/) — Group: #Public
 
 - C'est comme si vous jouiez au détecteur de métaux pour collecter le plus de points — [Updated on 2025-08-02 00:25:35](https://hyp.is/ceczMm8mEfCUnQ8BD4CrcQ/checkpointgaming.net/reviews/2025/07/islanders-new-shores-review-a-whole-new-world/) — Group: #Public
+
 
 
 

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aa6a538c329ddca3",
+        "id": "6f7c964568434a87",
         "type": "tabs",
         "children": [
           {
-            "id": "4642048edb23d37c",
+            "id": "55bc120aef1bf413",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Personnalités/Olivier Deriviere.md",
+                "file": "Ressources/Death Stranding 2 On The Beach Review - On the Road again.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Olivier Deriviere"
+              "title": "Death Stranding 2 On The Beach Review - On the Road again"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,8 +204,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4642048edb23d37c",
+  "active": "55bc120aef1bf413",
   "lastOpenFiles": [
+    "Ressources/Gabriel Sauvage, Directeur créatif chez Distant Shore - Pointn Think.md",
+    "Ressources/Lâge dor du survival horror  mythe ou réalité  (Partie 1).md",
+    "Ressources/ISLANDERS New Shores Review - A whole new world.md",
+    "Ressources/Death Stranding 2 On The Beach Review - On the Road again.md",
+    "Ressources/Everdeep Aurora Review - Dig below the surface.md",
+    "Ressources/Bluesky Social.md",
+    "Loisirs/Jeux Vidéos/Personnalités/Olivier Deriviere.md",
+    "Game of Faune  3D Monster Maze, le plus révolutionnaire des dinosaures.md",
+    "🐸 Savourez le jeu inachevé du créateur de A Short Hike.md",
     "Journal de bord/2026-02-23.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/God Of War - Sons of Sparta.md",
     "Loisirs/Sport/Sportifs/Warren Barguil.md",
@@ -226,15 +234,6 @@
     "Loisirs/Sport/Equipes/Waterloo Ducks.md",
     "Attachments/image-366.webp",
     "EuroHockey Indoor Club Cup.md",
-    "Eileen Gu.md",
-    "JO 2026.md",
-    "Jonathan Milan.md",
-    "Loisirs/Sport/Compétitions/UAE Tour.md",
-    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
-    "Loisirs/Sport/Sportifs/Lennert Van Eetvelt.md",
-    "Isaac Del Toro.md",
-    "Loisirs/Sport/Compétitions/AlUla Tour.md",
-    "Tour d'Algarve.md",
     "Attachments/image-365.webp",
     "Attachments/image-364.webp",
     "Attachments/image-363.webp",
