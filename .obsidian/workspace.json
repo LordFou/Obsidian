@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-02-23.md",
+                "file": "Loisirs/Jeux Vidéos/Personnalités/Olivier Deriviere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-23"
+              "title": "Olivier Deriviere"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Olivier d",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,8 +205,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "4642048edb23d37c",
   "lastOpenFiles": [
+    "Journal de bord/2026-02-23.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/God Of War - Sons of Sparta.md",
     "Loisirs/Sport/Sportifs/Warren Barguil.md",
     "Franchise God of War.md",
@@ -222,7 +223,6 @@
     "Luca Van Assche.md",
     "Alexander Blockx.md",
     "Loisirs/Sport/Compétitions/Tournoi de Lille.md",
-    "Journal de bord/2026-02-23.md",
     "Loisirs/Sport/Equipes/Waterloo Ducks.md",
     "Attachments/image-366.webp",
     "EuroHockey Indoor Club Cup.md",

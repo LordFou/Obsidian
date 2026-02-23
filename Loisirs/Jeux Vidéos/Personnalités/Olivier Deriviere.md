@@ -70,4 +70,4 @@ Expliquer comment son travail influence encore le monde du jeu vidéo aujourd’
 
 ## Sources et Références
 - https://open.spotify.com/intl-fr/artist/2CXwRGFTYdcEAI44NT7qDR
-- [Article détaillé](#)
+- https://podcast.ausha.co/point-n-think/interview-olivier-deriviere
