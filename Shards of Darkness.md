@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Lovish
+# Shards of Darkness
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 20117
 - **Développeur** : 
-	- Studio : [[LABS Works]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[DANGEN Entertainment]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[XBox One]], [[Xbox Series]], [[Switch]]
-- **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[Casual]], [[Plateforme]]
+- **Éditeur** : 
+- **Plateformes** : 
+- **Franchise** : [[Franchise Styx]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/rA9lX-kZ_0o |
+| Description | URL |
+| ----------- | --- |
+|             |     |

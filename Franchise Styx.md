@@ -24,8 +24,8 @@ content:
 ## Jeux principaux
 | Titre                      | Année | Plateformes | Remarque |
 | -------------------------- | ----- | ----------- | -------- |
-| Master of Shadows          | 2014  |             |          |
-| Shards of Darkness         |       |             |          |
+| [[Master of Shadows]]      | 2014  |             |          |
+| [[Shards of Darkness]]     | 2017  |             |          |
 | [[Styx - Blades of Greed]] | 2026  |             |          |
 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Franchise Styx.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Lovish.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Franchise Styx"
+              "title": "Lovish"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Styx",
+                "query": "Lovish",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,10 +205,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbacc6f984f28690",
+  "active": "4642048edb23d37c",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Styx - Blades of Greed.md",
+    "DANGEN Entertainment.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Lovish.md",
     "Franchise Styx.md",
+    "Shards of Darkness.md",
+    "Master of Shadows.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Styx - Blades of Greed.md",
     "Luca Van Assche.md",
     "Alexander Blockx.md",
     "Loisirs/Sport/Compétitions/Tournoi de Lille.md",
@@ -231,10 +235,6 @@
     "Attachments/image-365.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Distant Shore.md",
     "Gabriel Sauvage.md",
-    "Loisirs/Jeux Vidéos/Personnalités/Phil Spencer.md",
-    "Microsoft.md",
-    "Satya Nadella.md",
-    "Matt Booty.md",
     "Attachments/image-364.webp",
     "Attachments/image-363.webp",
     "Attachments/image-362.webp",
