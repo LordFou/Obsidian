@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Circuit Het Nieuwsblad.md",
+                "file": "Loisirs/Sport/Sportifs/Niels Vandeputte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Circuit Het Nieuwsblad"
+              "title": "Niels Vandeputte"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nieuw",
+                "query": "Joris",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,8 +205,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55bc120aef1bf413",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
+    "Circuit Het Nieuwsblad.md",
     "JO 2026.md",
     "Zizou Bergs.md",
     "United Cup.md",
@@ -233,7 +234,6 @@
     "DANGEN Entertainment.md",
     "Franchise Styx.md",
     "Shards of Darkness.md",
-    "Master of Shadows.md",
     "Attachments/image-366.webp",
     "Attachments/image-365.webp",
     "Attachments/image-364.webp",
