@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Niels Vandeputte.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Franchise/Sans titre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Niels Vandeputte"
+              "title": "Sans titre"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Joris",
+                "query": "Franchise Batman",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,8 +204,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "55bc120aef1bf413",
   "lastOpenFiles": [
+    "Joris Nieuwenhuis.md",
+    "Loisirs/Jeux Vidéos/Jeux/Franchise/Sans titre.md",
+    "Loisirs/Sport/Sportifs/Niels Vandeputte.md",
     "Circuit Het Nieuwsblad.md",
     "JO 2026.md",
     "Zizou Bergs.md",
@@ -231,9 +233,6 @@
     "SIE Santa Monica Studio.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Lovish.md",
     "Attachments/image-367.webp",
-    "DANGEN Entertainment.md",
-    "Franchise Styx.md",
-    "Shards of Darkness.md",
     "Attachments/image-366.webp",
     "Attachments/image-365.webp",
     "Attachments/image-364.webp",
