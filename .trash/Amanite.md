@@ -2,17 +2,17 @@
 type: game
 ---
 
-# Batman Forever
+# Amanite
 
 ## Informations Générales
 
-- **Année de sortie** : 1995
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Probe Entertainment]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Acclaim Entertainement]]
-- **Plateformes** : [[SNES]],[[Megadrive]]
-- **Franchise** :  [[Franchise Batman]]
+- **Éditeur** : 
+- **Plateformes** : 
+- **Franchise** : 
 - **Genre** :
 - **Résumé** : 
 
@@ -40,3 +40,4 @@ type: game
 | Description | URL |
 | ----------- | --- |
 |             |     |
+	

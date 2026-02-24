@@ -2,17 +2,17 @@
 type: game
 ---
 
-# Batman Forever
+# Batman Beyond - Return of the Joker
 
 ## Informations Générales
 
-- **Année de sortie** : 1995
+- **Année de sortie** : 2000
 - **Développeur** : 
-	- Studio : [[Probe Entertainment]]
+	- Studio : [[Ubisoft Montréal]]
 	- Personnalités : 
-- **Éditeur** : [[Acclaim Entertainement]]
-- **Plateformes** : [[SNES]],[[Megadrive]]
-- **Franchise** :  [[Franchise Batman]]
+- **Éditeur** : [[Ubisoft]]
+- **Plateformes** : 
+- **Franchise** : 
 - **Genre** :
 - **Résumé** : 
 

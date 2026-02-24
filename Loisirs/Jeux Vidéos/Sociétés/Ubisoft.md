@@ -1,7 +1,7 @@
 ---
 type: societe
 ---
-# Ubisoft
+# Ubisoft Entertainment
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -14,6 +14,8 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Site officiel** : [Lien](#)  
 - **Equipe de dev** : 
 	- [[Ubisoft Quebec]]
+	- [[Ubisoft Montréal]]
+	- [[Ubisoft Mainz]]
 
 ## Jeux Développés
 | Année | Titre                             | Genre                             | Plateformes |
@@ -45,6 +47,8 @@ Lister les prix, distinctions ou records obtenus.
 	- Ils veulent virer 55 personnes de Massive Entertainment et Ubisoft Stockholm
 	- 29 personnes ont été licenciés à Abu Dhabi
 	- Une grève de 3 jours est enclenchée
+	- 40 personnes ont été licenciées à Toronto sur les 500 de la filiale
+	- 
 	  ![[image-335.webp]]
 
 ## Filiales et Partenaires

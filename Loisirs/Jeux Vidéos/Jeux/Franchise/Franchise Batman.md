@@ -22,14 +22,16 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                                | Année     | Plateformes                 | Remarque |
-| ------------------------------------ | --------- | --------------------------- | -------- |
-| [[Batman - The Video Game]]          | 1989      | [[NES]]                     |          |
-| [[Batman]]                           | 1990      | [[Game Boy]], [[Megadrive]] |          |
-| [[Batman - Return of the Joker]]     | 1991      | [[NES]]                     |          |
-| [[Batman Returns]]                   | 1992      | [[SNES]]                    |          |
-| [[The Adventures of Batman & Robin]] | 1994,1995 | [[SNES]], [[Megadrive]]     |          |
-| [[Batman Forever]]                   | 1995      | [[SNES]], [[Megadrive]]     |          |
+| Titre                                   | Année     | Plateformes                      | Remarque |
+| --------------------------------------- | --------- | -------------------------------- | -------- |
+| [[Batman - The Video Game]]             | 1989      | [[NES]]                          |          |
+| [[Batman]]                              | 1990      | [[Game Boy]], [[Megadrive]]      |          |
+| [[Batman - Return of the Joker]]        | 1991      | [[NES]]                          |          |
+| [[Batman Returns]]                      | 1992      | [[SNES]]                         |          |
+| [[The Adventures of Batman & Robin]]    | 1994,1995 | [[SNES]], [[Megadrive]]          |          |
+| [[Batman Forever]]                      | 1995      | [[SNES]], [[Megadrive]]          |          |
+| [[Batman & Robin]]                      | 1998      | [[Playstation]]                  |          |
+| [[Batman Beyond - Return of the Joker]] | 2000      | [[Nintendo 64]], [[Playstation]] |          |
 
 
 ## Mécaniques et innovations

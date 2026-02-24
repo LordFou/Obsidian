@@ -2,23 +2,23 @@
 type: game
 ---
 
-# Batman Forever
+# Batman & Robin
 
 ## Informations Générales
 
-- **Année de sortie** : 1995
+- **Année de sortie** : 1998
 - **Développeur** : 
 	- Studio : [[Probe Entertainment]]
 	- Personnalités : 
 - **Éditeur** : [[Acclaim Entertainement]]
-- **Plateformes** : [[SNES]],[[Megadrive]]
-- **Franchise** :  [[Franchise Batman]]
+- **Plateformes** : [[Playstation]]
+- **Franchise** : [[Franchise Batman]]
 - **Genre** :
-- **Résumé** : 
+- **Résumé** : Inspiré du film homonyme de 1997, il propose une adaptation libre des aventures des super-héros de DC Comics dans un environnement semi-ouvert de Gotham City.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 3D
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
