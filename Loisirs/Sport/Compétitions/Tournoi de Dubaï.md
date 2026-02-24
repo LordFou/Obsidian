@@ -2,7 +2,7 @@
 type: event
 ---
 
-# WTA - Tournoi de Dubaï
+# WTA - ATP 500 - Tournoi de Dubaï
 
 # Introduction
 
