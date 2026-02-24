@@ -6,6 +6,8 @@ type: event
 
 # Introduction
 
+Aussi appelé Omloop Het Nieuwsblad
+
 # Hommes
 
 | Année | Vainqueur              | Nationalité | Remarque |
