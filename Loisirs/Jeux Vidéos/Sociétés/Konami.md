@@ -21,6 +21,8 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 | ----- | ---------------------------------------- | --------------------------- | ------------------------------------------ |
 | 1990  | [[Aliens]]                               | [[Beat'em up]], [[Shooter]] | Arcade                                     |
 |       | The Simpsons                             |                             | Arcade                                     |
+| 1992  | [[Batman Returns]]                       |                             |                                            |
+| 1994  | [[The Adventures of Batman & Robin]]     |                             |                                            |
 | 2025  | [[Metal Gear Solid Delta - Snake Eater]] |                             |                                            |
 | 2025  | [[Silent Hill F]]                        | Survival Horror             | [[PC]], [[Playstation 5]], [[Xbox Series]] |
 | 2026  | [[Castlevania - Belmont's Curse]]        |                             |                                            |
