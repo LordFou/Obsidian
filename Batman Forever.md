@@ -2,19 +2,19 @@
 type: game
 ---
 
-# The Adventures of Batman & Robin
+# Batman Forever
 
 ## Informations Générales
 
-- **Année de sortie** : 1994
+- **Année de sortie** : 1995
 - **Développeur** : 
-	- Studio : [[Konami]] ([[SNES]]), [[Clockwork Tortoise]] ([[Megadrive]])
+	- Studio : [[Probe Entertainment]]
 	- Personnalités : 
-- **Éditeur** : [[Konami]]([[SNES]]), [[Sega]]([[Megadrive]])
-- **Plateformes** : [[SNES]] (1994), [[Megadrive]] (1995)
-- **Franchise** : [[Franchise Batman]]
-- **Genre** : [[Plateforme]], [[Action]]
-- **Résumé** : il est inspiré de la série animée Batman: The Animated Series, renommée à l’époque The Adventures of Batman & Robin. Ce titre se distingue par sa fidélité à l’esthétique et à l’atmosphère du dessin animé culte des années 1990.
+- **Éditeur** : Acclaim Entertainement
+- **Plateformes** : 
+- **Franchise** : 
+- **Genre** :
+- **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 

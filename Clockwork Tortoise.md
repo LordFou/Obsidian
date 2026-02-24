@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Sunsoft
+# Clockwork Tortoise
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,12 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                            |
-| ----- | -------------------------------- |
-| 1989  | [[Batman - The Video Game]]      |
-| 1990  | [[Batman]]                       |
-| 1991  | [[Batman - Return of the Joker]] |
-|       |                                  |
+| Année | Titre                                |
+| ----- | ------------------------------------ |
+| 1995  | [[The Adventures of Batman & Robin]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
