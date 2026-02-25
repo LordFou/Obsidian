@@ -5,17 +5,17 @@ type: personne
 # Neilson Powless
 
 # Informations Générales
-- **Date de naissance** :  
-- **Nationalité** :  
+- **Date de naissance** :  1997
+- **Nationalité** :  Américain
 - **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| 2025  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition              | Résultat | Remarque |
+| ----- | ------------------------ | -------- | -------- |
+| 2025  | [[A Travers la Flandre]] | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -24,7 +24,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - https://www.rtbf.be/article/frustre-neilson-powless-improvise-un-jogging-en-pleine-course-cycliste-aux-etats-unis-11597563
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- En février 2026, il observe une période de convalescence de 8 à 12 semaines après une opération du genou gauche. => il manquera donc les classiques du début de saison.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
