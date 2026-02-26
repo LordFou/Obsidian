@@ -54,9 +54,11 @@ type: game
 
 # Polémiques
 - Après avoir découvert que le jeu se sert de l'IA pour générer certains assets, l'organisation des jeux indépendants lui retirera son prix de l'année => [Article](https://www.videogameschronicle.com/news/clair-obscur-expedition-33-game-of-the-year-award-pulled-after-admitting-to-generative-ai-use/)
+- Certains observateurs trouvent le jeu empreint de sentiments de nationalisme, racisme. Mauvaise image de la femme et des étrangers (cfr ). 
 ## Liens et Ressources
 
 | Description | URL                                                                                          |
 | ----------- | -------------------------------------------------------------------------------------------- |
 |             | https://www.pointnthink.fr/fr/clair-obscur-expedition-33-une-peinture-du-vivant-qui-sefface/ |
 |             | https://www.pointnthink.fr/fr/the-art-of-clair-obscur-expedition-33-2/                       |
+|             |                                                                                              |

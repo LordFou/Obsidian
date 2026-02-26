@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nicolò Garibbo.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Clair Obscur - Expedition 33.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nicolò Garibbo"
+              "title": "Clair Obscur - Expedition 33"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "A travers",
+                "query": "Clair obscur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,8 +207,11 @@
   },
   "active": "55bc120aef1bf413",
   "lastOpenFiles": [
-    "Loisirs/Sport/Compétitions/Tour de Sardaigne.md",
+    "Loisirs/Jeux Vidéos/Clair Obscur - Expedition 33.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Clair Obscur - Expedition 33.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Jeux 2025.md",
     "Nicolò Garibbo.md",
+    "Loisirs/Sport/Compétitions/Tour de Sardaigne.md",
     "Neilson Powless.md",
     "A Travers la Flandre.md",
     "Journal de bord/2026-02-25.md",
@@ -230,9 +233,6 @@
     "Batman Returns.md",
     "Batman - The Video Game.md",
     "Joris Nieuwenhuis.md",
-    "Loisirs/Sport/Sportifs/Niels Vandeputte.md",
-    "Circuit Het Nieuwsblad.md",
-    "JO 2026.md",
     "Attachments/image-367.webp",
     "Attachments/image-366.webp",
     "Attachments/image-365.webp",
