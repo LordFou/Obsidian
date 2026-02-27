@@ -1,4 +1,7 @@
 # Russie / Ukraine
+- **Début** :
+- **Cause** :
+- **Déroulement** :
 
 # Afghanistan / Pakistan
 - **Début** : février 2026 (Guerre déclarée et ouverte)
@@ -6,4 +9,13 @@
   ![[image-368.webp]]
 - **Déroulement** :
 	- Octobre 2025 : Loi du Talion entre les 2 pays.
-	- Février 2026 : le [[Pakistan]] bombarde la capitale Kaboul. => Guerre ouverte et déclarée entre les 2 capitales
+	- Février 2026 
+		- le [[Pakistan]] bombarde la capitale Kaboul. => Guerre ouverte et déclarée entre les 2 capitales
+		- l'Iran et la Chine se proposent comme médiateur pour la suite
+
+# Iran / USA
+- **Début** :
+- **Cause** : exploitation du nucléaire
+- **Déroulement** :
+	- L'Iran accepterait de ne pas stocker d'[[uranium enrichi]]
+
