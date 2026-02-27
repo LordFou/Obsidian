@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-02-27.md",
+                "file": "Culture/Histoire/Guerre dans le monde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-27"
+              "title": "Guerre dans le monde"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour de Sardai",
+                "query": "Guerre da",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,8 +207,12 @@
   },
   "active": "55bc120aef1bf413",
   "lastOpenFiles": [
-    "Loisirs/Sport/Compétitions/Tour de Sardaigne.md",
+    "Attachments/image-368.webp",
+    "Loisirs/Sport/JO et Politique.md",
+    "Culture/Histoire/Guerre dans le monde.md",
+    "Culture/Histoire/Marche à la guerre.md",
     "Journal de bord/2026-02-27.md",
+    "Loisirs/Sport/Compétitions/Tour de Sardaigne.md",
     "Davide Donati.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Clair Obscur - Expedition 33.md",
     "Loisirs/Jeux Vidéos/Clair Obscur - Expedition 33.md",
@@ -229,10 +233,6 @@
     "Batman.md",
     "Sunsoft.md",
     "Batman - Return of the Joker.md",
-    "The Adventures of Batman & Robin.md",
-    "Clockwork Tortoise.md",
-    "Loisirs/Jeux Vidéos/Sociétés/Konami.md",
-    "Batman Returns.md",
     "Attachments/image-367.webp",
     "Attachments/image-366.webp",
     "Attachments/image-365.webp",
