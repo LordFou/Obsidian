@@ -11,10 +11,14 @@
             "id": "9f049c255beb14f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Demi Vollering.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Demi Vollering"
             }
           }
         ]
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "omloop",
+                "query": "nie",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -202,6 +206,7 @@
   },
   "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
+    "Omloop Het Nieuwsblad.md",
     "conflict-files-obsidian-git.md",
     "🐸 Savourez le jeu inachevé du créateur de A Short Hike.md",
     "Xeno Crisis.md",
@@ -223,7 +228,6 @@
     "Rijpma-de Jong.md",
     "Ressources/Gabriel Sauvage, Directeur créatif chez Distant Shore - Pointn Think.md",
     "Probe Entertainment.md",
-    "Omloop Het Nieuwsblad.md",
     "Océane Michelon.md",
     "Nuclear Throne.md",
     "Loisirs/Sport/Compétitions/Tournoi de Dubaï.md",

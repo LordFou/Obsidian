@@ -16,7 +16,7 @@ Aussi appelé Le Circuit Het Nieuwsblad
 | 2026  | [[Mathieu van der Poel]] | Néerlandais | 3e - [[Florian Vermeersch]]<br>5e - [[Aimé De Gendt]]<br>7e - [[Jordi Meeus]]<br>Enormément de chutes |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur          | Nationalité | Remarque |
+| ----- | ------------------ | ----------- | -------- |
+| 2026  | [[Demi Vollering]] | Néerlandais |          |
+|       |                    |             |          |
