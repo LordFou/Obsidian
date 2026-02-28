@@ -24,6 +24,7 @@ type: personne
 |       |                                |          |          |
 | 2026  | [[Tour d'Algarve]] - 1e étape  | 2e       | Sprint   |
 | 2026  | [[Tour d'Algarve]] - 2e étape  | 2e       | Sprint   |
+| 2026  | [[Omloop Het Nieuwsblad]]      | 7e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
