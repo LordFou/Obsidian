@@ -18,7 +18,7 @@ Aussi appelée la "Route cycliste du soleil"
 | 1e (FRA) | [[Christophe Laporte]] | [[Christophe Laporte]] |          |        |       |           |
 | 2e (ESP) | [[Ivan Romeo]]         | [[Ivan Romeo]]         |          |        |       |           |
 | 3e (BEL) | [[Milan Fretin]]       | [[Ivan Romeo]]         |          |        |       |           |
-| 1e (BEL) | [[Tom Crabbe]]         | [[Ivan Romeo]]         |          |        |       | Sprint    |
+| 4e (BEL) | [[Tom Crabbe]]         | [[Ivan Romeo]]         |          |        |       | Sprint    |
 ## Femmes
 
 ### Etapes

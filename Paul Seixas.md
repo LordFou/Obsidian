@@ -18,8 +18,10 @@ type: personne
 | 2025  | [[Tour de l'Avenir]] - 7e étape                             | 1ier     | CLM      |
 | 2025  | [[Tour de l'Avenir]] - Classement final                     | 1ier     |          |
 | 2025  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - Route | 3e       |          |
+|       |                                                             |          |          |
 | 2026  | [[Tour d'Algarve]] - 2e étape                               | 1ier     |          |
 | 2026  | [[Tour d'Algarve]] - Classement final                       | 2e       |          |
+| 2026  | [[Faun Ardèche Classic]]                                    | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

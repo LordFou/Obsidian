@@ -30,6 +30,8 @@ type: personne
 | 2025  | [[Simac Ladies Tour]] - Classement final | 1ière    |                                                     |
 | 2025  | [[Binche-Chimay-Binche]]                 | 1ière    |                                                     |
 | 2025  | [[Championnat du monde de Gravel]]       | 1ière    |                                                     |
+|       |                                          |          |                                                     |
+| 2026  | [[Omloop Het Nieuwsblad]]                | 3e       |                                                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
