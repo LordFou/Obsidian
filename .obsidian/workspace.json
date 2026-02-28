@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Contract JACK.md",
+                "file": "Journal de bord/2026-02-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contract JACK"
+              "title": "2026-02-28"
+            }
+          },
+          {
+            "id": "8b332bfeeaf68773",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notes de version 1.12.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,6 +203,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Créer une nouvelle base": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -197,18 +211,18 @@
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "markdown-importer:Ouvrir l'importateur Markdown": false,
-      "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55bc120aef1bf413",
+  "active": "8b332bfeeaf68773",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Contract JACK.md",
+    "Journal de bord/2026-02-28.md",
     "Deus Ex.md",
     "Franchise Deus Ex.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Contract JACK.md",
     "Monolith Productions.md",
     "Attachments/image-374.webp",
     "Sierra.md",
@@ -235,7 +249,6 @@
     "Attachments/image-371.webp",
     "Bitmap Bureau.md",
     "Xeno Crisis.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/High on Life 2.md",
     "Attachments/image-370.webp",
     "Attachments/image-369.webp",
     "Attachments/image-368.webp",
