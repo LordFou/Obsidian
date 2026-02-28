@@ -15,8 +15,12 @@
 
 # Iran / USA
 - **Début** : 28/02/2026
-- **Cause** : exploitation du nucléaire
+- **Cause** : exploitation du nucléaire par l'[[Iran]]
+  ![[image-377.webp]]
+  ![[image-378.webp]]
 - **Déroulement** :
 	- 27/02 - L'Iran accepterait de ne pas stocker d'[[uranium enrichi]]
 	- 28/02 - Les USA bombardent l'[[Iran]] (sans blague, alors qu'un accord pouvait être trouvé). Juste avant cette attaque, Israël avait lancé une attaque préventive sur L'[[Iran]] pour éviter le plus de riposte. (Opération "Fureur Epique")
+	  
+	  
 
