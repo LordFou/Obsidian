@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tales of ",
+                "query": "intellig",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,10 +206,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "55bc120aef1bf413",
   "lastOpenFiles": [
-    "Nerial.md",
+    "Franchise The Witcher.md",
     "Reigns - The Witcher.md",
+    "Intelligence Artificielle.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Genshin Impact.md",
+    "Nerial.md",
     "Attachments/image-373.webp",
     "Franchise Reigns.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Reigns - The Witcher.md",
@@ -237,9 +240,6 @@
     "Culture/Histoire/Guerres dans le monde.md",
     "Culture/Cenobite.md",
     "Attachments/image-368.webp",
-    "Loisirs/Sport/JO et Politique.md",
-    "Culture/Histoire/Marche à la guerre.md",
-    "Journal de bord/2026-02-27.md",
     "Attachments/image-367.webp",
     "Attachments/image-366.webp",
     "Attachments/image-365.webp",

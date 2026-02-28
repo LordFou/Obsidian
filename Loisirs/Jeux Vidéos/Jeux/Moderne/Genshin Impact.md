@@ -1,29 +1,26 @@
 ---
 type: game
 ---
-![[image-373.webp]]
-# Reigns - The Witcher
+
+# Genshin Impact
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Nerial]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Devolver Digital]]
+- **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-	- [[Franchise Reigns]]
-	- [[Franchise The Witcher]]
-- **Genre** : [[Aventure]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[2D]]
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- CheckPoint : 7/10
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -37,7 +34,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Ils ont changé leurs conditions générales de vente pour pouvoir entraîner leur IA sur les communications vocales des joueurs !!!
 ## Liens et Ressources
 
 | Description | URL |
