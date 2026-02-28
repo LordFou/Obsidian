@@ -22,9 +22,11 @@ type: personne
 | 2025  | [[ATP - Tournoi de Tokyo]]   | 2e tour               | Défaite contre [[Carlos Alcaraz]]                            |
 | 2025  | [[ATP - Tournoi de Shangaï]] | 1/4e finale           | Meilleur résultat en ATP<br>Défaite contre [[Novac Jokovic]] |
 | 2025  | [[Masters 1.000 de Paris]]   | 2e tour               | Défaite contre [[David Sinner]]                              |
+| 2026  | [[United Cup]]               | Demi-finale           | avec l' [[Equipe nationale belge de Tennis]]                 |
 | 2026  | [[Australian Open]]          | 1ier tour             |                                                              |
 | 2026  | [[Tournoi de Rotterdam]]     | 1ier tour             |                                                              |
-| 2026  | [[Tournoi de Doha]]          | 2e tour               |                                                              |
+| 2026  | [[Tournoi de Doha]]          | 2e tour               | Défaite contre le 22e mondial                                |
+| 2026  | [[Tournoi de Dubaï]]         | 1ier tour             | Défaite contre le 49e mondial                                |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

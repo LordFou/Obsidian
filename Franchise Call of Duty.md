@@ -22,9 +22,9 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre | Année | Plateformes | Remarque |
-| ----- | ----- | ----------- | -------- |
-|       |       |             |          |
+| Titre                          | Année | Plateformes                                | Remarque      |
+| ------------------------------ | ----- | ------------------------------------------ | ------------- |
+| [[Call of Duty - Black Ops 7]] | 2026  | [[PC]], [[Playstation 5]], [[Xbox Series]] | 22e épisode ? |
 
 
 ## Mécaniques et innovations

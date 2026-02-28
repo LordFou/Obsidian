@@ -2,7 +2,7 @@
 type: event
 ---
 
-# WTA - Tournoi de Dubaï
+# Tournoi de Hambourg
 
 # Introduction
 

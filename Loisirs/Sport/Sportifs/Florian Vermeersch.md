@@ -9,7 +9,7 @@ type: personne
 - **Nationalité** :  Belge
 - **Sport / Discipline** : Cyclisme 
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[UAE]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
@@ -19,6 +19,8 @@ type: personne
 | ?     | [[Championnat du monde de Gravel]]                                  | 2e       |          |
 | 2025  | [[Championnat de Belgique de Cyclisme\|Championnat National]] - CLM | 2e       |          |
 | 2025  | [[Championnat du monde de Gravel]]                                  | 1ier     |          |
+|       |                                                                     |          |          |
+| 2026  | [[Omloop Het Nieuwsblad]]                                           | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

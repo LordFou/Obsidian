@@ -8,6 +8,7 @@
 - Février 2026 
 	- [[Games Workshop]] (Warhammer) bannit l'IA, tout comme [[Larian Studios]] et l'éditeur [[Hooded Horse]] (et le site de musique [[Bandcamp]]). 
 	- Autre signe que ça ne se passe pas très bien pour l'IA, le patron de Nvidia supplie qu'on arrête d'en dire du mal.
+	- [[Genshin Impact]] va utiliser l'audio des communications entre joueurs pour entraîner son IA.
 # [[Politique]]
 - L'Albanie nomme un premier ministre géré par IA qui s'occupera des marchés publics.
 # Plateforme

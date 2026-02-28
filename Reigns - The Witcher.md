@@ -1,26 +1,29 @@
 ---
 type: game
 ---
-
+![[image-373.webp]]
 # Reigns - The Witcher
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Nerial]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Devolver Digital]]
 - **Plateformes** : 
-- **Franchise** : [[Franchise Reigns]]
-- **Genre** :
+- **Franchise** : 
+	- [[Franchise Reigns]]
+	- [[Franchise The Witcher]]
+- **Genre** : [[Aventure]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : [[2D]]
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- CheckPoint : 7/10
 - **Gameplay** :
 - **Durée estimée** : 
 

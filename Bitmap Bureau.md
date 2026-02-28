@@ -12,7 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  
+- **Pays d’origine** :  Angleterre
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -24,9 +24,11 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                       | Genre                  | Plateformes |
-| ----- | --------------------------- | ---------------------- | ----------- |
-| 2025  | [[Terminator 2D - No Fate]] | Plateforme, Beat'em up | PC          |
+| Année | Titre                                  | Genre                  | Plateformes |
+| ----- | -------------------------------------- | ---------------------- | ----------- |
+| 2025  | [[Terminator 2D - No Fate]]            | Plateforme, Beat'em up | PC          |
+| 2026  | [[He-Man Dragon Pearl of Destruction]] |                        |             |
+|       | [[Xeno Crisis]]                        |                        |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

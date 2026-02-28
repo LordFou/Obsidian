@@ -22,9 +22,11 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre | Année | Plateformes | Remarque |
-| ----- | ----- | ----------- | -------- |
-|       |       |             |          |
+| Titre                          | Année | Plateformes | Remarque |
+| ------------------------------ | ----- | ----------- | -------- |
+| [[Deus Ex]]                    |       |             |          |
+| [[Deus Ex - Mankind Divided]]  |       |             |          |
+| [[Deus Ex - Human Revolution]] |       |             |          |
 
 
 ## Mécaniques et innovations

@@ -9,13 +9,15 @@ type: personne
 - **Nationalité** :  
 - **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[UAE]], [[Lidl-Trek]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                   | Résultat | Remarque |
-| ----- | ----------------------------- | -------- | -------- |
-| 2025  | [[Tour d'Espagne]] - 7e étape | 1ier     |          |
+| Année | Compétition                           | Résultat | Remarque |
+| ----- | ------------------------------------- | -------- | -------- |
+| 2025  | [[Tour d'Espagne]] - 7e étape         | 1ier     |          |
+| 2026  | [[Tour d'Algarve]] - 5e étape         | 1ier     |          |
+| 2026  | [[Tour d'Algarve]] - Classement final | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

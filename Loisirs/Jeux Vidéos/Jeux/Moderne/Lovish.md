@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-367.webp]]
 # Lovish
 
 ## Informations Générales
@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[LABS Works]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[DANGEN Entertainment]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[XBox One]], [[Xbox Series]], [[Switch]]
 - **Franchise** : 
 - **Genre** : [[Action]], [[Aventure]], [[Casual]], [[Plateforme]]
@@ -18,9 +18,11 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 
+	- [[Pixel Art]], 8-bits
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- CheckPoint (7/10)
 - **Gameplay** :
 - **Durée estimée** : 
 

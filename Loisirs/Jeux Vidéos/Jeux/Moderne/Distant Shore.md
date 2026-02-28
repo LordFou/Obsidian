@@ -1,43 +1,50 @@
 ---
-type: game
+type: societe
 ---
 
 # Distant Shore
 
+## Présentation
+Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
+
 ## Informations Générales
+- **Nom complet** :  
+- **Date de création** :  
+- **Fondateurs** :  [[Gabriel Sauvage]] 
+- **Personnalités** :
+	- [[Gabriel Sauvage]] (Directeur Créatif)
+- **Pays d’origine** :  
+- **Site officiel** : [Lien](#)  
+- **Mascotte** :
 
-- **Année de sortie** : 
-- **Développeur** : 
-	- Studio : 
-	- Personnalités : 
-		- [[Gabriel Sauvage]] (Directeur Créatif)
-- **Éditeur** : 
-- **Plateformes** : 
-- **Franchise** : 
-- **Genre** :
-- **Résumé** : 
+```timeline-labeled
+[line-5, body-2]
+date:  
+title: 
+content:
+```
 
-## Détails Techniques
-- **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
-- **Gameplay** :
-- **Durée estimée** : 
+## Jeux Développés
+| Année | Titre                        |
+| ----- | ---------------------------- |
+| XXXX  | [[Distant Shore - Bretagne]] |
 
-## Histoire et Univers
-- **Lieu(x)** : 
-- **Epoque** : 
-- **Personnages principaux** : 
-- **Ennemis** :
-- **Thèmes abordés** : 
-- **Influencé par** :
-- **A inspiré** : 
-- **Comparable à** :
-## Anecdotes et Curiosités
-- 
-## Liens et Ressources
+## Moteur(s) Utilisé(s)
+- Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
+- Moteur 2
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+## Style et Influence
+Décrire le style graphique, les thématiques abordées, les influences notables.
+
+## Succès et Récompenses
+Lister les prix, distinctions ou records obtenus.
+
+## Controverses ou Événements Marquants
+Évoquer les polémiques ou faits marquants de l’histoire de la société.
+
+## Filiales et Partenaires
+Lister les studios affiliés ou les collaborations importantes.
+
+## Sources et Références
+- [Lien vers une source](#)
+- [Article détaillé](#)

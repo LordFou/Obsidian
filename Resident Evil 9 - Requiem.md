@@ -10,8 +10,8 @@ type: game
 - **Développeur** : 
 	- Studio : [[Capcom]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
+- **Éditeur** : [[Capcom]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
 - **Franchise** : [[Franchise Resident Evil]]
 - **Genre** : [[Survival Horror]]
 - **Résumé** : 
@@ -20,7 +20,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : 3D
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- CheckPoint : 9/10
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -43,6 +44,6 @@ type: game
 - Day One sur la [[Switch 2]]
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                          |
+| ----------- | ---------------------------- |
+| 4e Trailer  | https://youtu.be/fXVy4mALHLY |

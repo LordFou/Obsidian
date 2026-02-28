@@ -16,7 +16,7 @@ type: personne
 | Année | Compétition                | Résultat | Remarque           |
 | ----- | -------------------------- | -------- | ------------------ |
 | 2026  | [[Tour d'Oman]] - 3e étape | 1ier     | :luc_plus: Général |
-|       |                            |          |                    |
+| 2026  | [[Muscat Classic]]         | 1ier     |                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

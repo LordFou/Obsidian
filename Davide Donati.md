@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                     | Résultat | Remarque                        |
-| ----- | ------------------------------- | -------- | ------------------------------- |
-| 2025  | [[Tour de Wallonie]] - 3e étape | 1ier     | Sprint<br>Première victoire PRO |
+| Année | Compétition                      | Résultat | Remarque                        |
+| ----- | -------------------------------- | -------- | ------------------------------- |
+| 2025  | [[Tour de Wallonie]] - 3e étape  | 1ier     | Sprint<br>Première victoire PRO |
+| 2026  | [[Tour de Sardaigne]] - 2e étape | 1ier     |                                 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -5,17 +5,18 @@ type: event
 
 # Introduction
 
-# Edition 2025
+# Edition 2026
 
 ## Hommes
 
 ### Etapes 
 
-|     | Vainqueur     | Général            | Montagne  | Points            | Jeune          | Remarques                                         |
-| --- | ------------- | ------------------ | --------- | ----------------- | -------------- | ------------------------------------------------- |
-|     |               |                    |           |                   |                |                                                   |
-|     |               |                    |           |                   |                |                                                   |
-|     |               |                    |           |                   |                |                                                   |
+|          | Vainqueur             | Général | Montagne | Points | Jeune | Remarques |
+| -------- | --------------------- | ------- | -------- | ------ | ----- | --------- |
+| 1e       |                       |         |          |        |       |           |
+| 2e       |                       |         |          |        |       |           |
+| 3e       |                       |         |          |        |       |           |
+| 4e (BEL) | [[Mathijs De Clercq]] |         |          |        |       |           |
 ## Femmes
 
 ### Etapes
@@ -28,10 +29,10 @@ type: event
 ### Hommes
 
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur         | Nationalité | Remarque |
+| ----- | ----------------- | ----------- | -------- |
+| 2025  | [[Fabien Doubey]] | Français    |          |
+|       |                   |             |          |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

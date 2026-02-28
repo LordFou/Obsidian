@@ -22,10 +22,10 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                    | Année | Plateformes | Remarque |
-| ------------------------ | ----- | ----------- | -------- |
-| [[Reigns]]               |       |             |          |
-| [[Reigns - The Witcher]] |       |             |          |
+| Titre                    | Année | Plateformes | Remarque   |
+| ------------------------ | ----- | ----------- | ---------- |
+| [[Reigns]]               |       |             |            |
+| [[Reigns - The Witcher]] | 2026  | [[PC]]      | 6e épisode |
 
 
 ## Mécaniques et innovations

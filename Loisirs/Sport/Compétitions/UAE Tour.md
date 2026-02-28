@@ -18,6 +18,9 @@ type: event
 | 3e (ITA) | [[Antonio Tiberi]]  | [[Antonio Tiberi]]  |          |        |       | 3e - [[Lennert Van Eetvelt]]<br>Remco glisse à la 11e place après avoir souffert de crampes |
 | 4e (ITA) | [[Jonathan Milan]]  | [[Antonio Tiberi]]  |          |        |       |                                                                                             |
 | 5e (ITA) | [[Jonathan Milan]]  | [[Antonio Tiberi]]  |          |        |       | 7e - [[Steffen De Schuyteneer]]                                                             |
+| 6e (MEX) | [[Isaac Del Toro]]  | [[Isaac Del Toro]]  |          |        |       |                                                                                             |
+| 7e (ITA) | [[Jonathan Milan]]  | [[Isaac Del Toro]]  |          |        |       | 7e - [[Gerben Thijssen]]                                                                    |
+|          |                     |                     |          |        |       |                                                                                             |
 ## Femmes
 
 ### Etapes
@@ -36,7 +39,8 @@ type: event
 |       |           |             |          |
 ### Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur                                      | Nationalité | Equipe  | Remarque                     |
+| ----- | ---------------------------------------------- | ----------- | ------- | ---------------------------- |
+| 2025  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Slovène     | [[UAE]] |                              |
+| 2026  | [[Isaac Del Toro]]                             | Mexicain    | [[UAE]] | 6e - [[Lennert Van Eetvelt]] |
+|       |                                                |             |         |                              |

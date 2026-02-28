@@ -16,7 +16,7 @@ type: personne
 | Année | Compétition                             | Résultat | Remarque |
 | ----- | --------------------------------------- | -------- | -------- |
 | 2025  | ?                                       | 1ier     |          |
-| 2025  | [[Circuit Het Nieuwsblad]]              | 1ier     |          |
+| 2025  | [[Omloop Het Nieuwsblad]]              | 1ier     |          |
 | 2025  | [[Tour du Danemark]] - 2e étape         | 1ier     |          |
 | 2025  | [[Tour d'Allemagne]] - 1e étape         | 1ier     | CLM      |
 | 2025  | [[Tour d'Allemagne]] - 3e étape         | 1ier     |          |

@@ -12,15 +12,26 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
+	- [[Satya Nadella]] (Présidente)
+	- [[Asha Sharma]], [[Phil Spencer]](Président [[Microsoft Gaming]])
+	- [[Sarah Bond]] (Présidente XBox)
+	- [[Matt Booty]] (Directeur [[Xbox Games Studio]])
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
+- **Filiales** : 
+	- [[Microsoft Gaming]]
+	- [[Xbox Games Studio]]
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
-content:
+date: 2014
+title: [[Phil Spencer]] devient PDG de [[Microsoft Gaming]]
+content: Il devient le visage de la console [[XBox One]].
+
+date: février 2026
+title: Phil Spencer quitte [[Microsoft Gaming]]
+content: Il part à la retraite et laisse sa place à [[Asha Sharma]]. Il reste conseiller pour le transfert de connaissance.
 ```
 
 ## Jeux Développés

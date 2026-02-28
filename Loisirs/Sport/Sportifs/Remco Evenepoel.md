@@ -70,6 +70,8 @@ type: personne
 | 2026  | [[Tour de Valence]] - 3e étape                                                   | 1ier     |                                                                           |
 | 2026  | [[Tour de Valence]] - Classement final                                           | 1ier     |                                                                           |
 | 2026  | [[UAE Tour]] - 2e étape                                                          | 1ier     | CLM                                                                       |
+| 2026  | [[UAE Tour]] - Classement final                                                  | 10e      | Contre perf ?                                                             |
+|       |                                                                                  |          |                                                                           |
 ## Historique
 ```timeline-labeled
 [line-5, body-2]

@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-336.webp]]
+
 # Johannes Klaebo
 
 # Informations Générales
@@ -19,12 +19,13 @@ type: personne
 | 2026  | [[JO 2026]] - Ski de fond - Sprint            | 1ier     |          |
 | 2026  | [[JO 2026]] - Ski de fond - 10 km Libre       | 1ier     |          |
 | 2026  | [[JO 2026]] - Ski de fond - Sprint par équipe | 1ier     |          |
+| 2026  | [[JO 2026]] - Ski de fond - 50 km             | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-- Athlète le plus titré des JO d'hiver => 10 médailles d'or
+- Athlète le plus titré des JO d'hiver => 11 médailles d'or
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

@@ -19,6 +19,7 @@ type: personne
 | 2025  | [[Tour de l'Avenir]] - Classement final                     | 1ier     |          |
 | 2025  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - Route | 3e       |          |
 | 2026  | [[Tour d'Algarve]] - 2e étape                               | 1ier     |          |
+| 2026  | [[Tour d'Algarve]] - Classement final                       | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
