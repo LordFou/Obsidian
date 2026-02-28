@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Bryan Coquard.md",
+                "file": "Culture/Histoire/Guerres dans le monde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bryan Coquard"
+              "title": "Guerres dans le monde"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Visit",
+                "query": "Guerre",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,6 +206,7 @@
   },
   "active": "9f049c255beb14f2",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Bryan Coquard.md",
     "Loisirs/Sport/Compétitions/Visit South Aegean GP.md",
     "Loisirs/Sport/Compétitions/Tour de Sardaigne.md",
     "Tour du Rwanda.md",
@@ -232,7 +232,6 @@
     "conflict-files-obsidian-git.md",
     "🐸 Savourez le jeu inachevé du créateur de A Short Hike.md",
     "Xeno Crisis.md",
-    "Ubisoft Montréal.md",
     "Attachments/image-376.webp",
     "Attachments/image-375.webp",
     "Attachments/image-374.webp",
