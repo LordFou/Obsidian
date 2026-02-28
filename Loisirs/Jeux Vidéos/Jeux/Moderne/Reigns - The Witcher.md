@@ -1,16 +1,16 @@
 ---
 type: game
 ---
-![[image-373.webp]]
+
 # Reigns - The Witcher
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Nerial]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Devolver Digital]]
+- **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : [[Franchise Reigns]]
 - **Genre** :
@@ -18,7 +18,7 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[2D]]
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :

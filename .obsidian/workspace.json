@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dice A Million.md",
+                "file": "Reigns - The Witcher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dice A Million"
+              "title": "Reigns - The Witcher"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dice A Million",
+                "query": "Tales of ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,10 +206,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55bc120aef1bf413",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
-    "2 Left Thumbs.md",
+    "Nerial.md",
+    "Reigns - The Witcher.md",
+    "Attachments/image-373.webp",
+    "Franchise Reigns.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Reigns - The Witcher.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Dice A Million.md",
+    "2 Left Thumbs.md",
     "Countlessnights.md",
     "Attachments/image-372.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire Crawlers.md",
@@ -234,15 +240,10 @@
     "Loisirs/Sport/JO et Politique.md",
     "Culture/Histoire/Marche à la guerre.md",
     "Journal de bord/2026-02-27.md",
-    "Loisirs/Sport/Compétitions/Tour de Sardaigne.md",
-    "Davide Donati.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Clair Obscur - Expedition 33.md",
-    "Loisirs/Jeux Vidéos/Clair Obscur - Expedition 33.md",
     "Attachments/image-367.webp",
     "Attachments/image-366.webp",
     "Attachments/image-365.webp",
     "Attachments/image-364.webp",
-    "Attachments/image-363.webp",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
