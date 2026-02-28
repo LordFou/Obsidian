@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition               | Résultat | Remarque  |
-| ----- | ------------------------- | -------- | --------- |
-| 2026  | [[Omloop Het Nieuwsblad]] | 2e       | Derrière  |
+| Année | Compétition               | Résultat | Remarque                          |
+| ----- | ------------------------- | -------- | --------------------------------- |
+| 2026  | [[Omloop Het Nieuwsblad]] | 2e       | Derrière [[Mathieu van der Poel]] |
+|       |                           |          |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
