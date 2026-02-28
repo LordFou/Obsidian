@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Damien Touzé.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/High on Life 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Damien Touzé"
+              "title": "High on Life 2"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Damien Touzé",
+                "query": "Xeno Crisis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,10 +206,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55bc120aef1bf413",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
-    "Fabien Doubey.md",
+    "Attachments/image-370.webp",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Qui a tué Pam Taylor.md",
     "Loisirs/Sport/Sportifs/Damien Touzé.md",
+    "Fabien Doubey.md",
     "Tour du Rwanda.md",
     "Mathijs De Clercq.md",
     "Attachments/image-369.webp",
@@ -233,8 +236,6 @@
     "Batman Beyond - Return of the Joker.md",
     "Ubisoft Montréal.md",
     "Loisirs/Jeux Vidéos/Jeux/Franchise/Franchise Batman.md",
-    "Batman & Robin.md",
-    "Probe Entertainment.md",
     "Attachments/image-367.webp",
     "Attachments/image-366.webp",
     "Attachments/image-365.webp",
