@@ -32,10 +32,10 @@ type: event
 ### Hommes
 
 
-| Année | Vainqueur           | Nationalité | Remarque |
-| ----- | ------------------- | ----------- | -------- |
-| 2025  | [[Fabien Doubey]]   | Français    |          |
-| 2026  | [[Moritz Kretschy]] | Allemand    |          |
+| Année | Vainqueur           | Nationalité | Remarque                           |
+| ----- | ------------------- | ----------- | ---------------------------------- |
+| 2025  | [[Fabien Doubey]]   | Français    |                                    |
+| 2026  | [[Moritz Kretschy]] | Allemand    | 3e - [[Duarte Marivoet Scholiers]] |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
