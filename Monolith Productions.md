@@ -9,24 +9,29 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ## Informations Générales
 - **Nom complet** :  
-- **Date de création** :  
+- **Date de création** :  1994
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  
+- **Pays d’origine** :  USA
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
+date: 2025 
+title: Fermeture du studio
 content:
 ```
 
 ## Jeux Développés
-| Année | Titre      | Genre              | Plateformes           |
-| ----- | ---------- | ------------------ | --------------------- |
-| XXXX  | Nom du jeu | Action / RPG / FPS | PC, PS5, Xbox, Switch |
+| Année | Titre                    | Genre | Plateformes |
+| ----- | ------------------------ | ----- | ----------- |
+| 2003  | [[Contract JACK]]        | FPS   | [[PC]]      |
+|       | Blood                    |       |             |
+|       | Aliens Versus Predator 2 |       |             |
+|       | Tron 2.0                 |       |             |
+|       | F.E.A.R                  |       |             |
+|       |                          |       |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
