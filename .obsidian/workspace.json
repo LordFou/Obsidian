@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture/Histoire/Guerres dans le monde.md",
+                "file": "Rick Pluimers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guerres dans le monde"
+              "title": "Rick Pluimers"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Rick Pluimers",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,8 +206,10 @@
   },
   "active": "9f049c255beb14f2",
   "lastOpenFiles": [
-    "Loisirs/Sport/Sportifs/Stefan Küng.md",
+    "Loisirs/Sport/Compétitions/Muscat Classic.md",
+    "Rick Pluimers.md",
     "Culture/Histoire/Guerres dans le monde.md",
+    "Loisirs/Sport/Sportifs/Stefan Küng.md",
     "Attachments/image-378.webp",
     "Attachments/image-377.webp",
     "Loisirs/Sport/Sportifs/Bryan Coquard.md",
@@ -233,8 +234,6 @@
     "Loisirs/Sport/Lorena Wiebes.md",
     "Katarzyna Niewiadoma.md",
     "Demi Vollering.md",
-    "Omloop Het Nieuwsblad.md",
-    "conflict-files-obsidian-git.md",
     "Attachments/image-376.webp",
     "Attachments/image-375.webp",
     "Attachments/image-374.webp",
