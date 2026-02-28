@@ -2,19 +2,20 @@
 type: game
 ---
 
-# Windrose
+# Vampire Crawlers
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Windrose Crew]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Windrose Crew]]
+		- [[Poncle]]
+- **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :
-- **Résumé** : On incarne un pirate, capitaine d'un vaisseau naviguant les Caraïbes et se battant à coups de canons ou de rapière.
+- **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -30,7 +31,6 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- [[La piraterie]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
@@ -38,6 +38,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description      | URL                          |
-| ---------------- | ---------------------------- |
-| Official Trailer | https://youtu.be/JN7VeNtXRM8 |
+| Description | URL |
+| ----------- | --- |
+|             |     |

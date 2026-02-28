@@ -1,24 +1,24 @@
 ---
 type: game
 ---
-
-# Windrose
+![[image-372.webp]]
+# Dice A Million
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Windrose Crew]]
+	- Studio : [[Countlessnights]]
 	- Personnalités : 
-- **Éditeur** : [[Windrose Crew]]
-- **Plateformes** : 
+- **Éditeur** : [[2 Left Thumbs]]
+- **Plateformes** : [[PC]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** :
-- **Résumé** : On incarne un pirate, capitaine d'un vaisseau naviguant les Caraïbes et se battant à coups de canons ou de rapière.
+- **Genre** : [[Casino]], [[Roguelike]], [[Deckbuilding]]
+- **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 2D, Moche
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
@@ -30,14 +30,15 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- [[La piraterie]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[Balatro]]
+	- [[CloverPit]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
-| Description      | URL                          |
-| ---------------- | ---------------------------- |
-| Official Trailer | https://youtu.be/JN7VeNtXRM8 |
+| Description | URL |
+| ----------- | --- |
+|             |     |
