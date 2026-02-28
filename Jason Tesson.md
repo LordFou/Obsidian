@@ -2,22 +2,20 @@
 type: personne
 ---
 
-# Paul Lapeira
+# Jason Tesson
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Française
+- **Nationalité** : Français
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Décathlon]]
+- **Équipe(s) / Club(s)** :  [[TotalEnergies]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                    | Résultat | Remarque |
-| ----- | ------------------------------ | -------- | -------- |
-| 2024  | [[Tour du Pays Basque]]        | 1ier     |          |
-| 2025  | [[Tour de Pologne]] - 2e étape | 1ier     |          |
-| 2026  | [[Tour des Alpes-Maritimes]]   | 1ier     |          |
+| Année | Compétition     | Résultat | Remarque |
+| ----- | --------------- | -------- | -------- |
+| 2026  | [[Classic Var]] | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
