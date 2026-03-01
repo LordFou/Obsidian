@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ben Swift",
+                "query": "Barry",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,10 +204,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "9f049c255beb14f2",
   "lastOpenFiles": [
-    "Loisirs/Sport/Sport et Religion.md",
+    "Loisirs/Sport/Sportifs/Matthew Brennan.md",
     "Kuurne Bruxelles Kuurne.md",
+    "Loisirs/Sport/Sportifs/Ben Swift.md",
+    "Barry Baltus.md",
+    "Loisirs/Sport/Sport et Religion.md",
     "Peter Sagan.md",
     "Tim Wellens.md",
     "Loisirs/Sport/Sportifs/Tobias Lund Andresen.md",
@@ -231,9 +234,6 @@
     "Loisirs/Sport/Compétitions/Classic Var.md",
     "Loisirs/Sport/Compétitions/Tour d'Andalousie.md",
     "Ivan Romeo.md",
-    "Tom Pidcock.md",
-    "Tour d'Algarve.md",
-    "Loisirs/Sport/Compétitions/UAE Tour.md",
     "Attachments/image-376.webp",
     "Attachments/image-375.webp",
     "Attachments/image-374.webp",
