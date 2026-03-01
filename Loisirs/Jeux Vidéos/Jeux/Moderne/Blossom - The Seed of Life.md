@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Peregrino
+# Blossom - The Seed of Life
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Inverge Studio]]
+	- Studio : [[Pebbledust Games]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[PC]]
+- **Genre** : 
 - **Résumé** : 
 
 ## Détails Techniques
@@ -39,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/sexCVPUhAz8 |
+| Trailer     | https://youtu.be/MX3fCsp0CXM |
