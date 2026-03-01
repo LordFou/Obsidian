@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kuurne Bruxelles Kuurne.md",
+                "file": "Loisirs/Sport/Sportifs/Matthew Brennan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kuurne Bruxelles Kuurne"
+              "title": "Matthew Brennan"
             }
           }
         ]
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -204,12 +205,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9f049c255beb14f2",
+  "active": "acbfcced6e5eac9a",
   "lastOpenFiles": [
-    "Matteo Trentin.md",
     "Kuurne Bruxelles Kuurne.md",
-    "Loisirs/Sport/Sportifs/Lucas Mozzatto.md",
     "Loisirs/Sport/Sportifs/Matthew Brennan.md",
+    "Jordi Meeus.md",
+    "Laurenz Rex.md",
+    "Matteo Trentin.md",
+    "Loisirs/Sport/Sportifs/Lucas Mozzatto.md",
     "Visma.md",
     "Marc Cavendish.md",
     "Loisirs/Sport/Compétitions/Tour des Flandres.md",
@@ -232,8 +235,6 @@
     "Loisirs/Sport/Compétitions/Tour de Sardaigne.md",
     "Tour du Rwanda.md",
     "Duarte Marivoet Scholiers.md",
-    "Moritz Kretschy.md",
-    "Paul Lapeira.md",
     "Attachments/image-376.webp",
     "Attachments/image-375.webp",
     "Attachments/image-374.webp",

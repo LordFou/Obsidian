@@ -22,6 +22,7 @@ type: personne
 | 2025  | ?                                      | 1ier     |                                                      |
 | 2025  | ?                                      | 1ier     |                                                      |
 | 2025  | ?                                      | 1ier     |                                                      |
+| 2025  | ?                                      | 1ier     |                                                      |
 | 2025  | [[Tour de Cologne]]                    | 1ier     | Sprint Massif<br>:luc_plus: Maillot à points         |
 | 2025  | [[Tour de Pologne]] - 5e étape         | 1ier     | Sprint                                               |
 | 2025  | [[Tour d'Allemagne]] - 4e étape        | 1ier     | Sprint                                               |
