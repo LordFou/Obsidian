@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Matthew Brennan.md",
+                "file": "Loisirs/Sport/Sportifs/Matteo Jorgenson.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matthew Brennan"
+              "title": "Matteo Jorgenson"
             }
           }
         ]
@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,10 +205,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "acbfcced6e5eac9a",
+  "active": "9f049c255beb14f2",
   "lastOpenFiles": [
-    "Kuurne Bruxelles Kuurne.md",
+    "Romain Grégoire.md",
+    "Loisirs/Sport/Sportifs/Matteo Jorgenson.md",
+    "Loisirs/Sport/Compétitions/Drôme Classic.md",
     "Loisirs/Sport/Sportifs/Matthew Brennan.md",
+    "Kuurne Bruxelles Kuurne.md",
     "Jordi Meeus.md",
     "Laurenz Rex.md",
     "Matteo Trentin.md",
@@ -232,9 +235,6 @@
     "Attachments/image-377.webp",
     "Loisirs/Sport/Sportifs/Bryan Coquard.md",
     "Loisirs/Sport/Compétitions/Visit South Aegean GP.md",
-    "Loisirs/Sport/Compétitions/Tour de Sardaigne.md",
-    "Tour du Rwanda.md",
-    "Duarte Marivoet Scholiers.md",
     "Attachments/image-376.webp",
     "Attachments/image-375.webp",
     "Attachments/image-374.webp",
