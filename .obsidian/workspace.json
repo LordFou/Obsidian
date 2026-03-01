@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pere",
+                "query": "Mirage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,6 +207,8 @@
   },
   "active": "9f049c255beb14f2",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Mirage 7.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Peregrino.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Over The Top - WWI.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/AETHUS.md",
     "Planet of Lana II.md",
@@ -223,7 +226,6 @@
     "Nicholas McDonnell.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Blossom - The Seed of Life.md",
     "Pebbledust Games.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Peregrino.md",
     "Inverge Studio.md",
     "Wishfully Studios.md",
     "Franchise Planet of Lana.md",
@@ -231,7 +233,6 @@
     "Planet of Lana  Face à lhorizon - Pointn Think.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Never Grave - The Witch and The Curse.md",
     "Frontside 180.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Gnaughty Gnomes.md",
     "Attachments/image-378.webp",
     "Attachments/image-377.webp",
     "Attachments/image-376.webp",

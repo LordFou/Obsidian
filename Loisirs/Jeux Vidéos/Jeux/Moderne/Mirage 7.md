@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Peregrino
+# Mirage 7
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Inverge Studio]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Survival Horror]], [[RPG]], [[Stratégie]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -39,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/sexCVPUhAz8 |
+| Trailer     | https://youtu.be/eWNOot152Xs |
