@@ -10,6 +10,8 @@ type: game
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
+		- [[Nicholas McDonnell]]
+		- [[Mitchell Pasmans]]
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 

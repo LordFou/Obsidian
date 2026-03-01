@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Scott Pilgrim EX
+# Legacy of Kain - Defiance Remastered
 
 ## Informations Générales
 
@@ -11,14 +11,14 @@ type: game
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]], [[Playstation 4]], [[Playstation 5]], [[Xbox One]], [[Xbox Series]], [[Switch]]
-- **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[Beat'em up]]
+- **Plateformes** : 
+- **Franchise** : [[Franchise Legacy of Kain]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[2D]]
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
@@ -39,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/x168DMb13SQ |
+| Trailer     | https://youtu.be/WFsK5Juq5n0 |
