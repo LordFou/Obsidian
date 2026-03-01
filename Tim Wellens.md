@@ -34,7 +34,7 @@ type: personne
   ![[Pasted image 20250720225054.png]]
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Chute lors du [[Kuurne Bruxelles Kuurne]] 2026 => Clavicule cassée (?)
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kuurne",
+                "query": "Ben Swift",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,10 +204,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9f049c255beb14f2",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
-    "Kuurne-Bruxelles-Kuurne.md",
+    "Loisirs/Sport/Sport et Religion.md",
     "Kuurne Bruxelles Kuurne.md",
+    "Peter Sagan.md",
+    "Tim Wellens.md",
+    "Loisirs/Sport/Sportifs/Tobias Lund Andresen.md",
+    "Loisirs/Sport/Sportifs/Wout Van Aert.md",
+    "Kuurne-Bruxelles-Kuurne.md",
     "Rick Pluimers.md",
     "Loisirs/Sport/Compétitions/Muscat Classic.md",
     "Culture/Histoire/Guerres dans le monde.md",
@@ -224,16 +229,11 @@
     "Loisirs/Sport/Compétitions/Tour des Alpes-Maritimes.md",
     "Jason Tesson.md",
     "Loisirs/Sport/Compétitions/Classic Var.md",
-    "Tim Wellens.md",
     "Loisirs/Sport/Compétitions/Tour d'Andalousie.md",
     "Ivan Romeo.md",
     "Tom Pidcock.md",
     "Tour d'Algarve.md",
     "Loisirs/Sport/Compétitions/UAE Tour.md",
-    "Paul Seixas.md",
-    "Loisirs/Sport/Compétitions/Faun Ardèche Classic.md",
-    "Tour de l’Ardèche.md",
-    "Loisirs/Sport/Lorena Wiebes.md",
     "Attachments/image-376.webp",
     "Attachments/image-375.webp",
     "Attachments/image-374.webp",
