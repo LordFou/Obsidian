@@ -10,18 +10,19 @@ type: game
 - **Développeur** : 
 	- Studio : [[Ishtar Games]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Nacon]]
 - **Plateformes** : [[PC]]
-- **Franchise** : 
+- **Franchise** : [[Franchise Dead in]]
 - **Genre** : [[Stratégie]], [[Tour par tour]], [[Survie]], [[Aventure]], [[RPG]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : [[2D]]
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
-- **Gameplay** :
+- **Réception critique** : 
+	- CheckPoint : 8/10
+- **Gameplay** : 
 - **Durée estimée** : 
 
 ## Histoire et Univers
@@ -30,6 +31,9 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Colonisation]]
+	- [[Exploitation des ressources]] 
+	- Conflits
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

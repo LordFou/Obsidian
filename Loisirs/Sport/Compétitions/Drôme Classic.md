@@ -6,6 +6,8 @@ type: event
 
 # Introduction
 
+Fait partie des "Boucles Drôme Ardèche"
+
 # Hommes
 
 | Année | Vainqueur           | Nationalité | Remarque |

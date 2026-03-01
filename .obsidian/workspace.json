@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Matteo Jorgenson.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dead in Antares.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matteo Jorgenson"
+              "title": "Dead in Antares"
             }
           }
         ]
@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Matteo",
-                "matchingCase": true,
+                "query": "Dead in antares",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": true,
@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -207,9 +207,11 @@
   },
   "active": "9f049c255beb14f2",
   "lastOpenFiles": [
-    "Romain Grégoire.md",
-    "Loisirs/Sport/Sportifs/Matteo Jorgenson.md",
+    "Franchise Dead in.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dead in Antares.md",
     "Loisirs/Sport/Compétitions/Drôme Classic.md",
+    "Loisirs/Sport/Sportifs/Matteo Jorgenson.md",
+    "Romain Grégoire.md",
     "Loisirs/Sport/Sportifs/Matthew Brennan.md",
     "Kuurne Bruxelles Kuurne.md",
     "Jordi Meeus.md",
@@ -233,8 +235,6 @@
     "Loisirs/Sport/Sportifs/Stefan Küng.md",
     "Attachments/image-378.webp",
     "Attachments/image-377.webp",
-    "Loisirs/Sport/Sportifs/Bryan Coquard.md",
-    "Loisirs/Sport/Compétitions/Visit South Aegean GP.md",
     "Attachments/image-376.webp",
     "Attachments/image-375.webp",
     "Attachments/image-374.webp",
