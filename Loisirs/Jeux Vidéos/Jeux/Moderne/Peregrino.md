@@ -11,9 +11,9 @@ type: game
 	- Studio : [[Inverge Studio]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[PC]]
+- **Genre** : 
 - **Résumé** : 
 
 ## Détails Techniques

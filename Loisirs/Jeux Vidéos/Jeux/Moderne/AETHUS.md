@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Legacy of Kain - Defiance Remastered
+# AETHUS
 
 ## Informations Générales
 
@@ -11,9 +11,9 @@ type: game
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
-- **Franchise** : [[Franchise Legacy of Kain]]
-- **Genre** : [[Action]], [[Aventure]]
+- **Plateformes** : [[PC]]
+- **Franchise** : 
+- **Genre** : [[Aventure]], [[Simulation]], [[Stratégie]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -39,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/WFsK5Juq5n0 |
+| Trailer     | https://youtu.be/khebvFPU17c |

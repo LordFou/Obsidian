@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Legacy of Kain - Defiance Remastered
+# Homura Hime
 
 ## Informations Générales
 
@@ -12,8 +12,8 @@ type: game
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Legacy of Kain]]
-- **Genre** : [[Action]], [[Aventure]]
+- **Franchise** : 
+- **Genre** : [[Action]], [[Hack & Slash]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -39,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/WFsK5Juq5n0 |
+| Trailer     | https://youtu.be/oXZ8YTrezlo |

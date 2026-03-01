@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : [[PC]],[[Playstation 4]],[[Playstation 5]], [[Xbox Series]], [[Switch]],[[Switch 2]]
 - **Franchise** : [[Franchise Planet of Lana]]
-- **Genre** :
+- **Genre** : [[Action]], [[Aventure]], [[Puzzle]], [[Plateforme]]
 - **Résumé** : 
 
 ## Détails Techniques

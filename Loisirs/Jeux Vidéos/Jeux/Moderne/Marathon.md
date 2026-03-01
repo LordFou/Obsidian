@@ -11,9 +11,9 @@ type: game
 	- Studio : [[Bungie]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[PlayStation 5]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Action]], [[Extraction Shooter]], [[FPS]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,6 +37,6 @@ type: game
 - Le directeur artistique se barre 3 mois avant la sortie !
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                          |
+| ----------- | ---------------------------- |
+| Trailer     | https://youtu.be/MXhQbF7TlbA |
