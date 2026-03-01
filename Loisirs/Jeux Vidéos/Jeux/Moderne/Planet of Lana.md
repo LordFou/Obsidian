@@ -14,7 +14,7 @@ type: game
 		- [[Siohban Wilson]] (Chanteuse)
 - **Éditeur** : 
 - **Plateformes** : PC
-- **Franchise** : 
+- **Franchise** : [[Franchise Planet of Lana]]
 - **Genre** : [[Cinematic platformers]]
 - **Résumé** : La jeune Lana vit sur une planète dont les magnifiques paysages rappellent ce que l'on peut observer sur notre planète terre. Débarque alors des machines [[Extraterrestres]] qui détruisent le village natal de Lana et kidnappent ses habitants dont sa soeur elle aussi orpheline Elo. Le principal but du jeu sera de la retrouver tout en évitant les machines. 
 

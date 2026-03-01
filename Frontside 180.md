@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Wishfully Studios
+# Frontside 180
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -12,7 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  Suède
+- **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -24,10 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                 | Genre    | Plateformes |
-| ----- | --------------------- | -------- | ----------- |
-| 2023  | [[Planet of Lana]]    | Aventure | PC          |
-| 2026  | [[Planet of Lana II]] |          |             |
+| Année | Titre                                     |
+| ----- | ----------------------------------------- |
+| 2026  | [[Never Grave - The Witch and The Curse]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
