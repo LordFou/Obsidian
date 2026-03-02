@@ -11,14 +11,14 @@ type: game
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Playstation 4]], [[Playstation 5]], [[Xbox One]], [[Xbox Series]], [[Switch]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Action]], [[Aventure]], [[Beat'em up]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : [[2D]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                          |
+| ----------- | ---------------------------- |
+| Trailer     | https://youtu.be/x168DMb13SQ |

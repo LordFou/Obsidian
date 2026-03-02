@@ -22,7 +22,9 @@ type: personne
 | 2025  | [[Tour de France]] - 15e étape                  | 1ier             |                                                    |
 | 2025  | [[Critérium d'Alost]]                           | 1ier             |                                                    |
 | 2025  | [[Critérium de Roulers]]                        | 2e               |                                                    |
+|       |                                                 |                  |                                                    |
 | 2026  | [[Clasica Jaen]]                                | 1ier             |                                                    |
+| 2026  | [[Tour d'Andalousie]]                           | 9e               |                                                    |
 
 # Style et Caractéristiques
 - Très bon équipier
@@ -32,7 +34,7 @@ type: personne
   ![[Pasted image 20250720225054.png]]
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Chute lors du [[Kuurne Bruxelles Kuurne]] 2026 => Clavicule cassée (?)
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

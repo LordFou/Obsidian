@@ -5,7 +5,7 @@ type: event
 
 # Introduction
 
-Aussi appelée la "Route cycliste du soleil"
+Aussi appelée la "Route cycliste du soleil", "Ruta Del Sol"
 
 # Edition 2026
 
@@ -18,7 +18,8 @@ Aussi appelée la "Route cycliste du soleil"
 | 1e (FRA) | [[Christophe Laporte]] | [[Christophe Laporte]] |          |        |       |           |
 | 2e (ESP) | [[Ivan Romeo]]         | [[Ivan Romeo]]         |          |        |       |           |
 | 3e (BEL) | [[Milan Fretin]]       | [[Ivan Romeo]]         |          |        |       |           |
-| 1e (BEL) | [[Tom Crabbe]]         | [[Ivan Romeo]]         |          |        |       | Sprint    |
+| 4e (BEL) | [[Tom Crabbe]]         | [[Ivan Romeo]]         |          |        |       | Sprint    |
+| 5e (ANG) | [[Tom Pidcock]]        | [[Ivan Romeo]]         |          |        |       |           |
 ## Femmes
 
 ### Etapes
@@ -31,11 +32,11 @@ Aussi appelée la "Route cycliste du soleil"
 ### Hommes
 
 
-| Année | Vainqueur         | Nationalité | Remarque |
-| ----- | ----------------- | ----------- | -------- |
-| 2018  | [[Tim Wellens]]   | Belge       |          |
-| 2025  | [[Pavel Sivakov]] |             |          |
-|       |                   |             |          |
+| Année | Vainqueur         | Nationalité | Remarque             |
+| ----- | ----------------- | ----------- | -------------------- |
+| 2018  | [[Tim Wellens]]   | Belge       |                      |
+| 2025  | [[Pavel Sivakov]] |             |                      |
+| 2026  | [[Ivan Romeo]]    | Espagnol    | 9e - [[Tim Wellens]] |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

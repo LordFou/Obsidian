@@ -1,0 +1,2 @@
+# Religion Musulmane
+- Mars 2026 : pour certains sportifs, le jeune est parfois compliqué à concilier avec le sport de haut niveau. C’est la raison pour laquelle la Premier League a décidé d’instaurer une minute de pause à l’heure de la rupture du jeûne pour que les joueurs musulmans puissent s’hydrater et se nourrir un peu. Une initiative qui ne semble pas avoir plu aux supporters de Leeds.

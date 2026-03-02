@@ -11,11 +11,13 @@ type: event
 
 ### Etapes 
 
-|          | Vainqueur          | Général                | Montagne | Points | Jeune | Remarques |
-| -------- | ------------------ | ---------------------- | -------- | ------ | ----- | --------- |
-| 1e (ITA) | [[Nicolò Garibbo]] | [[Nicolò Garibbo]]     |          |        |       |           |
-| 2e (ITA) | [[Davide Donati]]  | [[Nicolò Garibbo]] (?) |          |        |       |           |
-|          |                    |                        |          |        |       |           |
+|          | Vainqueur          | Général            | Montagne | Points | Jeune | Remarques |
+| -------- | ------------------ | ------------------ | -------- | ------ | ----- | --------- |
+| 1e (ITA) | [[Nicolò Garibbo]] | [[Nicolò Garibbo]] |          |        |       |           |
+| 2e (ITA) | [[Davide Donati]]  | [[Nicolò Garibbo]] |          |        |       |           |
+| 3e (SER) | [[Dusan Rajovic]]  | [[Nicolò Garibbo]] |          |        |       |           |
+| 4e (ITA) | [[Filippo Zana]]   | [[Filippo Zana]]   |          |        |       |           |
+| 5e       |                    |                    |          |        |       |           |
 ## Femmes
 
 ### Etapes

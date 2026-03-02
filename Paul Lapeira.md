@@ -17,6 +17,7 @@ type: personne
 | ----- | ------------------------------ | -------- | -------- |
 | 2024  | [[Tour du Pays Basque]]        | 1ier     |          |
 | 2025  | [[Tour de Pologne]] - 2e étape | 1ier     |          |
+| 2026  | [[Tour des Alpes-Maritimes]]   | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

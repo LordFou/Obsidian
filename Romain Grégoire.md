@@ -7,9 +7,9 @@ type: personne
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Français
-- **Sport / Discipline** :  Cyclisme
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  FDJ
+- **Équipe(s) / Club(s)** :  [[FDJ]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
@@ -21,6 +21,8 @@ type: personne
 | 2025  | [[Tour de Grande Bretagne]] - Classement Final | 1ier     |               |
 | 2025  | [[Tour du Luxembourg]] - 1e étape              | 1ier     |               |
 | 2025  | [[Tour du Luxembourg]] - 5e étape              | 1ier     |               |
+|       |                                                |          |               |
+| 2026  | [[Drôme Classic]]                              | 1ier     |               |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

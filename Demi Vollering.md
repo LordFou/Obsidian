@@ -22,6 +22,7 @@ type: personne
 |       |                                                             |          |            |
 | 2026  | [[Tour de Valence]] - 4e étape                              | 1ière    |            |
 | 2026  | [[Tour de Valence]] - Classement final                      | 1ière    |            |
+| 2026  | [[Omloop Het Nieuwsblad]]                                   | 1ière    |            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

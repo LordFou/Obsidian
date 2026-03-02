@@ -19,6 +19,7 @@ type: personne
 | 2017  | [[Paris-Tours]]                         | 1ier     |          |
 | 2024  | [[Tour de Wallonie]] - Classement final | 1ier     |          |
 | 2025  | [[Paris-Tours]]                         | 1ier     | 36 ans ! |
+| 2026  | [[Kuurne Bruxelles Kuurne]]             | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
