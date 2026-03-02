@@ -43,6 +43,9 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 | 2022  | [[Tour de France]] - 8e étape                               | Sprint de puncheur/sprinteur                                                          |     |
 | 2022  | [[Tour de France]] - 20e étape                              | CLM                                                                                   |     |
 | 2022  | [[Bretagne Classic]]                                        |                                                                                       |     |
+|       |                                                             |                                                                                       |     |
+| 2024  | [[Kuurne Bruxelles Kuurne]]                                 |                                                                                       |     |
+|       |                                                             |                                                                                       |     |
 | 2025  | [[Tour d'Italie]] - 9e étape                                | Etape des routes blanches                                                             |     |
 | 2025  | [[Tour de France]] - 21e étape                              | Etape finale <br>3 fois la butte de [[Montmartre]]<br>Arrivée sur les Champs Elysées. |     |
 | 2025  | [[Critérium d'Herentals]]                                   |                                                                                       |     |
