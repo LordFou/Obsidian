@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Marthe Goossens
+# Lara Gillespie
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
+- **Nationalité** :  Irlandaise
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[UAE]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                | Résultat | Remarque |
-| ----- | ------------------------------------------ | -------- | -------- |
-| 2025  | [[Championnat du Monde de Cyclisme]] - CLM | 21e      |          |
-| 2026  | [[Grand Prix Samyn]]                       | 2e       |          |
+| Année | Compétition          | Résultat | Remarque |
+| ----- | -------------------- | -------- | -------- |
+| 2026  | [[Grand Prix Samyn]] | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

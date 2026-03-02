@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7c964568434a87",
+        "id": "42e82b3185b1c45e",
         "type": "tabs",
         "children": [
           {
-            "id": "55bc120aef1bf413",
+            "id": "09ecbc32244385b6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Marthe Goossens.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Marthe Goossens"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tim van dijke",
+                "query": "Samyn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,8 +205,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55bc120aef1bf413",
+  "active": "09ecbc32244385b6",
   "lastOpenFiles": [
+    "Grand Prix Samyn.md",
+    "Lara Gillespie.md",
+    "Marthe Goossens.md",
+    "Loisirs/Sport/Lorena Wiebes.md",
+    "Loisirs/Sport/Sportifs/Mathieu van der Poel.md",
     "Journal de bord/2026-03-02.md",
     "conflict-files-obsidian-git.md",
     "Rick Pluimers.md",
@@ -229,12 +235,7 @@
     "Duarte Marivoet Scholiers.md",
     "Attachments/image-378.webp",
     "Attachments/image-377.webp",
-    "Jordi Meeus.md",
-    "Loisirs/Sport/Sportifs/Tim Van Dijke.md",
-    "Omloop Het Nieuwsblad.md",
-    "Aimé De Gendt.md",
     "Attachments/image-376.webp",
-    "Loisirs/Sport/Sportifs/Florian Vermeersch.md",
     "Attachments/image-375.webp",
     "Attachments/image-374.webp",
     "Attachments/image-373.webp",
