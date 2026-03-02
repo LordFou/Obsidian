@@ -16,7 +16,7 @@ type: personne
 | Année | Compétition                                | Résultat | Remarque |
 | ----- | ------------------------------------------ | -------- | -------- |
 | 2025  | [[Championnat du Monde de Cyclisme]] - CLM | 21e      |          |
-| 2026  | [[Grand Prix Samyn]]                       | 2e       |          |
+| 2026  | [[Samyn Classic]]                       | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

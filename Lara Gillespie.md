@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition          | Résultat | Remarque |
 | ----- | -------------------- | -------- | -------- |
-| 2026  | [[Grand Prix Samyn]] | 1ière    |          |
+| 2026  | [[Samyn Classic]] | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Grand Prix Samyn
+# Samyn Classic
 
 # Introduction
 
@@ -10,6 +10,7 @@ type: event
 
 | Année | Vainqueur                | Nationalité | Remarque |
 | ----- | ------------------------ | ----------- | -------- |
+| 2024  | [[Laurenz Rex]]          | Belge       |          |
 | 2025  | [[Mathieu van der Poel]] | Néerlandais |          |
 |       |                          |             |          |
 # Femmes
