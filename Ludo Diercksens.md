@@ -26,7 +26,7 @@ type: personne
 |       | Tour d’Autriche - 1 étape      | 1ier     |                                   |
 |       | [[GP La Marseillaise]]         | 1ier     |                                   |
 |       | Paris-Bourges                  | 1ier     |                                   |
-|       | GP de Denain                   | 1ier     |                                   |
+|       | [[GP de Denain]]               | 1ier     |                                   |
 |       | Izegem Koerse                  | 1ier     |                                   |
 |       | Izegem Koerse                  | 1ier     |                                   |
 

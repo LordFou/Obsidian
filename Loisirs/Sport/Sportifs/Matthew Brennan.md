@@ -6,7 +6,7 @@ type: personne
 
 # Informations Générales
 - **Date de naissance** :  2005
-- **Nationalité** :  Britannique
+- **Nationalité** :  Britannique (Darlington)
 - **Sport / Discipline** :  [[Cyclisme]], [[Cyclisme sur piste]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  [[Visma]] 
@@ -15,8 +15,8 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                            | Résultat | Remarque                                             |
 | ----- | -------------------------------------- | -------- | ---------------------------------------------------- |
-| 2025  | ?                                      | 1ier     |                                                      |
-| 2025  | ?                                      | 1ier     |                                                      |
+| 2025  | [[GP de Denain]]                       | 1ier     |                                                      |
+| 2025  | [[Tour de Norvège]] - Classement final | 1ier     |                                                      |
 | 2025  | ?                                      | 1ier     |                                                      |
 | 2025  | ?                                      | 1ier     |                                                      |
 | 2025  | ?                                      | 1ier     |                                                      |
@@ -31,10 +31,10 @@ type: personne
 | 2026  | [[Kuurne Bruxelles Kuurne]]            | 1ier     | Sprint vent de face en costaud avec 2 vélos d'avance |
 
 # Style et Caractéristiques
-Décrire le style de jeu, les points forts/faibles, les particularités.
+- Il a débuté sa formation en [[Cyclisme sur piste]]
 
 # Records et Faits Marquants
-- Vice champion du monde en scratch
+- Deux titres de champion du monde junior (2023) et trois titres de vice-champion d’Europe juniors (2023) en cyclisme sur piste
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
 

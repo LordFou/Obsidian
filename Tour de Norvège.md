@@ -32,10 +32,10 @@ type: event
 ### Hommes
 
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur           | Nationalité | Remarque |
+| ----- | ------------------- | ----------- | -------- |
+| 2025  | [[Matthew Brennan]] | Anglais     |          |
+|       |                     |             |          |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

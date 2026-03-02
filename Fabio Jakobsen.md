@@ -1,22 +1,21 @@
 ---
 type: personne
 ---
-![[image-348.webp]]
-# Tiesj Benoot
+
+# Fabio Jakobsen
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** : [[Cyclisme]] 
+- **Nationalité** :  
+- **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Visma]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                 | Résultat | Remarque |
-| ----- | --------------------------- | -------- | -------- |
-| 2023  | [[Kuurne Bruxelles Kuurne]] | 1ier     |          |
-| 2025  | [[Clasica San Sebastian]]   | 4e       |          |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -25,7 +24,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-- Opéré d'une hernie discale début 2026, ce qui fera surement manqué les classiques de printemps.
+Évoquer les polémiques ou moments clés de sa carrière.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
