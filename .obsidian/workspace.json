@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Eliot",
+                "query": "Indian Wells",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09ecbc32244385b6",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
     "Eliott Crestan.md",
     "Journal de bord/2026-03-03.md",
