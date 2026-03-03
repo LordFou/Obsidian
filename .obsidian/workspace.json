@@ -11,17 +11,14 @@
             "id": "3e80541407052db7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Généalogie Société.canvas",
-                "viewState": {
-                  "x": -127,
-                  "y": -418.1500244140625,
-                  "zoom": 0
-                }
+                "file": "Square Soft.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Généalogie Société"
+              "icon": "lucide-file",
+              "title": "Square Soft"
             }
           }
         ]
@@ -211,9 +208,11 @@
   },
   "active": "3e80541407052db7",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Sociétés/Enix.md",
-    "Square Enix.md",
     "Loisirs/Jeux Vidéos/Généalogie Société.canvas",
+    "Loisirs/Jeux Vidéos/Sociétés/Enix.md",
+    "Square Soft.md",
+    "Final Fantasy.md",
+    "Square Enix.md",
     "Resident Evil 9 - Requiem.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Esoteric Ebb.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Scott Pilgrim EX.md",
@@ -240,8 +239,6 @@
     "SandCastles Studio.md",
     "David Goffin.md",
     "Loisirs/Sport/Compétitions/Tournoi Indian Wells.md",
-    "Journal de bord/2026-03-03.md",
-    "Eliott Crestan.md",
     "Attachments/image-378.webp",
     "Attachments/image-377.webp",
     "Attachments/image-376.webp",

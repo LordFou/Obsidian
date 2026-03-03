@@ -5,7 +5,7 @@
 		{"id":"43521cd9b3243c4e","type":"text","text":"Bally Sente","x":-174,"y":-360,"width":156,"height":50},
 		{"id":"7b58a9e98a240182","type":"text","text":"[[Enix]]","x":-450,"y":-752,"width":250,"height":60},
 		{"id":"d87aef51b92182ce","x":-575,"y":-640,"width":250,"height":60,"type":"text","text":"[[Square Enix]]"},
-		{"id":"b0416f20ecf57f81","type":"text","text":"Square Soft","x":-720,"y":-752,"width":250,"height":60}
+		{"id":"b0416f20ecf57f81","type":"text","text":"[[Square Soft]]","x":-720,"y":-752,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"b3b3efb762cf8ee0","fromNode":"1aae0d01db997a93","fromSide":"bottom","toNode":"43521cd9b3243c4e","toSide":"top"},

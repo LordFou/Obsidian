@@ -2,17 +2,16 @@
 type: societe
 ---
 
-# Enix
+# Square Soft
 
 ## Présentation
-
-
+- Au tout début c'est une boutique informatique de genre cybercafé
 
 ## Informations Générales
 - **Nom complet** :  
 - **Date de création** :  
 - **Fondateurs** :  
-- **Personnalités** : [[Shuo Takahashi]], [[Hiroyuki Takahashi]]
+- **Personnalités** :
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
@@ -25,9 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre        | Genre | Plateformes |
-| ----- | ------------ | ----- | ----------- |
-|       | Dragon Quest |       |             |
+| Année | Titre             |
+| ----- | ----------------- |
+| XXXX  | [[Final Fantasy]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
@@ -45,8 +44,6 @@ Lister les prix, distinctions ou records obtenus.
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
 
-## Anecdotes
-- A la base, le fondateur (architecte) cherche juste à faire une entreprise rentable pas forcément dans le jeu vidéo. Il avait en tête de faire un magazine de petites annonces immobilières.
 ## Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
