@@ -13,14 +13,20 @@ type: game
 - **Éditeur** : [[SandCastles Studio]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Party Games]],
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** :
+	- CheckPoint (4/10)
+		- jeu en écran partagé pose problème en ligne (-)
+		- chaos pendat les matchs (-)
+		- animation peu soignée et bugs importants (-)
+		- Profondeur et stratégie (+)
+		- illustrations des cartes et options de personnalisation(+)
 - **Gameplay** :
 - **Durée estimée** : 
 
