@@ -42,7 +42,7 @@ type: game
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - Day One sur la [[Switch 2]]
-- 335
+- 335k joueurs en simultané lors du premier WE de lancement.
 ## Liens et Ressources
 
 | Description | URL                          |

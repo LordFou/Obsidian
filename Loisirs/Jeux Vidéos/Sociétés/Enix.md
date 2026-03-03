@@ -1,3 +1,7 @@
+---
+type: societe
+---
+
 # Enix
 
 ## Présentation
