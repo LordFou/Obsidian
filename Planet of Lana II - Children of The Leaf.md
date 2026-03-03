@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Planet of Lana II
+# Planet of Lana II - Children of The Leaf
 
 ## Informations Générales
 
@@ -22,6 +22,8 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
+	- Copie du premier niveau graphisme, ambiance, gameplay.
+	- Ils ont surtout rajouté tout un tas de mécanismes qu'ils n'avaient pu mettre dans le premier épisode par manque de temps.
 - **Durée estimée** : 
 
 ## Histoire et Univers
@@ -40,3 +42,5 @@ type: game
 | Description | URL                          |
 | ----------- | ---------------------------- |
 | Trailer     | https://youtu.be/q6XDIDXsoWo |
+![[image-380.webp]]
+![[image-381.webp]]

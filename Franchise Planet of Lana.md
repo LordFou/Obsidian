@@ -25,7 +25,7 @@ content:
 | Titre                 | Année | Plateformes | Remarque |
 | --------------------- | ----- | ----------- | -------- |
 | [[Planet of Lana]]    | 2023  |             |          |
-| [[Planet of Lana II]] | 2026  |             |          |
+| [[Planet of Lana II - Children of The Leaf]] | 2026  |             |          |
 
 
 ## Mécaniques et innovations
