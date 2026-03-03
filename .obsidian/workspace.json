@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "063c0085016f0d09",
+        "id": "89ea714f4f6d6e9a",
         "type": "tabs",
         "children": [
           {
-            "id": "9f049c255beb14f2",
+            "id": "ee663d7495922907",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Peregrino.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Peregrino"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -204,10 +204,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9f049c255beb14f2",
+  "active": "ee663d7495922907",
   "lastOpenFiles": [
-    "La santé dans le peloton.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Peregrino.md",
+    "La santé dans le peloton.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Mirage 7.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Over The Top - WWI.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/AETHUS.md",
