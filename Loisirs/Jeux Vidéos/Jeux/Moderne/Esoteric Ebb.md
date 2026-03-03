@@ -10,10 +10,11 @@ type: game
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
-- **Éditeur** : 
+		- [[Christoffer Bodegård]]
+- **Éditeur** : [[Raw Fury]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[RPG]]
+- **Genre** : [[CRPG]],
 - **Résumé** : 
 
 ## Détails Techniques
@@ -25,12 +26,13 @@ type: game
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : 
+- **Lieu(x)** : Norvik
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Disco Elysium]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
