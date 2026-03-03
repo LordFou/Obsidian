@@ -18,6 +18,7 @@ type: personne
 | 2024  | [[Samyn Classic]]           | 1ier     |                             |
 | 2026  | [[AlUla Tour]] - 1e étape   | 4e       |                             |
 | 2026  | [[Kuurne Bruxelles Kuurne]] | 6e       | Sprint costaud vent de face |
+| 2026  | [[Samyn Classic]]           | 2e       |                             |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jordi Meeus.md",
+                "file": "Loisirs/Sport/Sportifs/Wout Van Aert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jordi Meeus"
+              "title": "Wout Van Aert"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Samyn",
+                "query": "Wout",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,6 +208,8 @@
   },
   "active": "3e80541407052db7",
   "lastOpenFiles": [
+    "Laurenz Rex.md",
+    "Jordi Meeus.md",
     "Samyn Classic.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Esoteric Ebb.md",
     "Raw Fury.md",
@@ -231,8 +234,6 @@
     "Kuurne Bruxelles Kuurne.md",
     "Fabio Jakobsen.md",
     "Tiesj Benoot.md",
-    "Loisirs/Sport/Sportifs/Wout Van Aert.md",
-    "Loisirs/Sport/Arne Marit.md",
     "Attachments/image-378.webp",
     "Attachments/image-377.webp",
     "Attachments/image-376.webp",
