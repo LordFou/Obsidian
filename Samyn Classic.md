@@ -16,7 +16,7 @@ type: event
 |       |                          |             |          |
 | 2024  | [[Laurenz Rex]]          | Belge       |          |
 | 2025  | [[Mathieu van der Poel]] | Néerlandais |          |
-| 2026  |                          |             |          |
+| 2026  | [[Jordi Meeus]]          | Belge       |          |
 # Femmes
 
 | Année | Vainqueur          | Nationalité  | Remarque                                           |
