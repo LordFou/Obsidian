@@ -2,14 +2,14 @@
 type: personne
 ---
 
-# Shugo Takahashi
+# Hironobu Sakaguchi
 
 ## Présentation
-- Frère de [[Hiroyuki Takahashi]]
+Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
 
 ## Informations Générales
 - **Date de naissance** :  
-- **Nationalité** : Japonaise 
+- **Nationalité** :  
 - **Profession(s)** : (Développeur, Designer, Compositeur, Journaliste, etc.)  
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 
@@ -26,20 +26,32 @@ content:
 ```dataviewjs
 const pages = dv.pages("");
 const results = [];
+const personnalite = dv.current().file.name.toLowerCase();  // Nom de la note actuelle
 
 for (let page of pages) {
-    const content = await dv.io.load(page.file.path);  // Utilisation de await pour attendre le contenu
+    const content = await dv.io.load(page.file.path);
     const lowerFileName = page.file.name.toLowerCase();
-    const personnalite = "shuo takahashi";
-    
+
     if (content.toLowerCase().includes(personnalite) && lowerFileName !== personnalite) {
-        results.push([page.file.link]);  // Ajouter le lien de la note dans le tableau
+        results.push({
+            link: page.file.link,
+            name: page.file.name.toLowerCase()
+        });
     }
 }
 
-// Afficher le tableau avec la colonne "A travaillé pour"
-if (results.length > 0) {
-    dv.table(["A travaillé pour/avec/sur"], results);
+// Tri **sans localeCompare**, via comparaison de chaînes simples
+results.sort((a, b) => {
+    if (a.name < b.name) return -1;
+    if (a.name > b.name) return 1;
+    return 0;
+});
+
+// Affichage sous forme de tableau à une colonne
+const tableData = results.map(item => [item.link]);
+
+if (tableData.length > 0) {
+    dv.table(["A travaillé pour/avec/sur/est lié à"], tableData);
 }
 
 ```

@@ -5,7 +5,7 @@ type: societe
 # Square Enix
 
 ## Présentation
-Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
+Fusion de [[Square Soft]] et [[Enix]]
 
 ## Informations Générales
 - **Nom complet** :  

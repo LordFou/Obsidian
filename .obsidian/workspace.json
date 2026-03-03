@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Square Soft.md",
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Enix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Square Soft"
+              "title": "Enix"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "square",
+                "query": "Dragon Quest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -208,11 +208,18 @@
   },
   "active": "3e80541407052db7",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Généalogie Société.canvas",
+    "Loisirs/Jeux Vidéos/Shuo Takahashi.md",
     "Loisirs/Jeux Vidéos/Sociétés/Enix.md",
-    "Square Soft.md",
-    "Final Fantasy.md",
     "Square Enix.md",
+    "Final Fantasy.md",
+    "Square Soft.md",
+    "Yoshitaka Amano.md",
+    "Nobuo Uematsu.md",
+    "Franchise Final Fantasy.md",
+    "Hironobu Sakaguchi.md",
+    "Franchise Dragon Quest.md",
+    "Final Fantasy VII - Remake.md",
+    "Loisirs/Jeux Vidéos/Généalogie Société.canvas",
     "Resident Evil 9 - Requiem.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Esoteric Ebb.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Scott Pilgrim EX.md",
@@ -233,12 +240,6 @@
     "Jordi Meeus.md",
     "Samyn Classic.md",
     "Raw Fury.md",
-    "Christoffer Bodegård.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre 6.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Gnaughty Gnomes.md",
-    "SandCastles Studio.md",
-    "David Goffin.md",
-    "Loisirs/Sport/Compétitions/Tournoi Indian Wells.md",
     "Attachments/image-378.webp",
     "Attachments/image-377.webp",
     "Attachments/image-376.webp",

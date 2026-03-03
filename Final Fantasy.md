@@ -8,11 +8,14 @@ type: game
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Square Soft]]
 	- Personnalités : 
+		- [[Hironobu Sakaguchi]]
+		- [[Nobuo Uematsu]] (Compositeur)
+		- [[Yoshitaka Amano]] (Artiste)
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise Final Fantasy]]
 - **Genre** :
 - **Résumé** : 
 

@@ -5,7 +5,7 @@ type: societe
 # Square Soft
 
 ## Présentation
-- Au tout début c'est une boutique informatique de genre cybercafé
+- Au tout début c'est une boutique informatique de genre cybercafé.
 
 ## Informations Générales
 - **Nom complet** :  
@@ -33,7 +33,7 @@ content:
 - Moteur 2
 
 ## Style et Influence
-Décrire le style graphique, les thématiques abordées, les influences notables.
+- Il travaille par équipe d'employés sur un projet/jeu avec quelques freelances mais c'est marginal
 
 ## Succès et Récompenses
 Lister les prix, distinctions ou records obtenus.
