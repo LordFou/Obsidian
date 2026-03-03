@@ -42,6 +42,7 @@ type: game
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - Day One sur la [[Switch 2]]
+- 335
 ## Liens et Ressources
 
 | Description | URL                          |
