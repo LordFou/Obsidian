@@ -10,8 +10,8 @@ type: game
 - **Développeur** : 
 	- Studio : [[SandCastles Studio]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
+- **Éditeur** : [[SandCastles Studio]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** :
 - **Résumé** : 

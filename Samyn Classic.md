@@ -10,9 +10,13 @@ type: event
 
 | Année | Vainqueur                | Nationalité | Remarque |
 | ----- | ------------------------ | ----------- | -------- |
+| 2020  | [[Hugo Hofstetter]]      |             |          |
+|       |                          |             |          |
+|       |                          |             |          |
+|       |                          |             |          |
 | 2024  | [[Laurenz Rex]]          | Belge       |          |
 | 2025  | [[Mathieu van der Poel]] | Néerlandais |          |
-|       |                          |             |          |
+| 2026  |                          |             |          |
 # Femmes
 
 | Année | Vainqueur          | Nationalité  | Remarque                                           |
