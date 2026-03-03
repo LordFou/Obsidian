@@ -18,6 +18,7 @@ type: personne
 | 2020  | [[Samyn Classic]] | 1ier     |          |
 | 2023  | [[Samyn Classic]] | 2e       |          |
 | 2024  | [[Samyn Classic]] | 2e       |          |
+| 2026  | [[Samyn Classic]] | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
