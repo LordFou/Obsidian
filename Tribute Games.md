@@ -28,6 +28,7 @@ content:
 | ----- | -------------------------- | ---------- | ----------- |
 |       | Shredder's Revenge (?)     | Beat'em up |             |
 | 2025  | [[Marvel Cosmic Invasion]] | Beat'em up | All         |
+| 2026  | [[Scott Pilgrim EX]]       | Beat'em up | All         |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

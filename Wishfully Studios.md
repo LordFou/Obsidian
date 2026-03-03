@@ -24,10 +24,10 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                 | Genre    | Plateformes |
-| ----- | --------------------- | -------- | ----------- |
-| 2023  | [[Planet of Lana]]    | Aventure | PC          |
-| 2026  | [[Planet of Lana II]] |          |             |
+| Année | Titre                                        | Genre    | Plateformes |
+| ----- | -------------------------------------------- | -------- | ----------- |
+| 2023  | [[Planet of Lana]]                           | Aventure | PC          |
+| 2026  | [[Planet of Lana II - Children of The Leaf]] |          |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

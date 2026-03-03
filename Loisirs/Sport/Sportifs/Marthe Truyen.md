@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                              | Résultat | Remarque |
 | ----- | ---------------------------------------- | -------- | -------- |
 | 2025  | [[Championnat National Belge de gravel]] | 1ier     |          |
+| 2026  | [[Samyn Classic]]                     | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

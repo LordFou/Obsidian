@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Franchise Planet of Lana
+# Franchise Scott Pilgrim
 
 
 ## Informations générales
@@ -22,10 +22,9 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                 | Année | Plateformes | Remarque |
-| --------------------- | ----- | ----------- | -------- |
-| [[Planet of Lana]]    | 2023  |             |          |
-| [[Planet of Lana II - Children of The Leaf]] | 2026  |             |          |
+| Titre                | Année | Plateformes | Remarque |
+| -------------------- | ----- | ----------- | -------- |
+| [[Scott Pilgrim EX]] | 2026  | All         |          |
 
 
 ## Mécaniques et innovations

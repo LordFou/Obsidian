@@ -1,11 +1,16 @@
 {
 	"nodes":[
-		{"id":"1aae0d01db997a93","x":-58,"y":-500,"width":104,"height":60,"type":"text","text":"Bally"},
-		{"id":"719351552dcabfac","x":-300,"y":-500,"width":200,"height":60,"type":"text","text":"Sente Technologies"},
-		{"id":"43521cd9b3243c4e","x":-174,"y":-360,"width":156,"height":50,"type":"text","text":"Bally Sente"}
+		{"id":"1aae0d01db997a93","type":"text","text":"Bally","x":-58,"y":-500,"width":104,"height":60},
+		{"id":"719351552dcabfac","type":"text","text":"Sente Technologies","x":-300,"y":-500,"width":200,"height":60},
+		{"id":"43521cd9b3243c4e","type":"text","text":"Bally Sente","x":-174,"y":-360,"width":156,"height":50},
+		{"id":"7b58a9e98a240182","type":"text","text":"[[Enix]]","x":-450,"y":-752,"width":250,"height":60},
+		{"id":"d87aef51b92182ce","x":-575,"y":-640,"width":250,"height":60,"type":"text","text":"[[Square Enix]]"},
+		{"id":"b0416f20ecf57f81","type":"text","text":"[[Square Soft]]","x":-720,"y":-752,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"b3b3efb762cf8ee0","fromNode":"1aae0d01db997a93","fromSide":"bottom","toNode":"43521cd9b3243c4e","toSide":"top"},
-		{"id":"44abd9a32debb64c","fromNode":"719351552dcabfac","fromSide":"bottom","toNode":"43521cd9b3243c4e","toSide":"top"}
+		{"id":"44abd9a32debb64c","fromNode":"719351552dcabfac","fromSide":"bottom","toNode":"43521cd9b3243c4e","toSide":"top"},
+		{"id":"21fb13682c86e1f5","fromNode":"7b58a9e98a240182","fromSide":"bottom","toNode":"d87aef51b92182ce","toSide":"top"},
+		{"id":"d652418b6ec90f70","fromNode":"b0416f20ecf57f81","fromSide":"bottom","toNode":"d87aef51b92182ce","toSide":"top"}
 	]
 }

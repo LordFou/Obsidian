@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Planet of Lana II
+# Denshattack !
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Wishfully Studios]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]],[[Playstation 4]],[[Playstation 5]], [[Xbox Series]], [[Switch]],[[Switch 2]]
-- **Franchise** : [[Franchise Planet of Lana]]
-- **Genre** : [[Action]], [[Aventure]], [[Puzzle]], [[Plateforme]]
+- **Plateformes** : 
+- **Franchise** : 
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/q6XDIDXsoWo |
+| Description | URL |
+| ----------- | --- |
+|             |     |

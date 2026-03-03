@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Marthe Goossens
+# Fabio Jakobsen
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Nationalité** :  
+- **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                | Résultat | Remarque |
-| ----- | ------------------------------------------ | -------- | -------- |
-| 2025  | [[Championnat du Monde de Cyclisme]] - CLM | 21e      |          |
-| 2026  | [[Samyn Classic]]                       | 2e       |          |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

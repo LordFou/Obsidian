@@ -6,7 +6,8 @@ type: game
 
 
 ## Informations générales
-- Créateur(s) : {{Nom du ou des créateurs}}
+- Créateur(s) : 
+	- [[Hironobu Sakaguchi]]
 - Développeur(s) : {{Studio(s) de développement}}
 - Éditeur(s) : {{Nom de l’éditeur}}
 - Première apparition : {{Nom du premier jeu (année)}}
@@ -24,6 +25,7 @@ content:
 ## Jeux principaux
 | Titre                          | Année    | Plateformes | Remarque |
 | ------------------------------ | -------- | ----------- | -------- |
+| [[Final Fantasy]]              |          |             |          |
 | [[Final Fantasy VII - Remake]] | 2013 (?) |             |          |
 |                                |          |             |          |
 

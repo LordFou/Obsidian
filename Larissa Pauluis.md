@@ -19,6 +19,8 @@ type: personne
 | 2025  | Grand Prix Libre de dressage à Malines | 1ière    | 82.975 % - Record personnel |
 | 2026  | Grand Prix de Neumünster               | 2e       |                             |
 | 2026  | Neumünster remix                       | 1ière    |                             |
+| 2026  | Grand Prix de Lierre                   | 3e       |                             |
+| 2026  | Grand Prix kür en musique de dressage  | 1ière    |                             |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

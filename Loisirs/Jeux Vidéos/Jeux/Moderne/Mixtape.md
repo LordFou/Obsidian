@@ -2,45 +2,42 @@
 type: game
 ---
 
-# Esoteric Ebb
+# Mixtape
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
-		- [[Christoffer Bodegård]]
-- **Éditeur** : [[Raw Fury]]
-- **Plateformes** : [[PC]]
+- **Éditeur** : 
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[CRPG]],
+- **Genre** : [[Jeu narratif]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- CheckPoint (8/10)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : Norvik
+- **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
-	- Snell
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Le passage à l'âge adulte]]
 - **Influencé par** :
-	- [[Disco Elysium]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/4GrC3k1gq5w |
+| Description | URL |
+| ----------- | --- |
+|             |     |

@@ -2,45 +2,44 @@
 type: game
 ---
 
-# Esoteric Ebb
+# Final Fantasy
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Square Soft]]
 	- Personnalités : 
-		- [[Christoffer Bodegård]]
-- **Éditeur** : [[Raw Fury]]
-- **Plateformes** : [[PC]]
-- **Franchise** : 
-- **Genre** : [[CRPG]],
+		- [[Hironobu Sakaguchi]]
+		- [[Nobuo Uematsu]] (Compositeur)
+		- [[Yoshitaka Amano]] (Artiste)
+- **Éditeur** : 
+- **Plateformes** : 
+- **Franchise** : [[Franchise Final Fantasy]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- CheckPoint (8/10)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : Norvik
+- **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
-	- Snell
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
-	- [[Disco Elysium]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/4GrC3k1gq5w |
+| Description | URL |
+| ----------- | --- |
+|             |     |

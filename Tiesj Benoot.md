@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition               | Résultat | Remarque |
-| ----- | ------------------------- | -------- | -------- |
-| 2025  | [[Clasica San Sebastian]] | 4e       |          |
+| Année | Compétition                 | Résultat | Remarque |
+| ----- | --------------------------- | -------- | -------- |
+| 2023  | [[Kuurne Bruxelles Kuurne]] | 1ier     |          |
+| 2025  | [[Clasica San Sebastian]]   | 4e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

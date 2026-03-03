@@ -22,6 +22,7 @@ type: personne
 |       |                              |          |                            |
 | 2026  | [[ATP - Tournoi de Pau]]     | 1e tour  |                            |
 | 2026  | [[Tournoi de Lille]]         | 1e tour  |                            |
+| 2026  | [[Tournoi Indian Wells]]     | 1e tour  |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
