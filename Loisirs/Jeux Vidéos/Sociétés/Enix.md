@@ -27,9 +27,13 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre        | Genre | Plateformes |
-| ----- | ------------ | ----- | ----------- |
-|       | Dragon Quest |       |             |
+| Année | Titre                               | Genre | Plateformes |
+| ----- | ----------------------------------- | ----- | ----------- |
+| 1983  | [[The Portopia Serial Murder Case]] |       |             |
+|       |                                     |       |             |
+|       |                                     |       |             |
+|       |                                     |       |             |
+|       | Dragon Quest                        |       |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

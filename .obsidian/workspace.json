@@ -11,14 +11,14 @@
             "id": "ee663d7495922907",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Enix.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Enix"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sport et Santé",
+                "query": "eni",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -206,9 +207,15 @@
   },
   "active": "ee663d7495922907",
   "lastOpenFiles": [
+    "The Portopia Serial Murder Case.md",
+    "Attachments/image-384.webp",
+    "Loisirs/Jeux Vidéos/Sociétés/Enix.md",
+    "Loisirs/Jeux Vidéos/Shuo Takahashi.md",
+    "Square Enix.md",
+    "Square Soft.md",
+    "Final Fantasy.md",
     "conflict-files-obsidian-git.md",
     "Yoshitaka Amano.md",
-    "Square Soft.md",
     "SandCastles Studio.md",
     "Samyn Classic.md",
     "Planet of Lana II - Children of The Leaf.md",
@@ -222,7 +229,6 @@
     "Hironobu Sakaguchi.md",
     "GP de Denain.md",
     "Franchise Scott Pilgrim.md",
-    "Final Fantasy.md",
     "Fabio Jakobsen.md",
     "Christoffer Bodegård.md",
     "Attachments/image-383.webp",
@@ -232,16 +238,10 @@
     "Attachments/image-379.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Peregrino.md",
     "La santé dans le peloton.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Mirage 7.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Over The Top - WWI.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/AETHUS.md",
-    "Planet of Lana II.md",
-    "Loisirs/Jeux Vidéos/Action.md",
     "Attachments/image-378.webp",
     "Attachments/image-377.webp",
     "Attachments/image-376.webp",
     "Attachments/image-375.webp",
-    "Attachments/image-374.webp",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",
     "Culture/Géographie",
