@@ -8,12 +8,12 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Nuggets Entertainment]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Nuggets Entertainment]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Party Games]]
+- **Genre** : [[Party Games]], [[Coopération]]
 - **Résumé** : Simulation de roadtrip en camping car en mode coop foutraque 
 
 ## Détails Techniques
@@ -21,9 +21,10 @@ type: game
 - **Graphismes** : [[3D]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
-	- Canard PC
+	- Canard PC (7/10)
+		- ça manque un peu de finition mais c'est tout à fait valide pour passer de bonnes soirées de rigolade entre potes
 - **Gameplay** :
-- **Durée estimée** : 
+- **Durée estimée** : 8h
 
 ## Histoire et Univers
 - **Lieu(x)** : 
@@ -39,7 +40,7 @@ type: game
 - **Comparable à** :
 	- [[PEAK]]
 ## Anecdotes et Curiosités
-- 
+- 1 millions de vente en 4 jours
 ## Liens et Ressources
 
 | Description | URL                                         |
