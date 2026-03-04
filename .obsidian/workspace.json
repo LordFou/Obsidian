@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e5de862accfdaa2d",
+        "id": "9f07016b7411560a",
         "type": "tabs",
         "children": [
           {
-            "id": "4067a580ebe3d404",
+            "id": "92986954863b80e0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -187,9 +187,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Créer une nouvelle base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
-      "bases:Create new base": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -201,8 +201,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c8ddbab28469fc36",
+  "active": "92986954863b80e0",
   "lastOpenFiles": [
+    "Journal de bord/2026-03-04.md",
     "Culture/Histoire/Guerres dans le monde.md",
     "Loisirs/Jeux Vidéos/Sociétés/Enix.md",
     "The Portopia Serial Murder Case.md",
@@ -234,7 +235,6 @@
     "Attachments/image-380.webp",
     "Attachments/image-379.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Peregrino.md",
-    "La santé dans le peloton.md",
     "Attachments/image-378.webp",
     "Attachments/image-377.webp",
     "Attachments/image-376.webp",
