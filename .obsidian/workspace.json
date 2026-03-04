@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frank Vandenbroucke.md",
+                "file": "Santiago Buitrago.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frank Vandenbroucke"
+              "title": "Santiago Buitrago"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Trofeo Laigueglia",
+                "query": "mauri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,7 +206,9 @@
   },
   "active": "92986954863b80e0",
   "lastOpenFiles": [
+    "Attachments/image-386.webp",
     "Loisirs/Sport/Compétitions/Trofeo Laigueglia.md",
+    "Mauri Vansevenant.md",
     "Frank Vandenbroucke.md",
     "Johan Museeuw.md",
     "Juan Ayuso.md",
@@ -233,8 +234,6 @@
     "Loisirs/Jeux Vidéos/Shuo Takahashi.md",
     "Square Enix.md",
     "Square Soft.md",
-    "Final Fantasy.md",
-    "conflict-files-obsidian-git.md",
     "Attachments/image-383.webp",
     "Attachments/image-382.webp",
     "Attachments/image-381.webp",

@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-386.webp]]
 # Santiago Buitrago
 
 # Informations Générales
