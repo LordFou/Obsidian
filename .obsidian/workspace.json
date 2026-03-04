@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sociétés/Enix.md",
+                "file": "Culture/Histoire/Guerres dans le monde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enix"
+              "title": "Guerres dans le monde"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eni",
+                "query": "guerre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,9 +206,9 @@
   },
   "active": "ee663d7495922907",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Sociétés/Enix.md",
     "The Portopia Serial Murder Case.md",
     "Attachments/image-384.webp",
-    "Loisirs/Jeux Vidéos/Sociétés/Enix.md",
     "Loisirs/Jeux Vidéos/Shuo Takahashi.md",
     "Square Enix.md",
     "Square Soft.md",
