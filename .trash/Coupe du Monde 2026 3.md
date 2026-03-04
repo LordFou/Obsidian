@@ -1,0 +1,20 @@
+---
+type: event
+---
+
+# Coupe du Monde 2026
+
+# Introduction
+
+# Hommes
+
+| Année | Vainqueur | Nationalité | Remarque |
+| ----- | --------- | ----------- | -------- |
+| 2026  |           |             |          |
+|       |           |             |          |
+# Femmes
+
+| Année | Vainqueur | Nationalité | Remarque |
+| ----- | --------- | ----------- | -------- |
+| 2026  |           |             |          |
+|       |           |             |          |
