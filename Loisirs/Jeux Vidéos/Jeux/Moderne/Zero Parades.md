@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[ZA-UM]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[ZA-UM]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[RPG]]
