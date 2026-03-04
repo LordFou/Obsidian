@@ -35,6 +35,7 @@ type: game
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - 14 jours après sa sortie, la plupart de l'équipe des développeurs est virée par [[Wildlight]]
+- 2 mois après sa sortie, les serveurs sont arrêtés...
 ## Liens et Ressources
 
 | Description | URL                          |
