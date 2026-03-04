@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-385.webp]]
 # Planet of Lana II - Children of The Leaf
 
 ## Informations Générales
@@ -10,7 +10,8 @@ type: game
 - **Développeur** : 
 	- Studio : [[Wishfully Studios]]
 	- Personnalités : 
-- **Éditeur** : 
+		- [[Takeshi Furukawa]]
+- **Éditeur** : [[Thunderful Publishing]]
 - **Plateformes** : [[PC]],[[Playstation 4]],[[Playstation 5]], [[Xbox Series]], [[Switch]],[[Switch 2]]
 - **Franchise** : [[Franchise Planet of Lana]]
 - **Genre** : [[Action]], [[Aventure]], [[Puzzle]], [[Plateforme]]
@@ -20,7 +21,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** :
+	- CheckPoint (8.5/10)
 - **Gameplay** :
 	- Copie du premier niveau graphisme, ambiance, gameplay.
 	- Ils ont surtout rajouté tout un tas de mécanismes qu'ils n'avaient pu mettre dans le premier épisode par manque de temps.
@@ -30,6 +32,9 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Lana (Soeur d'Anua)
+	- Anua (Soeur de Lana)
+	- Mui
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :

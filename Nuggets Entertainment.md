@@ -2,18 +2,17 @@
 type: societe
 ---
 
-# Square Soft
+# Nuggets Entertainment
 
 ## Présentation
-- Au tout début c'est une boutique informatique de genre cybercafé.
-- L'entreprise n'est pas très stable financièrement, et tout commence avec [[Final Fantasy]]
+Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
 
 ## Informations Générales
 - **Nom complet** :  
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  
+- **Pays d’origine** : Suède
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -25,16 +24,16 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre             |
-| ----- | ----------------- |
-| XXXX  | [[Final Fantasy]] |
+| Année | Titre            |
+| ----- | ---------------- |
+| 2026  | [[RV There Yet]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
 - Moteur 2
 
 ## Style et Influence
-- Il travaille par équipe d'employés sur un projet/jeu avec quelques freelances mais c'est marginal
+Décrire le style graphique, les thématiques abordées, les influences notables.
 
 ## Succès et Récompenses
 Lister les prix, distinctions ou records obtenus.

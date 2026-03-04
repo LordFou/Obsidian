@@ -29,10 +29,11 @@ type: event
 ### Hommes
 
 
-| Année | Vainqueur           | Nationalité | Remarque |
-| ----- | ------------------- | ----------- | -------- |
-| 2026  | [[Remco Evenepoel]] | Belge       |          |
-|       |                     |             |          |
+| Année | Vainqueur             | Nationalité | Remarque |
+| ----- | --------------------- | ----------- | -------- |
+| 2025  | [[Santiago Buitrago]] | Colombien   |          |
+| 2026  | [[Remco Evenepoel]]   | Belge       |          |
+|       |                       |             |          |
 ### Femmes
 
 | Année | Vainqueur          | Nationalité  | Remarque               |

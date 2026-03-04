@@ -1,19 +1,19 @@
 ---
 type: game
 ---
-
-# Highguard
+![[image-384.webp]]
+# The Portopia Serial Murder Case
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 1983
 - **Développeur** : 
-	- Studio : [[Respawn]], [[Wildlight]]
+	- Studio : [[Enix]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action]], [[FPS]], [[Free2Play]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -34,10 +34,9 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 14 jours après sa sortie, la plupart de l'équipe des développeurs est virée par [[Wildlight]]
-- 2 mois après sa sortie, les serveurs sont arrêtés...
+- 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/y_6tjMvckZ0 |
+| Description | URL |
+| ----------- | --- |
+|             |     |

@@ -1,3 +1,7 @@
+
+# USA/Israël Vs Iran
+- [[Coupe du Monde]] 2026 aux USA
+	- Participation de l'Iran compromise.
 # Ukraine Vs Russie
 - [[JO 2026]]
 	- Impossibilité pour les sportifs russes et biélorusses de participer [aux compétitions de qualifications](Impossibilité pour les sportifs russes et biélorusses de participer aux compétitions de qualifications)

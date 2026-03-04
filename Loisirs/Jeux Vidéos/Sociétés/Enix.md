@@ -5,7 +5,7 @@ type: societe
 # Enix
 
 ## Présentation
-- Principalement une boîte de production, edition qui s'occupe du marketing d'un projet et sous traite le développement
+- Principalement une boîte de production, édition qui s'occupe du marketing d'un projet et sous traite le développement
 
 
 ## Informations Générales
@@ -27,9 +27,13 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre        | Genre | Plateformes |
-| ----- | ------------ | ----- | ----------- |
-|       | Dragon Quest |       |             |
+| Année | Titre                               | Genre | Plateformes |
+| ----- | ----------------------------------- | ----- | ----------- |
+| 1983  | [[The Portopia Serial Murder Case]] |       |             |
+|       |                                     |       |             |
+|       |                                     |       |             |
+|       |                                     |       |             |
+|       | Dragon Quest                        |       |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

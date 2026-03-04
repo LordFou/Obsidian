@@ -6,7 +6,7 @@ type: personne
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
+- **Nationalité** :  Espagnol
 - **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  [[UAE]], [[Lidl-Trek]]
@@ -15,6 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                           | Résultat | Remarque |
 | ----- | ------------------------------------- | -------- | -------- |
+| 2025  | [[Trofeo Laigueglia]]                 | 1ier     |          |
 | 2025  | [[Tour d'Espagne]] - 7e étape         | 1ier     |          |
 | 2026  | [[Tour d'Algarve]] - 5e étape         | 1ier     |          |
 | 2026  | [[Tour d'Algarve]] - Classement final | 1ier     |          |

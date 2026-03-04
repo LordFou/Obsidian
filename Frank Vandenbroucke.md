@@ -2,12 +2,12 @@
 type: personne
 ---
 
-# Mauri Vansevenant
+# Frank Vandenbroucke
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Sport / Discipline** : [[Cyclisme]] 
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition           | Résultat | Remarque |
 | ----- | --------------------- | -------- | -------- |
-| 2021  | [[Trofeo Laigueglia]] | 3e       |          |
+| 1996  | [[Trofeo Laigueglia]] | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

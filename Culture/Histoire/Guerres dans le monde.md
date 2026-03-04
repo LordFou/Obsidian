@@ -21,6 +21,13 @@
 - **Déroulement** :
 	- 27/02 - L'Iran accepterait de ne pas stocker d'[[uranium enrichi]]
 	- 28/02 - Les USA bombardent l'[[Iran]] => Opération "Fureur Epique. Juste avant cette attaque, [[Israël]] avait lancé une attaque préventive sur L'[[Iran]] pour éviter le plus de riposte. Ils auraient touché une école de jeunes filles par erreur. La propriété du leader suprême [[Ali Khamenei]] aurait été détruite. Durant la soirée, sa mort est confirmée par Reuters. L’[[Iran]] a déclaré que tout Américain était une cible légitime dans le monde.
-	  
-	  
+	- Mars
+		- Les échanges de tirs continuent dans les 2 sens.
+			- Israël tirent dans le Sud Liban. Ils occupent d'ailleurs des zones sur la frontière sur pour "créer une zone tampon".
+			- L'Iran essaie de faire rentrer dans le conflit d'autres pays du moyen orient en attaquant les bases américaines sur leurs territoires
+			- Le Koweït a abattu des F-15 américains par erreur
+			- Une base anglaise de Chypre a été touchée par un missile Iranien. 
+			- Un missile iranien en direction de la Turquie a été intercepté par les forces de l'OTAN => risque !!
+			  
+			  
 
