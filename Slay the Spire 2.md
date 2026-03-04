@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[Pasted image 20260304202253.png]]
 # Slay the Spire 2
 
 ## Informations Générales
