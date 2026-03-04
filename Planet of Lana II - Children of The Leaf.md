@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Wishfully Studios]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Thunderful Publishing]]
 - **Plateformes** : [[PC]],[[Playstation 4]],[[Playstation 5]], [[Xbox Series]], [[Switch]],[[Switch 2]]
 - **Franchise** : [[Franchise Planet of Lana]]
 - **Genre** : [[Action]], [[Aventure]], [[Puzzle]], [[Plateforme]]
@@ -30,6 +30,9 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Lana (Soeur d'Anua)
+	- Anua (Soeur de Lana)
+	- Mui
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
