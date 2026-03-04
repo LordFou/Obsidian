@@ -5,7 +5,7 @@ type: societe
 # Enix
 
 ## Présentation
-- Principalement une boîte de production, edition qui s'occupe du marketing d'un projet et sous traite le développement
+- Principalement une boîte de production, édition qui s'occupe du marketing d'un projet et sous traite le développement
 
 
 ## Informations Générales
@@ -13,7 +13,7 @@ type: societe
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** : 
-	- [[Shuo Takahashi]],
+	- [[Shuo Takahashi]]
 	- [[Hiroyuki Takahashi]]
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
