@@ -14,7 +14,7 @@ type: game
 - **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Party Games]]
-- **Résumé** : 
+- **Résumé** : Simulation de roadtrip en camping car en mode coop foutraque 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
