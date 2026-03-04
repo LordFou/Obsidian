@@ -18,9 +18,10 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : [[3D]]
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Canard PC
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -29,16 +30,18 @@ type: game
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
+	- L'environnement naturel
 - **Thèmes abordés** : 
 	- [[Roadtrip]]
 	- [[Camping Car]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[PEAK]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                                         |
+| ----------- | ------------------------------------------- |
+| Trailer     | https://www.youtube.com/watch?v=y4o2d8vdLtI |
