@@ -13,7 +13,7 @@ type: societe
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** : 
-	- [[Shuo Takahashi]],
+	- [[Shuo Takahashi]]
 	- [[Hiroyuki Takahashi]]
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
