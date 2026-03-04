@@ -1,19 +1,20 @@
 ---
 type: game
 ---
-![[image-389.webp]]
-# Zero Parades
+
+# Australia Did It
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[ZA-UM]]
+	- Studio : 
 	- Personnalités : 
+		- [[Rami Ismail]]
 - **Éditeur** : 
-- **Plateformes** : [[PC]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[RPG]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -33,7 +34,6 @@ type: game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
-	- [[Disco Elysium]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
