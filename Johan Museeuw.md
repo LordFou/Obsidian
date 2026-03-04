@@ -2,23 +2,20 @@
 type: personne
 ---
 
-# Juan Ayuso
+# Johan Museeuw
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Espagnol
-- **Sport / Discipline** :  
+- **Nationalité** :  Belge
+- **Sport / Discipline** :  [[Cyclisme]] 
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[UAE]], [[Lidl-Trek]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                           | Résultat | Remarque |
-| ----- | ------------------------------------- | -------- | -------- |
-| 2025  | [[Trofeo Laigueglia]]                 | 1ier     |          |
-| 2025  | [[Tour d'Espagne]] - 7e étape         | 1ier     |          |
-| 2026  | [[Tour d'Algarve]] - 5e étape         | 1ier     |          |
-| 2026  | [[Tour d'Algarve]] - Classement final | 1ier     |          |
+| Année | Compétition           | Résultat | Remarque |
+| ----- | --------------------- | -------- | -------- |
+| 1995  | [[Trofeo Laigueglia]] | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
