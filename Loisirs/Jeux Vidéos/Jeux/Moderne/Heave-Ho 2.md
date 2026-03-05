@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : [[Devolver Digital]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[PC]], Swit
+- **Genre** : [[PC]], [[Switch]],[[Switch 2]]
 - **Résumé** : 
 
 ## Détails Techniques
