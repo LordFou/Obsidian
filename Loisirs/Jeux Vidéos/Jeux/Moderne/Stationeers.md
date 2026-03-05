@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Kitten Space Agency
+# Stationeers
 
 ## Informations Générales
 
@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
-		- [[Dean Hall]]
+		- [[Dean Hall]] (Créateur)
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
@@ -19,7 +19,6 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-	- [[BRUTAL]]
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
@@ -33,11 +32,10 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
-	- [[Kerbal Space Program]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- [[Dean Hall]] a débauché des développeurs du jeu [[Kerbal Space Program]] pour se lancer dans le même genre de jeu. Parmi eux [[Felipe Falanghe]]
+- 
 ## Liens et Ressources
 
 | Description | URL |
