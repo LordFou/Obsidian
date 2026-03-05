@@ -6,12 +6,13 @@
 Les Pégases sont des récompenses françaises annuelles qui distinguent une sélection de jeux vidéo et de personnalités de l'industrie vidéoludique.
 # Palmarès
 
-|      | Meilleur Premier Jeu           | Meilleur Jeu                          | Meilleur Indé         | Graphisme       | Audio                                 | Narration        | Game Design                           | Personnalité          |
-| ---- | ------------------------------ | ------------------------------------- | --------------------- | --------------- | ------------------------------------- | ---------------- | ------------------------------------- | --------------------- |
-| 2025 |                                | [[Prince of Persia - The Lost Crown]] | [[Caravan SandWitch]] | [[Les Fourmis]] | [[Prince of Persia - The Lost Crown]] | [[The Operator]] | [[Prince of Persia - The Lost Crown]] | [[Romain de Waubert]] |
-| 2026 | [[The Rogue Prince of Persia]] |                                       |                       |                 |                                       |                  |                                       |                       |
+|      | Meilleur Jeu                          | Meilleur Indé         | Graphisme       | Audio                                 | Narration        | Game Design                           | Personnalité          |
+| ---- | ------------------------------------- | --------------------- | --------------- | ------------------------------------- | ---------------- | ------------------------------------- | --------------------- |
+| 2025 | [[Prince of Persia - The Lost Crown]] | [[Caravan SandWitch]] | [[Les Fourmis]] | [[Prince of Persia - The Lost Crown]] | [[The Operator]] | [[Prince of Persia - The Lost Crown]] | [[Romain de Waubert]] |
+| 2026 |                                       |                       |                 |                                       |                  | [[Absolum]]                           |                       |
+|      |                                       |                       |                 |                                       |                  |                                       |                       |
 
 
-|      | Meilleur Premier Jeu           | Meilleur Jeu Etudiant |     |     |     |     |
-| ---- | ------------------------------ | --------------------- | --- | --- | --- | --- |
-| 2026 | [[The Rogue Prince of Persia]] | [[Candellum]]         |     |     |     |     |
+|      | Meilleur Premier Jeu           | Meilleur Jeu Etudiant | Au delà du jeu vidéo |     |     |     |
+| ---- | ------------------------------ | --------------------- | -------------------- | --- | --- | --- |
+| 2026 | [[The Rogue Prince of Persia]] | [[Candellum]]         | [[Wednesdays]]       |     |     |     |
