@@ -1,20 +1,20 @@
 ---
 type: game
 ---
-![[image-396.webp]]
-# Trasher
+
+# Thumper
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Puddle]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Creature]]
-- **Plateformes** : [[PC]]
+- **Éditeur** : 
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Arcade]]
-- **Résumé** : vous incarnez une anguille spatiale qui suit les mouvements de votre souris. L'objectif est de briser des rangées de cristaux scintillants pour passer chaque niveau, et ainsi grossir de plus en plus à la manière du serpent de Snake
+- **Genre** :
+- **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -31,11 +31,10 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
-	- [[Thumper]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- Né des mêmes cerveaux que ceux qui ont créé [[Thumper]]
+- 
 ## Liens et Ressources
 
 | Description | URL |
