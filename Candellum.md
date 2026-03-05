@@ -1,26 +1,27 @@
 ---
 type: game
 ---
-![[image-392.webp]]
-## Mouse : P.I. For Hire
+
+# Candellum
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Fumi Games]]
+	- Studio : [[Isart Digital]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[FPS]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : 2D, façon vieux mickey disney
-- **Audio** : bande-son big band entraînante
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Audio** : (Type de musique, Bande-son notable)
+- **Réception critique** : 
+	- [[Pégases Award]] 2026 du meilleur jeu étudiant
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -28,7 +29,6 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
-	- Jack Pepper (Détective)
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :

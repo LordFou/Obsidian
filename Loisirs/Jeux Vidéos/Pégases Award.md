@@ -10,3 +10,8 @@ Les Pégases sont des récompenses françaises annuelles qui distinguent une sé
 | ---- | ------------------------------ | ------------------------------------- | --------------------- | --------------- | ------------------------------------- | ---------------- | ------------------------------------- | --------------------- |
 | 2025 |                                | [[Prince of Persia - The Lost Crown]] | [[Caravan SandWitch]] | [[Les Fourmis]] | [[Prince of Persia - The Lost Crown]] | [[The Operator]] | [[Prince of Persia - The Lost Crown]] | [[Romain de Waubert]] |
 | 2026 | [[The Rogue Prince of Persia]] |                                       |                       |                 |                                       |                  |                                       |                       |
+
+
+|      | Meilleur Premier Jeu           | Meilleur Jeu Etudiant |     |     |     |     |
+| ---- | ------------------------------ | --------------------- | --- | --- | --- | --- |
+| 2026 | [[The Rogue Prince of Persia]] | [[Candellum]]         |     |     |     |     |

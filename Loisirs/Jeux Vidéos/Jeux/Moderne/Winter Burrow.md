@@ -1,25 +1,25 @@
 ---
 type: game
 ---
-![[image-392.webp]]
-## Mouse : P.I. For Hire
+
+# Winter Burrow
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Fumi Games]]
+	- Studio : [[Pine Creek Games]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
+- **Éditeur** : [[NoodleCake]]
+- **Plateformes** : [[PC]], [[Switch]]
 - **Franchise** : 
-- **Genre** : [[FPS]]
-- **Résumé** : 
+- **Genre** : [[Survie]], [[Crafting]]
+- **Résumé** : vous jouez un petit rongeur qui se lance dans la rénovation d'une vieille souche.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : 2D, façon vieux mickey disney
-- **Audio** : bande-son big band entraînante
+- **Graphismes** : 2D avec une très belle DA
+- **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
@@ -28,7 +28,6 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
-	- Jack Pepper (Détective)
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
