@@ -18,7 +18,9 @@ type: personne
 | ?     | [[Trois Vallées Varésines]]                                | 1ier 🥇  |                                                                                    |
 | 2021  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                    |
 | 2022  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                    |
+| 2023  | [[Strade Bianche]]                                         | 1ier     |                                                                                    |
 | 2023  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                    |
+| 2024  | [[Strade Bianche]]                                         | 1ier     |                                                                                    |
 | 2024  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                    |
 | 2024  | [[Championnat du Monde de Cyclisme\|Championnat du monde]] | 1ier 🥇  |                                                                                    |
 | 2024  | [[Tour d’Emilie]]                                          | 1ier 🥇  |                                                                                    |
