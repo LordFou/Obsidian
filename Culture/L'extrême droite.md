@@ -2,6 +2,8 @@
 - Juin 2025 : les nationalistes remportent les élections
 # France
 
+- [[Alain Soral]] 
+	- Mars 2026 => L’influenceur antisémite s’était installé à Lausanne pour éviter la prison. Il vient de faire ses bagages pour Moscou 
 - Raphaël Enthoven (?) => à analyser
   ![[Pasted image 20250817000141.png]]
 - Marguerite Stern : égérie antiféministe de l'extrême-droite, vénérée par les médias Bolloré

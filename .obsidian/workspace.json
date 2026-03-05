@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Tadej Pogacar.md",
+                "file": "Culture/L'extrême droite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tadej Pogacar"
+              "title": "L'extrême droite"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tade",
+                "query": "mouvemen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -208,6 +208,7 @@
   },
   "active": "968ecf137e28d9d3",
   "lastOpenFiles": [
+    "Loisirs/Sport/Tadej Pogacar.md",
     "Michael Matthews.md",
     "Loisirs/Sport/Tour de France.md",
     "Journal de bord/2026-03-05.md",
@@ -218,7 +219,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Love Eternal.md",
     "Loisirs/Sport/Sportifs/Julie Vanloo.md",
     "Strade Bianche.md",
-    "Loisirs/Sport/Tadej Pogacar.md",
     "Tom Pidcock.md",
     "Loisirs/Sport/Compétitions/Clasica Jaen.md",
     "David Goffin.md",
