@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Pégases Award.md",
+                "file": "Mac.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pégases Award"
+              "title": "Mac"
             }
           },
           {
@@ -98,8 +98,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,10 +219,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "968ecf137e28d9d3",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Absolum.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Q-UP.md",
+    "Mac.md",
+    "Attachments/image-393.webp",
+    "Everybody House Games.md",
     "Loisirs/Jeux Vidéos/Pégases Award.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Absolum.md",
     "Franchise Prince of Persia.md",
     "The Lost Crown.md",
     "Prince of Persia - The Lost Crown.md",
@@ -247,9 +250,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Heave-Ho 2.md",
     "Assassin's Creed.md",
     "Sony.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Love Eternal.md",
-    "Loisirs/Sport/Sportifs/Julie Vanloo.md",
-    "Strade Bianche.md",
     "Attachments/image-390.webp",
     "ZA",
     "Attachments/image-389.webp",
@@ -258,7 +258,6 @@
     "Attachments/Pasted image 20260304202253.png",
     "Attachments/image-386.webp",
     "Attachments/image-385.webp",
-    "Attachments/image-384.webp",
     "Loisirs/Jeux Vidéos/Généalogie Société.canvas",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",
