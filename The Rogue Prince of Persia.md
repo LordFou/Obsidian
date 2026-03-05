@@ -21,7 +21,8 @@ type: game
 - **Graphismes** : 2D
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
-	- [[Origami]]
+	- [[Pégases Award]] 2026 du meilleur premier jeu vidéo
+	- Origami
 		- Excellente BO
 		- Vaut le coup de jouer
 	- 9/10 ([[CheckPoint]])
