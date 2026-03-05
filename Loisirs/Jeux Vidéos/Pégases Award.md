@@ -13,6 +13,6 @@ Les Pégases sont des récompenses françaises annuelles qui distinguent une sé
 |      |                                       |                       |                 |                                       |                  |                                       |                       |
 
 
-|      | Meilleur Premier Jeu           | Meilleur Jeu Etudiant | Au delà du jeu vidéo |     |     |     |
-| ---- | ------------------------------ | --------------------- | -------------------- | --- | --- | --- |
-| 2026 | [[The Rogue Prince of Persia]] | [[Candellum]]         | [[Wednesdays]]       |     |     |     |
+|      | Meilleur Premier Jeu           | Meilleur Jeu Etudiant | Au delà du jeu vidéo | Accessibilité  | Innovation Tech |     |
+| ---- | ------------------------------ | --------------------- | -------------------- | -------------- | --------------- | --- |
+| 2026 | [[The Rogue Prince of Persia]] | [[Candellum]]         | [[Wednesdays]]       | [[Wednesdays]] | [[Rematch]]     |     |

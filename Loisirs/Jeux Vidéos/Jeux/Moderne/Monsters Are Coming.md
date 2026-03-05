@@ -1,20 +1,20 @@
 ---
 type: game
 ---
-
+![[image-395.webp]]
 # Monsters are Coming ! Rock & Road
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2025
 - **Développeur** : 
 	- Studio : [[Ludogram]]
 	- Personnalités : 
 - **Éditeur** : [[Raw Fury]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Vampire Survivor Like]], [[Tower Defense]], [[City-Builder]]
-- **Résumé** : 
+- **Résumé** : vous jouez un perso qui doit dégager le chemin (obstacles naturel et ennemis) pour une ville sur roulette. A chaque niveau, vous pouvez améliorer votre ville pour qu'elle se défende également.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -32,6 +32,8 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Vampire Survivor]]
+	- 
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
