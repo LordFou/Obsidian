@@ -1,19 +1,19 @@
 ---
 type: game
 ---
-
+![[image-389.webp]]
 # Zero Parades
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[ZA-UM]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
+- **Éditeur** : [[ZA-UM]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[RPG]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -33,6 +33,7 @@ type: game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[Disco Elysium]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources

@@ -6,11 +6,11 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2019
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[ZA-UM]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[ZA-UM]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :

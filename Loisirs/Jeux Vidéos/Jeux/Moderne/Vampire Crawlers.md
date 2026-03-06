@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-388.webp]]
 # Vampire Crawlers
 
 ## Informations Générales

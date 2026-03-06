@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Tournoi Indian Wells
+# Tournoi Indian Wells - Masters 1000
 
 # Introduction
 

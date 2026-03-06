@@ -23,6 +23,7 @@ type: game
 - **Réception critique** : 
 	- 8/10 (CheckPoint)
 	- Je suis tombé sous le charme de la merveilleuse direction artistique, en particulier le terrain-aquarium sous l'océan ([[Izual]])
+	- [[Pégases Award]] 2026 dans la catégories "Innovation Tech"
 - **Gameplay** :
 - **Durée estimée** : 
 

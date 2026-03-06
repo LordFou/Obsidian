@@ -8,10 +8,11 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur         | Nationalité | Remarque |
-| ----- | ----------------- | ----------- | -------- |
-| 2018  | [[Wout Van Aert]] | Belge       |          |
-|       |                   |             |          |
+| Année | Vainqueur                                      | Nationalité | Remarque |
+| ----- | ---------------------------------------------- | ----------- | -------- |
+| 2020  | [[Wout Van Aert]]                              | Belge       |          |
+| 2024  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Slovène     |          |
+| 2025  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Slovène     |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

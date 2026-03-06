@@ -26,6 +26,7 @@ type: game
 - **Réception critique** : 
 	- 9/10 (Canard PC)
 	- 500k exemplaire vendu déjà
+	- [[Pégases Award]] 2026 du meilleur game design
 - **Gameplay** : 
 - **Durée estimée** : 
 

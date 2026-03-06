@@ -12,7 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  
+- **Pays d’origine** :  France (Lille)
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -26,7 +26,7 @@ content:
 ## Jeux Développés
 | Année | Titre                   | Genre | Plateformes |
 | ----- | ----------------------- | ----- | ----------- |
-| XXXX  | [[Monsters Are Coming]] |       |             |
+| 2025  | [[Monsters Are Coming]] |       |             |
 |       |                         |       |             |
 
 ## Moteur(s) Utilisé(s)

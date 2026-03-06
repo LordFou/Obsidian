@@ -24,6 +24,9 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- "Il y a des jeux qui sont impossible à noter, mais auxquels il faut jouer, même lorsqu'on n'a pas la tête à ça" (Canard PC)
+	- [[Pégases Award]] 2026 pour le meilleur jeu dans les catégories
+		- Au delà du jeu vidéo
+		- Accessibilité
 - **Gameplay** : 
 
 ## Histoire et Univers

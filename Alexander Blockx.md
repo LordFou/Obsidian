@@ -25,6 +25,7 @@ type: personne
 | 2026  | [[Australian Open]]                    | 1ier Tour | [[Lucky Loser]]                    |
 | 2026  | [[ATP - Tournoi de Pau]]               | ?         |                                    |
 | 2026  | [[Tournoi de Lille]]                   | Finaliste | Défaite contre [[Luca Van Assche]] |
+| 2026  | [[Tournoi Indian Wells]]               | 1e tour   |                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
