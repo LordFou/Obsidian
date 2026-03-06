@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "87ccd9bffd9dbf1f",
+        "id": "90f1a5d71e887ee5",
         "type": "tabs",
         "children": [
           {
-            "id": "c952b713f908fb56",
+            "id": "715a099727f61d38",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Loisirs/Sport/Sportifs/Lebron James.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Lebron James"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mauri",
+                "query": "Lebron",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,7 +204,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c952b713f908fb56",
+  "active": "715a099727f61d38",
   "lastOpenFiles": [
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Q-UP.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/DayZ.md",

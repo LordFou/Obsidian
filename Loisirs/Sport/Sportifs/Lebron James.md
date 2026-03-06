@@ -22,6 +22,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
 - Joueur le plus âgé de l’histoire à pondre un triple-double dans un match. A 41 et 44 jours, il efface le mythique [[Karl Malone]] des tablettes.
+- Record du nombre de paniers marqués en saison régulière NBA, dépassant les 15.837 paniers de la légende [[Kareem Abdul-Jabbar]].
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
