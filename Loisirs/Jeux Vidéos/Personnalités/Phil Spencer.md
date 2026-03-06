@@ -18,7 +18,11 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 [line-5, body-2]
 date: 2014
 title: PDG de [[Microsoft Gaming]]
-content: Sous sa direction, d'importantes acquisitions de studios ont été réalisées , et le [[Xbox Game Pass]] a révolutionné la distribution de jeux vidéo. Cependant, ces succès n'ont pas empêché des licenciements massifs et l'annulation de jeux notables , ni permis à la marque Xbox de rivaliser avec les consoles PlayStation et Nintendo Switch, qui la relèguent loin derrière en termes de ventes. 
+content: Sous sa direction, d'importantes acquisitions de studios ont été réalisées (dont Mojang - [[Minecraft]]) , et le [[Xbox Game Pass]] a révolutionné la distribution de jeux vidéo. Cependant, ces succès n'ont pas empêché des licenciements massifs et l'annulation de jeux notables , ni permis à la marque Xbox de rivaliser avec les consoles PlayStation et Nintendo Switch, qui la relèguent loin derrière en termes de ventes. 
+
+date: 20 
+title: Il quitte son poste de CEO chez [[Microsoft Gaming]] 
+content: après 38 ans chez [[Microsoft]] (il avait commencé comme interne en 1988), il part à la retraite. Il restera conseiller pour faire la transition
 
 date: Février 2026  
 title: Il quitte son poste de CEO chez [[Microsoft Gaming]] 
