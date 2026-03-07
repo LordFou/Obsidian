@@ -8,13 +8,13 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur                                      | Nationalité | Remarque |
-| ----- | ---------------------------------------------- | ----------- | -------- |
-| 2011  | [[Philippe Gilbert]]                           | Belge       |          |
-| 2020  | [[Wout Van Aert]]                              | Belge       |          |
-| 2024  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Slovène     |          |
-| 2025  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Slovène     |          |
-| 2026  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Slovène     | 5e -     |
+| Année | Vainqueur                                      | Nationalité | Remarque                                        |
+| ----- | ---------------------------------------------- | ----------- | ----------------------------------------------- |
+| 2011  | [[Philippe Gilbert]]                           | Belge       |                                                 |
+| 2020  | [[Wout Van Aert]]                              | Belge       |                                                 |
+| 2024  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Slovène     |                                                 |
+| 2025  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Slovène     |                                                 |
+| 2026  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Slovène     | 5e - Gianni Vermeech<br>11e - [[Wout Van Aert]] |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
