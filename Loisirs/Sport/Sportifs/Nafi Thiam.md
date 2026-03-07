@@ -25,7 +25,8 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-- 10 [[Spike d'or]] de 
+- 10 [[Spike d'or]] de 2015 à 2022 et de 2024 à 2025
+- 3 fois médaillée d'or olympique d'affilée en [[Heptathlon]]
 
 # Controverses ou Événements Importants
 - Après le [[Championnats du monde d'athlétisme]], Nafi Thiam qui a abandonné, se défend et attaque la Fédération. Des têtes doivent tomber => [RTBF Sport](https://www.rtbf.be/article/nafissatou-thiam-sort-du-silence-des-personnes-ont-tout-fait-pour-empecher-ma-participation-aux-mondiaux-11610673)

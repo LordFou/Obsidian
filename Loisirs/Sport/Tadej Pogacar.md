@@ -47,7 +47,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 # Records et Faits Marquants
 - 100 victoires à 26 ans !
 - 5 victoires consécutives au [[Tour de Lombardie]] comme [[Fausto Coppi]].
-- 3 victoires consécutives aux [[Strade Bianche]] et 4 victoires au total.
+- 3 victoires consécutives aux [[Strade Bianche]] et 4 victoires au total. Il dépasse ainsi les victoires de [[Fabio Cancellara]]
 
 # Controverses ou Événements Importants
 - Il ne peut pas éviter la polémique du dopage (physique et mécanique) vu ses performances.
