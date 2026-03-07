@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tom Pidcock.md",
+                "file": "Strade Bianche.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tom Pidcock"
+              "title": "Strade Bianche"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tom",
+                "query": "Isaac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,10 +204,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "acbfcced6e5eac9a",
+  "active": "715a099727f61d38",
   "lastOpenFiles": [
-    "Tim Wellens.md",
+    "Isaac Del Toro.md",
+    "Paul Seixas.md",
+    "Loisirs/Sport/Tadej Pogacar.md",
     "Strade Bianche.md",
+    "Tom Pidcock.md",
+    "Tim Wellens.md",
     "Philippe Gilbert.md",
     "Journal de bord/2026-03-07.md",
     "Loisirs/Jeux Vidéos/Personnalités/Phil Spencer.md",
@@ -231,10 +234,6 @@
     "RocketWerkz.md",
     "Ravenswatch.md",
     "Rami Ismail.md",
-    "Prince of Persia - The Lost Crown.md",
-    "Pine Creek Games.md",
-    "Passtech.md",
-    "NoodleCake.md",
     "Attachments/image-397.webp",
     "Attachments/image-396.webp",
     "Attachments/image-395.webp",

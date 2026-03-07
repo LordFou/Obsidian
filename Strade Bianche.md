@@ -14,6 +14,7 @@ type: event
 | 2020  | [[Wout Van Aert]]                              | Belge       |          |
 | 2024  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Slovène     |          |
 | 2025  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Slovène     |          |
+| 2026  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Slovène     | 5e -     |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
