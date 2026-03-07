@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Personnalités/Phil Spencer.md",
+                "file": "Strade Bianche.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phil Spencer"
+              "title": "Strade Bianche"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Phil spen",
+                "query": "strade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -204,10 +205,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "715a099727f61d38",
+  "active": "acbfcced6e5eac9a",
   "lastOpenFiles": [
-    "Microsoft.md",
+    "Journal de bord/2026-03-07.md",
     "Loisirs/Jeux Vidéos/Personnalités/Phil Spencer.md",
+    "Microsoft.md",
     "Slay the Spire 2.md",
     "Attachments/image-398.webp",
     "Loisirs/Sport/Sportifs/Lebron James.md",
@@ -233,7 +235,6 @@
     "Mega Crit.md",
     "Mac.md",
     "Loisirs/Sport/Equipes/Black Arrows.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Winter Burrow.md",
     "Attachments/image-397.webp",
     "Attachments/image-396.webp",
     "Attachments/image-395.webp",

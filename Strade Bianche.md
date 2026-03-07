@@ -10,6 +10,7 @@ type: event
 
 | Année | Vainqueur                                      | Nationalité | Remarque |
 | ----- | ---------------------------------------------- | ----------- | -------- |
+| 2011  | Ph                                             |             |          |
 | 2020  | [[Wout Van Aert]]                              | Belge       |          |
 | 2024  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Slovène     |          |
 | 2025  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Slovène     |          |
