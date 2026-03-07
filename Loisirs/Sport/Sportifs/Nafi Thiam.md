@@ -25,7 +25,7 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- 10 [[Spike d'or]] de 
 
 # Controverses ou Événements Importants
 - Après le [[Championnats du monde d'athlétisme]], Nafi Thiam qui a abandonné, se défend et attaque la Fédération. Des têtes doivent tomber => [RTBF Sport](https://www.rtbf.be/article/nafissatou-thiam-sort-du-silence-des-personnes-ont-tout-fait-pour-empecher-ma-participation-aux-mondiaux-11610673)

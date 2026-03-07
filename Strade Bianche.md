@@ -17,7 +17,7 @@ type: event
 | 2026  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Slovène     | 5e - [[Gianni Vermeersch]]<br>10e - [[Wout Van Aert]]<br>15e - [[Mauri Vansevenant]] |
 # Femmes
 
-| Année | Vainqueur         | Nationalité | Remarque |
-| ----- | ----------------- | ----------- | -------- |
-| 2026  | [[Elise Chabbey]] |             |          |
-|       |                   |             |          |
+| Année | Vainqueur         | Nationalité | Remarque                |
+| ----- | ----------------- | ----------- | ----------------------- |
+| 2026  | [[Elise Chabbey]] |             | 30e - [[Lotte Kopecky]] |
+|       |                   |             |                         |
