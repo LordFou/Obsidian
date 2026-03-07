@@ -1,23 +1,21 @@
 ---
 type: personne
 ---
-
-# Katarzyna Niewiadoma
+![[image-399.webp]]
+# Gianni Vermeersch
 
 # Informations Générales
-- **Date de naissance** :  
-- **Nationalité** :  Polonaise
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Date de naissance** :  1992
+- **Nationalité** :  Belge
+- **Sport / Discipline** : [[Cyclisme]] 
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Bora Redbull]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                           | Résultat | Remarque |
-| ----- | ------------------------------------- | -------- | -------- |
-| 2025  | [[Tour de France]] - Classement final | 2e       |          |
-| 2026  | [[Omloop Het Nieuwsblad]]             | 2e       |          |
-| 2026  | [[Strade Bianche]]                    | 2e       |          |
+| Année | Compétition        | Résultat | Remarque |
+| ----- | ------------------ | -------- | -------- |
+| 2026  | [[Strade Bianche]] | 5e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

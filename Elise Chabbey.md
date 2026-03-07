@@ -17,7 +17,8 @@ type: personne
 | ----- | ------------------------------------- | -------- | --------------------------- |
 | 2025  | [[Tour de France]] - 1e étape         | 12e      | :luc_plus: Maillot Montagne |
 | 2025  | [[Tour de France]] - Maillot Montagne | 1ière    |                             |
-| 2025  | [[Tour de Romandie]] - 2e étape       | 1ier     | Premier succès world tour   |
+| 2025  | [[Tour de Romandie]] - 2e étape       | 1ière    | Premier succès world tour   |
+| 2026  | [[Strade Bianche]]                    | 1ière    |                             |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
