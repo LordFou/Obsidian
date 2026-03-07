@@ -15,6 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                  | Résultat | Remarque |
 | ----- | -------------------------------------------- | -------- | -------- |
+| 2011  | [[Strade Bianche]]                           | 1ier     |          |
 | 2012  | [[Championnat du Monde de Cyclisme]] - Route | 1ier     |          |
 
 # Style et Caractéristiques
