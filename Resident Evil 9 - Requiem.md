@@ -43,6 +43,7 @@ type: game
 ## Anecdotes et Curiosités
 - Day One sur la [[Switch 2]]
 - 335k joueurs en simultané lors du premier WE de lancement.
+- 5 Millions de vente durant les 4 premiers jours
 ## Liens et Ressources
 
 | Description | URL                          |

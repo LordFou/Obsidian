@@ -1,19 +1,19 @@
 ---
 type: game
 ---
-![[image-403.webp]]
-# Laysara - Summit Kingdom
+
+# Pokémon Pokopia
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Quite OK Games]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Future Friends Games]], 
-- **Plateformes** : [[PC]]
+- **Éditeur** : 
+- **Plateformes** : [[Switch 2]]
 - **Franchise** : 
-- **Genre** : [[Stratégie]], [[City-Builder]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -25,7 +25,7 @@ type: game
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : [[Himalaya]]
+- **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
@@ -33,6 +33,7 @@ type: game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[Animal Crossing]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
