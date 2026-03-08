@@ -2,22 +2,20 @@
 type: personne
 ---
 
-# Georges Russell
+# Charles Leclerc
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Anglais
-- **Sport / Discipline** :  F1
+- **Nationalité** :  Français
+- **Sport / Discipline** :  [[F1]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  Mercedes
+- **Équipe(s) / Club(s)** :  [[Ferrari]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
 | Année | Compétition                | Résultat | Remarque |
 | ----- | -------------------------- | -------- | -------- |
-| 2025  | [[Grand Prix du Canada]]   | 1ier     |          |
-|       |                            |          |          |
-| 2026  | [[Grand Prix d'Australie]] | 1ier     |          |
+| 2026  | [[Grand Prix d'Australie]] | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

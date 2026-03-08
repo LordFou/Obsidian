@@ -13,11 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                 | Résultat | Remarque |
-| ----- | --------------------------- | -------- | -------- |
-| 2025  | [[Grand Prix d'Espagne]]    | 1ier     |          |
-| 2025  | [[Grand Prix de Belgique]]  | 1ier     |          |
-| 2025  | [[Grand Prix des Pays-Bas]] | 1ier     |          |
+| Année | Compétition                 | Résultat | Remarque                  |
+| ----- | --------------------------- | -------- | ------------------------- |
+| 2025  | [[Grand Prix d'Espagne]]    | 1ier     |                           |
+| 2025  | [[Grand Prix de Belgique]]  | 1ier     |                           |
+| 2025  | [[Grand Prix des Pays-Bas]] | 1ier     |                           |
+|       |                             |          |                           |
+| 2026  | [[Grand Prix d'Australie]]  | Abandon  | Sortie au tour de chauffe |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

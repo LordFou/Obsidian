@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Sans titre.md",
+                "file": "Elise Mertens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sans titre"
+              "title": "Elise Mertens"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Grand Prix d'A",
+                "query": "Elise Mer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,8 +207,16 @@
   },
   "active": "f73bfbdb3937ef33",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Tournoi Indian Wells.md",
+    "Elise Mertens.md",
+    "Loisirs/Sport/Compétitions/Grand Prix de Chine.md",
+    "Loisirs/Sport/Sportifs/Charles Leclerc.md",
+    "Loisirs/Sport/Compétitions/Sans titre",
+    "Kimi Antonelli.md",
+    "Georges Russell.md",
+    "Loisirs/Sport/Compétitions/Grand Prix d'Australie.md",
+    "Oscar Piastri.md",
     "Loisirs/Sport/Sports/F1.md",
-    "Loisirs/Sport/Compétitions/Sans titre.md",
     "Loisirs/Sport/Equipes/Diables Noirs.md",
     "Red Flames.md",
     "Loisirs/Sport/Sportifs/Tessa Wullaert.md",
@@ -230,13 +239,6 @@
     "Kerbal Space Program.md",
     "Felipe Falanghe.md",
     "Loisirs/Jeux Vidéos/Pégases Award.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Absolum.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/DayZ.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Icarus.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Stationeers.md",
-    "Dean Hall.md",
-    "Les Murmures du soleil.md",
-    "Ravenswatch.md",
     "Attachments/image-396.webp",
     "Attachments/image-395.webp",
     "Attachments/image-394.webp",

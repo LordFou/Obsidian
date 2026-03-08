@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Tournoi Indian Wells - ATP Masters 1000 - WTA Masters 1000
+# Grand Prix de Chine
 
 # Introduction
 
