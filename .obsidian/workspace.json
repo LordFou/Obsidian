@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre 7.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/1348 Ex Voto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sans titre 7"
+              "title": "1348 Ex Voto"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Greedfall",
+                "query": "1348 Ex Voto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,8 +208,10 @@
   },
   "active": "f73bfbdb3937ef33",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/John Carpenter’s Toxic Commando.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/FATAL FRAME II - Crimson Butterfly REMAKE.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/GreedFall - The Dying World.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Timberborn.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre 7.md",
     "Mechanistry.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Crabmeat.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Blossom - The Seed of Life.md",
@@ -232,8 +235,6 @@
     "Georges Russell.md",
     "Loisirs/Sport/Compétitions/Grand Prix d'Australie.md",
     "Oscar Piastri.md",
-    "Loisirs/Sport/Sports/F1.md",
-    "Loisirs/Sport/Equipes/Diables Noirs.md",
     "Attachments/image-401.webp",
     "Attachments/image-400.webp",
     "Attachments/image-399.webp",

@@ -2,18 +2,18 @@
 type: game
 ---
 
-# 1348 Ex Voto
+# FATAL FRAME II - Crimson Butterfly REMAKE
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Sedleo]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Dear Villagers]]
-- **Plateformes** : [[PC]], [[Playstation 5]]
+- **Éditeur** : 
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]]
+- **Genre** : [[Action Aventure]], [[Survival Horror]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,7 +37,7 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description    | URL                          |
-| -------------- | ---------------------------- |
-| Reveal Trailer | https://youtu.be/HOTJLUELhc0 |
-|                |                              |
+| Description | URL                          |
+| ----------- | ---------------------------- |
+| Trailer     | https://youtu.be/MLf4p8qL7gY |
+|             |                              |

@@ -2,18 +2,18 @@
 type: game
 ---
 
-# 1348 Ex Voto
+# John Carpenter’s Toxic Commando
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Sedleo]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Dear Villagers]]
-- **Plateformes** : [[PC]], [[Playstation 5]]
+- **Éditeur** : 
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]]
+- **Genre** : [[Action Aventure]], [[FPS]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,7 +37,7 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description    | URL                          |
-| -------------- | ---------------------------- |
-| Reveal Trailer | https://youtu.be/HOTJLUELhc0 |
-|                |                              |
+| Description      | URL                          |
+| ---------------- | ---------------------------- |
+| Gameplay Trailer | https://youtu.be/QwxFR1g7Uy4 |
+|                  |                              |
