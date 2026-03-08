@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Simulation]], [[Stratégie]], [[City Builder]]
 - **Résumé** : 
 
 ## Détails Techniques

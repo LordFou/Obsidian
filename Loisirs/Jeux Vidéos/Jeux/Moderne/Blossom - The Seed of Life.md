@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : 
+- **Genre** : [[Aventure]], [[Monde ouvert]], [[Survie]], [[Base Building]]
 - **Résumé** : 
 
 ## Détails Techniques

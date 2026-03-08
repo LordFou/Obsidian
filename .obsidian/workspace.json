@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paris-Nice.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paris-Nice"
+              "title": "Sans titre 7"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Bini",
+                "query": "Greedfall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,8 +207,13 @@
   },
   "active": "f73bfbdb3937ef33",
   "lastOpenFiles": [
-    "Loisirs/Sport/Sportifs/Matteo Jorgenson.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Timberborn.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre 7.md",
+    "Mechanistry.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Crabmeat.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Blossom - The Seed of Life.md",
     "Paris-Nice.md",
+    "Loisirs/Sport/Sportifs/Matteo Jorgenson.md",
     "Biniam Girmay.md",
     "Milan Fretin.md",
     "Vito Braet.md",
@@ -230,11 +234,6 @@
     "Oscar Piastri.md",
     "Loisirs/Sport/Sports/F1.md",
     "Loisirs/Sport/Equipes/Diables Noirs.md",
-    "Red Flames.md",
-    "Loisirs/Sport/Sportifs/Tessa Wullaert.md",
-    "Journal de bord/2026-03-08.md",
-    "conflict-files-obsidian-git.md",
-    "Spike d'or.md",
     "Attachments/image-401.webp",
     "Attachments/image-400.webp",
     "Attachments/image-399.webp",
