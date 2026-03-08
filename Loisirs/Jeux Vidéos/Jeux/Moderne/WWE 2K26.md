@@ -1,32 +1,28 @@
 ---
 type: game
 ---
-![[Pasted image 20250519231251.png]]
 
-
-# Monster Hunter Wild
+# WWE 2K26
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Capcom]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Capcom]]
-- **Plateformes** : 
+- **Éditeur** : 
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
 - **Franchise** : 
-- **Genre** : [[Action RPG]]
-- **Durée** :
-	- 100% : 100-200h de jeu
+- **Genre** : [[Simulation]], [[Sport]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 8/10 (Canard PC)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
+- **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
@@ -41,6 +37,7 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                          |
+| ----------- | ---------------------------- |
+| Trailer     | https://youtu.be/89e7yn7h1NU |
+|             |                              |
