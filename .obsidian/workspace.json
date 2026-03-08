@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5266c7edafec09e3",
+        "id": "400d846d5eff4c26",
         "type": "tabs",
         "children": [
           {
-            "id": "0d3efee0da3b3b9e",
+            "id": "1b207be604251396",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal de bord/2026-03-08.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-03-08"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -205,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d3efee0da3b3b9e",
+  "active": "f2d09065e559f000",
   "lastOpenFiles": [
     "Journal de bord/2026-03-08.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Mouse - P.I. For Hire.md",
