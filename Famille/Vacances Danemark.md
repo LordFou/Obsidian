@@ -1,0 +1,8 @@
+- Paiement en couronnes
+	- Maestro ok
+	- On peut payer presque partout par carte
+	- On peut retirer facilement de l'argent
+- Autoroute gratuite
+	- Sauf 2 ponts
+- Points noirs en Allemagne
+	- ![[image-401.webp]]

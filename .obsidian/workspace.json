@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "400d846d5eff4c26",
+        "id": "2ca6795d02c46d26",
         "type": "tabs",
         "children": [
           {
-            "id": "1b207be604251396",
+            "id": "f73bfbdb3937ef33",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -201,9 +201,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2d09065e559f000",
+  "active": "f73bfbdb3937ef33",
   "lastOpenFiles": [
     "Journal de bord/2026-03-08.md",
+    "conflict-files-obsidian-git.md",
+    "Spike d'or.md",
+    "Maxime Mary.md",
+    "Journal de bord/2026-03-07.md",
+    "Gianni Vermeersch.md",
+    "Famille/Vacances Danemark.md",
+    "Cynthia Bolingo.md",
+    "Attachments/image-401.webp",
+    "Attachments/image-400.webp",
+    "Attachments/image-399.webp",
+    "Attachments/image-398.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Mouse - P.I. For Hire.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Kitten Space Agency.md",
     "Attachments/image-397.webp",
@@ -224,22 +235,11 @@
     "Thumper.md",
     "Puddle.md",
     "Attachments/image-396.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Monsters Are Coming.md",
-    "Ludogram.md",
     "Attachments/image-395.webp",
     "Attachments/image-394.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Rematch.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Wednesdays.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Q-UP.md",
-    "Mac.md",
     "Attachments/image-393.webp",
-    "Everybody House Games.md",
     "Attachments/image-392.webp",
-    "Attachments/image-391.webp",
-    "Attachments/image-390.webp",
     "ZA",
-    "Attachments/image-389.webp",
-    "Attachments/image-388.webp",
     "Loisirs/Jeux Vidéos/Généalogie Société.canvas",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",

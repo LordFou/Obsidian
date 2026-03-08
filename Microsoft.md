@@ -31,7 +31,7 @@ content: Il devient le visage de la console [[XBox One]].
 
 date: février 2026
 title: Phil Spencer quitte [[Microsoft Gaming]]
-content: Il part à la retraite et laisse sa place à [[Asha Sharma]]. Il reste conseiller pour le transfert de connaissance. Bizarrement, ce n'est même pas [[Sarah Bond]], sa dauphine, qui part aussi.
+content: Il part à la retraite et laisse sa place à [[Asha Sharma]]. Il reste conseiller pour le transfert de connaissance. Bizarrement, ce n'est même pas [[Sarah Bond]], sa dauphine, qui prend sa place car elle part aussi. Le choix de la succession pose question surtout connaissant l'orientation AI-Friendly de [[Asha Sharma]].
 ```
 
 ## Jeux Développés

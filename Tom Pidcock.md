@@ -15,6 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                      | Résultat | Remarque                 |
 | ----- | -------------------------------- | -------- | ------------------------ |
+| 2025  | [[Strade Bianche]]               | 2e       |                          |
 | 2025  | [[ArcticRace]] - 3e étape        | 1ier     |                          |
 | 2026  | [[Clasica Jaen]]                 | 2e       | Derrière [[Tim Wellens]] |
 | 2026  | [[Tour d'Andalousie]] - 5e étape | 1ier     |                          |

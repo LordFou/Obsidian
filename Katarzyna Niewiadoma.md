@@ -17,7 +17,7 @@ type: personne
 | ----- | ------------------------------------- | -------- | -------- |
 | 2025  | [[Tour de France]] - Classement final | 2e       |          |
 | 2026  | [[Omloop Het Nieuwsblad]]             | 2e       |          |
-|       |                                       |          |          |
+| 2026  | [[Strade Bianche]]                    | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

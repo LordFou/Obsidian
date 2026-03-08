@@ -17,6 +17,7 @@ type: personne
 | ----- | --------------------------------------------------- | ----------- | ------------------------------------------------------------------------------ |
 | 2025  | [[Championnats du monde d'athlétisme]] - 400m Haies | Finale (6e) | 54.70 (Série)<br>53,65 (Demi-finale) => Record de Belgique !<br>53,70 (Finale) |
 | 2025  | [[Championnats du monde d'athlétisme]] - 4x400m     | Finale (4e) | sous la pluie                                                                  |
+| 2026  | [[Spike d'or]]                                      | Vainqueur   |                                                                                |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

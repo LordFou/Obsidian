@@ -1,22 +1,21 @@
 ---
 type: personne
 ---
-
-# Philippe Gilbert
+![[image-399.webp]]
+# Gianni Vermeersch
 
 # Informations Générales
-- **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Date de naissance** :  1992
+- **Nationalité** :  Belge
+- **Sport / Discipline** : [[Cyclisme]] 
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Bora Redbull]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                  | Résultat | Remarque |
-| ----- | -------------------------------------------- | -------- | -------- |
-| 2011  | [[Strade Bianche]]                           | 1ier     |          |
-| 2012  | [[Championnat du Monde de Cyclisme]] - Route | 1ier     |          |
+| Année | Compétition        | Résultat | Remarque |
+| ----- | ------------------ | -------- | -------- |
+| 2026  | [[Strade Bianche]] | 5e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
