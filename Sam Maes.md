@@ -13,18 +13,19 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                      | Résultat    | Remarque                         |
-| ----- | ---------------------------------------------------------------- | ----------- | -------------------------------- |
-| 2025  | Coupe du Monde - Sölden (Autriche) - Slalom Géant                | 20e         |                                  |
-| 2025  | Coupe du Monde - Copper Mountain (Colorado - USA) - Slalom Géant | 7e          | Meilleur résultat de sa carrière |
-| 2025  | Coupe du Monde - Val d'Isère (France) - Slalom Géant             | 20e         |                                  |
-| 2025  | Coupe du Monde - Beaver Creek (USA) - Slalom Géant               | 12e         |                                  |
-| 2025  | Coupe du Monde - Val d'Isère (France) - Slalom Géant             | Abandon     |                                  |
-| 2026  | Coupe du Monde - Alta Badia (Italie) - Slalom Géant              | 17e         |                                  |
-| 2026  | Coupe du Monde - Adelboden (Suisse) - Slalom Géant               | 19e         |                                  |
-| 2026  | Coupe du Monde - Wengen (Suisse) - Slalom Géant                  | 21e         |                                  |
-| 2026  | Coupe du Monde - Schladming (Autriche) - Slalom Géant            | 6e          |                                  |
-| 2026  | [[JO 2026]] - Slalom Géant                                       | Disqualifié |                                  |
+| Année | Compétition                                                      | Résultat                | Remarque                         |
+| ----- | ---------------------------------------------------------------- | ----------------------- | -------------------------------- |
+| 2025  | Coupe du Monde - Sölden (Autriche) - Slalom Géant                | 20e                     |                                  |
+| 2025  | Coupe du Monde - Copper Mountain (Colorado - USA) - Slalom Géant | 7e                      | Meilleur résultat de sa carrière |
+| 2025  | Coupe du Monde - Val d'Isère (France) - Slalom Géant             | 20e                     |                                  |
+| 2025  | Coupe du Monde - Beaver Creek (USA) - Slalom Géant               | 12e                     |                                  |
+| 2025  | Coupe du Monde - Val d'Isère (France) - Slalom Géant             | Abandon                 |                                  |
+| 2026  | Coupe du Monde - Alta Badia (Italie) - Slalom Géant              | 17e                     |                                  |
+| 2026  | Coupe du Monde - Adelboden (Suisse) - Slalom Géant               | 19e                     |                                  |
+| 2026  | Coupe du Monde - Wengen (Suisse) - Slalom Géant                  | 21e                     |                                  |
+| 2026  | Coupe du Monde - Schladming (Autriche) - Slalom Géant            | 6e                      |                                  |
+| 2026  | [[JO 2026]] - Slalom Géant                                       | Disqualifié             |                                  |
+| 2026  | Coupe du Monde - Kranjska Gora                                   | Eliminé au 1ier passage |                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
