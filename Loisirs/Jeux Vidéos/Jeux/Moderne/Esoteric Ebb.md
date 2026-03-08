@@ -15,7 +15,7 @@ type: game
 - **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[CRPG]],
-- **Résumé** : 
+- **Résumé** : on y enquête sur l'explosion d'un salon de thé en divaguant avec des gobelins, en choisissant un camp politique ou en discutant avec nos propres compétences.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -24,7 +24,7 @@ type: game
 - **Réception critique** : 
 	- CheckPoint (8/10)
 - **Gameplay** :
-- **Durée estimée** : 
+- **Durée estimée** : 20h
 
 ## Histoire et Univers
 - **Lieu(x)** : Norvik
