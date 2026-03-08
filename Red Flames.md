@@ -9,16 +9,17 @@ Equipe féminine de foot belge
 - **Sport / Discipline** : [[Football]] 
 
 # Palmarès et Distinctions
-| Année | Compétition                           | Résultat               | Remarque                                                                                             |
-| ----- | ------------------------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------- |
-| 2025  | [[Euro de Football\|Euro]] 2025       | 3e place de leur poule | Défaite contre l'Italie (0-1)<br>Défaite contre l'Espagne (6-2)<br>Victoire contre le Portugal (1-2) |
-| 2026  | Qualification [[Coupe du Monde]] 2027 |                        | Victoire contre Isräel (0-3)                                                                         |
+| Année | Compétition                           | Résultat               | Remarque                                                                                             |     |
+| ----- | ------------------------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------- | --- |
+| 2025  | [[Euro de Football\|Euro]] 2025       | 3e place de leur poule | Défaite contre l'Italie (0-1)<br>Défaite contre l'Espagne (6-2)<br>Victoire contre le Portugal (1-2) |     |
+| 2026  | Qualification [[Coupe du Monde]] 2027 |                        | Victoire contre Israël (0-3)<br>Victoire contre Israël (5-0)                                         |     |
+|       |                                       |                        |                                                                                                      |     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
