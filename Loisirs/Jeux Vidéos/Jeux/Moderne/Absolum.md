@@ -13,7 +13,7 @@ type: game
 		- [[Guard Crush]]
 		- [[Supamonks]]
 	- Personnalités : 
-		- Maxime (Directeur Créatif)
+		- [[Maxime Mary]] (Directeur Créatif)
 - **Éditeur** : [[Dotemu]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
