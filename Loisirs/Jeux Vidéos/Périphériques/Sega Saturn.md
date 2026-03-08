@@ -23,7 +23,7 @@ type: matos
 - {{Titre du jeu 3 (année)}}
 
 ## Anecdotes et faits marquants
-- En 2026, l'ancien ingénieur [[Sega]] [[Junichi Naoi]] confirme que le fameux accélérateur graphique de la Saturn était bien réel. Nom de code : Project TRIP. Sa mission ? Permettre à la console 32-bits d'accueillir les jeux de la borne Model 3, notamment Virtua Fighter 3 et Shenmue.
+- En 2026, l'ancien ingénieur [[Sega]] [[Junichi Naoi]] confirme que le fameux accélérateur graphique de la Saturn était bien réel. Nom de code : Project TRIP. Sa mission ? Permettre à la console 32-bits d'accueillir les jeux de la borne Model 3, notamment Virtua Fighter 3 et Shenmue. 
 - {{Fait ou anecdote 2}}
 - {{Lien avec la musique, le design, l’influence culturelle...}}
 

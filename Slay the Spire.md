@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Mega Crit]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Mega Crit]]
 - **Plateformes** : [[PC]]
 - **Franchise** : [[Franchise Slay The Spire]]
 - **Genre** : [[Roguelike]], [[Deckbuilding]]

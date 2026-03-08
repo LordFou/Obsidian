@@ -8,12 +8,12 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Mega Crit]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Mega Crit]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Deckbuilding]], [[Roguelite]], [[Coopération]]
 - **Résumé** : 
 
 ## Détails Techniques
