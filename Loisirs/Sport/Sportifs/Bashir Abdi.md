@@ -2,20 +2,22 @@
 type: personne
 ---
 
-# Thomas Detry
+# Bashir Abdi
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  1989
 - **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Golf]]
+- **Sport / Discipline** :  [[Athlétisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat | Remarque |
-| ----- | --------------------- | -------- | -------- |
-| 2026  | LIV Golf de Hong Kong | 2e       |          |
+| Année | Compétition                              | Résultat | Remarque             |
+| ----- | ---------------------------------------- | -------- | -------------------- |
+| 2021  | [[JO 2020]] - Marathon                   | 3e 🥉    |                      |
+| 2024  | [[JO 2024]]                              | 2e 🥈    |                      |
+| 2026  | Championnat de Belgique de Semi-Marathon | 1ier     | + record de Belgique |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

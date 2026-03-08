@@ -2,7 +2,7 @@
 type: personne
 ---
 
-# Thomas Detry
+# Thomas Pieters
 
 # Informations Générales
 - **Date de naissance** :  
