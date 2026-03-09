@@ -22,9 +22,10 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                | Année | Plateformes | Remarque |
-| -------------------- | ----- | ----------- | -------- |
-| [[Scott Pilgrim EX]] | 2026  | All         |          |
+| Titre                                      | Année | Plateformes       | Remarque |
+| ------------------------------------------ | ----- | ----------------- | -------- |
+| [[Scott Pilgrim vs. the World - The Game]] | 2010  | [[Playstation 3]] |          |
+| [[Scott Pilgrim EX]]                       | 2026  | All               |          |
 
 
 ## Mécaniques et innovations
