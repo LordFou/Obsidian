@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Mirage 7.md",
+                "file": "Loisirs/Jeux Vidéos/Périphériques/Sony MSF-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mirage 7"
+              "title": "Sony MSF-1"
             },
             "group": "e54e23240e59e2c8"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Mirage 7.md",
+                "file": "Loisirs/Jeux Vidéos/Périphériques/Sony MSF-1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Mirage 7"
+              "title": "Graphique de Sony MSF-1"
             },
             "group": "e54e23240e59e2c8"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Mirage",
+                "query": "WW",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,8 +131,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,8 +254,10 @@
   },
   "active": "f73bfbdb3937ef33",
   "lastOpenFiles": [
-    "Blowfish Studio.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/WWE 2K26.md",
+    "Loisirs/Jeux Vidéos/Périphériques/Sony MSF-1.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Mirage 7.md",
+    "Blowfish Studio.md",
     "Drakkar Dev.md",
     "Franchise Legacy of Kain.md",
     "Templates/Fiche Franchise Jeu Vidéo.md",
@@ -285,9 +286,7 @@
     "Stage Games.md",
     "Attachments/image-409.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Holdfast - Nations At War.md",
-    "Anvil Games Studio.md",
     "Attachments/image-408.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Banquet for Fools.md",
     "Attachments/image-407.webp",
     "Attachments/image-406.webp",
     "Attachments/image-405.webp",
