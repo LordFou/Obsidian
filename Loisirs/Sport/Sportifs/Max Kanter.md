@@ -2,24 +2,21 @@
 type: personne
 ---
 
-# Jasper Stuyven
+# Max Kanter
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
+- **Nationalité** :  Allemand
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Lidl-Trek]], [[Quick-Step]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                             | Résultat | Remarque |
-| ----- | --------------------------------------- | -------- | -------- |
-| 2019  | [[Tour d'Allemagne]] - Classement final | 1ier     |          |
-|       | [[Omloop Het Nieuwsblad]]               | 1ier     |          |
-|       | [[Kuurne-Bruxelles-Kuurne]]             | 1ier     |          |
-| 2021  | [[Milan San Remo]]                      | 1ier     |          |
-| 2026  | [[Paris-Nice]] - 2e étape               | 3e       |          |
+| Année | Compétition               | Résultat | Remarque |
+| ----- | ------------------------- | -------- | -------- |
+| 2026  | [[Paris-Nice]] - 2e étape | 1ier     | Sprint   |
+|       |                           |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -11,11 +11,11 @@ type: event
 
 ### Etapes 
 
-|          | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques           |     |
-| -------- | ----------------- | ----------------- | -------- | ------ | ----- | ------------------- | --- |
-| 1e (USA) | [[Luke Lamperti]] | [[Luke Lamperti]] |          |        |       | 2e - [[Vito Braet]] |     |
-|          |                   |                   |          |        |       |                     |     |
-|          |                   |                   |          |        |       |                     |     |
+|          | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques               |     |
+| -------- | ----------------- | ----------------- | -------- | ------ | ----- | ----------------------- | --- |
+| 1e (USA) | [[Luke Lamperti]] | [[Luke Lamperti]] |          |        |       | 2e - [[Vito Braet]]     |     |
+| 2e (ALL) | [[Max Kanter]]    | [[Luke Lamperti]] |          |        |       | 3e - [[Jasper Stuyven]] |     |
+|          |                   |                   |          |        |       |                         |     |
 ## Femmes
 
 ### Etapes
