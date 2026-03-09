@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dreamcast",
+                "query": "Tirreno",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f73bfbdb3937ef33",
+  "active": "2066e9a3d214d366",
   "lastOpenFiles": [
     "Loisirs/Sport/Sportifs/Sacha Coenen.md",
     "Loisirs/Sport/Sportifs/Liam Everts.md",
