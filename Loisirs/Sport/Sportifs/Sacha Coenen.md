@@ -2,20 +2,20 @@
 type: personne
 ---
 
-# Brent Van Doninck
+# Sacha Coenen
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
 - **Sport / Discipline** :  [[Motocross]]
-- **Poste / Spécialité** (si applicable) :  
+- **Poste / Spécialité** (si applicable) :  MX2
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition            | Résultat | Remarque |
-| ----- | ---------------------- | -------- | -------- |
-| 2026  | Grand Prix d'Argentine | 12e      |          |
+| Année | Compétition            | Résultat | Remarque                            |
+| ----- | ---------------------- | -------- | ----------------------------------- |
+| 2026  | Grand Prix d'Argentine | 8e       | Disqualifié dans la première course |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

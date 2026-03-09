@@ -7,7 +7,7 @@ type: personne
 - **Date de naissance** :  
 - **Nationalité** :  Belge
 - **Sport / Discipline** : [[Motocross]]
-- **Poste / Spécialité** (si applicable) :  
+- **Poste / Spécialité** (si applicable) :  MXGP
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 

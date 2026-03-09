@@ -2,7 +2,7 @@
 type: personne
 ---
 
-# Brent Van Doninck
+# Jago Geerts
 
 # Informations Générales
 - **Date de naissance** :  
@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition            | Résultat | Remarque |
 | ----- | ---------------------- | -------- | -------- |
-| 2026  | Grand Prix d'Argentine | 12e      |          |
+| 2026  | Grand Prix d'Argentine | 31e      |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

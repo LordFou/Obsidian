@@ -2,20 +2,20 @@
 type: personne
 ---
 
-# Brent Van Doninck
+# Liam Everts
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
 - **Sport / Discipline** :  [[Motocross]]
-- **Poste / Spécialité** (si applicable) :  
+- **Poste / Spécialité** (si applicable) :  MX2
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
 | Année | Compétition            | Résultat | Remarque |
 | ----- | ---------------------- | -------- | -------- |
-| 2026  | Grand Prix d'Argentine | 12e      |          |
+| 2026  | Grand Prix d'Argentine | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
