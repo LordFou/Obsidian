@@ -24,10 +24,11 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                         |
-| ----- | ----------------------------- |
-| 2025  | [[Monster Hunter Wild]]       |
-| 2026  | [[Resident Evil 9 - Requiem]] |
+| Année | Titre                                             |
+| ----- | ------------------------------------------------- |
+| 2025  | [[Monster Hunter Wild]]                           |
+| 2026  | [[Resident Evil 9 - Requiem]]                     |
+| 2026  | [[Monster Hunter Stories 3 - Twisted Reflection]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
