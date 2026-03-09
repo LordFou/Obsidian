@@ -8,12 +8,12 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Drakkar Dev]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Blowfish Studio]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Action Aventure]], [[Point & Click]], [[Survival Horror]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -26,8 +26,12 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- Le Temple d'Aranya
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Nadira
+	- Jiji (Le lézard)
+	- Rasha (La soeur recherchée de Nadira)
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :

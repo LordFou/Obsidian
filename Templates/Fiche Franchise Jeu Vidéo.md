@@ -6,11 +6,12 @@ type: game
 
 
 ## Informations générales
-- Créateur(s) : {{Nom du ou des créateurs}}
-- Développeur(s) : {{Studio(s) de développement}}
-- Éditeur(s) : {{Nom de l’éditeur}}
-- Première apparition : {{Nom du premier jeu (année)}}
-- Genre principal : {{Stratégie, Action-Aventure, FPS...}}
+- **Créateur(s)** : {{Nom du ou des créateurs}}
+- **Développeur(s)** : {{Studio(s) de développement}}
+- **Éditeur(s)** : {{Nom de l’éditeur}}
+- **Première apparition** : {{Nom du premier jeu (année)}}
+- **Genre principal** : {{Stratégie, Action-Aventure, FPS...}}
+- **Points Communs** :
 
 ## Résumé et historique
 {{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}

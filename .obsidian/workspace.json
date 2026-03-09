@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Legacy of Kain - Defiance Remastered.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Mirage 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Legacy of Kain - Defiance Remastered"
+              "title": "Mirage 7"
             },
             "group": "e54e23240e59e2c8"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Legacy of Kain - Defiance Remastered.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Mirage 7.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Legacy of Kain - Defiance Remastered"
+              "title": "Graphique de Mirage 7"
             },
             "group": "e54e23240e59e2c8"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Legacy o",
+                "query": "Mirage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -255,10 +255,16 @@
   },
   "active": "f73bfbdb3937ef33",
   "lastOpenFiles": [
-    "Attachments/image-414.webp",
+    "Blowfish Studio.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Mirage 7.md",
+    "Drakkar Dev.md",
     "Franchise Legacy of Kain.md",
-    "Legacy of Kain 5.md",
+    "Templates/Fiche Franchise Jeu Vidéo.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Legacy of Kain - Defiance Remastered.md",
+    "PlayEveryWare.md",
+    "Crystal Dynamics.md",
+    "Attachments/image-414.webp",
+    "Legacy of Kain 5.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Legends of Amberland III - The Crimson Tower.md",
     "Attachments/image-413.webp",
     "Silver Lemur Games.md",
@@ -282,15 +288,9 @@
     "Anvil Games Studio.md",
     "Attachments/image-408.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Banquet for Fools.md",
-    "Hannah and Joseph Games.md",
-    "Mechajammer.md",
     "Attachments/image-407.webp",
-    "Serpent in the Staglands.md",
     "Attachments/image-406.webp",
     "Attachments/image-405.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Monster Hunter Stories 3 - Twisted Reflection.md",
-    "Franchise Monster Hunter.md",
-    "Attachments/image-404.webp",
     "Loisirs/Sport/Compétitions/Sans titre",
     "ZA",
     "Loisirs/Jeux Vidéos/Généalogie Société.canvas",

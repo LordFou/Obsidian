@@ -8,9 +8,9 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : Crystal Dynamics, Play
+	- Studio : [[Crystal Dynamics]], [[PlayEveryWare]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Crystal Dynamics]]
 - **Plateformes** : 
 - **Franchise** : [[Franchise Legacy of Kain]]
 - **Genre** : [[Action]], [[Aventure]]
