@@ -13,18 +13,21 @@ type: game
 - **Éditeur** : [[Tribute Games]]
 - **Plateformes** : [[PC]], [[Playstation 4]], [[Playstation 5]], [[Xbox One]], [[Xbox Series]], [[Switch]]
 - **Franchise** : [[Franchise Scott Pilgrim]]
-- **Genre** : [[Action]], [[Aventure]], [[Beat'em up]]
+- **Genre** : [[Action]], [[Aventure]], [[Beat'em up]], [[Coopération]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : [[2D]], [[Pixel Art]]
-- **Audio** : (Type de musique, Bande-son notable)
+- **Audio** : 
+	- BO par [[Anamanaguchi]] => https://open.spotify.com/intl-fr/artist/2UwJRAgSOi1zcLkvUNc8XL
 - **Réception critique** : 
 	- CheckPoint (5.5/10)
 		- Histoire sans saveur
 		- Conception des niveaux bof
 		- Rencontres ennuyeuses et combats de boss
+	- Izual
+		- il a tout ce qu'il faut pour évoquer le chaos et la joie transgressive de Scott Pilgrim
 - **Gameplay** :
 - **Durée estimée** : 
 

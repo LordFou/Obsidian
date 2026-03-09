@@ -1,12 +1,12 @@
 ---
 type: game
 ---
-
+![[image-410.webp]]
 # Scott Pilgrim vs. the World - The Game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2010
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
