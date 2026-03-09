@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Marathon.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Legacy of Kain - Defiance Remastered.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marathon"
+              "title": "Legacy of Kain - Defiance Remastered"
             },
             "group": "e54e23240e59e2c8"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Marathon.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Legacy of Kain - Defiance Remastered.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Marathon"
+              "title": "Graphique de Legacy of Kain - Defiance Remastered"
             },
             "group": "e54e23240e59e2c8"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Maratho",
+                "query": "Legacy o",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -255,8 +255,19 @@
   },
   "active": "f73bfbdb3937ef33",
   "lastOpenFiles": [
-    "Bungie.md",
+    "Attachments/image-414.webp",
+    "Franchise Legacy of Kain.md",
+    "Legacy of Kain 5.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Legacy of Kain - Defiance Remastered.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Legends of Amberland III - The Crimson Tower.md",
+    "Attachments/image-413.webp",
+    "Silver Lemur Games.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Machine Mind.md",
+    "Targem Games.md",
+    "Chudo-Yudo Games.md",
+    "Attachments/image-412.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Marathon.md",
+    "Bungie.md",
     "Attachments/image-411.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Scott Pilgrim EX.md",
     "Franchise Scott Pilgrim.md",
@@ -279,18 +290,7 @@
     "Attachments/image-405.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Monster Hunter Stories 3 - Twisted Reflection.md",
     "Franchise Monster Hunter.md",
-    "Monster Hunter Stories 2 - Wings of Ruin.md",
-    "Loisirs/Jeux Vidéos/Sociétés/Capcom.md",
-    "Jasper Stuyven.md",
-    "Paris-Nice.md",
-    "Loisirs/Sport/Sportifs/Max Kanter.md",
-    "Tirreno-Adriatico.md",
-    "Filippo Ganna.md",
-    "Dreamcast.md",
-    "Loisirs/Sport/Sportifs/Sacha Coenen.md",
     "Attachments/image-404.webp",
-    "Attachments/image-403.webp",
-    "Attachments/image-402.webp",
     "Loisirs/Sport/Compétitions/Sans titre",
     "ZA",
     "Loisirs/Jeux Vidéos/Généalogie Société.canvas",

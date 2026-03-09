@@ -1,20 +1,20 @@
 ---
 type: game
 ---
-![[image-414.webp]]
-# Legacy of Kain - Defiance Remastered
+![[image-412.webp]]
+# Machine Mind
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : Crystal Dynamics, Play
+	- Studio : [[Chudo-Yudo Games]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
-- **Franchise** : [[Franchise Legacy of Kain]]
-- **Genre** : [[Action]], [[Aventure]]
-- **Résumé** : 
+- **Éditeur** : [[Targem Games]]
+- **Plateformes** : [[PC]]
+- **Franchise** : 
+- **Genre** : [[Exploration]], [[Base Building]]
+- **Résumé** : jeu d'exploration, de construction et de combat de véhicules
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -26,6 +26,7 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- Le [[Désert|désert]]
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
@@ -34,9 +35,9 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- Remake de [[Legacy of Kain 5]]
+- 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/WFsK5Juq5n0 |
+| Description | URL |
+| ----------- | --- |
+|             |     |

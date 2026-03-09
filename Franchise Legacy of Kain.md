@@ -24,6 +24,7 @@ content:
 ## Jeux principaux
 | Titre                                    | Année | Plateformes | Remarque |
 | ---------------------------------------- | ----- | ----------- | -------- |
+| [[Legacy of Kain 5]]                     | 2003  |             |          |
 | [[Legacy of Kain - Defiance Remastered]] | 2026  |             |          |
 
 

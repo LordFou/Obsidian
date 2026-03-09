@@ -1,24 +1,24 @@
 ---
 type: game
 ---
-![[image-414.webp]]
-# Legacy of Kain - Defiance Remastered
+![[image-413.webp]]
+# Legends of Amberland III - The Crimson Tower
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : Crystal Dynamics, Play
+	- Studio : [[Silver Lemur Games]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Silver Lemur Games]]
 - **Plateformes** : 
-- **Franchise** : [[Franchise Legacy of Kain]]
-- **Genre** : [[Action]], [[Aventure]]
+- **Franchise** : 
+- **Genre** : [[RPG]], [[Dungeon Crawler]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : [[Pixel Art]], [[Rétro]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
@@ -34,9 +34,9 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- Remake de [[Legacy of Kain 5]]
+- 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/WFsK5Juq5n0 |
+| Description | URL |
+| ----------- | --- |
+|             |     |

@@ -20,7 +20,12 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : 3D
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Izual
+		- Direction artistique très réussie
+		- Il est incontestablement bien fait, avec beaucoup de progression et de matos à stocker
+		- rythme assez mou
+		- Des combats vus et revus
 - **Gameplay** :
 - **Durée estimée** : 
 

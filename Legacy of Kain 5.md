@@ -1,19 +1,19 @@
 ---
 type: game
 ---
-![[image-414.webp]]
-# Legacy of Kain - Defiance Remastered
+
+# Legacy of Kain 5
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : Crystal Dynamics, Play
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : [[Franchise Legacy of Kain]]
-- **Genre** : [[Action]], [[Aventure]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -34,9 +34,9 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- Remake de [[Legacy of Kain 5]]
+- 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/WFsK5Juq5n0 |
+| Description | URL |
+| ----------- | --- |
+|             |     |
