@@ -21,7 +21,7 @@ type: game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
-	- CheckPoint 
+	- CheckPoint (7,5/10)
 		- Avec son scénario plus mature et ses vastes environnements, le monde de Monster Hunter Stories 3 est un véritable plaisir à parcourir, à condition de supporter un système de combat perfectible et une bonne dose de farming.
 - **Gameplay** :
 - **Durée estimée** : 
