@@ -15,7 +15,7 @@ type: matos
 - Mascotte : 
 
 ## Résumé et historique
-
+- Tout premier prototype de développement de la Nintendo PlayStation. Cette unité unique au monde, antérieure même aux prototypes commerciaux connus, témoigne d'une époque où [[Nintendo]] et [[Sony]] étaient alliés avant leur rupture légendaire qui a donné naissance à la [[Playstation]] moderne.
 
 ## Jeux emblématiques
 - {{Titre du jeu 1 (année)}}
@@ -28,4 +28,5 @@ type: matos
 - {{Lien avec la musique, le design, l’influence culturelle...}}
 
 ## Liens connexes
-- [Page Wikipédia](https://wikipedia.org)
+- https://www.recalbox.com/fr/blog/2026-03-05-nintendo-playstation-sony-national-videogame-museum-retrogaming/
+- 
