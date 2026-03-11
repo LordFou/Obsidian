@@ -23,6 +23,7 @@ type: personne
 | 2025  | [[Tour d'Espagne]] - 9e étape         | 1ier     |                            |
 | 2025  | [[Tour d'Espagne]] - 20e étape        | 1ier     |                            |
 | 2025  | [[Tour d'Espagne]] - Classement final | 1ier     |                            |
+| 2026  | [[Paris-Nice]] - 4e étape             | 1ier     |                            |
 
 # Style et Caractéristiques
 - On ne le voit jamais sur des courses d'un jour car toute ses saisons sont centrées sur le [[Tour de France]]

@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Paris",
+                "query": "Martinez",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,8 +206,9 @@
   },
   "active": "715a099727f61d38",
   "lastOpenFiles": [
-    "Ineos.md",
+    "Jonas Vingegaard.md",
     "Paris-Nice.md",
+    "Ineos.md",
     "Journal de bord/2026-03-11.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Machine Mind.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Monster Hunter Stories 3 - Twisted Reflection.md",
@@ -232,7 +232,6 @@
     "Journal de bord/2026-03-08.md",
     "Hannah and Joseph Games.md",
     "Franchise Monster Hunter.md",
-    "Forklift Interactive.md",
     "Attachments/image-414.webp",
     "Attachments/image-413.webp",
     "Attachments/image-412.webp",
