@@ -27,6 +27,7 @@ content:
 | Année | Titre                               | Genre      | Plateformes |
 | ----- | ----------------------------------- | ---------- | ----------- |
 |       | [[Road Kings]]                      | Simulation |             |
+| 2025  | [[Warhammer 40k - Space Marine 2]]  |            |             |
 | 2026  | [[John Carpenter’s Toxic Commando]] |            |             |
 
 ## Moteur(s) Utilisé(s)

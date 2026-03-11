@@ -1,26 +1,26 @@
 ---
 type: game
 ---
-![[image-417.webp]]
-# Never Grave - The Witch and The Curse
+
+# Warhammer 40k - Space Marine 2
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[Frontside 180]]
+	- Studio : [[Saber Interactive]]
 	- Personnalités : 
-- **Éditeur** : [[Pocketpair]]
-- **Plateformes** : [[PC]], [[Playstation 4]], [[Playstation 5]], [[Xbox Series]], [[Switch]]
+- **Éditeur** : 
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action]], [[Roguelike]], [[Metroïdvania]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** :
+- **Réception critique** : 
 	- CheckPoint (6/10)
 - **Gameplay** :
 - **Durée estimée** : 
@@ -30,6 +30,7 @@ type: game
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
+	- [[zombie|Les zombies]]
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
@@ -38,6 +39,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/hdxd-TcYIJc |
+| Description | URL |
+| ----------- | --- |
+|             |     |
