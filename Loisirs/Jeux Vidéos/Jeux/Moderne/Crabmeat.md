@@ -1,18 +1,18 @@
 ---
 type: game
 ---
-![[image-418.webp]]
+
 # Crabmeat
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Searching Interactive]]
 	- Personnalités : 
 		- [[Nicholas McDonnell]]
 		- [[Mitchell Pasmans]]
-- **Éditeur** : 
+- **Éditeur** : [[Searching Interactive]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Aventure]], [[Survival Horror]], [[FPS]]

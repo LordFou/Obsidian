@@ -1,27 +1,26 @@
 ---
 type: game
 ---
-
-# FATAL FRAME II - Crimson Butterfly REMAKE
+![[image-420.webp]]
+# Replaced
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[KOEI TECMO GAMES]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Koei Tecmo Games]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
+- **Éditeur** : 
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action Aventure]], [[Survival Horror]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- CheckPoint (6/10)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -38,7 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/MLf4p8qL7gY |
-|             |                              |
+| Description | URL |
+| ----------- | --- |
+|             |     |
