@@ -14,7 +14,7 @@ type: event
 |          | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques                        |
 | -------- | ----------------- | ----------------- | -------- | ------ | ----- | -------------------------------- |
 | 1e (ITA) | [[Filippo Ganna]] | [[Filippo Ganna]] |          |        |       | CLM<br>20e - [[Ilan Van Wilder]] |
-|          |                   |                   |          |        |       |                                  |
+| 2e (NDL) |                   |                   |          |        |       |                                  |
 |          |                   |                   |          |        |       |                                  |
 ## Femmes
 
