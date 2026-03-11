@@ -16,7 +16,7 @@ type: personne
 | Année | Compétition                                                | Résultat | Remarque         |                                              |
 | ----- | ---------------------------------------------------------- | -------- | ---------------- | -------------------------------------------- |
 | 2024  | [[Championnat d'Europe de Cyclisme\|Championnat d'Europe]] | 1ier     | Sprint           |                                              |
-| 2024  | [[Flèche de Gooik]]                                        | 1ier     |                  |                                              |
+| 2024  | [[Flèche de Gooik Oetingen]]                                        | 1ier     |                  |                                              |
 | 2025  | ?                                                          | 1ier     |                  |                                              |
 | 2025  | ?                                                          | 1ier     |                  |                                              |
 | 2025  | ?                                                          | 1ier     |                  |                                              |

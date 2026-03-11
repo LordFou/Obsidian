@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Oded Kogut
+# Fleur Moors
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Israélien
+- **Nationalité** :  Belge
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition             | Résultat | Remarque |
-| ----- | ----------------------- | -------- | -------- |
-| 2025  | [[Flèche de Gooik Oetingen]]     | 1ier     |          |
-| 2025  | [[Cro Race]] - 6e étape | 1ier     |          |
+| Année | Compétition         | Résultat | Remarque |
+| ----- | ------------------- | -------- | -------- |
+| 2026  | [[Flèche de Gooik Oetingen]] | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

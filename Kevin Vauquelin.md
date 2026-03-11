@@ -34,7 +34,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Lors de la 4e étape du [[Paris-Nice]] 2026, il prend une bordure et 4 minute de retard puis accuse un coureur de [[Quick-Step]] => [Kevin Vauquelin charge l’équipe Soudal Quick-Step : "J’étais premier de ligne et un coureur me pousse dans le champ"](https://www.rtbf.be/article/kevin-vauquelin-charge-l-equipe-soudal-quick-step-j-etais-premier-de-ligne-et-un-coureur-me-pousse-dans-le-champ-11692986)
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
