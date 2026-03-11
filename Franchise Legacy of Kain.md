@@ -11,6 +11,8 @@ type: game
 - Éditeur(s) : {{Nom de l’éditeur}}
 - Première apparition : {{Nom du premier jeu (année)}}
 - Genre principal : {{Stratégie, Action-Aventure, FPS...}}
+- Points Communs : 
+	- Les [[vampires]]
 
 ## Résumé et historique
 {{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
@@ -24,6 +26,7 @@ content:
 ## Jeux principaux
 | Titre                                    | Année | Plateformes | Remarque |
 | ---------------------------------------- | ----- | ----------- | -------- |
+| [[Legacy of Kain 5]]                     | 2003  |             |          |
 | [[Legacy of Kain - Defiance Remastered]] | 2026  |             |          |
 
 

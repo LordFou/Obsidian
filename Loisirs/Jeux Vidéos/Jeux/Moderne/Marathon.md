@@ -1,16 +1,16 @@
 ---
 type: game
 ---
-
+![[image-411.webp]]
 # Marathon
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
 	- Studio : [[Bungie]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Bungie]]
 - **Plateformes** : [[PC]], [[PlayStation 5]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Action]], [[Extraction Shooter]], [[FPS]]
@@ -18,9 +18,14 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 3D
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Izual
+		- Direction artistique très réussie
+		- Il est incontestablement bien fait, avec beaucoup de progression et de matos à stocker
+		- rythme assez mou
+		- Des combats vus et revus
 - **Gameplay** :
 - **Durée estimée** : 
 

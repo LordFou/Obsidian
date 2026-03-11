@@ -44,8 +44,9 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/q6XDIDXsoWo |
+| Description      | URL                                                                                                                                                                                             |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Trailer          | https://youtu.be/q6XDIDXsoWo                                                                                                                                                                    |
+| Article Le Monde | https://www.lemonde.fr/pixels/article/2026/03/04/on-a-teste-planet-of-lana-ii-la-tendre-aventure-spatiale-d-une-petite-fille-et-de-son-compagnon-animal_6669530_4408996.html?ref=temalesjeux.fr |
 ![[image-380.webp]]
 ![[image-381.webp]]

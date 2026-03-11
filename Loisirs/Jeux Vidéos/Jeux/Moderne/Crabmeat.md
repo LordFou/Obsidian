@@ -13,9 +13,9 @@ type: game
 		- [[Nicholas McDonnell]]
 		- [[Mitchell Pasmans]]
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Aventure]], [[Survival Horror]], [[FPS]]
 - **Résumé** : 
 
 ## Détails Techniques

@@ -6,12 +6,12 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
 	- Studio : [[Sedleo]]
 	- Personnalités : 
 - **Éditeur** : [[Dear Villagers]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Playstation 5]]
 - **Franchise** : 
 - **Genre** : [[Action]], [[Aventure]]
 - **Résumé** : 
@@ -37,6 +37,7 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description    | URL                          |
+| -------------- | ---------------------------- |
+| Reveal Trailer | https://youtu.be/HOTJLUELhc0 |
+|                |                              |

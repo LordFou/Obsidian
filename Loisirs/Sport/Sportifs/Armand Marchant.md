@@ -24,6 +24,7 @@ type: personne
 | 2026  | Coupe du Monde - Wengen (Suisse) - Slalom Géant               | 25e                        |                            |
 | 2026  | Coupe du Monde - Kitzbühel (Autriche) - Slalom Géant          | 6e                         |                            |
 | 2026  | [[JO 2026]] - Slalom Géant                                    | 5e                         | Meilleur perf belge aux JO |
+| 2026  | Coupe du Monde - Kranjska Gora                                | Disqualifié au 2e passage  |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

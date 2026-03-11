@@ -7,7 +7,7 @@ type: personne
 - **Date de naissance** :  
 - **Nationalité** :  Belge
 - **Sport / Discipline** : [[Motocross]]
-- **Poste / Spécialité** (si applicable) :  
+- **Poste / Spécialité** (si applicable) :  MXGP
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
@@ -26,6 +26,8 @@ type: personne
 | 2025  | Grand Prix de Turquie            | 3e       |                                                       |
 | 2025  | Grand Prix d'Australie           | 1ier 🥇  |                                                       |
 | 2025  | Classement Final                 | 2e       |                                                       |
+|       |                                  |          |                                                       |
+| 2026  | Grand Prix d'Argentine           | 5e       |                                                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

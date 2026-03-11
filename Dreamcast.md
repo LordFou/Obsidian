@@ -23,7 +23,7 @@ type: matos
 - {{Titre du jeu 3 (année)}}
 
 ## Anecdotes et faits marquants
-- {{Fait ou anecdote 1}}
+- En mars 2026, la société [[8BitMod]] crée un système sans fil pour la manette et la console ([[BitLink DC]]). Basé sur un dongle côté console et un adaptateur dans la manette d'origine.
 - {{Fait ou anecdote 2}}
 - {{Lien avec la musique, le design, l’influence culturelle...}}
 

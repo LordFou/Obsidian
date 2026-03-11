@@ -26,7 +26,7 @@ content:
 ## Jeux Développés
 | Année | Titre        | Genre | Plateformes |
 | ----- | ------------ | ----- | ----------- |
-| XXXX  | [[Marathon]] | FPS   |             |
+| 2026  | [[Marathon]] | FPS   |             |
 |       | [[Destiny]]  |       |             |
 
 ## Moteur(s) Utilisé(s)

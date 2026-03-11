@@ -19,6 +19,7 @@ type: personne
 | 2026  | [[AlUla Tour]] - 1e étape        | 2e       | Sprint - Derrière [[Jonathan Milan]] |
 | 2026  | [[Clasica Almeria]]              | 2e       | Sprint - Derrière [[Biniam Girmay]]  |
 | 2026  | [[Tour d'Andalousie]] - 3e étape | 1ier     |                                      |
+| 2026  | [[Paris-Nice]] - 1e étape        | 4e       |                                      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

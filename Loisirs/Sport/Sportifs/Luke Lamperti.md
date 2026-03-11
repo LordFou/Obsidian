@@ -17,6 +17,7 @@ type: personne
 | ----- | ----------------------------------------- | -------- | -------- |
 | 2024  | [[Tour de République Tchèque]] - 1e étape | 1ier     |          |
 | 2025  | [[Tour de République Tchèque]] - 1e étape | 1ier     |          |
+| 2026  | [[Paris-Nice]] - 1e étape                 | 1ier     | Sprint   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Franchise Monster Hunter Wild
+# Franchise Monster Hunter
 
 
 ## Informations générales
@@ -22,9 +22,11 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre | Année | Plateformes | Remarque |
-| ----- | ----- | ----------- | -------- |
-|       |       |             |          |
+| Titre                                             | Année | Plateformes | Remarque |
+| ------------------------------------------------- | ----- | ----------- | -------- |
+| [[Monster Hunter Stories 2 - Wings of Ruin]]      | 2021  |             |          |
+| [[Monster Hunter Wild]]                           | 2025  |             |          |
+| [[Monster Hunter Stories 3 - Twisted Reflection]] | 2026  |             |          |
 
 
 ## Mécaniques et innovations

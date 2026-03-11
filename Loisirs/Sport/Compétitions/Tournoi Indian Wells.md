@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Tournoi Indian Wells - Masters 1000
+# Tournoi Indian Wells - ATP Masters 1000 - WTA Masters 1000
 
 # Introduction
 
