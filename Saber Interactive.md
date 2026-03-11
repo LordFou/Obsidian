@@ -24,9 +24,10 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre          | Genre      | Plateformes |
-| ----- | -------------- | ---------- | ----------- |
-|       | [[Road Kings]] | Simulation |             |
+| Année | Titre                               | Genre      | Plateformes |
+| ----- | ----------------------------------- | ---------- | ----------- |
+|       | [[Road Kings]]                      | Simulation |             |
+| 2026  | [[John Carpenter’s Toxic Commando]] |            |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

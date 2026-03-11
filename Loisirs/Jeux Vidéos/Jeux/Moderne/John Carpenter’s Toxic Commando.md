@@ -1,16 +1,16 @@
 ---
 type: game
 ---
-
+![[image-416.webp]]
 # John Carpenter’s Toxic Commando
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Saber Interactive]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Focus Entertainment]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Action Aventure]], [[FPS]]
