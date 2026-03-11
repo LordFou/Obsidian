@@ -29,7 +29,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-- En [[Paris-Nice]] 2026, il abandonne suite à une chute lors de la 4e étape => 
+- En [[Paris-Nice]] 2026, il abandonne suite à une lourde chute lors de la 4e étape => pas de fractures cependant.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

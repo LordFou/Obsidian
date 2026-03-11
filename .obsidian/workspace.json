@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kevin Vauquelin.md",
+                "file": "Culture/Fun Facts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kevin Vauquelin"
+              "title": "Fun Facts"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kevin",
+                "query": "Project Helix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,6 +207,12 @@
   },
   "active": "715a099727f61d38",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Périphériques/Project Helix.md",
+    "Culture/Fun Facts.md",
+    "Loisirs/Jeux Vidéos/Plateformes/Xbox.md",
+    "Juan Ayuso.md",
+    "Kevin Vauquelin.md",
+    "Arkea.md",
     "Loisirs/Sport/Compétitions/Flèche de Gooik Oetingen.md",
     "Julie De Wilde.md",
     "Loisirs/Sport/Sportifs/Megan Jastrab.md",
@@ -217,7 +224,6 @@
     "Jasper Philipsen.md",
     "Kuurne-Bruxelles-Kuurne.md",
     "Loisirs/Sport/Arnaud de Lie.md",
-    "Juan Ayuso.md",
     "Paris-Nice.md",
     "Loisirs/Sport/Compétitions/Rallye du Kenya.md",
     "Belgian Cats.md",
@@ -228,11 +234,6 @@
     "Loisirs/Sport/Equipes/Belgians Lions.md",
     "Coupe du Monde.md",
     "Loisirs/Sport/Sportifs/Bam Adebayo.md",
-    "Ineos.md",
-    "Donald Trump.md",
-    "Sport & Guerre.md",
-    "Giulio Pellizzari.md",
-    "Isaac Del Toro.md",
     "Attachments/image-414.webp",
     "Attachments/image-413.webp",
     "Attachments/image-412.webp",
