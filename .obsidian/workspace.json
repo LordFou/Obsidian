@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Martinez",
+                "query": "Tim van",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -206,8 +207,9 @@
   },
   "active": "715a099727f61d38",
   "lastOpenFiles": [
-    "Jonas Vingegaard.md",
+    "Loisirs/Sport/Sportifs/Tim Van Dijke.md",
     "Paris-Nice.md",
+    "Jonas Vingegaard.md",
     "Ineos.md",
     "Journal de bord/2026-03-11.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Machine Mind.md",
@@ -231,7 +233,6 @@
     "Journal de bord/2026-03-09.md",
     "Journal de bord/2026-03-08.md",
     "Hannah and Joseph Games.md",
-    "Franchise Monster Hunter.md",
     "Attachments/image-414.webp",
     "Attachments/image-413.webp",
     "Attachments/image-412.webp",

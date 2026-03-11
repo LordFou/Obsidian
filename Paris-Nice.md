@@ -11,12 +11,12 @@ type: event
 
 ### Etapes 
 
-|          | Vainqueur            | Général              | Montagne | Points | Jeune | Remarques                                           |
-| -------- | -------------------- | -------------------- | -------- | ------ | ----- | --------------------------------------------------- |
-| 1e (USA) | [[Luke Lamperti]]    | [[Luke Lamperti]]    |          |        |       | 2e - [[Vito Braet]]                                 |
-| 2e (ALL) | [[Max Kanter]]       | [[Luke Lamperti]]    |          |        |       | 3e - [[Jasper Stuyven]]                             |
-| 3e       | [[Ineos]]            | [[Juan Ayuso]]       |          |        |       | Mauvais Temps => course chaotique et catastrophique |
-| 4e (DAN) | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] |          |        |       |                                                     |
+|          | Vainqueur            | Général              | Montagne | Points            | Jeune | Combattif         | Remarques                                           |
+| -------- | -------------------- | -------------------- | -------- | ----------------- | ----- | ----------------- | --------------------------------------------------- |
+| 1e (USA) | [[Luke Lamperti]]    | [[Luke Lamperti]]    |          | [[Luke Lamperti]] |       |                   | 2e - [[Vito Braet]]                                 |
+| 2e (ALL) | [[Max Kanter]]       | [[Luke Lamperti]]    |          | [[Luke Lamperti]] |       |                   | 3e - [[Jasper Stuyven]]                             |
+| 3e       | [[Ineos]]            | [[Juan Ayuso]]       |          | [[Luke Lamperti]] |       |                   | Mauvais Temps => course chaotique et catastrophique |
+| 4e (DAN) | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] |          | [[Luke Lamperti]] |       | [[Tim Van Dijke]] |                                                     |
 ## Femmes
 
 ### Etapes

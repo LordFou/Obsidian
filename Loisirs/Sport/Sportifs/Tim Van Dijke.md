@@ -16,7 +16,7 @@ type: personne
 | Année | Compétition               | Résultat | Remarque                          |
 | ----- | ------------------------- | -------- | --------------------------------- |
 | 2026  | [[Omloop Het Nieuwsblad]] | 2e       | Derrière [[Mathieu van der Poel]] |
-|       |                           |          |                                   |
+| 2026  | [[Paris-Nice]] - 4e étape | 3e       | Prix de la combativité            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
