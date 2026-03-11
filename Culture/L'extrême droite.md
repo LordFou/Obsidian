@@ -2,6 +2,12 @@
 - Juin 2025 : les nationalistes remportent les élections
 # France
 
+## Médias
+
+- ![[image-422.webp]]
+
+## Personnalités
+
 - [[Alain Soral]] 
 	- Mars 2026 => L’influenceur antisémite s’était installé à Lausanne pour éviter la prison. Il vient de faire ses bagages pour Moscou 
 - Raphaël Enthoven (?) => à analyser
@@ -13,9 +19,9 @@
 	- Milliardaire
 	- Smartbox
 
-![[Pasted image 20250705152747.png]]
 
-# Mouvements facistes
+
+# Mouvements fascistes
 
 - Royaume d’Allemagne (ALL)
 	- Dissout en mai 2025 
@@ -34,3 +40,4 @@
 	- Chiffre 14 et 21
 	- [[Le marteau de Thor]], souvent porté en pendentif ou en tatouage. Il est fréquemment associé à la glorification de la prétendue race aryenne
 	- FCK AFA : Fuck Antifascistes
+	  ![[Pasted image 20250705152747.png]]
