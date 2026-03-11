@@ -15,7 +15,8 @@ type: event
 | -------- | ----------------- | ----------------- | -------- | ------ | ----- | ----------------------- | --- |
 | 1e (USA) | [[Luke Lamperti]] | [[Luke Lamperti]] |          |        |       | 2e - [[Vito Braet]]     |     |
 | 2e (ALL) | [[Max Kanter]]    | [[Luke Lamperti]] |          |        |       | 3e - [[Jasper Stuyven]] |     |
-|          |                   |                   |          |        |       |                         |     |
+| 3e       | [[Ineos]]         | [[Juan Ayuso]]    |          |        |       |                         |     |
+| 4e       |                   |                   |          |        |       |                         |     |
 ## Femmes
 
 ### Etapes

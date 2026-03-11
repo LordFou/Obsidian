@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-03-11.md",
+                "file": "Paris-Nice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-11"
-            }
-          },
-          {
-            "id": "18dad49734770432",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Paris-Nice"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Vacances",
+                "query": "Paris",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -148,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -220,8 +205,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c8ddbab28469fc36",
+  "active": "715a099727f61d38",
   "lastOpenFiles": [
+    "Ineos.md",
+    "Paris-Nice.md",
+    "Journal de bord/2026-03-11.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Machine Mind.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Monster Hunter Stories 3 - Twisted Reflection.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Legends of Amberland III - The Crimson Tower.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/John Carpenter’s Toxic Commando.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/GreedFall - The Dying World.md",
     "Loisirs/Jeux Vidéos/Périphériques/Sony MSF-1.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Holdfast - Nations At War.md",
@@ -230,7 +222,6 @@
     "conflict-files-obsidian-git.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/WWE 2K26.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/FATAL FRAME II - Crimson Butterfly REMAKE.md",
-    "Journal de bord/2026-03-11.md",
     "Loisirs/Jeux Vidéos/Périphériques/Sega Saturn.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Legend of Khiimori.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Pokémon Pokopia.md",
@@ -242,10 +233,6 @@
     "Hannah and Joseph Games.md",
     "Franchise Monster Hunter.md",
     "Forklift Interactive.md",
-    "Drakkar Dev.md",
-    "Crystal Dynamics.md",
-    "Chudo-Yudo Games.md",
-    "Blowfish Studio.md",
     "Attachments/image-414.webp",
     "Attachments/image-413.webp",
     "Attachments/image-412.webp",
@@ -256,8 +243,6 @@
     "Attachments/image-407.webp",
     "Attachments/image-406.webp",
     "Attachments/image-405.webp",
-    "Arcanum.md",
-    "Anvil Games Studio.md",
     "ZA",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",
