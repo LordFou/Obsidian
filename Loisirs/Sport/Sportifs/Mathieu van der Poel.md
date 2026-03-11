@@ -25,7 +25,7 @@ type: personne
 | 2024  | [[Championnat du monde de Gravel]]                  | 1ier    |                                                                                                        |
 | 2024  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
 | 2025  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
-| 2025  | [[Samyn Classic]]                                | 1ier    |                                                                                                        |
+| 2025  | [[Samyn Classic]]                                   | 1ier    |                                                                                                        |
 | 2025  | [[Grand Prix de l'E3]]                              | 1ier    |                                                                                                        |
 | 2025  | [[Milan San Remo]]                                  | 1ier    | Ils ont attaqué à 3 (Lui, [[Tadej Pogacar]] et [[Ganna]]) dans la [[Cipressa]], ce qui n'arrive jamais |
 | 2025  | [[Tour des Flandres]]                               | 2e      | [[Tadej Pogacar]] trop fort                                                                            |
@@ -48,7 +48,8 @@ type: personne
 | 2026  | CXWorldCup - 11e manche -  Maasmechelen             | 1ier    |                                                                                                        |
 | 2026  | CXWorldCup - Classement final                       | 1ier    |                                                                                                        |
 | 2026  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
-| 2026  | [[Omloop Het Nieuwsblad]]                          | 1ier    |                                                                                                        |
+| 2026  | [[Omloop Het Nieuwsblad]]                           | 1ier    |                                                                                                        |
+| 2026  | [[Tirreno-Adriatico]] - 2e étape                    | 1ier    |                                                                                                        |
 ## Style et Caractéristiques
 - Toujours à l'attaque et beaucoup de victoires en solitaire
 - Il s'est déjà prix des bonnes fringales
