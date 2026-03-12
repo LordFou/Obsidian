@@ -17,6 +17,7 @@ type: event
 | 2e (ALL) | [[Max Kanter]]       | [[Luke Lamperti]]    |          | [[Luke Lamperti]] |       |                   | 3e - [[Jasper Stuyven]]                             |
 | 3e       | [[Ineos]]            | [[Juan Ayuso]]       |          | [[Luke Lamperti]] |       |                   | Mauvais Temps => course chaotique et catastrophique |
 | 4e (DAN) | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] |          | [[Luke Lamperti]] |       | [[Tim Van Dijke]] |                                                     |
+| 5e (DAN) | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] |          |                   |       |                   |                                                     |
 ## Femmes
 
 ### Etapes

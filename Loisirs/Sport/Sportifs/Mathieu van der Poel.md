@@ -50,6 +50,7 @@ type: personne
 | 2026  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
 | 2026  | [[Omloop Het Nieuwsblad]]                           | 1ier    |                                                                                                        |
 | 2026  | [[Tirreno-Adriatico]] - 2e étape                    | 1ier    |                                                                                                        |
+| 2026  | [[Tirreno-Adriatico]] - 4e étape                    | 1ier    |                                                                                                        |
 ## Style et Caractéristiques
 - Toujours à l'attaque et beaucoup de victoires en solitaire
 - Il s'est déjà prix des bonnes fringales
