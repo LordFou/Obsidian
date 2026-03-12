@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Périphériques/Sony MSF-1.md",
+                "file": "Journal de bord/2026-03-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sony MSF-1"
+              "title": "2026-03-12"
             },
             "group": "e54e23240e59e2c8"
           }
@@ -28,7 +28,7 @@
       {
         "id": "29b6c95cb213d2c2",
         "type": "tabs",
-        "dimension": 29.497568881685577,
+        "dimension": 29.49756888168558,
         "children": [
           {
             "id": "cbe722caf6f8e7ca",
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Périphériques/Sony MSF-1.md",
+                "file": "Journal de bord/2026-03-12.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Sony MSF-1"
+              "title": "Graphique de 2026-03-12"
             },
             "group": "e54e23240e59e2c8"
           }
@@ -254,8 +254,9 @@
   },
   "active": "f73bfbdb3937ef33",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/WWE 2K26.md",
     "Loisirs/Jeux Vidéos/Périphériques/Sony MSF-1.md",
+    "Journal de bord/2026-03-12.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/WWE 2K26.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Mirage 7.md",
     "Blowfish Studio.md",
     "Drakkar Dev.md",
@@ -285,7 +286,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Roman Triumph.md",
     "Stage Games.md",
     "Attachments/image-409.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Holdfast - Nations At War.md",
     "Attachments/image-408.webp",
     "Attachments/image-407.webp",
     "Attachments/image-406.webp",
