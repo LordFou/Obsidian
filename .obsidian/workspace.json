@@ -6,7 +6,6 @@
       {
         "id": "2ca6795d02c46d26",
         "type": "tabs",
-        "dimension": 70.50243111831442,
         "children": [
           {
             "id": "f73bfbdb3937ef33",
@@ -20,53 +19,7 @@
               },
               "icon": "lucide-file",
               "title": "2026-03-12"
-            },
-            "group": "e54e23240e59e2c8"
-          }
-        ]
-      },
-      {
-        "id": "29b6c95cb213d2c2",
-        "type": "tabs",
-        "dimension": 29.49756888168558,
-        "children": [
-          {
-            "id": "cbe722caf6f8e7ca",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Journal de bord/2026-03-12.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graphique de 2026-03-12"
-            },
-            "group": "e54e23240e59e2c8"
+            }
           }
         ]
       }
@@ -233,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
