@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-![[image-269.webp]]
+![[image-424.webp]]
 # MIO - Memories in Orbit
 
 ## Informations Générales
@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Douze Dixièmes]]
 	- Personnalités : 
-		- Sarah 
+		- [[Sarah Hourcade]] (Lead Producer)
 - **Éditeur** : [[Focus Entertainment]]
 - **Plateformes** : [[Xbox Series]], [[XBox One]], [[Switch]], [[Switch 2]], [[Playstation 4]], [[Playstation 5]]
 - **Franchise** : 
@@ -19,7 +19,7 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 2D, pastel, 
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- Point & Click 
