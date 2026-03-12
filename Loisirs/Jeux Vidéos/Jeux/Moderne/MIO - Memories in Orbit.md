@@ -10,6 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Douze Dixièmes]]
 	- Personnalités : 
+		- Sarah 
 - **Éditeur** : [[Focus Entertainment]]
 - **Plateformes** : [[Xbox Series]], [[XBox One]], [[Switch]], [[Switch 2]], [[Playstation 4]], [[Playstation 5]]
 - **Franchise** : 
