@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Tim Van Dijke
+# Megan Jastrab
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Néerlandais
+- **Nationalité** :  Américaine
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Bora Redbull]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition               | Résultat | Remarque                          |
-| ----- | ------------------------- | -------- | --------------------------------- |
-| 2026  | [[Omloop Het Nieuwsblad]] | 2e       | Derrière [[Mathieu van der Poel]] |
-| 2026  | [[Paris-Nice]] - 4e étape | 3e       | Prix de la combativité            |
+| Année | Compétition                  | Résultat | Remarque |
+| ----- | ---------------------------- | -------- | -------- |
+| 2026  | [[Flèche de Gooik Oetingen]] | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -8,11 +8,11 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Searching Interactive]]
 	- Personnalités : 
 		- [[Nicholas McDonnell]]
 		- [[Mitchell Pasmans]]
-- **Éditeur** : 
+- **Éditeur** : [[Searching Interactive]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Aventure]], [[Survival Horror]], [[FPS]]
@@ -22,7 +22,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** :
+	- CheckPoint (7/10)
 - **Gameplay** :
 - **Durée estimée** : 
 

@@ -2,27 +2,26 @@
 type: personne
 ---
 
-# Oded Kogut
+# Shai Gilgeous-Alexander
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Israélien
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Nationalité** :  Canadien
+- **Sport / Discipline** :  [[Basket-Ball]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
-- **Période d’activité** :  
+- **Période d’activité** :  [[OKC]]
 
 # Palmarès et Distinctions
-| Année | Compétition             | Résultat | Remarque |
-| ----- | ----------------------- | -------- | -------- |
-| 2025  | [[Flèche de Gooik Oetingen]]     | 1ier     |          |
-| 2025  | [[Cro Race]] - 6e étape | 1ier     |          |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- En mars 2026, il égale le record de [[Wilt Chamberlain]] en inscrivant 20 points ou plus dans un 126e match consécutif. Il pourrait devenir le seul détenteur du record jeudi contre Boston. 
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

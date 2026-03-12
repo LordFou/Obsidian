@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-415.webp]]
 # Tobias Lund Andresen
 
 # Informations Générales
@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                    | Résultat | Remarque |
-| ----- | ------------------------------ | -------- | -------- |
-| 2026  | [[Tour Down Under]] - 1e étape | 1ier     | Sprint   |
+| Année | Compétition                      | Résultat | Remarque |
+| ----- | -------------------------------- | -------- | -------- |
+| 2026  | [[Tour Down Under]] - 1e étape   | 1ier     | Sprint   |
+| 2026  | [[Tirreno-Adriatico]] - 3e étape | 1ier     | Sprint   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

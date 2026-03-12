@@ -1,0 +1,1 @@
+- Dans l'histoire de [[Cendrillon]] des [[Frères Grimm]], les 2 sœurs se mutilent les orteils pour tenter de rentrer dans le soulier de verre.

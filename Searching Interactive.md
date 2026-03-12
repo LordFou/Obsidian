@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Saber Interactive
+# Searching Interactive
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,11 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                               | Genre      | Plateformes |
-| ----- | ----------------------------------- | ---------- | ----------- |
-|       | [[Road Kings]]                      | Simulation |             |
-| 2025  | [[Warhammer 40k - Space Marine 2]]  |            |             |
-| 2026  | [[John Carpenter’s Toxic Commando]] |            |             |
+| Année | Titre        |
+| ----- | ------------ |
+| 2026  | [[Crabmeat]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

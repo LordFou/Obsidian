@@ -9,7 +9,7 @@ type: personne
 - **Nationalité** :  Italien
 - **Sport / Discipline** : [[Cyclisme]] 
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Bora Redbull]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
@@ -17,6 +17,8 @@ type: personne
 | ----- | ------------------------------------ | -------- | --------------------- |
 | 2025  | [[Tour d'Italie]] - Classement final | 6e       |                       |
 | 2025  | [[Tour d'Espagne]] - 17e étape       | 1ier     | ==Première Victoire== |
+|       |                                      |          |                       |
+| 2026  | [[Tirreno-Adriatico]] - 2e étape     | 3e       |                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

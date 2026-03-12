@@ -2,18 +2,18 @@
 type: game
 ---
 
-# FATAL FRAME II - Crimson Butterfly REMAKE
+# Warhammer 40k - Space Marine 2
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : [[KOEI TECMO GAMES]]
+	- Studio : [[Saber Interactive]]
 	- Personnalités : 
-- **Éditeur** : [[Koei Tecmo Games]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
+- **Éditeur** : 
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action Aventure]], [[Survival Horror]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -30,6 +30,7 @@ type: game
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
+	- [[zombie|Les zombies]]
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
@@ -38,7 +39,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/MLf4p8qL7gY |
-|             |                              |
+| Description | URL |
+| ----------- | --- |
+|             |     |

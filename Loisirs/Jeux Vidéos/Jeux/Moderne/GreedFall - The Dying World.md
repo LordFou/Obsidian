@@ -1,16 +1,16 @@
 ---
 type: game
 ---
-
+![[image-421.webp]]
 # GreedFall - The Dying World
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Spiders]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Nacon]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Action Aventure]], [[RPG]]
@@ -20,7 +20,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** :
+	- CheckPoint (7/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
