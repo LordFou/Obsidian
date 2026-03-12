@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Valentin Paret-Peintre
+# Harold Tejada
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Française
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Nationalité** :  
+- **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Quick-Step]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                    | Résultat | Remarque                      |
-| ----- | ------------------------------ | -------- | ----------------------------- |
-| 2025  | [[Tour de France]] - 16e étape | 1ier     | Mont Ventoux                  |
-| 2026  | [[Paris-Nice]] - 5e étape      | 2e       | Derriere [[Jonas Vingegaard]] |
+| Année | Compétition               | Résultat | Remarque |
+| ----- | ------------------------- | -------- | -------- |
+| 2026  | [[Paris-Nice]] - 5e étape | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

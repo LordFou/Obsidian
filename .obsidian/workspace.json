@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Daniel Felipe Martinez.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Star Wars - First Assault.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daniel Felipe Martinez"
+              "title": "Star Wars - First Assault"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Harold",
+                "query": "Timberborn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,10 +205,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2066e9a3d214d366",
+  "active": "96b7e59cd183eee8",
   "lastOpenFiles": [
-    "Loisirs/Sport/Tour de France.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Timberborn.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Star Wars - First Assault.md",
+    "Attachments/image-423.webp",
+    "Valentin Paret-Peintre.md",
+    "Loisirs/Sport/Sportifs/Harold Tejada.md",
     "Loisirs/Sport/Sportifs/Daniel Felipe Martinez.md",
+    "Loisirs/Sport/Tour de France.md",
     "Jonas Vingegaard.md",
     "Paris-Nice.md",
     "Giulio Pellizzari.md",
@@ -229,10 +234,6 @@
     "David Goffin.md",
     "conflict-files-obsidian-git.md",
     "Spiders.md",
-    "Searching Interactive.md",
-    "Loisirs/Sport/Sportifs/Shai Gilgeous-Alexander.md",
-    "Loisirs/Sport/Sportifs/Megan Jastrab.md",
-    "Loisirs/Sport/Sportifs/Bam Adebayo.md",
     "Attachments/image-419.webp",
     "Attachments/image-418.webp",
     "Attachments/image-417.webp",
@@ -242,7 +243,6 @@
     "Attachments/image-413.webp",
     "Attachments/image-412.webp",
     "Attachments/image-411.webp",
-    "Attachments/image-410.webp",
     "Loisirs/Sport/Compétitions/Sans titre",
     "ZA",
     "Loisirs/Jeux Vidéos/Généalogie Société.canvas",
