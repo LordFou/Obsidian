@@ -2,17 +2,17 @@
 type: game
 ---
 
-# Star Wars - First Assault
+# Dota 2
 
 ## Informations Générales
 
-- **Année de sortie** : Abandonné
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Valve]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Star Wars]]
+- **Franchise** : 
 - **Genre** :
 - **Résumé** : 
 
@@ -34,7 +34,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- Ressuscité par des moddeurs qui propose d'y jouer en ligne via un émulateur [[XBox 360]]
+- 
 ## Liens et Ressources
 
 | Description | URL |

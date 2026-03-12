@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Star Wars - First Assault.md",
+                "file": "Valve.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Star Wars - First Assault"
+              "title": "Valve"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Timberborn",
+                "query": "Fern Hook",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,10 +206,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96b7e59cd183eee8",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Timberborn.md",
+    "Dota 2.md",
+    "Valve.md",
+    "Counter Strike 2.md",
+    "Team Fortress 2.md",
+    "Donald Trump.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Star Wars Outlaws.md",
+    "Franchise Star Wars.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Star Wars - First Assault.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Timberborn.md",
     "Attachments/image-423.webp",
     "Valentin Paret-Peintre.md",
     "Loisirs/Sport/Sportifs/Harold Tejada.md",
@@ -227,13 +235,6 @@
     "Tournoi de Cap Cana.md",
     "Aleksandar Kovacevic.md",
     "Loisirs/Sport/Compétitions/Tournoi Indian Wells.md",
-    "Tournoi de Pau.md",
-    "Loisirs/Sport/Compétitions/Tournoi de Bratislava.md",
-    "Tournoi de Canberra.md",
-    "Raphaël Collignon.md",
-    "David Goffin.md",
-    "conflict-files-obsidian-git.md",
-    "Spiders.md",
     "Attachments/image-419.webp",
     "Attachments/image-418.webp",
     "Attachments/image-417.webp",
