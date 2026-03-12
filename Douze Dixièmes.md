@@ -15,6 +15,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Pays d’origine** : France
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
+  ![[image-426.webp]]
 
 ```timeline-labeled
 [line-5, body-2]
