@@ -27,7 +27,7 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-- **Epoque** : 
+- **Epoque** : [[17e siècle]]
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 

@@ -1,19 +1,19 @@
 ---
 type: game
 ---
-![[image-416.webp]]
-# John Carpenter’s Toxic Commando
+
+# Left 4 Dead
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Saber Interactive]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Focus Entertainment]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
+- **Éditeur** : 
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action Aventure]], [[FPS]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -33,12 +33,10 @@ type: game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
-	- [[Left 4 Dead]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
-| Description      | URL                          |
-| ---------------- | ---------------------------- |
-| Gameplay Trailer | https://youtu.be/QwxFR1g7Uy4 |
-|                  |                              |
+| Description | URL |
+| ----------- | --- |
+|             |     |
