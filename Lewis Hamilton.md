@@ -2,20 +2,20 @@
 type: personne
 ---
 
-# Charles Leclerc
+# Lewis Hamilton
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Français
+- **Nationalité** :  Anglais
 - **Sport / Discipline** :  [[F1]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Ferrari]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
 | Année | Compétition                      | Résultat | Remarque |
 | ----- | -------------------------------- | -------- | -------- |
-| 2026  | [[Grand Prix d'Australie]]       | 3e       |          |
+| 2025  | [[Grand Prix de Chine]] - Sprint | 1ier     |          |
 | 2026  | [[Grand Prix de Chine]] - Sprint | 2e       |          |
 
 # Style et Caractéristiques
