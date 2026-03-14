@@ -1,20 +1,20 @@
 ---
 type: game
 ---
-![[image-436.webp]]
-# AETHUS
+![[image-437.webp]]
+# Wireworks
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Pawsmonaut Games]]
+	- Studio : [[JJJ]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : [[PC]]
+- **Éditeur** : [[JJJ]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Aventure]], [[Simulation]], [[Stratégie]]
-- **Résumé** : 
+- **Genre** :
+- **Résumé** : Variante innovante de [[Vampire Survivors]] où les armes ne bougent pas tant qu'on ne les a pas connectées, sur un tableau électrique, à des modules qui les font se déplacer – ou qui les boostent
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -31,12 +31,13 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Vampire Survivor]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/khebvFPU17c |
+| Description | URL |
+| ----------- | --- |
+|             |     |
