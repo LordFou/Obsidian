@@ -1,29 +1,28 @@
 ---
 type: game
 ---
-![[image-435.webp]]
-# Crabmeat
+![[image-433.webp]]
+# Pluto
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Searching Interactive]]
+	- Studio : [[Siege Wizard Interactive]]
 	- Personnalités : 
-		- [[Nicholas McDonnell]]
-		- [[Mitchell Pasmans]]
-- **Éditeur** : [[Searching Interactive]]
+- **Éditeur** : [[indie.io]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Aventure]], [[Survival Horror]], [[FPS]]
+- **Genre** : [[Dungeon Crawler]], [[Deckbuilding]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** :
-	- CheckPoint (7/10)
+- **Réception critique** : 
+	- Izual : 
+		- Direction artistique singulière et accrocheuse
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -40,6 +39,7 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/PNhEYlMJTas |
+| Description | URL |
+| ----------- | --- |
+|             |     |
+![[image-434.webp]]

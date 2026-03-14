@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Bit Egg
+# Siege Wizard Interactive
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,9 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                  |
-| ----- | ---------------------- |
-| 2026  | [[Lost and Found Co.]] |
+| Année | Titre     |
+| ----- | --------- |
+| 2026  | [[Pluto]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

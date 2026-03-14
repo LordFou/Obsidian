@@ -22,7 +22,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Izual : Un jeu accessible à tou·tes, et qui saura mettre de bonne humeur même les plus [[Jean-Pierre Bacri]] d'entre vous.
 - **Gameplay** :
 - **Durée estimée** : 
 

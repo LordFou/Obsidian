@@ -14,7 +14,7 @@ type: game
 - **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Simulation]], [[Stratégie]], [[City Builder]]
-- **Résumé** : 
+- **Résumé** : On y crée un village de castors en se préoccupant beaucoup des chaînes logistiques. 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
