@@ -1,8 +1,8 @@
 ---
 type: game
 ---
-
-# Vampire Survivor
+![[image-438.webp]]
+# Vampire Survivors
 
 ## Informations Générales
 
@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : All
 - **Franchise** : 
-- **Genre** : [[Vampire Survivor Like]]
+- **Genre** : [[Vampire Survivors Like]]
 - **Résumé** : 
 
 ## Détails Techniques

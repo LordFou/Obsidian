@@ -22,7 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
-- **Durée estimée** : 
+- **Durée estimée** : pas très long
 
 ## Histoire et Univers
 - **Lieu(x)** : 
@@ -31,7 +31,7 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
-	- [[Vampire Survivor]]
+	- [[Vampire Survivors]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

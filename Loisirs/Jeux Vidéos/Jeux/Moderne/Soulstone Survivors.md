@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Vampire Survivor Like]]
+- **Genre** : [[Vampire Survivors Like]]
 - **Résumé** : 
 
 ## Détails Techniques

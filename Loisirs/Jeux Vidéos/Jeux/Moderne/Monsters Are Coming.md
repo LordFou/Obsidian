@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : [[Raw Fury]]
 - **Plateformes** : [[PC]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Vampire Survivor Like]], [[Tower Defense]], [[City-Builder]]
+- **Genre** : [[Vampire Survivors Like]], [[Tower Defense]], [[City-Builder]]
 - **Résumé** : vous jouez un perso qui doit dégager le chemin (obstacles naturel et ennemis) pour une ville sur roulette. A chaque niveau, vous pouvez améliorer votre ville pour qu'elle se défende également.
 
 ## Détails Techniques
@@ -34,7 +34,7 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
-	- [[Vampire Survivor]]
+	- [[Vampire Survivors]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

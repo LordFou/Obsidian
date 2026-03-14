@@ -11,7 +11,7 @@
 - **Éditeur** : Wales Interactive
 - **Plateformes** : All
 - **Franchise** : 
-- **Genre** : [[Deck Building]], [[Vampire Survivor Like]] 
+- **Genre** : [[Deck Building]], [[Vampire Survivors Like]] 
 - **Résumé** : 
 
 ## Détails Techniques

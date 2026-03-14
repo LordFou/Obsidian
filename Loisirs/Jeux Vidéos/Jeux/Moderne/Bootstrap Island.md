@@ -1,24 +1,24 @@
 ---
 type: game
 ---
-
-# Deep Rock Galactic - Survivor
+![[image-439.webp]]
+# Bootstrap Island
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Maru RV]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Maru RV]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Vampire Survivors Like]]
+- **Genre** : [[Survie]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : VR, 3D
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
