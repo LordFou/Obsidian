@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Harold Tejada.md",
+                "file": "Loisirs/Sport/Sportifs/Hanne Desmet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Harold Tejada"
+              "title": "Hanne Desmet"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Harold",
+                "query": "Hanne",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -205,8 +205,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96b7e59cd183eee8",
+  "active": "dbacc6f984f28690",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Harold Tejada.md",
     "Thibau Nys.md",
     "Attachments/image-429.webp",
     "Attachments/image-428.webp",
@@ -238,7 +239,6 @@
     "Team Fortress 2.md",
     "Donald Trump.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Star Wars Outlaws.md",
-    "Franchise Star Wars.md",
     "Attachments/image-423.webp",
     "Attachments/image-419.webp",
     "Attachments/image-418.webp",
