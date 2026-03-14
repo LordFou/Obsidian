@@ -17,6 +17,7 @@ type: event
 | 2e (NDL) | [[Mathieu van der Poel]] | [[Isaac Del Toro]]    |          |        |       |                                                     |
 | 3e (DAN) | [[Tobias Lund Andresen]] | [[Isaac Del Toro]]    |          |        |       | 2e - [[Arnaud de Lie]]<br>3e - [[Jasper Philipsen]] |
 | 4e (NDL) | [[Mathieu van der Poel]] | [[Giulio Pellizzari]] |          |        |       | 5e - [[Wout Van Aert]]                              |
+| 5e (DAN) | [[Michael Valgren]]      | [[Isaac Del Toro]]    |          |        |       |                                                     |
 ## Femmes
 
 ### Etapes

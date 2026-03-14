@@ -6,16 +6,17 @@ type: personne
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Nationalité** :  Colombien
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Astana]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
 | Année | Compétition               | Résultat | Remarque |
 | ----- | ------------------------- | -------- | -------- |
 | 2026  | [[Paris-Nice]] - 5e étape | 3e       |          |
+| 2026  | [[Paris-Nice]] - 6e étape | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

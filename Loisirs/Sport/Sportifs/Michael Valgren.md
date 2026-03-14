@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-427.webp]]
 # Michael Valgren
 
 # Informations Générales
