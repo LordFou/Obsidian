@@ -2,19 +2,19 @@
 type: game
 ---
 
-# Blossom - The Seed of Life
+# Astroneer
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Pebbledust Games]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Aventure]], [[Monde ouvert]], [[Survie]], [[Base Building]]
-- **Résumé** : Terraformation, logistique, exploration et craft
+- **Genre** :
+- **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -26,20 +26,17 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- Une planète vallonée
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
-	- [[Astroneer]]
-	- [[The Planet Crafter]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/MX3fCsp0CXM |
+| Description | URL |
+| ----------- | --- |
+|             |     |
