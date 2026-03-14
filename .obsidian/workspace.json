@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Sans titre 1.md",
+                "file": "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sans titre 1"
+              "title": "Amstel Gold Race"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Michael valgren",
+                "query": "Amstel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,8 +207,11 @@
   },
   "active": "96b7e59cd183eee8",
   "lastOpenFiles": [
+    "Loisirs/Sport/Amstel Gold Race.md",
+    "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
+    "Loisirs/Sport/Mischa Bredewold.md",
+    "Loisirs/Sport/Sportifs/Michael Valgren.md",
     "Ilan Van Wilder.md",
-    "Loisirs/Sport/Sportifs/Sans titre 1.md",
     "Johannes Klaebo.md",
     "Loisirs/Sport/Armand Duplantis.md",
     "Journal de bord/2026-03-14.md",
@@ -233,9 +237,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Timberborn.md",
     "Attachments/image-423.webp",
     "Valentin Paret-Peintre.md",
-    "Loisirs/Sport/Sportifs/Harold Tejada.md",
-    "Loisirs/Sport/Sportifs/Daniel Felipe Martinez.md",
-    "Loisirs/Sport/Tour de France.md",
     "Attachments/image-419.webp",
     "Attachments/image-418.webp",
     "Attachments/image-417.webp",
