@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Armand Duplantis.md",
+                "file": "Loisirs/Sport/Sportifs/Sans titre 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Armand Duplantis"
+              "title": "Sans titre 1"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Michael valgren",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,8 +204,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "96b7e59cd183eee8",
   "lastOpenFiles": [
+    "Ilan Van Wilder.md",
+    "Loisirs/Sport/Sportifs/Sans titre 1.md",
+    "Johannes Klaebo.md",
+    "Loisirs/Sport/Armand Duplantis.md",
     "Journal de bord/2026-03-14.md",
     "Douze Dixièmes.md",
     "Attachments/image-426.webp",
@@ -233,10 +236,6 @@
     "Loisirs/Sport/Sportifs/Harold Tejada.md",
     "Loisirs/Sport/Sportifs/Daniel Felipe Martinez.md",
     "Loisirs/Sport/Tour de France.md",
-    "Jonas Vingegaard.md",
-    "Paris-Nice.md",
-    "Giulio Pellizzari.md",
-    "Tirreno-Adriatico.md",
     "Attachments/image-419.webp",
     "Attachments/image-418.webp",
     "Attachments/image-417.webp",

@@ -28,7 +28,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - Athlète le plus titré des JO d'hiver => 11 médailles d'or
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Lors d'une étape de la coupe du monde 2026 de ski de fond à Drammen en Norvège, il a été embarqué dans une chute et a tapé fort la tête contre la neige. => 
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
