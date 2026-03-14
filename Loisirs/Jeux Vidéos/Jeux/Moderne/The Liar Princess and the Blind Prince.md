@@ -1,24 +1,26 @@
 ---
 type: game
 ---
-![[image-439.webp]]
-# Bootstrap Island
+![[image-440.webp]]
+# The Liar Princess and the Blind Prince
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Maru RV]]
+	- Studio : 
+		- [[Nippon Ichi Software]]
+		- [[Systemsoft Beta]]
 	- Personnalités : 
-- **Éditeur** : [[Maru RV]]
-- **Plateformes** : [[VR]]
+- **Éditeur** : [[NIS America]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Survie]]
-- **Résumé** : 
+- **Genre** :
+- **Résumé** : court jeu d'aventure féérique, où l'on guide un doux prince aveugle. C'est une gentille princesse qui se charge du pilotage, sous sa forme de petite fille ou de loup-garou qui dézingue les obstacles
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : VR, 3D
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
