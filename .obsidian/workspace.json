@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Isaac Del Toro.md",
+                "file": "Tirreno-Adriatico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Isaac Del Toro"
+              "title": "Tirreno-Adriatico"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tirren",
+                "query": "Tirr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,6 +208,10 @@
   },
   "active": "96b7e59cd183eee8",
   "lastOpenFiles": [
+    "Paris-Nice.md",
+    "Loisirs/Sport/Sportifs/Harold Tejada.md",
+    "Loisirs/Sport/Sportifs/Dorian Godon.md",
+    "Isaac Del Toro.md",
     "Tirreno-Adriatico.md",
     "Belgian Cats.md",
     "Kimi Antonelli.md",
@@ -215,7 +220,6 @@
     "Loisirs/Sport/Compétitions/Grand Prix de Chine.md",
     "Lewis Hamilton.md",
     "Loisirs/Sport/Sportifs/Hanne Desmet.md",
-    "Loisirs/Sport/Sportifs/Harold Tejada.md",
     "Thibau Nys.md",
     "Attachments/image-429.webp",
     "Attachments/image-428.webp",
@@ -234,11 +238,8 @@
     "Templates/Element Timeline.md",
     "Sarah Hourcade.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/MIO - Memories in Orbit.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shady Part Of Me.md",
     "Attachments/image-425.webp",
     "Attachments/image-424.webp",
-    "Steam.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Marathon.md",
     "Attachments/image-423.webp",
     "Attachments/image-419.webp",
     "Attachments/image-418.webp",

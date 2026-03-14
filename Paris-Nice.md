@@ -18,6 +18,9 @@ type: event
 | 3e       | [[Ineos]]            | [[Juan Ayuso]]       |          | [[Luke Lamperti]] |       |                   | Mauvais Temps => course chaotique et catastrophique |
 | 4e (DAN) | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] |          | [[Luke Lamperti]] |       | [[Tim Van Dijke]] |                                                     |
 | 5e (DAN) | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] |          |                   |       |                   |                                                     |
+| 6e (COL) | [[Harold Tejada]]    | [[Jonas Vingegaard]] |          |                   |       |                   |                                                     |
+| 7e (FRA) | [[Dorian Godon]]     | [[Jonas Vingegaard]] |          |                   |       |                   | 8e - [[Jasper Stuyven]]<br>Sprint                   |
+|          |                      |                      |          |                   |       |                   |                                                     |
 ## Femmes
 
 ### Etapes
