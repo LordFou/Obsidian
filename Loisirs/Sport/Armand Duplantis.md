@@ -2,7 +2,7 @@
 type: personne
 ---
 
-# Arnaud Duplantis
+# Armand Duplantis
 
 # Informations Générales
 - **Date de naissance** :  
@@ -21,7 +21,8 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-- 13 records du monde en saut à la perche
+- 15 records du monde en saut à la perche
+	- 6m 31cm
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
