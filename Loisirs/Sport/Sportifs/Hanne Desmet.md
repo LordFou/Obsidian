@@ -8,20 +8,24 @@ type: personne
 - **Date de naissance** :  
 - **Nationalité** : Belge
 - **Sport / Discipline** : [[Patinage de vitesse]]
-- **Poste / Spécialité** (si applicable) :  
+- **Poste / Spécialité** (si applicable) :  Shorttrack
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                            | Résultat   | Remarque              |
-| ----- | ------------------------------------------------------ | ---------- | --------------------- |
-| 2025  | Coupe du Monde - Dordrecht (Pays-Bas) - 1000m          | 3e         |                       |
-| 2025  | Coupe du Monde - Gdansk (Pologne) - 1000m              | 1ière      |                       |
-| 2026  | [[JO 2026]] - Porte Drapeau                            |            |                       |
-| 2026  | [[JO 2026]] - Relais Mixte                             | 3e 🥉      | [[Belgian Ice Bears]] |
-| 2026  | [[JO 2026]] - Patinage de vitesse - Shorttrack - 500m  | 1/4 finale |                       |
-| 2026  | [[JO 2026]] - Patinage de vitesse - Shorttrack - 1000m | 1/2 finale | Disqualifiée          |
-| 2026  | [[JO 2026]] - Patinage de vitesse - Shorttrack - 1500m | 1/2 finale | Disqualifiée          |
+| Année | Compétition                                   | Résultat   | Remarque              |
+| ----- | --------------------------------------------- | ---------- | --------------------- |
+| 2022  | [[JO 2022]] - 1000m                           | 3e 🥉      |                       |
+| 2025  | Coupe du Monde - Dordrecht (Pays-Bas) - 1000m | 3e         |                       |
+| 2025  | Coupe du Monde - Gdansk (Pologne) - 1000m     | 1ière      |                       |
+| 2025  | Championnat du Monde - 1000m                  | 1ière      |                       |
+| 2026  | [[JO 2026]] - Porte Drapeau                   |            |                       |
+| 2026  | [[JO 2026]] - Relais Mixte                    | 3e 🥉      | [[Belgian Ice Bears]] |
+| 2026  | [[JO 2026]] - 500m                            | 1/4 finale |                       |
+| 2026  | [[JO 2026]] - 1000m                           | 1/2 finale | Disqualifiée          |
+| 2026  | [[JO 2026]] - 1500m                           | 1/2 finale | Disqualifiée          |
+| 2025  | Championnat du Monde - 1000m                  | Série      | Disqualifiée          |
+|       |                                               |            |                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

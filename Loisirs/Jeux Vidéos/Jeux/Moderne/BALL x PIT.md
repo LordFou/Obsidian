@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : [[Devolver Digital]]
 - **Plateformes** : All
 - **Franchise** : 
-- **Genre** : [[Casse-briques]], [[Vampire Survivor Like]], [[Roguelite]], [[Shoot'em up]]
+- **Genre** : [[Casse-briques]], [[Vampire Survivors Like]], [[Roguelite]], [[Shoot'em up]]
 - **Résumé** : Babidoule s'est effrondré et vous êtes des aventuriers à la recherche de trésors dans les différentes strates du sous-sol. Bref, l'histoire, on s'en fout un peu, c'est un casse briques qui a du punch avec un peu de gestion. C'est une drogue.
 
 ## Détails Techniques
@@ -39,7 +39,7 @@ type: game
 - **Thèmes abordés** : 
 - **Influencé par** :
 	- [[Tetris]]
-	- [[Vampire Survivor]]
+	- [[Vampire Survivors]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

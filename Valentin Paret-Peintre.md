@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                    | Résultat | Remarque     |
-| ----- | ------------------------------ | -------- | ------------ |
-| 2025  | [[Tour de France]] - 16e étape | 1ier     | Mont Ventoux |
+| Année | Compétition                    | Résultat | Remarque                      |
+| ----- | ------------------------------ | -------- | ----------------------------- |
+| 2025  | [[Tour de France]] - 16e étape | 1ier     | Mont Ventoux                  |
+| 2026  | [[Paris-Nice]] - 5e étape      | 2e       | Derriere [[Jonas Vingegaard]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

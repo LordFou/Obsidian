@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Challenger 125 de Bratislava
+# Tournoi de Bratislava - Challenger 125
 
 # Introduction
 

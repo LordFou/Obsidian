@@ -2,26 +2,27 @@
 type: personne
 ---
 
-# Arnaud Duplantis
+# Aleksandar Kovacevic
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Suédois
-- **Sport / Discipline** :  [[Athlétisme]]
-- **Poste / Spécialité** (si applicable) : Saut à la perche
+- **Nationalité** :  Américain
+- **Sport / Discipline** : [[Tennis]]
+- **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition              | Résultat | Remarque                          |
+| ----- | ------------------------ | -------- | --------------------------------- |
+| 2026  | [[Tournoi Indian Wells]] | 3e tour  | Défaite contre [[Novak Djokovic]] |
+|       |                          |          |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-- 13 records du monde en saut à la perche
+Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

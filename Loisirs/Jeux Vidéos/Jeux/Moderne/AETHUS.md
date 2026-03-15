@@ -1,14 +1,14 @@
 ---
 type: game
 ---
-
+![[image-436.webp]]
 # AETHUS
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Pawsmonaut Games]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : [[PC]]

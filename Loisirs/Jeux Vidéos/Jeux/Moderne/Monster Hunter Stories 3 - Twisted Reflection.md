@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-430.webp]]
 # Monster Hunter Stories 3 - Twisted Reflection
 
 ## Informations Générales
@@ -28,7 +28,7 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- Azuria
+	- Royaume d'Azuria
 	- Vermeil
 - **Epoque** : 
 - **Personnages principaux** : 

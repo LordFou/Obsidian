@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                | Résultat | Remarque |
-| ----- | -------------------------- | -------- | -------- |
-| 2026  | [[Grand Prix d'Australie]] | 2e       |          |
+| Année | Compétition                              | Résultat | Remarque |
+| ----- | ---------------------------------------- | -------- | -------- |
+| 2026  | [[Grand Prix d'Australie]]               | 2e       |          |
+| 2026  | [[Grand Prix de Chine]] - Qualifications | 1e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

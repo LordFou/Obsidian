@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : [[Ryan Forrester]]
 - **Plateformes** : PC
 - **Franchise** : 
-- **Genre** : [[Vampire Survivor Like]], [[Jeu incrémental]]
+- **Genre** : [[Vampire Survivors Like]], [[Jeu incrémental]]
 - **Résumé** : vous dirigez un train et l'améliorer au fur et à mesure de votre partie. Le but étant d'aller toujours plus loin sur la voie.
 
 ## Détails Techniques

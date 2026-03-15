@@ -6,7 +6,7 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2025
 - **Développeur** : 
 	- Studio : [[Ubisoft]]
 	- Personnalités : 

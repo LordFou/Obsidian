@@ -14,7 +14,7 @@ type: game
 - **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Aventure]], [[Monde ouvert]], [[Survie]], [[Base Building]]
-- **Résumé** : 
+- **Résumé** : Terraformation, logistique, exploration et craft
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -26,11 +26,14 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- Une planète vallonée
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Astroneer]]
+	- [[The Planet Crafter]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

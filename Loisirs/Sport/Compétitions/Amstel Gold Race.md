@@ -11,6 +11,7 @@ Une des seules grandes courses néerlandaises, plutôt du style des courses arde
 
 | Année | Vainqueur             | Nationalité | Remarque                                                                                         |
 | ----- | --------------------- | ----------- | ------------------------------------------------------------------------------------------------ |
+| 2018  | [[Michael Valgren]]   | Danois      |                                                                                                  |
 | 2025  | [[Mattias Skjelmose]] | Danois      | Sprint à 3 avec Remco et Pogacar<br>2e Pogacar<br>3e Evenepoel<br>4e Van Aert<br>8e Tiesj Benoot |
 |       |                       |             |                                                                                                  |
 # Femmes

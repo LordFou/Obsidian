@@ -33,6 +33,7 @@ type: game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[Left 4 Dead]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
