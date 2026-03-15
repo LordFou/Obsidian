@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Daniel Felipe Martinez
+# Georg Steinhauser
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  
 - **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Bora Redbull]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                       | Résultat | Remarque                          |
-| ----- | --------------------------------- | -------- | --------------------------------- |
-| 2026  | [[Paris-Nice]] - Classement final | 2e       | Mais grosse chute sur la 8e étape |
-
+| Année | Compétition                       | Résultat | Remarque |
+| ----- | --------------------------------- | -------- | -------- |
+| 2026  | [[Paris-Nice]] - Classement final | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

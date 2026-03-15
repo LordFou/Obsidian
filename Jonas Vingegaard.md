@@ -17,9 +17,11 @@ type: personne
 | ----- | ------------------------------------- | -------- | -------------------------- |
 | ?     | [[Tour de France]]                    | 1ier     |                            |
 | ?     | [[Tour de France]]                    | 1ier     |                            |
+| 2023  | [[Paris-Nice]] - Classement final     | 3e       |                            |
 | 2024  | [[Tour de France]] - Classement final | 2e       |                            |
 |       |                                       |          |                            |
 | 2025  | [[Tour d'Algarve]] - Classement final | 1ier     |                            |
+| 2025  | [[Paris-Nice]]                        | Abandon  |                            |
 | 2025  | [[Tour de France]] - Classement final | 2e       |                            |
 | 2025  | [[Tour d'Espagne]] - 2e étape         | 1ier     | :luc_plus: Maillot Général |
 | 2025  | [[Tour d'Espagne]] - 9e étape         | 1ier     |                            |
@@ -28,6 +30,8 @@ type: personne
 |       |                                       |          |                            |
 | 2026  | [[Paris-Nice]] - 4e étape             | 1ier     | :luc_plus: Maillot Général |
 | 2026  | [[Paris-Nice]] - 5e étape             | 1ier     |                            |
+| 2026  | [[Paris-Nice]] - 8e étape             | 2e       |                            |
+| 2026  | [[Paris-Nice]] - Classement final     | 1ier     |                            |
 
 # Style et Caractéristiques
 - On ne le voit jamais sur des courses d'un jour car toute ses saisons sont centrées sur le [[Tour de France]]

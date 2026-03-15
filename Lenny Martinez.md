@@ -21,6 +21,7 @@ type: personne
 | 2025  | [[Tour de France]] - 4e étape        | Combattif |                                          |
 | 2025  | [[Tour de France]] - 10e étape       | 8e        | Maillot Montagne                         |
 | 2025  | [[Tour de France]] - 14e étape       | ?         | Maillot Montagne<br>Combattif de l'étape |
+| 2026  | [[Paris-Nice]] - 8e étape            | 1ier      |                                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
