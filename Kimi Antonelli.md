@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-443.webp]]
 # Kimi Antonelli
 
 # Informations Générales
@@ -13,10 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                              | Résultat | Remarque |
-| ----- | ---------------------------------------- | -------- | -------- |
-| 2026  | [[Grand Prix d'Australie]]               | 2e       |          |
-| 2026  | [[Grand Prix de Chine]] - Qualifications | 1e       |          |
+| Année | Compétition                              | Résultat | Remarque                         |
+| ----- | ---------------------------------------- | -------- | -------------------------------- |
+| 2026  | [[Grand Prix d'Australie]]               | 2e       |                                  |
+| 2026  | [[Grand Prix de Chine]] - Qualifications | 1ier     |                                  |
+| 2026  | [[Grand Prix de Chine]] - Course         | 1ier     | ==Première victoire à 19 ans !== |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -27,6 +28,7 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 # Controverses ou Événements Importants
 - Commence la F1 à 17 ans sans son permis
 - Premier podium en 2025 au [[Grand Prix du Canada]] (3e)
+- Première victoire en 2026 au [[Grand Prix de Chine]] => 2e plus jeune vainqueur en [[F1]] derrière [[Max Verstappen]]
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
