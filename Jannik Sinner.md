@@ -13,14 +13,14 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition         | Résultat        | Remarque                         |
-| ----- | ------------------- | --------------- | -------------------------------- |
-| 2025  | [[Roland-Garros]]   | Finaliste       | Premier mondiale lors du tournoi |
-| 2026  |                     |                 |                                  |
-| 2026  | [[Tournoi de Doha]] | Quart de finale |                                  |
-|       |                     |                 |                                  |
-|       |                     |                 |                                  |
-|       |                     |                 |                                  |
+| Année | Compétition              | Résultat        | Remarque                         |
+| ----- | ------------------------ | --------------- | -------------------------------- |
+| 2025  | [[Roland-Garros]]        | Finaliste       | Premier mondiale lors du tournoi |
+| 2026  |                          |                 |                                  |
+| 2026  | [[Tournoi de Doha]]      | Quart de finale |                                  |
+| 2026  | [[Tournoi Indian Wells]] | Finale          |                                  |
+|       |                          |                 |                                  |
+|       |                          |                 |                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

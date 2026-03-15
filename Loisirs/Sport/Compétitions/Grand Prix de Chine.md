@@ -15,7 +15,7 @@ type: event
 |       |                     |             |          |
 # Course Normale
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur          | Nationalité | Remarque |
+| ----- | ------------------ | ----------- | -------- |
+| 2026  | [[Kimi Antonelli]] | Italien     |          |
+|       |                    |             |          |
