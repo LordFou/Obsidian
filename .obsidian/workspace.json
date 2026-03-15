@@ -35,8 +35,7 @@
               "title": "Diff: histories.json"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +218,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c8ddbab28469fc36",
+  "active": "715a099727f61d38",
   "lastOpenFiles": [
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Bootstrap Island.md",
     "Loisirs/Sport/Sportifs/Daniel Felipe Martinez.md",
