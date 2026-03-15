@@ -16,7 +16,7 @@ Concernant votre devis pour la seconde partie des travaux, nous avons quelques q
 	- Donc il ne faudra pas plus de pente que la situation actuelle
 	- Le futur avant de la maison devra soutenir le poids des voitures.
 - Concernant la végétation actuelle qu'il faudra enlever, est-ce que c'est prévu dans votre prix de terrassement ?
-- Est-ce que vous avez une photo d'un chantier réalisé qui montrerait les L utilisés et le rendu final avec le futur devant de la maison ?
+- Est-ce que vous avez une photo d'un chantier réalisé qui montrerait les L utilisés et un exemple de rendu final avec le futur devant de la maison ?
 - Y'a-t-il des postes où l'on pourrait réduire le prix en prenant une autre option viable ?
 
 Avez-vous déjà une idée niveau planning ?
