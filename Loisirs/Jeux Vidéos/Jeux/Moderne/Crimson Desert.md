@@ -6,14 +6,14 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
 	- Studio : [[Pearl Abyss]]
 	- Personnalités : 
 - **Éditeur** : [[Pearl Abyss]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Action Aventure]]
 - **Résumé** : 
 
 ## Détails Techniques

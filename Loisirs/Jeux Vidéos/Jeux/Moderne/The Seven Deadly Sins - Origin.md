@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Starship Troopers - Ultimate Bug War!
+# The Seven Deadly Sins - Origin
 
 ## Informations Générales
 
@@ -11,9 +11,9 @@ type: game
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
+- **Plateformes** : [[PC]], [[Playstation 5]]
 - **Franchise** : 
-- **Genre** : [[Action Aventure]], [[FPS]]
+- **Genre** : [[Action Aventure]], [[MMORPG]], [[Simulation]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -26,7 +26,6 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- 
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
@@ -40,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/tc5KpCp-CFU |
+| Trailer     | https://youtu.be/vz0iNJtIzkk |

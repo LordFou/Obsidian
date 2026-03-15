@@ -2,18 +2,18 @@
 type: game
 ---
 
-# Starship Troopers - Ultimate Bug War!
+# Shadow Tactics - Blade of the Shogun
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action Aventure]], [[FPS]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -26,7 +26,6 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- 
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
@@ -38,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/tc5KpCp-CFU |
+| Description | URL |
+| ----------- | --- |
+|             |     |

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Starship Troopers - Ultimate Bug War!.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Starship Troopers - Ultimate Bug War!"
+              "title": "Crimson Desert"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pok",
+                "query": "Crimson Dese",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -99,7 +99,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,8 +223,12 @@
   },
   "active": "3dc062f6371095b2",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Pokémon Pokopia.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shadow Tactics - Blade of the Shogun.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Elemental - Reforged.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/MLB The Show 26.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Seven Deadly Sins - Origin.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Starship Troopers - Ultimate Bug War!.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Pokémon Pokopia.md",
     "conflict-files-obsidian-git.md",
     "Franchise Pokemon.md",
     "Travaux Cour - 2e Partie.md",
@@ -249,10 +254,6 @@
     "Georg Steinhauser.md",
     "Lenny Martinez.md",
     "Journal de bord/2026-03-15.md",
-    "Loisirs/Sport/Sportifs/Daniel Felipe Martinez.md",
-    "Jonas Vingegaard.md",
-    "Loisirs/Sport/Sportifs/Stijn Desmet.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cannon Keep.md",
     "Attachments/image-440.webp",
     "Attachments/image-439.webp",
     "Attachments/image-438.webp",
