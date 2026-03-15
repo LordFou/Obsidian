@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "90f1a5d71e887ee5",
+        "id": "44dec30a254ee22f",
         "type": "tabs",
         "children": [
           {
-            "id": "715a099727f61d38",
+            "id": "083cf65d71112257",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Belgian Cats.md",
+                "file": "Travaux Cour - 2e Partie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Belgian Cats"
-            }
-          },
-          {
-            "id": "280d4795546d3690",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/various-complements/histories.json",
-                "bFile": ".obsidian/plugins/various-complements/histories.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: histories.json"
+              "title": "Travaux Cour - 2e Partie"
             }
           }
         ]
@@ -218,8 +204,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "715a099727f61d38",
+  "active": "083cf65d71112257",
   "lastOpenFiles": [
+    "Travaux Cour - 2e Partie.md",
+    "Belgian Cats.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Bootstrap Island.md",
     "Loisirs/Sport/Sportifs/Daniel Felipe Martinez.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Liar Princess and the Blind Prince.md",
@@ -231,7 +219,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cannon Keep.md",
     "Loisirs/Sport/Armand Duplantis.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Pluto.md",
-    "Belgian Cats.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Rewind 99.md",
     "Loisirs/Sport/Sportifs/Dorian Godon.md",
     "Vampire Survivors.md",
@@ -245,7 +232,6 @@
     "Team Fortress 2.md",
     "Systemsoft Beta.md",
     "Siege Wizard Interactive.md",
-    "Sarah Hourcade.md",
     "Attachments/image-440.webp",
     "Attachments/image-439.webp",
     "Attachments/image-438.webp",
