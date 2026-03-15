@@ -1,56 +1,58 @@
 {
   "main": {
-    "id": "9b5738f129032660",
+    "id": "95ca1712faa8aa9c",
     "type": "split",
     "children": [
       {
-        "id": "554c2157de111272",
+        "id": "44dec30a254ee22f",
         "type": "tabs",
         "children": [
           {
-            "id": "96b7e59cd183eee8",
+            "id": "083cf65d71112257",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Franchise Pokemon.md",
+                "file": "Fortnite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Franchise Pokemon"
-            }
-          },
-          {
-            "id": "3dc062f6371095b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Crimson Desert"
+              "title": "Fortnite"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "10646f34a5623bcc",
+    "id": "849482b537eaac43",
     "type": "split",
     "children": [
       {
-        "id": "1a516746cabd1b8e",
+        "id": "f290839097ef2b58",
         "type": "tabs",
         "children": [
           {
-            "id": "2066e9a3d214d366",
+            "id": "2bb9a73ff8daed1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Fortni",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "a47971b47ce877f4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,34 +65,40 @@
             }
           },
           {
-            "id": "eb3c1bcab851ce97",
+            "id": "bab163f298354a9b",
             "type": "leaf",
             "state": {
-              "type": "search",
+              "type": "backlink",
               "state": {
-                "query": "Crimson Dese",
-                "matchingCase": false,
-                "explainSearch": false,
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
                 "collapseAll": true,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               },
-              "icon": "lucide-search",
-              "title": "Rechercher"
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Shovel Knight"
             }
           },
           {
-            "id": "b4ebb1a377404fc4",
+            "id": "b8bdd3190f8c16a1",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Signets"
+              "type": "outgoing-link",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Shovel Knight.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Shovel Knight"
             }
           },
           {
-            "id": "dbacc6f984f28690",
+            "id": "acbfcced6e5eac9a",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -98,57 +106,48 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "68c628d38f8bddd5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ArcticRace.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de ArcticRace"
+            }
+          },
+          {
+            "id": "6d294a252d82d0cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 368.5
   },
   "right": {
-    "id": "424a7915b112611b",
+    "id": "2a4328d55d7357ae",
     "type": "split",
     "children": [
       {
-        "id": "793a32453de58a2b",
+        "id": "6b01a48df7e98e93",
         "type": "tabs",
         "children": [
           {
-            "id": "38e1afb54a3a7718",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Escape from Ever After.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Rétrolien pour Escape from Ever After"
-            }
-          },
-          {
-            "id": "e2303466fd1c8ab2",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Escape from Ever After.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Liens sortants de Escape from Ever After"
-            }
-          },
-          {
-            "id": "9871d3b303142bba",
+            "id": "c84a04fc0e9661e1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -163,32 +162,7 @@
             }
           },
           {
-            "id": "662b93150171007e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Borderlands 4.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Plan de Borderlands 4"
-            }
-          },
-          {
-            "id": "f2d09065e559f000",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "e7e49126b864d5ce",
+            "id": "7b650f1619db0015",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -196,18 +170,29 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "c8ddbab28469fc36",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "bases:Créer une nouvelle base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -216,56 +201,62 @@
       "command-palette:Ouvrir la palette de commandes": false,
       "markdown-importer:Ouvrir l'importateur Markdown": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
-      "obsidian-git:Open Git source control": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "3dc062f6371095b2",
+  "active": "c8ddbab28469fc36",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shadow Tactics - Blade of the Shogun.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Elemental - Reforged.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/MLB The Show 26.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Seven Deadly Sins - Origin.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Starship Troopers - Ultimate Bug War!.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shadow Tactics - Blade of the Shogun.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/MLB The Show 26.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Elemental - Reforged.md",
+    "Georg Steinhauser.md",
+    "Metal Gear Solid Delta - Snake Eater.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Pokémon Pokopia.md",
-    "conflict-files-obsidian-git.md",
     "Franchise Pokemon.md",
-    "Travaux Cour - 2e Partie.md",
+    "Mario.md",
+    "Journal de bord/2026-03-15.md",
+    "Culture/Histoire/Guerres dans le monde.md",
+    "Attachments/image-445.webp",
     "Takamoto Katsuta.md",
+    "Attachments/image-444.webp",
+    "Loisirs/Sport/Compétitions/Rallye du Kenya.md",
     "Loisirs/Sport/Sportifs/Sami Pajari.md",
     "Loisirs/Sport/Sportifs/Adrien Fourmaux.md",
+    "Kimi Antonelli.md",
+    "Attachments/image-443.webp",
+    "Max Verstappen.md",
     "Loisirs/Sport/Compétitions/Grand Prix de Malaisie.md",
     "Giancarlo Fisichella.md",
-    "Attachments/image-445.webp",
-    "Attachments/image-444.webp",
-    "Attachments/image-443.webp",
+    "Loisirs/Sport/Compétitions/Grand Prix de Chine.md",
+    "Jannik Sinner.md",
+    "Daniil Medvedev.md",
+    "Lewis Hamilton.md",
+    "Georges Russell.md",
+    "Carlos Alcaraz.md",
     "Attachments/image-442.webp",
     "Attachments/image-441.webp",
-    "Loisirs/Sport/Equipes/Diables Noirs.md",
-    "Giulio Pellizzari.md",
-    "Tirreno-Adriatico.md",
-    "Loisirs/Sport/Sportifs/Matteo Jorgenson.md",
-    "Paris-Nice.md",
-    "Isaac Del Toro.md",
-    "Jonathan Milan.md",
-    "Laurenz Rex.md",
-    "Ineos.md",
-    "Georg Steinhauser.md",
-    "Lenny Martinez.md",
-    "Journal de bord/2026-03-15.md",
     "Attachments/image-440.webp",
     "Attachments/image-439.webp",
     "Attachments/image-438.webp",
     "Attachments/image-437.webp",
     "Attachments/image-436.webp",
-    "Loisirs/Sport/Compétitions/Sans titre",
     "ZA",
-    "Loisirs/Jeux Vidéos/Généalogie Société.canvas",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
     "Culture/Géographie",
-    "Sans titre"
+    "Loisirs/Jeux Vidéos/Logiciels",
+    "Loisirs/Sport/Statistiques",
+    "Culture/Politique",
+    "Généalogie Matos Atari.canvas",
+    "Historique Jeu Vidéo.canvas",
+    "Génération des consoles de jeux vidéo.canvas",
+    "Loisirs/Jeux Vidéos/Généalogie Société.canvas",
+    "Généalogie des Jeux Vidéos.canvas",
+    "Journal de bord/Archives",
+    "Loisirs/Jeux Vidéos/Moteurs",
+    "Loisirs/Sport/Equipes",
+    "Loisirs/Jeux Vidéos/Généalogie Mr Driller.canvas"
   ]
 }
