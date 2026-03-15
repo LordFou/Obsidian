@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Franchise Pokemon"
             }
+          },
+          {
+            "id": "3dc062f6371095b2",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/various-complements/histories.json",
+                "bFile": ".obsidian/plugins/various-complements/histories.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: histories.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,8 +219,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2066e9a3d214d366",
+  "active": "3dc062f6371095b2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Franchise Pokemon.md",
+    "Travaux Cour - 2e Partie.md",
+    "Takamoto Katsuta.md",
+    "Loisirs/Sport/Sportifs/Sami Pajari.md",
+    "Loisirs/Sport/Sportifs/Adrien Fourmaux.md",
+    "Loisirs/Sport/Compétitions/Grand Prix de Malaisie.md",
+    "Giancarlo Fisichella.md",
+    "Attachments/image-445.webp",
+    "Attachments/image-444.webp",
+    "Attachments/image-443.webp",
+    "Attachments/image-442.webp",
+    "Attachments/image-441.webp",
     "Loisirs/Sport/Equipes/Diables Noirs.md",
     "Giulio Pellizzari.md",
     "Tirreno-Adriatico.md",
@@ -224,24 +252,11 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cannon Keep.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/John Carpenter’s Toxic Commando.md",
     "Left 4 Dead.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/GreedFall - The Dying World.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Liar Princess and the Blind Prince.md",
-    "NIS America.md",
-    "Systemsoft Beta.md",
-    "Nippon Ichi Software.md",
     "Attachments/image-440.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Bootstrap Island.md",
-    "VR.md",
-    "Maru RV.md",
     "Attachments/image-439.webp",
     "Attachments/image-438.webp",
     "Attachments/image-437.webp",
     "Attachments/image-436.webp",
-    "Attachments/image-435.webp",
-    "Attachments/image-434.webp",
-    "Attachments/image-433.webp",
-    "Attachments/image-432.webp",
-    "Attachments/image-431.webp",
     "Loisirs/Sport/Compétitions/Sans titre",
     "ZA",
     "Loisirs/Jeux Vidéos/Généalogie Société.canvas",

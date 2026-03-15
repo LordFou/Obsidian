@@ -26,7 +26,7 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Plus jeune vainqueur d'un grand prix en [[F1]]
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

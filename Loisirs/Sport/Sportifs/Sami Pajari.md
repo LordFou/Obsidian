@@ -2,24 +2,20 @@
 type: personne
 ---
 
-# Georges Russell
+# Sami Pajari
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Anglais
-- **Sport / Discipline** :  F1
-- **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  Mercedes
+- **Nationalité** :  
+- **Sport / Discipline** :  
+- **Poste / Spécialité** (si applicable) : [[Rallye]]
+- **Équipe(s) / Club(s)** :  [[Toyota]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                      | Résultat | Remarque |
-| ----- | -------------------------------- | -------- | -------- |
-| 2025  | [[Grand Prix du Canada]]         | 1ier     |          |
-|       |                                  |          |          |
-| 2026  | [[Grand Prix d'Australie]]       | 1ier     |          |
-| 2026  | [[Grand Prix de Chine]] - Sprint | 1ier     |          |
-| 2026  | [[Grand Prix de Chine]] - Course | 2e       |          |
+| Année | Compétition         | Résultat | Remarque |
+| ----- | ------------------- | -------- | -------- |
+| 2026  | [[Rallye du Kenya]] | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

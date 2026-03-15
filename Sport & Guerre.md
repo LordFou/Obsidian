@@ -3,6 +3,8 @@
 - [[Coupe du Monde]] 2026 aux USA
 	- Participation de l'Iran compromise.
 	- l'Irak réclame le report de son match de barrage en raison de la guerre au Moyen-Orient et du fait que son espace aérien est fermé jusqu'à nouvel ordre.
+- [[F1]] 2026
+	- les [[Grand Prix de Bahreïn]] et le [[Grand Prix d’Arabie saoudite]] annulés à cause de la guerre au Moyen-Orient
 # Ukraine Vs Russie
 - [[JO 2026]]
 	- Impossibilité pour les sportifs russes et biélorusses de participer [aux compétitions de qualifications](Impossibilité pour les sportifs russes et biélorusses de participer aux compétitions de qualifications)

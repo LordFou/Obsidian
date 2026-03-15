@@ -17,6 +17,7 @@ type: personne
 | ----- | -------------------------------- | -------- | -------- |
 | 2025  | [[Grand Prix de Chine]] - Sprint | 1ier     |          |
 | 2026  | [[Grand Prix de Chine]] - Sprint | 2e       |          |
+| 2026  | [[Grand Prix de Chine]] - Course | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
