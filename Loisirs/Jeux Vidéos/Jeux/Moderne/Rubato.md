@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Ghost Master - Resurrection
+# Rubato
 
 ## Informations Générales
 
@@ -11,9 +11,9 @@ type: game
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[PC]], [[PlayStation 5]], [[Xbox Series]], [[Switch]]
+- **Plateformes** : [[PC]], [[PlayStation 5]], [[Switch]]
 - **Franchise** : 
-- **Genre** : [[Stratégie]], [[Puzzle]]
+- **Genre** : [[Action Aventure]], [[RPG]], Collectathon
 - **Résumé** : 
 
 ## Détails Techniques
@@ -28,7 +28,6 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
-	- Des[[ fantômes]]
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
@@ -40,4 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/L7e9wCcU3go |
+| Trailer     | https://youtu.be/fY4pZovL1Uo |

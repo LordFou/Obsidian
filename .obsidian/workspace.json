@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost Master - Resurrection.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ghost Master - Resurrection"
+              "title": "Cairn"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ghost mas",
+                "query": "Cairn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,8 +206,9 @@
   },
   "active": "083cf65d71112257",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Death Stranding 2 - On the Beach.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Rubato.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost Master - Resurrection.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Death Stranding 2 - On the Beach.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
     "Loisirs/Sport/Sportifs/Stijn Desmet.md",
     "Loisirs/Sport/Equipes/Belgian Ice Bears.md",
@@ -232,7 +232,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/MLB The Show 26.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Elemental - Reforged.md",
     "Georg Steinhauser.md",
-    "Metal Gear Solid Delta - Snake Eater.md",
     "Attachments/image-445.webp",
     "Attachments/image-444.webp",
     "Attachments/image-443.webp",

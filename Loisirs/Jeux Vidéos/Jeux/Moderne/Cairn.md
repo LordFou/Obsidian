@@ -36,7 +36,10 @@ type: game
 - **Gameplay** :
 	- On peut vraiment expérimenter l'escalade de la montagne par n'importe quelle voie, vous êtes absolument libre, tout dépend de l'énergie de votre personnage et de vos mouvements.
 	- C'est une vraie simulation, le centre du gameplay est l'escalade.
+	- Chaque membre est indépendant. Chaque bras, chaque jambe, chaque appui demandent une décision.
 	- Le système de grimpe de Cairn s’appuie sur deux “gros algorithmes” qui travaillent ensemble. L’un va contrôler les mouvements du personnage. Si on bouge le stick dans une direction, on va déplacer une main qui va amener avec elle un coude, une épaule, et si on continue, un mouvement de hanche, de genou, un pied qui se déplace, etc. C’est ce qu’on appelle de “l’IK” (inverted kinematics) mais très poussée. L’autre algorithme va calculer les efforts de ces mouvements, les forces mises en œuvre par rapport à l’orientation des prises et la direction de la poussée. C’est ce qui va déterminer si on se fatigue, si on glisse, si on tombe.
+	- Il n’y a pas d’aide invisible. Pas de correction algorithmique
+	- Si on chute, c'est le silence, il n'y a aucun son positif ou négatif
 - **Durée estimée** : 
 
 ## Histoire et Univers
