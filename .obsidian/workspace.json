@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sport & Guerre.md",
+                "file": "Belgian Cats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sport & Guerre"
+              "title": "Belgian Cats"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sport et Guerr",
+                "query": "Belgian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,6 +206,7 @@
   },
   "active": "715a099727f61d38",
   "lastOpenFiles": [
+    "Sport & Guerre.md",
     "Journal de bord/2026-03-15.md",
     "Loisirs/Internet/Les perles du net.md",
     "Culture/Histoire/Guerres dans le monde.md",
@@ -238,7 +239,6 @@
     "Arkea.md",
     "Loisirs/Sport/Compétitions/Flèche de Gooik Oetingen.md",
     "Julie De Wilde.md",
-    "Loisirs/Sport/Sportifs/Megan Jastrab.md",
     "Attachments/image-415.webp",
     "Attachments/image-414.webp",
     "Attachments/image-413.webp",
