@@ -25,14 +25,14 @@
             "id": "3dc062f6371095b2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/various-complements/histories.json",
-                "bFile": ".obsidian/plugins/various-complements/histories.json",
-                "aRef": ""
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Starship Troopers - Ultimate Bug War!.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: histories.json"
+              "icon": "lucide-file",
+              "title": "Starship Troopers - Ultimate Bug War!"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pokemon",
+                "query": "Pok",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -201,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,6 +222,8 @@
   },
   "active": "3dc062f6371095b2",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Pokémon Pokopia.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Starship Troopers - Ultimate Bug War!.md",
     "conflict-files-obsidian-git.md",
     "Franchise Pokemon.md",
     "Travaux Cour - 2e Partie.md",
@@ -250,8 +253,6 @@
     "Jonas Vingegaard.md",
     "Loisirs/Sport/Sportifs/Stijn Desmet.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cannon Keep.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/John Carpenter’s Toxic Commando.md",
-    "Left 4 Dead.md",
     "Attachments/image-440.webp",
     "Attachments/image-439.webp",
     "Attachments/image-438.webp",

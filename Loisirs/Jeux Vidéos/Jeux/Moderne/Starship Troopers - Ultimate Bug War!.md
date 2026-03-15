@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Pokémon Pokopia
+# Starship Troopers - Ultimate Bug War!
 
 ## Informations Générales
 
@@ -11,18 +11,16 @@ type: game
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[Switch 2]]
-- **Franchise** : [[Franchise Pokemon]]
-- **Genre** :
+- **Plateformes** : 
+- **Franchise** : 
+- **Genre** : [[Action Aventure]], [[FPS]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** :
-	- 2 millions et demi de vente en quelques jours
-	- CheckPoint (9/10)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -35,7 +33,6 @@ type: game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
-	- [[Animal Crossing]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
