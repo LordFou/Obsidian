@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                           | Résultat | Remarque |
 | ----- | ------------------------------------- | -------- | -------- |
 | 2024  | [[Championnat du Monde de F1]]        | 1ier     |          |
+| 2025  | [[Grand Prix du Japon]]               | 1ier     |          |
 | 2025  | [[Grand Prix d'Italie]]               | 1ier     |          |
 | 2025  | [[Grand Prix d'Azerbaïdjan]]          | 1ier     |          |
 | 2025  | [[Grand Prix du Qatar]]               | 1ier     |          |
