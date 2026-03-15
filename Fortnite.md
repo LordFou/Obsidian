@@ -6,9 +6,9 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2017
 - **Développeur** : 
-	- Studio : 
+	- Studio : Epic
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
@@ -34,7 +34,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Le jeu est d'abord sorti en mode [[Tower Defense]] avant de connaître le succès avec sa version [[Battle Royale]]
 ## Liens et Ressources
 
 | Description | URL |
