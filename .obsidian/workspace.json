@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Max Verstappen.md",
+                "file": "Karlijn Swinkels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Max Verstappen"
+              "title": "Karlijn Swinkels"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Grand Prix Japon",
+                "query": "Trofeo Binda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,8 +205,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "acbfcced6e5eac9a",
+  "active": "083cf65d71112257",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Trofeo Binda.md",
+    "Karlijn Swinkels.md",
+    "Loisirs/Sport/Compétitions/Grand Prix des USA.md",
+    "Loisirs/Sport/Sportifs/Bam Adebayo.md",
+    "Max Verstappen.md",
     "Loisirs/Sport/Compétitions/Grand Prix du Japon.md",
     "Grand Prix ISU d’Osaka.md",
     "Loisirs/Jeux Vidéos/South of Midnight.md",
@@ -230,12 +235,7 @@
     "Attachments/image-444.webp",
     "Loisirs/Sport/Compétitions/Rallye du Kenya.md",
     "Loisirs/Sport/Sportifs/Sami Pajari.md",
-    "Loisirs/Sport/Sportifs/Adrien Fourmaux.md",
-    "Kimi Antonelli.md",
     "Attachments/image-443.webp",
-    "Max Verstappen.md",
-    "Loisirs/Sport/Compétitions/Grand Prix de Malaisie.md",
-    "Giancarlo Fisichella.md",
     "Attachments/image-442.webp",
     "Attachments/image-441.webp",
     "Attachments/image-440.webp",
