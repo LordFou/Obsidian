@@ -13,11 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                       | Résultat | Remarque |
-| ----- | --------------------------------- | -------- | -------- |
-| 2025  | [[Paris-Nice]] - Classement final | 1ier     |          |
-| 2026  | [[Drôme Classic]]                 | 2e       |          |
-|       |                                   |          |          |
+| Année | Compétition                              | Résultat | Remarque |
+| ----- | ---------------------------------------- | -------- | -------- |
+| 2025  | [[Paris-Nice]] - ==Classement final==    | 1ier     |          |
+| 2026  | [[Drôme Classic]]                        | 2e       |          |
+| 2026  | [[Tirreno-Adriatico]] - Classement final | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

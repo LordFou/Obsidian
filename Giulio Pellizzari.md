@@ -13,13 +13,14 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                          | Résultat | Remarque                              |
-| ----- | ------------------------------------ | -------- | ------------------------------------- |
-| 2025  | [[Tour d'Italie]] - Classement final | 6e       |                                       |
-| 2025  | [[Tour d'Espagne]] - 17e étape       | 1ier     | ==Première Victoire==                 |
-|       |                                      |          |                                       |
-| 2026  | [[Tirreno-Adriatico]] - 2e étape     | 3e       |                                       |
-| 2026  | [[Tirreno-Adriatico]] - 4e étape     | 2e       | :luc_plus: Maillot classement général |
+| Année | Compétition                              | Résultat | Remarque                              |
+| ----- | ---------------------------------------- | -------- | ------------------------------------- |
+| 2025  | [[Tour d'Italie]] - Classement final     | 6e       |                                       |
+| 2025  | [[Tour d'Espagne]] - 17e étape           | 1ier     | ==Première Victoire==                 |
+|       |                                          |          |                                       |
+| 2026  | [[Tirreno-Adriatico]] - 2e étape         | 3e       |                                       |
+| 2026  | [[Tirreno-Adriatico]] - 4e étape         | 2e       | :luc_plus: Maillot classement général |
+| 2026  | [[Tirreno-Adriatico]] - Classement final | 3e       |                                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

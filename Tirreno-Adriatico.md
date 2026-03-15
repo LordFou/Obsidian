@@ -19,6 +19,7 @@ type: event
 | 4e (NDL) | [[Mathieu van der Poel]] | [[Giulio Pellizzari]] |          |        |       | 5e - [[Wout Van Aert]]                              |
 | 5e (DAN) | [[Michael Valgren]]      | [[Isaac Del Toro]]    |          |        |       |                                                     |
 | 6e (MEX) | [[Isaac Del Toro]]       | [[Isaac Del Toro]]    |          |        |       |                                                     |
+| 7e (ITA) | [[Jonathan Milan]]       | [[Isaac Del Toro]]    |          |        |       | 3e - [[Laurenz Rex]]                                |
 ## Femmes
 
 ### Etapes
@@ -31,10 +32,10 @@ type: event
 ### Hommes
 
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur          | Nationalité | Remarque                                                |
+| ----- | ------------------ | ----------- | ------------------------------------------------------- |
+| 2026  | [[Isaac Del Toro]] | Mexicain    | 2e - [[Matteo Jorgenson]]<br>3e - [[Giulio Pellizzari]] |
+|       |                    |             |                                                         |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

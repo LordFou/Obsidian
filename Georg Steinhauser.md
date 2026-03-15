@@ -6,7 +6,7 @@ type: personne
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
+- **Nationalité** :  Allemand
 - **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                       | Résultat | Remarque |
 | ----- | --------------------------------- | -------- | -------- |
 | 2026  | [[Paris-Nice]] - Classement final | 3e       |          |
+| 2026  | [[Paris-Nice]] - Maillot Blanc    | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

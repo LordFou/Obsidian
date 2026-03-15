@@ -39,10 +39,11 @@ type: personne
 |       |                                                                                |          |          |
 | 2026  | [[UAE Tour]] - 1e étape                                                        | 1ier     |          |
 | 2026  | [[UAE Tour]] - 6e étape                                                        | 1ier     |          |
-| 2026  | [[UAE Tour]] - Classement final                                                | 1ier     |          |
+| 2026  | [[UAE Tour]] - ==Classement final==                                            | 1ier     |          |
 | 2026  | [[Strade Bianche]]                                                             | 3e       |          |
 | 2026  | [[Tirreno-Adriatico]] - 2e étape                                               | 2e       |          |
 | 2026  | [[Tirreno-Adriatico]] - 6e étape                                               | 1ier     |          |
+| 2026  | [[Tirreno-Adriatico]] - ==Classement final==                                   | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
