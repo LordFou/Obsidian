@@ -1,28 +1,26 @@
 ---
 type: game
 ---
-![[image-51.webp]]
-# Crimson Desert
+
+# Ghost Master - Resurrection
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Pearl Abyss]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Pearl Abyss]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
+- **Éditeur** : 
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action Aventure]], [[Monde ouvert]]
+- **Genre** : [[Stratégie]], [[Puzzle]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- Démo trop dense
-	- Commandes trop complexes
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 

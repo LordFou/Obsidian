@@ -13,9 +13,11 @@ type: game
 		- [[Hideo Kojima]]
 		- [[Woodkid]]
 - **Éditeur** : [[Sony]]
-- **Plateformes** : [[Playstation 5]]
+- **Plateformes** : 
+	- [[Playstation 5]] (Day One)
+	- [[PC]] (Mars 2026)
 - **Franchise** : [[Franchise Death Stranding|Death Stranding]]
-- **Genre** : [[Action]]
+- **Genre** : [[Action]], [[Aventure]]
 - **Résumé** : 
 	- Suite directe de [[Death Stranding]] 
 
