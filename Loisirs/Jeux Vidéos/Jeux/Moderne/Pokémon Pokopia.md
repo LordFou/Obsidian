@@ -12,7 +12,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : [[Switch 2]]
-- **Franchise** : 
+- **Franchise** : [[Franchise Pokemon]]
 - **Genre** :
 - **Résumé** : 
 
@@ -20,7 +20,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** :
+	- 2 millions et demi de vente en quelques jours
 - **Gameplay** :
 - **Durée estimée** : 
 

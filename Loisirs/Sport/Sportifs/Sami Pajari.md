@@ -1,21 +1,21 @@
 ---
 type: personne
 ---
-![[image-444.webp]]
-# Takamoto Katsuta
+
+# Sami Pajari
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Japonaise
-- **Sport / Discipline** :  [[Rallye]]
-- **Poste / Spécialité** (si applicable) :  
+- **Nationalité** :  
+- **Sport / Discipline** :  
+- **Poste / Spécialité** (si applicable) : [[Rallye]]
 - **Équipe(s) / Club(s)** :  [[Toyota]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
 | Année | Compétition         | Résultat | Remarque |
 | ----- | ------------------- | -------- | -------- |
-| 2026  | [[Rallye du Kenya]] | 1ier     |          |
+| 2026  | [[Rallye du Kenya]] | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

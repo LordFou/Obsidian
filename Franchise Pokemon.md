@@ -25,6 +25,7 @@ content:
 | Titre                      | Année | Plateformes  | Remarque |
 | -------------------------- | ----- | ------------ | -------- |
 | [[Légendes Pokémon - Z-A]] | 2025  | [[Switch 2]] |          |
+| [[Pokémon Pokopia]]        | 2026  | [[Switch 2]] |          |
 
 
 ## Mécaniques et innovations
