@@ -28,7 +28,14 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 # Controverses ou Événements Importants
 - Commence la F1 à 17 ans sans son permis
 - Premier podium en 2025 au [[Grand Prix du Canada]] (3e)
-- Première victoire en 2026 au [[Grand Prix de Chine]] => 2e plus jeune vainqueur en [[F1]] derrière [[Max Verstappen]]
+- Grand Prix de Chine 2026
+	- Première victoire en F1
+	- 2e plus jeune vainqueur en [[F1]] derrière [[Max Verstappen]]
+	- Plus jeune Poleman de l'histoire, il prend le record de [[Sebastian Vettel]] (2008)
+	- Il devient également le plus jeune pilote à réaliser un "hat-trick", Il détrône encore [[Sebastian Vettel]], qui avait réalisé cet exploit à Silverstone en 2009.
+		- La victoire
+		- La pole 
+		- Le tour le plus rapide. 
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
