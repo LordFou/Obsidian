@@ -8,6 +8,9 @@ type: societe
 - Au tout début c'est une boutique informatique de genre cybercafé.
 - L'entreprise n'est pas très stable financièrement, et tout commence avec [[Final Fantasy]]
 - A la fusion avec [[Enix]], ils sont 1000
+- L'entreprise est bcp en mode yolo niveau organisation
+	- Recrutement dans la rue
+	- Adaptation d'un jeu télévisé sans penser au copyright
 
 ## Informations Générales
 - **Nom complet** :  

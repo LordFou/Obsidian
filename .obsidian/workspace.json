@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final Fantasy.md",
+                "file": "Square Soft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Final Fantasy"
+              "title": "Square Soft"
             }
           }
         ]
@@ -207,9 +207,9 @@
   },
   "active": "72c68241017033ef",
   "lastOpenFiles": [
+    "Final Fantasy.md",
     "Square Soft.md",
     "Dragon Quest.md",
-    "Final Fantasy.md",
     "Loisirs/Jeux Vidéos/Sociétés/Enix.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Ultima.md",
     "Richard Garriot.md",
