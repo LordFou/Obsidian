@@ -22,6 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
+	- Pas de possibilité de sauvegarde => système de mot de passe pour reprendre à des endroits donnés ([[Sauvegarde par mot de passe]])
 - **Durée estimée** : 
 
 ## Histoire et Univers
@@ -37,7 +38,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- Dragon Quest est en fait un des premiers [[JRPG]], c'est à dire une transposition du [[RPG]] américain de l'époque.
+- Dragon Quest est en fait un des premiers [[JRPG]], c'est à dire une transposition du [[RPG]] américain de l'époque ([[Wizardry]], [[Ultima]])
 ## Liens et Ressources
 
 | Description | URL |
