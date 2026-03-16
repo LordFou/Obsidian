@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Aryna Sabalenka.md",
+                "file": "Jannik Sinner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aryna Sabalenka"
+              "title": "Jannik Sinner"
             },
             "group": "8df786f510f0725e"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Aryna Sabalenka.md",
+                "file": "Jannik Sinner.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Aryna Sabalenka"
+              "title": "Graphique de Jannik Sinner"
             },
             "group": "8df786f510f0725e"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Aryna Sabalenka",
+                "query": "Tournoi de Dub",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,13 +253,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "acbfcced6e5eac9a",
+  "active": "083cf65d71112257",
   "lastOpenFiles": [
-    "Loisirs/Sport/Sportifs/Elena Rybakina.md",
+    "Attachments/image-449.webp",
+    "Attachments/image-448.webp",
     "Loisirs/Sport/Compétitions/Tournoi Indian Wells.md",
     "Loisirs/Sport/Aryna Sabalenka.md",
     "Daniil Medvedev.md",
+    "Loisirs/Sport/Compétitions/Tournoi de Dubaï.md",
     "Jannik Sinner.md",
+    "Iga Swiatek.md",
+    "Serena Williams.md",
+    "Loisirs/Sport/Sportifs/Elena Rybakina.md",
     "Loisirs/Sport/Sportifs/Oliver Bearman.md",
     "Loisirs/Sport/Compétitions/Grand Prix d'Australie.md",
     "Oscar Piastri.md",
@@ -279,10 +284,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Rubato.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost Master - Resurrection.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Death Stranding 2 - On the Beach.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
-    "Loisirs/Sport/Sportifs/Stijn Desmet.md",
-    "Loisirs/Sport/Equipes/Belgian Ice Bears.md",
     "Attachments/image-445.webp",
     "Attachments/image-444.webp",
     "Attachments/image-443.webp",
@@ -290,7 +291,6 @@
     "Attachments/image-441.webp",
     "Attachments/image-440.webp",
     "Attachments/image-439.webp",
-    "Attachments/image-438.webp",
     "ZA",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",

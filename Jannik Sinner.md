@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-449.webp]]
 # Jannik Sinner
 
 # Informations Générales
@@ -26,7 +26,7 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- 6 trophées en Masters 1000
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

@@ -11,6 +11,7 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
+- **Top Ranking** : 2e
 
 # Palmarès et Distinctions
 | Année | Compétition              | Résultat  | Remarque                           |

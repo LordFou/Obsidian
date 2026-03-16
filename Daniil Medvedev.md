@@ -13,10 +13,15 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition              | Résultat  | Remarque                         |
-| ----- | ------------------------ | --------- | -------------------------------- |
-| 2021  | [[US Open]]              | Vainqueur |                                  |
-| 2026  | [[Tournoi Indian Wells]] | Finale    | Défaite contre [[Jannik Sinner]] |
+| Année | Compétition              | Résultat  | Remarque                          |
+| ----- | ------------------------ | --------- | --------------------------------- |
+| 2021  | [[US Open]]              | Vainqueur |                                   |
+| 2023  | [[Tournoi Indian Wells]] | Finale    | Défaite contre [[Carlos Alcaraz]] |
+| 2024  | [[Tournoi Indian Wells]] | Finale    | Défaite contre [[Carlos Alcaraz]] |
+|       |                          |           |                                   |
+| 2026  | [[Tournoi de Dubaï]]     | Vainqueur |                                   |
+| 2026  | [[Tournoi Indian Wells]] | Finale    | Défaite contre [[Jannik Sinner]]  |
+|       |                          |           |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
