@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : [[Franchise Dragon Quest]]
-- **Genre** :
+- **Genre** : [[JRPG]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -31,10 +31,13 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Wizardry]]
+	- [[The Black Onyx]]
+	- [[Ultima]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Dragon Quest est en fait un des premiers [[JRPG]], c'est à dire une transposition du [[RPG]] américain de l'époque.
 ## Liens et Ressources
 
 | Description | URL |

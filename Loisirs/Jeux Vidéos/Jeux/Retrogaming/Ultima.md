@@ -1,9 +1,13 @@
+---
+type: game
+---
+
 # Ultima I : The First Age Of Darkness
 
 ![[Pasted image 20250327004037.png]]
 ## Informations Générales
 
-- **Année de sortie** : [[1981]]
+- **Année de sortie** : 1981
 - **Développeur** : 
 	- Studio : [[Origin Systems]]
 	- Personnalités : [[Richard Garriot]]
