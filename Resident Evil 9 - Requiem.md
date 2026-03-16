@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-![[image-275.webp]]
+![[image-447.webp]]
 # Resident Evil Requiem
 
 ## Informations Générales
@@ -44,6 +44,7 @@ type: game
 - Day One sur la [[Switch 2]]
 - 335k joueurs en simultané lors du premier WE de lancement.
 - 5 Millions de vente durant les 4 premiers jours
+- Total Vente : 6 millions
 ## Liens et Ressources
 
 | Description | URL                          |

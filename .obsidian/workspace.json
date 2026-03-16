@@ -6,6 +6,7 @@
       {
         "id": "44dec30a254ee22f",
         "type": "tabs",
+        "dimension": 71.3527851458886,
         "children": [
           {
             "id": "083cf65d71112257",
@@ -13,13 +14,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-03-16.md",
+                "file": "Resident Evil 9 - Requiem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-16"
-            }
+              "title": "Resident Evil 9 - Requiem"
+            },
+            "group": "8df786f510f0725e"
+          }
+        ]
+      },
+      {
+        "id": "704584201131afe2",
+        "type": "tabs",
+        "dimension": 28.647214854111407,
+        "children": [
+          {
+            "id": "2c68a3938a5d95f5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Resident Evil 9 - Requiem.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224422,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graphique de Resident Evil 9 - Requiem"
+            },
+            "group": "8df786f510f0725e"
           }
         ]
       }
@@ -40,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Cairn",
+                "query": "Resi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -186,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,8 +254,11 @@
   },
   "active": "083cf65d71112257",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
+    "Attachments/image-447.webp",
+    "Attachments/image-446.webp",
     "Journal de bord/2026-03-16.md",
+    "Emeric Thoa.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Rubato.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost Master - Resurrection.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Death Stranding 2 - On the Beach.md",
@@ -230,8 +281,6 @@
     "Fortnite.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Seven Deadly Sins - Origin.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Starship Troopers - Ultimate Bug War!.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shadow Tactics - Blade of the Shogun.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/MLB The Show 26.md",
     "Attachments/image-445.webp",
     "Attachments/image-444.webp",
     "Attachments/image-443.webp",
@@ -241,7 +290,6 @@
     "Attachments/image-439.webp",
     "Attachments/image-438.webp",
     "Attachments/image-437.webp",
-    "Attachments/image-436.webp",
     "ZA",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",
