@@ -15,10 +15,13 @@
 			- Allemagne
 		- Les européens qui réagissent
 			- Espagne
+	- Il crée un groupe pour la paix en parallèle de l'ONU... y'a quand même 2 pays européens dedans... 
+	  ![[image-452.webp]]
 - Février 2026
 	- [[Donald Trump]] et [[Benjamin Netanayou]] attaque l'[[Iran]] => [[Guerres dans le monde]]
 - Mars 2026
 	- Le compte Twitter de la [[Maison Blanche]] n'a plus vraiment de sens. [[Donald Trump]] y fait déposer merde sur merde
+	- ![[image-453.webp]]
 - Juin 2026
 	- Combat de MMA organisé dans le jardin de la [[Maison Blanche]] => [Article](https://www.rtbf.be/article/des-combats-dans-le-jardin-de-la-maison-blanche-pour-l-anniversaire-de-trump-l-evenement-mma-le-plus-attendu-de-l-histoire-11692028)
 - 
