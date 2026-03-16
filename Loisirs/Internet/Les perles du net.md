@@ -14,6 +14,7 @@
 - https://2025.gamesrecap.io/
 - https://fromsmash.com/fr => transfert de fichiers
 - https://flourish.studio/pricing/ => créer une ligne du temps ou un tableau
+- https://schelling.itch.io/dosbox-pure => Emulation jeu dos
 
 # Effet Streisand - Cheh !
 - https://bsky.app/profile/daronyoshi.ca/post/3lqtzwhupfc2d
