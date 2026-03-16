@@ -23,6 +23,8 @@ content:
 ## Jeux principaux
 | Titre                           | Année                         | Plateformes                                             | Remarque |
 | ------------------------------- | ----------------------------- | ------------------------------------------------------- | -------- |
+| [[Dragon Quest]]                |                               |                                                         |          |
+| [[Dragon Quest II]]             |                               |                                                         |          |
 | [[Dragon Quest 7]]              | 2000 (?)                      |                                                         |          |
 | [[Dragon Quest 7]]              | 2013 (Japon)<br>2016 (Europe) | [[3DS]]                                                 |          |
 | [[Dragon Quest VII Reimagined]] | 2026                          | [[PC]], [[Playstation 5]], [[Xbox Series]],[[Switch 2]] |          |

@@ -2,20 +2,17 @@
 type: game
 ---
 
-# Final Fantasy
+# Dragon Quest II
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Square Soft]]
+	- Studio : 
 	- Personnalités : 
-		- [[Hironobu Sakaguchi]]
-		- [[Nobuo Uematsu]] (Compositeur)
-		- [[Yoshitaka Amano]] (Artiste)
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Final Fantasy]]
+- **Franchise** : 
 - **Genre** :
 - **Résumé** : 
 
@@ -37,8 +34,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- [[Final Fantasy]] est une réponse à [[Dragon Quest]]
-- Pas bcp d'intérêt dans la presse 
+- 
 ## Liens et Ressources
 
 | Description | URL |

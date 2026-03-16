@@ -10,6 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
+		- [[Akira Toriyama]] (character designer)
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : [[Franchise Dragon Quest]]
@@ -20,7 +21,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** :
+	- 1,5 millions d'exemplaire
 - **Gameplay** :
 	- Pas de possibilité de sauvegarde => système de mot de passe pour reprendre à des endroits donnés ([[Sauvegarde par mot de passe]])
 - **Durée estimée** : 
