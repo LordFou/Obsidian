@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Max Verstappen.md",
+                "file": "Loisirs/Sport/Aryna Sabalenka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Max Verstappen"
+              "title": "Aryna Sabalenka"
             },
             "group": "8df786f510f0725e"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Max Verstappen.md",
+                "file": "Loisirs/Sport/Aryna Sabalenka.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Max Verstappen"
+              "title": "Graphique de Aryna Sabalenka"
             },
             "group": "8df786f510f0725e"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Max",
+                "query": "Aryna Sabalenka",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,7 +179,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -252,10 +253,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "083cf65d71112257",
+  "active": "acbfcced6e5eac9a",
   "lastOpenFiles": [
-    "Mario Kart World.md",
+    "Loisirs/Sport/Sportifs/Elena Rybakina.md",
+    "Loisirs/Sport/Compétitions/Tournoi Indian Wells.md",
+    "Loisirs/Sport/Aryna Sabalenka.md",
+    "Daniil Medvedev.md",
+    "Jannik Sinner.md",
+    "Loisirs/Sport/Sportifs/Oliver Bearman.md",
+    "Loisirs/Sport/Compétitions/Grand Prix d'Australie.md",
+    "Oscar Piastri.md",
     "Max Verstappen.md",
+    "Mario Kart World.md",
     "Lewis Hamilton.md",
     "Sebastian Vettel.md",
     "Loisirs/Sport/Compétitions/Grand Prix d'Angleterre.md",
@@ -274,14 +283,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
     "Loisirs/Sport/Sportifs/Stijn Desmet.md",
     "Loisirs/Sport/Equipes/Belgian Ice Bears.md",
-    "Loisirs/Sport/Sportifs/Hanne Desmet.md",
-    "Tineke den Dulk.md",
-    "Ward Petre.md",
-    "Karlijn Swinkels.md",
-    "Loisirs/Sport/Compétitions/Trofeo Binda.md",
-    "Loisirs/Sport/Compétitions/Grand Prix des USA.md",
-    "Loisirs/Sport/Sportifs/Bam Adebayo.md",
-    "Loisirs/Sport/Compétitions/Grand Prix du Japon.md",
     "Attachments/image-445.webp",
     "Attachments/image-444.webp",
     "Attachments/image-443.webp",

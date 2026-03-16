@@ -2,21 +2,21 @@
 type: personne
 ---
 
-# Daniil Medvedev
+# Oliver Bearman
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Russe
-- **Sport / Discipline** :  [[Tennis]]
+- **Nationalité** :  
+- **Sport / Discipline** :  [[F1]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Haas]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition              | Résultat  | Remarque                         |
-| ----- | ------------------------ | --------- | -------------------------------- |
-| 2021  | [[US Open]]              | Vainqueur |                                  |
-| 2026  | [[Tournoi Indian Wells]] | Finale    | Défaite contre [[Jannik Sinner]] |
+| Année | Compétition             | Résultat | Remarque |
+| ----- | ----------------------- | -------- | -------- |
+| 2026  | [[Grand Prix de Chine]] | 5e       |          |
+|       |                         |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

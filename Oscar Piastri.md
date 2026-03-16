@@ -20,6 +20,7 @@ type: personne
 | 2025  | [[Grand Prix des Pays-Bas]] | 1ier     |                           |
 |       |                             |          |                           |
 | 2026  | [[Grand Prix d'Australie]]  | Abandon  | Sortie au tour de chauffe |
+| 2026  | [[Grand Prix de Chine]]     | Forfait  | Problème Technique        |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
