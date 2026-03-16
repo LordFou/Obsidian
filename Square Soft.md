@@ -7,6 +7,7 @@ type: societe
 ## Présentation
 - Au tout début c'est une boutique informatique de genre cybercafé.
 - L'entreprise n'est pas très stable financièrement, et tout commence avec [[Final Fantasy]]
+- A la fusion avec [[Enix]], ils sont 1000
 
 ## Informations Générales
 - **Nom complet** :  
@@ -35,6 +36,7 @@ content:
 
 ## Style et Influence
 - Il travaille par équipe d'employés sur un projet/jeu avec quelques freelances mais c'est marginal
+- A la fusion avec [[Enix]], ils sont 1000
 
 ## Succès et Récompenses
 Lister les prix, distinctions ou records obtenus.

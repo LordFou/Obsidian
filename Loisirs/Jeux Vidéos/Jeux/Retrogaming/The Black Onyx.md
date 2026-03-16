@@ -1,19 +1,20 @@
 ---
 type: game
 ---
-![[image-384.webp]]
-# The Portopia Serial Murder Case
+
+# The Black Onyx
 
 ## Informations Générales
 
-- **Année de sortie** : 1983
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Enix]]
+	- Studio : 
 	- Personnalités : 
+		- Hank Rogers (?)
 - **Éditeur** : 
-- **Plateformes** : [[Micro-ordinateur]], [[Famicom]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Aventure Texte]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
