@@ -2,22 +2,20 @@
 type: personne
 ---
 
-# Lewis Hamilton
+# Sebastian Vettel
 
 # Informations Générales
-- **Date de naissance** :  1984
-- **Nationalité** :  Anglais
-- **Sport / Discipline** :  [[F1]]
+- **Date de naissance** :  
+- **Nationalité** :  
+- **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Mercedes]],[[Ferrari]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                      | Résultat | Remarque |
-| ----- | -------------------------------- | -------- | -------- |
-| 2025  | [[Grand Prix de Chine]] - Sprint | 1ier     |          |
-| 2026  | [[Grand Prix de Chine]] - Sprint | 2e       |          |
-| 2026  | [[Grand Prix de Chine]] - Course | 3e       |          |
+| Année | Compétition                 | Résultat | Remarque |
+| ----- | --------------------------- | -------- | -------- |
+| 2009  | [[Grand Prix d'Angleterre]] | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
