@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resident Evil 9 - Requiem.md",
+                "file": "Loisirs/Sport/Compétitions/Grand Prix de Chine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resident Evil 9 - Requiem"
+              "title": "Grand Prix de Chine"
             },
             "group": "8df786f510f0725e"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resident Evil 9 - Requiem.md",
+                "file": "Loisirs/Sport/Compétitions/Grand Prix de Chine.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Resident Evil 9 - Requiem"
+              "title": "Graphique de Grand Prix de Chine"
             },
             "group": "8df786f510f0725e"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Resi",
+                "query": "Grand Prix de Chin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,6 +254,7 @@
   },
   "active": "083cf65d71112257",
   "lastOpenFiles": [
+    "Resident Evil 9 - Requiem.md",
     "Attachments/image-447.webp",
     "Attachments/image-446.webp",
     "Journal de bord/2026-03-16.md",
@@ -289,7 +290,6 @@
     "Attachments/image-440.webp",
     "Attachments/image-439.webp",
     "Attachments/image-438.webp",
-    "Attachments/image-437.webp",
     "ZA",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",
