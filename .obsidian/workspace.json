@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wild Streets.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wild Streets"
+              "title": "Animaux dans les jeux vidéos"
             },
             "group": "82c46cae6ab95059"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Wild Streets.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Wild Streets"
+              "title": "Graphique de Animaux dans les jeux vidéos"
             },
             "group": "82c46cae6ab95059"
           }
@@ -254,8 +254,9 @@
   },
   "active": "72c68241017033ef",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
     "Wild Streets.md",
+    "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
+    "Attachments/image-457.webp",
     "Ecco The Dolphin.md",
     "Sonic.md",
     "Journal de bord/2026-03-17.md",
@@ -281,7 +282,6 @@
     "Isaac Del Toro.md",
     "Attachments/image-456.webp",
     "Attachments/image-455.webp",
-    "Cory Balrog.md",
     "Attachments/image-454.webp",
     "Attachments/image-453.webp",
     "Attachments/image-452.webp",
@@ -289,7 +289,6 @@
     "Attachments/image-450.webp",
     "Attachments/image-449.webp",
     "Attachments/image-448.webp",
-    "Attachments/image-447.webp",
     "ZA",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",

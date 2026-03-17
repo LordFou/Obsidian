@@ -17,7 +17,7 @@ content: En gros une mascotte pour attirer le chaland. Seule exception, [[Ecco T
 
 date: 1990 ->
 title: Les compagnons de jeu arrivent
-content: Un des premiers jeux sera [[Wild Streets]] où une panthère accompagne le héros.
+content: Un des premiers jeux sera [[Wild Streets]] où une panthère accompagne le héros. Elle accompagne le joueur pour l'aider mais il n'a aucun contrôle sur celle-ci. Voulu ou non, ce détail donne un certain libre arbitre à l'animal.
 ```
 
 

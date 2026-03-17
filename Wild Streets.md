@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-457.webp]]
 # Wild Streets
 
 ## Informations Générales
@@ -22,7 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
-	- Une panthère accompagne le joueur pour l'aider mais il n'a aucun contrôle sur celle-ci
+	- Une panthère accompagne le joueur pour l'aider mais il n'a aucun contrôle sur celle-ci. Voulu ou non, ce détail donne un certain libre arbitre à l'animal.
 - **Durée estimée** : 
 
 ## Histoire et Univers
