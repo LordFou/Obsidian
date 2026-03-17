@@ -11,6 +11,7 @@
 
 # Récupération animale
 - Même si les animaux sont de mieux en mieux représentés et présents dans les mondes ouverts, ils sont toujours principalement chassés, servent de monnaie ou de nourriture.
+- Quand on est dans un contexte historique, cela paraît acceptable pour coller à la réalité mais quand c'est une activité annexe comme dans [[Resident Evil 8 - Village]], ça paraît inutile et ça véhicule un message ambigu.
 
 ```timeline-labeled
 [line-5, body-2]
