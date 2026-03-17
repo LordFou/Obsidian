@@ -19,7 +19,52 @@
               },
               "icon": "lucide-file",
               "title": "Duck Hunt"
-            }
+            },
+            "group": "364def6d51aca1ac"
+          }
+        ]
+      },
+      {
+        "id": "9040d1006f85b210",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cbfe4a5225c34f1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Duck Hunt.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graphique de Duck Hunt"
+            },
+            "group": "364def6d51aca1ac"
           }
         ]
       }
@@ -40,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Animaux dans l",
+                "query": "Duck",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,8 +251,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "72c68241017033ef",
+  "active": "7cbfe4a5225c34f1",
   "lastOpenFiles": [
+    "Attachments/image-454.webp",
+    "Loisirs/Jeux Vidéos/Périphériques/Light Beam Gun Duck Hunt.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Duck Hunt.md",
     "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Frogger.md",
     "Steven Spielberg.md",
@@ -235,9 +283,6 @@
     "Loisirs/Jeux Vidéos/Sociétés/Origin Systems.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Wizardry.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/The Black Onyx.md",
-    "Loisirs/Jeux Vidéos/Jeux/Sans titre.md",
-    "The Portopia Serial Murder Case.md",
-    "Square Enix.md",
     "Attachments/image-449.webp",
     "Attachments/image-448.webp",
     "Attachments/image-447.webp",
