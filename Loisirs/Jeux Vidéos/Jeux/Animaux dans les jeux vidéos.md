@@ -7,7 +7,8 @@
 
 # Virtualisation de l'animal
 - Pour [[God of War - Ragnarök]], [[Cory Balrog]] s'est justifié face aux plaintes d'une association de défense pour les animaux (PETA) en leur demandant s'ils étaient au courant que les animaux n'étaient pas réels.
-- Cela justifie-t-il que tout animal virtuel peut-être maltraité, tué, utilisé car virtuel ?
+- Cela justifie-t-il que tout animal virtuel peut-être maltraité, tué, utilisé car virtuel ? C'est vrai que contrairement au cinéma, la question du bien-être animal se pose beaucoup moins.
+- 
 
 
 | Jeu                       | Animal     | Position | Remarque                                                           |
@@ -18,3 +19,7 @@
 | [[Frogger]]               | Grenouille | Joueur   | Le jeu comprend aussi des tortues, loutres, serpents et alligators |
 | [[Duck Hunt]]             | Canard     | Chassé   |                                                                    |
 | [[God of War - Ragnarök]] | Loup       | Chassé   | 18 mètres la bête ^^                                               |
+/*--------------*/
+Bibliographie 
+/*--------------*/
+- Culture JV #116 - Animaux et jeux vidéos
