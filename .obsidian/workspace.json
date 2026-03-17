@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Internet/Les perles du net.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/The Oregon Trail.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Les perles du net"
+              "title": "The Oregon Trail"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "perles",
+                "query": "Animaux dans l",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -207,6 +208,12 @@
   },
   "active": "72c68241017033ef",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
+    "Hideki Sato.md",
+    "Advance Create.md",
+    "Sony.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/The Patricians.md",
+    "Loisirs/Internet/Les perles du net.md",
     "Donald Trump.md",
     "Attachments/image-453.webp",
     "Attachments/image-452.webp",
@@ -233,12 +240,6 @@
     "Loisirs/Sport/Compétitions/Tournoi Indian Wells.md",
     "Loisirs/Sport/Aryna Sabalenka.md",
     "Daniil Medvedev.md",
-    "Loisirs/Sport/Compétitions/Tournoi de Dubaï.md",
-    "Iga Swiatek.md",
-    "Serena Williams.md",
-    "Loisirs/Sport/Sportifs/Elena Rybakina.md",
-    "Loisirs/Sport/Sportifs/Oliver Bearman.md",
-    "Loisirs/Sport/Compétitions/Grand Prix d'Australie.md",
     "Attachments/image-447.webp",
     "Attachments/image-446.webp",
     "Attachments/image-445.webp",
