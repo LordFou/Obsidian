@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[Pasted image 20250712235822.png]]
+![[image-455.webp]]
 # Isaac Del Toro
 
 # Informations Générales

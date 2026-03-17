@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
+                "file": "Isaac Del Toro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Animaux dans les jeux vidéos"
+              "title": "Isaac Del Toro"
             },
             "group": "364def6d51aca1ac"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
+                "file": "Isaac Del Toro.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -59,12 +59,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.713275462622442,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Animaux dans les jeux vidéos"
+              "title": "Graphique de Isaac Del Toro"
             },
             "group": "364def6d51aca1ac"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "God of",
+                "query": "isaac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,8 +179,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,8 +254,11 @@
   },
   "active": "72c68241017033ef",
   "lastOpenFiles": [
-    "Cory Balrog.md",
+    "Attachments/image-456.webp",
+    "Attachments/image-455.webp",
+    "Journal de bord/2026-03-17.md",
     "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
+    "Cory Balrog.md",
     "God of War - Ragnarök.md",
     "God Of War.md",
     "Franchise God of War.md",
@@ -284,13 +286,10 @@
     "Dragon Quest II.md",
     "Loisirs/Jeux Vidéos/Sociétés/Enix.md",
     "Square Soft.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Ultima.md",
-    "Richard Garriot.md",
     "Attachments/image-449.webp",
     "Attachments/image-448.webp",
     "Attachments/image-447.webp",
     "Attachments/image-446.webp",
-    "Attachments/image-445.webp",
     "ZA",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",
