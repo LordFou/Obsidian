@@ -22,10 +22,11 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre               | Année | Plateformes | Remarque |
-| ------------------- | ----- | ----------- | -------- |
-| [[Amnesia]]         |       |             |          |
-| [[Amnesia Rebirth]] |       |             |          |
+| Titre                          | Année | Plateformes | Remarque |
+| ------------------------------ | ----- | ----------- | -------- |
+| [[Amnesia]]                    |       |             |          |
+| [[Amnesia Rebirth]]            |       |             |          |
+| [[Amnesia - The Dark Descent]] |       |             |          |
 
 
 ## Mécaniques et innovations

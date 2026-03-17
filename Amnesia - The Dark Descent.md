@@ -2,17 +2,17 @@
 type: game
 ---
 
-# This War of Mine
+# Amnesia - The Dark Descent
 
 ## Informations Générales
 
-- **Année de sortie** : 2014
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[11 bit studios]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise Amnesia]]
 - **Genre** :
 - **Résumé** : 
 
