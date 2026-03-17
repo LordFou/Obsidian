@@ -1,4 +1,3 @@
-
 # La représentation des animaux dans les jeux vidéo
 ## Vu comme une menace
 - En 1975, [[Shark Jaws]] est un des premiers jeux avec une représentation visuelle d'un animal, le requin est une menace. Cet animal sera d'ailleurs au centre du film de [[Steven Spielberg]] la même année.
@@ -24,8 +23,12 @@
 
 ## Conclusion
 
-Il y a encore du chemin pour que le jeu
+Il y a encore du chemin pour que le jeu vidéo, même si virtuel, prenne au sérieux le bien-être animal comme dans la il essaie de le faire dans la réalité.
 
+
+# L'Anthropomorphisme - une certaine façon de se rapprocher des animaux.
+
+Rappel Définition : 
 # Timeline
 ```timeline-labeled
 [line-5, body-2]
