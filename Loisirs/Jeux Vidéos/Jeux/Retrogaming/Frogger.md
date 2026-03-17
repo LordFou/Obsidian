@@ -1,3 +1,7 @@
+---
+type: game
+---
+
 # Frogger
 
 ![[Pasted image 20250327005513.png]]

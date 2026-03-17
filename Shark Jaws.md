@@ -2,19 +2,19 @@
 type: game
 ---
 
-# Duck Hunt
+# Shark Jaws
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 1975
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[NES]]
+- **Plateformes** : 
 - **Franchise** : 
 - **Genre** :
-- **Résumé** : vous incarnez un chasseur q
+- **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -39,4 +39,4 @@ type: game
 
 | Description | URL |
 | ----------- | --- |
-|        
+|             |     |

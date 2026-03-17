@@ -1,5 +1,5 @@
 ---
-type: personne
+type: game
 ---
 
 # The Oregon Trail
