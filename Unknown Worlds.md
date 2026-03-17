@@ -12,6 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
+	- [[Ted Gill]] 
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
@@ -24,7 +25,7 @@ content:
 
 date: Aout 2025
 title: [[Krafton]] dégraisse [[Subnautica 2]]
-content: Les 3 fondateurs de [[Unknown World Entertainment]] sont virés peu avant la sortie de [[Subnautica 2]]
+content: Les 3 fondateurs de [[Unknown Worlds]] sont virés peu avant la sortie de [[Subnautica 2]]
 
 ```
 

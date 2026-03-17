@@ -8,7 +8,7 @@ type: game
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Unknown World Entertainment]]
+	- Studio : [[Unknown Worlds]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
