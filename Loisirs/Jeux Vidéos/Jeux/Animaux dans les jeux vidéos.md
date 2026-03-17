@@ -11,9 +11,12 @@
 
 # Récupération animale
 - Même si les animaux sont de mieux en mieux représentés et présents dans les mondes ouverts, ils sont toujours principalement chassés, servent de monnaie ou de nourriture.
-- Quand on est dans un contexte historique, cela paraît acceptable pour coller à la réalité mais quand c'est une activité annexe comme dans [[Resident Evil 8 - Village]], ça paraît inutile et ça véhicule un message ambigu.
+- Quand on est dans un contexte historique, cela paraît acceptable pour coller à la réalité mais quand c'est une activité annexe comme dans [[Resident Evil 8 - Village]], ça paraît inutile et ça véhicule un message ambigu. Autre exemple, le combat de coq dans [[Far Cry 6]].
 - Dans [[Fallout - New Vegas]], une jauge de morale est présente et elle baisse quand on tue des animaux dit domestique.
 - Le jeu vidéo se plante aussi dans la représentation de leur comportement, notamment pour les loups que l'on représente souvent comme agressifs.
+
+# Vers plus de considération
+- Dans [[The Last of Us Part II]], le studio nous met en situation inconfortable (il cherche à nous sentir coupable) si on décide de combattre les chiens entrainés par une milice. Mais on peut quasi tout éviter.
 
 ```timeline-labeled
 [line-5, body-2]
