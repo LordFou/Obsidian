@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost of Yoteï.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Animaux dans les jeux vidéos"
+              "title": "Ghost of Yoteï"
             },
             "group": "82c46cae6ab95059"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost of Yoteï.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Animaux dans les jeux vidéos"
+              "title": "Graphique de Ghost of Yoteï"
             },
             "group": "82c46cae6ab95059"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Minds",
+                "query": "Ghost of",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,8 +254,11 @@
   },
   "active": "72c68241017033ef",
   "lastOpenFiles": [
-    "That Cow.md",
+    "Loisirs/Jeux Vidéos/Personnalités/Tomonobu Itagaki.md",
+    "Tecmo.md",
+    "Franchise Dead or Alive.md",
     "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
+    "That Cow.md",
     "Alexey Botkov.md",
     "Stray.md",
     "Maneater.md",
@@ -278,9 +281,6 @@
     "Battletoads.md",
     "Aero The Acro-Bat.md",
     "Star Fox.md",
-    "Mr Nutz.md",
-    "Loisirs/Sport/Compétitions/Trofeo Laigueglia.md",
-    "Samyn Classic.md",
     "Attachments/image-456.webp",
     "Attachments/image-455.webp",
     "Attachments/image-454.webp",
