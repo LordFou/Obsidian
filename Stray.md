@@ -2,13 +2,13 @@
 type: game
 ---
 
-# The Last of Us Part II
+# Stray
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Naughty Dog]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 

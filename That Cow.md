@@ -2,19 +2,20 @@
 type: game
 ---
 
-# The Last of Us Part II
+# That Cow
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Naughty Dog]]
+	- Studio : 
 	- Personnalités : 
+		- [[Alexey Botkov]] (Créateur)
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :
-- **Résumé** : 
+- **Résumé** : jeu militant où on incarne une vache déambulant dans un abattoir.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -30,11 +31,12 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[L'abattage animal]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Créé en 48 heures chrono
 ## Liens et Ressources
 
 | Description | URL |

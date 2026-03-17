@@ -2,19 +2,19 @@
 type: game
 ---
 
-# The Last of Us Part II
+# Maneater
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2021
 - **Développeur** : 
-	- Studio : [[Naughty Dog]]
+	- Studio : [[Tripwire]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :
-- **Résumé** : 
+- **Résumé** : on incarne un requin qui veut se venger d'un pêcheur ayant tué sa mère
 
 ## Détails Techniques
 - **Moteur de jeu** : 
