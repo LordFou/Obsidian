@@ -2,14 +2,15 @@
 type: game
 ---
 
-# God Of War
+# God of War - Ragnarök
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2022
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
+		- [[Cory Balrog]] (Game Director)
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : [[Franchise God of War]]
@@ -26,15 +27,17 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- Hellheim
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Tyr
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- L'association de défense des animaux (PETA) dénoncera la séquence de chasse au loup dans le jeu.
 ## Liens et Ressources
 
 | Description | URL |

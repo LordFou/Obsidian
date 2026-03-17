@@ -6,6 +6,7 @@
       {
         "id": "704584201131afe2",
         "type": "tabs",
+        "dimension": 60.0132625994695,
         "children": [
           {
             "id": "72c68241017033ef",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Duck Hunt.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Duck Hunt"
+              "title": "Animaux dans les jeux vidéos"
             },
             "group": "364def6d51aca1ac"
           }
@@ -27,6 +28,7 @@
       {
         "id": "9040d1006f85b210",
         "type": "tabs",
+        "dimension": 39.9867374005305,
         "children": [
           {
             "id": "7cbfe4a5225c34f1",
@@ -34,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Duck Hunt.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Duck Hunt"
+              "title": "Graphique de Animaux dans les jeux vidéos"
             },
             "group": "364def6d51aca1ac"
           }
@@ -85,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Duck",
+                "query": "God of",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -178,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -251,12 +253,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7cbfe4a5225c34f1",
+  "active": "72c68241017033ef",
   "lastOpenFiles": [
+    "Cory Balrog.md",
+    "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
+    "God of War - Ragnarök.md",
+    "God Of War.md",
+    "Franchise God of War.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Duck Hunt.md",
     "Attachments/image-454.webp",
     "Loisirs/Jeux Vidéos/Périphériques/Light Beam Gun Duck Hunt.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Duck Hunt.md",
-    "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Frogger.md",
     "Steven Spielberg.md",
     "Shark Jaws.md",
@@ -280,15 +286,11 @@
     "Square Soft.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Ultima.md",
     "Richard Garriot.md",
-    "Loisirs/Jeux Vidéos/Sociétés/Origin Systems.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Wizardry.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/The Black Onyx.md",
     "Attachments/image-449.webp",
     "Attachments/image-448.webp",
     "Attachments/image-447.webp",
     "Attachments/image-446.webp",
     "Attachments/image-445.webp",
-    "Attachments/image-444.webp",
     "ZA",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",
