@@ -15,8 +15,11 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                | Résultat | Remarque         |                                              |
 | ----- | ---------------------------------------------------------- | -------- | ---------------- | -------------------------------------------- |
+| 2022  | [[Nokere Koerse]]                                          | 1ier     |                  |                                              |
+| 2023  | [[Nokere Koerse]]                                          | 1ier     |                  |                                              |
+| 2024  | [[Nokere Koerse]]                                          | 1ier     |                  |                                              |
 | 2024  | [[Championnat d'Europe de Cyclisme\|Championnat d'Europe]] | 1ier     | Sprint           |                                              |
-| 2024  | [[Flèche de Gooik Oetingen]]                                        | 1ier     |                  |                                              |
+| 2024  | [[Flèche de Gooik Oetingen]]                               | 1ier     |                  |                                              |
 | 2025  | ?                                                          | 1ier     |                  |                                              |
 | 2025  | ?                                                          | 1ier     |                  |                                              |
 | 2025  | ?                                                          | 1ier     |                  |                                              |
@@ -42,6 +45,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 # Records et Faits Marquants
 - ? courses et 13 victoires en 2025
 - Lors du [[Tour de France]] 2025, il gagne la 3e étape et établit la 500e victoire belge sur la petite reine.
+- Recordman des victoires à [[Nokere Koerse]] (3)
 
 # Controverses ou Événements Importants
 - Chute lors du [[Tour de Münster]] en octobre 2025

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Nokere Koerse.md",
+                "file": "Tim Merlier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nokere Koerse"
+              "title": "Tim Merlier"
             },
             "group": "364def6d51aca1ac"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Nokere Koerse.md",
+                "file": "Tim Merlier.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Nokere Koerse"
+              "title": "Graphique de Tim Merlier"
             },
             "group": "364def6d51aca1ac"
           }
@@ -253,10 +253,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "acbfcced6e5eac9a",
+  "active": "72c68241017033ef",
   "lastOpenFiles": [
-    "Sport & Guerre.md",
     "Loisirs/Sport/Compétitions/Nokere Koerse.md",
+    "Tim Merlier.md",
+    "Sport & Guerre.md",
     "Isaac Del Toro.md",
     "Attachments/image-456.webp",
     "Attachments/image-455.webp",
@@ -287,7 +288,6 @@
     "Attachments/image-450.webp",
     "Dragon Quest.md",
     "Franchise Dragon Quest.md",
-    "Dragon Quest II.md",
     "Attachments/image-449.webp",
     "Attachments/image-448.webp",
     "Attachments/image-447.webp",
