@@ -6,7 +6,6 @@
       {
         "id": "704584201131afe2",
         "type": "tabs",
-        "dimension": 60.0132625994695,
         "children": [
           {
             "id": "72c68241017033ef",
@@ -14,29 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
+                "file": "Journal de bord/2026-03-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Animaux dans les jeux vidéos"
+              "title": "2026-03-17"
             },
-            "group": "364def6d51aca1ac"
+            "group": "82c46cae6ab95059"
           }
         ]
       },
       {
-        "id": "9040d1006f85b210",
+        "id": "1bd63bbb0709a6fb",
         "type": "tabs",
-        "dimension": 39.9867374005305,
         "children": [
           {
-            "id": "7cbfe4a5225c34f1",
+            "id": "57bf9247824cc296",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
+                "file": "Journal de bord/2026-03-17.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -59,14 +57,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.713275462622442,
+                  "scale": 1,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Animaux dans les jeux vidéos"
+              "title": "Graphique de 2026-03-17"
             },
-            "group": "364def6d51aca1ac"
+            "group": "82c46cae6ab95059"
           }
         ]
       }
@@ -254,6 +252,15 @@
   },
   "active": "72c68241017033ef",
   "lastOpenFiles": [
+    "Banjo-Kazooie.md",
+    "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
+    "Crash the Bandicoot.md",
+    "Bubsy.md",
+    "Battletoads.md",
+    "Aero The Acro-Bat.md",
+    "Star Fox.md",
+    "Mr Nutz.md",
+    "Sonic.md",
     "Loisirs/Sport/Compétitions/Trofeo Laigueglia.md",
     "Samyn Classic.md",
     "Romain Grégoire.md",
@@ -270,19 +277,10 @@
     "Attachments/image-456.webp",
     "Attachments/image-455.webp",
     "Journal de bord/2026-03-17.md",
-    "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
     "Cory Balrog.md",
     "God of War - Ragnarök.md",
     "God Of War.md",
-    "Franchise God of War.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Duck Hunt.md",
     "Attachments/image-454.webp",
-    "Loisirs/Jeux Vidéos/Périphériques/Light Beam Gun Duck Hunt.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Frogger.md",
-    "Steven Spielberg.md",
-    "Shark Jaws.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/The Oregon Trail.md",
-    "Hideki Sato.md",
     "Attachments/image-453.webp",
     "Attachments/image-452.webp",
     "Attachments/image-451.webp",
