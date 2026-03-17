@@ -9,6 +9,9 @@
 - Pour [[God of War - Ragnarök]], [[Cory Balrog]] s'est justifié face aux plaintes d'une association de défense pour les animaux (PETA) en leur demandant s'ils étaient au courant que les animaux n'étaient pas réels.
 - Cela justifie-t-il que tout animal virtuel peut-être maltraité, tué, utilisé car virtuel ? C'est vrai que contrairement au cinéma, la question du bien-être animal se pose beaucoup moins. Par contre, l'image véhiculée n'a pas toujours été glorieuse (incitation à tuer pour monter en niveau)
 
+# Récupération animale
+- Même si les animaux sont de mieux en mieux représentés et présents dans les mondes ouverts, ils sont toujours principalement chassés, servent de monnaie ou de nourriture.
+
 ```timeline-labeled
 [line-5, body-2]
 date: 1980-1990 

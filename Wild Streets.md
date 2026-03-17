@@ -18,9 +18,11 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 
+	- La panthère est relativement bien animée
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- JV Culture : médiocre [[Beat'em all]]
 - **Gameplay** :
 	- Une panthère accompagne le joueur pour l'aider mais il n'a aucun contrôle sur celle-ci. Voulu ou non, ce détail donne un certain libre arbitre à l'animal.
 - **Durée estimée** : 
