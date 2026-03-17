@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Sonic
+# Ecco The Dolphin
 
 ## Informations Générales
 
@@ -28,7 +28,7 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
-- **Ennemis** : Le docteur Robotnik
+- **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 

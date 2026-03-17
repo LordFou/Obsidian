@@ -6,6 +6,7 @@
       {
         "id": "704584201131afe2",
         "type": "tabs",
+        "dimension": 63.726790450928384,
         "children": [
           {
             "id": "72c68241017033ef",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-03-17.md",
+                "file": "Wild Streets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-17"
+              "title": "Wild Streets"
             },
             "group": "82c46cae6ab95059"
           }
@@ -27,6 +28,7 @@
       {
         "id": "1bd63bbb0709a6fb",
         "type": "tabs",
+        "dimension": 36.273209549071616,
         "children": [
           {
             "id": "57bf9247824cc296",
@@ -34,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2026-03-17.md",
+                "file": "Wild Streets.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,12 +59,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.713275462622442,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2026-03-17"
+              "title": "Graphique de Wild Streets"
             },
             "group": "82c46cae6ab95059"
           }
@@ -252,15 +254,18 @@
   },
   "active": "72c68241017033ef",
   "lastOpenFiles": [
-    "Banjo-Kazooie.md",
     "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
+    "Wild Streets.md",
+    "Ecco The Dolphin.md",
+    "Sonic.md",
+    "Journal de bord/2026-03-17.md",
+    "Banjo-Kazooie.md",
     "Crash the Bandicoot.md",
     "Bubsy.md",
     "Battletoads.md",
     "Aero The Acro-Bat.md",
     "Star Fox.md",
     "Mr Nutz.md",
-    "Sonic.md",
     "Loisirs/Sport/Compétitions/Trofeo Laigueglia.md",
     "Samyn Classic.md",
     "Romain Grégoire.md",
@@ -276,10 +281,7 @@
     "Isaac Del Toro.md",
     "Attachments/image-456.webp",
     "Attachments/image-455.webp",
-    "Journal de bord/2026-03-17.md",
     "Cory Balrog.md",
-    "God of War - Ragnarök.md",
-    "God Of War.md",
     "Attachments/image-454.webp",
     "Attachments/image-453.webp",
     "Attachments/image-452.webp",

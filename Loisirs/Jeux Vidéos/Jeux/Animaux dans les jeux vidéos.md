@@ -13,26 +13,32 @@
 [line-5, body-2]
 date: 1980-1990 
 title: Animal vidé de son animalité et antromorphisé
-content: En gros une mascotte pour attirer le chaland
+content: En gros une mascotte pour attirer le chaland. Seule exception, [[Ecco The Dolphin]], qui mettra en avant la condition animal du dauphin, il faut même remonter pour respirer !
+
+date: 1990 ->
+title: Les compagnons de jeu arrivent
+content: Un des premiers jeux sera [[Wild Streets]] où une panthère accompagne le héros.
 ```
 
 
-| Jeu                       | Animal                           | Position | Remarque                                                           |
-| ------------------------- | -------------------------------- | -------- | ------------------------------------------------------------------ |
-| [[The Oregon Trail]]      | Bovins                           | Utile    | Tirer des chariots                                                 |
-| [[Donkey Kong]]           | Gorille                          | Menace   | Il détient la princesse à sauver                                   |
-| [[Shark Jaws]]            | Requin                           | Menace   |                                                                    |
-| [[Frogger]]               | Grenouille                       | Joueur   | Le jeu comprend aussi des tortues, loutres, serpents et alligators |
-| [[Duck Hunt]]             | Canard                           | Chassé   |                                                                    |
-| [[God of War - Ragnarök]] | Loup                             | Chassé   | 18 mètres la bête ^^                                               |
-| [[Mr Nutz]]               | Ecureuil                         | Mascotte |                                                                    |
-| [[Star Fox]]              | Renard                           | Mascotte |                                                                    |
-| [[Aero The Acro-Bat]]     | [[chauve-souris\|Chauve-souris]] | Mascotte |                                                                    |
-| [[Battletoads]]           | [[Grenouille\|Grenouilles]]      | Mascotte |                                                                    |
-| [[Bubsy]]                 | Lynx                             | Mascotte |                                                                    |
-| [[Crash the Bandicoot]]   | Bandicoot                        | Mascotte |                                                                    |
-| [[Banjo-Kazooie]]         | Ours                             | Mascotte |                                                                    |
-| [[Sonic]]                 | Hérisson                         | Mascotte | Bleu !                                                             |
+| Jeu                       | Animal                           | Position  | Remarque                                                           |
+| ------------------------- | -------------------------------- | --------- | ------------------------------------------------------------------ |
+| [[The Oregon Trail]]      | Bovins                           | Utile     | Tirer des chariots                                                 |
+| [[Donkey Kong]]           | Gorille                          | Menace    | Il détient la princesse à sauver                                   |
+| [[Shark Jaws]]            | Requin                           | Menace    |                                                                    |
+| [[Frogger]]               | Grenouille                       | Joueur    | Le jeu comprend aussi des tortues, loutres, serpents et alligators |
+| [[Duck Hunt]]             | Canard                           | Chassé    |                                                                    |
+| [[God of War - Ragnarök]] | Loup                             | Chassé    | 18 mètres la bête ^^                                               |
+| [[Mr Nutz]]               | Ecureuil                         | Mascotte  |                                                                    |
+| [[Star Fox]]              | Renard                           | Mascotte  |                                                                    |
+| [[Aero The Acro-Bat]]     | [[chauve-souris\|Chauve-souris]] | Mascotte  |                                                                    |
+| [[Battletoads]]           | [[Grenouille\|Grenouilles]]      | Mascotte  |                                                                    |
+| [[Bubsy]]                 | Lynx                             | Mascotte  |                                                                    |
+| [[Crash the Bandicoot]]   | Bandicoot                        | Mascotte  |                                                                    |
+| [[Banjo-Kazooie]]         | Ours                             | Mascotte  |                                                                    |
+| [[Sonic]]                 | Hérisson                         | Mascotte  | Bleu !                                                             |
+| [[Ecco The Dolphin]]      | Dauphin                          | ?         |                                                                    |
+| [[Wild Streets]]          | Panthère                         | Compagnon |                                                                    |
 /*--------------*/
 Bibliographie 
 /*--------------*/

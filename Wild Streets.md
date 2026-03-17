@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Sonic
+# Wild Streets
 
 ## Informations Générales
 
@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Beat'em all]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -22,13 +22,14 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
+	- Une panthère accompagne le joueur pour l'aider mais il n'a aucun contrôle sur celle-ci
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
-- **Ennemis** : Le docteur Robotnik
+- **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
