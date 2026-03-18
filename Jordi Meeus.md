@@ -27,6 +27,7 @@ type: personne
 | 2026  | [[Omloop Het Nieuwsblad]]      | 7e       |                                 |
 | 2026  | [[Kuurne Bruxelles Kuurne]]    | 10e      | Sprint costaud vent de face     |
 | 2026  | [[Samyn Classic]]              | 1ier     | Attaque après le dernier virage |
+| 2026  | [[Nokere Koerse]]              | 2e       | Sprint                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

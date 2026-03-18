@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Milan Turin",
+                "query": "Tobias",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,8 +179,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,13 +252,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "72c68241017033ef",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
     "Tom Pidcock.md",
     "Loisirs/Sport/Compétitions/Milan-Turin.md",
+    "Juan Sebastian Molano.md",
+    "Jordi Meeus.md",
+    "Loisirs/Sport/Compétitions/Nokere Koerse.md",
+    "Jasper Philipsen.md",
+    "Loisirs/Sport/Compétitions/Milan San Remo.md",
     "Antonio Morgado.md",
     "Loisirs/Sport/Lotte Kopecky.md",
-    "Loisirs/Sport/Compétitions/Nokere Koerse.md",
     "Max Verstappen.md",
     "Loisirs/Sport/Sportifs/Sam Bennett.md",
     "Ludovic Robeet.md",
@@ -278,10 +281,6 @@
     "Franchise Dead or Alive.md",
     "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
     "That Cow.md",
-    "Alexey Botkov.md",
-    "Stray.md",
-    "Maneater.md",
-    "Tripwire.md",
     "Attachments/image-457.webp",
     "Attachments/image-456.webp",
     "Attachments/image-455.webp",
