@@ -13,8 +13,8 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
-- **Résumé** : 
+- **Genre** : [[Simulation]]
+- **Résumé** : vous incarnez des civils durant une guerre, il faut survivre : trouver de la nourriture, se chauffer, éviter l'armée occupante,...
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -34,7 +34,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Le jeu est inspiré en grande partie du siège de Sarajevo durant la guerre de Yougoslavie.
 ## Liens et Ressources
 
 | Description | URL |
