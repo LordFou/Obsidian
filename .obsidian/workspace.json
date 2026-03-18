@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Crimson",
+                "query": "frost",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -252,7 +252,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "72c68241017033ef",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
     "Jonathan Milan.md",
     "Isaac Del Toro.md",

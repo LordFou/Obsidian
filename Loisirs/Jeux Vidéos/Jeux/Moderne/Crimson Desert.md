@@ -23,13 +23,18 @@ type: game
 - **Réception critique** : 
 	- Démo trop dense
 	- Commandes trop complexes
+	- CheckPoint (7,5/10)
+		- Le jeu m'a constamment émerveillé par le réalisme de son continent
 - **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : 
+- **Lieu(x)** : Pywel
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Kliff
+	- Oongka
+	- Damiane
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
@@ -39,6 +44,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                          |
+| ----------- | ---------------------------- |
+| Trailer     | https://youtu.be/VWIw_f8e9Pg |
