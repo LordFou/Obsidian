@@ -24,7 +24,9 @@ type: personne
 | 2025  | [[Grand Prix Abu Dhabi]]              | 1ier     |          |
 | 2025  | [[Championnat du Monde de F1]] - 2025 | 2e       |          |
 |       |                                       |          |          |
-| 2026  | [[Grand Prix de Chine]]               | Abandon  |          |
+| 2026  | [[Grand Prix d'Australie]]            | 6e       |          |
+| 2026  | [[Grand Prix de Chine]] - Sprint      | 9e       |          |
+| 2026  | [[Grand Prix de Chine]] - Course      | Abandon  |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Sam Bennett.md",
+                "file": "Loisirs/Sport/Lotte Kopecky.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sam Bennett"
+              "title": "Lotte Kopecky"
             },
             "group": "82c46cae6ab95059"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Sam Bennett.md",
+                "file": "Loisirs/Sport/Lotte Kopecky.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Sam Bennett"
+              "title": "Graphique de Lotte Kopecky"
             },
             "group": "82c46cae6ab95059"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sam Bennet",
+                "query": "Max ver",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -180,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -256,6 +256,7 @@
   "active": "72c68241017033ef",
   "lastOpenFiles": [
     "Loisirs/Sport/Compétitions/Nokere Koerse.md",
+    "Max Verstappen.md",
     "Loisirs/Sport/Sportifs/Sam Bennett.md",
     "Ludovic Robeet.md",
     "Nils Eekhoff.md",
@@ -281,7 +282,6 @@
     "Naughty Dog.md",
     "Far Cry 6.md",
     "Fallout - New Vegas.md",
-    "Resident Evil 8 - Village.md",
     "Attachments/image-457.webp",
     "Attachments/image-456.webp",
     "Attachments/image-455.webp",
