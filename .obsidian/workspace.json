@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Isaac Del Toro.md",
+                "file": "Jonathan Milan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Isaac Del Toro"
+              "title": "Jonathan Milan"
             },
             "group": "82c46cae6ab95059"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Isaac Del Toro.md",
+                "file": "Jonathan Milan.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Isaac Del Toro"
+              "title": "Graphique de Jonathan Milan"
             },
             "group": "82c46cae6ab95059"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tobias",
+                "query": "Jonath",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,8 +179,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,6 +254,7 @@
   },
   "active": "72c68241017033ef",
   "lastOpenFiles": [
+    "Isaac Del Toro.md",
     "Loisirs/Sport/Compétitions/Milan-Turin.md",
     "Tom Pidcock.md",
     "Juan Sebastian Molano.md",
@@ -281,7 +281,6 @@
     "Tecmo.md",
     "Franchise Dead or Alive.md",
     "Loisirs/Jeux Vidéos/Jeux/Animaux dans les jeux vidéos.md",
-    "That Cow.md",
     "Attachments/image-457.webp",
     "Attachments/image-456.webp",
     "Attachments/image-455.webp",
