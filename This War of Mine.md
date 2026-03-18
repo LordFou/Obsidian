@@ -34,7 +34,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- Le jeu est inspiré en grande partie du siège de Sarajevo durant la guerre de Yougoslavie.
+- Le jeu est inspiré en grande partie du siège de Sarajevo durant [[la guerre de d'ex-Yougoslavie]]. Capitale de Bosnie-Herzégovine attaquée par l'armée de la république Serbe de Bosnie entre avril 1992 et février 1996.
 ## Liens et Ressources
 
 | Description | URL |
