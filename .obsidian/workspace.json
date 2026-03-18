@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
+                "file": "Jensen Huang.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crimson Desert"
+              "title": "Jensen Huang"
             },
             "group": "82c46cae6ab95059"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
+                "file": "Jensen Huang.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Crimson Desert"
+              "title": "Graphique de Jensen Huang"
             },
             "group": "82c46cae6ab95059"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "frost",
+                "query": "Divinity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,6 +254,17 @@
   },
   "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
+    "Nvidia.md",
+    "Jensen Huang.md",
+    "Intelligence Artificielle.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Marathon.md",
+    "Franchise Frostpunk.md",
+    "Frostpunk 1886.md",
+    "Unreal Engine.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Nerf Arena Blast.md",
+    "Frostpunk 2.md",
+    "Frostpunk.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
     "Jonathan Milan.md",
     "Isaac Del Toro.md",
     "Loisirs/Sport/Compétitions/Milan-Turin.md",
@@ -269,18 +280,7 @@
     "Loisirs/Sport/Sportifs/Sam Bennett.md",
     "Ludovic Robeet.md",
     "Nils Eekhoff.md",
-    "Culture/L'extrême droite.md",
     "Attachments/image-458.webp",
-    "Journal de bord/2026-03-18.md",
-    "This War of Mine.md",
-    "la guerre de d'ex-Yougoslavie.md",
-    "Loisirs/Jeux Vidéos/Horreur et Jeu Vidéo.md",
-    "Amnesia - The Dark Descent.md",
-    "Franchise Amnesia.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Ghost of Yoteï.md",
-    "Loisirs/Jeux Vidéos/Personnalités/Tomonobu Itagaki.md",
-    "Tecmo.md",
-    "Franchise Dead or Alive.md",
     "Attachments/image-457.webp",
     "Attachments/image-456.webp",
     "Attachments/image-455.webp",

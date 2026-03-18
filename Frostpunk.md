@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Frost Punk 2
+# Frostpunk
 
 ## Informations Générales
 
@@ -12,7 +12,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise Frostpunk]]
 - **Genre** :
 - **Résumé** : 
 
