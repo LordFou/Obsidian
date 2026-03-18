@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture/L'extrême droite.md",
+                "file": "Loisirs/Sport/Compétitions/Nokere Koerse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L'extrême droite"
+              "title": "Nokere Koerse"
             },
             "group": "82c46cae6ab95059"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Culture/L'extrême droite.md",
+                "file": "Loisirs/Sport/Compétitions/Nokere Koerse.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de L'extrême droite"
+              "title": "Graphique de Nokere Koerse"
             },
             "group": "82c46cae6ab95059"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "extrême d",
+                "query": "noke",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,6 +254,10 @@
   },
   "active": "72c68241017033ef",
   "lastOpenFiles": [
+    "Ludovic Robeet.md",
+    "Loisirs/Sport/Compétitions/Nokere Koerse.md",
+    "Nils Eekhoff.md",
+    "Culture/L'extrême droite.md",
     "Attachments/image-458.webp",
     "Journal de bord/2026-03-18.md",
     "This War of Mine.md",
@@ -277,10 +281,7 @@
     "Fallout - New Vegas.md",
     "Resident Evil 8 - Village.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/MindsEye.md",
-    "Thierry Costa.md",
-    "Wild Streets.md",
     "Attachments/image-457.webp",
-    "Ecco The Dolphin.md",
     "Attachments/image-456.webp",
     "Attachments/image-455.webp",
     "Attachments/image-454.webp",
@@ -289,7 +290,6 @@
     "Attachments/image-451.webp",
     "Attachments/image-450.webp",
     "Attachments/image-449.webp",
-    "Attachments/image-448.webp",
     "ZA",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",

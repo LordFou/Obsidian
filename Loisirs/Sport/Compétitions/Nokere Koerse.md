@@ -17,7 +17,7 @@ type: event
 | 2025  | [[Nils Eekhoff]]   | Néerlandais |          |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur         | Nationalité | Remarque |
+| ----- | ----------------- | ----------- | -------- |
+| 2026  | [[Lotte Kopecky]] | Belge       |          |
+|       |                   |             |          |
