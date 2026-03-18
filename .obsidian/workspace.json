@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "This War of Mine.md",
+                "file": "Culture/L'extrême droite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "This War of Mine"
+              "title": "L'extrême droite"
             },
             "group": "82c46cae6ab95059"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "This War of Mine.md",
+                "file": "Culture/L'extrême droite.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de This War of Mine"
+              "title": "Graphique de L'extrême droite"
             },
             "group": "82c46cae6ab95059"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ghost of",
+                "query": "extrême d",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,8 +179,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,8 +254,10 @@
   },
   "active": "72c68241017033ef",
   "lastOpenFiles": [
-    "la guerre de d'ex-Yougoslavie.md",
+    "Attachments/image-458.webp",
+    "Journal de bord/2026-03-18.md",
     "This War of Mine.md",
+    "la guerre de d'ex-Yougoslavie.md",
     "Loisirs/Jeux Vidéos/Horreur et Jeu Vidéo.md",
     "Amnesia - The Dark Descent.md",
     "Franchise Amnesia.md",
@@ -280,8 +281,6 @@
     "Wild Streets.md",
     "Attachments/image-457.webp",
     "Ecco The Dolphin.md",
-    "Sonic.md",
-    "Journal de bord/2026-03-17.md",
     "Attachments/image-456.webp",
     "Attachments/image-455.webp",
     "Attachments/image-454.webp",
