@@ -2,7 +2,7 @@
 type: event
 ---
 
-# GP de Denain
+# GP Denain
 
 # Introduction
 
@@ -12,7 +12,7 @@ type: event
 | ----- | ------------------- | ----------- | -------- |
 | ?     | [[Ludo Diercksens]] | Belge       |          |
 | 2025  | [[Matthew Brennan]] | Anglais     |          |
-|       |                     |             |          |
+| 2026  | [[Alec Segaert]]    | Belge       |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

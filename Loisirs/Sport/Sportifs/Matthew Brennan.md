@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                            | Résultat | Remarque                                             |
 | ----- | -------------------------------------- | -------- | ---------------------------------------------------- |
-| 2025  | [[GP de Denain]]                       | 1ier     |                                                      |
+| 2025  | [[GP Denain]]                       | 1ier     |                                                      |
 | 2025  | [[Tour de Norvège]] - Classement final | 1ier     |                                                      |
 | 2025  | ?                                      | 1ier     |                                                      |
 | 2025  | ?                                      | 1ier     |                                                      |
