@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "554c2157de111272",
+        "id": "e233bb6d40bec31e",
         "type": "tabs",
         "children": [
           {
-            "id": "96b7e59cd183eee8",
+            "id": "f326972565120bf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Franchise Pokemon.md",
+                "file": "Loisirs/Sport/Sportifs/Mathieu van der Poel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Franchise Pokemon"
-            }
-          },
-          {
-            "id": "3dc062f6371095b2",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Mathieu van der Poel"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Crimson Dese",
+                "query": "Milan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -202,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,8 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3dc062f6371095b2",
+  "active": "f326972565120bf9",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Milan San Remo.md",
+    "Loisirs/Sport/Compétitions/Bredene Koksijde Classic.md",
     "Journal de bord/2026-03-19.md",
     "conflict-files-obsidian-git.md",
     "la guerre de d'ex-Yougoslavie.md",
@@ -246,8 +234,6 @@
     "Nils Eekhoff.md",
     "Mr Nutz.md",
     "MonoGame.md",
-    "Maneater.md",
-    "Lunar Division.md",
     "Attachments/image-458.webp",
     "Attachments/image-457.webp",
     "Attachments/image-456.webp",
