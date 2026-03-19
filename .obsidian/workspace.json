@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
+                "file": "Journal de bord/2026-03-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crimson Desert"
+              "title": "2026-03-19"
             }
           }
         ],
@@ -202,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,6 +222,8 @@
   },
   "active": "3dc062f6371095b2",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
+    "Journal de bord/2026-03-19.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Shadow Tactics - Blade of the Shogun.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Elemental - Reforged.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/MLB The Show 26.md",
@@ -252,8 +253,6 @@
     "Laurenz Rex.md",
     "Ineos.md",
     "Georg Steinhauser.md",
-    "Lenny Martinez.md",
-    "Journal de bord/2026-03-15.md",
     "Attachments/image-440.webp",
     "Attachments/image-439.webp",
     "Attachments/image-438.webp",
