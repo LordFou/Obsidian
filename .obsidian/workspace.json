@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jensen Huang.md",
+                "file": "Vince Zampella.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jensen Huang"
+              "title": "Vince Zampella"
             },
             "group": "82c46cae6ab95059"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Jensen Huang.md",
+                "file": "Vince Zampella.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Jensen Huang"
+              "title": "Graphique de Vince Zampella"
             },
             "group": "82c46cae6ab95059"
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Divinity",
+                "query": "Vince Zam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -252,10 +252,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "72c68241017033ef",
   "lastOpenFiles": [
-    "Nvidia.md",
+    "Loisirs/Jeux Vidéos/Sociétés/Respawn.md",
+    "Vince Zampella.md",
+    "Loisirs/Jeux Vidéos/Franchise Resident Evil.md",
+    "Loisirs/Jeux Vidéos/Périphériques/Steam Deck.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Divinity - Original Sin 2.md",
     "Jensen Huang.md",
+    "Nvidia.md",
     "Intelligence Artificielle.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Marathon.md",
     "Franchise Frostpunk.md",
@@ -275,11 +280,6 @@
     "Jasper Philipsen.md",
     "Loisirs/Sport/Compétitions/Milan San Remo.md",
     "Antonio Morgado.md",
-    "Loisirs/Sport/Lotte Kopecky.md",
-    "Max Verstappen.md",
-    "Loisirs/Sport/Sportifs/Sam Bennett.md",
-    "Ludovic Robeet.md",
-    "Nils Eekhoff.md",
     "Attachments/image-458.webp",
     "Attachments/image-457.webp",
     "Attachments/image-456.webp",

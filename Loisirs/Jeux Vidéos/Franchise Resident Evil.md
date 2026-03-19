@@ -28,6 +28,7 @@ type: game
 | [[Resident Evil 7 - Biohazard]]   | 2017      |                                                                                                                                                                          |                                                                           |
 | [[Resident Evil 8 - Village]]     | 2021      |                                                                                                                                                                          |                                                                           |
 | [[Resident Evil 9 - Requiem]]     | 2026      | [[Xbox Series]]                                                                                                                                                          |                                                                           |
+|                                   |           |                                                                                                                                                                          |                                                                           |
 ## Points communs des jeux de la franchise
 - Les sources de documentation (notes, documents,...)
 - Certains dialogues surréalistes
