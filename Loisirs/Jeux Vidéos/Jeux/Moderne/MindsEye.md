@@ -10,6 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Build a Rocket Boy]]
 	- Personnalités : 
+		- [[Thierry Costa]] (Principal Gameplay Programmer) => https://www.mobygames.com/person/173928/thierry-costa/
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 

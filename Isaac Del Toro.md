@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[Pasted image 20250712235822.png]]
+![[image-455.webp]]
 # Isaac Del Toro
 
 # Informations Générales
@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                                    | Résultat | Remarque |
 | ----- | ------------------------------------------------------------------------------ | -------- | -------- |
-| 2025  | ?                                                                              | 1ier     |          |
+| 2025  | [[Milan-Turin]]                                                                | 1ier     |          |
 | 2025  | ?                                                                              | 1ier     |          |
 | 2025  | ?                                                                              | 1ier     |          |
 | 2025  | ?                                                                              | 1ier     |          |

@@ -37,7 +37,8 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- [[Final Fantasy]] est une réponse à [[Dragon Quest]]
+- Pas bcp d'intérêt dans la presse 
 ## Liens et Ressources
 
 | Description | URL |

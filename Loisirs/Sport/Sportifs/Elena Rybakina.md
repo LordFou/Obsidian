@@ -11,14 +11,17 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
+- **Top Ranking** : 2e
 
 # Palmarès et Distinctions
-| Année | Compétition             | Résultat  | Remarque                           |
-| ----- | ----------------------- | --------- | ---------------------------------- |
-| 2022  | [[Wimbledon]]           | Vainqueur |                                    |
-| 2023  | [[Australian Open]]     | Finaliste | Défaite contre [[Aryna Sabalenka]] |
-| 2025  | [[Masters WTA de Ryad]] | Vainqueur |                                    |
-| 2026  | [[Australian Open]]     | Vainqueur | Contre [[Aryna Sabalenka]]         |
+| Année | Compétition              | Résultat  | Remarque                           |
+| ----- | ------------------------ | --------- | ---------------------------------- |
+| 2022  | [[Wimbledon]]            | Vainqueur |                                    |
+| 2023  | [[Australian Open]]      | Finaliste | Défaite contre [[Aryna Sabalenka]] |
+| 2025  | [[Masters WTA de Ryad]]  | Vainqueur |                                    |
+| 2026  | [[Australian Open]]      | Vainqueur | Contre [[Aryna Sabalenka]]         |
+| 2026  | [[Tournoi Indian Wells]] | Finaliste | Défaite contre [[Aryna Sabalenka]] |
+|       |                          |           |                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

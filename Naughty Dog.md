@@ -24,10 +24,11 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre              | Genre            | Plateformes |
-| ----- | ------------------ | ---------------- | ----------- |
-| XXXX  | [[Uncharted]]      | Action, Aventure |             |
-| XXXX  | [[The Last of Us]] |                  |             |
+| Année | Titre                      | Genre            | Plateformes |
+| ----- | -------------------------- | ---------------- | ----------- |
+| XXXX  | [[Uncharted]]              | Action, Aventure |             |
+| XXXX  | [[The Last of Us]]         |                  |             |
+| XXXX  | [[The Last of Us Part II]] |                  |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

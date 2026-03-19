@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Grand Prix de Chine
+# Grand Prix de Chine - Shangaï
 
 # Introduction
 

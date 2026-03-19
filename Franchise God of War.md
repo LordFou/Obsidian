@@ -24,6 +24,8 @@ content:
 ## Jeux principaux
 | Titre                           | Année | Plateformes | Remarque |
 | ------------------------------- | ----- | ----------- | -------- |
+| [[God Of War]]                  | ?     |             |          |
+| [[God of War - Ragnarök]]       | 2022  |             |          |
 | [[God Of War - Sons of Sparta]] | 2026  |             |          |
 
 

@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Drôme Classic
+# Faun Drôme Classic
 
 # Introduction
 

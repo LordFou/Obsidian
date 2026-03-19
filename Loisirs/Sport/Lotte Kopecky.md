@@ -60,6 +60,7 @@ type: personne
 | 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Elimination                                      | 1ière 🥇 |                                                                         |
 | 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Points                                           | 1ière 🥇 |                                                                         |
 | 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Madison                                          | 1ière 🥇 | avec [[Shari Bossuyt]]                                                  |
+| 2026  | [[Nokere Koerse]]                                                                                 | 1ière    |                                                                         |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

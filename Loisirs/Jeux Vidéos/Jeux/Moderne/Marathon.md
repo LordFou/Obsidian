@@ -39,6 +39,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
+- Initialement prévu en septembre 2025, le jeu est repoussé à mars 2026
 - Le directeur artistique se barre 3 mois avant la sortie !
 - Une artiste du nom de [[Fern Hook]] a été plagié par les concepteurs du jeu et un arrangement à l'amiable à dû être trouvé. Elle a été créditée en tant que "Visual Design Consultant" (La blague...)
 ## Liens et Ressources

@@ -5,11 +5,11 @@ type: personne
 # Lewis Hamilton
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  1984
 - **Nationalité** :  Anglais
 - **Sport / Discipline** :  [[F1]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Mercedes]],[[Ferrari]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions

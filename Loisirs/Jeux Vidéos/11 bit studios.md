@@ -27,8 +27,8 @@ content:
 | Année | Titre                | Genre           | Plateformes   |
 | ----- | -------------------- | --------------- | ------------- |
 |       | [[This War of Mine]] | Gestion, Survie |               |
-|       | [[Frost Punk]]       | Gestion         |               |
-|       | [[Frost Punk 2]]     | Gestion         |               |
+|       | [[Frostpunk]]       | Gestion         |               |
+|       | [[Frostpunk 2]]     | Gestion         |               |
 | 2025  | [[The Alters]]       | Survie, Gestion | PC, PS5, Xbox |
 
 ## Moteur(s) Utilisé(s)

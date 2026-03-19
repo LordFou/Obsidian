@@ -40,4 +40,7 @@
 	- Chiffre 14 et 21
 	- [[Le marteau de Thor]], souvent porté en pendentif ou en tatouage. Il est fréquemment associé à la glorification de la prétendue race aryenne
 	- FCK AFA : Fuck Antifascistes
-	  ![[Pasted image 20250705152747.png]]
+	- ![[Pasted image 20250705152747.png]]
+# A Trier
+
+![[image-458.webp]]

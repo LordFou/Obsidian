@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-449.webp]]
 # Jannik Sinner
 
 # Informations Générales
@@ -13,20 +13,20 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition              | Résultat        | Remarque                         |
-| ----- | ------------------------ | --------------- | -------------------------------- |
-| 2025  | [[Roland-Garros]]        | Finaliste       | Premier mondiale lors du tournoi |
-| 2026  |                          |                 |                                  |
-| 2026  | [[Tournoi de Doha]]      | Quart de finale |                                  |
-| 2026  | [[Tournoi Indian Wells]] | Finale          |                                  |
-|       |                          |                 |                                  |
-|       |                          |                 |                                  |
+| Année | Compétition              | Résultat        | Remarque                            |
+| ----- | ------------------------ | --------------- | ----------------------------------- |
+| 2025  | [[Roland-Garros]]        | Finaliste       | Premier mondiale lors du tournoi    |
+| 2026  |                          |                 |                                     |
+| 2026  | [[Tournoi de Doha]]      | Quart de finale |                                     |
+| 2026  | [[Tournoi Indian Wells]] | Vainqueur       | Victoire contre [[Daniil Medvedev]] |
+|       |                          |                 |                                     |
+|       |                          |                 |                                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- 6 trophées en Masters 1000
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

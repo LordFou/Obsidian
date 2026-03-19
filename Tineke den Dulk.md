@@ -13,10 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                | Résultat   | Remarque              |
-| ----- | -------------------------- | ---------- | --------------------- |
-| 2026  | [[JO 2026]] - Relais Mixte | 3e 🥉      | [[Belgian Ice Bears]] |
-| 2026  | [[JO 2026]] - 1500m        | 1/2 finale |                       |
+| Année | Compétition                         | Résultat              | Remarque              |
+| ----- | ----------------------------------- | --------------------- | --------------------- |
+| 2026  | [[JO 2026]] - Relais Mixte          | 3e 🥉                 | [[Belgian Ice Bears]] |
+| 2026  | [[JO 2026]] - 1500m                 | 1/2 finale            |                       |
+| 2026  | Championnat du Monde - Relais mixte | 3e 🥉                 | [[Belgian Ice Bears]] |
+| 2026  | Championnat du Monde - 1500         | Eliminée en repêchage |                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

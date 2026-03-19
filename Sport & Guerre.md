@@ -5,6 +5,8 @@
 	- l'Irak réclame le report de son match de barrage en raison de la guerre au Moyen-Orient et du fait que son espace aérien est fermé jusqu'à nouvel ordre.
 - [[F1]] 2026
 	- les [[Grand Prix de Bahreïn]] et le [[Grand Prix d’Arabie saoudite]] annulés à cause de la guerre au Moyen-Orient
+- Divers
+	- Demande d'asile de sportif => [RTBF](https://www.rtbf.be/article/guerre-au-moyen-orient-deux-footballeuses-iraniennes-refugiees-en-australie-s-entrainent-avec-un-club-local-11695473)
 # Ukraine Vs Russie
 - [[JO 2026]]
 	- Impossibilité pour les sportifs russes et biélorusses de participer [aux compétitions de qualifications](Impossibilité pour les sportifs russes et biélorusses de participer aux compétitions de qualifications)

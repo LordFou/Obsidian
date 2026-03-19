@@ -1,9 +1,13 @@
+---
+type: game
+---
+
 # Ultima I : The First Age Of Darkness
 
 ![[Pasted image 20250327004037.png]]
 ## Informations Générales
 
-- **Année de sortie** : [[1981]]
+- **Année de sortie** : 1981
 - **Développeur** : 
 	- Studio : [[Origin Systems]]
 	- Personnalités : [[Richard Garriot]]
@@ -23,10 +27,11 @@
 - **Lieu(x)** : Sosaria
 - **Epoque** : 
 - **Personnages principaux** : 
-- **Ennemis** : [[Mondain]], un sorcier maléfique qui possède un gemme d'immortalité
+- **Ennemis** : [[Mondain]] (un sorcier maléfique qui possède un gemme d'immortalité)
 - **Thèmes abordés** : [[Médiéval]], [[Immortalité]], [[Donjon]]
 - **Influencé par** :
 - **A inspiré** : 
+	- [[Dragon Quest]]
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - Le côté exploration et développement du personnage n'ont pas d'égal à l'époque

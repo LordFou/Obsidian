@@ -15,6 +15,8 @@ type: game
 - **Franchise** : [[Franchise Hollow Night|Hollow Night]]
 - **Genre** : [[Action Aventure]], [[Plateforme]], [[Metroïdvania]]
 - **Résumé** : 
+- **DLC** :
+	- Sea Of Sorrow
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -26,6 +28,7 @@ type: game
 	- De plus, avec un prix à 19€50, ils ont cassé le marché (à juste titre ? y'a débat)
 	- Autre débat, le shadow drop provoque une course à l'échalote pour sortir son article au plus vite et parfois trop vite.
 	- Pas grand chose comme options d'[[Accessibilité]].
+	- 7 millions de vente
 - **Gameplay** :
 	- Présence d'une attaque en diagonale
 - **Durée estimée** : 

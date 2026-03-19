@@ -2,13 +2,13 @@
 type: game
 ---
 
-# Frost Punk
+# Bubsy
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[11 bit studios]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 

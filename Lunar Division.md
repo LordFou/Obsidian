@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Unknown World Entertainment
+# Lunar Division
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -18,20 +18,15 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date: 2021
-title: Rachat par [[Krafton]]
+date:  
+title: 
 content:
-
-date: Aout 2025
-title: [[Krafton]] dégraisse [[Subnautica 2]]
-content: Les 3 fondateurs de [[Unknown World Entertainment]] sont virés peu avant la sortie de [[Subnautica 2]]
-
 ```
 
 ## Jeux Développés
-| Année | Titre          | Genre              | Plateformes           |
-| ----- | -------------- | ------------------ | --------------------- |
-| 2025  | [[Subnautica]] | Action / RPG / FPS | PC, PS5, Xbox, Switch |
+| Année | Titre          |
+| ----- | -------------- |
+| 2026  | [[Amberspire]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

@@ -1,3 +1,7 @@
+---
+type: game
+---
+
 # The Oregon Trail
 
 ![[14fa7300-c1d1-11ed-ab6b-02420a000194.webp]]

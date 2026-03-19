@@ -17,8 +17,9 @@ type: personne
 | ----- | ----------------------------- | -------------------- | ----------------------- |
 | 2025  | [[Classique Bruges-La Panne]] | 1ier                 |                         |
 | 2025  | [[Tour de Belgique]]          | Classement par point | Pas de victoire d'étape |
-| 2026  | [[Tour d'Oman]] - 1e étape    | 1ier                 |                         |
 |       |                               |                      |                         |
+| 2026  | [[Tour d'Oman]] - 1e étape    | 1ier                 |                         |
+| 2026  | [[Nokere Koerse]]             | 3e                   |                         |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -16,6 +16,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                              | Résultat | Remarque                                                  |
 | ----- | ------------------------------------------------------------------------ | -------- | --------------------------------------------------------- |
+| 2024  | [[Milan San Remo]]                                                       | 1ier     |                                                           |
 | 2024  | [[Tour de Münster]]                                                      | 1ier 🥇  |                                                           |
 |       |                                                                          |          |                                                           |
 | 2025  | [[Kuurne Bruxelles Kuurne]]                                              | 1ier 🥇  |                                                           |
@@ -28,6 +29,7 @@ type: personne
 | 2025  | [[Tour de Münster]]                                                      | 1ier 🥇  |                                                           |
 |       |                                                                          |          |                                                           |
 | 2026  | [[Tirreno-Adriatico]] - 3e étape                                         | 3e       | Sprint                                                    |
+| 2026  | [[Nokere Koerse]]                                                        | 1ier     | Sprint long vent de face                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

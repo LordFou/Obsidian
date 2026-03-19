@@ -13,6 +13,7 @@ Une des courses cyclistes les plus longues mais aussi la plus ennuyeuse la plupa
 | ----- | ------------------------ | ----------- | ------------------------------------------------------------------------------------ |
 | 2014  | [[Alexander Kristoff]]   | Norvégien   |                                                                                      |
 | 2021  | [[Jasper Stuyven]]       | Belge       |                                                                                      |
+| 2024  | [[Jasper Philipsen]]     | Belge       |                                                                                      |
 | 2025  | [[Mathieu van der Poel]] | Néerlandais | Ils ont attaqué à 3 (Lui, Pogacar et Ganna) dans la Cipressa, ce qui n'arrive jamais |
 |       |                          |             |                                                                                      |
 # Femmes

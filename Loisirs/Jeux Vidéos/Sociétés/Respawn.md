@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Respawn
+# Respawn Entertainment
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.

@@ -10,7 +10,8 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 ## Informations Générales
 - **Date de naissance** :  1970 - 2025
 - **Nationalité** :  
-- **Profession(s)** : (Développeur, Designer, Compositeur, Journaliste, etc.)  
+- **Profession(s)** : 
+	- Fondateur : [[Infinity Ward]] / [[Respawn]]
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 
 ```timeline-labeled
@@ -60,7 +61,7 @@ if (tableData.length > 0) {
 Lister les prix et reconnaissances obtenues.
 
 ## Controverses ou Faits Marquants
-- Décédé dans un accident de voiture => [Article PC Gamer](https://www.pcgamer.com/games/vince-zampella-the-co-founder-of-infinity-ward-and-head-of-battlefield-dies-in-car-crash/)
+- Décédé dans un accident de voiture à Los Angeles => [Article PC Gamer](https://www.pcgamer.com/games/vince-zampella-the-co-founder-of-infinity-ward-and-head-of-battlefield-dies-in-car-crash/)
 
 ## Sources et Références
 - [Lien vers une source](#)

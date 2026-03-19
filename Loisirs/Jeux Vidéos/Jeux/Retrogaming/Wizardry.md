@@ -1,3 +1,7 @@
+---
+type: game
+---
+
 # Wizardry
 
 ![[Pasted image 20250328001341.png]]

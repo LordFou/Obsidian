@@ -11,9 +11,9 @@ type: game
 	- Studio : [[Enix]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[Micro-ordinateur]], [[Famicom]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Aventure Texte]]
 - **Résumé** : 
 
 ## Détails Techniques

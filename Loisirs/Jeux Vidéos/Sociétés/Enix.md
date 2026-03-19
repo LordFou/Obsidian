@@ -6,7 +6,7 @@ type: societe
 
 ## Présentation
 - Principalement une boîte de production, édition qui s'occupe du marketing d'un projet et sous traite le développement
-
+- A la fusion avec [[Square Soft]], ils sont à peine 200 employés
 
 ## Informations Générales
 - **Nom complet** :  
@@ -33,7 +33,7 @@ content:
 |       |                                     |       |             |
 |       |                                     |       |             |
 |       |                                     |       |             |
-|       | Dragon Quest                        |       |             |
+|       | [[Dragon Quest]]                    |       |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

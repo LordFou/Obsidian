@@ -8,13 +8,15 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur          | Nationalité | Remarque |
+| ----- | ------------------ | ----------- | -------- |
+| 2023  | [[Carlos Alcaraz]] | Espagnol    |          |
+| 2024  | [[Carlos Alcaraz]] | Espagnol    |          |
+| 2026  | [[Jannik Sinner]]  | Italien     |          |
+|       |                    |             |          |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur           | Nationalité | Remarque |
+| ----- | ------------------- | ----------- | -------- |
+| 2026  | [[Aryna Sabalenka]] | Bélarusse   |          |
+|       |                     |             |          |

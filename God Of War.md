@@ -12,7 +12,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise God of War]]
 - **Genre** :
 - **Résumé** : 
 

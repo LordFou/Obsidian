@@ -11,7 +11,9 @@ type: game
 	- Personnalités : 
 		- [[Olivier Deriviere]] (Musique)
 - **Éditeur** : [[Xbox Games Studio]]
-- **Plateformes** : PC, Xbox
+- **Plateformes** :
+	- [[PC]], [[Xbox Series]]  (Day One)
+	- [[Playstation 5]], [[Switch 2]] (Portage en mars 2026)
 - **Franchise** : 
 - **Genre** : [[Action]]
 - **Résumé** : Un ouragan emporte la maison et la mère de l'héroïne qui part à la recherche de cette dernière
