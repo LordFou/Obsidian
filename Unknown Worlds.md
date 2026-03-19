@@ -29,7 +29,7 @@ content: Les 3 fondateurs de [[Unknown Worlds]] sont virés peu avant la sortie 
 
 date: Mars 2026
 title: La Justice américaine passe par là
-content: Un juge du Delaware annule les licenciements et ordonne que l'ancien patron du studio, [[Ted Gill]], retrouve le contrôle effectif du développement de [[Subnautica 2]].
+content: Un juge du Delaware annule les licenciements et ordonne que l'ancien patron du studio, [[Ted Gill]], retrouve le contrôle effectif du développement de [[Subnautica 2]] et doit s'occuper de la sortie de celui-ci.
 
 ```
 
