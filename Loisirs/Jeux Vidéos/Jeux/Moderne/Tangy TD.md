@@ -1,27 +1,26 @@
 ---
 type: game
 ---
-![[Pasted image 20260304202253.png]]
-# Slay the Spire 2
+![[Pasted image 20260319201444.png]]
+# Tangy TD
 
 ## Informations Générales
 
-- **Année de sortie** : 2026 (Accès anticipé)
+- **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Mega Crit]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Mega Crit]]
+- **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Deckbuilding]], [[Roguelite]], [[Coopération]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- 3 millions de vente en une semaine
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -41,4 +40,3 @@ type: game
 | Description | URL |
 | ----------- | --- |
 |             |     |
-![[image-398.webp]]
