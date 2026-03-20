@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Pascal Ackermann
+# Pavel Bittner
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Allemande
+- **Nationalité** :  Tchèque
 - **Sport / Discipline** :  [[Cyclisme]]
-- **Poste / Spécialité** (si applicable) :  Sprinter
-- **Équipe(s) / Club(s)** :  [[Israël Premier Tech]], [[Jayco]]
+- **Poste / Spécialité** (si applicable) :  
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                | Résultat | Remarque      |
-| ----- | -------------------------- | -------- | ------------- |
-| 2025  | [[Classique Dunkerque]]    | 1ier     | Sprint Massif |
-| 2026  | [[Bredene Coxyde Classic]] | 2e       |               |
+| Année | Compétition                | Résultat | Remarque |
+| ----- | -------------------------- | -------- | -------- |
+| 2026  | [[Bredene Coxyde Classic]] | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
