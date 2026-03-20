@@ -1,18 +1,18 @@
 ---
 type: game
 ---
-
-# Subnautica
+![[Pasted image 20260319201444.png]]
+# Tangy TD
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Unknown Worlds]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Subnautica]]
+- **Franchise** : 
 - **Genre** :
 - **Résumé** : 
 

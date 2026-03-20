@@ -6,7 +6,7 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 2026 (Accès anticipé)
 - **Développeur** : 
 	- Studio : [[Mega Crit]]
 	- Personnalités : 
@@ -20,7 +20,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 3 millions de vente en une semaine
 - **Gameplay** :
 - **Durée estimée** : 
 

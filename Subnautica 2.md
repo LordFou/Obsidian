@@ -6,13 +6,13 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise Subnautica]]
 - **Genre** :
 - **Résumé** : 
 
@@ -34,7 +34,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- La sortie du jeu sera fortement chamboulée du fait que les principaux responsables de [[Unknown Worlds]] soient virés, puis restaurés dans leur fonction par la justice américaine.
 ## Liens et Ressources
 
 | Description | URL |

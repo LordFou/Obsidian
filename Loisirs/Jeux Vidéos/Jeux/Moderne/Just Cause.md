@@ -2,17 +2,18 @@
 type: game
 ---
 
-# Subnautica
+# Just Cause
 
 ## Informations Générales
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Unknown Worlds]]
+	- Studio : 
 	- Personnalités : 
+		- [[Christofer Sundberg]] (Créateur)
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Subnautica]]
+- **Franchise** : 
 - **Genre** :
 - **Résumé** : 
 

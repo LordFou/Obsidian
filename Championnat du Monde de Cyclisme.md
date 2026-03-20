@@ -11,6 +11,7 @@ type: event
 | Année | Vainqueur                                      | Course |                 | Nationalité | Remarque                 |
 | ----- | ---------------------------------------------- | ------ | --------------- | ----------- | ------------------------ |
 | 2012  | [[Philippe Gilbert]]                           | Route  |                 | Belge       |                          |
+| 2019  | [[Mads Pedersen]]                              | Route  |                 | Danois      |                          |
 | 2022  | [[Remco Evenepoel]]                            | Route  |                 | Belge       |                          |
 | 2024  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Route  |                 | Slovène     |                          |
 | 2025  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Route  | Kigali (Rwanda) | Slovène     | 2e - [[Remco Evenepoel]] |

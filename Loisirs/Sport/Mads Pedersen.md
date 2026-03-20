@@ -15,8 +15,9 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                         | Résultat | Remarque                   |
 | ----- | ------------------------------------------------------------------- | -------- | -------------------------- |
+| 2019  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - Course         | 1ier     |                            |
 | 2024  | [[Tour d'Allemagne]] - Classement final                             | 1oer     |                            |
-| 2025  | ?                                                                   | 1ier     |                            |
+| 2025  | [[Gand Wevelgem]]                                                   | 1ier     |                            |
 | 2025  | ?                                                                   | 1ier     |                            |
 | 2025  | ?                                                                   | 1ier     |                            |
 | 2025  | ?                                                                   | 1ier     |                            |

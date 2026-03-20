@@ -22,6 +22,7 @@ type: personne
 | 2021  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
 | 2021  | [[Tour de France]] - Mur de Bretagne                | 1ier    |                                                                                                        |
 | 2023  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
+| 2023  | [[Milan San Remo]]                                  | 1ier    |                                                                                                        |
 | 2024  | [[Championnat du monde de Gravel]]                  | 1ier    |                                                                                                        |
 | 2024  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
 | 2025  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |

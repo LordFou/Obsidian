@@ -48,8 +48,9 @@ Lister les prix, distinctions ou records obtenus.
 	- 29 personnes ont été licenciés à Abu Dhabi
 	- Une grève de 3 jours est enclenchée
 	- 40 personnes ont été licenciées à Toronto sur les 500 de la filiale
-	- 
-	  ![[image-335.webp]]
+	- ![[image-335.webp]]
+- Mars 2026
+	- Licenciement de 105 emplois chez [[Red Storm]] mais Ubi ne ferme pas le studio pour continuer à bénéficier de la licence Tom Clancy sans payer  de royalties vu qu'ils ont acquis le studio et donc licence auparavant.
 
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.

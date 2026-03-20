@@ -2,18 +2,19 @@
 type: game
 ---
 
-# Subnautica
+# Samson
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Unknown Worlds]]
+	- Studio : 
 	- Personnalités : 
+		- [[Christofer Sundberg]]
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise Subnautica]]
-- **Genre** :
+- **Franchise** : 
+- **Genre** : [[GTA-Like]]
 - **Résumé** : 
 
 ## Détails Techniques
