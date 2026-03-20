@@ -1,26 +1,24 @@
 ---
 type: game
 ---
-![[image-467.webp]]### Starship Troopers
-# Starship Troopers - Ultimate Bug War!
+![[image-468.webp]]
+# Scritchy Scratchy
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Auroch Digital]]
+	- Studio :  [[Lunch Money Games]]
 	- Personnalités : 
-- **Éditeur** : 
-	- [[Dotemu]]
-	- [[Game Source Entertainment]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
+- **Éditeur** : [[Funday Games]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Action Aventure]], [[FPS]]
-- **Résumé** : 
+- **Genre** : [[Roguelike]], [[Casino]]
+- **Résumé** : on écluse des tickets à gratter de plus en plus lucratifs tout en améliorant notre force et vitesse de grattage
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 2D Moche
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
@@ -28,7 +26,6 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- 
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
@@ -40,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/tc5KpCp-CFU |
+| Description | URL |
+| ----------- | --- |
+|             |     |

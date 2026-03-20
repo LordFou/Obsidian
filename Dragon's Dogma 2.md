@@ -1,21 +1,19 @@
 ---
 type: game
 ---
-![[image-467.webp]]### Starship Troopers
-# Starship Troopers - Ultimate Bug War!
+
+# Dragon's Dogma 2
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Auroch Digital]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-	- [[Dotemu]]
-	- [[Game Source Entertainment]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action Aventure]], [[FPS]]
+- **Genre** :
 - **Résumé** : 
 
 ## Détails Techniques
@@ -28,7 +26,6 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- 
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
@@ -40,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/tc5KpCp-CFU |
+| Description | URL |
+| ----------- | --- |
+|             |     |
