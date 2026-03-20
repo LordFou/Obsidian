@@ -1,22 +1,23 @@
 ---
 type: game
 ---
-
-# The Artisan of Glimmith
+![[image-462.webp]]
+# Funi Raccoon Game
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : Lunarch Studio
+	- Studio : 
+		- Crayon
+		- Kit
 	- Personnalités : 
 - **Éditeur** : 
-	- Lunarch Studio
-	- 
+	- The Crayon Eating Company
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Puzzle]]
-- **Résumé** : un charmant jeu en 3D où l'on explore une contrée paisible en tant que réparateur de vitraux. Mais ce métier est justement le prétexte à une série d'énigmes diaboliques, qui suivent toutes un principe simple : répartir un vitrail en différentes régions colorées selon les règles qui sont énoncées à chaque fois.
+- **Genre** : [[Plateforme]]
+- **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
