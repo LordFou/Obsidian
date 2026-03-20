@@ -5,10 +5,10 @@ type: matos
 # Playstation 3
 
 ## Informations principales
-- Fabricant : {{Nom du fabricant}}
+- Fabricant : [[Sony]]
 - Année de sortie : {{Année}}
-- Génération : {{Ex: 8-bit, 16-bit, 32-bit...}}
-- Type : {{Console de salon, Portable, Micro-ordinateur...}}
+- Génération : 32-bit
+- Type : [[console]]
 - Support(s) : {{Cartouches, CD, Disquettes, etc.}}
 - Processeur : {{Nom et fréquence}}
 - RAM : {{Quantité de mémoire vive}}
@@ -28,4 +28,4 @@ type: matos
 - {{Lien avec la musique, le design, l’influence culturelle...}}
 
 ## Liens connexes
-- [Page Wikipédia](https://wikipedia.org)
+- [Page Wikipédia](https://wikipedia.o

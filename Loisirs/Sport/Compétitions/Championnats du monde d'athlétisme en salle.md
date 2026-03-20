@@ -8,10 +8,10 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Epreuve | Vainqueur          | Nationalité | Remarque |
+| ----- | ------- | ------------------ | ----------- | -------- |
+| 2026  | 60m     | [[Jordan Anthony]] | Américain   |          |
+|       |         |                    |             |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

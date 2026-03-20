@@ -19,10 +19,12 @@ type: personne
 | ----- | ---------------------------------- | ------------- | ------------------------------------------------------------------- |
 | 2019  | [[US Open]] - Double               | ==Vainqueur== | avec [[Aryna Sabalenka]]                                            |
 | 2020  | [[Australian Open]] - Simple       | 1/8 finale    |                                                                     |
+| 2021  | [[Tournoi de Miami]] - Simple      | 1/8 finale    |                                                                     |
 | 2021  | [[Australian Open]] - Simple       | 1/8 finale    |                                                                     |
 | 2021  | [[Australian Open]] - Double       | ==Vainqueur== | avec [[Aryna Sabalenka]]                                            |
 | 2021  | [[Wimbledon]] - Double             | ==Vainqueur== | avec [[Su-Wei Hsieh]]                                               |
 | 2022  | [[Australian Open]] - Simple       | 1/8 finale    |                                                                     |
+| 2023  | [[Tournoi de Miami]] - Simple      | 1/8 finale    |                                                                     |
 | 2024  | [[Australian Open]] - Double       | ==Vainqueur== | avec [[Su-Wei Hsieh]]                                               |
 | 2025  | [[Tournoi de Rosmalen]] - Simple   | Vainqueur     | 10e titre en simple                                                 |
 | 2025  | [[Wimbledon]] - Simple             | 8e de finale  |                                                                     |
@@ -39,7 +41,7 @@ type: personne
 | 2026  | [[Tournoi de Dubaï]] - Double      | 1ier tour     |                                                                     |
 | 2026  | [[Tournoi Indian Wells]] - Simple  | 3e tour       |                                                                     |
 | 2026  | [[Tournoi Indian Wells]] - Double  | 1ier tour     |                                                                     |
-| 2026  | [[Tournoi de Miami]] - Simple      | 2e tour       |                                                                     |
+| 2026  | [[Tournoi de Miami]] - Simple      | 1/16 finale   |                                                                     |
 
 # Style et Caractéristiques
 - C'est une joueuse très équilibrée et régulière qui intègre en juin 2025 le club très fermé des joueuses qui ont gagné un tournoi sur les 3 types de surface.

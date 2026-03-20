@@ -13,15 +13,16 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                     | Résultat | Remarque         |
-| ----- | ----------------------------------------------- | -------- | ---------------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 4x100m | 10e      | Eliminé en série |
+| Année | Compétition                                                                  | Résultat | Remarque                            |
+| ----- | ---------------------------------------------------------------------------- | -------- | ----------------------------------- |
+| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 4x100m                | 10e      | Eliminé en série                    |
+| 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - 60m | Finale   | Se blesse en finale<br>Série (6.53) |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Premier Belge en finale de la discipline aux Mondiaux indoor depuis pratiquement 40 ans (2026)
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
