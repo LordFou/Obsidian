@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Tournoi de Miami - ATP Masters 1000 - WTA Masters 1000
+# Championnats du monde d'athlétisme en salle
 
 # Introduction
 

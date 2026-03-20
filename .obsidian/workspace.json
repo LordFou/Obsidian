@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tournoi de Miami.md",
+                "file": "Loisirs/Sport/Compétitions/Bredene Coxyde Classic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tournoi de Miami"
+              "title": "Bredene Coxyde Classic"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Miami",
+                "query": "Bredene Coxyde Classic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,8 +207,13 @@
   },
   "active": "72c68241017033ef",
   "lastOpenFiles": [
-    "Raphaël Collignon.md",
+    "Eliott Crestan.md",
+    "Loisirs/Sport/Compétitions/Bredene Coxyde Classic.md",
+    "Loisirs/Sport/Compétitions/Championnats du monde d'athlétisme en salle.md",
+    "Championnats du monde d'athlétisme.md",
+    "Elise Mertens.md",
     "Tournoi de Miami.md",
+    "Raphaël Collignon.md",
     "Tournoi de Pau.md",
     "Journal de bord/2026-03-20.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
@@ -227,11 +233,6 @@
     "Nvidia.md",
     "Intelligence Artificielle.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Marathon.md",
-    "Franchise Frostpunk.md",
-    "Frostpunk 1886.md",
-    "Unreal Engine.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Nerf Arena Blast.md",
-    "Frostpunk 2.md",
     "Attachments/image-458.webp",
     "Attachments/image-457.webp",
     "Attachments/image-456.webp",

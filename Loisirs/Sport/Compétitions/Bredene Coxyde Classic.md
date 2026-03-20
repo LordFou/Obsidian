@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Tournoi de Miami - ATP Masters 1000 - WTA Masters 1000
+# Bredene Coxyde Classic
 
 # Introduction
 
