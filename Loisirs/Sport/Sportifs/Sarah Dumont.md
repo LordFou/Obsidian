@@ -18,7 +18,7 @@ type: personne
 | 2025  | Euro - Petit bain - 200m Papillon | 11e       | 2:09.10 (Demi-finale) |     |
 | 2025  | Euro - Petit bain - 800m Nl       | 6e        | 8:22.93 (Finale)      |     |
 | 2025  | Euro - Petit bain - 400m Nl       | ? (Série) | 4:05.18               |     |
-|       |                                   |           |                       |     |
+| 2026  | Flanders Swimming Cup - 200m Nl   | 1ière     | 1:58.38               |     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

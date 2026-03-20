@@ -2,27 +2,26 @@
 type: personne
 ---
 
-# Jente Hauttekeete
+# Stefaan Maene
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** : [[Athlétisme]] 
-- **Poste / Spécialité** (si applicable) :  [[Décathlon]]
+- **Nationalité** : Belge
+- **Sport / Discipline** :  [[Natation]]
+- **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                        | Résultat | Remarque |
-| ----- | -------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - Décathlon | 10e      | 8116 pts |
-| 2026  | [[Championnats du monde d'athlétisme en salle]] -  |          |          |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Record Grand Bain - 200m (1.59.64) - 1992
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
