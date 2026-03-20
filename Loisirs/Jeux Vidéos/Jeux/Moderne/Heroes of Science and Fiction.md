@@ -1,16 +1,16 @@
 ---
 type: game
 ---
-
+![[image-464.webp]]
 # Heroes of Science and Fiction
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Oxymoron Games]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Oxymoron Games]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :
@@ -33,7 +33,7 @@ type: game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
-	- [[Heroes of Might and Magic II]]
+	- Clone de [[Heroes of Might and Magic III]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources

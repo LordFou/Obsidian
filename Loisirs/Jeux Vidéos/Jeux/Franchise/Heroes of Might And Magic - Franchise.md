@@ -17,11 +17,11 @@
 - Entre HoMM2 et HoMM3, des tentatives de passage à la 3D ont été testées mais rejetées pour garder la communauté du 2, ainsi que ne pas alourdir le développement du 3.
 
 ## Jeux principaux
-| Titre                            | Année     | Plateformes     | Remarque                                                |
-| -------------------------------- | --------- | --------------- | ------------------------------------------------------- |
-| [[Heroes of Might And Magic]]    | {{Année}} | {{Plateformes}} |                                                         |
-| [[Heroes of Might and Magic II]] | 1996      | PC, Mac         | Ajout de la notion de RPG<br>Ajout du magicien et nécro |
-| Heroes of Might and Magic III    |           |                 |                                                         |
+| Titre                             | Année     | Plateformes     | Remarque                                                |
+| --------------------------------- | --------- | --------------- | ------------------------------------------------------- |
+| [[Heroes of Might And Magic]]     | {{Année}} | {{Plateformes}} |                                                         |
+| [[Heroes of Might and Magic II]]  | 1996      | PC, Mac         | Ajout de la notion de RPG<br>Ajout du magicien et nécro |
+| [[Heroes of Might and Magic III]] |           |                 |                                                         |
 
 ## Mécaniques et innovations
 {{Description des éléments de gameplay marquants, des innovations techniques et de ce qui rend la franchise unique.}}

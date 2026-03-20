@@ -1,21 +1,20 @@
 ---
 type: game
 ---
-![[image-467.webp]]### Starship Troopers
-# Starship Troopers - Ultimate Bug War!
+![[image-466.webp]]
+# Find Matt's Cats
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Auroch Digital]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : 
-	- [[Dotemu]]
-	- Game Source Entertainment
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
+		- [[Matt Roszak]]
+- **Éditeur** : [[Matt Roszak]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Action Aventure]], [[FPS]]
+- **Genre** : [[Cherche et Trouve]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -28,7 +27,6 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- 
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
@@ -40,6 +38,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/tc5KpCp-CFU |
+| Description | URL |
+| ----------- | --- |
+|             |     |
