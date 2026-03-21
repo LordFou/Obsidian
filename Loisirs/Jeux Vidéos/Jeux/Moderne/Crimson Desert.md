@@ -41,6 +41,10 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 	- [[Dragon's Dogma 2]]
+## Polémiques
+- Le jeu utilise l'IA générative pour certains décor...
+  ![[image-477.webp]]
+
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
