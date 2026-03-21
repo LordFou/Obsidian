@@ -18,12 +18,13 @@ type: personne
 | 2021  | Championnat du Monde de Judo (?)      | ==1ier== |          |
 | 2025  | Grand Chelem de judo de Tokyo (-81kg) | 7e       |          |
 | 2025  | Grand Chelem de judo de Paris (?)     | ?        |          |
+| 2026  | Grand Chelem de Tbilissi              | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- 13 médailles en grand chelem.
 
 # Controverses ou Événements Importants
 - Opération du ménisque en Juin 2025
