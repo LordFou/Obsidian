@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Michael Obasuyi.md",
+                "file": "Ilana Hanssens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Michael Obasuyi"
+              "title": "Ilana Hanssens"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Michael Obasuyi",
+                "query": "Belgian Waf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,11 +208,15 @@
   },
   "active": "8e18bebc69b7da10",
   "lastOpenFiles": [
+    "Belgian Waffles.md",
+    "Ilana Hanssens.md",
+    "Helena Ponette.md",
+    "Jonathan Sacoor.md",
+    "Loisirs/Sport/Sportifs/Michael Obasuyi.md",
     "Raphaël Collignon.md",
     "Eliott Crestan.md",
     "Loisirs/Sport/Sportifs/Jente Hauttekeete.md",
     "Championnats du monde d'athlétisme en salle.md",
-    "Loisirs/Sport/Sportifs/Michael Obasuyi.md",
     "conflict-files-obsidian-git.md",
     "devotid.md",
     "Tournoi de Miami.md",
@@ -229,8 +234,6 @@
     "Edward Theuns.md",
     "Eddy Merckx.md",
     "Dragon's Dogma 2.md",
-    "Blood Pact Studios.md",
-    "Auroch Digital.md",
     "Attachments/image-474.webp",
     "Attachments/image-473.webp",
     "Attachments/image-472.webp",
@@ -241,8 +244,6 @@
     "Attachments/image-467.webp",
     "Attachments/image-466.webp",
     "Attachments/image-465.webp",
-    "Ardent Games.md",
-    "983 Interactive.md",
     "Loisirs/Sport/Compétitions/Sans titre",
     "ZA",
     "Loisirs/Jeux Vidéos/Généalogie Société.canvas",
