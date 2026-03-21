@@ -12,7 +12,10 @@ Une des courses cyclistes les plus longues mais aussi la plus ennuyeuse la plupa
 | Année | Vainqueur                                      | Nationalité | Equipe      | Remarque                                                                             |
 | ----- | ---------------------------------------------- | ----------- | ----------- | ------------------------------------------------------------------------------------ |
 | 2014  | [[Alexander Kristoff]]                         | Norvégien   |             |                                                                                      |
+| 2019  |                                                |             |             |                                                                                      |
+| 2020  |                                                |             |             |                                                                                      |
 | 2021  | [[Jasper Stuyven]]                             | ==Belge==   |             |                                                                                      |
+| 2022  |                                                |             |             |                                                                                      |
 | 2023  | [[Mathieu van der Poel]]                       | Néerlandais | [[Alpecin]] |                                                                                      |
 | 2024  | [[Jasper Philipsen]]                           | ==Belge==   | [[Alpecin]] |                                                                                      |
 | 2025  | [[Mathieu van der Poel]]                       | Néerlandais | [[Alpecin]] | Ils ont attaqué à 3 (Lui, Pogacar et Ganna) dans la Cipressa, ce qui n'arrive jamais |
