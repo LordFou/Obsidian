@@ -22,6 +22,7 @@ Une des courses cyclistes les plus longues mais aussi la plus ennuyeuse la plupa
 | Année | Vainqueur         | Nationalité  | Remarque |
 | ----- | ----------------- | ------------ | -------- |
 | 2025  | [[Lorena Wiebes]] | Néerlandaise |          |
+| 2026  | [[Lotte Kopecky]] | Belge        |          |
 |       |                   |              |          |
 
 
