@@ -1,3 +1,7 @@
+---
+type: personne
+---
+
 # Pascal Ackermann
 
 # Informations Générales
@@ -5,13 +9,14 @@
 - **Nationalité** :  Allemande
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  Sprinter
-- **Équipe(s) / Club(s)** :  Israel-Premier Tech
+- **Équipe(s) / Club(s)** :  [[Israël Premier Tech]], [[Jayco]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition             | Résultat | Remarque      |
-| ----- | ----------------------- | -------- | ------------- |
-| 2025  | [[Classique Dunkerque]] | 1ier     | Sprint Massif |
+| Année | Compétition                | Résultat | Remarque      |
+| ----- | -------------------------- | -------- | ------------- |
+| 2025  | [[Classique Dunkerque]]    | 1ier     | Sprint Massif |
+| 2026  | [[Bredene Coxyde Classic]] | 2e       |               |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

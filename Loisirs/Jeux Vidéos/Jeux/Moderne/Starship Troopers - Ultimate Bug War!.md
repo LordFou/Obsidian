@@ -1,16 +1,18 @@
 ---
 type: game
 ---
-
+![[image-467.webp]]### Starship Troopers
 # Starship Troopers - Ultimate Bug War!
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Auroch Digital]]
 	- Personnalités : 
 - **Éditeur** : 
+	- [[Dotemu]]
+	- [[Game Source Entertainment]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
 - **Franchise** : 
 - **Genre** : [[Action Aventure]], [[FPS]]

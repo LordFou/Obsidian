@@ -8,7 +8,9 @@
 ## Musique
 - https://lofigirl.com/
 - https://strudel.cc/
-- 
+
+# Divers
+- https://www.chucknorrisfacts.fr/
 
 # Outils
 - https://2025.gamesrecap.io/

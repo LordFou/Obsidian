@@ -1,15 +1,15 @@
 ---
 type: matos
 ---
-
+![[image-459.webp]]
 # Playstation 3
 
 ## Informations principales
-- Fabricant : {{Nom du fabricant}}
+- Fabricant : [[Sony]]
 - Année de sortie : {{Année}}
-- Génération : {{Ex: 8-bit, 16-bit, 32-bit...}}
-- Type : {{Console de salon, Portable, Micro-ordinateur...}}
-- Support(s) : {{Cartouches, CD, Disquettes, etc.}}
+- Génération : 32-bit
+- Type : [[console]]
+- Support(s) : [[Blu-Ray]]
 - Processeur : {{Nom et fréquence}}
 - RAM : {{Quantité de mémoire vive}}
 - Mascotte : 
@@ -23,9 +23,7 @@ type: matos
 - {{Titre du jeu 3 (année)}}
 
 ## Anecdotes et faits marquants
-- {{Fait ou anecdote 1}}
-- {{Fait ou anecdote 2}}
-- {{Lien avec la musique, le design, l’influence culturelle...}}
+- En mars 2026, la mise à jour 4.93 est obligatoire sous peine de perdre l’accès au lecteur [[Blu-Ray]]
 
 ## Liens connexes
 - [Page Wikipédia](https://wikipedia.org)

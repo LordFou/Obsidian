@@ -40,6 +40,7 @@ type: game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[Dragon's Dogma 2]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources

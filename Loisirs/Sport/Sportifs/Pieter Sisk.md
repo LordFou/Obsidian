@@ -13,12 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                    | Résultat         | Remarque                                    |     |
-| ----- | ---------------------------------------------- | ---------------- | ------------------------------------------- | --- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 1500m | Eliminé en série |                                             |     |
-| 2025  | [[Championnats du monde d'athlétisme]] - 800m  | Eliminé en série |                                             |     |
-| 2026  | Meeting de Boston (Indoor) - 2000m             | 3e               | ==Record d'Europe !==<br>Record de Belgique |     |
-|       |                                                |                  |                                             |     |
+| Année | Compétition                                                                 | Résultat         | Remarque                                    |     |
+| ----- | --------------------------------------------------------------------------- | ---------------- | ------------------------------------------- | --- |
+| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 1500m                | Eliminé en série |                                             |     |
+| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 800m                 | Eliminé en série |                                             |     |
+|       |                                                                             |                  |                                             |     |
+| 2026  | Meeting de Boston (Indoor) - 2000m                                          | 3e               | ==Record d'Europe !==<br>Record de Belgique |     |
+| 2026  | [[Championnats du Monde d'athlétisme en salle\|Champ. Monde Salle]] - 1500m | Eliminé en série | 3:42.45                                     |     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

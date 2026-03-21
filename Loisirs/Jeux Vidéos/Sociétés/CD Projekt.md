@@ -18,8 +18,8 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
+date: Janvier 2026  
+title: Le studio rachète entièrement la plateforme de vente de jeux [[GoG]]
 content:
 ```
 

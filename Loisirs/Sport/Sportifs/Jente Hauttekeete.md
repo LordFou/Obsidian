@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                        | Résultat | Remarque |
-| ----- | -------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - Décathlon | 10e      | 8116 pts |
+| Année | Compétition                                                                        | Résultat | Remarque |
+| ----- | ---------------------------------------------------------------------------------- | -------- | -------- |
+| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - Décathlon                   | 10e      | 8116 pts |
+| 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - Décathlon |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

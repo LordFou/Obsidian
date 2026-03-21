@@ -1,4 +1,7 @@
-
+---
+type: game
+---
+![[image-472.webp]]
 
 # The Roottrees are  Dead
 

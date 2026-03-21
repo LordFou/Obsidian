@@ -40,6 +40,7 @@ type: personne
 | 2025  | [[Trois Vallées Varésines]]                                | 1ier 🥇  |                                                                                    |
 | 2025  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                    |
 | 2026  | [[Strade Bianche]]                                         | 1ier     |                                                                                    |
+| 2026  | [[Milan San Remo]]                                         | 1ier     |                                                                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
