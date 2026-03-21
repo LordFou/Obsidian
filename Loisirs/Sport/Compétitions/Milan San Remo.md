@@ -11,6 +11,9 @@ Une des courses cyclistes les plus longues mais aussi la plus ennuyeuse la plupa
 
 | Année | Vainqueur                                      | Nationalité | Equipe      | Remarque                                                                             |
 | ----- | ---------------------------------------------- | ----------- | ----------- | ------------------------------------------------------------------------------------ |
+| 1972  | [[Eddy Merckx]]                                | ==Belge==   |             |                                                                                      |
+| 1974  | [[Eddy Merckx]]                                | ==Belge==   |             |                                                                                      |
+| 2009  | [[Marc Cavendish]]                             | Anglais     |             |                                                                                      |
 | 2014  | [[Alexander Kristoff]]                         | Norvégien   |             |                                                                                      |
 | 2019  |                                                |             |             |                                                                                      |
 | 2020  |                                                |             |             |                                                                                      |
