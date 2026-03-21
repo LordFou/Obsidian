@@ -71,6 +71,8 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 | 2025  | Cross de Loenhout                                                 | 2e       | derrière [[Mathieu van der Poel]]                                          |
 | 2026  | [[Samyn Classic]]                                                 | ?        | Crevaison à 10km au plus mauvais moment.                                   |
 | 2026  | [[Tirreno-Adriatico]] - 4 étape                                   | 5e       |                                                                            |
+| 2026  | [[Milan San Remo]]                                                | 3e       |                                                                            |
+|       |                                                                   |          |                                                                            |
 ![[Pasted image 20250415003019.png]]
 # Style et Caractéristiques
 - Humain
