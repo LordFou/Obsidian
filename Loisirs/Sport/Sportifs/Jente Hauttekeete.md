@@ -16,7 +16,7 @@ type: personne
 | Année | Compétition                                                                        | Résultat | Remarque |
 | ----- | ---------------------------------------------------------------------------------- | -------- | -------- |
 | 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - Décathlon                   | 10e      | 8116 pts |
-| 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - Décathlon |          |          |
+| 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - Décathlon | 5e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
