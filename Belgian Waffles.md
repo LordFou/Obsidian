@@ -12,3 +12,4 @@ Equipe mixte du 4x400m d'[[Athlétisme]]
 | 2026  | [[Championnats du monde d'athlétisme en salle]] - Finale | 1ier !!! | [[Jonathan Sacoor]]<br>[[Ilana Hanssens]]<br>[[Julien Watrin]]<br>[[Helena Ponette]] |     |     |
 |       |                                                          |          |                                                                                      |     |     |
 
+![[image-476.webp]]
