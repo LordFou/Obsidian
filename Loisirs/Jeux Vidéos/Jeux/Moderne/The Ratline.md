@@ -1,20 +1,20 @@
 ---
 type: game
 ---
-
+![[image-471.webp]]
 # The Ratline
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Owlskip Games]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Owlskip Games]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Deduction Game]]
-- **Résumé** : 
+- **Résumé** : on doit éplucher des documents et cogiter pour réussir à identifier d'anciens [[nazis]], au début des années 1970
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -33,6 +33,7 @@ type: game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[The Roottrees are  Dead]]
 ## Anecdotes et Curiosités
 - Recommandé par [[Lucas Pope]]
 ## Liens et Ressources

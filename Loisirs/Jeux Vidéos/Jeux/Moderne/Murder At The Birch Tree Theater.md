@@ -1,29 +1,28 @@
 ---
 type: game
 ---
-![[image-472.webp]]
-
-# The Roottrees are  Dead
+![[image-474.webp]]
+# Murder At The Birch Tree Theater
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Point & Click]], [[Puzzle]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** :
-	- 7/10 (Canard PC)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
+- **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
@@ -32,6 +31,7 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- Golden Idol
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

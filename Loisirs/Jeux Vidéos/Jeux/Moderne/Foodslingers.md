@@ -1,29 +1,28 @@
 ---
 type: game
 ---
-![[image-472.webp]]
-
-# The Roottrees are  Dead
+![[image-473.webp]]
+# Foodslingers
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Ardent Games]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Kenny Doan]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :
-- **Résumé** : 
+- **Résumé** : simulateur de resto chaotique
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** :
-	- 7/10 (Canard PC)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
+- **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
