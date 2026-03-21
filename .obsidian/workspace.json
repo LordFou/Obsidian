@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dyping Escape.md",
+                "file": "Loisirs/Internet/Les perles du net.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dyping Escape"
+              "title": "Les perles du net"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dyping Escape",
+                "query": "perles",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,8 +206,8 @@
   },
   "active": "72c68241017033ef",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dragonkin.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Dyping Escape.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dragonkin.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Murder At The Birch Tree Theater.md",
     "Attachments/image-474.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Foodslingers.md",
