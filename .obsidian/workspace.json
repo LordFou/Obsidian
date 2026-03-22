@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Guerre",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,6 +206,7 @@
   },
   "active": "72c68241017033ef",
   "lastOpenFiles": [
+    "Attachments/image-475.webp",
     "Journal de bord/2026-03-22.md",
     "Loisirs/Sport/Compétitions/Milan San Remo.md",
     "Eddy Merckx.md",
@@ -236,7 +237,6 @@
     "Kwalee Gaming.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
     "Dragon's Dogma 2.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Turbo Dismount 2.md",
     "Attachments/image-469.webp",
     "Attachments/image-468.webp",
     "Attachments/image-467.webp",
