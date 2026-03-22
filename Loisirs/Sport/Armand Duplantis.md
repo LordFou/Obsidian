@@ -1,21 +1,24 @@
 ---
 type: personne
 ---
-
+![[image-478.webp]]
 # Armand Duplantis
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Suédois
 - **Sport / Discipline** :  [[Athlétisme]]
-- **Poste / Spécialité** (si applicable) : Saut à la perche
+- **Poste / Spécialité** (si applicable) : [[Saut à la perche]]
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition                                     | Résultat | Remarque |
+| ----- | ----------------------------------------------- | -------- | -------- |
+| 2023  | [[Championnats du monde d'athlétisme en salle]] | 1ier     |          |
+| 2024  | [[Championnats du monde d'athlétisme en salle]] | 1ier     |          |
+| 2025  | [[Championnats du monde d'athlétisme en salle]] | 1ier     |          |
+| 2026  | [[Championnats du monde d'athlétisme en salle]] | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

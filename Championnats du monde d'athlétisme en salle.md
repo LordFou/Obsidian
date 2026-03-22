@@ -8,13 +8,16 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Epreuve          | Vainqueur            | Nationalité | Remarque |
+| ----- | ---------------- | -------------------- | ----------- | -------- |
+| 2023  | Saut à la perche | [[Armand Duplantis]] | Suédois     |          |
+| 2024  | Saut à la perche | [[Armand Duplantis]] | Suédois     |          |
+| 2025  | Saut à la perche | [[Armand Duplantis]] | Suédois     |          |
+| 2026  | Saut à la perche | [[Armand Duplantis]] | Suédois     |          |
+|       |                  |                      |             |          |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Epreuve | Vainqueur | Nationalité | Remarque |
+| ----- | ------- | --------- | ----------- | -------- |
+| 2026  |         |           |             |          |
+|       |         |           |             |          |
