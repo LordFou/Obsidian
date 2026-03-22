@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Milan San Remo.md",
+                "file": "Culture/Histoire/Guerres dans le monde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Milan San Remo"
+              "title": "Guerres dans le monde"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Guerre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,8 +206,9 @@
   },
   "active": "72c68241017033ef",
   "lastOpenFiles": [
-    "Eddy Merckx.md",
+    "Journal de bord/2026-03-22.md",
     "Loisirs/Sport/Compétitions/Milan San Remo.md",
+    "Eddy Merckx.md",
     "Loisirs/Sport/Mads Pedersen.md",
     "Loisirs/Sport/Sportifs/Wout Van Aert.md",
     "Loisirs/Sport/Tadej Pogacar.md",
@@ -237,7 +237,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
     "Dragon's Dogma 2.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Turbo Dismount 2.md",
-    "Secret Exit.md",
     "Attachments/image-469.webp",
     "Attachments/image-468.webp",
     "Attachments/image-467.webp",
