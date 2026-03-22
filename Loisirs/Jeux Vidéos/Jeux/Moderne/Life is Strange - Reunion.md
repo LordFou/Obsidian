@@ -1,29 +1,27 @@
 ---
 type: game
 ---
-![[image-50.webp]]
-# Screamer
+
+# Life is Strange - Reunion
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Milestone]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Milestone]]
+- **Éditeur** : 
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
-- **Franchise** : 
-- **Genre** : [[Course]]
+- **Franchise** : [[Franchise Life is Strange]]
+- **Genre** : [[Action Aventure]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : 3D
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- CheckPoint (8,5/10)
-- **Gameplay** : 
-	- Les pilotes auraient des pouvoirs
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
@@ -41,5 +39,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/8Nv6JiLqTKY |
-|             |                              |
+| Trailer     | https://youtu.be/rrxm00_0jPE |
