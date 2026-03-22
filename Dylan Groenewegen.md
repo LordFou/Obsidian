@@ -19,8 +19,10 @@ type: personne
 | 2024  | [[Bredene Coxyde Classic]]      | 2e       |          |
 | 2024  | [[Grand Prix de Valence]]       | 1ier     | Sprint   |
 | 2025  | [[Tour de Slovénie]] - 3e étape | 1ier     | Sprint   |
+|       |                                 |          |          |
 | 2026  | [[Grand Prix de Valence]]       | 1ier     | Sprint   |
 | 2026  | [[Bredene Coxyde Classic]]      | 1ier     | Sprint   |
+| 2026  | [[GP Monseré]]                  | 1ier     | Sprint   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dylan Groenewegen.md",
+                "file": "Simon Dehairs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dylan Groenewegen"
+              "title": "Simon Dehairs"
             }
           }
         ]
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -206,9 +207,10 @@
   },
   "active": "a71459ae1637abdf",
   "lastOpenFiles": [
-    "Bredene Coxyde Classic.md",
-    "Dylan Groenewegen.md",
     "Loisirs/Sport/Compétitions/GP Monseré.md",
+    "Simon Dehairs.md",
+    "Dylan Groenewegen.md",
+    "Bredene Coxyde Classic.md",
     "Loisirs/Sport/Compétitions/Coupe de Belgique de Basket.md",
     "Yanla Ndjip-Nyemeck.md",
     "Jelle Geens.md",
@@ -238,7 +240,6 @@
     "Jonathan Sacoor.md",
     "Helena Ponette.md",
     "Loisirs/Sport/Sportifs/Michael Obasuyi.md",
-    "Raphaël Collignon.md",
     "Attachments/image-474.webp",
     "Attachments/image-473.webp",
     "Attachments/image-472.webp",
