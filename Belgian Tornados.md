@@ -8,6 +8,6 @@ Equipe Nationale Belge Masculine de 4x400m en [[Athlétisme]]
 | 2019  | [[Championnats du monde d'athlétisme\|Champ. Monde]]                   | 3e          |                                                                                                                                                                               |     |
 | 2022  | [[Championnats du monde d'athlétisme\|Champ. Monde]]                   | 3e          |                                                                                                                                                                               |     |
 | 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]]                   | Finale (4e) | Série 2e (2.57.98)<br>Finale (2.59.48)<br>-------------------<br>[[Jonathan Sacoor]]<br>[[Dylan Borlée]]<br>[[Daniel Segers]]<br>[[Alexander Doom]]<br>[[Robin Vanderbemden]] |     |
-| 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] |             |                                                                                                                                                                               |     |
+| 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] |             | [[Jonathan Sacoor]]<br>[[Christian Iguacel]]<br>[[Julien Watrin]]<br>[[Alexander Doom]]                                                                                       |     |
 
-![[image-480.webp]]
+![[image-484.webp]]

@@ -11,7 +11,7 @@ type: game
 	- Studio : [[Milestone]]
 	- Personnalités : 
 - **Éditeur** : [[Milestone]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Course]]
 - **Résumé** : 
@@ -38,6 +38,7 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                          |
+| ----------- | ---------------------------- |
+| Trailer     | https://youtu.be/8Nv6JiLqTKY |
+|             |                              |
