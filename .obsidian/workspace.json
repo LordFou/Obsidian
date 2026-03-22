@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jelle Geens.md",
+                "file": "Loisirs/Sport/Compétitions/Coupe de Belgique de Basket.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jelle Geens"
+              "title": "Coupe de Belgique de Basket"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Jelle G",
+                "query": "Yanla Ndjip-Nyemeck",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,8 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a71459ae1637abdf",
+  "active": "dbacc6f984f28690",
   "lastOpenFiles": [
+    "Yanla Ndjip-Nyemeck.md",
+    "Loisirs/Sport/Compétitions/Coupe de Belgique de Basket.md",
+    "Jelle Geens.md",
     "Attachments/image-481.webp",
     "Belgian Tornados.md",
     "Attachments/image-480.webp",
@@ -237,12 +241,9 @@
     "Eliott Crestan.md",
     "conflict-files-obsidian-git.md",
     "devotid.md",
-    "Tournoi de Miami.md",
-    "Secret Exit.md",
     "Attachments/image-474.webp",
     "Attachments/image-473.webp",
     "Attachments/image-472.webp",
-    "Attachments/image-471.webp",
     "Loisirs/Sport/Compétitions/Sans titre",
     "ZA",
     "Loisirs/Jeux Vidéos/Généalogie Société.canvas",

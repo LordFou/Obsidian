@@ -5,7 +5,7 @@ type: personne
 # Yanla Ndjip-Nyemeck
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  2003
 - **Nationalité** :  Belge
 - **Sport / Discipline** : [[Athlétisme]] 
 - **Poste / Spécialité** (si applicable) : 110m Haies  
@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                         | Résultat    | Remarque                      |
-| ----- | --------------------------------------------------- | ----------- | ----------------------------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 100m Haies | Demi-finale | 12.74 (Série)<br>13.05 (Demi) |
+| Année | Compétition                                                                        | Résultat    | Remarque                      |
+| ----- | ---------------------------------------------------------------------------------- | ----------- | ----------------------------- |
+| 2025  | [[Championnats du monde d'athlétisme\| Champ. Monde]] - 100m Haies                 | Demi-finale | 12.74 (Série)<br>13.05 (Demi) |
+| 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - 60m Haies | Demi-finale | 7.93 (Série)<br>              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
