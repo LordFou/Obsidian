@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition            | Résultat | Remarque |
-| ----- | ---------------------- | -------- | -------- |
-| 2026  | Grand Prix d'Argentine | 31e      |          |
+| Année | Compétition             | Résultat | Remarque |
+| ----- | ----------------------- | -------- | -------- |
+| 2026  | Grand Prix d'Argentine  | 31e      |          |
+| 2026  | Grand Prix d'Andalousie | 14e      |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
