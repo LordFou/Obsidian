@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-482.webp]]
 # Dylan Groenewegen
 
 # Informations Générales

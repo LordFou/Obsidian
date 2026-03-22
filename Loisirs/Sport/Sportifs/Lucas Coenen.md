@@ -28,6 +28,8 @@ type: personne
 | 2025  | Classement Final                 | 2e       |                                                       |
 |       |                                  |          |                                                       |
 | 2026  | Grand Prix d'Argentine           | 5e       |                                                       |
+| 2026  | Grand Prix d'Andalousie          | 1ier     | En tête du championnat 2026                           |
+|       |                                  |          |                                                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
