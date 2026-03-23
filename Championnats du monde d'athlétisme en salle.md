@@ -24,3 +24,4 @@ type: event
 |       |         |           |             |          |
 # 2026
 
+![[image-485.webp]]
