@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nacon.md",
+                "file": "Loisirs/Télévision/Chuck Norris.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nacon"
+              "title": "Chuck Norris"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Nacon",
+                "query": "chucknorris-fact.fr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,6 +206,13 @@
   },
   "active": "a7c944eaa710d3e3",
   "lastOpenFiles": [
+    "Attachments/image-489.webp",
+    "Attachments/image-488.webp",
+    "Nacon.md",
+    "Loisirs/Télévision/Chuck Norris.md",
+    "Cyanide.md",
+    "Spiders.md",
+    "Kylotonn.md",
     "Franchise Minecraft.md",
     "Minecraft Dungeons 2.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Minecraft Dungeons.md",
@@ -229,19 +236,12 @@
     "conflict-files-obsidian-git.md",
     "Culture/Histoire/Guerres dans le monde.md",
     "Simon Dehairs.md",
-    "Marc Marquez.md",
-    "Loisirs/Sport/Equipes/Red Musketeers.md",
-    "Loisirs/Sport/Compétitions/GP Monseré.md",
-    "Loisirs/Sport/Compétitions/GP Brésil.md",
-    "Loisirs/Sport/Compétitions/Coupe de Belgique de Basket.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Life is Strange - Reunion.md",
     "Attachments/image-485.webp",
     "Attachments/image-484.webp",
     "Attachments/image-483.webp",
     "Attachments/image-482.webp",
     "Attachments/image-481.webp",
     "Attachments/image-480.webp",
-    "Attachments/image-479.webp",
     "ZA",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",
