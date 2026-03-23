@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Jago Geerts
+# Christian Iguacel
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Motocross]]
-- **Poste / Spécialité** (si applicable) :  
+- **Nationalité** : Belge
+- **Sport / Discipline** :  [[Athlétisme]]
+- **Poste / Spécialité** (si applicable) :  400m
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition             | Résultat | Remarque |
-| ----- | ----------------------- | -------- | -------- |
-| 2026  | Grand Prix d'Argentine  | 31e      |          |
-| 2026  | Grand Prix d'Andalousie | 14e      |          |
+| Année | Compétition                                                                               | Résultat | Remarque                      |
+| ----- | ----------------------------------------------------------------------------------------- | -------- | ----------------------------- |
+| 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - 4x400m messieurs | 2e       | avec les [[Belgian Tornados]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

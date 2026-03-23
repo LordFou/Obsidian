@@ -1,33 +1,30 @@
 ---
 type: personne
 ---
-![[image-296.webp]]
-# Matthias Casse
+
+# Ilana Hanssens
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** : [[Judo]] 
+- **Sport / Discipline** :  [[Athlétisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                           | Résultat | Remarque |
-| ----- | ------------------------------------- | -------- | -------- |
-| 2021  | Championnat du Monde de Judo (?)      | ==1ier== |          |
-| 2025  | Grand Chelem de judo de Tokyo (-81kg) | 7e       |          |
-| 2025  | Grand Chelem de judo de Paris (?)     | ?        |          |
-| 2026  | Grand Chelem de Tbilissi              | 3e       |          |
+| Année | Compétition                                                    | Résultat | Remarque                     |
+| ----- | -------------------------------------------------------------- | -------- | ---------------------------- |
+| 2026  | [[Championnats du monde d'athlétisme en salle]] - 4x400m mixte | 1ier     | avec les [[Belgian Waffles]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-- 13 médailles en grand chelem.
+Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-- Opération du ménisque en Juin 2025
+Évoquer les polémiques ou moments clés de sa carrière.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

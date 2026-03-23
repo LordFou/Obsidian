@@ -1,12 +1,12 @@
 ---
 type: personne
 ---
-![[Pasted image 20250615115349.png]]
+![[image-481.webp]]
 # Jelle Geens
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
+- **Nationalité** : Belge
 - **Sport / Discipline** :  [[Triathlon]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
@@ -19,6 +19,9 @@ type: personne
 | 2025  | Ironman 70.3 - Geelong - Australie    | 1ier     |                          |
 | 2025  | [[Circuit T100]] - Vancouver - Canada | 1ier     | 2e - [[Marten Van Riel]] |
 | 2025  | Ironman 70.3 - Championnat du Monde   | 1ier     |                          |
+| 2026  | Ironman 70.3 - Geelong - Australie    | 2e       |                          |
+| 2026  | Ironman 70.3 - Texas - USA            |          |                          |
+| 2026  | Ironman 70.3 - Hawaï - USA            |          |                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -35,3 +38,5 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 # Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
+
+![[Pasted image 20250615115349.png]]

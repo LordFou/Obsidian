@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Jago Geerts
+# Marc Marquez
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Motocross]]
+- **Nationalité** :  
+- **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition             | Résultat | Remarque |
-| ----- | ----------------------- | -------- | -------- |
-| 2026  | Grand Prix d'Argentine  | 31e      |          |
-| 2026  | Grand Prix d'Andalousie | 14e      |          |
+| Année | Compétition            | Résultat | Remarque |
+| ----- | ---------------------- | -------- | -------- |
+| 2026  | [[GP Brésil]] - Sprint | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

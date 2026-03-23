@@ -22,6 +22,8 @@ type: personne
 | 2025  | GP Indonésie             | 4e       | Moto 2   |                    |
 |       |                          |          |          |                    |
 | 2026  | GP de Thaïlande          | 14e      | Moto2    |                    |
+| 2026  | [[GP Brésil]]            | 14e      | Moto2    |                    |
+|       |                          |          |          |                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

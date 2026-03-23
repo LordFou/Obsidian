@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                         | Résultat         | Remarque |
-| ----- | --------------------------------------------------- | ---------------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 110m haies | Eliminé en série | 13,54s   |
+| Année | Compétition                                                                        | Résultat         | Remarque |
+| ----- | ---------------------------------------------------------------------------------- | ---------------- | -------- |
+| 2025  | [[Championnats du monde d'athlétisme]] - 110m haies                                | Eliminé en série | 13,54s   |
+| 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - 60m haies | Demi-finale      |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

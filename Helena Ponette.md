@@ -13,10 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                           | Résultat       | Remarque      |
-| ----- | ----------------------------------------------------- | -------------- | ------------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m mixte | Finale (3e) 🥉 |               |
-| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m       | Finale (4e)    | sous la pluie |
+| Année | Compétition                                                    | Résultat       | Remarque                     |
+| ----- | -------------------------------------------------------------- | -------------- | ---------------------------- |
+| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m mixte          | Finale (3e) 🥉 | avec les [[Belgian Waffles]] |
+| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m                | Finale (4e)    | sous la pluie                |
+| 2026  | [[Championnats du monde d'athlétisme en salle]] - 4x400m mixte | 1ier           | avec les [[Belgian Waffles]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

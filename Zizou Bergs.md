@@ -29,6 +29,7 @@ type: personne
 | 2026  | [[Tournoi de Doha]]          | 2e tour               | Défaite contre le 22e mondial                                |
 | 2026  | [[Tournoi de Dubaï]]         | 1ier tour             | Défaite contre le 49e mondial                                |
 | 2026  | [[Tournoi Indian Wells]]     | 2e tour               |                                                              |
+| 2026  | [[Tournoi de Miami]]         | 2e tour               |                                                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

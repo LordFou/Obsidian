@@ -28,12 +28,14 @@ type: personne
 | 2025  | Classement Final                 | 2e       |                                                       |
 |       |                                  |          |                                                       |
 | 2026  | Grand Prix d'Argentine           | 5e       |                                                       |
+| 2026  | Grand Prix d'Andalousie          | 1ier     | En tête du championnat 2026                           |
+|       |                                  |          |                                                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Plus jeune pilote de l’histoire à prendre le dossard rouge de leader du championnat. (Mars 2026)
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

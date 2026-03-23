@@ -11,7 +11,7 @@ type: game
 	- Studio : [[Milestone]]
 	- Personnalités : 
 - **Éditeur** : [[Milestone]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Course]]
 - **Résumé** : 
@@ -20,7 +20,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : 3D
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- CheckPoint (8,5/10)
 - **Gameplay** : 
 	- Les pilotes auraient des pouvoirs
 - **Durée estimée** : 
@@ -38,6 +39,7 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                          |
+| ----------- | ---------------------------- |
+| Trailer     | https://youtu.be/8Nv6JiLqTKY |
+|             |                              |
