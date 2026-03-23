@@ -13,11 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                         | Résultat | Remarque          |
-| ----- | ----------------------------------- | -------- | ----------------- |
-|       |                                     |          |                   |
-| 2024  | [[JO 2024]] - 800m                  | 1ière    |                   |
-| 2026  | Championnat anglais - Indoor - 800m | 1ière    | Record du monde ! |
+| Année | Compétition                                                          | Résultat | Remarque          |
+| ----- | -------------------------------------------------------------------- | -------- | ----------------- |
+|       |                                                                      |          |                   |
+| 2024  | [[JO 2024]] - 800m                                                   | 1ière    |                   |
+| 2026  | Championnat anglais - Indoor - 800m                                  | 1ière    | Record du monde ! |
+| 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde]] - 800m | 1ière    |                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
