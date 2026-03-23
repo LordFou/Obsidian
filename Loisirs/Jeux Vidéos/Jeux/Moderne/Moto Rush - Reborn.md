@@ -2,23 +2,23 @@
 type: game
 ---
 
-# Homura Hime
+# Moto Rush - Reborn
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : Crimson Dusk (?)
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action]], [[Hack & Slash]]
+- **Genre** : [[Arcade]], [[Course]] de moto
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[3D]]
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/oXZ8YTrezlo |
+| Description | URL |
+| ----------- | --- |
+|             |     |

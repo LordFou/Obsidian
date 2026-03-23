@@ -6,14 +6,14 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
 	- Studio : [[Milestone]]
 	- Personnalités : 
 - **Éditeur** : [[Milestone]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Course]]
+- **Genre** : [[Course]], [[Arcade]] 
 - **Résumé** : 
 
 ## Détails Techniques
