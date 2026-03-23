@@ -18,9 +18,9 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
-content:
+date: Mars 2026
+title: Faillite
+content: [[Build a Rocket Boy]] France emploierait encore une 50aine de personnes à l'heure actuelle.
 ```
 
 ## Jeux Développés
