@@ -13,9 +13,9 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                          | Résultat | Remarque |
-| ----- | -------------------------------------------------------------------- | -------- | -------- |
-| 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde]] - 800m | 1ière    |          |
+| Année | Compétition                                                                      | Résultat | Remarque |
+| ----- | -------------------------------------------------------------------------------- | -------- | -------- |
+| 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde]] - Saut à la perche | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

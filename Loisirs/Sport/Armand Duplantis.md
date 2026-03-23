@@ -26,6 +26,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 # Records et Faits Marquants
 - 15 records du monde en saut à la perche
 	- 6m 31cm
+- Il composera l’hymne des Ultimate Championships.
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
