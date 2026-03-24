@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-495.webp]]
 # Tadej Pogacar
 
 # Informations Générales
@@ -13,34 +13,34 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                | Résultat | Remarque                                                                           |
-| ----- | ---------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------- |
-| ?     | [[Trois Vallées Varésines]]                                | 1ier 🥇  |                                                                                    |
-| 2021  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                    |
-| 2022  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                    |
-| 2023  | [[Strade Bianche]]                                         | 1ier     |                                                                                    |
-| 2023  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                    |
-| 2024  | [[Strade Bianche]]                                         | 1ier     |                                                                                    |
-| 2024  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                    |
-| 2024  | [[Championnat du Monde de Cyclisme\|Championnat du monde]] | 1ier 🥇  |                                                                                    |
-| 2024  | [[Tour d’Emilie]]                                          | 1ier 🥇  |                                                                                    |
-| 2025  | [[UAE Tour]]                                               | 1ier 🥇  |                                                                                    |
-| 2025  | [[Strade Bianche]]                                         | 1ier     |                                                                                    |
-| 2025  | [[Flèche Wallonne]]                                        | 1ier 🥇  | Personne pour le battre                                                            |
-| 2025  | [[Critérium du Dauphiné]] - 1e étape                       | 1ier 🥇  | Gagné dans un mini groupe de ténor                                                 |
-| 2025  | [[Critérium du Dauphiné]] - 6e étape                       | 1ier 🥇  | Victoire au sommet d'un sommet de 2e catégorie. Tous les autres favoris sont cuits |
-| 2025  | [[Critérium du Dauphiné]] - Classement Final               | 1ier 🥇  |                                                                                    |
-| 2025  | [[Critérium du Dauphiné]] - Maillot Vert                   | 1ier 🥇  |                                                                                    |
-| 2025  | [[Tour de France]] - 2e étape                              | 2e       | Maillot de la montagne                                                             |
-| 2025  | [[Tour de France]] - 4e étape                              | 1ier 🥇  | Maillot de la montagne<br>100e Victoire                                            |
-| 2025  | [[Tour de France]] - 5e étape                              | 2e       | Mailot Jaune<br>Maillot Vert<br>Maillot Montagne                                   |
-| 2025  | [[Tour de France]] - 7e étape                              | 1ier 🥇  | Maillot Jaune<br>Maillot Vert<br>60e Victoire pour UAE                             |
-| 2025  | [[Championnat du Monde de Cyclisme\|Championnat du monde]] | 1ier 🥇  |                                                                                    |
-| 2025  | [[Championnat d'Europe de Cyclisme]]                       | 1ier 🥇  |                                                                                    |
-| 2025  | [[Trois Vallées Varésines]]                                | 1ier 🥇  |                                                                                    |
-| 2025  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                    |
-| 2026  | [[Strade Bianche]]                                         | 1ier     |                                                                                    |
-| 2026  | [[Milan San Remo]]                                         | 1ier     |                                                                                    |
+| Année | Compétition                                                | Résultat | Remarque                                                                                                                                                                                                                                                                               |
+| ----- | ---------------------------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ?     | [[Trois Vallées Varésines]]                                | 1ier 🥇  |                                                                                                                                                                                                                                                                                        |
+| 2021  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                                                                                                                                                                                                                        |
+| 2022  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                                                                                                                                                                                                                        |
+| 2023  | [[Strade Bianche]]                                         | 1ier     |                                                                                                                                                                                                                                                                                        |
+| 2023  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                                                                                                                                                                                                                        |
+| 2024  | [[Strade Bianche]]                                         | 1ier     |                                                                                                                                                                                                                                                                                        |
+| 2024  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                                                                                                                                                                                                                        |
+| 2024  | [[Championnat du Monde de Cyclisme\|Championnat du monde]] | 1ier 🥇  |                                                                                                                                                                                                                                                                                        |
+| 2024  | [[Tour d’Emilie]]                                          | 1ier 🥇  |                                                                                                                                                                                                                                                                                        |
+| 2025  | [[UAE Tour]]                                               | 1ier 🥇  |                                                                                                                                                                                                                                                                                        |
+| 2025  | [[Strade Bianche]]                                         | 1ier     |                                                                                                                                                                                                                                                                                        |
+| 2025  | [[Flèche Wallonne]]                                        | 1ier 🥇  | Personne pour le battre                                                                                                                                                                                                                                                                |
+| 2025  | [[Critérium du Dauphiné]] - 1e étape                       | 1ier 🥇  | Gagné dans un mini groupe de ténor                                                                                                                                                                                                                                                     |
+| 2025  | [[Critérium du Dauphiné]] - 6e étape                       | 1ier 🥇  | Victoire au sommet d'un sommet de 2e catégorie. Tous les autres favoris sont cuits                                                                                                                                                                                                     |
+| 2025  | [[Critérium du Dauphiné]] - Classement Final               | 1ier 🥇  |                                                                                                                                                                                                                                                                                        |
+| 2025  | [[Critérium du Dauphiné]] - Maillot Vert                   | 1ier 🥇  |                                                                                                                                                                                                                                                                                        |
+| 2025  | [[Tour de France]] - 2e étape                              | 2e       | Maillot de la montagne                                                                                                                                                                                                                                                                 |
+| 2025  | [[Tour de France]] - 4e étape                              | 1ier 🥇  | Maillot de la montagne<br>100e Victoire                                                                                                                                                                                                                                                |
+| 2025  | [[Tour de France]] - 5e étape                              | 2e       | Mailot Jaune<br>Maillot Vert<br>Maillot Montagne                                                                                                                                                                                                                                       |
+| 2025  | [[Tour de France]] - 7e étape                              | 1ier 🥇  | Maillot Jaune<br>Maillot Vert<br>60e Victoire pour UAE                                                                                                                                                                                                                                 |
+| 2025  | [[Championnat du Monde de Cyclisme\|Championnat du monde]] | 1ier 🥇  |                                                                                                                                                                                                                                                                                        |
+| 2025  | [[Championnat d'Europe de Cyclisme]]                       | 1ier 🥇  |                                                                                                                                                                                                                                                                                        |
+| 2025  | [[Trois Vallées Varésines]]                                | 1ier 🥇  |                                                                                                                                                                                                                                                                                        |
+| 2025  | [[Tour de Lombardie]]                                      | 1ier 🥇  |                                                                                                                                                                                                                                                                                        |
+| 2026  | [[Strade Bianche]]                                         | 1ier     |                                                                                                                                                                                                                                                                                        |
+| 2026  | [[Milan San Remo]]                                         | 1ier     | Il tombe lourdement juste avant la [[Cipressa]] mais remonte sur son vélo, rattrape le peloton, remonte le peloton pour attaquer sur la fin du col et s'isoler en tête avec [[Mathieu van der Poel]] et [[Tom Pidcock]]. Ce dernier sera le seul à lui résister jusqu'au sprint final. |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -52,6 +52,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Controverses ou Événements Importants
 - Il ne peut pas éviter la polémique du dopage (physique et mécanique) vu ses performances.
+- Lors de [[Milan San Remo]] 2026, il remporte la victoire après une grosse chute et malgré un cadre cassé, ce dont il n'était pas au courant.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
