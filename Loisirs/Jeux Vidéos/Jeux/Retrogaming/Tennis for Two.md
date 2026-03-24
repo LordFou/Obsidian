@@ -1,16 +1,14 @@
 ---
 type: game
 ---
-![[image-490.webp]]
 
-![[image-491.webp]]
-# Journey
+# Tennis for Two
 
 ## Informations Générales
 
-- **Année de sortie** : 2012
+- **Année de sortie** : 1958
 - **Développeur** : 
-	- Studio : [[Giant Squid]]
+	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
@@ -32,7 +30,6 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- [[La montagne]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

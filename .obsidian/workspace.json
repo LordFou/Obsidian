@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Game Bakers.md",
+                "file": "Journey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Game Bakers"
+              "title": "Journey"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cairn",
+                "query": "journey",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,7 +206,17 @@
   },
   "active": "a7c944eaa710d3e3",
   "lastOpenFiles": [
+    "La montagne.md",
+    "Journey.md",
+    "Attachments/image-491.webp",
+    "Attachments/image-490.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
+    "Giant Squid.md",
+    "The Game Bakers.md",
+    "Super Mario Bros 3.md",
+    "Franchise Mario.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Wrecking Crew.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Tennis for Two.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Fatal Frame II - Crimson Butterfly Remake.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Homura Hime.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Screamer.md",
@@ -225,23 +235,12 @@
     "Franchise Minecraft.md",
     "Minecraft Dungeons 2.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Minecraft Dungeons.md",
-    "Tour de Catalogne.md",
-    "Henri Uhlig.md",
-    "Baptiste Veistroffer.md",
-    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
-    "Loisirs/Sport/Sportifs/Dorian Godon.md",
-    "Iga Swiatek.md",
-    "Loisirs/Sport/Compétitions/Grand Prix du Japon.md",
-    "Loisirs/Sport/Armand Duplantis.md",
-    "Raphaël Collignon.md",
     "Attachments/image-487.webp",
     "Attachments/image-486.webp",
     "Attachments/image-475.webp",
     "Attachments/image-485.webp",
     "Attachments/image-484.webp",
     "Attachments/image-483.webp",
-    "Attachments/image-482.webp",
-    "Attachments/image-481.webp",
     "ZA",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",
