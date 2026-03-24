@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Magnus Cort Nielsen.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Relooted.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magnus Cort Nielsen"
+              "title": "Relooted"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Magnus",
+                "query": "iRacing Arcade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -220,10 +220,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2feda11da2d433cc",
+  "active": "2066e9a3d214d366",
   "lastOpenFiles": [
-    "JO 2014.md",
+    "Tour de Catalogne.md",
+    "Toon Aerts.md",
     "Loisirs/Sport/Sportifs/Magnus Cort Nielsen.md",
+    "JO 2014.md",
     "Mikaela Shiffrin.md",
     "JO 2018.md",
     "Loisirs/Sport/Compétitions/Coupe du Monde de Slalom Géant.md",
@@ -239,7 +241,6 @@
     "Attachments/image-495.webp",
     "conflict-files-obsidian-git.md",
     "Journal de bord/2026-03-24.md",
-    "Tour de Catalogne.md",
     "Molly Caudery.md",
     "Minecraft Dungeons 2.md",
     "Maddy Thorson.md",
@@ -249,7 +250,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Minecraft Dungeons.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/GIRP.md",
     "La montagne.md",
-    "Kylotonn.md",
     "Attachments/image-494.webp",
     "Attachments/image-493.webp",
     "Attachments/image-492.webp",
