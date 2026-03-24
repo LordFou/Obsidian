@@ -2,7 +2,7 @@
 type: game
 ---
 
-# A Short Hike
+# Minecraft Dungeons 2
 
 ## Informations Générales
 
@@ -28,7 +28,6 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
-	- Claire
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :

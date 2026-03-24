@@ -1,19 +1,21 @@
 ---
 type: game
 ---
+![[image-490.webp]]
 
+![[image-491.webp]]
 # Journey
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2012
 - **Développeur** : 
 	- Studio : [[Giant Squid]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]](2019), [[Playstation 3]], [[Playstation 4]](2015)
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Aventure]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -30,6 +32,7 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[La montagne]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

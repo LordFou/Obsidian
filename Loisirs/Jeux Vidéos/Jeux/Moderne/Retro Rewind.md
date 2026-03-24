@@ -2,7 +2,7 @@
 type: game
 ---
 ![[image-465.webp]]
-# Retro Rewind
+# Retro Rewind - Video Store Simulator
 
 ## Informations Générales
 
@@ -14,7 +14,7 @@ type: game
 - **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Simulateur]]
-- **Résumé** : 
+- **Résumé** : vous tenez un vidéo store dans les [[Années 80]]
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -26,7 +26,7 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-- **Epoque** : 
+- **Epoque** : [[Années 80]]
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 

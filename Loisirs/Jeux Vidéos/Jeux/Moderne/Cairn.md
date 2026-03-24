@@ -21,7 +21,7 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[Simulation]], [[Sport]], [[Survival Climber]]
+- **Genre** : [[Action]], [[Aventure]], [[Simulation]], [[Sport]], [[Survival Climber]], [[Monde ouvert]] ou plutôt escalade ouverte
 - **Résumé** : 
 
 ## Détails Techniques
@@ -32,6 +32,7 @@ type: game
 	- Izual :  J'y ai retrouvé de vraies sensations d'escalade, et mon cerveau de joueur tactique en a été comblé.
 	- CheckPoint : 9.5/10
 	- Canard PC : 8/10
+		- Assez difficile mais en réalité, ça nous rend petit face à la montagne. Un peu le même sentiment que dans la réalité. Et malgré cette difficulté, on veut aller planter son drapeau en haut et vaincre le mont Kami
 	- 200K vente sur les 4 premiers jours du lancement
 - **Gameplay** :
 	- On peut vraiment expérimenter l'escalade de la montagne par n'importe quelle voie, vous êtes absolument libre, tout dépend de l'énergie de votre personnage et de vos mouvements.
@@ -41,11 +42,11 @@ type: game
 	- Il n’y a pas d’aide invisible. Pas de correction algorithmique. Pas d'arbre de compétence pour faciliter les aptitudes à grimper. La réussite vient de vous seul et de votre amélioration.
 	- Si on chute, c'est le silence, il n'y a aucun son positif ou négatif
 	- Inventaire minuscule
-- **Durée estimée** : 
+- **Durée estimée** : 15h
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- Le mont Cami
+	- Le mont Kami
 - **Epoque** : 
 - **Personnages principaux** : 
 	- Aava

@@ -2,11 +2,11 @@
 type: game
 ---
 
-# A Short Hike
+# Tennis for Two
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 1958
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
@@ -28,7 +28,6 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
-	- Claire
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :

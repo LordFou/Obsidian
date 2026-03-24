@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Dorian Godon
+# Molly Caudery
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Française
-- **Sport / Discipline** :  [[Cyclisme]]
-- **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Ineos]]
+- **Nationalité** :  Anglaise
+- **Sport / Discipline** :  Sport
+- **Poste / Spécialité** (si applicable) :  Saut à la perche
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                      | Résultat | Remarque                 |
-| ----- | -------------------------------- | -------- | ------------------------ |
-| 2026  | [[Paris-Nice]] - 7e étape        | 1ier     |                          |
-| 2026  | [[Tour de Catalogne]] - 1e étape | 1ier     | 2e - [[Remco Evenepoel]] |
+| Année | Compétition                                                                      | Résultat | Remarque |
+| ----- | -------------------------------------------------------------------------------- | -------- | -------- |
+| 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde]] - Saut à la perche | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

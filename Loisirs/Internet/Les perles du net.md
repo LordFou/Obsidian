@@ -4,6 +4,8 @@
 - https://neal.fun/stimulation-clicker/
 - https://cluesbysam.com/
 - https://sweepthestrait.com/ => en réalité, ce niveau représente le [[détroit d'Ormuz]] à déminer (cfr [[Guerres dans le monde|Guerre USA/Iran de 2026)]]
+- https://hormuz.pythonic.ninja/ => en réalité, ce niveau représente le [[détroit d'Ormuz]] à déminer (cfr [[Guerres dans le monde|Guerre USA/Iran de 2026)]]
+- 
 
 ## Musique
 - https://lofigirl.com/

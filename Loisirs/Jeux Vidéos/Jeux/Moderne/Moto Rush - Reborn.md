@@ -2,18 +2,18 @@
 type: game
 ---
 
-# A Short Hike
+# Moto Rush - Reborn
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Arcade]], [[Course]] de moto
 - **Résumé** : 
 
 ## Détails Techniques
@@ -28,7 +28,6 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
-	- Claire
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :

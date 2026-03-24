@@ -12,6 +12,14 @@ type: personne
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
+```timeline-labeled
+[line-5, body-2]
+date: Mars 2026  
+title: Elle se sépare de son entraîneur belge [[Wim Fissette]]
+content: La numéro 3 mondiale Iga Swiatek, "déçue" après son élimination vendredi dès son entrée en lice au WTA 1000 de Miami, a annoncé lundi qu'elle se séparait du Belge Wim Fissette, son entraîneur depuis un an et demi
+```
+
+
 # Palmarès et Distinctions
 | Année | Compétition               | Résultat   | Remarque      |
 | ----- | ------------------------- | ---------- | ------------- |

@@ -2,14 +2,14 @@
 type: game
 ---
 
-# A Short Hike
+# GIRP
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2011
 - **Développeur** : 
 	- Studio : 
-	- Personnalités : 
+	- Personnalités : [[Bennett Foddy]]
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
@@ -28,9 +28,9 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
-	- Claire
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[La montagne]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

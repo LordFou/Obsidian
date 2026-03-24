@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-492.webp]] ![[image-494.webp]]
 # Céleste
 
 ## Informations Générales
@@ -10,6 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
+		- [[Maddy Thorson]] (Directrice du jeu)
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
@@ -28,8 +29,10 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Madeline (héroïne transgenre comme la directrice du jeu : [[Maddy Thorson]])
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[La montagne]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

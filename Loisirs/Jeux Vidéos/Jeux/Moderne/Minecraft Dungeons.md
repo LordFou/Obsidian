@@ -2,7 +2,7 @@
 type: game
 ---
 
-# A Short Hike
+# Minecraft Dungeons
 
 ## Informations Générales
 
@@ -12,7 +12,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise Minecraft]]
 - **Genre** :
 - **Résumé** : 
 
@@ -28,7 +28,6 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
-	- Claire
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
