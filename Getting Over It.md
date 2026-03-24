@@ -6,10 +6,10 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2017
 - **Développeur** : 
 	- Studio : 
-	- Personnalités : 
+	- Personnalités : [[Bennett Foddy]]
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 

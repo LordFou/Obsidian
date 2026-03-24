@@ -13,9 +13,9 @@ type: game
 	- Studio : [[Giant Squid]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]](2019), [[Playstation 3]], [[Playstation 4]](2015)
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Aventure]]
 - **Résumé** : 
 
 ## Détails Techniques
