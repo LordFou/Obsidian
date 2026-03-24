@@ -19,7 +19,7 @@ type: personne
 |       |                          |                 |                                     |
 | 2026  | [[Tournoi de Doha]]      | Quart de finale |                                     |
 | 2026  | [[Tournoi Indian Wells]] | Vainqueur       | Victoire contre [[Daniil Medvedev]] |
-| 2026  | [[Tournoi de Miami]]     |                 |                                     |
+| 2026  | [[Tournoi de Miami]]     | 1/8 finale      |                                     |
 |       |                          |                 |                                     |
 
 # Style et Caractéristiques
@@ -27,7 +27,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
 - 6 trophées en Masters 1000
-- 26 sets consécutifs gagnés en Masters 1000
+- 26 sets consécutifs gagnés en Masters 1000 (lors du [[Tournoi de Miami]] 2026). Il prend le record à [[Novak Djokovic]] qui en était à 24.
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
