@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                | Résultat | Remarque |
-| ----- | -------------------------- | -------- | -------- |
-| 2026  | [[JO 2026]] - Slalom géant | 1ier     |          |
+| Année | Compétition                 | Résultat | Remarque |
+| ----- | --------------------------- | -------- | -------- |
+| 2026  | [[JO 2026]] - Slalom géant  | 1ier     |          |
+| 2026  | Coupe du Monde - Hafjell () |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

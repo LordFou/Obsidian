@@ -13,9 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                | Résultat | Remarque |
-| ----- | -------------------------- | -------- | -------- |
-| 2026  | [[JO 2026]] - Slalom Géant | 1ier     |          |
+| Année | Compétition                                           | Résultat | Remarque |
+| ----- | ----------------------------------------------------- | -------- | -------- |
+| 2023  | [[Coupe du Monde de Slalom]] - Classement final       | 1ier     |          |
+| 2026  | [[JO 2026]] - Slalom Géant                            | 1ier     |          |
+| 2026  | [[Coupe du Monde de Slalom Géant]] - Classement final | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
