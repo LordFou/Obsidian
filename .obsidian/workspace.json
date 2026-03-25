@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Flotsam",
+                "query": "aztec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,7 +207,13 @@
   },
   "active": "9365336ef0ea9d81",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Aztec Challenge.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Flotsam.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dead Format.md",
+    "Oro Interactive.md",
+    "Katanalevy.md",
+    "Stray Fawn Publishing.md",
+    "Pajama Llama Games.md",
     "Templates/Fiche Jeu.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Flotsam (2025).md",
     "Sans titre 3.md",
@@ -232,12 +237,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Terminator 2D - No Fate.md",
     "Bitmap Bureau.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/MIO - Memories in Orbit.md",
-    "Douze Dixièmes.md",
-    "La montagne.md",
-    "Journal de bord/2026-03-26.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/GIRP.md",
-    "Getting Over It.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Baby Steps.md",
     "Attachments/image-494.webp",
     "Attachments/image-493.webp",
     "Attachments/image-492.webp",

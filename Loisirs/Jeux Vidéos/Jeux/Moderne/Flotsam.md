@@ -34,7 +34,7 @@ tags: mediaDB/game
 	- Studio : [[Pajama Llama Games]]
 	- Personnalités : 
 - **Éditeur** : [[Stray Fawn Publishing]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Simulation]], [[Stratégie]], [[City-Builder]]
 - **Résumé** :  Vous êtes sur l'océan et vous devez ramassez des débris pour construire votre ville de naufragé.
