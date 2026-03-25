@@ -11,7 +11,7 @@ type: game
 	- Studio : [[Bitmap Bureau]]
 	- Personnalités : 
 - **Éditeur** : [[Reef Entertainment]]
-- **Plateformes** : [[PC]], [[Playstation 4]],Play
+- **Plateformes** : [[PC]], [[Playstation 4]],[[Playstation 5]], [[Xbox Series]], [[XBox One]], [[Switch]]
 - **Franchise** : [[Franchise de Terminator]]
 - **Genre** : [[Plateforme]]
 - **Résumé** : 
@@ -47,4 +47,4 @@ type: game
 
 | Description | URL |
 | ----------- | --- |
-|  
+|             |     |
