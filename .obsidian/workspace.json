@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media DB/games/Vampire Survivors (2022).md",
+                "file": "Templates/Fiche Jeu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vampire Survivors (2022)"
+              "title": "Fiche Jeu"
             }
           }
         ]
@@ -209,6 +209,7 @@
   "lastOpenFiles": [
     "Media DB/games/Vampire Survivors (2022).md",
     "Templates/Fiche Jeu.md",
+    "{{.md",
     "Sans titre 2.md",
     "Media DB/games/Vampire Crawlers - The Turbo Wildcard from Vampire Survivors (2026).md",
     "Media DB/games",
@@ -236,7 +237,6 @@
     "Loisirs/Sport/Tadej Pogacar.md",
     "Attachments/image-496.webp",
     "Attachments/image-495.webp",
-    "conflict-files-obsidian-git.md",
     "Attachments/image-494.webp",
     "Attachments/image-493.webp",
     "Attachments/image-492.webp",

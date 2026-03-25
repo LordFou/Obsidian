@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-{{ image }}
+![image]({{ image }})
 # {{title}}
 
 ## Informations Générales
