@@ -11,10 +11,14 @@
             "id": "9365336ef0ea9d81",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Flotsam.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Flotsam"
             }
           }
         ]
@@ -204,8 +208,8 @@
   },
   "active": "9365336ef0ea9d81",
   "lastOpenFiles": [
-    "Templates/Fiche Jeu.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Flotsam.md",
+    "Templates/Fiche Jeu.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Flotsam (2025).md",
     "Sans titre 3.md",
     "conflict-files-obsidian-git.md",
