@@ -2,22 +2,20 @@
 type: personne
 ---
 
-# Lucas Pinheiro Braathen
+# Magnus Cort Nielsen
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Brésilien
-- **Sport / Discipline** :  [[Ski]]
+- **Nationalité** :  Danois
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                           | Résultat | Remarque |
-| ----- | ----------------------------------------------------- | -------- | -------- |
-| 2023  | [[Coupe du Monde de Slalom]] - Classement final       | 1ier     |          |
-| 2026  | [[JO 2026]] - Slalom Géant                            | 1ier     |          |
-| 2026  | [[Coupe du Monde de Slalom Géant]] - Classement final | 1ier     |          |
+| Année | Compétition                      | Résultat | Remarque |
+| ----- | -------------------------------- | -------- | -------- |
+| 2026  | [[Tour de Catalogne]] - 2e étape | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

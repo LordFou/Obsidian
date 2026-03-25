@@ -1,27 +1,27 @@
 ---
 type: game
 ---
-![image]({{ image }})
-# {{title}}
+
+# iRacing Arcade
 
 ## Informations Générales
 
-- **Année de sortie** :  {{ year }}
+- **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : {{ developers }}
+	- Studio : [[Original Fire Games]]
 	- Personnalités : 
-- **Éditeur** : {{ publishers }}
-- **Plateformes** : 
+- **Éditeur** : [[iRacing]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : {{ genres }}
-- **Résumé** :  
+- **Genre** :
+- **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : {{ onlineRating }}
+- **Réception critique** : 
+	- CheckPoint (8/10)
 - **Gameplay** :
 - **Durée estimée** : 
 

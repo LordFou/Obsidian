@@ -13,9 +13,17 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                | Résultat | Remarque |
-| ----- | -------------------------- | -------- | -------- |
-| 2026  | [[JO 2026]] - Slalom géant | 1ier     |          |
+| Année | Compétition                                 | Résultat | Remarque |
+| ----- | ------------------------------------------- | -------- | -------- |
+| 2014  | [[JO 2014]] - Slalom                        | 1ière    |          |
+| 2017  | [[Coupe du Monde de Slalom Géant]]          | 1ière    |          |
+| 2018  | [[Coupe du Monde de Slalom Géant]]          | 1ière    |          |
+| 2018  | [[JO 2018]] - Slalom géant                  | 1ière    |          |
+| 2019  | [[Coupe du Monde de Slalom Géant]]          | 1ière    |          |
+| 2022  | [[Coupe du Monde de Slalom Géant]]          | 1ière    |          |
+| 2023  | [[Coupe du Monde de Slalom Géant]]          | 1ière    |          |
+| 2026  | [[JO 2026]] - Slalom géant                  | 1ière    |          |
+| 2026  | Coupe du Monde - Hafjell (?) - Slalom Géant | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

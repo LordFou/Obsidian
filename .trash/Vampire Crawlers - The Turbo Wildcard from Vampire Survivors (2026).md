@@ -1,0 +1,66 @@
+---
+type: game
+subType: ""
+title: "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors"
+englishTitle: "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors"
+year: "2026"
+dataSource: SteamAPI
+url: https://store.steampowered.com/app/3265700
+id: 3265700
+developers:
+  - poncle
+  - Nosebleed Interactive
+publishers:
+  - poncle
+genres:
+  - Action
+  - Indie
+  - Strategy
+onlineRating: 0
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/5590e42cab09dacabee973dd2c3e27ef12ed4950/header.jpg?t=1774363861
+released: true
+releaseDate: 21/04/2026
+played: false
+personalRating: 0
+tags: mediaDB/game
+---
+
+
+# Vampire Crawlers: The Turbo Wildcard from Vampire Survivors
+
+## Informations Générales
+
+- **Année de sortie** : 
+- **Développeur** : 
+	- Studio : 
+	- Personnalités : 
+- **Éditeur** : 
+- **Plateformes** : 
+- **Franchise** : 
+- **Genre** :
+- **Résumé** : 
+
+## Détails Techniques
+- **Moteur de jeu** : 
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Audio** : (Type de musique, Bande-son notable)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Gameplay** :
+- **Durée estimée** : 
+
+## Histoire et Univers
+- **Lieu(x)** : 
+- **Epoque** : 
+- **Personnages principaux** : 
+- **Ennemis** :
+- **Thèmes abordés** : 
+- **Influencé par** :
+- **A inspiré** : 
+- **Comparable à** :
+## Anecdotes et Curiosités
+- 
+## Liens et Ressources
+
+| Description | URL |
+| ----------- | --- |
+|             |     |

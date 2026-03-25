@@ -11,7 +11,11 @@
   "movieTemplate": "",
   "seriesTemplate": "",
   "mangaTemplate": "",
+<<<<<<< HEAD
   "gameTemplate": "Templates/Fiche Jeu",
+=======
+  "gameTemplate": "Templates/Fiche Jeu.md",
+>>>>>>> origin/main
   "wikiTemplate": "",
   "musicReleaseTemplate": "",
   "boardgameTemplate": "",
@@ -35,7 +39,11 @@
   "movieFolder": "Media DB/movies",
   "seriesFolder": "Media DB/series",
   "mangaFolder": "Media DB/manga",
+<<<<<<< HEAD
   "gameFolder": "Loisirs/Jeux Vidéos/Jeux/Moderne",
+=======
+  "gameFolder": "Media DB/games",
+>>>>>>> origin/main
   "wikiFolder": "Media DB/wiki",
   "musicReleaseFolder": "Media DB/music",
   "boardgameFolder": "Media DB/boardgames",

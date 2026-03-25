@@ -20,8 +20,24 @@
               "icon": "lucide-file",
               "title": "Fiche Jeu"
             }
+          },
+          {
+            "id": "ab33590e9668576c",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".trash/Vampire Crawlers - The Turbo Wildcard from Vampire Survivors (2026).md",
+                "bFile": ".trash/Vampire Crawlers - The Turbo Wildcard from Vampire Survivors (2026).md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Vampire Crawlers - The Turbo Wildcard from Vampire Survivors (2026)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,8 +222,26 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "7da2d25a897779fe",
+  "active": "ab33590e9668576c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Templates/Fiche Jeu.md",
+    "iRacing.md",
+    "Sans titre 2.md",
+    "Original Fire Games.md",
+    "Media DB/games/Vampire Survivors (2022).md",
+    "Media DB/games",
+    "Media DB",
+    "Loisirs/Sport/Sportifs/Magnus Cort Nielsen.md",
+    "Loisirs/Sport/Compétitions/Coupe du Monde de Slalom Géant.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/iRacing Arcade.md",
+    "Journal de bord/2026-03-25.md",
+    "Journal de bord/2026-03-24.md",
+    "Jakub Mensik.md",
+    "JO 2018.md",
+    "Coupe du Monde de Slalom.md",
+    "Attachments/image-496.webp",
+    "Attachments/image-495.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Terminator 2D - No Fate.md",
     "Bitmap Bureau.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/MIO - Memories in Orbit.md",
@@ -220,30 +254,14 @@
     "Bennett Foddy.md",
     "A Short Hike.md",
     "Céleste.md",
-    "Maddy Thorson.md",
     "Attachments/image-494.webp",
     "Attachments/image-493.webp",
     "Attachments/image-492.webp",
-    "Journey.md",
     "Attachments/image-491.webp",
     "Attachments/image-490.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
-    "Giant Squid.md",
-    "The Game Bakers.md",
-    "Super Mario Bros 3.md",
-    "Franchise Mario.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Wrecking Crew.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Tennis for Two.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Fatal Frame II - Crimson Butterfly Remake.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Homura Hime.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Screamer.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Moto Rush - Reborn.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Retro Rewind.md",
     "Attachments/image-489.webp",
     "Attachments/image-488.webp",
     "Attachments/image-487.webp",
-    "Attachments/image-486.webp",
-    "Attachments/image-475.webp",
     "ZA",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",
@@ -257,8 +275,6 @@
     "Loisirs/Jeux Vidéos/Généalogie Société.canvas",
     "Généalogie des Jeux Vidéos.canvas",
     "Journal de bord/Archives",
-    "Loisirs/Jeux Vidéos/Moteurs",
-    "Loisirs/Sport/Equipes",
     "Loisirs/Jeux Vidéos/Généalogie Mr Driller.canvas"
   ]
 }
