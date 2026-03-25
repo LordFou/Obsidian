@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f4ede557856bb2c9",
+        "id": "3002b1d085c796ab",
         "type": "tabs",
         "children": [
           {
-            "id": "51c682fd38ad26f3",
+            "id": "bad5e91cd6d319c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -205,10 +205,13 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "51c682fd38ad26f3",
+  "active": "bad5e91cd6d319c5",
   "lastOpenFiles": [
-    "Media DB/games/Vampire Survivors (2022).md",
+    "Media DB/games/DIG IT! - A Digger Simulator (2014).md",
     "Templates/Fiche Jeu.md",
+    "Media DB/games/Vampire Survivors (2022).md",
+    "Media DB/wiki/Vampire Survivors.md",
+    "Media DB/wiki",
     "{{.md",
     "Sans titre 2.md",
     "Media DB/games/Vampire Crawlers - The Turbo Wildcard from Vampire Survivors (2026).md",
@@ -233,8 +236,6 @@
     "Jannik Sinner.md",
     "Tournoi de Miami.md",
     "Jakub Mensik.md",
-    "Journal de bord/Archives/2025-06-08.md",
-    "Loisirs/Sport/Tadej Pogacar.md",
     "Attachments/image-496.webp",
     "Attachments/image-495.webp",
     "Attachments/image-494.webp",

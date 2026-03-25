@@ -14,7 +14,7 @@ type: game
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** : {{ genres }}
-- **Résumé** :  {{ description }}
+- **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
