@@ -4,40 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a5d1684da03be7ea",
+        "id": "dc5b85458229d3f4",
         "type": "tabs",
         "children": [
           {
-            "id": "7da2d25a897779fe",
+            "id": "9365336ef0ea9d81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Fiche Jeu.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Fiche Jeu"
-            }
-          },
-          {
-            "id": "ab33590e9668576c",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".trash/Vampire Crawlers - The Turbo Wildcard from Vampire Survivors (2026).md",
-                "bFile": ".trash/Vampire Crawlers - The Turbo Wildcard from Vampire Survivors (2026).md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Vampire Crawlers - The Turbo Wildcard from Vampire Survivors (2026)"
+              "title": "Nouvel onglet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,10 +202,13 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "ab33590e9668576c",
+  "active": "9365336ef0ea9d81",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Templates/Fiche Jeu.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Flotsam.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Flotsam (2025).md",
+    "Sans titre 3.md",
+    "conflict-files-obsidian-git.md",
     "iRacing.md",
     "Sans titre 2.md",
     "Original Fire Games.md",
@@ -251,9 +234,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/GIRP.md",
     "Getting Over It.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Baby Steps.md",
-    "Bennett Foddy.md",
-    "A Short Hike.md",
-    "Céleste.md",
     "Attachments/image-494.webp",
     "Attachments/image-493.webp",
     "Attachments/image-492.webp",
