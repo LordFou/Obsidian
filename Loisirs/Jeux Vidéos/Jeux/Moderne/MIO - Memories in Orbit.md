@@ -30,6 +30,11 @@ type: game
 		- Exploration parfois décevante avec certains aller-retour fastidieux
 		- Economie peu équilibrée
 	- CheckPoint : 9/10 !!
+	- Canard PC (7/10)
+		- Beau
+		- Gameplay intelligent
+		- Sensation de lenteur due à cet effet de ralenti pour simuler qu'on ait dans l'espace
+		  
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -43,6 +48,7 @@ type: game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[Hollow Night - Silk Song]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources

@@ -11,7 +11,7 @@ type: game
 	- Studio : [[Bitmap Bureau]]
 	- Personnalités : 
 - **Éditeur** : [[Reef Entertainment]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Playstation 4]],Play
 - **Franchise** : [[Franchise de Terminator]]
 - **Genre** : [[Plateforme]]
 - **Résumé** : 
@@ -22,6 +22,9 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- Superbe Pixel Art
+	- Canard PC (6/10)
+		- Un jeu qui a compris les ressorts du film pour garder l'attention du jouer
+		- Malheureusement, on le finit en 1 heure...
 - **Gameplay** :
 - **Durée estimée** : 
 	- 1 heure mais 27€ à la sortie (ouch !)
@@ -44,4 +47,4 @@ type: game
 
 | Description | URL |
 | ----------- | --- |
-|             |     |
+|  
