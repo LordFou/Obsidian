@@ -22,9 +22,9 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre | Année | Plateformes | Remarque |
-| ----- | ----- | ----------- | -------- |
-|       |       |             |          |
+| Titre           | Année | Plateformes | Remarque |
+| --------------- | ----- | ----------- | -------- |
+| [[Tomb Raider]] |       |             |          |
 
 
 ## Mécaniques et innovations

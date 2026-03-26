@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Crystal Dynamics
+# Nacon Tech
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -18,28 +18,15 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date:
-title: Dégraissage - Part I
+date:  
+title: 
 content:
-
-date:
-title: Dégraissage - Part II
-content:
-
-date:
-title: Dégraissage - Part III
-content:
-
-date: Mars 2026 
-title: Dégraissage - Part IV
-content: Le studio vire 20 personnes
 ```
 
 ## Jeux Développés
-| Année | Titre                                    |
-| ----- | ---------------------------------------- |
-|       | [[Tomb Raider]]                          |
-| 2026  | [[Legacy of Kain - Defiance Remastered]] |
+| Année | Titre      |
+| ----- | ---------- |
+| XXXX  | Nom du jeu |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
