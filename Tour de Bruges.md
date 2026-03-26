@@ -16,7 +16,8 @@ Synonyme de [[Classique Bruges-La Panne]]
 | 2026  | [[Dylan Groenewegen]]     | Néerlandais | 2e - [[Jasper Philipsen]] |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur       | Nationalité | Remarque               |
+| ----- | --------------- | ----------- | ---------------------- |
+| 2026  | [[Carys Lloyd]] | Anglais     | 5e - [[Shari Bossuyt]] |
+|       |                 |             |                        |
+|       |                 |             |                        |
