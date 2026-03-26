@@ -23,6 +23,7 @@ type: personne
 | 2026  | [[Grand Prix de Valence]]       | 1ier     | Sprint   |
 | 2026  | [[Bredene Coxyde Classic]]      | 1ier     | Sprint   |
 | 2026  | [[GP Monseré]]                  | 1ier     | Sprint   |
+| 2026  | [[Tour de Bruges]]   | 1ier     | Sprint   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -1,25 +1,21 @@
 ---
 type: personne
 ---
-![[image-224.webp|770]]
-# Nina Pinzarrone
+
+# Jade Hovine
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** : Belge
-- **Sport / Discipline** : [[Patinage artistique]]  
+- **Sport / Discipline** :  [[Patinage artistique]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                        | Résultat | Remarque |
-| ----- | -------------------------------------------------- | -------- | -------- |
-| 2025  | Mondiaux de patinage artistique - Classement final | 7e       |          |
-| 2025  | Golden Spin de Zagreb                              | 7e       |          |
-| 2026  | [[Euro de patinage artistique]]                    | 4e       |          |
-| 2026  | [[JO 2026]]                                        | 13e      | SB       |
-| 2026  | Mondiaux de patinage artistique - Programme court  | 5e       |          |
+| Année | Compétition                                       | Résultat | Remarque                           |
+| ----- | ------------------------------------------------- | -------- | ---------------------------------- |
+| 2026  | Mondiaux de patinage artistique - Programme court | 30e      | Eliminée pour la suite du concours |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -36,5 +32,3 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 # Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
-
-![[image-497.webp]]

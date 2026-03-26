@@ -22,5 +22,13 @@
       ],
       "key": "M"
     }
+  ],
+  "obsidian-media-db-plugin:open-media-db-search-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad1"
+    }
   ]
 }
