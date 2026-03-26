@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shuai Zhang.md",
+                "file": "Tour de Catalogne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shuai Zhang"
+              "title": "Tour de Catalogne"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Elise",
+                "query": "Santé",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -224,8 +224,13 @@
   },
   "active": "3ec72f2be8cb0efb",
   "lastOpenFiles": [
-    "Elise Mertens.md",
+    "Loisirs/Sport/Sportifs/Ethan Vernon.md",
+    "Attachments/image-498.webp",
     "Tour de Catalogne.md",
+    "La santé dans le peloton.md",
+    "Max Verstappen.md",
+    "Shuai Zhang.md",
+    "Elise Mertens.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Loisirs/Sport/Sportifs/Dorian Godon.md",
     "Antoine L'Hote.md",
@@ -246,12 +251,7 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Flotsam (2025).md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Dead Format.md",
     "Katanalevy.md",
-    "Templates/Fiche Jeu.md",
-    "Media DB/games/DIG IT! - A Digger Simulator (2014).md",
-    "Media DB/games/Vampire Survivors (2022).md",
-    "Media DB/wiki/Vampire Survivors.md",
     "Media DB/wiki",
-    "{{.md",
     "Media DB/games",
     "Media DB",
     "Attachments/image-496.webp",
@@ -262,7 +262,6 @@
     "Attachments/image-491.webp",
     "Attachments/image-490.webp",
     "Attachments/image-489.webp",
-    "Attachments/image-488.webp",
     "Loisirs/Sport/Compétitions/Sans titre",
     "ZA",
     "Loisirs/Jeux Vidéos/Généalogie Société.canvas",

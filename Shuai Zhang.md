@@ -16,7 +16,8 @@ type: personne
 | Année | Compétition                   | Résultat   | Remarque               |
 | ----- | ----------------------------- | ---------- | ---------------------- |
 | 2026  | [[Australian Open]] - Double  | 1/4 finale | avec [[Elise Mertens]] |
-| 2026  | [[Tournoi de Miami]] - Double | 1/4 finale | avec [[Shuai Zhang]]   |
+| 2026  | [[Tournoi de Miami]] - Double | 1/4 finale | avec [[Elise Mertens]] |
+|       |                               |            |                        |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
