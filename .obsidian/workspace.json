@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Fiche Jeu.md",
+                "file": "Journal de bord/2026-03-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fiche Jeu"
+              "title": "2026-03-26"
             }
           }
         ]
@@ -207,8 +207,9 @@
   },
   "active": "bad5e91cd6d319c5",
   "lastOpenFiles": [
-    "Media DB/games/DIG IT! - A Digger Simulator (2014).md",
     "Templates/Fiche Jeu.md",
+    "Journal de bord/2026-03-26.md",
+    "Media DB/games/DIG IT! - A Digger Simulator (2014).md",
     "Media DB/games/Vampire Survivors (2022).md",
     "Media DB/wiki/Vampire Survivors.md",
     "Media DB/wiki",
@@ -235,7 +236,6 @@
     "Sam Maes.md",
     "Jannik Sinner.md",
     "Tournoi de Miami.md",
-    "Jakub Mensik.md",
     "Attachments/image-496.webp",
     "Attachments/image-495.webp",
     "Attachments/image-494.webp",
