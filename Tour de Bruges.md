@@ -10,10 +10,10 @@ Synonyme de [[Classique Bruges-La Panne]]
 
 # Hommes
 
-| Année | Vainqueur                 | Nationalité | Remarque |
-| ----- | ------------------------- | ----------- | -------- |
-| 2025  | [[Juan Sebastian Molano]] | Colombien   |          |
-| 2026  | [[Dylan Groenewegen]]     | Néerlandais | 2é       |
+| Année | Vainqueur                 | Nationalité | Remarque                  |
+| ----- | ------------------------- | ----------- | ------------------------- |
+| 2025  | [[Juan Sebastian Molano]] | Colombien   |                           |
+| 2026  | [[Dylan Groenewegen]]     | Néerlandais | 2e - [[Jasper Philipsen]] |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

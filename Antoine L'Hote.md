@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Shuai Zhang
+# Antoine L'Hote
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  [[Tennis]]
+- **Nationalité** :  Belge
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                   | Résultat   | Remarque               |
-| ----- | ----------------------------- | ---------- | ---------------------- |
-| 2026  | [[Australian Open]] - Double  | 1/4 finale | avec [[Elise Mertens]] |
-| 2026  | [[Tournoi de Miami]] - Double | 1/4 finale | avec [[Shuai Zhang]]   |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

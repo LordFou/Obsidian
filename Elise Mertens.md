@@ -42,6 +42,7 @@ type: personne
 | 2026  | [[Tournoi Indian Wells]] - Simple  | 3e tour       |                                                                     |
 | 2026  | [[Tournoi Indian Wells]] - Double  | 1ier tour     |                                                                     |
 | 2026  | [[Tournoi de Miami]] - Simple      | 1/16 finale   |                                                                     |
+| 2026  | [[Tournoi de Miami]] - Double      | 1/4 finale    | avec [[Shuai Zhang]]                                                |
 
 # Style et Caractéristiques
 - C'est une joueuse très équilibrée et régulière qui intègre en juin 2025 le club très fermé des joueuses qui ont gagné un tournoi sur les 3 types de surface.
