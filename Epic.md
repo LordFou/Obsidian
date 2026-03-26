@@ -20,7 +20,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 [line-5, body-2]
 date: mars 2026
 title: Dégraissage
-content: Epic vire 1000 personnes, c'est à dire, 1 personnne sur 5 dans l'entreprise.
+content: Epic vire 1000 personnes, c'est à dire, 1 personnne sur 5 dans l'entreprise. 
 ```
 
 ## Jeux Développés

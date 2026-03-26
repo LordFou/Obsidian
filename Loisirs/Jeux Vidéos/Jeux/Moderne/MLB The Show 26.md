@@ -8,10 +8,10 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[San Diego Studio]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
+- **Éditeur** : [[Sony]]
+- **Plateformes** : [[Playstation 5]], [[Xbox Series]], [[Switch]], [[Switch 2]]
 - **Franchise** : 
 - **Genre** :
 - **Résumé** : 
@@ -20,7 +20,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- CheckPoint (6/10)
 - **Gameplay** :
 - **Durée estimée** : 
 

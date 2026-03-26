@@ -26,6 +26,7 @@ type: game
 		- Il est incontestablement bien fait, avec beaucoup de progression et de matos à stocker
 		- rythme assez mou
 		- Des combats vus et revus
+	- CheckPoint (7/10)
 - **Gameplay** :
 - **Durée estimée** : 
 

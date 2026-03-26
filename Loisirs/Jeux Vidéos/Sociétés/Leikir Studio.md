@@ -14,6 +14,17 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
+```timeline-labeled
+[line-5, body-2]
+date: mars 2025 
+title: dégraissage
+content: Le studio vire un tiers de ses employés
+
+date: mars 2026
+title: faillite du studio
+content: le développeur parisien a définitivement mis la clé sous la porte
+```
+
 ## Jeux Développés
 | Année | Titre       | Genre | Plateformes |
 | ----- | ----------- | ----- | ----------- |

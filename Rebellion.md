@@ -24,9 +24,11 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre        | Genre            | Plateformes |
-| ----- | ------------ | ---------------- | ----------- |
-| 2025  | [[Atomfall]] | Exploration, FPS |             |
+| Année | Titre                         | Genre            | Plateformes |
+| ----- | ----------------------------- | ---------------- | ----------- |
+|       | [[Sniper Elite - Resistance]] |                  |             |
+| 2025  | [[Atomfall]]                  | Exploration, FPS |             |
+| 2026  | [[Alien Deathstorm]]          |                  |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
