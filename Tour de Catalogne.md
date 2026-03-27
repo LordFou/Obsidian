@@ -17,7 +17,7 @@ type: event
 | 2e (DAN) | [[Magnus Cort Nielsen]] | [[Dorian Godon]]     | [[Baptiste Veistroffer]] | [[Baptiste Veistroffer]] | ?                  | 9e - [[Toon Aerts]]                                    |
 | 3e (FRA) | [[Dorian Godon]]        | [[Dorian Godon]]     | [[Baptiste Veistroffer]] | [[Dorian Godon]]         | [[Antoine L'Hote]] | 4e - [[Toon Aerts]]                                    |
 | 4e (ANG) | [[Ethan Vernon]]        | [[Dorian Godon]]     | [[Baptiste Veistroffer]] | [[Dorian Godon]]         | [[Simone Gualdi]]  |                                                        |
-| 5e (DAN) | [[Jonas Vingegaard]]    | [[Jonas Vingegaard]] |                          |                          |                    | 6e - [[Remco Evenepoel]]<br>9e - [[Cian Uijtdebroeks]] |
+| 5e (DAN) | [[Jonas Vingegaard]]    | [[Jonas Vingegaard]] | [[Baptiste Veistroffer]] | [[Dorian Godon]]         |                    | 6e - [[Remco Evenepoel]]<br>9e - [[Cian Uijtdebroeks]] |
 ## Femmes
 
 ### Etapes
