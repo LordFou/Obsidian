@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-501.webp]]
 # Rubato
 
 ## Informations Générales

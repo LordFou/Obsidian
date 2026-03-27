@@ -1,50 +1,52 @@
 ---
 type: game
 subType: ""
-title: "Lost Wiki: Kozlovka"
-englishTitle: "Lost Wiki: Kozlovka"
+title: Ringbound
+englishTitle: Ringbound
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/4018950
-id: 4018950
+url: https://store.steampowered.com/app/4446670
+id: 4446670
 developers:
-  - yattytheman
+  - TheTallLeaf
 publishers:
-  - yattytheman
+  - TheTallLeaf
 genres:
+  - Action
+  - Casual
   - Indie
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018950/62daa88bc13e7ca41c88c65260cf04cd8747ad2a/header.jpg?t=1774011192
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446670/f9dc6cae213c06c6421dd910eacde64c51e9e545/header.jpg?t=1774035695
 released: true
-releaseDate: 20/01/2026
+releaseDate: 20/03/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
 
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018950/62daa88bc13e7ca41c88c65260cf04cd8747ad2a/header.jpg?t=1774011192)
-# Lost Wiki: Kozlovka
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446670/f9dc6cae213c06c6421dd910eacde64c51e9e545/header.jpg?t=1774035695)
+# Ringbound
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[yattytheman]]
+	- Studio : [[TheTallLeaf]]
 	- Personnalités : 
-- **Éditeur** : [[yattytheman]]
+- **Éditeur** : [[TheTallLeaf]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Enquête]]
-- **Résumé** :  jeu d'enquête propose de fureter dans un fatras d'articles et de bases de données d'un vieux mac des années 1990 pour remplir des phrases à trou.
+- **Genre** : [[Action]]
+- **Résumé** :  jeu incrémental qui consiste à tirer depuis les bords d'un cercle sur les carrés qui apparaissent en son centre et cherchent à s'en échapper paresseusement.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 0
+	- Steam Rating : 
 - **Gameplay** :
-- **Durée estimée** : 1h30
+- **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
@@ -55,8 +57,6 @@ tags: mediaDB/game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
-	- [[Golden Idol]]
-	- [[The Roottrees are  Dead]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
