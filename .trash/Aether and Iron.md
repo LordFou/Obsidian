@@ -24,7 +24,9 @@ tags: mediaDB/game
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : {{ INVALID TEMPLATE TAG - object undefined }}
+	- Studio : 
+		- [[Seismic Squirrel]]
+		- [[Chaos Theory Games]]
 	- Personnalités : 
 - **Éditeur** : {{ INVALID TEMPLATE TAG - object undefined }}
 - **Plateformes** : 

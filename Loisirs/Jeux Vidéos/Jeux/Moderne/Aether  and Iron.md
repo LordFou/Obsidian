@@ -34,20 +34,23 @@ tags: mediaDB/game
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : Seismic Squirrel,Chaos Theory Games
+	- Studio : 
+		- [[Seismic Squirrel]]
+		- [[Chaos Theory Games]]
 	- Personnalités : 
-- **Éditeur** : Seismic Squirrel
-- **Plateformes** : 
+- **Éditeur** : [[Seismic Squirrel]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : Adventure,Casual,Indie,RPG,Strategy
+- **Genre** : [[Aventure]],[[Casual]],[[RPG]],[[Stratégie]]
 - **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : [[2D]], [[3D Isométrique]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 0
+	- Steam Rating : 
+	- CheckPoint (8,5/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -64,6 +67,6 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                                         |
+| ----------- | ------------------------------------------- |
+| Trailer     | https://www.youtube.com/watch?v=F4M6FYG-rFc |
