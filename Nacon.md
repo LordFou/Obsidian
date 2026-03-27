@@ -6,10 +6,11 @@ Nacon possède les entreprises suivantes :
 - [[Daedalic]]
 - [[Spiders]]
 - [[Kylotonn]]
+- [[Nacon Tech]]
 
 ```timeline-labeled
 [line-5, body-2]
 date: Mars 2026
 title: Déclaration Faillite
-content: Entraînée par la chute en bourse de sa maison-mère, le groupe BigBen, Nacon est en cessation de paiement. Et de là découle le redressement judiciaire des studios [[Cyanide]], [[Spiders]] et [[Kylotonn]]
+content: Entraînée par la chute en bourse de sa maison-mère, le groupe BigBen, Nacon est en cessation de paiement. Et de là découle le redressement judiciaire des studios [[Cyanide]], [[Spiders]], [[Kylotonn]] et [[Nacon Tech]] => Plusieurs centaines de travailleurs sur le tapis.
 ```

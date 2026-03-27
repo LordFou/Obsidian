@@ -1,27 +1,27 @@
 ---
 type: game
 ---
-
-# MLB The Show 26
+![image]({{ image }})
+# Tomb Raider
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** :  {{ year }}
 - **Développeur** : 
-	- Studio : [[San Diego Studio]]
+	- Studio : {{ developers }}
 	- Personnalités : 
-- **Éditeur** : [[Sony]]
-- **Plateformes** : [[Playstation 5]], [[Xbox Series]], [[Switch]], [[Switch 2]]
-- **Franchise** : 
-- **Genre** :
-- **Résumé** : 
+- **Éditeur** : {{ publishers }}
+- **Plateformes** : 
+- **Franchise** : [[Franchise Tomb Raider]]
+- **Genre** : {{ genres }}
+- **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- CheckPoint (6/10)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
+	- Steam Rating : {{ onlineRating }}
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -38,6 +38,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/5wBQfm6RxLo |
+| Description | URL |
+| ----------- | --- |
+|             |     |

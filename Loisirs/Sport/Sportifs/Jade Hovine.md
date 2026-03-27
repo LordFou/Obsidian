@@ -2,22 +2,20 @@
 type: personne
 ---
 
-# Shuai Zhang
+# Jade Hovine
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  [[Tennis]]
+- **Nationalité** : Belge
+- **Sport / Discipline** :  [[Patinage artistique]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                   | Résultat   | Remarque               |
-| ----- | ----------------------------- | ---------- | ---------------------- |
-| 2026  | [[Australian Open]] - Double  | 1/4 finale | avec [[Elise Mertens]] |
-| 2026  | [[Tournoi de Miami]] - Double | 1/4 finale | avec [[Elise Mertens]] |
-|       |                               |            |                        |
+| Année | Compétition                                       | Résultat | Remarque                           |
+| ----- | ------------------------------------------------- | -------- | ---------------------------------- |
+| 2026  | Mondiaux de patinage artistique - Programme court | 30e      | Eliminée pour la suite du concours |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

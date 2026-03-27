@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Owlcat Games
+# Nacon Tech
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,10 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                           |
-| ----- | ------------------------------- |
-| 2026  | [[The Expanse - Osiris Reborn]] |
-|       |                                 |
+| Année | Titre      |
+| ----- | ---------- |
+| XXXX  | Nom du jeu |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

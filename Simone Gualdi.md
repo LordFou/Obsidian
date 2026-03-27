@@ -2,22 +2,20 @@
 type: personne
 ---
 
-# Shuai Zhang
+# Simone Gualdi
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  
-- **Sport / Discipline** :  [[Tennis]]
+- **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                   | Résultat   | Remarque               |
-| ----- | ----------------------------- | ---------- | ---------------------- |
-| 2026  | [[Australian Open]] - Double  | 1/4 finale | avec [[Elise Mertens]] |
-| 2026  | [[Tournoi de Miami]] - Double | 1/4 finale | avec [[Elise Mertens]] |
-|       |                               |            |                        |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -18,14 +18,27 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
+date:
+title: Dégraissage - Part I
 content:
+
+date:
+title: Dégraissage - Part II
+content:
+
+date:
+title: Dégraissage - Part III
+content:
+
+date: Mars 2026 
+title: Dégraissage - Part IV
+content: Le studio vire 20 personnes
 ```
 
 ## Jeux Développés
 | Année | Titre                                    |
 | ----- | ---------------------------------------- |
+|       | [[Tomb Raider]]                          |
 | 2026  | [[Legacy of Kain - Defiance Remastered]] |
 
 ## Moteur(s) Utilisé(s)

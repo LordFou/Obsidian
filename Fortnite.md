@@ -8,7 +8,7 @@ type: game
 
 - **Année de sortie** : 2017
 - **Développeur** : 
-	- Studio : Epic
+	- Studio : [[Epic Games]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 

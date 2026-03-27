@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Owlcat Games
+# Epic Games
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -18,16 +18,19 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
-content:
+date: 2023
+title: Dégraissage - Part I
+content: Remerciement de 803 personnes
+
+date: mars 2026
+title: Dégraissage - Part II
+content: Epic vire 1000 personnes, c'est à dire, 1 personnne sur 5 dans l'entreprise. Raison évoquée : l'engagement dans Fortnite, "l'un des jeux les plus rentables au monde", serait "en déclin" depuis 2025. 
 ```
 
 ## Jeux Développés
-| Année | Titre                           |
-| ----- | ------------------------------- |
-| 2026  | [[The Expanse - Osiris Reborn]] |
-|       |                                 |
+| Année | Titre        |
+| ----- | ------------ |
+| XXXX  | [[Fortnite]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

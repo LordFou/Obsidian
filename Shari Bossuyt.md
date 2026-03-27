@@ -25,7 +25,7 @@ type: personne
 | 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - ?         | 1ière 🥇 | avec [[Lotte Kopecky]]     |
 | 2026  | [[Championnat du Monde de Cyclisme sur piste\|Champ. Monde]] - Omnium                | 3e       |                            |
 | 2026  | [[Championnat d'Europe de Cyclisme sur piste\|Champ. Europe]] - Madison              | 1ière 🥇 | avec [[Lotte Kopecky]]     |
-| 2026  | [[Tour de Valence]]                                                                  | 2e       |                            |
+| 2026  | [[Tour de Bruges]]                                                                   | 2e       |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

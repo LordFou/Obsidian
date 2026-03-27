@@ -2,22 +2,20 @@
 type: personne
 ---
 
-# Shuai Zhang
+# Carys Lloyd
 
 # Informations Générales
-- **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  [[Tennis]]
+- **Date de naissance** :  2007
+- **Nationalité** :  Anglaise
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                   | Résultat   | Remarque               |
-| ----- | ----------------------------- | ---------- | ---------------------- |
-| 2026  | [[Australian Open]] - Double  | 1/4 finale | avec [[Elise Mertens]] |
-| 2026  | [[Tournoi de Miami]] - Double | 1/4 finale | avec [[Elise Mertens]] |
-|       |                               |            |                        |
+| Année | Compétition        | Résultat | Remarque       |
+| ----- | ------------------ | -------- | -------------- |
+| 2026  | [[Tour de Bruges]] | 1ière    | ==à 19 ans !== |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

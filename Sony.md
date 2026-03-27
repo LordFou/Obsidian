@@ -10,4 +10,8 @@ content: Auteur de nombreux remakes et remasters, le studio avait été chargé 
 date: Mars 2026
 title: Sony arrêterait le portage PC
 content: Plusieurs explications sont avancées, dont une préparation à la prochaine Xbox, qui pourrait permettre de jouer à des jeux PC et donc à des portages Sony.
+
+date: Mars 2026 
+title: Fermeture du studio [[Dark Outlaw Games]]
+content: créé en 2025 avec un vétéran des [[Call of Duty]] à sa tête, Sony prévoit 50 licenciements supplémentaires.
 ```
