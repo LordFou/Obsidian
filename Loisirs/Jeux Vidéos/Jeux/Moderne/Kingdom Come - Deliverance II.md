@@ -1,3 +1,7 @@
+---
+type: game
+---
+
 ![[Pasted image 20250405003115.jpg]]
 # Kingdom Come - Deliverance II
 
@@ -9,7 +13,7 @@
 	- Personnalités : 
 - **Éditeur** : [[Deep Silver]]
 - **Plateformes** : All
-- **Genre** : [[RPG]] Action
+- **Genre** : [[RPG]], [[Action]]
 - **Résumé** : vous êtes un pauvre bougre et devez remonter dans la société médiévale. Et pour cela, vous apprendrez la vie dans la bohème de cet époque.
 
 ## Détails Techniques
@@ -29,6 +33,8 @@
 - **Influencé par** : 
 - **A inspiré** : 
 - **Comparable à** :
+## Polémique
+- Un traducteur aurait été viré et remplacé par une IA (Mars 2026)
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
