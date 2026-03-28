@@ -20,6 +20,9 @@ type: personne
 | 2026  | [[Euro de patinage artistique]]                    | 4e       |          |
 | 2026  | [[JO 2026]]                                        | 13e      | SB       |
 | 2026  | Mondiaux de patinage artistique - Programme court  | 5e       |          |
+| 2026  | Mondiaux de patinage artistique - Programme libre  | 3e       |          |
+| 2026  | Mondiaux de patinage artistique - Classement final | 3e       | !!!      |
+|       |                                                    |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
