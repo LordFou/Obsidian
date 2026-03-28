@@ -1,26 +1,27 @@
 ---
 type: game
 ---
-![[image-501.webp]]
-# Rubato
+![image]({{ image }})
+# Golden Idol
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** :  {{ year }}
 - **Développeur** : 
-	- Studio : 
+	- Studio : {{ developers }}
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : [[PC]], [[PlayStation 5]], [[Switch]]
+- **Éditeur** : {{ publishers }}
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action Aventure]], [[RPG]], Collectathon
-- **Résumé** : 
+- **Genre** : {{ genres }}
+- **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
+	- Steam Rating : {{ onlineRating }}
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -37,6 +38,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL                          |
-| ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/fY4pZovL1Uo |
+| Description | URL |
+| ----------- | --- |
+|             |     |

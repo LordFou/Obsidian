@@ -1,16 +1,16 @@
 ---
 type: game
 ---
-
+![[image-499.webp]]
 # Life is Strange - Reunion
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Deck Nine Games]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Square Enix]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : [[Franchise Life is Strange]]
 - **Genre** : [[Action Aventure]]

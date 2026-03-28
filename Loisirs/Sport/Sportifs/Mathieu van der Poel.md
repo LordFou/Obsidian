@@ -52,6 +52,7 @@ type: personne
 | 2026  | [[Omloop Het Nieuwsblad]]                           | 1ier    |                                                                                                        |
 | 2026  | [[Tirreno-Adriatico]] - 2e étape                    | 1ier    |                                                                                                        |
 | 2026  | [[Tirreno-Adriatico]] - 4e étape                    | 1ier    |                                                                                                        |
+| 2026  | [[Grand Prix de l'E3]]                              | 1ier    | 3e - [[Florian Vermeersch]]                                                                            |
 ## Style et Caractéristiques
 - Toujours à l'attaque et beaucoup de victoires en solitaire
 - Il s'est déjà prix des bonnes fringales

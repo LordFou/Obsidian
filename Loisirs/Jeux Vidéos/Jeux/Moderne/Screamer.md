@@ -14,7 +14,7 @@ type: game
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Course]], [[Arcade]] 
-- **Résumé** : 
+- **Résumé** : jeu de course arcade qui s'éloigne des jeux de bagnoles traditionnels avec une série d'épreuves dans un univers futuriste et un accent mis sur l'ambiance et l'histoire, racontée sous forme d'anime.
 
 ## Détails Techniques
 - **Moteur de jeu** : 

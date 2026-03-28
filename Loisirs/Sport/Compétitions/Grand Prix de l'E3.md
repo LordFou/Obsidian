@@ -8,10 +8,11 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur          | Nationalité | Remarque |
-| ----- | ------------------ | ----------- | -------- |
-| 2021  | [[Kasper Asgreen]] | Danois      |          |
-|       |                    |             |          |
+| Année | Vainqueur                | Nationalité | Remarque |
+| ----- | ------------------------ | ----------- | -------- |
+| 2021  | [[Kasper Asgreen]]       | Danois      |          |
+|       |                          |             |          |
+| 2026  | [[Mathieu van der Poel]] | Néerlandais |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
