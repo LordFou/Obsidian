@@ -19,7 +19,7 @@ type: event
 | 4e (ANG) | [[Ethan Vernon]]        | [[Dorian Godon]]     | [[Baptiste Veistroffer]] | [[Dorian Godon]]         | [[Simone Gualdi]]  |                                                        |
 | 5e (DAN) | [[Jonas Vingegaard]]    | [[Jonas Vingegaard]] | [[Baptiste Veistroffer]] | [[Dorian Godon]]         |                    | 6e - [[Remco Evenepoel]]<br>9e - [[Cian Uijtdebroeks]] |
 | 6e (DAN) | [[Jonas Vingegaard]]    | [[Jonas Vingegaard]] | [[Giulio Ciccone]]       | [[Dorian Godon]]         | [[Lenny Martinez]] | 5e - [[Remco Evenepoel]]                               |
-| 7e ()    |                         |                      |                          |                          |                    |                                                        |
+| 7e (AUS) | [[Brady Guilmore]]      | [[Jonas Vingegaard]] | [[Giulio Ciccone]]       | [[Dorian Godon]]         | [[Lenny Martinez]] | 3e - [[Remco Evenepoel]]                               |
 ## Femmes
 
 ### Etapes
@@ -32,10 +32,10 @@ type: event
 ### Hommes
 
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur            | Nationalité | Remarque |
+| ----- | -------------------- | ----------- | -------- |
+| 2026  | [[Jonas Vingegaard]] | Danois      |          |
+|       |                      |             |          |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
