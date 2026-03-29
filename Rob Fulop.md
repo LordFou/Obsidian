@@ -9,9 +9,12 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 
 ## Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Profession(s)** : (Développeur, Designer, Compositeur, Journaliste, etc.)  
-- **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
+- **Nationalité** :  Américain
+- **Profession(s)** : 
+	- [[Développeur]]
+- **Entreprise(s) associée(s)** : 
+	- [[Atari]]
+	- [[Imagic]]
 
 ```timeline-labeled
 [line-5, body-2]

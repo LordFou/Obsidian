@@ -2,7 +2,7 @@
 type: matos
 ---
 
-# Atari 8-bits
+# Atari 8-bit
 
 ## Informations principales
 - Fabricant : {{Nom du fabricant}}

@@ -12,7 +12,7 @@ type: game
 	- Société : [[Atari]]
 	- Personnalités : [[Doug Neubauer]]
 - **Éditeur** : 
-- **Plateformes** : [[Atari 8-bits]]
+- **Plateformes** : [[Atari 8-bit]]
 - **Genre** : [[Simulateur de combat spatial]]
 - **Résumé** : 
 

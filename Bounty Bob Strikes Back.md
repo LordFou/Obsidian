@@ -42,7 +42,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- La cartouche faisait 40ko, [[Bill Hogue]] pense qu'il n'y avait pas de cartouche [[Atari 8-bits]] aussi grosse.
+- La cartouche faisait 40ko, [[Bill Hogue]] pense qu'il n'y avait pas de cartouche [[Atari 8-bit]] aussi grosse.
 - [[Curtis Mikolyski]] ne voulait pas que le jeu soit terminé trop facilement et il avait donc conçu des niveaux assez complexes, un peu trop pour [[Bill Hogue]]. En contrepartie, il obtient de [[Curtis Mikolyski]] des niveaux bonus plus reposants.
 - A l'époque du développement, on parlait beaucoup du phénomène météorologique des [[pluies acides]] (= projection de produits chimiques dans l'atmosphère qui retombent via la pluie). De plus, une chanson du groupe de musique Rush en parlait ("Red Alert ! Acid Rain" dans [Distant Early Warning](https://open.spotify.com/intl-fr/track/1bVnRjdVprR6ZoT67DBxML)). Cela a donc donné un nouveau type d'obstacle dans le jeu.
 - Les 2 personnalités se sont un peu pris le chou quand [[Curtis Mikolyski]] est venu demandé si les ennemis pourraient poursuivre le héros et ne pas rester cantonnés sur leur plateforme. Mais à la réflexion, [[Bill Hogue]] a admis que ça pouvait être intéressant à condition de baisser le nombre d'adversaires.

@@ -19,13 +19,17 @@ tags: mediaDB/wiki
 
 - **Année de sortie** : 1982 
 - **Développeur** : 
-	- Studio : 
+	- Studio :  [[Imagic]]
 	- Personnalités : 
 		- [[Rob Fulop]]
 - **Éditeur** : [[Imagic]]
 - **Plateformes** : 
+	- [[Atari 2600]]
+	- [[Odyssey 2]]
+	- [[Atari 8-bit]]
+	- [[Intellivision]]
 - **Franchise** : 
-- **Genre** : [[Shooter]]
+- **Genre** : [[Shoot'em up]] vertical
 - **Résumé** :  
 
 ## Détails Techniques
@@ -42,12 +46,13 @@ tags: mediaDB/wiki
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
+	- Des démons
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- [[Rob Fulop]] a conçu le jeu chez [[Imagic]] après avoir été déçu par la manière dont on l'avait traité ch
+- [[Rob Fulop]] a conçu le jeu chez [[Imagic]] après avoir été déçu par la manière dont on l'avait traité chez [[Atari]]
 ## Liens et Ressources
 
 | Description | URL       |

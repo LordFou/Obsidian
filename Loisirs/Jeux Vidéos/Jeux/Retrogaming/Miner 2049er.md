@@ -13,7 +13,7 @@ type: game
 		- [[Bill Hogue]] (Créateur - Version Origine)
 		- [[Jeff Konyu]]
 - **Éditeur** : 
-- **Plateformes** : [[Atari 8-bits]]
+- **Plateformes** : [[Atari 8-bit]]
 - **Franchise** : [[Franchise Miner 2049er|Miner 2049er]]
 - **Genre** : [[Arcade]]
 - **Résumé** : [[Bounty Bob]] est un mineur qui évolue au travers de différents niveaux, il doit passer par toutes les échelles à l'écran pour passer au level suivant. 
@@ -57,7 +57,7 @@ type: game
 ## Anecdotes et Curiosités
 - Pour compenser la musique qui faisait un peu trop 18e siècle, ils ont compensé avec une histoire plus futuriste (d'où)
 - Les sons des transporteurs ressemblent beaucoup à ceux de [[Star Trek]]
-- Excellentes ventes sur [[Atari 8-bits]]
+- Excellentes ventes sur [[Atari 8-bit]]
 - [[Bill Hogue]] avait un accord pour faire une suite sur l'[[Apple II]] mais ils n'ont pas été patient et ils ont développé leur propre [[Miner 2049er II]] sans la moindre intervention de Bill.
 - Les power up du jeu n'ont parfois aucun rapport avec le thème de la mine : à côté des pelles, pioches ou autres, on peut trouver des hamburgers, tasses de thé,...
 ## Liens et Ressources
