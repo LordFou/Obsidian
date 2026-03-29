@@ -22,12 +22,13 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre | Année                      | Plateformes | Remarque |
-| ----- | -------------------------- | ----------- | -------- |
-|       | [[Silent Hill]]            |             |          |
-|       | [[Silent Hill 2]]          |             |          |
-| 2025  | [[Silent Hill F]]          |             |          |
-|       | [[Silent Hill - Townfall]] |             |          |
+| Titre | Année                        | Plateformes | Remarque |
+| ----- | ---------------------------- | ----------- | -------- |
+|       | [[Silent Hill]]              |             |          |
+|       | [[Silent Hill 2]]            |             |          |
+|       | [[Silent Hill 4 - The Room]] |             |          |
+| 2025  | [[Silent Hill F]]            |             |          |
+|       | [[Silent Hill - Townfall]]   |             |          |
 
 
 ## Mécaniques et innovations

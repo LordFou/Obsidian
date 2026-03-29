@@ -15,7 +15,7 @@ type: matos
 - Mascotte : 
 
 ## Résumé et historique
-{{Gros résumé sur l’histoire de la console/micro, son impact sur le marché, ses innovations, ses succès ou échecs. Parle aussi des modèles révisés et de son influence sur l’industrie.}}
+- Il y a eu une certaine frénésie avant la sortie de la console et chaque nouvelle news était comme une révolution.
 
 ## Jeux emblématiques
 - {{Titre du jeu 1 (année)}}
@@ -24,6 +24,7 @@ type: matos
 
 ## Anecdotes et faits marquants
 - En 2026, un décompilateur va permettre de remettre les jeux PS2 sur PC (?)
+- C'est l'une des premières consoles que l'on a pu mettre verticalement à côté de sa télé. Quand on faisait ça, on pouvait tourner également le petit logo qui était sur le lecteur CD pour qu'il reste dans le bon sens ^^
 
 ## Liens connexes
 - [Page Wikipédia](https://wikipedia.org)
