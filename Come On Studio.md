@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Seismic Squirrel
+# Come On Studio
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -14,7 +14,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Personnalités** :
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
-- **Mascotte** : [[Aether and Iron]]
+- **Mascotte** :
 
 ```timeline-labeled
 [line-5, body-2]
@@ -24,9 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre               |
-| ----- | ------------------- |
-| 2026  | [[Aether and Iron]] |
+| Année | Titre    |
+| ----- | -------- |
+| 2026  | [[Hozy]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

@@ -18,15 +18,15 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
+date: Mars 2026
+title: Fermeture du studio
 content:
 ```
 
 ## Jeux Développés
-| Année | Titre      | Genre                       | Plateformes |
-| ----- | ---------- | --------------------------- | ----------- |
-| 2025  | Wanderstop | Gestion, Aventure Narrative |             |
+| Année | Titre          | Genre                       | Plateformes |
+| ----- | -------------- | --------------------------- | ----------- |
+| 2025  | [[Wanderstop]] | Gestion, Aventure Narrative |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

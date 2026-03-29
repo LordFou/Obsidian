@@ -26,7 +26,7 @@ content:
 ## Jeux Développés
 | Année | Titre            |
 | ----- | ---------------- |
-| 2026  | [[Aether  and Iron]] |
+| 2026  | [[Aether and Iron]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
