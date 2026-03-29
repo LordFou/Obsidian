@@ -32,10 +32,10 @@ type: event
 ### Hommes
 
 
-| Année | Vainqueur            | Nationalité | Remarque                 |
-| ----- | -------------------- | ----------- | ------------------------ |
-| 2026  | [[Jonas Vingegaard]] | Danois      | 5e - [[Remco Evenepoel]] |
-|       |                      |             |                          |
+| Année | Vainqueur            | Nationalité | Montagne           | Points           | Jeune              | Team             |
+| ----- | -------------------- | ----------- | ------------------ | ---------------- | ------------------ | ---------------- |
+| 2026  | [[Jonas Vingegaard]] | Danois      | [[Giulio Ciccone]] | [[Dorian Godon]] | [[Lenny Martinez]] | [[Bora Redbull]] |
+|       |                      |             |                    |                  |                    |                  |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

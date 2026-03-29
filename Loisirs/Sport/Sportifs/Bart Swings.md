@@ -18,6 +18,7 @@ type: personne
 | 2020  | [[Championnat d'Europe de patinage de vitesse]] - Mass-start | ==1ier== |                                   |
 | 2022  | [[Championnat d'Europe de patinage de vitesse]] - Mass-start | ==1ier== |                                   |
 | 2024  | [[Championnat d'Europe de patinage de vitesse]] - Mass-start | ==1ier== |                                   |
+| 2024  | Marathon de Shanghai - Roller                                | ==1ier== |                                   |
 | 2025  | Coupe du monde - Salt Lake City (USA) - 5000m                | 13e      |                                   |
 | 2025  | Coupe du Monde - Heerenveen (Pays-Bas) - 10 000m             | 2e       | 12:04,75 - ==Record de Belgique== |
 | 2025  | Coupe du Monde - Hamar  (Norvège) - Mass-start               | 2e       |                                   |
@@ -28,7 +29,7 @@ type: personne
 | 2026  | [[JO 2026]] - 5000m                                          | 15e      |                                   |
 | 2026  | [[JO 2026]] - 10 000m                                        | 10e      |                                   |
 | 2026  | [[JO 2026]] - Mass Start                                     | 9e       |                                   |
-| 2026  | Marathon de Shanghai - Roller                                | 1ier     |                                   |
+| 2026  | Marathon de Shanghai - Roller                                | ==1ier== |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
