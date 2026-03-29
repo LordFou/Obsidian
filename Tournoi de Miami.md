@@ -15,7 +15,7 @@ type: event
 |       |                  |             |          |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur           | Nationalité | Remarque |
+| ----- | ------------------- | ----------- | -------- |
+| 2026  | [[Aryna Sabalenka]] | Bélarusse   |          |
+|       |                     |             |          |
