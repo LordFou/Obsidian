@@ -24,5 +24,6 @@ En 2026, cette course sera renommée -> "In Flanders Fields. From Middelkerke to
 
 | Année | Vainqueur         | Nationalité  | Remarque                                                                                             |
 | ----- | ----------------- | ------------ | ---------------------------------------------------------------------------------------------------- |
+| 2024  | [[Lorena Wiebes]] | Néerlandaise |                                                                                                      |
 | 2025  | [[Lorena Wiebes]] | Néerlandaise | Avec l'aide de [[Lotte Kopecky]] qui remonte très bien sa coéquipière dans les 2 derniers kilomètres |
-|       |                   |              |                                                                                                      |
+| 2026  | [[Lorena Wiebes]] | Néerlandaise | 2e - [[Fleur Moors]]                                                                                 |
