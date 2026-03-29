@@ -1,45 +1,41 @@
 ---
 type: game
 subType: ""
-title: Fishbowl
-englishTitle: Fishbowl
+title: ALL WILL FALL
+englishTitle: ALL WILL FALL
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/1638070
-id: 1638070
+url: https://store.steampowered.com/app/2706020
+id: 2706020
 developers:
-  - imissmyfriends.studio
+  - All Parts Connected
 publishers:
-  - imissmyfriends.studio
-  - Wholesome Games Presents
+  - tinyBuild
 genres:
-  - Casual
-  - Indie
-  - RPG
+  - Simulation
+  - Strategy
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1638070/23bbad8c5841eb83521874c2e6392252167bf4dc/header.jpg?t=1774713477
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/header.jpg?t=1774473697
 released: true
-releaseDate: 02/04/2026
+releaseDate: 03/04/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
 
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1638070/23bbad8c5841eb83521874c2e6392252167bf4dc/header.jpg?t=1774713477)
-# Fishbowl
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/header.jpg?t=1774473697)
+# ALL WILL FALL
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[imissmyfriends.studio]]
+	- Studio : [[All Parts Connected]]
 	- Personnalités : 
-- **Éditeur** : 
-	- [[imissmyfriends.studio]]
-	- [[Wholesome Games Presents]]
-- **Plateformes** : 
+- **Éditeur** : [[tinyBuild]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Casual]], [[RPG]], [[Jeu narratif]]
+- **Genre** : [[Simulation]], [[Stratégie]], [[City-Builder]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -47,7 +43,7 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 
+	- Steam Rating : 0
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -66,5 +62,6 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/1638070       |
-| Trailer     | https://youtu.be/AVyBv_qZ6xs?si=R552AXxm5gdb9CiS |
+| Steam       | https://store.steampowered.com/app/2706020       |
+| Trailer     | https://youtu.be/1gYBZvsqLyg?si=6gWwhwjyiUNT_EB_ |
+|             |                                                  |
