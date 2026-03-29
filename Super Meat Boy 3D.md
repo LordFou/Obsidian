@@ -11,9 +11,9 @@ type: game
 	- Studio : [[Sluggerfly]], [[Team Meat]]
 	- Personnalités : 
 - **Éditeur** : [[Headup]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : [[Franchise Meat Boy|Meat Boy]]
-- **Genre** :
+- **Genre** : [[Action]], [[Plateforme]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -38,6 +38,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Trailer     | https://youtu.be/I6m6SKgQqeU?si=E511cLQeVrtbw5mg |

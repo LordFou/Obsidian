@@ -28,6 +28,7 @@ content:
 | ---------------------------------------- | ----- | ----------- | -------- |
 | [[Legacy of Kain 5]]                     | 2003  |             |          |
 | [[Legacy of Kain - Defiance Remastered]] | 2026  |             |          |
+| [[Legacy of Kain - Ascendance]]          | 2026  |             |          |
 
 
 ## Mécaniques et innovations
