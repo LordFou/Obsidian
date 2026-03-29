@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Criquiel",
+                "query": "Criquielion",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -205,9 +205,13 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "2bb9a73ff8daed1d",
+  "active": "6a8846a670342415",
   "lastOpenFiles": [
     "Rob Fulop.md",
+    "Championnat du Monde de Cyclisme.md",
+    "Claudy Criquielon.md",
+    "Attachments/image-509.webp",
+    "Attachments/image-508.webp",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Demon Attack.md",
     "Imagic.md",
     "Odyssey 2.md",
@@ -236,13 +240,8 @@
     "Jonas Vingegaard.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Poke ALL Toads.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Blackjack Roulette.md",
-    "DreamArk Lab.md",
-    "SpaceMatra.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Rubato.md",
     "Attachments/image-501.webp",
     "Attachments/image-500.webp",
-    "Attachments/image-499.webp",
-    "Attachments/image-498.webp",
     "Media DB/games",
     "Media DB",
     "ZA",

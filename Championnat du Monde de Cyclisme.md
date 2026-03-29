@@ -10,7 +10,7 @@ type: event
 
 | Année | Vainqueur                                      | Course |                 | Nationalité | Remarque                 |
 | ----- | ---------------------------------------------- | ------ | --------------- | ----------- | ------------------------ |
-| 1984  | Claudy Criquielon                              | Route  |                 | Belge       |                          |
+| 1984  | [[Claudy Criquielon]]                          | Route  |                 | Belge       |                          |
 | 2012  | [[Philippe Gilbert]]                           | Route  |                 | Belge       |                          |
 | 2019  | [[Mads Pedersen]]                              | Route  |                 | Danois      |                          |
 | 2022  | [[Remco Evenepoel]]                            | Route  |                 | Belge       |                          |
