@@ -32,10 +32,10 @@ type: event
 ### Hommes
 
 
-| Année | Vainqueur            | Nationalité | Remarque |
-| ----- | -------------------- | ----------- | -------- |
-| 2026  | [[Jonas Vingegaard]] | Danois      |          |
-|       |                      |             |          |
+| Année | Vainqueur            | Nationalité | Remarque                 |
+| ----- | -------------------- | ----------- | ------------------------ |
+| 2026  | [[Jonas Vingegaard]] | Danois      | 5e - [[Remco Evenepoel]] |
+|       |                      |             |                          |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

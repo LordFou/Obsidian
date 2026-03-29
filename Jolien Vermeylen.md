@@ -1,11 +1,11 @@
 ---
 type: personne
 ---
-
+![[image-510.webp]]
 # Jolien Vermeylen
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  1995
 - **Nationalité** :  Belge
 - **Sport / Discipline** :  [[Triathlon]]
 - **Poste / Spécialité** (si applicable) :  
@@ -13,9 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                           | Résultat | Remarque |
-| ----- | ------------------------------------- | -------- | -------- |
-| 2025  | [[Championnat d'Europe de Triathlon]] | 1ière    |          |
+| Année | Compétition                                               | Résultat | Remarque |
+| ----- | --------------------------------------------------------- | -------- | -------- |
+| 2025  | [[Championnat d'Europe de Triathlon]] - Sprint            | 1ière    |          |
+| 2025  | [[Championnat d'Europe de Triathlon]] - Distance standard | 1ière    |          |
+| 2026  | Coupe Europe Triathlon - Quarteira (Portugal)             | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
