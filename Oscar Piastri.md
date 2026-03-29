@@ -21,6 +21,7 @@ type: personne
 |       |                             |          |                           |
 | 2026  | [[Grand Prix d'Australie]]  | Abandon  | Sortie au tour de chauffe |
 | 2026  | [[Grand Prix de Chine]]     | Forfait  | Problème Technique        |
+| 2026  | [[Grand Prix du Japon]]     | 2e       |                           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

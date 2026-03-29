@@ -5,7 +5,7 @@ type: personne
 # Bart Swings
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  1991
 - **Nationalité** :  Belge
 - **Sport / Discipline** : [[Patinage de vitesse]] 
 - **Poste / Spécialité** (si applicable) :  
@@ -28,6 +28,7 @@ type: personne
 | 2026  | [[JO 2026]] - 5000m                                          | 15e      |                                   |
 | 2026  | [[JO 2026]] - 10 000m                                        | 10e      |                                   |
 | 2026  | [[JO 2026]] - Mass Start                                     | 9e       |                                   |
+| 2026  | Marathon de Shanghai - Roller                                | 1ier     |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

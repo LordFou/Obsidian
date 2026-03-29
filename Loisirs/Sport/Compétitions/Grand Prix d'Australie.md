@@ -10,8 +10,8 @@ type: event
 
 | Année | Vainqueur           | Nationalité | Remarque |
 | ----- | ------------------- | ----------- | -------- |
-| 2026  | [[Georges Russell]] | Anglais     |          |
-|       |                     |             |          |
+| 2025  | [[Georges Russell]] | Anglais     |          |
+| 2026  | [[Kimi Antonelli]]  | Italien     |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
