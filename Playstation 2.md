@@ -23,8 +23,10 @@ type: matos
 - {{Titre du jeu 3 (année)}}
 
 ## Anecdotes et faits marquants
+- Console la plus vendue de tous les temps (Lien vers un comparatif à faire ?)
 - En 2026, un décompilateur va permettre de remettre les jeux PS2 sur PC (?)
-- C'est l'une des premières consoles que l'on a pu mettre verticalement à côté de sa télé. Quand on faisait ça, on pouvait tourner également le petit logo qui était sur le lecteur CD pour qu'il reste dans le bon sens ^^
+- C'est l'une des premières consoles que l'on a pu mettre verticalement à côté de sa télé grâce à un joli pied en bleu dégradé comme le logo et le port USB. Quand on faisait ça, on pouvait tourner également le petit logo qui était sur le lecteur CD pour qu'il reste dans le bon sens ^^
+  ![[image-503.webp]] ![[image-505.webp]]
 
 ## Liens connexes
 - [Page Wikipédia](https://wikipedia.org)

@@ -1,1 +1,16 @@
-{}
+{
+  "Playstation 2.md": {
+    "2c46663df19cf82eac13ef788e5b3dea": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": true
+    },
+    "7fdb524f74b3d0456bb8bb52034c0d04": {
+      "position": "right",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  }
+}
