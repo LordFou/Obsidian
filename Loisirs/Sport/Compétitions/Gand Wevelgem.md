@@ -18,7 +18,7 @@ En 2026, cette course sera renommée -> "In Flanders Fields. From Middelkerke to
 | 2019  | [[Alexander Kristoff]] | Norvégien   |                                                                            |
 | 2024  | [[Mads Pedersen]]      | Danois      |                                                                            |
 | 2025  | [[Mads Pedersen]]      | Danois      | Attaque seul dans la seconde ascension du mont Kemel à 56 km de l'arrivée. |
-|       |                        |             |                                                                            |
+| 2026  |                        |             |                                                                            |
 
 ## Femmes
 
