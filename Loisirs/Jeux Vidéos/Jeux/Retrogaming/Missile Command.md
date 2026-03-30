@@ -1,11 +1,18 @@
+---
+type: game
+---
+
 # Missile Command
+
 ![[Pasted image 20250319230526.png]]
 ## Informations Générales
 
 - **Année de sortie** : [[1980]]
 - **Développeur** : 
 	- Société : [[Atari]]
-	- Personnalités : Dave Theurer
+	- Personnalités : 
+		- [[Dave Theurer]]
+		- [[Rob Fulop]] (Développeur)
 - **Éditeur** : 
 - **Plateformes** : 
 	- Arcade (1980)

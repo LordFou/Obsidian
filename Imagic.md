@@ -11,6 +11,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Nom complet** :  
 - **Date de création** :  
 - **Fondateurs** :  
+	- [[Rob Fulop]]
 - **Personnalités** :
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  

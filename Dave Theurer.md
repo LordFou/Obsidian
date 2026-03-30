@@ -2,30 +2,22 @@
 type: personne
 ---
 
-# Rob Fulop
+# Dave Theurer
 
 ## Présentation
+Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
 
 ## Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Américain
-- **Profession(s)** : 
-	- [[Développeur]]
-- **Entreprise(s) associée(s)** : 
-	- [[Atari]]
-	- [[Imagic]]
+- **Nationalité** :  
+- **Profession(s)** : (Développeur, Designer, Compositeur, Journaliste, etc.)  
+- **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 
 ```timeline-labeled
 [line-5, body-2]
-date: Fin des années 70
-title: Travail de larbins chez Atari 
-content: A la fin des années 70, Rob avait déjà travaillé sur quelques jeux chez [[Atari]] mais il en avait marre de se tuer à la tâche pour de maigres compensations.
-
-date: 1981
-title: Départ de chez Atari
-content: La goutte d'eau qui fait déborder le vase, c'est la prime insultante qu'on lui a versée pour la version [[Atari 2600]] de [[Missile Command]] => une dinde pour Thansgiving !! Il quitte alors [[Atari]] avec d'autres développeurs et fondent [[Imagic]]
-
-
+date:  
+title: 
+content:
 ```
 
 
