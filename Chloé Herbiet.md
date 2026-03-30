@@ -13,16 +13,19 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                          | Résultat | Remarque           |
-| ----- | ------------------------------------ | -------- | ------------------ |
-|       | Championnat d'Europe - Semi-Marathon | 1ier     |                    |
-| 2025  | [[Marathon de Valence]]              | 3e       | Record de Belgique |
+| Année | Compétition                          | Résultat | Remarque               |
+| ----- | ------------------------------------ | -------- | ---------------------- |
+|       | Championnat d'Europe - Semi-Marathon | 1ier     |                        |
+| 2025  | [[Marathon de Valence]]              | 3e       | ==Record de Belgique== |
+| 2026  | Semi-Marathon de Berlin              | 6e       | ==Record de Belgique== |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-- Record de Belgique => 2 heures 20 minutes et 38 secondes
+- Record de Belgique 
+	- Marathon - 2:20.38
+	- Semi-Marathon - 1:07.32
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

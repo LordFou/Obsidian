@@ -31,35 +31,42 @@ tags: mediaDB/game
 - **Développeur** : 
 	- Studio : [[Katanalevy]]
 	- Personnalités : 
+		- [[Chris Evry]]
 - **Éditeur** : [[Oro Interactive]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Survival Horror]]
-- **Résumé** :  
+- **Résumé** :  Vous êtes à la recherche de votre frère qui n'a pas donné de nouvelles depuis plusieurs semaines mais pour le retrouver, vous allez devoir visionner des K7 VHS de genres horrifiques différents.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : [[3D]], [[FMV]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- Steam Rating : 0
 	- Canard PC (7/10)
-		- Bonne ambiance
+		- Bonne ambiance, univers 3D superbe, design sonore réussi
 		- ça clippe un peu
+		- parfois trop punitif
 - **Gameplay** :
+	- Chaque VHS lue ouvre une porte dans l'appartement, la pièce vous plonge alors dans l'univers de la-dite VHS.
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Ecosse]]
 - **Epoque** : 
+	- [[Années 90]]
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Resident Evil 7 - Biohazard]]
+	- [[Silent Hill 4 - The Room]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- [[Chris Evry]] se retrouve dans chacune des VHS du jeu
 ## Liens et Ressources
 
 | Description | URL |

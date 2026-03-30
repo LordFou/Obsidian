@@ -14,7 +14,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Personnalités** :
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
-- **Mascotte** : [[Aether  and Iron]]
+- **Mascotte** : [[Aether and Iron]]
 
 ```timeline-labeled
 [line-5, body-2]

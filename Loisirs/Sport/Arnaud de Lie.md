@@ -33,6 +33,7 @@ type: personne
 |       |                                    |          |                                                                 |
 | 2026  | [[Clasica Almeria]]                | 6e       | Sprint                                                          |
 | 2026  | [[Tirreno-Adriatico]] - 3e étape   | 2e       | Sprint                                                          |
+| 2026  | [[Gand Wevelgem]]                  | 4e       | Sprint                                                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

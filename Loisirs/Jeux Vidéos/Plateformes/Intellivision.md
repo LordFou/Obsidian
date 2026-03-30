@@ -1,3 +1,7 @@
+---
+type: matos
+---
+
 # Intellivision
 
 ## Informations principales

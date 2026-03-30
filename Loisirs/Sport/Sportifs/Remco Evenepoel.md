@@ -74,6 +74,7 @@ type: personne
 | 2026  | [[Tour de Catalogne]] - 1e étape                                                 | 2e       | perdu d'un boyau                                                                                                      |
 | 2026  | [[Tour de Catalogne]] - 3e étape                                                 | Dernier  | Chute tout seul à 800m de la ligne alors qu'il était en tête avec [[Jonas Vingegaard]] (8 secondes devant le peloton) |
 | 2026  | [[Tour de Catalogne]] - 5e étape                                                 | 6e       | Conséquence de la chute ?                                                                                             |
+| 2026  | [[Tour de Catalogne]] - Classement final                                         | 5e       |                                                                                                                       |
 ## Historique
 ```timeline-labeled
 [line-5, body-2]

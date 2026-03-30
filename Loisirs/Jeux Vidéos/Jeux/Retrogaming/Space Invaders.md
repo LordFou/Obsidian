@@ -11,6 +11,7 @@ type: game
 - **Développeur** : 
 	- Société : [[Atari]]
 	- Personnalités :  
+		- [[Rob Fulop]] (Développeur sur une version ordinateur 8-bits de la marque)
 - **Éditeur** : 
 - **Plateformes** : 
 - **Genre** : [[Arcade]]

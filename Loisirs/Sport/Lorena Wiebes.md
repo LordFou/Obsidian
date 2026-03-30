@@ -19,6 +19,9 @@ type: personne
 | 2022  | [[Flèche de Gooik Oetingen]]             | 1ière    |                                                     |
 | 2022  | [[Binche-Chimay-Binche]]                 | 1ière    |                                                     |
 | 2024  | [[Flèche de Gooik Oetingen]]             | 1ière    |                                                     |
+| 2024  | [[Gand Wevelgem]]                        | 1ière    |                                                     |
+|       |                                          |          |                                                     |
+| 2025  | [[Gand Wevelgem]]                        | 1ière    |                                                     |
 | 2025  | [[Tour d'Italie]] - 3e étape             | 1iere    | Sprint emmené par [[Lotte Kopecky]]                 |
 | 2025  | [[Tour d'Italie]] - 5e étape             | 1ière    | Sprint emmené par [[Lotte Kopecky]]                 |
 | 2025  | [[Tour de France]] - 3e étape            | 1ière    | Sprint emmené par [[Lotte Kopecky]]<br>Maillot Vert |
@@ -35,6 +38,7 @@ type: personne
 |       |                                          |          |                                                     |
 | 2026  | [[Omloop Het Nieuwsblad]]                | 3e       |                                                     |
 | 2026  | [[Flèche de Gooik Oetingen]]             | 1ière    |                                                     |
+| 2026  | [[Gand Wevelgem]]                        | 1ière    |                                                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

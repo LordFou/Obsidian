@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition       | Résultat  | Remarque |
-| ----- | ----------------- | --------- | -------- |
-| 2025  | [[Roland-Garros]] | Vainqueur |          |
+| Année | Compétition          | Résultat  | Remarque                           |
+| ----- | -------------------- | --------- | ---------------------------------- |
+| 2025  | [[Roland-Garros]]    | Vainqueur |                                    |
+| 2026  | [[Tournoi de Miami]] | Finaliste | Défaite contre [[Aryna Sabalenka]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

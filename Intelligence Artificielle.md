@@ -11,6 +11,7 @@
 	- [[Genshin Impact]] va utiliser l'audio des communications entre joueurs pour entraîner son IA.
 - Mars 2026
 	- Les principales IA sur le marché "recommandent d'utiliser l'arme nucléaire 95% du temps" lorsqu'on l'utilise dans des wargames, d'après NewScientist, une nouvelle qui donne confiance en l'avenir.
+	- Un traducteur de [[Kingdom Come - Deliverance II]] dit avoir été viré et remplacé par une IA.
 # [[Politique]]
 - L'Albanie nomme un premier ministre géré par IA qui s'occupera des marchés publics.
 # Plateforme

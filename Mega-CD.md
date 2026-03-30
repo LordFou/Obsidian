@@ -2,7 +2,7 @@
 type: matos
 ---
 
-# Atari 8-bits
+# Mega-CD
 
 ## Informations principales
 - Fabricant : {{Nom du fabricant}}
