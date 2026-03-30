@@ -2,6 +2,10 @@
 - **Début** :
 - **Cause** :
 - **Déroulement** :
+- Enjeux annexes :
+	- Le gaz
+		- Au début de la guerre, le gaz importé provenait encore de la Russie à 40%, 3 ans plus tard, nous ne sommes plus qu'à 11%. L'Europe veut en sortir avant 2027-2028.
+		- La demande de GNL transporté par bateau est en forte augmentation.
 
 # Afghanistan / Pakistan
 - **Début** : février 2026 (Guerre déclarée et ouverte)

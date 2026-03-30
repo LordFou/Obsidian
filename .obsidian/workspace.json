@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture/GNL.md",
+                "file": "Culture/Histoire/Guerres dans le monde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GNL"
+              "title": "Guerres dans le monde"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GNL",
+                "query": "guerre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -99,7 +99,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,8 +223,8 @@
   },
   "active": "b21fe274e5c9f0fc",
   "lastOpenFiles": [
-    "La guerre des mondes.md",
     "Culture/GNL.md",
+    "La guerre des mondes.md",
     "conflict-files-obsidian-git.md",
     "Journal de bord/2026-03-30.md",
     "imissmyfriends.studio.md",
