@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-516.webp]]
 # Rob Fulop
 
 ## Présentation
