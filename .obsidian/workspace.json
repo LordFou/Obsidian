@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Demon Attack.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Night Trap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Demon Attack"
+              "title": "Night Trap"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deMo",
+                "query": "night",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -208,8 +208,18 @@
   },
   "active": "6a8846a670342415",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Galaxian.md",
+    "Mega-CD.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Night Trap.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Dogz.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Cosmic Ark.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Demon Attack.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Dogz (2005 video game).md",
+    "Attachments/image-515.webp",
+    "Attachments/image-514.webp",
+    "Attachments/image-513.webp",
+    "Attachments/image-512.webp",
+    "Michael Becker.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Galaxian.md",
     "Attachments/image-511.webp",
     "Galaxian.md",
     "Loisirs/Jeux Vidéos/Sociétés/Atari.md",
@@ -229,20 +239,11 @@
     "Jasper Philipsen.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/ALL WILL FALL.md",
     "All Parts Connected.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Xenonauts 2.md",
-    "Goldhawk Interactive.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Fishbowl.md",
-    "Wholesome Games Presents.md",
-    "imissmyfriends.studio.md",
     "Attachments/image-510.webp",
     "Attachments/image-509.webp",
     "Attachments/image-508.webp",
     "Attachments/image-507.webp",
     "Attachments/image-506.webp",
-    "Attachments/image-505.webp",
-    "Attachments/image-504.webp",
-    "Attachments/image-503.webp",
-    "Attachments/image-502.webp",
     "Media DB/games",
     "Media DB",
     "ZA",

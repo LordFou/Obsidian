@@ -21,7 +21,8 @@ tags: mediaDB/wiki
 - **Développeur** : 
 	- Studio :  [[Imagic]]
 	- Personnalités : 
-		- [[Rob Fulop]]
+		- [[Rob Fulop]] (Développeur)
+		- [[Michael Becker]] (Graphiste)
 - **Éditeur** : [[Imagic]]
 - **Plateformes** : 
 	- [[Atari 2600]]
@@ -30,21 +31,23 @@ tags: mediaDB/wiki
 	- [[Intellivision]]
 - **Franchise** : 
 - **Genre** : [[Shoot'em up]] vertical
-- **Résumé** :  
+- **Résumé** : le joueur est coincé sur une planète gelée (Krybor) et doit affronter des hordes de démons.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
+	- Petit éditeur graphique afin qu'un artiste [[Michael Becker]] puisse dessiner lui-même les démons de 16x8 pixels et les animer en 8 images.
 - **Graphismes** : [[2D]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Un des plus gros hit de l'[[Atari 2600]] qui a forgé la réputation de [[Imagic]]
 - **Gameplay** :
-	- Rob se rend compte qu'il peut programmer 12 différents types de monstres
+	- Rob se rend compte qu'il peut programmer 12 différents types de monstres colorisés de 7 façons différentes => 84 combinaisons qui feront que le jeu se distingue de ses pairs.
 	- A chaque vague de démons abattus, le jeu rend une vie au joueur.
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- Planète gelée de Krybor
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
