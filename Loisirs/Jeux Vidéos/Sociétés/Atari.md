@@ -30,6 +30,10 @@ date:
 title: Atari grossit vite
 content: Après le rachat, certains projets décollent vraiment comme la VCS. Création d'un nouveau campus pour les employés.
 
+date: 1979
+title: Manque de reconnaissance 
+content: Atari refuse de payer ou de créditer des développeurs pour les jeux qu'ils développent. Plusieurs s'en vont comme David Crane qui fondera [[Activision]]
+
 date: 1980
 title: Conception et abandon de la [[Cosmos]]
 content: la [[Cosmos]] aurait dû être une console portable holographique mais elle ne sera jamais commercialisée. Elle a fait face à la VCS qui fut un succès commercial et Atari réorientera tous les bugdets vers celle-ci. 
