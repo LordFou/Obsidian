@@ -1,14 +1,27 @@
+---
+type: personne
+---
+
 ![[Pasted image 20250517232627.png]]
 # Nolan Bushnel
 
 ## Présentation
-- Fondateur d'[[Atari]]
+- Né en Utah et mormont de naissance, ce n'est pas un enfant facile.
+- Son loisir radio amateur va développer 
+- Co-Fondateur d'[[Atari]] avec Alan 
 
 ## Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
+- **Nationalité** :  Américain
 - **Profession(s)** : (Développeur, Designer, Compositeur, Journaliste, etc.)  
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
+
+```timeline-labeled
+[line-5, body-2]
+date:  
+title: 
+content:
+```
 
 ## Contributions Notables
 
@@ -34,7 +47,7 @@ if (results.length > 0) {
 ```
 
 ## Récompenses et Distinctions
-Lister les prix et reconnaissances obtenues.
+- Plus jeune radio amateur du pays (10 ans)
 
 ## Controverses ou Faits Marquants
 - Régulièrement le soir, il passe dans les bureaux de la société et regardent les travaux de ses employés. Quand quelque chose lui plaisait, il l'emportait.

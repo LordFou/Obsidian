@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture/Le gaz comme ressource.md",
+                "file": "Loisirs/Jeux Vidéos/Nolan Bushnel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Le gaz comme ressource"
+              "title": "Nolan Bushnel"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "guerre",
+                "query": "Nolan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -223,8 +223,8 @@
   },
   "active": "b21fe274e5c9f0fc",
   "lastOpenFiles": [
-    "Culture/Histoire/Guerres dans le monde.md",
     "Culture/Le gaz comme ressource.md",
+    "Culture/Histoire/Guerres dans le monde.md",
     "La guerre des mondes.md",
     "conflict-files-obsidian-git.md",
     "Journal de bord/2026-03-30.md",
