@@ -7,7 +7,7 @@ type: personne
 
 ## Présentation
 - Né en Utah et mormont de naissance, ce n'est pas un enfant facile.
-- Son loisir radio amateur va développer 
+- Son loisir radio amateur va développer son côté recherche et développement ainsi que sa débrouillardise.
 - Co-Fondateur d'[[Atari]] avec Alan 
 
 ## Informations Générales
