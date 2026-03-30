@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture/GNL.md",
+                "file": "Culture/Le gaz comme ressource.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GNL"
+              "title": "Le gaz comme ressource"
             }
           }
         ],
@@ -224,7 +224,7 @@
   "active": "b21fe274e5c9f0fc",
   "lastOpenFiles": [
     "Culture/Histoire/Guerres dans le monde.md",
-    "Culture/GNL.md",
+    "Culture/Le gaz comme ressource.md",
     "La guerre des mondes.md",
     "conflict-files-obsidian-git.md",
     "Journal de bord/2026-03-30.md",
