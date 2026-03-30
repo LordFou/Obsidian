@@ -39,7 +39,8 @@ tags: mediaDB/wiki
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Un des plus gros hit de l'[[Atari 2600]] qui a forgé la réputation de [[Imagic]]
 - **Gameplay** :
-	- A chaque vague de démons abattus, le jeu rn
+	- Rob se rend compte qu'il peut programmer 12 différents types de monstres
+	- A chaque vague de démons abattus, le jeu rend une vie au joueur.
 - **Durée estimée** : 
 
 ## Histoire et Univers
@@ -50,12 +51,14 @@ tags: mediaDB/wiki
 	- Des démons
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Galaxian]]
+	- [[Space Invaders]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- [[Rob Fulop]] a conçu le jeu chez [[Imagic]] après avoir été déçu par la manière dont on l'avait traité chez [[Atari]]
+- [[Rob Fulop]] a conçu le jeu chez [[Imagic]] après avoir été déçu par la manière dont on l'avait traité chez [[Atari]]. Ce jeu est donc sa manière de prouver qu'ils ont perdu un bon développeur.
 ## Liens et Ressources
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://en.wikipedia.org/wiki/Demon_
+| Wiki        | https://en.wikipedia.org/wiki/Demon_Attack |
