@@ -11,6 +11,7 @@ type: game
 - **Développeur** : 
 	- Société : [[Atari]]
 	- Personnalités :  
+		- [[Rob Fulop]] (Version Ordinate)
 - **Éditeur** : 
 - **Plateformes** : 
 - **Genre** : [[Arcade]]
