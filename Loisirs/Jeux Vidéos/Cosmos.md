@@ -1,3 +1,7 @@
+---
+type: matos
+---
+
 ![[Pasted image 20250517013551.png]]
 # Cosmos
 

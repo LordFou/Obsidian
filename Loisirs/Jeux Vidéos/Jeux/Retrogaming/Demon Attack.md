@@ -39,6 +39,7 @@ tags: mediaDB/wiki
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Un des plus gros hit de l'[[Atari 2600]] qui a forgé la réputation de [[Imagic]]
 - **Gameplay** :
+	- A chaque vague de démons abattus, le jeu rn
 - **Durée estimée** : 
 
 ## Histoire et Univers
@@ -57,4 +58,4 @@ tags: mediaDB/wiki
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://en.wikipedia.org/wiki/Demon_Attack |
+| Wiki        | https://en.wikipedia.org/wiki/Demon_
