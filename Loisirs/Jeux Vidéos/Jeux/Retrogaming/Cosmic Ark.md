@@ -26,7 +26,7 @@ tags: mediaDB/wiki
 - **Plateformes** : [[Atari 2600]]
 - **Franchise** : 
 - **Genre** : {{ INVALID TEMPLATE TAG - object undefined }}
-- **Résumé** :  
+- **Résumé** : on dirige une arche qui doit aller de planète en planète tenter de récupérer des spécimens.
 
 ## Détails Techniques
 - **Moteur de jeu** : 

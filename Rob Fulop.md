@@ -27,7 +27,11 @@ content: La goutte d'eau qui fait déborder le vase, c'est la prime insultante q
 
 date: 1982
 title: Développement et sortie de [[Demon Attack]]
-content: Succès commercial avec 2 millions d'unités vendues et bras d'honneur à [[Atari]]. [[Rob Fulop]] ne travaillera que sur la version [[Atari 2600]] mais il rédigera un document de 3 pages expliquant les fondements du système pour les futurs portages.
+content: Succès commercial avec 2 millions d'unités vendues et bras d'honneur à [[Atari]]. [[Rob Fulop]] ne travaillera que sur la version [[Atari 2600]] mais il rédigera un document de 3 pages expliquant les fondements du système pour les futurs portages. Il ne développera pas de suite au jeu négligeant l'argent qu'aurait pu rapporter un second épisode.
+
+date: 1982
+title: Développement de [[Cosmic Ark]]
+content: 
 ```
 
 
