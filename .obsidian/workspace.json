@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hozy",
+                "query": "Demon",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -205,7 +205,7 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "75c11cea036712ec",
+  "active": "2bb9a73ff8daed1d",
   "lastOpenFiles": [
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Life is Strange - Reunion.md",
     "Deck Nine.md",
