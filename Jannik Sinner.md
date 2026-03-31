@@ -16,10 +16,11 @@ type: personne
 | Année | Compétition              | Résultat        | Remarque                            |
 | ----- | ------------------------ | --------------- | ----------------------------------- |
 | 2025  | [[Roland-Garros]]        | Finaliste       | Premier mondiale lors du tournoi    |
+| 2025  | [[Tournoi de Paris]]     | Vainqueur       |                                     |
 |       |                          |                 |                                     |
 | 2026  | [[Tournoi de Doha]]      | Quart de finale |                                     |
 | 2026  | [[Tournoi Indian Wells]] | Vainqueur       | Victoire contre [[Daniil Medvedev]] |
-| 2026  | [[Tournoi de Miami]]     | 1/8 finale      |                                     |
+| 2026  | [[Tournoi de Miami]]     | Vainqueur       |                                     |
 |       |                          |                 |                                     |
 
 # Style et Caractéristiques
