@@ -43,6 +43,7 @@ tags: mediaDB/wiki
 - **Gameplay** :
 	- Rob se rend compte qu'il peut programmer 12 différents types de monstres colorisés de 7 façons différentes => 84 combinaisons qui feront que le jeu se distingue de ses pairs.
 	- A chaque vague de démons abattus, le jeu rend une vie au joueur.
+	- A chaque niveau, un nouvel ennemi apparait : celui gagne en vitesse et en dangerosité. Dans les niveaux avancés, les vaisseaux se séparent entre 2 catégories : ceux qui tirent et ceux qui plongent sur vous.
 - **Durée estimée** : 
 
 ## Histoire et Univers
@@ -61,7 +62,7 @@ tags: mediaDB/wiki
 ## Anecdotes et Curiosités
 - [[Rob Fulop]] a conçu le jeu chez [[Imagic]] après avoir été déçu par la manière dont on l'avait traité chez [[Atari]]. Ce jeu est donc sa manière de prouver qu'ils ont perdu un bon développeur.
 - Rob a été un des premiers à créer des déplacements de fractions de pixel, ce qui permettait de faire des accélérations et des décélérations.
-- Il pensait que les 84 niveaux étaient trop dur pour les joueurs (lui n'y arrivait pas) mais ils ont pleins d'appels de joueurs qui arrivaient au bout 
+- Il pensait que les 84 niveaux étaient trop dur pour les joueurs (lui n'y arrivait pas) mais ils ont pleins d'appels de joueurs qui arrivaient au bout et avaient juste un écran noir... ils ont alors décidé de virer la ligne de code qui arrêtait le jeu. Les niveaux s'enchaînent alors sans fin et sans augmentation de difficulté. Une histoire sans fin.
 ## Liens et Ressources
 
 | Description | URL       |
