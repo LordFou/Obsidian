@@ -11,10 +11,14 @@
             "id": "75c11cea036712ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Loisirs/Sport/Sportifs/Lucas Coenen.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Lucas Coenen"
             }
           }
         ]
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Sacha Coenen",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -203,6 +207,9 @@
   },
   "active": "75c11cea036712ec",
   "lastOpenFiles": [
+    "Attachments/image-517.webp",
+    "Loisirs/Sport/Sportifs/Sacha Coenen.md",
+    "Loisirs/Sport/Sportifs/Lucas Coenen.md",
     "conflict-files-obsidian-git.md",
     "La guerre des mondes.md",
     "Journal de bord/2026-03-30.md",
@@ -232,9 +239,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Missile Command.md",
     "Dave Theurer.md",
     "Imagic.md",
-    "Loisirs/Sport/Lorena Wiebes.md",
-    "Loisirs/Sport/Compétitions/Gand Wevelgem.md",
-    "Fleur Moors.md",
     "Attachments/image-510.webp",
     "Attachments/image-509.webp",
     "Attachments/image-508.webp",
