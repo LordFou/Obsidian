@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c8d183405d1b8c1e",
+        "id": "98b3c387a181c311",
         "type": "tabs",
         "children": [
           {
-            "id": "d84d190b29a44c0e",
+            "id": "75c11cea036712ec",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -201,8 +201,12 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "c8ddbab28469fc36",
+  "active": "75c11cea036712ec",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "La guerre des mondes.md",
+    "Journal de bord/2026-03-30.md",
+    "Culture/Le gaz comme ressource.md",
     "Rob Fulop.md",
     "Attachments/image-516.webp",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Night Trap.md",
@@ -231,9 +235,6 @@
     "Loisirs/Sport/Lorena Wiebes.md",
     "Loisirs/Sport/Compétitions/Gand Wevelgem.md",
     "Fleur Moors.md",
-    "Loisirs/Sport/Arnaud de Lie.md",
-    "Jasper Philipsen.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/ALL WILL FALL.md",
     "Attachments/image-510.webp",
     "Attachments/image-509.webp",
     "Attachments/image-508.webp",
