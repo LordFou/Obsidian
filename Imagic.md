@@ -41,7 +41,7 @@ Décrire le style graphique, les thématiques abordées, les influences notables
 Lister les prix, distinctions ou records obtenus.
 
 ## Controverses ou Événements Marquants
-Évoquer les polémiques ou faits marquants de l’histoire de la société.
+- Attaqué en justice pour le jeu [[Demon Attack]] sur [[Intellivision]] trop proche de [[Phoenix]]
 
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.

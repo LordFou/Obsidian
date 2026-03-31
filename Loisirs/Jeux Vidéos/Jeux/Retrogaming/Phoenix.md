@@ -1,9 +1,12 @@
+---
+type: game
+---
+![[Pasted image 20250320015928.png]]  
 # Phoenix
 
-![[Pasted image 20250320015928.png]]  
 ## Informations Générales
 
-- **Année de sortie** : [[1980]]
+- **Année de sortie** : 1980
 - **Développeur** : 
 	- Société : [[Taïto]], [[Amstar Electronic]]
 	- Personnalités : 

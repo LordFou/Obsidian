@@ -70,7 +70,7 @@ Décrire le style graphique, les thématiques abordées, les influences notables
 Lister les prix, distinctions ou records obtenus.
 
 ## Controverses ou Événements Marquants
-Évoquer les polémiques ou faits marquants de l’histoire de la société.
+- [[Atari]] était réputé pour attaquer tout le monde en justice afin d'harceler et d'emmerder les adversaires ([[Imagic]], [[Activision]], [[Rob Fulop]],...)
 
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
