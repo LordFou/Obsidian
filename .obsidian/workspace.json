@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Life is Strange - Reunion.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Hozy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Life is Strange - Reunion"
+              "title": "Hozy"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Life is strange",
+                "query": "Hozy",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -207,8 +207,8 @@
   },
   "active": "75c11cea036712ec",
   "lastOpenFiles": [
-    "Deck Nine.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Life is Strange - Reunion.md",
+    "Deck Nine.md",
     "A Travers les Flandres.md",
     "Laurenz Rex.md",
     "Loisirs/Sport/Equipes/Wild Dogs.md",

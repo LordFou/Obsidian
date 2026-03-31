@@ -36,14 +36,15 @@ tags: mediaDB/game
 - **Éditeur** : [[tinyBuild]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Simulation]], [[Casual]]
+- **Genre** : [[Simulation]], [[Casual]], [[Housing]]
 - **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- CheckPoint (6.5/10)
 	- Steam Rating : 
 - **Gameplay** :
 - **Durée estimée** : 
