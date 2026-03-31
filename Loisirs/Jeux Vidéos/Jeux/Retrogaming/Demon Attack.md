@@ -29,6 +29,12 @@ tags: mediaDB/wiki
 	- [[Odyssey 2]]
 	- [[Atari 8-bit]]
 	- [[Intellivision]]
+	- [[Commodore 64]]
+	- [[Magnavox Odissey 2]]
+	- [[IBM PC]]
+	- [[TRS-80]]
+	- [[TI99-4A]]
+	- [[VIC-20]]
 - **Franchise** : 
 - **Genre** : [[Shoot'em up]] vertical
 - **Résumé** : le joueur est coincé sur une planète gelée (Krybor) et doit affronter des hordes de démons.
@@ -36,6 +42,8 @@ tags: mediaDB/wiki
 ## Détails Techniques
 - **Moteur de jeu** : 
 	- Petit éditeur graphique afin qu'un artiste [[Michael Becker]] puisse dessiner lui-même les démons de 16x8 pixels et les animer en 8 images.
+	- Les portages seront tous optimisés pour leur support : aucun code partagé.
+		- Le portage [[Intellivision]] ne permettait pas la méthode de fractions des pixels
 - **Graphismes** : [[2D]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)

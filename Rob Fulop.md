@@ -25,7 +25,9 @@ date: 1981
 title: Départ de chez Atari
 content: La goutte d'eau qui fait déborder le vase, c'est la prime insultante qu'on lui a versée pour la version [[Atari 2600]] de [[Missile Command]] => une dinde pour Thansgiving !! Il quitte alors [[Atari]] avec d'autres développeurs et fondent [[Imagic]]
 
-
+date: 1982
+title: Développement et sortie de [[Demon Attack]]
+content: Succès commercial avec 2 millions d'unités vendues et bras d'honneur à [[Atari]]. [[Rob Fulop]] ne travaillera que sur la version [[Atari 2600]] mais il rédigera un document de 3 pages expliquant les fondements du système pour les futurs portages.
 ```
 
 
