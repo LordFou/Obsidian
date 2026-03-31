@@ -29,7 +29,7 @@ tags: mediaDB/wiki
 	- [[Odyssey 2]]
 	- [[Atari 8-bit]]
 	- [[Intellivision]] (Présence d'un vaisseau mère, sorte de boss => Rappelle le jeu [[Phoenix]] de [[Taïto]])
-	- [[Commodore 64]]
+	- [[Commodore 64]] (Les décors sont plus jolis mais on peut facilement perdre de vue les ennemis et son propre canon)
 	- [[Magnavox Odissey 2]]
 	- [[IBM PC]]
 	- [[TRS-80]]
