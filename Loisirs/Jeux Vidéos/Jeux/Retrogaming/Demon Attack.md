@@ -39,7 +39,7 @@ tags: mediaDB/wiki
 - **Graphismes** : [[2D]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Un des plus gros hit de l'[[Atari 2600]] qui a forgé la réputation de [[Imagic]]
+	- Un des plus gros hit de l'[[Atari 2600]] qui a forgé la réputation de [[Imagic]] => 2 millions d'unités vendues
 - **Gameplay** :
 	- Rob se rend compte qu'il peut programmer 12 différents types de monstres colorisés de 7 façons différentes => 84 combinaisons qui feront que le jeu se distingue de ses pairs.
 	- A chaque vague de démons abattus, le jeu rend une vie au joueur.
@@ -47,7 +47,7 @@ tags: mediaDB/wiki
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- Planète gelée de Krybor
+	- Planète gelée de [[Krybor]]
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
@@ -60,6 +60,8 @@ tags: mediaDB/wiki
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - [[Rob Fulop]] a conçu le jeu chez [[Imagic]] après avoir été déçu par la manière dont on l'avait traité chez [[Atari]]. Ce jeu est donc sa manière de prouver qu'ils ont perdu un bon développeur.
+- Rob a été un des premiers à créer des déplacements de fractions de pixel, ce qui permettait de faire des accélérations et des décélérations.
+- Il pensait que les 84 niveaux étaient trop dur pour les joueurs (lui n'y arrivait pas) mais ils ont pleins d'appels de joueurs qui arrivaient au bout 
 ## Liens et Ressources
 
 | Description | URL       |
