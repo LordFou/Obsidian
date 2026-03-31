@@ -31,6 +31,7 @@ type: personne
 | 2026  | Grand Prix d'Argentine                      | 5e       |                                                       |
 | 2026  | Grand Prix d'Andalousie                     | 1ier     | En tête du championnat 2026                           |
 | 2026  | Grand Prix de Suisse - Course Qualificative | 2e       |                                                       |
+| 2026  | Grand Prix de Suisse                        | 8e       |                                                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -47,3 +48,5 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 # Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
+
+![[Pasted image 20250421215102.jpg]]
