@@ -1,7 +1,7 @@
 ---
 type: societe
 ---
-![[image-518.webp|896]]
+![[image-519.webp]]
 # Imagic
 
 ## Présentation
@@ -46,6 +46,6 @@ Lister les prix, distinctions ou records obtenus.
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description                                                 | URL                                         |
+| ----------------------------------------------------------- | ------------------------------------------- |
+| Making-Of Atlantis + tout le processus de création d'un jeu | https://www.youtube.com/watch?v=qmrZUNIDM2k |
