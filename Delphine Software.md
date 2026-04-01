@@ -18,8 +18,8 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
+date: décembre 1992
+title: Faillite
 content:
 ```
 
@@ -29,6 +29,10 @@ content:
 | XXXX  | Les Voyageurs du Temps               |
 |       | [[Space Harrier]] (Portage Atari ST) |
 | 1992  | Croisière Pour Un Cadavre            |
+| 1992  | Flashback                            |
+|       | Moto Racer                           |
+|       | Darkstone                            |
+|       | Moto Racer 2                         |
 |       |                                      |
 
 ## Moteur(s) Utilisé(s)
