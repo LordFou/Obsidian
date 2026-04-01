@@ -2,7 +2,7 @@
 type: event
 ---
 
-# A Travers les Flandres
+# A Travers la Flandre
 
 # Introduction
 

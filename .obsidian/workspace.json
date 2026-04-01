@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Delphine Software.md",
+                "file": "A Travers la Flandre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Delphine Software"
+              "title": "A Travers la Flandre"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Space Harrier",
+                "query": "A travers",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,8 +207,8 @@
   },
   "active": "75c11cea036712ec",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Space Harrier.md",
     "Delphine Software.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Space Harrier.md",
     "Imagic.md",
     "Media DB/wiki/Space Harrier.md",
     "Media DB/wiki",
