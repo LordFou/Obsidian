@@ -19,7 +19,8 @@ type: game
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : (Type de musique, Bande-son notable)
+- **Audio** :
+	- [[Amine Bouhafa]]
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 

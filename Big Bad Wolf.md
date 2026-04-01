@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Digixart
+# Big Bad Wolf
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -12,7 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  France (Montpellier)
+- **Pays d’origine** :  France
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -24,10 +24,10 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                 | Genre              | Plateformes           |
-| ----- | --------------------- | ------------------ | --------------------- |
-|       | [[Road 96]]           |                    |                       |
-| 2026  | [[Tides of Tomorrow]] | Action / RPG / FPS | PC, PS5, Xbox, Switch |
+| Année | Titre                          |
+| ----- | ------------------------------ |
+| 2026  | [[Cthulhu - The Cosmic Abyss]] |
+|       |                                |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
@@ -45,6 +45,6 @@ Lister les prix, distinctions ou records obtenus.
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |

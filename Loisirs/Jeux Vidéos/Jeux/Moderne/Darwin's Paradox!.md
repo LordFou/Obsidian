@@ -34,7 +34,7 @@ tags: mediaDB/game
 	- Studio : [[ZDT Studio]]
 	- Personnalités : 
 - **Éditeur** : [[Konami]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Switch 2]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]],[[Switch 2]]
 - **Franchise** : 
 - **Genre** : [[Action]], [[Aventure]], [[Plateforme]]
 - **Résumé** :  
@@ -52,6 +52,7 @@ tags: mediaDB/game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- un [[poulpe]]
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
