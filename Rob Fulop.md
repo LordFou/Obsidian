@@ -6,8 +6,12 @@ type: personne
 
 ## Présentation
 
+Dévelopeur de jeux, dont 2 des plus grands succès de l'[[Atari 2600]] :
+- [[Missile Command]] (portage de la version arcade)
+- [[Demon Attack]] 
+
 ## Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  1959
 - **Nationalité** :  Américain
 - **Profession(s)** : 
 	- [[Développeur]]
@@ -19,7 +23,7 @@ type: personne
 [line-5, body-2]
 date: Fin des années 70
 title: Travail de larbins chez Atari 
-content: A la fin des années 70, Rob avait déjà travaillé sur quelques jeux chez [[Atari]] mais il en avait marre de se tuer à la tâche pour de maigres compensations.
+content: A la fin des années 70, Rob avait déjà travaillé sur quelques jeux chez [[Atari]] mais il en avait marre de se tuer à la tâche pour de maigres compensations. ([[Missile Command]], [[Night Trap]], [[Space Invaders]])
 
 date: 1981
 title: Départ de chez Atari
@@ -27,7 +31,7 @@ content: La goutte d'eau qui fait déborder le vase, c'est la prime insultante q
 
 date: 1982
 title: Développement et sortie de [[Demon Attack]]
-content: Succès commercial avec 2 millions d'unités vendues et bras d'honneur à [[Atari]]. [[Rob Fulop]] ne travaillera que sur la version [[Atari 2600]] mais il rédigera un document de 3 pages expliquant les fondements du système pour les futurs portages. Il ne développera pas de suite au jeu négligeant l'argent qu'aurait pu rapporter un second épisode.
+content: Succès commercial avec 2 millions d'unités vendues et bras d'honneur à [[Atari]]. [[Rob Fulop]] ne travaillera que sur la version [[Atari 2600]] mais il rédigera un document de 3 pages expliquant les fondements du système pour les futurs portages. Il ne développera pas de suite au jeu négligeant le succès et donc l'argent qu'aurait pu rapporter un second épisode.
 
 date: 1982
 title: Développement de [[Cosmic Ark]]
@@ -71,11 +75,10 @@ if (tableData.length > 0) {
 ```
 
 ## Récompenses et Distinctions
-Lister les prix et reconnaissances obtenues.
+- Game of the Year 1982 pour [[Demon Attack]]
 
 ## Controverses ou Faits Marquants
 Évoquer les polémiques ou événements notables liés à cette personne.
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+
+
