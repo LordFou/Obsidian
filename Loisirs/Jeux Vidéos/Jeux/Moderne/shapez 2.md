@@ -1,46 +1,47 @@
 ---
 type: game
 subType: ""
-title: "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors"
-englishTitle: "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors"
-year: "2026"
+title: shapez 2
+englishTitle: shapez 2
+year: "2024"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/3265700
-id: 3265700
+url: https://store.steampowered.com/app/2162800
+id: 2162800
 developers:
-  - poncle
-  - Nosebleed Interactive
+  - tobspr Games
 publishers:
-  - poncle
+  - tobspr Games
+  - Gamirror Games
 genres:
-  - Action
+  - Casual
   - Indie
+  - Simulation
   - Strategy
+  - Early Access
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/5590e42cab09dacabee973dd2c3e27ef12ed4950/header.jpg?t=1774363861
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/680ac087db67c922e0340548103235a7529ec5df/header.jpg?t=1773869902
 released: true
-releaseDate: 21/04/2026
+releaseDate: 15/08/2024
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
 
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/5590e42cab09dacabee973dd2c3e27ef12ed4950/header.jpg?t=1774363861)
-# Vampire Crawlers
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/680ac087db67c922e0340548103235a7529ec5df/header.jpg?t=1773869902)
+# shapez 2
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : 
-		- [[Poncle]]
-		- [[Nosebleed Interactive]]
+	- Studio : [[tobspr Games]]
 	- Personnalités : 
-		- [[Poncle]]
-- **Éditeur** : [[Poncle]]
+- **Éditeur** : 
+	- [[tobspr Games]]
+	- [[Gamirror Games]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action]], [[Stratégie]], [[Deckbuilding]]
+- **Genre** : [[Simulation]], [[Stratégie]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -65,6 +66,6 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                                        |
+| ----------- | ------------------------------------------ |
+| Steam       | https://store.steampowered.com/app/2162800 |

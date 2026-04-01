@@ -1,14 +1,14 @@
 ---
 type: game
 ---
-
-# Tomodatchi Life
+![[image-371.webp]]
+# He-Man - Dragon Pearl of Destruction
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 2026 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Bitmap Bureau]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
@@ -28,6 +28,7 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- [[He-Man]]
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
@@ -37,6 +38,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description          | URL                          |
+| -------------------- | ---------------------------- |
+| Release Date Trailer | https://youtu.be/i9Fr8DPSD9E |

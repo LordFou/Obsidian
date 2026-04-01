@@ -1,15 +1,16 @@
 ---
 type: game
 ---
-![[image-371.webp]]
-# He-Man Dragon Pearl of Destruction
+![[image-388.webp]]
+# Vampire Crawlers
 
 ## Informations Générales
 
-- **Année de sortie** : 2026 (?)
+- **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Bitmap Bureau]]
+	- Studio : 
 	- Personnalités : 
+		- [[Poncle]]
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
@@ -28,7 +29,6 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
-	- [[He-Man]]
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
@@ -38,6 +38,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description          | URL                          |
-| -------------------- | ---------------------------- |
-| Release Date Trailer | https://youtu.be/i9Fr8DPSD9E |
+| Description | URL |
+| ----------- | --- |
+|             |     |

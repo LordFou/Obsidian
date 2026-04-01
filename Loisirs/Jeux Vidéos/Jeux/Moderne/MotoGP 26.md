@@ -1,46 +1,42 @@
 ---
 type: game
 subType: ""
-title: "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors"
-englishTitle: "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors"
+title: MotoGP™26
+englishTitle: MotoGP™26
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/3265700
-id: 3265700
+url: https://store.steampowered.com/app/3875050
+id: 3875050
 developers:
-  - poncle
-  - Nosebleed Interactive
+  - Milestone S.r.l.
 publishers:
-  - poncle
+  - Milestone S.r.l.
 genres:
-  - Action
-  - Indie
-  - Strategy
+  - Racing
+  - Simulation
+  - Sports
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/5590e42cab09dacabee973dd2c3e27ef12ed4950/header.jpg?t=1774363861
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875050/b53a48a0eb23496725d62cd610096ce95a8491f1/header.jpg?t=1774084021
 released: true
-releaseDate: 21/04/2026
+releaseDate: 29/04/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
 
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/5590e42cab09dacabee973dd2c3e27ef12ed4950/header.jpg?t=1774363861)
-# Vampire Crawlers
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875050/b53a48a0eb23496725d62cd610096ce95a8491f1/header.jpg?t=1774084021)
+# MotoGP™26
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : 
-		- [[Poncle]]
-		- [[Nosebleed Interactive]]
+	- Studio : [[Milestone]]
 	- Personnalités : 
-		- [[Poncle]]
-- **Éditeur** : [[Poncle]]
+- **Éditeur** : [[Milestone]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action]], [[Stratégie]], [[Deckbuilding]]
+- **Genre** : [[Course]], [[Simulation]], [[Sports]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -65,6 +61,6 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                                        |
+| ----------- | ------------------------------------------ |
+| Steam       | https://store.steampowered.com/app/3875050 |
