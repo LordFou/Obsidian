@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
+                "file": "Imagic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enigma Variations"
+              "title": "Imagic"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Night",
+                "query": "imagic",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,6 +208,9 @@
   "active": "75c11cea036712ec",
   "lastOpenFiles": [
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Demon Attack.md",
+    "Journal de bord/2026-04-01.md",
+    "Imagic.md",
+    "Attachments/image-518.webp",
     "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
     "Rob Fulop.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Cosmic Ark.md",
@@ -217,7 +219,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Cubicolor.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cubicolor.md",
     "Loisirs/Jeux Vidéos/Sociétés/Atari.md",
-    "Imagic.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Phoenix.md",
     "Loisirs/Jeux Vidéos/Plateformes/VIC-20.md",
     "TI-99/TI99-4A.md",
@@ -233,8 +234,6 @@
     "Laurenz Rex.md",
     "Loisirs/Sport/Equipes/Wild Dogs.md",
     "Loisirs/Jeux Vidéos/Périphériques/Atari Program Recoder.md",
-    "Loisirs/Sport/Sportifs/Jiri Lehecka.md",
-    "Tournoi de Paris.md",
     "Attachments/image-517.webp",
     "Attachments/image-516.webp",
     "Attachments/image-515.webp",
@@ -244,7 +243,6 @@
     "Attachments/image-511.webp",
     "Attachments/image-510.webp",
     "Attachments/image-509.webp",
-    "Attachments/image-508.webp",
     "Media DB/games",
     "Media DB",
     "ZA",
