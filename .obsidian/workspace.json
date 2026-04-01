@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Imagic.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Space Harrier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Imagic"
+              "title": "Space Harrier"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "imagic",
+                "query": "Space Harrier",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -208,6 +208,10 @@
   },
   "active": "75c11cea036712ec",
   "lastOpenFiles": [
+    "Imagic.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Space Harrier.md",
+    "Media DB/wiki/Space Harrier.md",
+    "Media DB/wiki",
     "Templates/Tableau Sport.md",
     "Templates/Fiche Tour Cyclisme.md",
     "Templates/Fiche Studio Développement.md",
@@ -220,7 +224,6 @@
     "Templates/Fiche Logiciel.md",
     "Templates/Bloc Type Personne.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Cubicolor.md",
-    "Imagic.md",
     "Attachments/image-519.webp",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Demon Attack.md",
     "Journal de bord/2026-04-01.md",
@@ -234,9 +237,7 @@
     "Loisirs/Jeux Vidéos/Sociétés/Atari.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Phoenix.md",
     "Loisirs/Jeux Vidéos/Plateformes/VIC-20.md",
-    "TI-99/TI99-4A.md",
     "TI-99",
-    "IBM PC.md",
     "Attachments/image-517.webp",
     "Attachments/image-516.webp",
     "Attachments/image-515.webp",
@@ -253,7 +254,6 @@
     "Culture/Géographie",
     "Loisirs/Jeux Vidéos/Logiciels",
     "Loisirs/Sport/Statistiques",
-    "Culture/Politique",
     "Généalogie Matos Atari.canvas",
     "Historique Jeu Vidéo.canvas",
     "Génération des consoles de jeux vidéo.canvas",
