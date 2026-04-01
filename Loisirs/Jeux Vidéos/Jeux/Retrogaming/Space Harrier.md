@@ -46,7 +46,7 @@ tags: mediaDB/wiki
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- Le portage sur [[Atari 520 ST]] réalisé par Delphine Software sera compliqué pour la société : ils ont dû filmé les séquences de jeu sur les bornes arcade car on ne leur avait pas permi d'avoir accès au code source origin
+- Le portage sur [[Atari 520 ST]] réalisé par [[Delphine Software]] sera compliqué pour la société : ils ont dû filmé les séquences de jeu sur les bornes arcade car on ne leur avait pas permi d'avoir accès au code source original !!
 ## Liens et Ressources
 
 | Description | URL       |
