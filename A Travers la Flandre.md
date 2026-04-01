@@ -14,7 +14,7 @@ type: event
 | 2026  | [[Filippo Ganna]]   | Italien     | 2e - [[Wout Van Aert]] |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur          | Nationalité | Remarque |
+| ----- | ------------------ | ----------- | -------- |
+| 2026  | [[Marlen Reusser]] | Suisse      |          |
+|       |                    |             |          |
