@@ -2,17 +2,17 @@
 type: societe
 ---
 
-# Double Fine Production
+# 22cans
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
 
 ## Informations Générales
-- **Nom complet** :  Double Fine Production
+- **Nom complet** :  
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  USA
+- **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -24,11 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre            | Genre | Plateformes |
-| ----- | ---------------- | ----- | ----------- |
-|       | [[Psychonaut 2]] |       |             |
-| XXXX  | [[Keeper]]       |       | PC          |
-| 2026  | [[Kiln]]         |       |             |
+| Année | Titre                 |
+| ----- | --------------------- |
+| 2026  | [[Masters of Albion]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
@@ -46,6 +44,6 @@ Lister les prix, distinctions ou records obtenus.
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |
