@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Action]], [[Aventure]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -26,7 +26,7 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- Monde Cyber
+	- Monde Cyberpunk
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
