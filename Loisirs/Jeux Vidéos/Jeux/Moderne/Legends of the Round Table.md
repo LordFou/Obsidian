@@ -32,18 +32,19 @@ tags: mediaDB/game
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : Artifice Studio
+	- Studio : [[Artifice Studio]]
 	- Personnalités : 
-- **Éditeur** : Artifice Studio
-- **Plateformes** : 
+- **Éditeur** : [[Artifice Studio]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : Adventure,Indie,RPG,Strategy
+- **Genre** : [[Aventure]], [[RPG]], [[Stratégie]], [[Tour par tour]]
 - **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : (Type de musique, Bande-son notable)
+- **Graphismes** : [[2D]], Style enluminure 13e siècle
+- **Audio** : 
+	- Réalise sur des instruments utilisé à l'époque
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
 - **Gameplay** :
