@@ -1,3 +1,3 @@
 ---
-type: societe
+type: matos
 ---

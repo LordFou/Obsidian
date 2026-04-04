@@ -6,7 +6,7 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 2026
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 

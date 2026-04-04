@@ -1,3 +1,7 @@
+---
+type: matos
+---
+
 # VIC-20
 
 ## Informations principales

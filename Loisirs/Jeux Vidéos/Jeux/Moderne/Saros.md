@@ -6,14 +6,14 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 2026 (?)
+- **Année de sortie** : 2026 
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[Playstation 5]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Roguelite]], [[TPS]]
 - **Résumé** : 
 
 ## Détails Techniques

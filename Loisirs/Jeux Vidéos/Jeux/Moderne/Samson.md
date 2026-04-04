@@ -12,9 +12,9 @@ type: game
 	- Personnalités : 
 		- [[Christofer Sundberg]]
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[GTA-Like]]
+- **Genre** : [[GTA-Like]], [[Monde ouvert]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -23,7 +23,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
-- **Durée estimée** : 
+- **Durée estimée** : 10h
 
 ## Histoire et Univers
 - **Lieu(x)** : 

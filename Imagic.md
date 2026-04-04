@@ -1,7 +1,7 @@
 ---
 type: societe
 ---
-
+![[image-519.webp]]
 # Imagic
 
 ## Présentation
@@ -11,8 +11,9 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Nom complet** :  
 - **Date de création** :  
 - **Fondateurs** :  
-	- [[Rob Fulop]]
+	- [[Bill Grubb]]
 - **Personnalités** :
+	- [[Rob Fulop]]
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
@@ -40,11 +41,11 @@ Décrire le style graphique, les thématiques abordées, les influences notables
 Lister les prix, distinctions ou records obtenus.
 
 ## Controverses ou Événements Marquants
-Évoquer les polémiques ou faits marquants de l’histoire de la société.
+- Attaqué en justice pour le jeu [[Demon Attack]] sur [[Intellivision]] trop proche de [[Phoenix]]
 
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description                                                 | URL                                         |
+| ----------------------------------------------------------- | ------------------------------------------- |
+| Making-Of Atlantis + tout le processus de création d'un jeu | https://www.youtube.com/watch?v=qmrZUNIDM2k |

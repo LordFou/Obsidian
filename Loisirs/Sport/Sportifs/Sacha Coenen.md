@@ -13,10 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition             | Résultat | Remarque                            |
-| ----- | ----------------------- | -------- | ----------------------------------- |
-| 2026  | Grand Prix d'Argentine  | 8e       | Disqualifié dans la première course |
-| 2026  | Grand Prix d'Andalousie | 3e       |                                     |
+| Année | Compétition                                 | Résultat | Remarque                            |
+| ----- | ------------------------------------------- | -------- | ----------------------------------- |
+| 2026  | Grand Prix d'Argentine                      | 8e       | Disqualifié dans la première course |
+| 2026  | Grand Prix d'Andalousie                     | 3e       |                                     |
+| 2026  | Grand Prix de Suisse - Course Qualificative | 1ier     |                                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

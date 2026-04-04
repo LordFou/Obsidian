@@ -23,5 +23,6 @@ type: personne
 ##  Anecdotes et faits intéressants
 - 
 
-##  Liens connexes
-- 
+| Description | URL |
+| ----------- | --- |
+|             |     |

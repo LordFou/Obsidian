@@ -27,7 +27,7 @@ content:
 | Année | Titre                 | Genre              | Plateformes           |
 | ----- | --------------------- | ------------------ | --------------------- |
 |       | [[Road 96]]           |                    |                       |
-| XXXX  | [[Tides of Tomorrow]] | Action / RPG / FPS | PC, PS5, Xbox, Switch |
+| 2026  | [[Tides of Tomorrow]] | Action / RPG / FPS | PC, PS5, Xbox, Switch |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

@@ -1,46 +1,42 @@
 ---
 type: game
 subType: ""
-title: "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors"
-englishTitle: "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors"
+title: Go! Go! Mister Chickums
+englishTitle: Go! Go! Mister Chickums
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/3265700
-id: 3265700
+url: https://store.steampowered.com/app/2436810
+id: 2436810
 developers:
-  - poncle
-  - Nosebleed Interactive
+  - com8com1 Software
 publishers:
-  - poncle
+  - com8com1 Software
 genres:
   - Action
+  - Casual
   - Indie
-  - Strategy
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/5590e42cab09dacabee973dd2c3e27ef12ed4950/header.jpg?t=1774363861
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436810/header.jpg?t=1772615305
 released: true
-releaseDate: 21/04/2026
+releaseDate: 02/04/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
 
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/5590e42cab09dacabee973dd2c3e27ef12ed4950/header.jpg?t=1774363861)
-# Vampire Crawlers: The Turbo Wildcard from Vampire Survivors
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436810/header.jpg?t=1772615305)
+# Go! Go! Mister Chickums
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : 
-		- [[Poncle]]
-		- [[Nosebleed Interactive]]
+	- Studio : [[com8com1 Software]]
 	- Personnalités : 
-		- [[Poncle]]
-- **Éditeur** : [[Poncle]]
+- **Éditeur** : [[com8com1 Software]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action]], [[Stratégie]], [[Deckbuilding]]
+- **Genre** : [[Action]], [[Arcade]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -65,6 +61,6 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL       |
+| ----------- | --------- |
+| Wiki        | https://store.steampowered.com/app/2436810 |

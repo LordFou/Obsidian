@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Double Fine
+# Double Fine Production
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -28,6 +28,7 @@ content:
 | ----- | ---------------- | ----- | ----------- |
 |       | [[Psychonaut 2]] |       |             |
 | XXXX  | [[Keeper]]       |       | PC          |
+| 2026  | [[Kiln]]         |       |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

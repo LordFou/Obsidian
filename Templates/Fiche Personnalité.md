@@ -62,6 +62,6 @@ Lister les prix et reconnaissances obtenues.
 ## Controverses ou Faits Marquants
 Évoquer les polémiques ou événements notables liés à cette personne.
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |

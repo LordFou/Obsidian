@@ -27,5 +27,6 @@ type: matos
 - {{Fait ou anecdote 2}}
 - {{Lien avec la musique, le design, l’influence culturelle...}}
 
-## Liens connexes
-- [Page Wikipédia](https://wikipedia.org)
+| Description | URL |
+| ----------- | --- |
+|             |     |

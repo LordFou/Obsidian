@@ -24,7 +24,9 @@ tags: mediaDB/wiki
 	- Personnalités : 
 		- [[Rob Fulop]]
 - **Éditeur** : [[Sega]]
-- **Plateformes** : [[Mega-CD]]
+- **Plateformes** : 
+	- [[Mega-CD]]
+	- [[Control-Vision VHS]] (La version ne sortira jamais)
 - **Franchise** : 
 - **Genre** : {{ INVALID TEMPLATE TAG - object undefined }}
 - **Résumé** :  

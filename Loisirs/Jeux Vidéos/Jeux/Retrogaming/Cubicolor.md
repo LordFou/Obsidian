@@ -1,26 +1,28 @@
 ---
 type: game
 ---
-![[image-371.webp]]
-# He-Man Dragon Pearl of Destruction
+
+# Cubicolor
 
 ## Informations Générales
 
-- **Année de sortie** : 2026 (?)
+- **Année de sortie** :  {{ year }}
 - **Développeur** : 
-	- Studio : [[Bitmap Bureau]]
+	- Studio : [[Imagic]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** :
+	- [[Rob Fulop]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
-- **Résumé** : 
+- **Genre** : {{ genres }}
+- **Résumé** :  Mélange de Rubik's Cube et de pousse-pousse.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
+	- Steam Rating : {{ onlineRating }}
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -28,16 +30,15 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
-	- [[He-Man]]
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Le jeu sera édité par [[Rob Fulop]] car [[Imagic]] ne voulait pas. Il y aura très peu de cartouche, ce qui en fait un objet de collection.
 ## Liens et Ressources
 
-| Description          | URL                          |
-| -------------------- | ---------------------------- |
-| Release Date Trailer | https://youtu.be/i9Fr8DPSD9E |
+| Description | URL       |
+| ----------- | --------- |
+| Wiki        | {{ url }} |

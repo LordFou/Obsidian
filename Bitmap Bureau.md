@@ -27,7 +27,7 @@ content:
 | Année | Titre                                  | Genre                  | Plateformes |
 | ----- | -------------------------------------- | ---------------------- | ----------- |
 | 2025  | [[Terminator 2D - No Fate]]            | Plateforme, Beat'em up | PC          |
-| 2026  | [[He-Man Dragon Pearl of Destruction]] |                        |             |
+| 2026  | [[He-Man - Dragon Pearl of Destruction]] |                        |             |
 |       | [[Xeno Crisis]]                        |                        |             |
 
 ## Moteur(s) Utilisé(s)
