@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a3d37b690521313e",
+        "id": "d7a13d091a1773f0",
         "type": "tabs",
         "children": [
           {
-            "id": "b21fe274e5c9f0fc",
+            "id": "c2b1febc56e7bdff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loisirs/Jeux Vidéos/Nolan Bushnel.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Nolan Bushnel"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -187,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,13 +202,13 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "b21fe274e5c9f0fc",
+  "active": "c2b1febc56e7bdff",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Nolan Bushnel.md",
     "Journal de bord/2026-04-04.md",
     "Jarno Widar.md",
     "Journal de bord/2026-04-02.md",
     "Journal de bord/2026-03-30.md",
-    "Loisirs/Jeux Vidéos/Nolan Bushnel.md",
     "Culture/Le gaz comme ressource.md",
     "Culture/Histoire/Guerres dans le monde.md",
     "La guerre des mondes.md",
