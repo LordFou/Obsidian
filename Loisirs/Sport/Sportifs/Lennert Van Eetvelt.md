@@ -16,9 +16,11 @@ type: personne
 | Année | Compétition                     | Résultat | Remarque |
 | ----- | ------------------------------- | -------- | -------- |
 | 2025  | [[Tour de France]] - 14e étape  | Abandon  |          |
+|       |                                 |          |          |
 | 2026  | [[Tour Down Under]]             | Abandon  | Chute    |
 | 2026  | [[UAE Tour]] - 3e étape         | 3e       |          |
 | 2026  | [[UAE Tour]] - Classement final | 6e       |          |
+| 2026  | [[GP Miguel Indurain]]          | 7e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

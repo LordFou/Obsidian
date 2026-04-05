@@ -12,6 +12,13 @@ type: personne
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
+```timeline-labeled
+[line-5, body-2]
+date: Avril 2026
+title: Draft chez les Toronto Tempo
+content: La meneuse des [[Belgian Cats]] et de Fenerbahce poursuivra cette année sa carrière en WNBA au sein de la nouvelle franchise canadienne qui intègre cette saison, Toronto Tempo
+```
+
 # Palmarès et Distinctions
 | Année | Compétition                                   | Résultat   | Remarque                     |
 | ----- | --------------------------------------------- | ---------- | ---------------------------- |
@@ -19,6 +26,7 @@ type: personne
 | 2025  | [[Euro de Basket]] - 2025                     | Finaliste  |                              |
 | 2025  | Meilleure Joueuse - Euroligue - Novembre 2025 |            | https://youtu.be/WX6vGruL_DI |
 | 2026  | Coupe de Turquie                              | Vainqueure | Avec Fenerbahçe              |
+| 2026  | Championnat de Turquie                        | Vainqueure | Avec Fenerbahçe              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
