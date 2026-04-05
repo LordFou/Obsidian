@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Isaac Del Toro.md",
+                "file": "Loisirs/Sport/Compétitions/Tour d’Emilie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Isaac Del Toro"
+              "title": "Tour d’Emilie"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clasica ",
+                "query": "emilie",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,8 +208,14 @@
   },
   "active": "84df93cdaa6ed4ba",
   "lastOpenFiles": [
-    "Classica Terres del Ebre.md",
+    "Mads Andersen.md",
+    "Loisirs/Sport/Compétitions/Metec Olympia's Tour.md",
+    "Loisirs/Sport/Compétitions/Tour de Thaïlande.md",
+    "Vadim Pronskiy.md",
+    "Mauro Schmid.md",
+    "Loisirs/Sport/Compétitions/Semaine internationale Coppi et Bartali.md",
     "Isaac Del Toro.md",
+    "Classica Terres del Ebre.md",
     "Loisirs/Sport/Compétitions/Clásica Terres de l'Èbre.md",
     "José Manuel Díaz.md",
     "Matys Grisel.md",
@@ -229,12 +234,6 @@
     "Tournoi de Grenoble.md",
     "Tournoi de Croissy-Beaubourg.md",
     "Tournoi d'Helsinski.md",
-    "Siscia Games.md",
-    "Mommy's Best Games.md",
-    "Loisirs/Sport/Compétitions/Tournoi de Monte-Carlo.md",
-    "Loisirs/Sport/Compétitions/GP Miguel Indurain.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Occultist.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Starfield.md",
     "Media DB/wiki",
     "Attachments/image-519.webp",
     "Attachments/image-518.webp",
