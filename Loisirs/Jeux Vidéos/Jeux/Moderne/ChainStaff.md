@@ -1,40 +1,40 @@
 ---
 type: game
 subType: ""
-title: People of Note
-englishTitle: People of Note
+title: ChainStaff
+englishTitle: ChainStaff
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/1626170
-id: 1626170
+url: https://store.steampowered.com/app/2976260
+id: 2976260
 developers:
-  - Iridium Studios
+  - Mommy's Best Games
 publishers:
-  - Annapurna Interactive
+  - Mommy's Best Games
 genres:
-  - RPG
+  - Action
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1626170/07998a0caa3fb359c3a5432e7ca85f55440383f7/header.jpg?t=1773106746
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2976260/header.jpg?t=1775251002
 released: true
-releaseDate: 07/04/2026
+releaseDate: 08/04/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
 
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1626170/07998a0caa3fb359c3a5432e7ca85f55440383f7/header.jpg?t=1773106746)
-# People of Note
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2976260/header.jpg?t=1775251002)
+# ChainStaff
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Iridium Studios]]
+	- Studio : [[Mommy's Best Games]]
 	- Personnalités : 
-- **Éditeur** : [[Annapurna Interactive]]
-- **Plateformes** : [[PC]], [[Playstation 5]],[[Xbox Series]], [[Switch 2]]
+- **Éditeur** : [[Mommy's Best Games]]
+- **Plateformes** : [[PC]], [[Playstation 4]], [[Playstation 5]], [[Xbox Series]], [[Switch]], [[Switch 2]]
 - **Franchise** : 
-- **Genre** : [[RPG]], [[Tour par tour]], [[Jeu de rythme]]
+- **Genre** : [[Action]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -61,5 +61,6 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/1626170       |
-| Trailer     | https://youtu.be/8aM8gYssblw?si=6Spwa005iAqZ95xq |
+| Steam       | https://store.steampowered.com/app/2976260       |
+| Trailer     | https://youtu.be/FR_OtOJtCkI?si=KBDQNweU4-AObGD9 |
+|             |                                                  |

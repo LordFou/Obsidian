@@ -1,40 +1,42 @@
 ---
 type: game
 subType: ""
-title: People of Note
-englishTitle: People of Note
-year: "2026"
+title: "Pompeii: The Legacy"
+englishTitle: "Pompeii: The Legacy"
+year: "2025"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/1626170
-id: 1626170
+url: https://store.steampowered.com/app/2632240
+id: 2632240
 developers:
-  - Iridium Studios
+  - Siscia Games
 publishers:
-  - Annapurna Interactive
+  - Siscia Games
 genres:
-  - RPG
+  - Indie
+  - Simulation
+  - Strategy
+  - Early Access
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1626170/07998a0caa3fb359c3a5432e7ca85f55440383f7/header.jpg?t=1773106746
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2632240/8c5a16635913dd4cda31d92509bf3e80fac4e2dd/header.jpg?t=1774633805
 released: true
-releaseDate: 07/04/2026
+releaseDate: 23/09/2025
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1626170/07998a0caa3fb359c3a5432e7ca85f55440383f7/header.jpg?t=1773106746)
-# People of Note
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2632240/8c5a16635913dd4cda31d92509bf3e80fac4e2dd/header.jpg?t=1774633805)
+# Pompeii: The Legacy
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Iridium Studios]]
+	- Studio : [[Siscia Games]]
 	- Personnalités : 
-- **Éditeur** : [[Annapurna Interactive]]
-- **Plateformes** : [[PC]], [[Playstation 5]],[[Xbox Series]], [[Switch 2]]
+- **Éditeur** : [[Siscia Games]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[RPG]], [[Tour par tour]], [[Jeu de rythme]]
+- **Genre** : [[Simulation]], [[Strategie]], [[City-Builder]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -49,6 +51,7 @@ tags: mediaDB/game
 ## Histoire et Univers
 - **Lieu(x)** : 
 - **Epoque** : 
+	- Antiquité
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
@@ -61,5 +64,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/1626170       |
-| Trailer     | https://youtu.be/8aM8gYssblw?si=6Spwa005iAqZ95xq |
+| Steam       | https://store.steampowered.com/app/2632240       |
+| Trailer     | https://youtu.be/swBIKNNhBwk?si=A6-vptzam4iQcSTV |

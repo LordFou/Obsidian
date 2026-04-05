@@ -14,7 +14,7 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[GTA-Like]], [[Monde ouvert]]
+- **Genre** : [[GTA-Like]], [[Monde ouvert]], [[Course]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -38,6 +38,7 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Trailer     | https://youtu.be/CrkHPvMOBwQ?si=f-7a4XpPTbZFa1On |
+|             |                                                  |
