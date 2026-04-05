@@ -13,18 +13,21 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition            | Résultat | Remarque |
-| ----- | ---------------------- | -------- | -------- |
-| 2016  | [[GP Miguel Indurain]] | 1ier     |          |
-| 2024  | [[GP Miguel Indurain]] | 1ier     |          |
-| 2026  | [[GP Miguel Indurain]] | 1ier     |          |
+| Année | Compétition             | Résultat | Remarque |
+| ----- | ----------------------- | -------- | -------- |
+| 2016  | [[GP Miguel Indurain]]  | 1ier     |          |
+| 2016  | [[Tour de France]] - ?? | 1ier     |          |
+| 2019  | [[Tour du Pays Basque]] | 1ier     |          |
+| 2023  | [[Tour de France]] - ?? | 1ier     |          |
+| 2024  | [[GP Miguel Indurain]]  | 1ier     |          |
+| 2026  | [[GP Miguel Indurain]]  | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
 - Triple Vainqueur du [[GP Miguel Indurain]]
-- 19 v
+- 19 victoires pro
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

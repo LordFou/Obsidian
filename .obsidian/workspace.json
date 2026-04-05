@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ion Izagirre.md",
+                "file": "Emma Meesseman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ion Izagirre"
+              "title": "Emma Meesseman"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Miguel Indurain",
+                "query": "Emma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,9 +209,13 @@
   },
   "active": "3004bdeaa5411a4e",
   "lastOpenFiles": [
+    "Julie Allemand.md",
+    "Loisirs/Sport/Sportifs/Julie Vanloo.md",
+    "Thibau Nys.md",
     "Loisirs/Sport/Compétitions/GP Miguel Indurain.md",
-    "Loisirs/Sport/Sportifs/Lennert Van Eetvelt.md",
     "Ion Izagirre.md",
+    "Tour du Pays Basque.md",
+    "Loisirs/Sport/Sportifs/Lennert Van Eetvelt.md",
     "Jeline Vandromme.md",
     "Tournoi de Croissy-Beaubourg.md",
     "Tournoi de Maribor.md",
@@ -219,7 +223,6 @@
     "Tournoi de Grenoble.md",
     "Tournoi de Nantes.md",
     "Loisirs/Sport/Compétitions/Tournoi de Monte-Carlo.md",
-    "Julie Allemand.md",
     "Sans titre",
     "Hades.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Crown Gambit.md",
@@ -234,9 +237,6 @@
     "Tournoi de Paris.md",
     "TI-99/TI99-4A.md",
     "TI-99",
-    "Seabird Interactive.md",
-    "Sad Cat Studio.md",
-    "Realmsoft.md",
     "Attachments/image-519.webp",
     "Attachments/image-518.webp",
     "Attachments/image-517.webp",

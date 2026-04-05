@@ -12,6 +12,7 @@ type: event
 | ----- | ---------------- | ----------- | ---------------------------- |
 | 2016  | [[Ion Izagirre]] | Espagnol    |                              |
 | 2024  | [[Ion Izagirre]] | Espagnol    |                              |
+| 2025  | [[Thibau Nys]]   | Belge       |                              |
 | 2026  | [[Ion Izagirre]] | Espagnol    | 7e - [[Lennert Van Eetvelt]] |
 |       |                  |             |                              |
 # Femmes
