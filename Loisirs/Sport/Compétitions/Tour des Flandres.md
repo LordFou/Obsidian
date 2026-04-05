@@ -21,4 +21,4 @@ La course la plus célèbre du nord de notre pays et qui fait partie des 5 monum
 | Année | Vainqueur         | Nationalité | Remarque                                                                                      |
 | ----- | ----------------- | ----------- | --------------------------------------------------------------------------------------------- |
 | 2025  | [[Lotte Kopecky]] | Belge       | Arrivée au sprint à 4 mais Lotte est la plus forte parmi les 4.<br>3e victoire pour la belge. |
-|       |                   |             |                                                                                               |
+| 2026  |                   |             |                                                                                               |
