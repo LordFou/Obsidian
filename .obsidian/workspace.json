@@ -6,7 +6,6 @@
       {
         "id": "233c359a1ee7ed2f",
         "type": "tabs",
-        "dimension": 61.42857142857143,
         "children": [
           {
             "id": "3004bdeaa5411a4e",
@@ -14,59 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Tournoi de Monte-Carlo.md",
+                "file": "Jeline Vandromme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tournoi de Monte-Carlo"
-            },
-            "group": "ce4bdaeed9f0ea5a"
-          }
-        ]
-      },
-      {
-        "id": "fd6a1976a9c2aea9",
-        "type": "tabs",
-        "dimension": 38.57142857142858,
-        "children": [
-          {
-            "id": "9a27cdc1958d8d85",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Loisirs/Sport/Compétitions/Tournoi de Monte-Carlo.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graphique de Tournoi de Monte-Carlo"
-            },
-            "group": "ce4bdaeed9f0ea5a"
+              "title": "Jeline Vandromme"
+            }
           }
         ]
       }
@@ -100,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tournoi de Monte-Carlo",
+                "query": "jeline ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -255,8 +209,14 @@
   },
   "active": "3004bdeaa5411a4e",
   "lastOpenFiles": [
-    "Julie Allemand.md",
+    "Tournoi de Croissy-Beaubourg.md",
+    "Jeline Vandromme.md",
+    "Tournoi de Maribor.md",
+    "Tournoi d'Helsinski.md",
+    "Tournoi de Grenoble.md",
+    "Tournoi de Nantes.md",
     "Loisirs/Sport/Compétitions/Tournoi de Monte-Carlo.md",
+    "Julie Allemand.md",
     "Sans titre",
     "Hades.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Crown Gambit.md",
@@ -277,12 +237,6 @@
     "Peter Molineux.md",
     "PQube.md",
     "MindFuel.md",
-    "Marco Bezzecchi.md",
-    "Magnavox Odissey 2.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/shapez 2.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Rogolf.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Adorable Adventures.md",
-    "Kakehashi Games.md",
     "Attachments/image-519.webp",
     "Attachments/image-518.webp",
     "Attachments/image-517.webp",

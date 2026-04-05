@@ -2,16 +2,16 @@
 type: event
 ---
 
-# ITF 50 - Tournoi de Grenoble
+# Tournoi de Croissy-Beaubourg - ITF 50
 
 # Introduction
 
 # Hommes
 
-| Année | Vainqueur       | Nationalité | Remarque |
-| ----- | --------------- | ----------- | -------- |
-| 2026  | [[Celine Naef]] | Suisse      |          |
-|       |                 |             |          |
+| Année | Vainqueur | Nationalité | Remarque |
+| ----- | --------- | ----------- | -------- |
+| 2026  |           |             |          |
+|       |           |             |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
