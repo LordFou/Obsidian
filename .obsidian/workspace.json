@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "98b3c387a181c311",
+        "id": "2b0175ecf58f5d67",
         "type": "tabs",
         "children": [
           {
-            "id": "75c11cea036712ec",
+            "id": "92c8df9dc9fcfa0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal de bord/2026-04-05.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-04-05"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -205,10 +201,10 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "75c11cea036712ec",
+  "active": "92c8df9dc9fcfa0e",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Mouse - P.I. For Hire.md",
     "Journal de bord/2026-04-05.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Mouse - P.I. For Hire.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Legends of the Round Table.md",
     "Artifice Studio.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Clockwork Ambrosia.md",
