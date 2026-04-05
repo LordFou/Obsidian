@@ -12,6 +12,13 @@ type: personne
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
+```timeline-labeled
+[line-5, body-2]
+date: Avril 2026
+title: Draft chez les Toronto Tempo
+content: La meneuse des [[Belgian Cats]] et de Fenerbahce poursuivra cette année sa carrière en WNBA au sein de la nouvelle franchise canadienne qui intègre cette saison, Toronto Tempo
+```
+
 # Palmarès et Distinctions
 | Année | Compétition                                   | Résultat   | Remarque                     |
 | ----- | --------------------------------------------- | ---------- | ---------------------------- |

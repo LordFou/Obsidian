@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hades.md",
+                "file": "Loisirs/Sport/Compétitions/Tournoi de Monte-Carlo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hades"
+              "title": "Tournoi de Monte-Carlo"
             },
             "group": "ce4bdaeed9f0ea5a"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Hades.md",
+                "file": "Loisirs/Sport/Compétitions/Tournoi de Monte-Carlo.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Hades"
+              "title": "Graphique de Tournoi de Monte-Carlo"
             },
             "group": "ce4bdaeed9f0ea5a"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hades",
+                "query": "Tournoi de Monte-Carlo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,8 +131,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -256,8 +255,11 @@
   },
   "active": "3004bdeaa5411a4e",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Crown Gambit.md",
+    "Julie Allemand.md",
+    "Loisirs/Sport/Compétitions/Tournoi de Monte-Carlo.md",
+    "Sans titre",
     "Hades.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Crown Gambit.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Hades 2.md",
     "La mythologie.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Mirage 7.md",
@@ -281,8 +283,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Rogolf.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Adorable Adventures.md",
     "Kakehashi Games.md",
-    "Journal de bord/2026-04-01.md",
-    "IBM PC.md",
     "Attachments/image-519.webp",
     "Attachments/image-518.webp",
     "Attachments/image-517.webp",
@@ -301,7 +301,6 @@
     "Loisirs/Jeux Vidéos/Généalogie Société.canvas",
     "Loisirs/Jeux Vidéos/Musée",
     "Loisirs/Tourisme",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre",
-    "Culture/Géographie"
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre"
   ]
 }
