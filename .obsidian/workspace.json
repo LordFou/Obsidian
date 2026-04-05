@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2b0175ecf58f5d67",
+        "id": "3755279d1892703d",
         "type": "tabs",
         "children": [
           {
-            "id": "92c8df9dc9fcfa0e",
+            "id": "a270a7756718a928",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -205,7 +205,7 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "c8ddbab28469fc36",
+  "active": "a270a7756718a928",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Tournoi de Nantes.md",
