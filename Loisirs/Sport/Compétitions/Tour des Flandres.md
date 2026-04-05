@@ -18,7 +18,7 @@ La course la plus célèbre du nord de notre pays et qui fait partie des 5 monum
 | 2026  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Slovène     | Un Tadej trop fort qui a distancé chacun de ses adversaires petit à petit. Le top 5 a terminé, chacun en solo. Chacun à sa place.<br>2e - [[Mathieu van der Poel]]<br>3e - [[Remco Evenepoel]]<br>4e - [[Wout Van Aert]]<br>5e - [[Mads Pedersen]]                                                                                                                                                                                                                                                              |
 # Femmes
 
-| Année | Vainqueur         | Nationalité | Remarque                                                                                      |
-| ----- | ----------------- | ----------- | --------------------------------------------------------------------------------------------- |
-| 2025  | [[Lotte Kopecky]] | Belge       | Arrivée au sprint à 4 mais Lotte est la plus forte parmi les 4.<br>3e victoire pour la belge. |
-| 2026  |                   |             |                                                                                               |
+| Année | Vainqueur          | Nationalité  | Remarque                                                                                      |
+| ----- | ------------------ | ------------ | --------------------------------------------------------------------------------------------- |
+| 2025  | [[Lotte Kopecky]]  | Belge        | Arrivée au sprint à 4 mais Lotte est la plus forte parmi les 4.<br>3e victoire pour la belge. |
+| 2026  | [[Demi Vollering]] | Néerlandaise | Surclassement<br>4e - [[Lotte Kopecky]]                                                       |
