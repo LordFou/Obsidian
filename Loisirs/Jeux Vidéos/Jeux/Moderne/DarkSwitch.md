@@ -1,42 +1,40 @@
 ---
 type: game
 subType: ""
-title: "Pompeii: The Legacy"
-englishTitle: "Pompeii: The Legacy"
-year: "2025"
+title: DarkSwitch
+englishTitle: DarkSwitch
+year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2632240
-id: 2632240
+url: https://store.steampowered.com/app/3132870
+id: 3132870
 developers:
-  - Siscia Games
+  - Cyber Temple
 publishers:
-  - Siscia Games
+  - Cyber Temple Games LLC
 genres:
-  - Indie
-  - Simulation
   - Strategy
-  - Early Access
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2632240/8c5a16635913dd4cda31d92509bf3e80fac4e2dd/header.jpg?t=1774633805
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3132870/42e93524103da65416bd88820f6f3438f283e728/header.jpg?t=1775125849
 released: true
-releaseDate: 23/09/2025
+releaseDate: 09/04/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2632240/8c5a16635913dd4cda31d92509bf3e80fac4e2dd/header.jpg?t=1774633805)
-# Pompeii: The Legacy
+
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3132870/42e93524103da65416bd88820f6f3438f283e728/header.jpg?t=1775125849)
+# DarkSwitch
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Siscia Games]]
+	- Studio : [[Cyber Temple]]
 	- Personnalités : 
-- **Éditeur** : [[Siscia Games]]
+- **Éditeur** : [[Cyber Temple Games LLC]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Simulation]], [[Strategie]], [[City-Builder]]
+- **Genre** : [[Stratégie]], [[City-Builder]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -50,9 +48,7 @@ tags: mediaDB/game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- [[Pompéi]]
 - **Epoque** : 
-	- [[Antiquité]]
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
@@ -65,5 +61,6 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/2632240       |
-| Trailer     | https://youtu.be/swBIKNNhBwk?si=A6-vptzam4iQcSTV |
+| Steam       | https://store.steampowered.com/app/3132870       |
+| Trailer     | https://youtu.be/E5l-ow7rFRU?si=qpOeH6XPHenGRppI |
+|             |                                                  |
