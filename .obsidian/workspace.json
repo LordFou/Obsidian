@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3755279d1892703d",
+        "id": "81dddbae454145dc",
         "type": "tabs",
         "children": [
           {
-            "id": "a270a7756718a928",
+            "id": "84df93cdaa6ed4ba",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Loisirs/Sport/Mads Pedersen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Mads Pedersen"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Mouse",
+                "query": "Peder",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -186,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,8 +207,15 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "a270a7756718a928",
+  "active": "84df93cdaa6ed4ba",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Tour des Flandres.md",
+    "Loisirs/Sport/Sportifs/Wout Van Aert.md",
+    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
+    "Loisirs/Sport/Sportifs/Mathieu van der Poel.md",
+    "Loisirs/Sport/Tadej Pogacar.md",
+    "Fabio Cancellara.md",
+    "Tom Boonen.md",
     "conflict-files-obsidian-git.md",
     "Tournoi de Nantes.md",
     "Tournoi de Maribor.md",
@@ -226,13 +235,6 @@
     "La mythologie.md",
     "Journal de bord/2026-04-04.md",
     "Journal de bord/2026-04-02.md",
-    "Iridium Studios.md",
-    "Ion Izagirre.md",
-    "Daedalic Entertainment.md",
-    "DALOAR.md",
-    "Bethesda.md",
-    "Bethesda Game Studio.md",
-    "Journal de bord/2026-04-05.md",
     "Media DB/wiki",
     "Attachments/image-519.webp",
     "Attachments/image-518.webp",

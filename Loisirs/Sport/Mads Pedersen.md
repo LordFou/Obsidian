@@ -33,6 +33,7 @@ type: personne
 | 2025  | [[Tour d'Espagne]] - Maillot Points                                 | 1ier     |                            |
 |       |                                                                     |          |                            |
 | 2026  | [[Milan San Remo]]                                                  | 4e       |                            |
+| 2026  | [[Tour des Flandres]]                                               | 5e       |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
