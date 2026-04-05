@@ -21,6 +21,7 @@ type: personne
 |       |                                               |          |                                   |
 | 2026  | CXWorldCup - 9e manche - Cross de Zonhoven    | 2e       |                                   |
 | 2026  | [[Championnat du Monde de Cyclocross]]        | 2e       | Derrière [[Mathieu van der Poel]] |
+| 2026  | [[NXT Classic]]                               | 1ier     |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
