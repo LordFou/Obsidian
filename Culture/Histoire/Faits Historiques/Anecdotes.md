@@ -1,2 +1,2 @@
 # Royauté Française
-- Charles 8 meurt à 28 ans en se cognant contre le linteau d'une porte basse dans le château d'Amboise.
+- Charles 8 meurt à 28 ans en se cognant la tête contre le linteau d'une porte basse dans le [[château d'Amboise]].

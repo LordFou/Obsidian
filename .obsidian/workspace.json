@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,8 +208,9 @@
   },
   "active": "09ce85f12d0bb69e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "château d'Amboise.md",
     "Culture/Histoire/Faits Historiques/Anecdotes.md",
+    "conflict-files-obsidian-git.md",
     "Vadim Pronskiy.md",
     "Tom Boonen.md",
     "Pierre Gautherat.md",
@@ -232,7 +234,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Pompeii - The Legacy.md",
     "Siscia Games.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Occultist.md",
-    "Daedalic Entertainment.md",
     "Sans titre",
     "TI-99",
     "Attachments/image-519.webp",
