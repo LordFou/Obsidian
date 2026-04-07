@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Hozy.md",
+                "file": "Journal de bord/2026-04-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hozy"
+              "title": "2026-04-07"
             }
           }
         ]
@@ -187,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,6 +208,8 @@
   },
   "active": "3004bdeaa5411a4e",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hozy.md",
+    "Journal de bord/2026-04-07.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/DarkSwitch.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Pompeii - The Legacy.md",
     "Siscia Games.md",
@@ -233,8 +234,6 @@
     "Thibau Nys.md",
     "Loisirs/Sport/Compétitions/GP Miguel Indurain.md",
     "Ion Izagirre.md",
-    "Tour du Pays Basque.md",
-    "Loisirs/Sport/Sportifs/Lennert Van Eetvelt.md",
     "Sans titre",
     "TI-99",
     "Attachments/image-519.webp",
