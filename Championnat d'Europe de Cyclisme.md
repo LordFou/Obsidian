@@ -10,6 +10,7 @@ type: event
 
 | Année | Vainqueur                                      | Epreuve | Nationalité | Remarque |
 | ----- | ---------------------------------------------- | ------- | ----------- | -------- |
+| ?     | [[Matteo Trentin]]                             | Course  | Italien     |          |
 | 2024  | [[Tim Merlier]]                                | Course  | Belge       |          |
 | 2025  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Course  | Slovène     |          |
 | 2019  | [[Remco Evenepoel]]                            | CLM     | Belge       |          |
