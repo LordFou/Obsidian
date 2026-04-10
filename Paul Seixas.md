@@ -23,8 +23,8 @@ type: personne
 | 2026  | [[Tour d'Algarve]] - Classement final                       | 2e       |          |
 | 2026  | [[Faun Ardèche Classic]]                                    | 1ier     |          |
 | 2026  | [[Strade Bianche]]                                          | 2e       |          |
-| 2026  | [[Tour du Pays Basque]] - 1e étpae                          | 1ier     | CLM      |
-| 2026  | [[Tour du Pays Basque]] - 1e étpae                          | 1ier     | CLM      |
+| 2026  | [[Tour du Pays Basque]] - 1e étape                          | 1ier     | CLM      |
+| 2026  | [[Tour du Pays Basque]] - 1e étape                          | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

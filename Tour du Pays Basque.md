@@ -15,7 +15,7 @@ type: event
 |          | Vainqueur       | Général         | Montagne | Points | Jeune | Remarques                       |
 | -------- | --------------- | --------------- | -------- | ------ | ----- | ------------------------------- |
 | 1e (FRA) | [[Paul Seixas]] | [[Paul Seixas]] |          |        |       | CLM<br>5e - [[Ilan Van Wilder]] |
-|          |                 |                 |          |        |       |                                 |
+| 2e (FRA) | [[Paul Seixas]] | [[Paul Seixas]] |          |        |       | 4e - [[Cian Uijtdebroeks]]      |
 |          |                 |                 |          |        |       |                                 |
 ## Femmes
 

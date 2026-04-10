@@ -11,6 +11,7 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
+- **Top Ranking** : 94e
 
 # Palmarès et Distinctions
 | Année | Compétition                  | Résultat  | Remarque |
@@ -18,7 +19,8 @@ type: personne
 | 2025  | [[WTA - Tournoi de Tampico]] | Vainqueur |          |
 
 # Style et Caractéristiques
-Décrire le style de jeu, les points forts/faibles, les particularités.
+- Fan de [[Cyclisme]] et de [[Wout Van Aert]]
+- Fait des études de médecine
 
 # Records et Faits Marquants
 Lister les records battus, les moments légendaires ou les anecdotes notables.
