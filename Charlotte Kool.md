@@ -13,13 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition        | Résultat | Remarque |
-| ----- | ------------------ | -------- | -------- |
-| 2026  | [[GP de l'Escaut]] | 1ier     |          |
-| 2026  | [[GP de l'Escaut]] | 1ier     |          |
-| 2026  | [[GP de l'Escaut]] | 1ier     |          |
-|       |                    |          |          |
-| 2026  | [[GP de l'Escaut]] | 1ier     |          |
+| Année | Compétition         | Résultat | Remarque |
+| ----- | ------------------- | -------- | -------- |
+| 2023  | [[GP de l'Escaut]]  | 2e       |          |
+| 2024  | [[GP de l'Escaut]]  | 2e       |          |
+| 2025  | [[GP de l'Escaut]]  | 2e       |          |
+| 2026  | Omloop Van Hageland | 1ier     |          |
+| 2026  | [[GP de l'Escaut]]  | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
