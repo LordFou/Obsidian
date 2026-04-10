@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tour du Pays Basque.md",
+                "file": "Charlotte Kool.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour du Pays Basque"
+              "title": "Charlotte Kool"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Mikel Landa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -207,11 +207,14 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "09ce85f12d0bb69e",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/GP de l'Escaut.md",
+    "Loisirs/Sport/Lorena Wiebes.md",
+    "Charlotte Kool.md",
+    "Tour du Pays Basque.md",
     "Hanne Vandewinkel.md",
     "Paul Seixas.md",
-    "Tour du Pays Basque.md",
     "Loisirs/Sport/Compétitions/Ronde de Mouscron.md",
     "Susanne Andersen.md",
     "Clara Copponi.md",
@@ -232,9 +235,6 @@
     "Loisirs/Sport/Compétitions/Tour de Taïwan.md",
     "Loisirs/Sport/Compétitions/Semaine internationale Coppi et Bartali.md",
     "Loisirs/Sport/Compétitions/Paris-Camembert.md",
-    "Loisirs/Sport/Compétitions/NXT Classic.md",
-    "Loisirs/Sport/Compétitions/Metec Olympia's Tour.md",
-    "Loisirs/Sport/Compétitions/Clásica Terres de l'Èbre.md",
     "Sans titre",
     "TI-99",
     "Attachments/image-519.webp",
