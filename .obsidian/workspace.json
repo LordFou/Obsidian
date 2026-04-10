@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hanne",
+                "query": "Mikel Landa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,7 +207,7 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "09ce85f12d0bb69e",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
     "Hanne Vandewinkel.md",
     "Paul Seixas.md",
