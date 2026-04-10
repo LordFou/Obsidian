@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture/Histoire/Faits Historiques/Anecdotes.md",
+                "file": "Journal de bord/2026-04-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anecdotes"
+              "title": "2026-04-10"
             }
           }
         ]
@@ -208,8 +208,9 @@
   },
   "active": "09ce85f12d0bb69e",
   "lastOpenFiles": [
-    "château d'Amboise.md",
     "Culture/Histoire/Faits Historiques/Anecdotes.md",
+    "Journal de bord/2026-04-10.md",
+    "château d'Amboise.md",
     "conflict-files-obsidian-git.md",
     "Vadim Pronskiy.md",
     "Tom Boonen.md",
@@ -233,7 +234,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/DarkSwitch.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Pompeii - The Legacy.md",
     "Siscia Games.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Occultist.md",
     "Sans titre",
     "TI-99",
     "Attachments/image-519.webp",
