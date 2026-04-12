@@ -16,6 +16,7 @@ type: event
 | -------- | --------------- | --------------- | -------- | ------ | ----- | ------------------------------- |
 | 1e (FRA) | [[Paul Seixas]] | [[Paul Seixas]] |          |        |       | CLM<br>5e - [[Ilan Van Wilder]] |
 | 2e (FRA) | [[Paul Seixas]] | [[Paul Seixas]] |          |        |       | 4e - [[Cian Uijtdebroeks]]      |
+| 3e (FRA) | [[Paul Seixas]] | [[Paul Seixas]] |          |        |       | 4e - [[Ilan Van Wilder]]        |
 |          |                 |                 |          |        |       |                                 |
 ## Femmes
 

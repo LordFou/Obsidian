@@ -13,9 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                     | Résultat | Remarque |
-| ----- | ------------------------------- | -------- | -------- |
-| 2026  | [[Tour de Provence]] - 3e étape | 1ier     |          |
+| Année | Compétition                                            | Résultat | Remarque |
+| ----- | ------------------------------------------------------ | -------- | -------- |
+| 2026  | [[Tour de Provence]] - 3e étape                        | 1ier     |          |
+| 2026  | [[Semaine internationale Coppi et Bartali]] - Xe étape | 1ier     |          |
+| 2026  | [[Semaine internationale Coppi et Bartali]] - Xe étape | 1ier     |          |
+| 2026  | [[Tour du Pays Basque]] - 3e étape                     | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
