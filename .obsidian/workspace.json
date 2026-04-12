@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "61a56935ab16ad56",
+        "id": "c93e1db959e20f31",
         "type": "tabs",
         "children": [
           {
-            "id": "09ce85f12d0bb69e",
+            "id": "d84fe03ef8e4359b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Loisirs/Sport/Compétitions/Paris-Roubaix.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Paris-Roubaix"
             }
           }
         ]
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,7 +206,7 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "09ce85f12d0bb69e",
+  "active": "d84fe03ef8e4359b",
   "lastOpenFiles": [
     "Loisirs/Sport/Compétitions/Paris-Roubaix.md",
     "Greg Van Avermaet.md",
