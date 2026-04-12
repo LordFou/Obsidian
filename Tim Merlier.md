@@ -20,13 +20,14 @@ type: personne
 | 2024  | [[Nokere Koerse]]                                          | 1ier     |                  |                                              |
 | 2024  | [[Championnat d'Europe de Cyclisme\|Championnat d'Europe]] | 1ier     | Sprint           |                                              |
 | 2024  | [[Flèche de Gooik Oetingen]]                               | 1ier     |                  |                                              |
+| 2024  | [[GP de l'Escaut]]                                         | 1ier     |                  |                                              |
 | 2025  | ?                                                          | 1ier     |                  |                                              |
 | 2025  | ?                                                          | 1ier     |                  |                                              |
 | 2025  | ?                                                          | 1ier     |                  |                                              |
 | 2025  | ?                                                          | 1ier     |                  |                                              |
 | 2025  | ?                                                          | 1ier     |                  |                                              |
 | 2025  | ?                                                          | 1ier     |                  |                                              |
-| 2025  | ?                                                          | 1ier     |                  |                                              |
+| 2025  | [[GP de l'Escaut]]                                         | 1ier     |                  |                                              |
 | 2025  | [[Brussels Cycling Classic]]                               | 1ier     | Sprint massif    |                                              |
 | 2025  | [[Tour de Belgique]] - 1e étape                            | 1ier     | Sprint en montée |                                              |
 | 2025  | [[Tour de Belgique]] - 5e étape                            | 1ier     | Sprint massif    |                                              |
@@ -38,6 +39,8 @@ type: personne
 | 2025  | [[Championnat des Flandres]]                               | 3e       | Sprint Massif    |                                              |
 | 2025  | [[Circuit du Houtland]]                                    | 1ier     |                  |                                              |
 | 2025  | [[Tour de Hollande]] - 1e étape                            | 1ier     |                  |                                              |
+|       |                                                            |          |                  |                                              |
+| 2026  | [[GP de l'Escaut]]                                         | 1ier     |                  |                                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

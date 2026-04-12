@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-388.webp]]
 # Julie Vanloo
 
 # Informations Générales
@@ -13,11 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition        | Résultat    | Remarque |
-| ----- | ------------------ | ----------- | -------- |
-| 2023  | [[Euro de Basket]] | Vainqueur   |          |
-| 2025  | [[Euro de Basket]] | Vainqueur   |          |
-| 2025  | EuroCoupe          | 1/8e finale |          |
+| Année | Compétition        | Résultat    | Remarque                                    |
+| ----- | ------------------ | ----------- | ------------------------------------------- |
+| 2023  | [[Euro de Basket]] | Vainqueure  |                                             |
+| 2025  | [[Euro de Basket]] | Vainqueure  |                                             |
+| 2025  | [[Eurocoupe]]      | 1/8e finale |                                             |
+| 2026  | [[Eurocoupe]]      | Vainqueure  | avec son club turque de [[Cucurova Mersin]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

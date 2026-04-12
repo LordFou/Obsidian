@@ -44,6 +44,7 @@ type: personne
 | 2026  | [[Tirreno-Adriatico]] - 2e étape                                               | 2e       |          |
 | 2026  | [[Tirreno-Adriatico]] - 6e étape                                               | 1ier     |          |
 | 2026  | [[Tirreno-Adriatico]] - ==Classement final==                                   | 1ier     |          |
+| 2026  | [[Tour du Pays Basque]]                                                        | Abandon  |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -52,7 +53,8 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Chute lors de la 3e étape du [[Tour du Pays Basque]] 2026 => Déchirure musculaire à la cuisse droite
+- 
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

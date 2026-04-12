@@ -11,14 +11,19 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
+- **Top Ranking** : 94e
 
 # Palmarès et Distinctions
-| Année | Compétition                  | Résultat  | Remarque |
-| ----- | ---------------------------- | --------- | -------- |
-| 2025  | [[WTA - Tournoi de Tampico]] | Vainqueur |          |
+| Année | Compétition                                        | Résultat   | Remarque             |
+| ----- | -------------------------------------------------- | ---------- | -------------------- |
+| 2025  | [[WTA - Tournoi de Tampico]]                       | Vainqueure |                      |
+|       |                                                    |            |                      |
+| 2026  | [[Billie Jean King Cup]] - 1/8 finale - 1ier match | Vainqueure | contre [[Iva Jovic]] |
+|       |                                                    |            |                      |
 
 # Style et Caractéristiques
-Décrire le style de jeu, les points forts/faibles, les particularités.
+- Fan de [[Cyclisme]] et de [[Wout Van Aert]]
+- Fait des études de médecine
 
 # Records et Faits Marquants
 Lister les records battus, les moments légendaires ou les anecdotes notables.

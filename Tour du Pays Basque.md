@@ -6,16 +6,40 @@ type: event
 
 # Introduction
 
-# Hommes
+# Edition 2026
+
+## Hommes
+
+### Etapes 
+
+|          | Vainqueur         | Général         | Montagne        | Points          | Jeune           | Remarques                       |
+| -------- | ----------------- | --------------- | --------------- | --------------- | --------------- | ------------------------------- |
+| 1e (FRA) | [[Paul Seixas]]   | [[Paul Seixas]] |                 |                 |                 | CLM<br>5e - [[Ilan Van Wilder]] |
+| 2e (FRA) | [[Paul Seixas]]   | [[Paul Seixas]] |                 |                 |                 | 4e - [[Cian Uijtdebroeks]]      |
+| 3e (FRA) | [[Axel Laurance]] | [[Paul Seixas]] |                 |                 |                 | 4e - [[Ilan Van Wilder]]        |
+| 4e (ESP) | [[Alex Aranburu]] | [[Paul Seixas]] |                 |                 |                 |                                 |
+| 5e (FRA) | [[Paul Seixas]]   | [[Paul Seixas]] | [[Paul Seixas]] | [[Paul Seixas]] | [[Paul Seixas]] | 11e - [[Cian Uijtdebroeks]]     |
+|          |                   |                 |                 |                 |                 |                                 |
+## Femmes
+
+### Etapes
+
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+
+# General
+
+### Hommes
+
 
 | Année | Vainqueur        | Nationalité | Remarque |
 | ----- | ---------------- | ----------- | -------- |
-| 2019  | [[Ion Izagirre]] | Espagnol    |          |
-| 2025  |                  |             |          |
-|       |                  |             |          |
-# Femmes
+| 2019  | [[Ion Izagirre]] |             |          |
+| 2026  |                  |             |          |
+### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
 | ----- | --------- | ----------- | -------- |
 | 2025  |           |             |          |
 |       |           |             |          |
+

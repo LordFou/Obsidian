@@ -31,6 +31,8 @@ type: personne
 | 2026  | [[Tournoi Indian Wells]]            | 2e tour               |                                                              |
 | 2026  | [[Tournoi de Miami]]                | 2e tour               |                                                              |
 | 2026  | [[Tournoi de Monte-Carlo]] - Double | 2e tour               | avec [[Jannik Sinner]]                                       |
+| 2026  | [[Tournoi de Monte-Carlo]] - Simple | 1/8 finale            | Défaite contre [[Alexander Zverev]]                          |
+|       |                                     |                       |                                                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

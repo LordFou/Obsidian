@@ -2,21 +2,24 @@
 type: personne
 ---
 
-# Noah Verreth
+# Charlotte Kool
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** : [[Natation]] 
+- **Nationalité** : Néerlandais
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                      | Résultat | Remarque |
-| ----- | -------------------------------- | -------- | -------- |
-| 2026  | Flanders Swimming Cup - 200m Dos | 1ier     |          |
-| 2026  | Open de Stockholm - 200m Dos     | 7e       | 2:03.55  |
+| Année | Compétition         | Résultat | Remarque |
+| ----- | ------------------- | -------- | -------- |
+| 2023  | [[GP de l'Escaut]]  | 2e       |          |
+| 2024  | [[GP de l'Escaut]]  | 2e       |          |
+| 2025  | [[GP de l'Escaut]]  | 2e       |          |
+| 2026  | Omloop Van Hageland | 1ier     |          |
+| 2026  | [[GP de l'Escaut]]  | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -30,6 +33,6 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
-# Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |
