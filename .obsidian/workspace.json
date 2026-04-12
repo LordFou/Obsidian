@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Wout Van Aert.md",
+                "file": "Loisirs/Sport/Compétitions/Paris-Roubaix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wout Van Aert"
+              "title": "Paris-Roubaix"
             }
           }
         ]
@@ -207,8 +207,9 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "dbacc6f984f28690",
+  "active": "d84fe03ef8e4359b",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Wout Van Aert.md",
     "Loisirs/Sport/Compétitions/Milan San Remo.md",
     "Tom Boonen.md",
     "Loisirs/Sport/Compétitions/Paris-Roubaix.md",
@@ -235,7 +236,6 @@
     "Alex Aranburu.md",
     "Zizou Bergs.md",
     "Loisirs/Sport/Compétitions/Rallye de Croatie.md",
-    "Tim Merlier.md",
     "Sans titre",
     "TI-99",
     "Attachments/image-519.webp",
