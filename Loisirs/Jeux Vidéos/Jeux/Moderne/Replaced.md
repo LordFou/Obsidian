@@ -11,7 +11,7 @@ type: game
 	- Studio : [[Sad Cat Studio]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Action]], [[Aventure]]
 - **Résumé** : 
@@ -38,6 +38,7 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Trailer     | https://youtu.be/fuUo7_VaboE?si=5wX0xQS1YBN7y4ZH |
+|             |                                                  |
