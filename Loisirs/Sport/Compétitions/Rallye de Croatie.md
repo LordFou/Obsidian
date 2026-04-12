@@ -8,10 +8,10 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur            | Nationalité | Remarque |
+| ----- | -------------------- | ----------- | -------- |
+| 2026  | [[Takamoto Katsuta]] | Japonais    |          |
+|       |                      |             |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
