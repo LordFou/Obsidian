@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Greet Minnen.md",
+                "file": "Loisirs/Sport/Compétitions/Paris-Roubaix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Greet Minnen"
+              "title": "Paris-Roubaix"
             }
           }
         ]
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,8 +207,11 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "09ce85f12d0bb69e",
   "lastOpenFiles": [
+    "Greg Van Avermaet.md",
+    "Loisirs/Sport/Compétitions/Paris-Roubaix.md",
+    "Greet Minnen.md",
     "Elise Mertens.md",
     "Loisirs/Sport/Compétitions/Billie Jean King Cup.md",
     "Emma Meesseman.md",
@@ -232,9 +236,6 @@
     "Loisirs/Sport/Compétitions/Semaine internationale Coppi et Bartali.md",
     "Isaac Del Toro.md",
     "Charlotte Kool.md",
-    "Loisirs/Sport/Lorena Wiebes.md",
-    "Loisirs/Sport/Compétitions/Ronde de Mouscron.md",
-    "Susanne Andersen.md",
     "Sans titre",
     "TI-99",
     "Attachments/image-519.webp",

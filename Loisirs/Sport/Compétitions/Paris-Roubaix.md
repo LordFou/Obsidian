@@ -14,13 +14,15 @@ Quelques secteurs pavés célèbres
 
 # Hommes
 
-| Année | Vainqueur      | Nationalité | Remarque                          | Belges                                                                      |     |
-| ----- | -------------- | ----------- | --------------------------------- | --------------------------------------------------------------------------- | --- |
+| Année | Vainqueur                | Nationalité | Remarque                          | Belges                                                                      |     |
+| ----- | ------------------------ | ----------- | --------------------------------- | --------------------------------------------------------------------------- | --- |
+| 2007  | [[Stuart O'Grady]]       | Australien  |                                   |                                                                             |     |
+| 2017  | [[Greg Van Avermaet]]    | Belge       |                                   |                                                                             |     |
 | 2023  | [[Mathieu van der Poel]] | Néerlandais |                                   |                                                                             |     |
 | 2024  | [[Mathieu van der Poel]] | Néerlandais |                                   |                                                                             |     |
 | 2025  | [[Mathieu van der Poel]] | Néerlandais | ![[2025-04-13#^ParisRoubaix2025]] | 4e  [[Wout Van Aert]]<br><br>5e [[Vermeech]]<br><br>10e <br>[[Laurenz Rex]] |     |
-|       |                |             |                                   |                                                                             |     |
-|       |                |             |                                   |                                                                             |     |
+|       |                          |             |                                   |                                                                             |     |
+|       |                          |             |                                   |                                                                             |     |
 # Femmes
 
 | Année | Vainqueur                  | Nationalité | Remarque                | Belges                |
