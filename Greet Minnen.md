@@ -13,9 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                      | Résultat   | Remarque |
-| ----- | -------------------------------- | ---------- | -------- |
-| 2025  | [[Tournoi de Le Neubourg]] - ITF | Vainqueure |          |
+| Année | Compétition                                      | Résultat   | Remarque                                                                 |
+| ----- | ------------------------------------------------ | ---------- | ------------------------------------------------------------------------ |
+| 2025  | [[Tournoi de Le Neubourg]] - ITF                 | Vainqueure |                                                                          |
+| 2026  | [[Billie Jean King Cup]] - 1/8 finale - 4e match | Vainqueure | Elle qualifie la Belgique pour le Final 8 de la [[Billie Jean King Cup]] |
+|       |                                                  |            |                                                                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
