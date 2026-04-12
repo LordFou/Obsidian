@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Paris Roubaix",
+                "query": "Francisca",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -151,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 278.5
   },
   "right": {
     "id": "2a4328d55d7357ae",
@@ -223,8 +223,13 @@
   },
   "active": "2d1706aa9310008a",
   "lastOpenFiles": [
+    "Marianne Vos.md",
+    "Loisirs/Sport/Anna Van der breggen.md",
+    "Pauline Ferrand Prevot.md",
+    "Loisirs/Sport/Tadej Pogacar.md",
     "Loisirs/Sport/Sportifs/Wout Van Aert.md",
     "Loisirs/Sport/Compétitions/Paris-Roubaix.md",
+    "Jasper Stuyven.md",
     "conflict-files-obsidian-git.md",
     "Journal de bord/2026-04-12.md",
     "château d'Amboise.md",
@@ -245,11 +250,6 @@
     "Loisirs/Sport/Compétitions/NXT Classic.md",
     "Loisirs/Sport/Compétitions/Classic Velox - Adélie de Vitré.md",
     "Marc BRUSTENGA.md",
-    "Loisirs/Sport/Compétitions/Tour des Flandres.md",
-    "Loisirs/Sport/Lotte Kopecky.md",
-    "Demi Vollering.md",
-    "Loisirs/Sport/Compétitions/Paris-Camembert.md",
-    "Pierre Gautherat.md",
     "Media DB/wiki",
     "Attachments/image-519.webp",
     "Attachments/image-518.webp",

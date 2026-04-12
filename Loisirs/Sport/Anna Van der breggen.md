@@ -17,6 +17,7 @@ type: personne
 | ----- | ----------------------------- | -------- | ------------------ |
 | 2025  | [[Tour de France]] - 9e étape | 11e      | Combattive du jour |
 
+
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
