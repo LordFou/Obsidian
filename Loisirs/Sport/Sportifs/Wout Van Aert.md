@@ -50,6 +50,7 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 | 2025  | [[Tour de France]] - 21e étape                              | Etape finale <br>3 fois la butte de [[Montmartre]]<br>Arrivée sur les Champs Elysées. |     |
 | 2025  | [[Critérium d'Herentals]]                                   |                                                                                       |     |
 | 2025  | CXWorldCup - Coupe du Monde - 5e Manche - Anvers (Belgique) | 1ier                                                                                  |     |
+| 2026  | [[Paris-Roubaix]]                                           | 1ier                                                                                  |     |
 
 | Année | Compétition                                                       | Résultat | Remarque                                                                   |
 | ----- | ----------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
