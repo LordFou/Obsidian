@@ -35,13 +35,13 @@ type: personne
 | 2026  | [[Tournoi Indian Wells]]         | 1ier tour                  |                                                                                      |
 | 2026  | [[Tournoi de Cap Cana]]          | 2e tour                    |                                                                                      |
 | 2026  | [[Tournoi de Miami]]             | 3e tour                    | Première victoire en master 1000                                                     |
-| 2026  | [[Tournoi de Monza]]             | Finaliste                  |                                                                                      |
+| 2026  | [[Tournoi de Monza]]             | Vainqueur                  | 2e victoire dans ce tournoi                                                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- 2 victoires au [[Tournoi de Monza]]
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

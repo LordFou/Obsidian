@@ -19,7 +19,9 @@ type: personne
 |       | [[Omloop Het Nieuwsblad]]               | 1ier     |          |
 |       | [[Kuurne-Bruxelles-Kuurne]]             | 1ier     |          |
 | 2021  | [[Milan San Remo]]                      | 1ier     |          |
+|       |                                         |          |          |
 | 2026  | [[Paris-Nice]] - 2e étape               | 3e       |          |
+| 2026  | [[Paris-Roubaix]]                       | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

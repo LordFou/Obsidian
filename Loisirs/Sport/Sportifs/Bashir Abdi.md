@@ -18,6 +18,7 @@ type: personne
 | 2021  | [[JO 2020]] - Marathon                   | 3e 🥉    |                      |
 | 2024  | [[JO 2024]]                              | 2e 🥈    |                      |
 | 2026  | Championnat de Belgique de Semi-Marathon | 1ier     | + record de Belgique |
+| 2026  | Marathon de Rotterdam                    | 3e       |                      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -19,6 +19,8 @@ type: personne
 | 2025  | [[Tour de France]] - 8e étape         | 1ière    | :luc_plus: Maillot Jaune |
 | 2025  | [[Tour de France]] - 9e étape         | 1ière    |                          |
 | 2025  | [[Tour de France]] - Classement final | 1ière    |                          |
+|       |                                       |          |                          |
+| 2026  | [[Paris-Roubaix]]                     | 3e       |                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

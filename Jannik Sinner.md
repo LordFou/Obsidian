@@ -22,6 +22,7 @@ type: personne
 | 2026  | [[Tournoi Indian Wells]]            | Vainqueur       | Victoire contre [[Daniil Medvedev]] |
 | 2026  | [[Tournoi de Miami]]                | Vainqueur       |                                     |
 | 2026  | [[Tournoi de Monte-Carlo]] - Double | 2e tour         | avec [[Zizou Bergs]]                |
+| 2026  | [[Tournoi de Monte-Carlo]] - Simple | Vainqueur       | Victoire contre [[Carlos Alcaraz]]  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

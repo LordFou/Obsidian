@@ -6,16 +6,17 @@ type: personne
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Japonaise
+- **Nationalité** :  Japonais
 - **Sport / Discipline** :  [[Rallye]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  [[Toyota]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition         | Résultat | Remarque |
-| ----- | ------------------- | -------- | -------- |
-| 2026  | [[Rallye du Kenya]] | 1ier     |          |
+| Année | Compétition           | Résultat | Remarque |
+| ----- | --------------------- | -------- | -------- |
+| 2026  | [[Rallye du Kenya]]   | 1ier     |          |
+| 2026  | [[Rallye de Croatie]] | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

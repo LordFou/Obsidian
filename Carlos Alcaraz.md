@@ -26,6 +26,7 @@ type: personne
 | 2026  | [[Tournoi de Doha]]        | Vainqueur   | contre [[Arthur Fils]]                     |
 | 2026  | [[Tournoi Indian Wells]]   | Demi-Finale |                                            |
 | 2026  | [[Tournoi de Miami]]       | 3e tour     |                                            |
+| 2026  | [[Tournoi de Monte-Carlo]] | Finaliste   | Défaite contre [[Jannik Sinner]]           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
