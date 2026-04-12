@@ -14,9 +14,12 @@ type: personne
 - **Top Ranking** : 94e
 
 # Palmarès et Distinctions
-| Année | Compétition                  | Résultat  | Remarque |
-| ----- | ---------------------------- | --------- | -------- |
-| 2025  | [[WTA - Tournoi de Tampico]] | Vainqueur |          |
+| Année | Compétition                                        | Résultat   | Remarque             |
+| ----- | -------------------------------------------------- | ---------- | -------------------- |
+| 2025  | [[WTA - Tournoi de Tampico]]                       | Vainqueure |                      |
+|       |                                                    |            |                      |
+| 2026  | [[Billie Jean King Cup]] - 1/8 finale - 1ier match | Vainqueure | contre [[Iva Jovic]] |
+|       |                                                    |            |                      |
 
 # Style et Caractéristiques
 - Fan de [[Cyclisme]] et de [[Wout Van Aert]]
