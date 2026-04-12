@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Greet",
+                "query": "paris-roub",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,7 +206,7 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "09ce85f12d0bb69e",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
     "Elise Mertens.md",
     "Loisirs/Sport/Compétitions/Billie Jean King Cup.md",
