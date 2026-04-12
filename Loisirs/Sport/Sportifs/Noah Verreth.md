@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                      | Résultat | Remarque |
 | ----- | -------------------------------- | -------- | -------- |
 | 2026  | Flanders Swimming Cup - 200m Dos | 1ier     |          |
+| 2026  | Open de Stockholm - 200m Dos     | 7e       | 2:03.55  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
