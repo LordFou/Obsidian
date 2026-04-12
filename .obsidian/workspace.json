@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charlotte Kool.md",
+                "file": "Isaac Del Toro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Charlotte Kool"
+              "title": "Isaac Del Toro"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "isaa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,9 +209,9 @@
   },
   "active": "09ce85f12d0bb69e",
   "lastOpenFiles": [
+    "Charlotte Kool.md",
     "Loisirs/Sport/Compétitions/GP de l'Escaut.md",
     "Loisirs/Sport/Lorena Wiebes.md",
-    "Charlotte Kool.md",
     "Tour du Pays Basque.md",
     "Hanne Vandewinkel.md",
     "Paul Seixas.md",
