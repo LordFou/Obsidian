@@ -17,6 +17,7 @@ type: personne
 | ----- | -------------------------------------------- | -------- | -------- |
 | 2011  | [[Strade Bianche]]                           | 1ier     |          |
 | 2012  | [[Championnat du Monde de Cyclisme]] - Route | 1ier     |          |
+| 2019  | [[Paris-Roubaix]]                            | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

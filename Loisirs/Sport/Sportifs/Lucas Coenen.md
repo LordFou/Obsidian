@@ -32,6 +32,8 @@ type: personne
 | 2026  | Grand Prix d'Andalousie                     | 1ier     | En tête du championnat 2026                           |
 | 2026  | Grand Prix de Suisse - Course Qualificative | 2e       |                                                       |
 | 2026  | Grand Prix de Suisse                        | 8e       |                                                       |
+| 2026  | Grand Prix de Sardaigne                     | 1ier     | Il creuse l'écart au championnat                      |
+|       |                                             |          |                                                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -16,7 +16,7 @@ Une des courses cyclistes les plus longues mais aussi la plus ennuyeuse la plupa
 | 2009  | [[Marc Cavendish]]                             | Anglais     |             |                                                                                      |
 | 2014  | [[Alexander Kristoff]]                         | Norvégien   |             |                                                                                      |
 | 2019  |                                                |             |             |                                                                                      |
-| 2020  |                                                |             |             |                                                                                      |
+| 2020  | [[Wout Van Aert]]                              | ==Belge==   |             |                                                                                      |
 | 2021  | [[Jasper Stuyven]]                             | ==Belge==   |             |                                                                                      |
 | 2022  |                                                |             |             |                                                                                      |
 | 2023  | [[Mathieu van der Poel]]                       | Néerlandais | [[Alpecin]] |                                                                                      |

@@ -34,6 +34,7 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 | ----- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------- | --- |
 | 2018  | [[Strade Bianche]]                                          | Début de quelques années de folie                                                     |     |
 | 2019  | [[Tour de France]] - 10e étape                              | Sprint Massif                                                                         |     |
+| 2020  | [[Milan San Remo]]                                          |                                                                                       |     |
 | 2020  | [[Tour de France]] - 5e étape                               | Sprint Massif                                                                         |     |
 | 2020  | [[Tour de France]] - 7e étape                               | Sprint en petit peloton                                                               |     |
 | 2021  | [[Tour de France]] - 11e étape                              | Victoire en solitaire sur le mont Ventoux                                             |     |
