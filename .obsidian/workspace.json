@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Liam Everts.md",
+                "file": "Bivouac.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Liam Everts"
+              "title": "Bivouac"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Metr",
+                "query": "Canard PC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,8 +206,15 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "d84fe03ef8e4359b",
   "lastOpenFiles": [
+    "Attachments/image-520.webp",
+    "Loisirs/Jeux Vidéos/Non triés/Jeu de mots sur les jeux vidéos.md",
+    "Bivouac.md",
+    "Loisirs/Jeux Vidéos/Périphériques/TI99-4A.md",
+    "Loisirs/Jeux Vidéos/Sociétés/ZA-UM.md",
+    "Loisirs/Jeux Vidéos/Jeux/Franchise/Franchise Metro.md",
+    "Loisirs/Sport/Sportifs/Liam Everts.md",
     "Loisirs/Sport/Sportifs/Sacha Coenen.md",
     "Loisirs/Sport/Sportifs/Jago Geerts.md",
     "Loisirs/Sport/Sportifs/Brent Van doninck.md",
@@ -228,14 +234,7 @@
     "Loisirs/Sport/Compétitions/Billie Jean King Cup.md",
     "Emma Meesseman.md",
     "Loisirs/Sport/Compétitions/Tournoi de Monza.md",
-    "Raphaël Collignon.md",
-    "Hanne Vandewinkel.md",
-    "Tour du Pays Basque.md",
-    "Paul Seixas.md",
-    "Loisirs/Sport/Sportifs/Julie Vanloo.md",
     "Attachments/image-388.webp",
-    "Eurocoupe.md",
-    "Loisirs/Sport/Sportifs/Noah Verreth.md",
     "Sans titre",
     "TI-99",
     "Attachments/image-519.webp",
