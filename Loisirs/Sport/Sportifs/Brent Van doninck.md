@@ -18,6 +18,8 @@ type: personne
 | 2026  | Grand Prix d'Argentine  | 12e      |          |
 | 2026  | Grand Prix d'Andalousie | 17e      |          |
 | 2026  | Grand Prix de Suisse    | 33e,34e  |          |
+| 2026  | Grand Prix de Sardaigne | 16e      |          |
+|       |                         |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
