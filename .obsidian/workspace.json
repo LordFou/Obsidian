@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Milan",
+                "query": "Lucas C",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,12 +207,14 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "d84fe03ef8e4359b",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
+    "Franziska Koch.md",
+    "Loisirs/Sport/Compétitions/Paris-Roubaix.md",
+    "Philippe Gilbert.md",
     "Loisirs/Sport/Sportifs/Wout Van Aert.md",
     "Loisirs/Sport/Compétitions/Milan San Remo.md",
     "Tom Boonen.md",
-    "Loisirs/Sport/Compétitions/Paris-Roubaix.md",
     "Greg Van Avermaet.md",
     "conflict-files-obsidian-git.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Last Flag.md",
@@ -234,8 +236,6 @@
     "Loisirs/Sport/Compétitions/Tournoi de Monte-Carlo.md",
     "Alexander Blockx.md",
     "Alex Aranburu.md",
-    "Zizou Bergs.md",
-    "Loisirs/Sport/Compétitions/Rallye de Croatie.md",
     "Sans titre",
     "TI-99",
     "Attachments/image-519.webp",
