@@ -36,7 +36,7 @@ tags: mediaDB/game
 - **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Simulation]], [[Stratégie]], [[City-Builder]]
-- **Résumé** :  
+- **Résumé** :  city-builder sur l'océan où les constructions sont soumises aux lois de la physique
 
 ## Détails Techniques
 - **Moteur de jeu** : 

@@ -35,10 +35,10 @@ tags: mediaDB/game
 	- Studio : [[Puppyroar Games]]
 	- Personnalités : 
 - **Éditeur** : [[Forklift Interactive]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Action]], [[Aventure]], [[Simulation]]
-- **Résumé** :  
+- **Résumé** :  jeu où l'on creuse au milieu d'une base décrépite, clic par clic. La ferraille récupérée permet de s'acheter une meilleure pelle et plein d'autres trucs, notamment des moyens de se défendre contre les zombies qui nous menacent la nuit.
 
 ## Détails Techniques
 - **Moteur de jeu** : 

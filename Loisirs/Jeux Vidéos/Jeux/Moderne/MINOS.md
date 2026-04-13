@@ -63,6 +63,7 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/3181650 |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Steam       | https://store.steampowered.com/app/3181650       |
+| Trailer     | https://youtu.be/0Ak1KX6BfGg?si=vEJsiNewI1vvc39s |
