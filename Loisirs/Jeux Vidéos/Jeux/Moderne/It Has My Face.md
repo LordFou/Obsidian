@@ -33,10 +33,10 @@ tags: mediaDB/game
 	- Studio : [[NightByte Games]]
 	- Personnalités : 
 - **Éditeur** : [[Behaviour Interactive Inc.]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Action]]
-- **Résumé** :  
+- **Résumé** :  On y brandit un miroir pour savoir à quoi on ressemble, parce qu'il faut retrouver dans une foule notre clone, qui cherche à nous tuer. Il s'agit donc de l'éliminer en premier, en dénichant une arme et en échappant aussi à la vigilance de la police.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -54,6 +54,7 @@ tags: mediaDB/game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Hitman]] (?)
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
