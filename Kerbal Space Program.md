@@ -35,7 +35,8 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Lors de la [[Mission Artemis 2]] d'avril 2026, le jeu a battu son record de nombre de joueurs connectés simultanés.
+  ![[image-523.webp]]
 ## Liens et Ressources
 
 | Description | URL |

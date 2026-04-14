@@ -60,7 +60,7 @@ if (tableData.length > 0) {
 Lister les prix et reconnaissances obtenues.
 
 ## Controverses ou Faits Marquants
-Évoquer les polémiques ou événements notables liés à cette personne.
+- En avril 2026, il ne montre plus ses projets en cours, de peur qu'ils soient copiés à l'aide d'une IA.
 
 ## Sources et Références
 - [Lien vers une source](#)

@@ -35,7 +35,7 @@ tags: mediaDB/game
 - **Plateformes** : [[PC]], [[Playstation 5]],[[Xbox Series]], [[Switch 2]]
 - **Franchise** : 
 - **Genre** : [[RPG]], [[Tour par tour]], [[Jeu de rythme]]
-- **Résumé** :  
+- **Résumé** :  c'est un RPG musical : les attaques doivent s'adapter à la musique, les cultures dans le monde représentent des genres musicaux différents et vos persos sont des musiciens.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
