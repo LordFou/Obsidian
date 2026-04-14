@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Regions of Ruin - Runegate"
             }
+          },
+          {
+            "id": "3fb85c7ad164eb5f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,10 +218,10 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "d84fe03ef8e4359b",
+  "active": "3fb85c7ad164eb5f",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Fishbowl.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Regions of Ruin - Runegate.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Fishbowl.md",
     "Bivouac.md",
     "Infogrammes.md",
     "Attachments/image-520.webp",
