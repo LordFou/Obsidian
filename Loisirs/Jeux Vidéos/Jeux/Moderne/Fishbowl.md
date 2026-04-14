@@ -37,7 +37,7 @@ tags: mediaDB/game
 - **Éditeur** : 
 	- [[imissmyfriends.studio]]
 	- [[Wholesome Games Presents]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Casual]], [[RPG]], [[Jeu narratif]]
 - **Résumé** :  
@@ -46,8 +46,9 @@ tags: mediaDB/game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
 	- Steam Rating : 
+	- CheckPoint (8/10)
 - **Gameplay** :
 - **Durée estimée** : 
 

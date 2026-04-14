@@ -7,14 +7,14 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** :  {{ year }}
+- **Année de sortie** :  1987
 - **Développeur** : 
-	- Studio : {{ developers }}
+	- Studio : [[Infogrammes]]
 	- Personnalités : 
-- **Éditeur** : {{ publishers }}
+- **Éditeur** : [[Infogrammes]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : {{ genres }}
+- **Genre** : [[Simulation]], [[Alpinisme]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -39,6 +39,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | {{ url }} |
+| Description | URL                                         |
+| ----------- | ------------------------------------------- |
+| Article Net | https://www.grospixels.com/site/bivouac.php |
