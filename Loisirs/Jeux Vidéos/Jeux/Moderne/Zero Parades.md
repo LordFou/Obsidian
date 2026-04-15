@@ -2,7 +2,7 @@
 type: game
 ---
 ![[image-389.webp]]
-# Zero Parades
+# Zero Parades - For Dead Spies
 
 ## Informations Générales
 
