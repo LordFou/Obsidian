@@ -1,42 +1,43 @@
 ---
 type: game
 subType: ""
-title: Super Meat Boy 3D
-englishTitle: Super Meat Boy 3D
+title: Dosa Divas
+englishTitle: Dosa Divas
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/3288210
-id: 3288210
+url: https://store.steampowered.com/app/2950710
+id: 2950710
 developers:
-  - Sluggerfly
-  - Team Meat
+  - Outerloop Games
 publishers:
-  - Headup
-  - GCORES PUBLISHING
+  - Outerloop Games
+  - Outersloth
 genres:
   - Action
+  - Adventure
   - Indie
+  - RPG
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288210/2e13226847bb546625411aed75e74471f6705b18/header.jpg?t=1775597335
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950710/c0c89ccd2e684e6b89fd0fc2130be4a1030ea3ce/header.jpg?t=1776172270
 released: true
-releaseDate: 31/03/2026
+releaseDate: 14/04/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288210/2e13226847bb546625411aed75e74471f6705b18/header.jpg?t=1775597335)
-# Super Meat Boy 3D
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950710/c0c89ccd2e684e6b89fd0fc2130be4a1030ea3ce/header.jpg?t=1776172270)
+# Dosa Divas
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Sluggerfly]], [[Team Meat]]
+	- Studio : [[Outerloop Games]]
 	- Personnalités : 
-- **Éditeur** : [[Headup]], [[GCORES PUBLISHING]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
-- **Franchise** : [[Franchise Super Meet Boy]]
-- **Genre** : [[Action]], [[Plateforme]]
+- **Éditeur** : [[Outerloop Games]], [[Outersloth]]
+- **Plateformes** : 
+- **Franchise** : 
+- **Genre** : [[Action]], [[Aventure]], [[RPG]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -45,7 +46,6 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
-	- CheckPoint (5.5/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -64,5 +64,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/3288210       |
-| Trailer     | https://youtu.be/Z63QKFd8ixU?si=hbnvBmvUrsTsYNCe |
+| Steam       | https://store.steampowered.com/app/2950710       |
+| Trailer     | https://youtu.be/bogYlMcNb80?si=2t8K8MWBrAHvLXb1 |
