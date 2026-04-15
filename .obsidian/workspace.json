@@ -6,6 +6,7 @@
       {
         "id": "3f711ef8f47dc789",
         "type": "tabs",
+        "dimension": 64.28571428571429,
         "children": [
           {
             "id": "1bdbfaf31a75443d",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/MainFrames.md",
+                "file": "Ivy Road.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MainFrames"
+              "title": "Ivy Road"
             },
             "group": "5680115c96751d41"
           }
@@ -27,6 +28,7 @@
       {
         "id": "3a864bcf3f6c7f0d",
         "type": "tabs",
+        "dimension": 35.714285714285715,
         "children": [
           {
             "id": "46c0b96460d5135d",
@@ -34,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/MainFrames.md",
+                "file": "Ivy Road.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de MainFrames"
+              "title": "Graphique de Ivy Road"
             },
             "group": "5680115c96751d41"
           }
@@ -98,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "The Crew",
+                "query": "The Stanley P",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,6 +256,13 @@
   },
   "active": "1bdbfaf31a75443d",
   "lastOpenFiles": [
+    "Davey Wreden.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Stanley Parable.md",
+    "Ivy Road.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Stalker 2.md",
+    "Journal de bord/Archives/2025-03-17.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Kingdom Come - Deliverance II.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/MainFrames.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Zero Parades.md",
     "David Anfossi.md",
     "Eidos Montréal.md",
@@ -276,13 +285,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Last Flag.md",
     "Night Street Games.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Lunchbreak Tactics.md",
-    "Borealys Games.md",
-    "Digixart.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Tides of Tomorrow.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Gecko Gods.md",
-    "Inresin.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dosa Divas.md",
-    "Outersloth.md",
     "Attachments/image-526.webp",
     "Attachments/image-525.webp",
     "Attachments/image-524.webp",
