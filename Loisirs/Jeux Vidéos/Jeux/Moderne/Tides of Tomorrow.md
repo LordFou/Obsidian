@@ -39,6 +39,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Trailer     | https://youtu.be/5W4jlNiof7g?si=mPaxzZO-cweBIc0x |

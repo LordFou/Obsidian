@@ -1,47 +1,42 @@
 ---
 type: game
 subType: ""
-title: "RACCOIN: Coin Pusher Roguelike"
-englishTitle: "RACCOIN: Coin Pusher Roguelike"
+title: Gecko Gods
+englishTitle: Gecko Gods
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/3784030
-id: 3784030
+url: https://store.steampowered.com/app/1290760
+id: 1290760
 developers:
-  - "Doraccoon "
+  - Inresin
 publishers:
-  - Playstack
+  - Super Rare Originals
+  - Gamersky Games
 genres:
   - Action
   - Adventure
-  - Casual
   - Indie
-  - Simulation
-  - Sports
-  - Strategy
-  - Free To Play
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/441ff79feb6f3e92a5a6ed4a1d4b89c79e275644/header.jpg?t=1774526323
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290760/654aebe77ea1d5b0ca2ce89e7d397eed008aacfe/header.jpg?t=1776235750
 released: true
-releaseDate: 31/03/2026
+releaseDate: 16/04/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/441ff79feb6f3e92a5a6ed4a1d4b89c79e275644/header.jpg?t=1774526323)
-# RACCOIN: Coin Pusher Roguelike
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290760/654aebe77ea1d5b0ca2ce89e7d397eed008aacfe/header.jpg?t=1776235750)
+# Gecko Gods
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Doraccoon]] 
+	- Studio : [[Inresin]]
 	- Personnalités : 
-- **Éditeur** : [[Playstack]]
+- **Éditeur** : [[Super Rare Originals]], [[Gamersky Games]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action Aventure]], [[Simulation]], [[Lunapark]]
+- **Genre** : [[Puzzle]], [[Aventure]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -50,7 +45,6 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
-	- CheckPoint (6.5/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -69,5 +63,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/3784030       |
-| Trailer     | https://youtu.be/nMqj4UA5Ee4?si=tyKOueqGaeV81sTJ |
+| Steam       | https://store.steampowered.com/app/1290760       |
+| Trailer     | https://youtu.be/Vw2I2y6B2vM?si=8celi3IXBU3a4_gD |
