@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Regions of Ruins",
+                "query": "Maë",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -217,7 +217,7 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "b160307bfd8cec29",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Regions of Ruin - Runegate.md",
     "Attachments/image-520.webp",
