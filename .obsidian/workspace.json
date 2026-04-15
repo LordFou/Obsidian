@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Renegade.md",
+                "file": "Double Dragon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Renegade"
+              "title": "Double Dragon"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kunio-kun",
+                "query": "Star Wars Zero Company",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,14 +207,15 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "832953a37fa981c5",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
+    "Franchise Double Dragon.md",
+    "Double Dragon.md",
     "Yoshihisa Kishimoto.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Renegade.md",
     "Attachments/image-528.webp",
     "Attachments/image-527.webp",
     "Double Dragon Neon.md",
-    "Double Dragon.md",
     "Attachments/image-29.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Darwin's Paradox!.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/RACCOIN - Coin Pusher Roguelike.md",
@@ -237,7 +238,6 @@
     "Franchise Super Meet Boy.md",
     "Super Meat Boy 3D.md",
     "GCORES PUBLISHING.md",
-    "Headup.md",
     "Attachments/image-526.webp",
     "Attachments/image-525.webp",
     "Attachments/image-524.webp",

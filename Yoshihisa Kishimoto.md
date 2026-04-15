@@ -5,7 +5,7 @@ type: personne
 # Yoshihisa Kishimoto
 
 ## Présentation
-- Adolescence marquée par les bagarres de lycée et une passion pour [[Bruce Lee]]
+- Adolescence marquée par les bagarres de lycée et une passion pour [[Bruce Lee]], tout ça l'inspirera pour ses premiers titres comme [[Renegade]] ou [[Double Dragon]]
 - Un des pères fondateurs du [[Beat'em up]]
 
 ## Informations Générales

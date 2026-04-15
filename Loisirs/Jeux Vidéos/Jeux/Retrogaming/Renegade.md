@@ -1,5 +1,5 @@
 ---
-type: wiki
+type: game
 subType: ""
 title: Renegade
 englishTitle: Renegade
@@ -20,7 +20,7 @@ tags: mediaDB/wiki
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
-		- 
+		- [[Yoshihisa Kishimoto]]
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
