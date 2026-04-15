@@ -10,8 +10,8 @@ type: game
 - **Développeur** : 
 	- Studio : [[Fumi Games]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
+- **Éditeur** : [[Playside]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]], [[Switch]]
 - **Franchise** : 
 - **Genre** : [[FPS]]
 - **Résumé** : 
@@ -20,7 +20,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : 2D, façon vieux mickey disney
 - **Audio** : bande-son big band entraînante
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- CheckPoint (8/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -38,6 +39,7 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Trailer     | https://youtu.be/HJAmrWOhcuY?si=EAmF0z3FOKEZ5_Nr |
+|             |                                                  |
