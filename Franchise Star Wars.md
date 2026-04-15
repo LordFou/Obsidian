@@ -27,6 +27,7 @@ content:
 | ----------------------------- | ----------------- | ----------- | --------- |
 | [[Star Wars - First Assault]] | Abandonné en 2013 |             | Abandonné |
 | [[Star Wars Outlaws]]         | 2025              |             |           |
+| [[STAR WARS Zero Company™]]   |                   |             |           |
 
 
 ## Mécaniques et innovations
