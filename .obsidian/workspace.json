@@ -25,10 +25,14 @@
             "id": "b160307bfd8cec29",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Zizou Bergs.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Zizou Bergs"
             }
           }
         ],
@@ -64,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Maë",
+                "query": "Zizou",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -198,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,8 +222,14 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "b160307bfd8cec29",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Gout Gout.md",
+    "Attachments/image-525.webp",
+    "Red Flames.md",
+    "Attachments/image-524.webp",
+    "Jarno Widar.md",
+    "Loisirs/Sport/Sportifs/Maëlys Dapa.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Regions of Ruin - Runegate.md",
     "Attachments/image-520.webp",
     "conflict-files-obsidian-git.md",
@@ -244,18 +255,12 @@
     "Loisirs/Sport/Sportifs/Jago Geerts.md",
     "Loisirs/Sport/Sportifs/Brent Van doninck.md",
     "Loisirs/Sport/Sportifs/Lucas Coenen.md",
-    "Loisirs/Sport/Compétitions/Paris-Roubaix.md",
-    "Franziska Koch.md",
-    "Philippe Gilbert.md",
-    "Loisirs/Sport/Sportifs/Wout Van Aert.md",
     "Attachments/image-388.webp",
     "Sans titre",
     "TI-99",
     "Attachments/image-519.webp",
     "Attachments/image-518.webp",
     "Attachments/image-517.webp",
-    "Attachments/image-516.webp",
-    "Attachments/image-515.webp",
     "Media DB/wiki",
     "Media DB/games",
     "Media DB",

@@ -12,7 +12,7 @@ Equipe féminine de foot belge
 | Année | Compétition                           | Résultat               | Remarque                                                                                             |     |
 | ----- | ------------------------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------- | --- |
 | 2025  | [[Euro de Football\|Euro]] 2025       | 3e place de leur poule | Défaite contre l'Italie (0-1)<br>Défaite contre l'Espagne (6-2)<br>Victoire contre le Portugal (1-2) |     |
-| 2026  | Qualification [[Coupe du Monde]] 2027 |                        | Victoire contre Israël (0-3)<br>Victoire contre Israël (5-0)                                         |     |
+| 2026  | Qualification [[Coupe du Monde]] 2027 |                        | Victoire contre Israël (0-3)<br>Victoire contre Israël (5-0)<br>Egalité contre l'Ecosse (1-1)        |     |
 |       |                                       |                        |                                                                                                      |     |
 
 # Style et Caractéristiques
@@ -30,3 +30,5 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 # Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
+
+![[image-524.webp]]
