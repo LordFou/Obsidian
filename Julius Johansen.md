@@ -13,9 +13,9 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition       | Résultat                   | Remarque         |
-| ----- | ----------------- | -------------------------- | ---------------- |
-| 2026  | [[O Gran Camiño]] | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition                  | Résultat | Remarque |
+| ----- | ---------------------------- | -------- | -------- |
+| 2026  | [[O Gran Camiño]] - 1e étape | 1ier     | CLM      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

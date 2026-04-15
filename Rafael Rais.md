@@ -1,21 +1,21 @@
 ---
 type: personne
 ---
-![[image-526.webp]]
-# Carlos Cana
+
+# Rafael Rais
 
 # Informations Générales
-- **Date de naissance** :  2002
-- **Nationalité** :  Espagnol
+- **Date de naissance** :  
+- **Nationalité** :  Portugais
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                  | Résultat | Remarque |
-| ----- | ---------------------------- | -------- | -------- |
-| 2026  | [[O Gran Camiño]] - 2e étape | 1ier     |          |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

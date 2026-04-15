@@ -14,7 +14,7 @@ type: event
 |          | Vainqueur           | Général             | Montagne | Points | Jeune | Remarques |
 | -------- | ------------------- | ------------------- | -------- | ------ | ----- | --------- |
 | 1e (DAN) | [[Julius Johansen]] | [[Julius Johansen]] |          |        |       | CLM       |
-| 2e (ESP) | [[Carlos Cana]]     |                     |          |        |       |           |
+| 2e (ESP) | [[Carlos Cana]]     | [[Rafael Rais]]     |          |        |       |           |
 |          |                     |                     |          |        |       |           |
 ## Femmes
 
@@ -28,10 +28,10 @@ type: event
 ### Hommes
 
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur     | Nationalité | Remarque |
+| ----- | ------------- | ----------- | -------- |
+| 2025  | [[Derek Gee]] |             |          |
+| 2026  |               |             |          |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
