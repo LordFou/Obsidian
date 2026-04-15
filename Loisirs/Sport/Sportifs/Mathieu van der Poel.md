@@ -17,6 +17,7 @@ type: personne
 | Année | Compétition                                         | Result  | Remarque                                                                                               |
 | ----- | --------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------ |
 | 2015  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
+| 2018  | [[Tour du Limbourg]]                                | 1ier    |                                                                                                        |
 | 2019  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
 | 2020  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
 | 2020  | [[Renewi Tour]] - Classement final                  | 1ier    |                                                                                                        |

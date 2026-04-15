@@ -32,6 +32,7 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 ## Carrière
 | Année | Courses                                                     | Remarque                                                                              |     |
 | ----- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------- | --- |
+| 2017  | [[Tour du Limbourg]]                                        |                                                                                       |     |
 | 2018  | [[Strade Bianche]]                                          | Début de quelques années de folie                                                     |     |
 | 2019  | [[Tour de France]] - 10e étape                              | Sprint Massif                                                                         |     |
 | 2020  | [[Milan San Remo]]                                          |                                                                                       |     |
