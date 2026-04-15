@@ -1,15 +1,15 @@
 ---
 type: societe
 ---
-![[image-89.webp|500x167]]
-# Nintendo
+
+# SIGONO INC.
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
 
 ## Informations Générales
 - **Nom complet** :  
-- **Date de création** :  1889
+- **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
 - **Pays d’origine** :  
@@ -18,16 +18,15 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date: Novembre 2025
-title: [[Nintendo]] purchases [[Bandai Namco Studios Singapore]]
+date:  
+title: 
 content:
 ```
 
 ## Jeux Développés
-| Année | Titre                | Genre  | Plateformes |
-| ----- | -------------------- | ------ | ----------- |
-| 2025  | [[Mario Kart World]] | Course | Switch      |
-| 2026  | [[Tomodatchi Life]]  |        |             |
+| Année | Titre                 |
+| ----- | --------------------- |
+| 2026  | [[OPUS - Prism Peak]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
@@ -45,6 +44,6 @@ Lister les prix, distinctions ou records obtenus.
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |
