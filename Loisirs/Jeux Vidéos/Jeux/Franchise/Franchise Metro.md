@@ -14,7 +14,7 @@ type: game
 - **Points Communs** :
 
 ## Résumé et historique
-{{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
+- Cette franchise se base sur les romans de l'auteur [[Dmitry Glukhovsky]]
 
 ```timeline-labeled
 [line-5, body-2]

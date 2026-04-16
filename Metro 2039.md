@@ -1,15 +1,20 @@
+---
+type: game
+---
 ![[image-530.webp]]
+
 # Metro 2039
 
 ## Informations Générales
 
 - **Année de sortie** :  {{ year }}
 - **Développeur** : 
-	- Studio : {{ developers }}
+	- Studio : [[4A Games]]
 	- Personnalités : 
+		- [[Andriy Shevchenko]] (Directeur Créatif)
 - **Éditeur** : {{ publishers }}
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise Metro]]
 - **Genre** : {{ genres }}
 - **Résumé** :  
 
@@ -24,8 +29,10 @@
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Métro]] moscovite
 - **Epoque** : 
 - **Personnages principaux** : 
+	- The Stranger
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
