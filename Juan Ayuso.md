@@ -13,14 +13,16 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                           | Résultat            | Remarque                                        |
-| ----- | ------------------------------------- | ------------------- | ----------------------------------------------- |
-| 2025  | [[Trofeo Laigueglia]]                 | 1ier                |                                                 |
-| 2025  | [[Tour d'Espagne]] - 7e étape         | 1ier                |                                                 |
-| 2026  | [[Tour d'Algarve]] - 5e étape         | 1ier                |                                                 |
-| 2026  | [[Tour d'Algarve]] - Classement final | 1ier                |                                                 |
-| 2026  | [[Paris-Nice]] - 3e étape             | 1ier avec [[Ineos]] | CLM par équipe<br>:luc_plus: Classement général |
-|       |                                       |                     |                                                 |
+| Année | Compétition                                | Résultat            | Remarque                                        |
+| ----- | ------------------------------------------ | ------------------- | ----------------------------------------------- |
+| 2025  | [[Trofeo Laigueglia]]                      | 1ier                |                                                 |
+| 2025  | [[Tour d'Espagne]] - 7e étape              | 1ier                |                                                 |
+|       |                                            |                     |                                                 |
+| 2026  | [[Tour d'Algarve]] - 5e étape              | 1ier                |                                                 |
+| 2026  | [[Tour d'Algarve]] - Classement final      | 1ier                |                                                 |
+| 2026  | [[Paris-Nice]] - 3e étape                  | 1ier avec [[Ineos]] | CLM par équipe<br>:luc_plus: Classement général |
+| 2026  | [[Paris-Nice]] - Classement Final          | Abandon             | Chute                                           |
+| 2026  | [[Tour du Pays Basque]] - Classement Final | Abandon             | Maladie                                         |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -30,6 +32,7 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
 - En [[Paris-Nice]] 2026, il abandonne suite à une lourde chute lors de la 4e étape => pas de fractures cependant.
+- Il ratera également les classiques ardennaises 2026 à cause d'une infection virale.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

@@ -18,6 +18,7 @@ type: personne
 | 2025  | Grand Prix de judo de Guadalajara         | Bronze          |          |
 | 2025  | Grand Prix de juod de Lima                | Bronze          |          |
 | 2025  | Grand Chelem de judo d’Abou Dhabi (-60kg) | Quart de finale |          |
+| 2026  | Euro judo (-60kg)                         |                 |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
