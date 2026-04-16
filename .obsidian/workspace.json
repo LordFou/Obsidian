@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Juan Ayuso.md",
+                "file": "Metro 2039.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Juan Ayuso"
+              "title": "Metro 2039"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Juan ayu",
+                "query": "metro 2039",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,9 +207,14 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "dbacc6f984f28690",
+  "active": "1bdbfaf31a75443d",
   "lastOpenFiles": [
+    "Attachments/image-530.webp",
+    "Attachments/image-529.webp",
+    "Loisirs/Jeux Vidéos/Jeux/Franchise/Franchise Metro.md",
+    "Metro 2039.md",
     "Jorre Verstraeten.md",
+    "Juan Ayuso.md",
     "Loisirs/Sport/Sportifs/Olivier Naert.md",
     "Loisirs/Sport/Sportifs/Maëlys Dapa.md",
     "Loïs Petit.md",
@@ -231,10 +236,6 @@
     "XCOM.md",
     "Franchise Star Wars.md",
     "Bit Reactor.md",
-    "Double Dragon.md",
-    "Franchise Double Dragon.md",
-    "Yoshihisa Kishimoto.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Renegade.md",
     "Attachments/image-528.webp",
     "Attachments/image-527.webp",
     "Attachments/image-29.webp",
@@ -244,7 +245,6 @@
     "Attachments/image-520.webp",
     "Attachments/image-523.webp",
     "Attachments/image-522.webp",
-    "Attachments/image-521.webp",
     "Sans titre",
     "TI-99",
     "Media DB/wiki",
