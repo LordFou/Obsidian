@@ -12,7 +12,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise Don't Starve]]
 - **Genre** : [[Survie]]
 - **Résumé** : 
 

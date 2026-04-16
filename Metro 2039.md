@@ -12,6 +12,7 @@ type: game
 	- Studio : [[4A Games]]
 	- Personnalités : 
 		- [[Andriy Shevchenko]] (Directeur Créatif)
+		- [[Pawel Ulmer]] (Co-Directeur Créatif et Responsable Audio Principal)
 - **Éditeur** : {{ publishers }}
 - **Plateformes** : 
 - **Franchise** : [[Franchise Metro]]
