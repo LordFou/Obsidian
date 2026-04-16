@@ -21,13 +21,14 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 [line-5, body-2]
 date: Mars 2026
 title: Fermeture du studio
-content:
+content: Une vingtaine de personnes à la rue faute d'avoir pu trouver un financement pour leur prochain jeu
 ```
 
 ## Jeux Développés
-| Année | Titre          | Genre                       | Plateformes |
-| ----- | -------------- | --------------------------- | ----------- |
-| 2025  | [[Wanderstop]] | Gestion, Aventure Narrative |             |
+| Année     | Titre            | Genre                       | Plateformes |
+| --------- | ---------------- | --------------------------- | ----------- |
+| 2025      | [[Wanderstop]]   | Gestion, Aventure Narrative |             |
+| Abandonné | [[Engine Angel]] |                             |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
