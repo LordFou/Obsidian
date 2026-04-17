@@ -2,20 +2,20 @@
 type: personne
 ---
 
-# Célia Gery
+# Anders Foldager
 
 # Informations Générales
-- **Date de naissance** :  2006
-- **Nationalité** :  Française
+- **Date de naissance** :  
+- **Nationalité** :  Danois
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[FDJ]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
 | Année | Compétition            | Résultat | Remarque |
 | ----- | ---------------------- | -------- | -------- |
-| 2026  | [[Flèche Brabançonne]] | 1ière    |          |
+| 2026  | [[Flèche Brabançonne]] | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

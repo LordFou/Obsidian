@@ -10,8 +10,8 @@ Course cycliste belge qui traverse principalement les provinces du [[Brabant Fla
 
 | Année | Vainqueur           | Nationalité | Remarque                                                                                     |
 | ----- | ------------------- | ----------- | -------------------------------------------------------------------------------------------- |
-| 2025  | [[Remco Evenepoel]] | Belge       | Première course après 4 mois de revalidation et première victoire.<br>2e : [[Wout Van Aert]] |
-| 2026  | Anders              |             |                                                                                              |
+| 2025  | [[Remco Evenepoel]] | Belge       | Première course après 4 mois de revalidation et première victoire.<br>2e - [[Wout Van Aert]] |
+| 2026  | [[Anders Foldager]] | Danois      | 2e - [[Quintens Hermans]]                                                                    |
 |       |                     |             |                                                                                              |
 # Femmes
 
