@@ -11,11 +11,11 @@ Course cycliste belge qui traverse principalement les provinces du [[Brabant Fla
 | Année | Vainqueur           | Nationalité | Remarque                                                                                     |
 | ----- | ------------------- | ----------- | -------------------------------------------------------------------------------------------- |
 | 2025  | [[Remco Evenepoel]] | Belge       | Première course après 4 mois de revalidation et première victoire.<br>2e : [[Wout Van Aert]] |
-|       |                     |             |                                                                                              |
+| 2026  | Anders              |             |                                                                                              |
 |       |                     |             |                                                                                              |
 # Femmes
 
 | Année | Vainqueur                | Nationalité | Remarque                       |
 | ----- | ------------------------ | ----------- | ------------------------------ |
 | 2025  | [[Elisa Longo Borghini]] | Italienne   | En solitaire devant le peloton |
-|       |                          |             |                                |
+| 2026  | [[Célia Gery]]           | Française   |                                |

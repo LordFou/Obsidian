@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metal Gear Solid.md",
+                "file": "Célia Gery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metal Gear Solid"
+              "title": "Célia Gery"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Mina Li",
+                "query": "Flèche",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,8 +207,16 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "1bdbfaf31a75443d",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Flèche Brabançonne.md",
+    "Célia Gery.md",
+    "Loisirs/Sport/Sportifs/Delfine Persoon.md",
+    "Loisirs/Sport/Sportifs/Mina Libeer.md",
+    "Attachments/image-531.webp",
+    "Loisirs/Sport/Sportifs/Olivier Naert.md",
+    "Loisirs/Sport/Sportifs/Maëlys Dapa.md",
+    "Metal Gear Solid.md",
     "Franchise Metal Gear Solid.md",
     "Metal Gear Solid Delta - Snake Eater.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Bloodborne.md",
@@ -229,14 +237,7 @@
     "Attachments/image-529.webp",
     "Jorre Verstraeten.md",
     "Juan Ayuso.md",
-    "Loisirs/Sport/Sportifs/Olivier Naert.md",
-    "Loisirs/Sport/Sportifs/Maëlys Dapa.md",
     "Loïs Petit.md",
-    "Ivy Road.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Angel Engine.md",
-    "Engine Angel.md",
-    "Davey Wreden.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Stanley Parable.md",
     "Attachments/image-528.webp",
     "Attachments/image-527.webp",
     "Attachments/image-29.webp",
@@ -244,7 +245,6 @@
     "Attachments/image-525.webp",
     "Attachments/image-524.webp",
     "Attachments/image-520.webp",
-    "Attachments/image-523.webp",
     "Sans titre",
     "TI-99",
     "Media DB/wiki",

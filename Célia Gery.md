@@ -2,12 +2,12 @@
 type: personne
 ---
 
-# Delfine Persoon
+# Célia Gery
 
 # Informations Générales
-- **Date de naissance** :  1985
-- **Nationalité** :  Belge
-- **Sport / Discipline** : [[Boxe]] 
+- **Date de naissance** :  
+- **Nationalité** :  
+- **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
@@ -21,7 +21,7 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-- 56 matchs (50 victoires, 20 KO)
+Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
@@ -29,6 +29,6 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
-# Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |
