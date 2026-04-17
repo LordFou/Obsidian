@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Metal",
+                "query": "Mina Li",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,7 +207,7 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "1bdbfaf31a75443d",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
     "Franchise Metal Gear Solid.md",
     "Metal Gear Solid Delta - Snake Eater.md",
