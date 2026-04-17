@@ -2,7 +2,7 @@
 type: personne
 ---
 
-# Dmitry Glukhovsky
+# Dimitry Glukhovsky
 
 ## Présentation
 Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
@@ -60,7 +60,7 @@ if (tableData.length > 0) {
 Lister les prix et reconnaissances obtenues.
 
 ## Controverses ou Faits Marquants
-Évoquer les polémiques ou événements notables liés à cette personne.
+- il a du fuir l'[[Ukraine]] lors de la guerre contre la Russie.
 
 | Description | URL |
 | ----------- | --- |

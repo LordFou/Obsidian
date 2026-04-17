@@ -18,15 +18,16 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[2,5D]]
-- **Audio** : (Type de musique, Bande-son notable)
+- **Graphismes** : [[2,5D]], [[Pixel Art]]
+- **Audio** : 
+	- Ambiance sonore à la [[Vangelis]]
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- Monde Cyberpunk
+	- Monde [[Cyberpunk]]
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Road to Vostok.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amstel Gold Race"
+              "title": "Road to Vostok"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Amstel",
+                "query": "Street",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,11 +207,19 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "1bdbfaf31a75443d",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
-    "Quintens Hermans.md",
+    "Road to Vostok Ltd..md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Road to Vostok.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Replaced.md",
+    "Dimitry Glukhovsky.md",
+    "Pawel Ulmer.md",
+    "Loisirs/Jeux Vidéos/Jeux/Franchise/Franchise Metro.md",
+    "Metro 2039.md",
+    "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
     "Loisirs/Sport/Compétitions/Flèche Brabançonne.md",
     "Anders Foldager.md",
+    "Quintens Hermans.md",
     "Célia Gery.md",
     "Loisirs/Sport/Elisa Longo Borghini.md",
     "Loisirs/Sport/Sportifs/Delfine Persoon.md",
@@ -228,14 +236,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Don't Starve Elsewhere.md",
     "Franchise Don't Starve.md",
     "Don't Starve.md",
-    "Klei Entertainment.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Pragmata.md",
-    "Metro 2039.md",
-    "Pawel Ulmer.md",
-    "Loisirs/Jeux Vidéos/Jeux/Franchise/Franchise Metro.md",
-    "Dmitry Glukhovsky.md",
-    "4A Games.md",
-    "Andriy Shevchenko.md",
     "Attachments/image-530.webp",
     "Attachments/image-529.webp",
     "Attachments/image-528.webp",
