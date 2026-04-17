@@ -1,40 +1,42 @@
 ---
 type: game
 subType: ""
-title: Moses & Plato - Last Train to Clawville
-englishTitle: Moses & Plato - Last Train to Clawville
+title: Loot Loop
+englishTitle: Loot Loop
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2230450
-id: 2230450
+url: https://store.steampowered.com/app/3972320
+id: 3972320
 developers:
-  - The Wild Gentlemen
+  - BitBrew
 publishers:
-  - Toge Productions
+  - BitBrew
 genres:
-  - Adventure
+  - Casual
   - Indie
+  - Simulation
+  - Strategy
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2230450/139b56006956893aba72d80228d17660b43de190/header.jpg?t=1776171832
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3972320/958eeeee0ffc1e7541ec44572c38af36e786222a/header.jpg?t=1776191627
 released: true
-releaseDate: 14/04/2026
+releaseDate: 13/04/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2230450/139b56006956893aba72d80228d17660b43de190/header.jpg?t=1776171832)
-# Moses & Plato - Last Train to Clawville
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3972320/958eeeee0ffc1e7541ec44572c38af36e786222a/header.jpg?t=1776191627)
+# Loot Loop
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[The Wild Gentlemen]]
+	- Studio : [[BitBrew]]
 	- Personnalités : 
-- **Éditeur** : [[Toge Productions]]
+- **Éditeur** : [[BitBrew]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Enquête]], [[Point & Click]]
+- **Genre** : [[Jeu incrémental]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -44,16 +46,14 @@ tags: mediaDB/game
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
 - **Gameplay** :
-- **Durée estimée** : 
+- **Durée estimée** : 2-3h
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- [[Train]] de luxe
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- [[Anthropomorphisme]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
@@ -63,4 +63,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2230450 |
+| Wiki        | https://store.steampowered.com/app/3972320 |

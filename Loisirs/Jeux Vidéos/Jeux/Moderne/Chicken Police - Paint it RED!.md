@@ -1,54 +1,53 @@
 ---
 type: game
 subType: ""
-title: Moses & Plato - Last Train to Clawville
-englishTitle: Moses & Plato - Last Train to Clawville
-year: "2026"
+title: Chicken Police - Paint it RED!
+englishTitle: Chicken Police - Paint it RED!
+year: "2020"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2230450
-id: 2230450
+url: https://store.steampowered.com/app/1084640
+id: 1084640
 developers:
   - The Wild Gentlemen
 publishers:
-  - Toge Productions
+  - HandyGames
 genres:
   - Adventure
   - Indie
-onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2230450/139b56006956893aba72d80228d17660b43de190/header.jpg?t=1776171832
+onlineRating: 82
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084640/header.jpg?t=1770374903
 released: true
-releaseDate: 14/04/2026
+releaseDate: 05/11/2020
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2230450/139b56006956893aba72d80228d17660b43de190/header.jpg?t=1776171832)
-# Moses & Plato - Last Train to Clawville
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084640/header.jpg?t=1770374903)
+# Chicken Police - Paint it RED!
 
 ## Informations Générales
 
-- **Année de sortie** :  2026
+- **Année de sortie** :  2020
 - **Développeur** : 
 	- Studio : [[The Wild Gentlemen]]
 	- Personnalités : 
-- **Éditeur** : [[Toge Productions]]
-- **Plateformes** : [[PC]]
+- **Éditeur** : HandyGames
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Enquête]], [[Point & Click]]
+- **Genre** : Adventure,Indie
 - **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : [[Noir et Blanc]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 0
+	- Steam Rating : 82
 - **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- [[Train]] de luxe
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
@@ -63,4 +62,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2230450 |
+| Wiki        | https://store.steampowered.com/app/1084640 |

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Moses  Plato - Last Train to Clawville.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Seeds of Calamity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Moses  Plato - Last Train to Clawville"
+              "title": "Seeds of Calamity"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Windro",
+                "query": "Tamashika",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,8 +207,11 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "1bdbfaf31a75443d",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Loot Loop.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Seeds of Calamity.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Chicken Police - Paint it RED!.md",
     "The Wild Gentlemen.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Moses  Plato - Last Train to Clawville.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Windrose.md",
@@ -232,9 +235,6 @@
     "Metro 2039.md",
     "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
     "Loisirs/Sport/Compétitions/Flèche Brabançonne.md",
-    "Anders Foldager.md",
-    "Quintens Hermans.md",
-    "Célia Gery.md",
     "Attachments/image-531.webp",
     "Attachments/image-530.webp",
     "Attachments/image-529.webp",

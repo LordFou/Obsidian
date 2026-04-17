@@ -26,6 +26,7 @@ content:
 ## Jeux Développés
 | Année | Titre                                      |
 | ----- | ------------------------------------------ |
+| 2020  | [[Chicken Police - Paint it RED!]]         |
 | 2026  | [[Moses  Plato - Last Train to Clawville]] |
 
 ## Moteur(s) Utilisé(s)
