@@ -1,26 +1,24 @@
----
-type: game
----
-
-# Windrose
+![image]({{ image }})
+# Valheim
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** :  {{ year }}
 - **Développeur** : 
-	- Studio : [[Windrose Crew]]
+	- Studio : {{ developers }}
 	- Personnalités : 
-- **Éditeur** : [[Windrose Crew]]
+- **Éditeur** : {{ publishers }}
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
-- **Résumé** : On incarne un pirate, capitaine d'un vaisseau naviguant les Caraïbes et se battant à coups de canons ou de rapière.
+- **Genre** : {{ genres }}
+- **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
+	- Steam Rating : {{ onlineRating }}
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -30,15 +28,13 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- [[La piraterie]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
-	- [[Valheim]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
-| Description      | URL                          |
-| ---------------- | ---------------------------- |
-| Official Trailer | https://youtu.be/JN7VeNtXRM8 |
+| Description | URL       |
+| ----------- | --------- |
+| Wiki        | {{ url }} |

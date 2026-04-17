@@ -15,12 +15,12 @@ type: game
 - **Éditeur** : [[Goblinz Publishing]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Dungeon Crawler]], [[Roguelike]]
-- **Résumé** : 
+- **Genre** : [[Dungeon Crawler]], [[Roguelite]]
+- **Résumé** : Cela consiste à descendre dans un superbe donjon dessiné à la main, en manipulant les chances de tomber sur des monstres ou des trésors
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 2D
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :

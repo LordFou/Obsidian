@@ -1,39 +1,40 @@
 ---
 type: game
 subType: ""
-title: "[Redacted] The Safehouse"
-englishTitle: "[Redacted] The Safehouse"
+title: Moses & Plato - Last Train to Clawville
+englishTitle: Moses & Plato - Last Train to Clawville
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/403620
-id: 403620
+url: https://store.steampowered.com/app/2230450
+id: 2230450
 developers:
-  - Heartbeast
+  - The Wild Gentlemen
 publishers:
-  - Heartbeast
+  - Toge Productions
 genres:
+  - Adventure
   - Indie
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/403620/de4167ba19150f58bc1807c17fde298b3d2eebc1/header.jpg?t=1776113997
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2230450/139b56006956893aba72d80228d17660b43de190/header.jpg?t=1776171832
 released: true
-releaseDate: 09/04/2026
+releaseDate: 14/04/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/403620/de4167ba19150f58bc1807c17fde298b3d2eebc1/header.jpg?t=1776113997)
-# [Redacted] The Safehouse
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2230450/139b56006956893aba72d80228d17660b43de190/header.jpg?t=1776171832)
+# Moses & Plato - Last Train to Clawville
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Heartbeast]]
+	- Studio : [[The Wild Gentlemen]]
 	- Personnalités : 
-- **Éditeur** : [[Heartbeast]]
-- **Plateformes** : [[PC]]
+- **Éditeur** : [[Toge Productions]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Enquête]]
+- **Genre** : [[Enquête]], [[Point & Click]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -43,7 +44,7 @@ tags: mediaDB/game
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
 - **Gameplay** :
-- **Durée estimée** : 1h
+- **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
@@ -51,14 +52,14 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- Antro
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
-	- [[Her Story]] (Evolution de l'enquête via la recherche de mot clés dans une base de données)
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/403620 |
+| Wiki        | https://store.steampowered.com/app/2230450 |
