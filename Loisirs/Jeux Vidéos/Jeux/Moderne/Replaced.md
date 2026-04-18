@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : [[PC]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]]
+- **Genre** : [[Action]], [[Aventure]], [[Die and Retry]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -21,7 +21,8 @@ type: game
 - **Graphismes** : [[2,5D]], [[Pixel Art]]
 - **Audio** : 
 	- Ambiance sonore à la [[Vangelis]]
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Assez dur d'après les gens, notamment quelques passages plateformes très hard.
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -33,6 +34,7 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- Le film [[Blade Runner]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

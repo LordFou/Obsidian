@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Seeds of Calamity.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Replaced.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seeds of Calamity"
+              "title": "Replaced"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tamashika",
+                "query": "Inkuli",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -209,8 +209,8 @@
   },
   "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Loot Loop.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Seeds of Calamity.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Loot Loop.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Chicken Police - Paint it RED!.md",
     "The Wild Gentlemen.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Moses  Plato - Last Train to Clawville.md",
