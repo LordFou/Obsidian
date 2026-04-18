@@ -1,42 +1,44 @@
 ---
 type: game
 subType: ""
-title: "Zero Stress King: Idle Defense"
-englishTitle: "Zero Stress King: Idle Defense"
+title: "Crusaders Quest : Hero Town"
+englishTitle: "Crusaders Quest : Hero Town"
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/4271160
-id: 4271160
+url: https://store.steampowered.com/app/4126220
+id: 4126220
 developers:
-  - Pauloondra
+  - CQ LABS
 publishers:
-  - Pauloondra
+  - " LoadComplete"
 genres:
   - Casual
   - Indie
+  - RPG
+  - Simulation
   - Strategy
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271160/326a6627411cec177f1092ebb20aab7ae3ffc196/header.jpg?t=1776347193
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126220/8583acfaa52d3221275364a47f34d5e7bb6c2507/header.jpg?t=1776328466
 released: true
-releaseDate: 30/03/2026
+releaseDate: 30/01/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
 
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271160/326a6627411cec177f1092ebb20aab7ae3ffc196/header.jpg?t=1776347193)
-# Zero Stress King: Idle Defense
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126220/8583acfaa52d3221275364a47f34d5e7bb6c2507/header.jpg?t=1776328466)
+# Crusaders Quest : Hero Town
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Pauloondra]]
+	- Studio : [[CQ LABS]]
 	- Personnalités : 
-- **Éditeur** : [[Pauloondra]]
+- **Éditeur** :  [[LoadComplete]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Stratégie]], [[Idle Game]]
+- **Genre** : [[RPG]], [[Simulation]], [[Stratégie]], [[Idle Game]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -63,4 +65,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/4271160 |
+| Wiki        | https://store.steampowered.com/app/4126220 |

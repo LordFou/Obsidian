@@ -1,42 +1,40 @@
 ---
 type: game
 subType: ""
-title: "Zero Stress King: Idle Defense"
-englishTitle: "Zero Stress King: Idle Defense"
+title: "Modulus: Factory Automation"
+englishTitle: "Modulus: Factory Automation"
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/4271160
-id: 4271160
+url: https://store.steampowered.com/app/2779120
+id: 2779120
 developers:
-  - Pauloondra
+  - Happy Volcano
 publishers:
-  - Pauloondra
+  - Kwalee
 genres:
-  - Casual
-  - Indie
-  - Strategy
+  - Simulation
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271160/326a6627411cec177f1092ebb20aab7ae3ffc196/header.jpg?t=1776347193
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779120/cd1d9540b998a0973113c51e74e0db70d651bad8/header.jpg?t=1775724573
 released: true
-releaseDate: 30/03/2026
+releaseDate: 02/04/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
 
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271160/326a6627411cec177f1092ebb20aab7ae3ffc196/header.jpg?t=1776347193)
-# Zero Stress King: Idle Defense
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779120/cd1d9540b998a0973113c51e74e0db70d651bad8/header.jpg?t=1775724573)
+# Modulus: Factory Automation
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Pauloondra]]
+	- Studio : [[Happy Volcano]]
 	- Personnalités : 
-- **Éditeur** : [[Pauloondra]]
+- **Éditeur** : [[Kwalee Gaming]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Stratégie]], [[Idle Game]]
+- **Genre** : [[Simulation]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -55,6 +53,8 @@ tags: mediaDB/game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Satisfactory]]
+	- [[shapez 2]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
@@ -63,4 +63,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/4271160 |
+| Wiki        | https://store.steampowered.com/app/2779120 |
