@@ -35,7 +35,7 @@ tags: mediaDB/game
 	- Studio : [[Goldhawk Interactive]]
 	- Personnalités : 
 - **Éditeur** : [[Hooded Horse]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[RPG]], [[Simulation]], [[Strategie]], [[Tour par tour]], [[Tactical]]
 - **Résumé** :  
@@ -56,6 +56,7 @@ tags: mediaDB/game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[XCOM]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
