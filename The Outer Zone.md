@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Ice-Pick Lodge
+# The Outer Zone
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -12,7 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** : Russie 
+- **Pays d’origine** :  Danemark
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -24,10 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre            | Genre           | Plateformes           |
-| ----- | ---------------- | --------------- | --------------------- |
-| 2025  | [[Darkwood 2]]   | Survival Horror | PC, PS5, Xbox, Switch |
-| 2026  | [[Pathologic 3]] | Horreur         |                       |
+| Année | Titre          |
+| ----- | -------------- |
+| 2026  | [[Death Howl]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
@@ -45,6 +44,6 @@ Lister les prix, distinctions ou records obtenus.
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |

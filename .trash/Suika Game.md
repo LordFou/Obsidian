@@ -1,27 +1,27 @@
 ---
 type: game
 ---
-![[image-325.webp]]
-# Pathologic 3
+![image]({{ image }})
+# Suika Game
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** :  {{ year }}
 - **Développeur** : 
-	- Studio : [[Ice-Pick Lodge]]
+	- Studio : {{ developers }}
 	- Personnalités : 
-- **Éditeur** : [[HypeTrain Digital]]
-- **Plateformes** : [[PC]], [[Playstation 5]]
+- **Éditeur** : {{ publishers }}
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Horreur]]
-- **Résumé** : jeu lugubre et slave, sur une affreuse pandémie mais aussi le troisième opus d'une série de jeux de rôle mâtinée d'horreur psychologique qui jouit d'une excellente réputation.
+- **Genre** : {{ genres }}
+- **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : 
-	- Canard PC (Tempus Fugit, 7/10)
+- **Réception critique** : (Notes, Awards, Réactions de la presse)
+	- Steam Rating : {{ onlineRating }}
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -38,6 +38,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL       |
+| ----------- | --------- |
+| Wiki        | {{ url }} |
