@@ -19,6 +19,7 @@ type: personne
 | 2015  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
 | 2018  | [[Tour du Limbourg]]                                | 1ier    |                                                                                                        |
 | 2019  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
+| 2019  | [[Amstel Gold Race]]                                | 1ier    |                                                                                                        |
 | 2020  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
 | 2020  | [[Renewi Tour]] - Classement final                  | 1ier    |                                                                                                        |
 | 2021  | [[Championnat du Monde de Cyclocross]]              | 1ier    |                                                                                                        |
