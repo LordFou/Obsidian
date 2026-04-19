@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Antoine L'Hote
+# Kevin Antoine
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
+- **Nationalité** :  Français
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                               | Résultat | Remarque       |
-| ----- | --------------------------------------------------------- | -------- | -------------- |
-| 2026  | [[Tour de la Région Pays de la Loire]] - 4e étape         | 1ier     |                |
-| 2026  | [[Tour de la Région Pays de la Loire]] - Classement Final | 1ier     | Meilleur jeune |
+| Année | Compétition                                               | Résultat | Remarque |
+| ----- | --------------------------------------------------------- | -------- | -------- |
+| 2026  | [[Tour de la Région Pays de la Loire]] - Maillot Montagne | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -30,6 +29,6 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
-# Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |

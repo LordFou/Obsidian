@@ -13,13 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                             | Résultat | Remarque                   |
-| ----- | --------------------------------------- | -------- | -------------------------- |
-| 2025  | [[Tour de Wallonie]] - 1e étape         | 1ier     | Maillot Orange du général  |
-| 2025  | [[Tour de Wallonie]] - 4e étape         | 2e       | Maillot Orange du général  |
-| 2025  | [[Tour de Wallonie]] - Classement final | 1ier     |                            |
-| 2025  | [[ArcticRace]] - 1e étape               | 1ier     | :luc_plus: Maillot Général |
-|       |                                         |          |                            |
+| Année | Compétition                                            | Résultat | Remarque                   |
+| ----- | ------------------------------------------------------ | -------- | -------------------------- |
+| 2025  | [[Tour de Wallonie]] - 1e étape                        | 1ier     | Maillot Orange du général  |
+| 2025  | [[Tour de Wallonie]] - 4e étape                        | 2e       | Maillot Orange du général  |
+| 2025  | [[Tour de Wallonie]] - Classement final                | 1ier     |                            |
+| 2025  | [[ArcticRace]] - 1e étape                              | 1ier     | :luc_plus: Maillot Général |
+| 2026  | [[Tour de la Région Pays de la Loire]] - Maillot Point | 1ier     |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
