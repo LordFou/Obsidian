@@ -28,10 +28,10 @@ type: event
 ### Hommes
 
 
-| Année | Vainqueur     | Nationalité | Remarque |
-| ----- | ------------- | ----------- | -------- |
-| 2025  | [[Derek Gee]] |             |          |
-| 2026  |               |             |          |
+| Année | Vainqueur      | Nationalité | Remarque |
+| ----- | -------------- | ----------- | -------- |
+| 2025  | [[Derek Gee]]  |             |          |
+| 2026  | [[Adam Yates]] | Anglais     |          |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

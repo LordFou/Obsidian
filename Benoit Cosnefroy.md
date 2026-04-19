@@ -2,12 +2,12 @@
 type: personne
 ---
 
-# Mattias Skjelmose
+# Benoit Cosnefroy
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  
-- **Sport / Discipline** :  Cyclisme
+- **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
@@ -15,8 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition          | Résultat | Remarque |
 | ----- | -------------------- | -------- | -------- |
-| 2025  | [[Amstel Gold Race]] | 1ier     |          |
-| 2026  | [[Amstel Gold Race]] | 2e       |          |
+| 2026  | [[Amstel Gold Race]] | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -30,6 +29,6 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
-# Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |

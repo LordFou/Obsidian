@@ -16,7 +16,7 @@ Une des seules grandes courses néerlandaises, plutôt du style des courses arde
 | 2019  | [[Mathieu van der Poel]] | Néerlandais |                                                                                                                                                   |
 | 2021  | [[Wout Van Aert]]        | ==Belge==   |                                                                                                                                                   |
 | 2025  | [[Mattias Skjelmose]]    | Danois      | Sprint à 3 <br>2e - [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]]<br>3e - [[Remco Evenepoel]]<br>4e - [[Wout Van Aert]]<br>8e - [[Tiesj Benoot]] |
-| 2026  |                          |             | Sprint à 2                                                                                                                                        |
+| 2026  | [[Remco Evenepoel]]      | ==Belge==   | Sprint à 2<br>2e - [[Mattias Skjelmose]]<br>3e - [[Benoit Cosnefroy]]                                                                             |
 # Femmes
 
 | Année | Vainqueur            | Nationalité  | Remarque |
