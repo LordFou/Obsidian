@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : {{ developers }}
 	- Personnalités : 
-		- 
+		- [[Diego Sachetti]] (Développeur)
 - **Éditeur** : {{ publishers }}
 - **Plateformes** : 
 - **Franchise** : 
