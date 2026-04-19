@@ -10,6 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Paradox Interactive]]
 	- Personnalités : 
+		- [[Veronica Pazos]] (Historienne)
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 

@@ -34,7 +34,7 @@ tags: mediaDB/game
 	- Studio : [[Owlcat Games]]
 	- Personnalités : 
 - **Éditeur** : [[Owlcat Games]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Action]],[[Aventure]],[[RPG]]
 - **Résumé** :  

@@ -7,7 +7,8 @@ type: game
 
 ## Informations générales
 - Créateur(s) : {{Nom du ou des créateurs}}
-- Développeur(s) : {{Studio(s) de développement}}
+- Développeur(s) : 
+	- [[Alvaro Sanz]] (Historien)
 - Éditeur(s) : {{Nom de l’éditeur}}
 - Première apparition : {{Nom du premier jeu (année)}}
 - Genre principal : {{Stratégie, Action-Aventure, FPS...}}
