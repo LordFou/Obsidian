@@ -8,10 +8,10 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Liquid Swords]]
 	- Personnalités : 
 		- [[Christofer Sundberg]]
-- **Éditeur** : 
+- **Éditeur** : [[Liquid Swords]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[GTA-Like]], [[Monde ouvert]], [[Course]]
@@ -27,6 +27,7 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- Ville de Tyndalston
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :

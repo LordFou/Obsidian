@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les décès de sportifs.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Samson.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Les décès de sportifs"
+              "title": "Samson"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Décès",
+                "query": "Samson",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -209,6 +209,14 @@
   },
   "active": "1bdbfaf31a75443d",
   "lastOpenFiles": [
+    "Christofer Sundberg.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Samson.md",
+    "Liquid Swords.md",
+    "Loisirs/Sport/Sportifs/Lowie Nulens.md",
+    "Loisirs/Sport/Sportifs/Tuur Dens.md",
+    "Hélène Hesters.md",
+    "Loisirs/Sport/Lotte Kopecky.md",
+    "Les décès de sportifs.md",
     "Red Flames.md",
     "Jelle Geens.md",
     "Marten Van Riel.md",
@@ -227,14 +235,6 @@
     "The Wild Gentlemen.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Moses  Plato - Last Train to Clawville.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Windrose.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Valheim.md",
-    "Valheim.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sol Cesto.md",
-    "Chariospirale.md",
-    "Géraud Zucchini.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/[Redacted] The Safehouse.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Her Story.md",
-    "Sam Barlow.md",
     "Attachments/image-531.webp",
     "Attachments/image-530.webp",
     "Attachments/image-529.webp",

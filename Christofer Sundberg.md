@@ -10,7 +10,8 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 ## Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  
-- **Profession(s)** : (Développeur, Designer, Compositeur, Journaliste, etc.)  
+- **Profession(s)** : 
+	- Fondateur => [[Liquid Swords]]
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 
 ```timeline-labeled
