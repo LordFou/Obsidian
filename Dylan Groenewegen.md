@@ -9,7 +9,7 @@ type: personne
 - **Nationalité** :  Néerlandais
 - **Sport / Discipline** : Cyclisme
 - **Poste / Spécialité** (si applicable) : Sprinteur
-- **Équipe(s) / Club(s)** : [[Unibet]], [[Jayco]],
+- **Équipe(s) / Club(s)** : [[Unibet Rose Rocket]], [[Jayco]],
 - **Période d’activité** :  
 
 # Palmarès et Distinctions

@@ -19,7 +19,7 @@ type: event
 | 3e (FRA) | [[Axel Laurance]] | [[Paul Seixas]] |                 |                 |                 | 4e - [[Ilan Van Wilder]]        |
 | 4e (ESP) | [[Alex Aranburu]] | [[Paul Seixas]] |                 |                 |                 |                                 |
 | 5e (FRA) | [[Paul Seixas]]   | [[Paul Seixas]] | [[Paul Seixas]] | [[Paul Seixas]] | [[Paul Seixas]] | 11e - [[Cian Uijtdebroeks]]     |
-|          |                   |                 |                 |                 |                 |                                 |
+| 6e (USA) | [[August Andrew]] | [[Paul Seixas]] | [[Paul Seixas]] | [[Paul Seixas]] | [[Paul Seixas]] |                                 |
 ## Femmes
 
 ### Etapes
@@ -32,10 +32,10 @@ type: event
 ### Hommes
 
 
-| Année | Vainqueur        | Nationalité | Remarque |
-| ----- | ---------------- | ----------- | -------- |
-| 2019  | [[Ion Izagirre]] |             |          |
-| 2026  |                  |             |          |
+| Année | Vainqueur        | Nationalité | Montagne        | Points          | Jeune           | Team         |
+| ----- | ---------------- | ----------- | --------------- | --------------- | --------------- | ------------ |
+| 2019  | [[Ion Izagirre]] | Espagnol    |                 |                 |                 |              |
+| 2026  | [[Paul Seixas]]  | Français    | [[Paul Seixas]] | [[Paul Seixas]] | [[Paul Seixas]] | [[Movistar]] |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

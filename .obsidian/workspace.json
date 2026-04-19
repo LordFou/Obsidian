@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Matteo Jorgenson.md",
+                "file": "Antoine L'Hote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matteo Jorgenson"
+              "title": "Antoine L'Hote"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Matteo Jor",
+                "query": "Loire",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -207,6 +208,13 @@
   },
   "active": "89e5d696d7e8a324",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Tour de la Région Pays de la Loire.md",
+    "Antoine L'Hote.md",
+    "Unibet Rose Rocket.md",
+    "August Andrew.md",
+    "Tour du Pays Basque.md",
+    "Movistar.md",
+    "Loisirs/Sport/Sportifs/Matteo Jorgenson.md",
     "Loisirs/Jeux Vidéos/Jeux/L'univers des Typing Games.md",
     "The Textorcist.md",
     "Diego Sachetti.md",
@@ -226,13 +234,6 @@
     "Franchise Europa Universalis.md",
     "Owlcat Games.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Expanse - Osiris Reborn.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Dark Rites of Arkham.md",
-    "Postmodern Adventures.md",
-    "Golden Idol.md",
-    "Balatro.md",
-    "Playstack.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/VOID - BREAKER.md",
-    "Stubby Games.md",
     "Attachments/image-523.webp",
     "Attachments/image-522.webp",
     "Attachments/image-521.webp",
