@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -205,7 +206,7 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "c929e4924b274d50",
+  "active": "acbfcced6e5eac9a",
   "lastOpenFiles": [
     "Demi Vollering.md",
     "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
