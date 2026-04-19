@@ -34,6 +34,7 @@ type: game
 		- Rien de bien nouveau à dire mais la réalisation est très bien
 		- Fait bien partie du [[Kojimaverse]]
 	- 8/10 ([[Canard PC]])
+	- [[BAFTA Games Awards]] 2026 (Artistic)
 - **Gameplay** :
 	- TPS
 - **Durée estimée** : 35h <-> 60h

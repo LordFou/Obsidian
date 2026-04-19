@@ -22,6 +22,7 @@ type: game
 - **Audio** : jolie mais sans plus, si on écoute bien, chaque nouvelle découverte déclenche une petite variation dans la musique ou le sound design.
 - **Réception critique** : 
 	- 9/10 (Canard PC)
+	- [[BAFTA Games Awards]] 2026 (Game Design)
 - **Gameplay** : 
 	- Création d'un [[Les labyrinthes|labyrinthe]]
 	- Chaque porte cache un secret, une énigme ou une pièce d’un puzzle dont vous n’avez pas encore l’image globale.

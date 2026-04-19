@@ -27,6 +27,7 @@ type: game
 	- ==Game of the Year 2025==
 	  ![[image-234.webp]]
 	- 5 millions d'exemplaires en 5 mois
+	- [[BAFTA Games Awards]] 2026 (Best Game - Best Debut Game)
 - **Gameplay** :
 
 ## Histoire et Univers
