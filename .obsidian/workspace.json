@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Matthias Casse.md",
+                "file": "Les décès de sportifs.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Matthias Casse"
+              "title": "Les décès de sportifs"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Matthi",
+                "query": "Décès",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,8 +207,12 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "1bdbfaf31a75443d",
   "lastOpenFiles": [
+    "Red Flames.md",
+    "Jelle Geens.md",
+    "Marten Van Riel.md",
+    "Loisirs/Sport/Sportifs/Matthias Casse.md",
     "Loisirs/Sport/Sportifs/Mina Libeer.md",
     "Loisirs/Sport/Sportifs/Mathieu van der Poel.md",
     "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
@@ -231,10 +235,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/[Redacted] The Safehouse.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Her Story.md",
     "Sam Barlow.md",
-    "Her Story.md",
-    "Heartbeast.md",
-    "Street Fighter.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Road to Vostok.md",
     "Attachments/image-531.webp",
     "Attachments/image-530.webp",
     "Attachments/image-529.webp",

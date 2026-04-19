@@ -20,7 +20,7 @@ type: personne
 | 2025  | [[Circuit T100]] - Vancouver - Canada | 1ier     | 2e - [[Marten Van Riel]] |
 | 2025  | Ironman 70.3 - Championnat du Monde   | 1ier     |                          |
 | 2026  | Ironman 70.3 - Geelong - Australie    | 2e       |                          |
-| 2026  | Ironman 70.3 - Texas - USA            |          |                          |
+| 2026  | Ironman 70.3 - Texas - USA            | Abandon  | victime de crampes       |
 | 2026  | Ironman 70.3 - Hawaï - USA            |          |                          |
 
 # Style et Caractéristiques
