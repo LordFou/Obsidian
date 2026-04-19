@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                  | Résultat | Remarque |
-| ----- | ---------------------------- | -------- | -------- |
-| 2025  | [[Trophée Raymond Goethals]] | 1ier     |          |
+| Année | Compétition                  | Résultat | Remarque                     |
+| ----- | ---------------------------- | -------- | ---------------------------- |
+| 2025  | [[Trophée Raymond Goethals]] | 1ier     |                              |
+| 2026  | Championnat d'Allemagne      | 1ier     | avec le [[Bayern de Munich]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

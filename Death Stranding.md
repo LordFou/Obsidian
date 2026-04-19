@@ -6,14 +6,15 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2019
 - **Développeur** : 
 	- Studio : [[Kojima Productions]]
 	- Personnalités : 
+		- [[Hideo Kojima]]
 - **Éditeur** : [[505 Games]]
 - **Plateformes** : PC
 - **Franchise** : [[Franchise Death Stranding|Death Stranding]]
-- **Genre** :
+- **Genre** : [[Monde ouvert]]
 - **Résumé** : 
 
 ## Détails Techniques

@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-532.webp]]
 # Arthur Fils
 
 # Informations Générales
@@ -13,12 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition             | Résultat  | Remarque                          |
-| ----- | ----------------------- | --------- | --------------------------------- |
-| 2023  | [[Tournoi de Lyon]]     | Vainqueur |                                   |
-| 2024  | [[Tournoi de Hambourg]] | Vainqueur |                                   |
-| 2024  | [[Tournoi de Tokyo]]    | Vainqueur |                                   |
-| 2026  | [[Tournoi de Doha]]     | Finaliste | Défaite contre [[Carlos Alcaraz]] |
+| Année | Compétition              | Résultat  | Remarque                          |
+| ----- | ------------------------ | --------- | --------------------------------- |
+| 2023  | [[Tournoi de Lyon]]      | Vainqueur |                                   |
+| 2024  | [[Tournoi de Hambourg]]  | Vainqueur |                                   |
+| 2024  | [[Tournoi de Tokyo]]     | Vainqueur |                                   |
+| 2026  | [[Tournoi de Doha]]      | Finaliste | Défaite contre [[Carlos Alcaraz]] |
+| 2026  | [[Tournoi de Barcelone]] | Vainqueur |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
