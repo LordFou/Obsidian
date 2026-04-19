@@ -20,16 +20,16 @@
               "icon": "lucide-file",
               "title": "Silent Hill 2"
             },
-            "group": "b91a9318bd4d90ae"
+            "group": "a8fe30434df061e2"
           }
         ]
       },
       {
-        "id": "3cf53ddd782b6501",
+        "id": "0a2dab2f68ec97e2",
         "type": "tabs",
         "children": [
           {
-            "id": "0bf8d60beb284c55",
+            "id": "b2f75bc5f18ed8fb",
             "type": "leaf",
             "state": {
               "type": "localgraph",
@@ -64,7 +64,7 @@
               "icon": "lucide-git-fork",
               "title": "Graphique de Silent Hill 2"
             },
-            "group": "b91a9318bd4d90ae"
+            "group": "a8fe30434df061e2"
           }
         ]
       }
@@ -252,10 +252,11 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "0bf8d60beb284c55",
+  "active": "d16b531ed72169e2",
   "lastOpenFiles": [
-    "Journal de bord/2026-04-19.md",
+    "Bloober Team.md",
     "Silent Hill 2.md",
+    "Journal de bord/2026-04-19.md",
     "Death Stranding.md",
     "Dépression.md",
     "Loisirs/Jeux Vidéos/Sociétés/Konami.md",
@@ -280,7 +281,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Yunyun Syndrome! Rhythm Psychosis.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Titanium Court.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Kiln.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Kingdom's Return - Time-Eating Fruit and the Ancient Monster.md",
     "Attachments/image-531.webp",
     "Attachments/image-530.webp",
     "Attachments/image-529.webp",
