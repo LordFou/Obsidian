@@ -22,6 +22,7 @@ type: personne
 | 2026  | [[JO 2026]] - Patinage de vitesse - 1000m                           | 23e      |                            |
 | 2026  | [[JO 2026]] - Patinage de vitesse - 500m                            | 23e      |                            |
 | 2026  | [[JO 2026]] - Poursuite par équipe                                  | 6e       |                            |
+| 2026  | Coupe d’Europe - Geisingen (en )Allemagne.                          |          |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

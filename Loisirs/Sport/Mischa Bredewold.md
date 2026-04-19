@@ -1,3 +1,7 @@
+---
+type: personne
+---
+
 # Mischa Bredewold
 
 ![[Pasted image 20250420231447.jpg]]
