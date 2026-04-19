@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Adam Yates.md",
+                "file": "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adam Yates"
+              "title": "Remco Evenepoel"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gran Cam",
+                "query": "Liège Bas",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -207,6 +208,16 @@
   },
   "active": "c929e4924b274d50",
   "lastOpenFiles": [
+    "Liège-Bastogne-Liège.md",
+    "Loisirs/Sport/Tadej Pogacar.md",
+    "Loisirs/Sport/Compétitions/Flèche Wallonne.md",
+    "Loisirs/Sport/Compétitions/Tour des Alpes-Maritimes.md",
+    "Matthew Riccitello.md",
+    "Loisirs/Sport/Compétitions/Tour du Jura.md",
+    "Loisirs/Sport/Compétitions/Classic Grand Besançon Doubs.md",
+    "Jordan Jegat.md",
+    "Journal de bord/Archives/2025-06-14.md",
+    "Loisirs/Sport/Sportifs/Adam Yates.md",
     "Loisirs/Sport/Compétitions/O Gran Camiño.md",
     "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
     "Benoit Cosnefroy.md",
@@ -223,16 +234,6 @@
     "Loisirs/Sport/Arnaud de Lie.md",
     "Loisirs/Sport/Sportifs/Wout Van Aert.md",
     "Journal de bord/Archives/2025-08-03.md",
-    "Journal de bord/Archives/2025-07-14.md",
-    "conflict-files-obsidian-git.md",
-    "Loisirs/Sport/Compétitions/GP de l'Escaut.md",
-    "Yoshihisa Kishimoto.md",
-    "Tournoi de Munich.md",
-    "The Wild Gentlemen.md",
-    "Sam Barlow.md",
-    "SIGONO INC..md",
-    "SHUEISHA GAMES.md",
-    "Road to Vostok Ltd..md",
     "Attachments/image-531.webp",
     "Attachments/image-530.webp",
     "Attachments/image-529.webp",

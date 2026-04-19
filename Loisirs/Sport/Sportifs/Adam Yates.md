@@ -19,7 +19,7 @@ type: personne
 | 2025  | [[Tour d'Oman]] - Classement final | 1ier     |          |
 | 2025  | [[Coppa Agostini]]                 | 1ier     |          |
 | 2025  | [[Trofeo Tessile & Moda]]          | 1ier     |          |
-| 2026  | [[O Gran Camiño]]                  |          |          |
+| 2026  | [[O Gran Camiño]]                  | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
