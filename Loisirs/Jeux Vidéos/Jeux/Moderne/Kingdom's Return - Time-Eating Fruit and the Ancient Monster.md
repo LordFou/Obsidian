@@ -1,42 +1,41 @@
 ---
 type: game
 subType: ""
-title: Kiln
-englishTitle: Kiln
+title: "Kingdom's Return: Time-Eating Fruit and the Ancient Monster"
+englishTitle: "Kingdom's Return: Time-Eating Fruit and the Ancient Monster"
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/1165990
-id: 1165990
+url: https://store.steampowered.com/app/3882650
+id: 3882650
 developers:
-  - Double Fine Productions
+  - INTI CREATES CO., LTD.
 publishers:
-  - Xbox Game Studios
+  - INTI CREATES CO., LTD.
 genres:
   - Action
-  - Casual
+  - RPG
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1165990/66d1232d483b485b63545b3ade26a64ed8d0c74d/header.jpg?t=1774993276
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3882650/23d35c18a222a902f37942981e7f78275234b0ba/header.jpg?t=1776063660
 released: true
 releaseDate: 23/04/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1165990/66d1232d483b485b63545b3ade26a64ed8d0c74d/header.jpg?t=1774993276)
-# Kiln
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3882650/23d35c18a222a902f37942981e7f78275234b0ba/header.jpg?t=1776063660)
+# Kingdom's Return: Time-Eating Fruit and the Ancient Monster
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Double Fine]]
+	- Studio : [[INTI CREATES CO., LTD.]]
 	- Personnalités : 
-- **Éditeur** : [[Xbox Game Studios]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
+- **Éditeur** : [[INTI CREATES CO., LTD.]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action]], [[Party Games]]
-- **Résumé** :  On y incarne des poteries dont on a créé la forme en début de partie et c'est du combat 2 contre 2
+- **Genre** : [[Action]], [[RPG]]
+- **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -62,5 +61,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/1165990       |
-| Trailer     | https://youtu.be/6C11Zmc93-I?si=Q6juExHPcMYYdFHx |
+| Steam       | https://store.steampowered.com/app/3882650       |
+| Trailer     | https://youtu.be/uOW6WmLpUkU?si=HqvR8kDLI4ZRE3c1 |

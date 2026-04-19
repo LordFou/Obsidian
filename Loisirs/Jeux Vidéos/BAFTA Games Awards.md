@@ -16,6 +16,7 @@ Chaque année, les BAFTA Games Awards récompensent le meilleur du [[jeu vidéo]
 - En 2025, un acteur déguisé en Joker est venu recherché le prix pour Balatro car son concepteur veut rester en dehors de la lumière des médias
 
 
-|      | Best Games   | Animation    | Audio        | Family Game  | Game Design  | Best Debut Game | Artistic | British Game                    | Evolving Game         | Multiplayer      | Narrative                |
-| ---- | ------------ | ------------ | ------------ | ------------ | ------------ | --------------- | -------- | ------------------------------- | --------------------- | ---------------- | ------------------------ |
-| 2025 | [[Astrobot]] | [[Astrobot]] | [[Astrobot]] | [[Astrobot]] | [[Astrobot]] | [[Balatro]]     | [[Neva]] | [[Thank Goodness You’re Here!]] | [[Vampire Survivors]] | [[Helldivers 2]] | [[Metaphor: ReFantazio]] |
+|      | Best Games                                     | Animation    | Audio        | Family Game  | Game Design  | Best Debut Game | Artistic                                                | British Game                    | Evolving Game         | Multiplayer      | Narrative                |
+| ---- | ---------------------------------------------- | ------------ | ------------ | ------------ | ------------ | --------------- | ------------------------------------------------------- | ------------------------------- | --------------------- | ---------------- | ------------------------ |
+| 2025 | [[Astrobot]]                                   | [[Astrobot]] | [[Astrobot]] | [[Astrobot]] | [[Astrobot]] | [[Balatro]]     | [[Neva]]                                                | [[Thank Goodness You’re Here!]] | [[Vampire Survivors]] | [[Helldivers 2]] | [[Metaphor: ReFantazio]] |
+| 2026 | [[Clair Obscur - Expedition 33\|Clair Obscur]] | [[Dispatch]] |              |              |              |                 | [[Death Stranding 2 - On the Beach\|Death Stranding 2]] |                                 |                       |                  |                          |
