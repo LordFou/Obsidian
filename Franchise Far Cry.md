@@ -2,13 +2,12 @@
 type: game
 ---
 
-# Franchise Kingdom Come
+# Franchise Far Cry
 
 
 ## Informations générales
 - **Créateur(s)** : {{Nom du ou des créateurs}}
-- **Développeur(s)** : 
-	- [[Joanna Nowak]] (Historienne)
+- **Développeur(s)** : {{Studio(s) de développement}}
 - **Éditeur(s)** : {{Nom de l’éditeur}}
 - **Première apparition** : {{Nom du premier jeu (année)}}
 - **Genre principal** : {{Stratégie, Action-Aventure, FPS...}}

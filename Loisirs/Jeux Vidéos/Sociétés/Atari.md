@@ -58,6 +58,7 @@ content: Notamment [[Rob Fulop]] a qui on offre une dinde comme prime de fin d'a
 | 1980  | [[Star Raiders]]    | Simulateur de combat spatial |             |
 | 1980  | [[Warlords]]        | Casse Briques                |             |
 | 1981  | [[Centipede]]       | Shoot'em up                  |             |
+| 1982  | [[Typo Attack]]     |                              |             |
 [[]]
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
