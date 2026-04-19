@@ -13,10 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                           | Résultat | Remarque              |
-| ----- | ------------------------------------- | -------- | --------------------- |
-| 2025  | [[Circuit T100]] - Vancouver - Canada | 2e       |                       |
-| 2025  | [[Mondiaux de Thriatlon]] - Iron Man  | 4e       | Derrière 3 norvégiens |
+| Année | Compétition                           | Résultat | Remarque                                                      |
+| ----- | ------------------------------------- | -------- | ------------------------------------------------------------- |
+| 2025  | [[Circuit T100]] - Vancouver - Canada | 2e       |                                                               |
+| 2025  | [[Mondiaux de Thriatlon]] - Iron Man  | 4e       | Derrière 3 norvégiens                                         |
+| 2026  | Iron Man - Texas                      | 2e       | Ancien record battu mais forcément battu aussi par le premier |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

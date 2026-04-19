@@ -8,10 +8,10 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Nintendo]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
+- **Éditeur** : [[Nintendo]]
+- **Plateformes** : [[Switch]], [[Switch 2]]
 - **Franchise** : 
 - **Genre** :
 - **Résumé** : 
@@ -20,7 +20,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- CheckPoint (8/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -37,6 +38,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Trailer     | https://youtu.be/_xY0XuGOWJs?si=obusDlo31BcBsMHU |

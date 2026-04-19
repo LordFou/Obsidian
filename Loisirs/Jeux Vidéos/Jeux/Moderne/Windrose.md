@@ -34,6 +34,7 @@ type: game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[Valheim]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources

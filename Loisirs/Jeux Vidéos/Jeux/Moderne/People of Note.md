@@ -43,6 +43,7 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
+	- CheckPoint (9/10)
 - **Gameplay** :
 - **Durée estimée** : 
 

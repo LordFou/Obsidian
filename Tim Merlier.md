@@ -15,6 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                | Résultat | Remarque         |                                              |
 | ----- | ---------------------------------------------------------- | -------- | ---------------- | -------------------------------------------- |
+| 2021  | [[Tour du Limbourg]]                                       | 1ier     |                  |                                              |
 | 2022  | [[Nokere Koerse]]                                          | 1ier     |                  |                                              |
 | 2023  | [[Nokere Koerse]]                                          | 1ier     |                  |                                              |
 | 2024  | [[Nokere Koerse]]                                          | 1ier     |                  |                                              |
@@ -41,6 +42,7 @@ type: personne
 | 2025  | [[Tour de Hollande]] - 1e étape                            | 1ier     |                  |                                              |
 |       |                                                            |          |                  |                                              |
 | 2026  | [[GP de l'Escaut]]                                         | 1ier     |                  |                                              |
+| 2026  | [[Tour du Limbourg]]                                       | 1ier     |                  |                                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                             | Résultat | Remarque |
-| ----- | ------------------------------------------------------- | -------- | -------- |
-| 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Keirin | 3e       |          |
+| Année | Compétition                                                  | Résultat | Remarque |
+| ----- | ------------------------------------------------------------ | -------- | -------- |
+| 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Keirin      | 3e       |          |
+| 2026  | Meeting international de cyclisme sur piste de Gand - Sprint | 4e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

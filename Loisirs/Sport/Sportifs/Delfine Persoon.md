@@ -5,7 +5,7 @@ type: personne
 # Delfine Persoon
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  1985
 - **Nationalité** :  Belge
 - **Sport / Discipline** : [[Boxe]] 
 - **Poste / Spécialité** (si applicable) :  
@@ -21,7 +21,7 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- 56 matchs (50 victoires, 20 KO)
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

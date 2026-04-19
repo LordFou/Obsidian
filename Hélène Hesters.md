@@ -24,6 +24,7 @@ Soeur de [[Jules Hesters]]
 | 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National]] - Elimination        | 1ière 🥇 |          |
 | 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National]] - Kilomètre          | 1ière 🥇 |          |
 | 2026  | [[Championnat d'Europe de Cyclisme sur piste\|Champ. Europe]] - Scratch                 | 1ière 🥇 |          |
+| 2026  | Meeting international de cyclisme sur piste de Gand - Omnium                            | 5e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

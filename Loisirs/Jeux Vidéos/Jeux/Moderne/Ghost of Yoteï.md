@@ -24,6 +24,7 @@ type: game
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- 8/10 (Canard Pc
 	- 3 millions de vente le premier mois
+	- [[BAFTA Games Awards]] 2026 (Music)
 - **Gameplay** :
 - **Durée estimée** : 
 

@@ -13,25 +13,28 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : [[PC]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]]
+- **Genre** : [[Action]], [[Aventure]], [[Die and Retry]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[2,5D]]
-- **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Graphismes** : [[2,5D]], [[Pixel Art]]
+- **Audio** : 
+	- Ambiance sonore à la [[Vangelis]]
+- **Réception critique** : 
+	- Assez dur d'après les gens, notamment quelques passages plateformes très hard.
 - **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- Monde Cyberpunk
+	- Monde [[Cyberpunk]]
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- Le film [[Blade Runner]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

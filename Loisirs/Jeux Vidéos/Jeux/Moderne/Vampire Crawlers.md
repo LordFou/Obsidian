@@ -38,14 +38,14 @@ tags: mediaDB/game
 	- Personnalités : 
 		- [[Poncle]]
 - **Éditeur** : [[Poncle]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Playstation 4]], [[Playstation 5]], [[Xbox Series]], [[Switch]], [[Switch 2]]
 - **Franchise** : 
 - **Genre** : [[Action]], [[Stratégie]], [[Deckbuilding]]
 - **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : [[2D]], [[Pixel Art]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0

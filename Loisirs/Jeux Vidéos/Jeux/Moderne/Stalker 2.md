@@ -15,6 +15,8 @@ type: game
 - **Franchise** : 
 - **Genre** :
 - **Résumé** : 
+- **DLC** : 
+	- [[Cost Of Hope]]
 
 ## Détails Techniques
 - **Moteur de jeu** : 

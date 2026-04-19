@@ -25,7 +25,9 @@ type: matos
 ## Anecdotes et faits marquants
 - 77 millions d'unité vendue en mai 2025. Un peu moins que la [[Playstation 4]] au même âge.
 - 1 millions de [[Resident Evil 7 - Biohazard]] / an depuis 2017
-- {{Lien avec la musique, le design, l’influence culturelle...}}
+- Avril 2026 - Augmentation du prix de 18% en Europe
+	- 650€ (normal)
+	- 900€ (pro)
 
 ## Liens connexes
 - [[Lien vers une autre note]] (ex: un jeu, un constructeur)

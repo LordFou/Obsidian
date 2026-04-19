@@ -1,20 +1,21 @@
 ---
 type: game
 ---
-
+![[image-29.webp]]
 # Double Dragon
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 1987
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
+		- [[Yoshihisa Kishimoto]]
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : [[Franchise Double Dragon]]
-- **Genre** :
-- **Résumé** : 
+- **Genre** : [[Beat'em up]]
+- **Résumé** : premier jeu de combat coopératif à deux joueurs sur des niveaux à défilement
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -31,10 +32,11 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- Le film [[Enter the Dragon]] de [[Bruce Lee]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Le jeu explose à l'international, porté sur à peu près toutes les consoles de l'époque, engendrant des suites, des comics, des jouets et même un film hollywoodien.
 ## Liens et Ressources
 
 | Description | URL |

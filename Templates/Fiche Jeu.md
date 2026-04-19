@@ -1,6 +1,3 @@
----
-type: game
----
 ![image]({{ image }})
 # {{title}}
 

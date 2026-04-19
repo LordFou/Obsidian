@@ -8,10 +8,10 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Liquid Swords]]
 	- Personnalités : 
 		- [[Christofer Sundberg]]
-- **Éditeur** : 
+- **Éditeur** : [[Liquid Swords]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[GTA-Like]], [[Monde ouvert]], [[Course]]
@@ -21,12 +21,14 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Checkpoint (5/10)
 - **Gameplay** :
 - **Durée estimée** : 10h
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- Ville de Tyndalston
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :

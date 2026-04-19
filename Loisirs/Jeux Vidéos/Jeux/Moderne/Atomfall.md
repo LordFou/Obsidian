@@ -23,6 +23,7 @@ type: game
 - **Réception critique** : 
 	- 6/10 (Canard PC)
 		- Rien de transcendant mais rien de scandaleux
+	- [[BAFTA Games Awards]] 2026 (British Game)
 - **Gameplay** :
 - **Durée estimée** : 15h
 

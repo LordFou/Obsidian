@@ -14,9 +14,10 @@ type: personne
 - **Meilleur Classement** : 183e
 
 # Palmarès et Distinctions
-| Année | Compétition                           | Résultat | Remarque |
-| ----- | ------------------------------------- | -------- | -------- |
-| 2025  | Coupe d’Europe - Malaga - moins 60 kg | 2e       |          |
+| Année | Compétition                      | Résultat | Remarque |
+| ----- | -------------------------------- | -------- | -------- |
+| 2025  | Coupe d’Europe - Malaga (-60 kg) | 2e       |          |
+| 2026  | Euro judo (-60kg)                | 1e tour  |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

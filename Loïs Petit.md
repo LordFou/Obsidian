@@ -18,7 +18,7 @@ type: personne
 | 2025  | [[European Open de Benidorm]] (-48kg)       | Bronze   |          |
 | 2025  | [[Championnat de Belgique de Judo]] (-48kg) | Or       |          |
 | 2025  | [[Grand Prix de Zagreb]] (- 48kg)           | Bronze   | Ippon    |
-|       |                                             |          |          |
+| 2026  | Euro judo (-48kg)                           | 1e tour  |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -22,6 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- 7/10 (Canard PC)
+	- [[BAFTA Games Awards]] 2026 (Audio - Animation)
 - **Gameplay** :
 - **Durée estimée** : 
 

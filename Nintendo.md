@@ -27,6 +27,7 @@ content:
 | Année | Titre                | Genre  | Plateformes |
 | ----- | -------------------- | ------ | ----------- |
 | 2025  | [[Mario Kart World]] | Course | Switch      |
+| 2026  | [[Tomodatchi Life]]  |        |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

@@ -26,7 +26,7 @@ content:
 ## Jeux Développés
 | Année | Titre                 | Genre  | Plateformes |
 | ----- | --------------------- | ------ | ----------- |
-| XXXX  | [[Super Meat Boy 3D]] | Action | PC          |
+| 2026  | [[Super Meat Boy 3D]] | Action | PC          |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

@@ -16,7 +16,7 @@ type: personne
 | Année | Compétition                                                                          | Résultat | Remarque |
 | ----- | ------------------------------------------------------------------------------------ | -------- | -------- |
 | 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - Kilomètre | 1ier     |          |
-|       |                                                                                      |          |          |
+| 2026  | Meeting international de cyclisme sur piste de Gand - Course par élimination         | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

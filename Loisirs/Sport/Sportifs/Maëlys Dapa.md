@@ -17,6 +17,8 @@ type: personne
 | ----- | -------------------------------------- | -------- | -------- |
 | 2024  | Championnat de Belgique - Seniors      | 1iere    | 15 ans   |
 | 2025  | Championnats du Monde - Cadets (-48kg) | 2e       | 16 ans   |
+| 2026  | Euro judo - Seniors (-48kg)            | 1e tour  |          |
+|       |                                        |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

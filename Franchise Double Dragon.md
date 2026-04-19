@@ -24,7 +24,7 @@ content:
 ## Jeux principaux
 | Titre                  | Année | Plateformes | Remarque |
 | ---------------------- | ----- | ----------- | -------- |
-| [[Double Dragon]]      |       |             |          |
+| [[Double Dragon]]      | 1987  |             |          |
 | [[Double Dragon Neon]] |       |             |          |
 
 
