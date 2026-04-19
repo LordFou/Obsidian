@@ -6,14 +6,14 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : Action, Roguelite
+	- Studio : [[Stubby Games]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : PC
+- **Éditeur** : [[Playstack]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : 
+- **Genre** : [[FPS]], [[Roguelite]]
 - **Résumé** : 
 
 ## Détails Techniques

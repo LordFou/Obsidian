@@ -1,26 +1,27 @@
 ---
 type: game
 ---
-
-# Balatro
+![image]({{ image }})
+# Bulletstorm
 
 ## Informations Générales
 
-- **Année de sortie** : 2024 ?
+- **Année de sortie** :  {{ year }}
 - **Développeur** : 
-	- Studio : 
+	- Studio : {{ developers }}
 	- Personnalités : 
-- **Éditeur** : [[Playstack]]
+- **Éditeur** : {{ publishers }}
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
-- **Résumé** : 
+- **Genre** : {{ genres }}
+- **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
+	- Steam Rating : {{ onlineRating }}
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -37,6 +38,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL       |
+| ----------- | --------- |
+| Wiki        | {{ url }} |
