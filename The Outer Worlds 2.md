@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : [[Xbox Games Studio]]
 - **Plateformes** : [[PC]], [[XBox One]], [[Xbox Series]], [[Playstation 4]], [[Playstation 5]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[RPG]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -27,6 +27,7 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- Système Solaire Arcadia
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
