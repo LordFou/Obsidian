@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Outerloop Games
+# Interabang Entertainment
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,10 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre               |
-| ----- | ------------------- |
-| 2023  | [[Thirsty Suitors]] |
-| 2026  | [[Dosa Divas]]      |
+| Année | Titre                                        |
+| ----- | -------------------------------------------- |
+| 2026  | [[Jay and Silent Bob - Chronic Blunt Punch]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

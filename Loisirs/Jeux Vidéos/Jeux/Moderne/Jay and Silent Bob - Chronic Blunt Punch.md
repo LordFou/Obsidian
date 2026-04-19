@@ -1,43 +1,41 @@
 ---
 type: game
 subType: ""
-title: Dosa Divas
-englishTitle: Dosa Divas
+title: "Jay and Silent Bob: Chronic Blunt Punch"
+englishTitle: "Jay and Silent Bob: Chronic Blunt Punch"
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2950710
-id: 2950710
+url: https://store.steampowered.com/app/1346290
+id: 1346290
 developers:
-  - Outerloop Games
+  - Interabang Entertainment
 publishers:
-  - Outerloop Games
-  - Outersloth
+  - Atari
+  - Digital Eclipse
 genres:
   - Action
-  - Adventure
   - Indie
-  - RPG
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950710/c0c89ccd2e684e6b89fd0fc2130be4a1030ea3ce/header.jpg?t=1776172270
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1346290/149a880dcf5c17248f317948abe4156ddc204548/header.jpg?t=1775172339
 released: true
-releaseDate: 14/04/2026
+releaseDate: 20/04/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950710/c0c89ccd2e684e6b89fd0fc2130be4a1030ea3ce/header.jpg?t=1776172270)
-# Dosa Divas
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1346290/149a880dcf5c17248f317948abe4156ddc204548/header.jpg?t=1775172339)
+# Jay and Silent Bob: Chronic Blunt Punch
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Outerloop Games]]
+	- Studio : [[Interabang Entertainment]]
 	- Personnalités : 
-- **Éditeur** : [[Outerloop Games]], [[Outersloth]]
-- **Plateformes** : [[PC]], [[Xbox Series]], [[Switch 2]]
+- **Éditeur** : [[Atari]], [[Digital Eclipse]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[RPG]]
+- **Genre** : [[Beat'em up]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -46,7 +44,6 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
-	- CheckPoint (8/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -54,11 +51,8 @@ tags: mediaDB/game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
-	- Samara
-	- Amani
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- Relations familiales
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
@@ -68,5 +62,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/2950710       |
-| Trailer     | https://youtu.be/bogYlMcNb80?si=2t8K8MWBrAHvLXb1 |
+| Steam       | https://store.steampowered.com/app/1346290       |
+| Trailer     | https://youtu.be/fjpw5Wbgk9M?si=Kd4s37tEq-XnYt-R |
