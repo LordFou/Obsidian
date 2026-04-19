@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d1cdc0ccdb76b077",
+        "id": "b545c40b37fc68b6",
         "type": "tabs",
         "children": [
           {
-            "id": "89e5d696d7e8a324",
+            "id": "c929e4924b274d50",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Journal de bord/2026-04-19.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "2026-04-19"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Amstel",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -205,8 +206,21 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "89e5d696d7e8a324",
+  "active": "c929e4924b274d50",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
+    "Loisirs/Sport/Compétitions/Tour du Limbourg.md",
+    "Loisirs/Sport/Sportifs/Mathieu van der Poel.md",
+    "Tour du Limbourg.md",
+    "Milan Fretin.md",
+    "Dylan Groenewegen.md",
+    "Journal de bord/2026-04-19.md",
+    "Tim Merlier.md",
+    "Roos Vanotterdijk.md",
+    "Loisirs/Sport/Arnaud de Lie.md",
+    "Loisirs/Sport/Sportifs/Wout Van Aert.md",
+    "Journal de bord/Archives/2025-08-03.md",
+    "Journal de bord/Archives/2025-07-14.md",
     "conflict-files-obsidian-git.md",
     "Loisirs/Sport/Compétitions/GP de l'Escaut.md",
     "Yoshihisa Kishimoto.md",
@@ -220,19 +234,6 @@
     "Playside.md",
     "Pawel Ulmer.md",
     "Outersloth.md",
-    "Outerloop Games.md",
-    "Night Street Games.md",
-    "Metro 2039.md",
-    "Loisirs/Jeux Vidéos/Sociétés/ZA-UM.md",
-    "Loisirs/Jeux Vidéos/Périphériques/TI99-4A.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Regions of Ruin - Runegate.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Prove You're Human.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Chicken Police - Paint it RED!.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Bloodborne.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Angel Engine.md",
-    "Loisirs/Jeux Vidéos/Jeux/Franchise/Franchise Metro.md",
-    "Liquid Swords.md",
-    "Klei Entertainment.md",
     "Attachments/image-531.webp",
     "Attachments/image-530.webp",
     "Attachments/image-529.webp",
