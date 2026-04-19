@@ -11,6 +11,7 @@ type: game
 	- Studio : [[Kojima Productions]]
 	- Personnalités : 
 		- [[Hideo Kojima]]
+		- [[Ludvig Forssell]] (Compositeur)
 - **Éditeur** : [[505 Games]]
 - **Plateformes** : PC
 - **Franchise** : [[Franchise Death Stranding|Death Stranding]]
@@ -20,10 +21,11 @@ type: game
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : 3D
-- **Audio** : (Type de musique, Bande-son notable)
+- **Audio** : 
+	- En dehors des morceaux musicaux, l'ambiance sonore est plus discrète : le son de la nature.
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
-	- On transporte donc des colis et la physique (Loi de Newton) joue tout son rôle : il faut constamment trouver et garder son équilibre.
+	- On transporte donc des colis et la physique ([[Loi de Newton]]) joue tout son rôle : il faut constamment trouver et garder son équilibre.
 	- La vaste étendue du monde est aussi centrale au jeu. La nature a repris son droit sur le genre humain.
 - **Durée estimée** : 
 
@@ -35,6 +37,8 @@ type: game
 	- Sam Porter Bridges
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[La solitude]]
+	- La contemplation du monde qui nous entoure
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
