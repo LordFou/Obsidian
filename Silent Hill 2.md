@@ -29,7 +29,13 @@ type: game
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
-- **Thèmes abordés** : 
+- **Thèmes abordés** :
+	- le [[deuil]]
+	- le [[harcèlement]]
+	- le [[viol]]
+	- le [[suicide]]
+	- la [[Dépression]]
+	- la [[culpabilité]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
