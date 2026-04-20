@@ -29,3 +29,11 @@ Pouvez-vous répondre à nos questions par mail ?
 
 Merci d'avance
 
+-------------------------
+
+- Proximus
+- Haie à l'arrière...
+- Végétation à l'avant
+- Boite aux lettres
+- Egout 
+- Reste du Barbec

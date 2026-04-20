@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Fran Vanhoutte.md",
+                "file": "Travaux Cour - 2e Partie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fran Vanhoutte"
+              "title": "Travaux Cour - 2e Partie"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Fran Vanhoutte",
+                "query": "travaux",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,8 +205,9 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "acbfcced6e5eac9a",
+  "active": "c929e4924b274d50",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Fran Vanhoutte.md",
     "Demi Vollering.md",
     "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
     "Katarzyna Niewiadoma.md",
@@ -233,7 +233,6 @@
     "Loisirs/Sport/Compétitions/Tour du Limbourg.md",
     "Loisirs/Sport/Sportifs/Mathieu van der Poel.md",
     "Tour du Limbourg.md",
-    "Milan Fretin.md",
     "Attachments/image-531.webp",
     "Attachments/image-530.webp",
     "Attachments/image-529.webp",
