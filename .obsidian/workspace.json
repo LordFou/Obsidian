@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Silent Hill 2.md",
+                "file": "Journal de bord/2026-04-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Silent Hill 2"
+              "title": "2026-04-21"
             },
             "group": "a8fe30434df061e2"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Silent Hill 2.md",
+                "file": "Journal de bord/2026-04-21.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Silent Hill 2"
+              "title": "Graphique de 2026-04-21"
             },
             "group": "a8fe30434df061e2"
           }
@@ -254,8 +254,9 @@
   },
   "active": "d16b531ed72169e2",
   "lastOpenFiles": [
-    "Bloober Team.md",
     "Silent Hill 2.md",
+    "Journal de bord/2026-04-21.md",
+    "Bloober Team.md",
     "Journal de bord/2026-04-19.md",
     "Death Stranding.md",
     "Dépression.md",
@@ -280,7 +281,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Clair Obscur - Expedition 33.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Yunyun Syndrome! Rhythm Psychosis.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Titanium Court.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Kiln.md",
     "Attachments/image-531.webp",
     "Attachments/image-530.webp",
     "Attachments/image-529.webp",
