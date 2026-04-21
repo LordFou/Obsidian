@@ -76,7 +76,7 @@ type: personne
 | 2026  | [[Tour de Catalogne]] - 5e étape                                                 | 6e       | Conséquence de la chute ?                                                                                             |
 | 2026  | [[Tour de Catalogne]] - Classement final                                         | 5e       |                                                                                                                       |
 | 2026  | [[Tour des Flandres]]                                                            | 3e       | Première fois qu'il participe à cette course                                                                          |
-|       |                                                                                  |          |                                                                                                                       |
+| 2026  | [[Amstel Gold Race]]                                                             | 1ier     |                                                                                                                       |
 ## Historique
 ```timeline-labeled
 [line-5, body-2]

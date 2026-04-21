@@ -12,9 +12,12 @@
   "obsidian-icon-folder",
   "obsidian-hypothesis-plugin",
   "obsidian-git",
-  "various-complements",
   "table-editor-obsidian",
   "obsidian-media-db-plugin",
   "image-converter",
+<<<<<<< HEAD
   "extended-graph"
+=======
+  "various-complements"
+>>>>>>> origin/main
 ]

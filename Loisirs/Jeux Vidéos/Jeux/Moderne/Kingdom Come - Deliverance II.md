@@ -13,6 +13,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : [[Deep Silver]]
 - **Plateformes** : All
+- **Franchise** : [[Franchise Kingdom Come]]
 - **Genre** : [[RPG]], [[Action]]
 - **Résumé** : vous êtes un pauvre bougre et devez remonter dans la société médiévale. Et pour cela, vous apprendrez la vie dans la bohème de cet époque.
 

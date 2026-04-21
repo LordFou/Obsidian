@@ -16,8 +16,10 @@ type: personne
 | Année | Compétition                             | Résultat | Remarque |
 | ----- | --------------------------------------- | -------- | -------- |
 | 2025  | [[Tour d'Espagne]] - Maillot Jeune      | 1ier     |          |
+|       |                                         |          |          |
 | 2026  | [[Tour de Provence]] - 2e étape         | 1ier     |          |
 | 2026  | [[Tour de Provence]] - Classement final | 1ier     |          |
+| 2026  | [[Tour du Jura]]                        | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

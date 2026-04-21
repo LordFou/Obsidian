@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Playstack]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :

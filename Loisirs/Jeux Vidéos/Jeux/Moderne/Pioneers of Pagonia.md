@@ -12,7 +12,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** :  [[Envision]] 
 - **Plateformes** : 
-- **Franchise** : [[Franchise The Settlers]]
+- **Franchise** : 
 - **Genre** : [[City-Builder]]
 - **Résumé** : 
 
@@ -31,6 +31,7 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Franchise The Settlers]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

@@ -26,9 +26,12 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Arkham]]
 - **Epoque** : 
 	- [[La grande dépression]]
+	- 1933
 - **Personnages principaux** : 
+	- Jack Foster
 - **Ennemis** :
 - **Thèmes abordés** : 
 	- [[Lovecraft]]

@@ -9,12 +9,12 @@ Une des plus célèbres courses belges de cyclisme de la planète à cause de sa
 
 # Hommes
 
-| Année | Vainqueur                  | Nationalité | Remarque                              |
-| ----- | -------------------------- | ----------- | ------------------------------------- |
-| 2025  | [[Tadej Pogacar\|Tadej Pogacar]] | Slovène     | 8e Thibault Nys<br>9e Remco Evenepoel |
-|       |                            |             |                                       |
-|       |                            |             |                                       |
-|       |                            |             |                                       |
+| Année | Vainqueur                        | Nationalité | Remarque                                        |
+| ----- | -------------------------------- | ----------- | ----------------------------------------------- |
+| 2025  | [[Tadej Pogacar\|Tadej Pogacar]] | Slovène     | 8e - [[Thibau Nys]]<br>9e - [[Remco Evenepoel]] |
+| 2026  |                                  |             |                                                 |
+|       |                                  |             |                                                 |
+|       |                                  |             |                                                 |
 # Femmes
 
 | Année | Vainqueur         | Nationalité | Remarque |
