@@ -20,6 +20,7 @@ type: personne
 | 2025  | [[Championnat du Monde de Cyclisme\|Championnat du Monde]] - CLM | 3e 🥉    |              |
 | 2026  | [[UAE Tour]] - 1e étape                                          | 6e       |              |
 | 2026  | [[Tirreno-Adriatico]]                                            | Abandon  | Maladie      |
+|       |                                                                  |          |              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -28,7 +29,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Un virus l'empêche de participer aux classiques ardennaises 2026.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

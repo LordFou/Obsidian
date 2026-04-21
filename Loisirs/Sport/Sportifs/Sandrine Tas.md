@@ -5,7 +5,7 @@ type: personne
 # Sandrine Tas
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** : 1996
 - **Nationalité** :  Belge
 - **Sport / Discipline** :  [[Patinage de vitesse]], [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
@@ -29,8 +29,8 @@ title: Terme de sa carrière de [[Patinage de vitesse]]
 content: Elle referme ce chapitre
 
 date: Avril 2026
-title: 
-content:
+title: Début de sa carrière en [[Cyclisme]] professionnel
+content: Au sein de [[Lotto - Intermarché]]
 ```
 
 # Style et Caractéristiques

@@ -11,6 +11,7 @@ Une des plus célèbres courses belges de cyclisme de la planète à cause de sa
 
 | Année | Vainqueur                        | Nationalité | Remarque                                        |
 | ----- | -------------------------------- | ----------- | ----------------------------------------------- |
+| 2024  | [[Stephen Willams]]              | Anglais     |                                                 |
 | 2025  | [[Tadej Pogacar\|Tadej Pogacar]] | Slovène     | 8e - [[Thibau Nys]]<br>9e - [[Remco Evenepoel]] |
 | 2026  |                                  |             |                                                 |
 |       |                                  |             |                                                 |
