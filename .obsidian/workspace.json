@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tommaso Dati.md",
+                "file": "Loisirs/Sport/Sportifs/Sandrine Tas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tommaso Dati"
+              "title": "Sandrine Tas"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour des Alpes",
+                "query": "Sandrine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,7 +209,10 @@
   },
   "active": "d16b531ed72169e2",
   "lastOpenFiles": [
+    "Attachments/image-535.webp",
     "Loisirs/Sport/Compétitions/Tour des Alpes.md",
+    "Tom Pidcock.md",
+    "Attachments/image-534.webp",
     "Tommaso Dati.md",
     "Nina Sterckx.md",
     "Attachments/image-533.webp",
@@ -233,8 +237,6 @@
     "The Textorcist.md",
     "The Outer Zone.md",
     "The Astronauts.md",
-    "Tempo Lab Games.md",
-    "Stubby Games.md",
     "Attachments/image-532.webp",
     "Attachments/image-531.webp",
     "Attachments/image-530.webp",
@@ -243,7 +245,6 @@
     "Attachments/image-527.webp",
     "Attachments/image-29.webp",
     "Attachments/image-526.webp",
-    "Attachments/image-525.webp",
     "Sans titre",
     "TI-99",
     "Media DB/wiki",

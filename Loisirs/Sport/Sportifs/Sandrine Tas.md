@@ -1,15 +1,15 @@
 ---
 type: personne
 ---
-![[image-307.webp]]
+![[image-307.webp]] ![[image-535.webp]]
 # Sandrine Tas
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Patinage de vitesse]]
+- **Sport / Discipline** :  [[Patinage de vitesse]], [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Lotto - Intermarché]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
@@ -22,9 +22,19 @@ type: personne
 | 2026  | [[JO 2026]] - Mass Start                                            |          |                                                            |
 | 2026  | [[JO 2026]] - 1500m                                                 |          |                                                            |
 | 2026  | [[JO 2026]] - Poursuite par équipe                                  | 6e       |                                                            |
+```timeline-labeled
+[line-5, body-2]
+date: [[JO 2026]] 
+title: Terme de sa carrière de [[Patinage de vitesse]]
+content: Elle referme ce chapitre
+
+date: Avril 2026
+title: 
+content:
+```
 
 # Style et Caractéristiques
-Décrire le style de jeu, les points forts/faibles, les particularités.
+- 
 
 # Records et Faits Marquants
 - Record de Belgique

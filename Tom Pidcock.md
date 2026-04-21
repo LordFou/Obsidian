@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-534.webp]]
 # Tom Pidcock
 
 # Informations Générales
