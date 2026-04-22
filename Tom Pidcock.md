@@ -23,6 +23,7 @@ type: personne
 | 2026  | [[Milan-Turin]]                  | 1ier     |                           |
 | 2026  | [[Milan San Remo]]               | 2e       |                           |
 | 2026  | [[Tour de Catalogne]]            | Abandon  | Chute lors de la 5e étape |
+| 2026  | [[Tour des Alpes]] - 3e étape    | 1ier     |                           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
