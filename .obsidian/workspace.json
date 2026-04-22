@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "T",
+                "query": "tulett",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,7 +207,7 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "d16b531ed72169e2",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
     "Mauro Schmid.md",
     "Loisirs/Sport/Compétitions/Flèche Wallonne.md",

@@ -11,6 +11,8 @@ Une des plus célèbres courses belges de cyclisme de la planète à cause de sa
 
 | Année | Vainqueur                        | Nationalité | Remarque                                        |
 | ----- | -------------------------------- | ----------- | ----------------------------------------------- |
+|       | Laurent Jalabert                 |             |                                                 |
+|       |                                  |             |                                                 |
 |       | [[Bo Hamburger]]                 | Américain   |                                                 |
 |       | [[Marc Hirschi]]                 | Suisse      |                                                 |
 | 2024  | [[Stephen Willams]]              | Anglais     |                                                 |
