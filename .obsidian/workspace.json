@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b545c40b37fc68b6",
+        "id": "9fe445da2cd64bae",
         "type": "tabs",
         "children": [
           {
-            "id": "c929e4924b274d50",
+            "id": "48c9814a16045369",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travaux Cour - 2e Partie.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Travaux Cour - 2e Partie"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -205,8 +201,9 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "c929e4924b274d50",
+  "active": "48c9814a16045369",
   "lastOpenFiles": [
+    "Travaux Cour - 2e Partie.md",
     "Loisirs/Sport/Sportifs/Fran Vanhoutte.md",
     "Demi Vollering.md",
     "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
@@ -232,7 +229,6 @@
     "Journal de bord/2026-04-19.md",
     "Loisirs/Sport/Compétitions/Tour du Limbourg.md",
     "Loisirs/Sport/Sportifs/Mathieu van der Poel.md",
-    "Tour du Limbourg.md",
     "Attachments/image-531.webp",
     "Attachments/image-530.webp",
     "Attachments/image-529.webp",
