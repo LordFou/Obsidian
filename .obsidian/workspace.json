@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Flèche",
+                "query": "T",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,12 +207,14 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "dbacc6f984f28690",
+  "active": "d16b531ed72169e2",
   "lastOpenFiles": [
+    "Mauro Schmid.md",
+    "Loisirs/Sport/Compétitions/Flèche Wallonne.md",
+    "Paul Seixas.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Tides of Tomorrow.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Windrose.md",
     "Loisirs/Sport/Sportifs/Victor Wembanyama.md",
-    "Loisirs/Sport/Compétitions/Flèche Wallonne.md",
     "Ilan Van Wilder.md",
     "Loisirs/Sport/Sportifs/Sandrine Tas.md",
     "Attachments/image-535.webp",
@@ -236,8 +238,6 @@
     "conflict-files-obsidian-git.md",
     "ln404.md",
     "akinat0.md",
-    "Videoludid.md",
-    "Veronica Pazos.md",
     "Attachments/image-532.webp",
     "Attachments/image-531.webp",
     "Attachments/image-530.webp",

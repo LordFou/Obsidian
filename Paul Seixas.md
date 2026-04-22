@@ -5,7 +5,7 @@ type: personne
 # Paul Seixas
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  2007
 - **Nationalité** :  Français
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
@@ -27,12 +27,13 @@ type: personne
 | 2026  | [[Tour du Pays Basque]] - 2e étape                          | 1ier     |          |
 | 2026  | [[Tour du Pays Basque]] - 5e étape                          | 1ier     |          |
 | 2026  | [[Tour du Pays Basque]] - Classement final                  | 1ier     |          |
+| 2026  | [[Flèche Wallonne]]                                         | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Plus jeune vainqueur de la [[Flèche Wallonne]] en 2026 (19 ans)
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
