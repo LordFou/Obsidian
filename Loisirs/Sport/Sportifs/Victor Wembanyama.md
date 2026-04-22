@@ -11,11 +11,12 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
+- **Surnom** : Wemby
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition                         | Résultat | Remarque |
+| ----- | ----------------------------------- | -------- | -------- |
+| 2026  | NBA - Meilleur défenseur de l'année | Nominé   |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -25,7 +26,7 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
 - Blessé au mollet en novembre 2025
-- 
+- Commotion en avril 2026 
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

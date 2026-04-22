@@ -1,0 +1,2 @@
+- Avril 2026
+	- Le semi-marathon de Pékin démontre que les robots peuvent courir plus vite que les humains. Il y avait une centaine de participants robots cette année. Record : 50min.26sec

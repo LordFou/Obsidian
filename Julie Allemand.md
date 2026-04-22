@@ -27,6 +27,8 @@ content: La meneuse des [[Belgian Cats]] et de Fenerbahce poursuivra cette anné
 | 2025  | Meilleure Joueuse - Euroligue - Novembre 2025 |            | https://youtu.be/WX6vGruL_DI |
 | 2026  | Coupe de Turquie                              | Vainqueure | Avec Fenerbahçe              |
 | 2026  | Championnat de Turquie                        | Vainqueure | Avec Fenerbahçe              |
+| 2026  | Euroligue                                     | Vainqueure | Avec Fenerbahçe              |
+| 2026  | Euroligue - MVP                               | Nominée    | Avec Fenerbahçe              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

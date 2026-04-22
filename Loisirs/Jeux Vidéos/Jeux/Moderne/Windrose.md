@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : [[Windrose Crew]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Survie]], [[RPG]]
 - **Résumé** : On incarne un pirate, capitaine d'un vaisseau naviguant les Caraïbes et se battant à coups de canons ou de rapière.
 
 ## Détails Techniques

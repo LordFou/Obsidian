@@ -1,25 +1,21 @@
 ---
 type: personne
 ---
-
-# Brent Van Doninck
+![[image-533.webp]]
+# Nina Sterckx
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Motocross]]
+- **Sport / Discipline** :  [[Haltérophilie]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition             | Résultat | Remarque |
-| ----- | ----------------------- | -------- | -------- |
-| 2026  | Grand Prix d'Argentine  | 12e      |          |
-| 2026  | Grand Prix d'Andalousie | 17e      |          |
-| 2026  | Grand Prix de Suisse    | 33e,34e  |          |
-| 2026  | Grand Prix de Sardaigne | 16e      |          |
-| 2026  | Grand Prix du Trentin   | 21e      |          |
+| Année | Compétition                          | Résultat | Remarque |
+| ----- | ------------------------------------ | -------- | -------- |
+| 2026  | Championnats d'Haltérophilie (-53kg) | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -33,6 +29,6 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
-# Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |

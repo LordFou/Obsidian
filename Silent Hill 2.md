@@ -6,14 +6,14 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2001
 - **Développeur** : 
-	- Studio : [[Bloober Team]]
+	- Studio : [[Bloober Team]], [[Konami|Konami Tokyo]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Konami]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Survival Horror]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -29,7 +29,13 @@ type: game
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
-- **Thèmes abordés** : 
+- **Thèmes abordés** :
+	- le [[deuil]]
+	- le [[harcèlement]]
+	- le [[viol]]
+	- le [[suicide]]
+	- la [[Dépression]]
+	- la [[culpabilité]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
