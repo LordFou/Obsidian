@@ -18,10 +18,10 @@ type: game
 		- [[Camille Constantin Da Silva]] (Chanteuse, Doubleuse)
 		- [[Hyoie O’Grady]] (Doubleur)
 		- [[Adam Howden]] (Doubleur)
-		- Audrey Leprince
-		- Lauranne Cauduro
+		- [[Audrey Leprince]] (Fondatrice Studio)
+		- [[Lauranne Cauduro]] (Responsable Marketing)
 		- [[Martin Stig Andersen]] (Directeur Audio)
-		- The Toxic Avenger
+		- [[The Toxic Avenger]] (DJ)
 - **Éditeur** : 
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
@@ -51,7 +51,7 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- Le mont Kami
+	- Le mont Kami(la montagne aux 159 morts)
 - **Epoque** : 
 - **Personnages principaux** : 
 	- Aava
@@ -61,6 +61,7 @@ type: game
 	- [[Alpinisme]]
 	- [[La montagne]]
 - **Influencé par** :
+	- [[Bivouac]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

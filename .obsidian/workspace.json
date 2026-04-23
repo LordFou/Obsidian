@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "905dddd21869ac1c",
+        "id": "cbcac84a51e1cd21",
         "type": "tabs",
         "children": [
           {
-            "id": "d16b531ed72169e2",
+            "id": "4f6020b4d022f65a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Martin Stig Andersen.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Martin Stig Andersen"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Limbo",
+                "query": "Control",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -153,13 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Martin Stig Andersen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Martin Stig Andersen"
+              "title": "Plan"
             }
           },
           {
@@ -187,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,17 +200,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "4f6020b4d022f65a",
   "lastOpenFiles": [
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
+    "Audrey Leprince.md",
+    "The Game Bakers.md",
+    "Elisabeth Revol.md",
+    "The Toxic Avenger.md",
     "Martin Stig Andersen.md",
+    "Control.md",
+    "Inside.md",
+    "Limbo.md",
     "Attachments/Pasted image 20260423212942.png",
     "Mathieu Bablet.md",
     "Attachments/image-544.webp",
     "Emeric Thoa.md",
     "Attachments/image-543.webp",
     "Attachments/image-542.webp",
-    "The Game Bakers.md",
     "Haven.md",
     "Furi.md",
     "Attachments/image-541.webp",
@@ -235,12 +235,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Last Flag.md",
     "Street Fighter.md",
     "Loisirs/Jeux Vidéos/Jeux/Franchise/Franchise Metro.md",
-    "Dmitry Glukhovsky.md",
-    "Metro 2039.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/007 First Light.md",
-    "4A Games.md",
-    "Franchise Stalker.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Stalker 2.md",
     "Attachments/image-538.webp",
     "Attachments/image.png",
     "Attachments/image-537.webp",
@@ -256,3 +250,4 @@
     "Loisirs/Tourisme",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre"
   ]
+}
