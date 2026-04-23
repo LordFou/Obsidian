@@ -103,7 +103,7 @@
       "ffmpegPreset": "medium"
     }
   ],
-  "selectedConversionPreset": "None",
+  "selectedConversionPreset": "WEBP (75, no resizing)",
   "globalPresets": [
     {
       "name": "WebP 75",
@@ -206,7 +206,7 @@
         "resizeUnits": "pixels"
       }
     ],
-    "selectedResizePreset": "Default (No Resize)"
+    "selectedResizePreset": "Width 500px"
   },
   "resizeCursorLocation": "none",
   "dropPasteCursorLocation": "back",

@@ -2,17 +2,17 @@
 type: societe
 ---
 
-# 4A Games
+# GSC Game World
 
 ## Présentation
-- Studio ukrainien formé par un groupe de développeurs ayant quitté [[GSC Game World]] ([[Franchise Stalker]]) en 2006.
+Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
 
 ## Informations Générales
 - **Nom complet** :  
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  Ukraine
+- **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -24,9 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre      |
-| ----- | ---------- |
-| XXXX  | Nom du jeu |
+| Année | Titre         |
+| ----- | ------------- |
+| 2025  | [[Stalker 2]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

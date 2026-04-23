@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Franchise Metro
+# Franchise Stalker
 
 
 ## Informations générales
@@ -14,7 +14,7 @@ type: game
 - **Points Communs** :
 
 ## Résumé et historique
-- Cette franchise se base sur les romans de l'auteur [[Dmitry Glukhovsky]]
+{{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
 
 ```timeline-labeled
 [line-5, body-2]
@@ -23,12 +23,9 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                  | Année | Plateformes | Remarque |
-| ---------------------- | ----- | ----------- | -------- |
-| [[Metro 2033]]         | 2010  |             |          |
-| [[Metro - Last Light]] | 2013  |             |          |
-| [[Metro Exodus]]       | 2019  |             |          |
-| [[Metro 2039]]         | ?     |             |          |
+| Titre | Année | Plateformes | Remarque |
+| ----- | ----- | ----------- | -------- |
+|       |       |             |          |
 
 
 ## Mécaniques et innovations

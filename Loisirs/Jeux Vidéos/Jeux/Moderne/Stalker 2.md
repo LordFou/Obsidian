@@ -8,7 +8,7 @@ type: game
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[GSC Game World]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 

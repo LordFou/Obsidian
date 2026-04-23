@@ -2,14 +2,14 @@
 type: personne
 ---
 
-# Dimitry Glukhovsky
+# Dmitry Glukhovsky
 
 ## Présentation
 Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
 
 ## Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
+- **Nationalité** :  Russe
 - **Profession(s)** : [[Auteur]]
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 
@@ -60,7 +60,7 @@ if (tableData.length > 0) {
 Lister les prix et reconnaissances obtenues.
 
 ## Controverses ou Faits Marquants
-- il a du fuir l'[[Ukraine]] lors de la guerre contre la Russie.
+- il a du fuir la Russie pour avoir critiqué l'invasion russe
 
 | Description | URL |
 | ----------- | --- |
