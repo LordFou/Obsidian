@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Flèche Wallonne"
             }
+          },
+          {
+            "id": "2a1ba573b29e0ef3",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,13 +168,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Flèche Wallonne.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Flèche Wallonne"
+              "title": "Plan"
             }
           },
           {
@@ -205,8 +219,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d16b531ed72169e2",
+  "active": "2a1ba573b29e0ef3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Loisirs/Sport/Compétitions/Flèche Wallonne.md",
     "Demi Vollering.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Pokémon Pokopia.md",
     "Feardemic.md",
@@ -214,7 +230,6 @@
     "Elise Mertens.md",
     "Raphaël Collignon.md",
     "Journal de bord/2026-04-23.md",
-    "Loisirs/Sport/Compétitions/Flèche Wallonne.md",
     "Marta Cavalli.md",
     "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
     "Loisirs/Sport/Sportifs/Ben Tulett.md",
@@ -235,7 +250,6 @@
     "Nina Sterckx.md",
     "Attachments/image-533.webp",
     "Journal de bord/Archives/2025-04-15.md",
-    "Loisirs/Sport/Sportifs/Liam Everts.md",
     "Attachments/image-532.webp",
     "Attachments/image-531.webp",
     "Attachments/image-530.webp",

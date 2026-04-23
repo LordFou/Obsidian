@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                             | Résultat | Remarque |
 | ----- | --------------------------------------- | -------- | -------- |
 | 2025  | Superprestige - Cross Diegem            | 1ière    |          |
+| 2025  | [[Flèche Wallonne]]                     | 1ière    |          |
 | 2026  | CXWorldCup - 11e manche -  Maasmechelen | 1ière    |          |
 
 # Style et Caractéristiques
