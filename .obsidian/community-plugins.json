@@ -1,23 +1,13 @@
 [
-  "calendar",
-  "obsidian-outliner",
-  "dataview",
-  "templater-obsidian",
-  "obsidian-icon-shortcodes",
-  "obsidian-admonition",
-  "obsidian-mind-map",
   "obsidian-timeline",
   "supercharged-links-obsidian",
-  "obsidian-style-settings",
+  "various-complements",
+  "obsidian-mind-map",
+  "obsidian-media-db-plugin",
   "obsidian-icon-folder",
+  "image-converter",
+  "obsidian-icon-shortcodes",
   "obsidian-hypothesis-plugin",
   "obsidian-git",
-  "table-editor-obsidian",
-  "obsidian-media-db-plugin",
-  "image-converter",
-<<<<<<< HEAD
   "extended-graph"
-=======
-  "various-complements"
->>>>>>> origin/main
 ]
