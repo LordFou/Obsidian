@@ -9,5 +9,10 @@
   "obsidian-icon-shortcodes",
   "obsidian-hypothesis-plugin",
   "obsidian-git",
-  "extended-graph"
+  "extended-graph",
+  "dataview",
+  "calendar",
+  "table-editor-obsidian",
+  "obsidian-admonition",
+  "obsidian-style-settings"
 ]

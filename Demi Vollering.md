@@ -15,6 +15,8 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                 | Résultat | Remarque   |
 | ----- | ----------------------------------------------------------- | -------- | ---------- |
+| 2023  | [[Flèche Wallonne]]                                         | 1ière    |            |
+|       |                                                             |          |            |
 | 2025  | [[Tour de Suisse]] - 1e étape                               | 2e       | Sprint à 2 |
 | 2025  | [[Tour de France]] - 5e étape                               | 2e       | Sprint à 6 |
 | 2025  | [[Tour de France]] - Classement final                       | 2e       |            |
