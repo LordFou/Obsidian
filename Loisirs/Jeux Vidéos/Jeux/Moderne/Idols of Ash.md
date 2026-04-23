@@ -33,10 +33,10 @@ tags: mediaDB/game
 	- Studio : [[Leafy Games]]
 	- Personnalités : 
 - **Éditeur** : [[Leafy Games]]
-- **Plateformes** : PC
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : Adventure,Indie,Simulation
-- **Résumé** :  
+- **Genre** : [[Horreur]]
+- **Résumé** :  vous devez fuir un [[mille-pattes]] dans une caverne
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -63,3 +63,4 @@ tags: mediaDB/game
 | Description | URL       |
 | ----------- | --------- |
 | Wiki        | https://store.steampowered.com/app/4450800 |
+![[image-539.webp|500x261]]
