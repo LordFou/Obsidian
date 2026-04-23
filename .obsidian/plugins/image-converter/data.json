@@ -148,7 +148,7 @@
         "name": "Width 500px",
         "resizeDimension": "width",
         "width": 500,
-        "resizeScaleMode": "auto",
+        "resizeScaleMode": "reduce",
         "respectEditorMaxWidth": true,
         "maintainAspectRatio": true,
         "resizeUnits": "pixels"
@@ -221,7 +221,7 @@
     "desiredWidth": 300,
     "desiredHeight": 300,
     "desiredLongestEdge": 1000,
-    "enlargeOrReduce": "Auto",
+    "enlargeOrReduce": "Reduce",
     "allowLargerFiles": false,
     "pngquantExecutablePath": "",
     "pngquantQuality": "65-80",

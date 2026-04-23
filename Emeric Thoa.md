@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-543.webp|240x310]]
 # Emeric Thoa
 
 ## Présentation

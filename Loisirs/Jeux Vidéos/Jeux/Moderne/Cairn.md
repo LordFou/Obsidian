@@ -18,6 +18,8 @@ type: game
 		- [[Camille Constantin Da Silva]] (Chanteuse, Doubleuse)
 		- [[Hyoie O’Grady]] (Doubleur)
 		- [[Adam Howden]] (Doubleur)
+		- Audrey Leprince
+		- Lauranne Cauduro
 - **Éditeur** : 
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
@@ -62,6 +64,7 @@ type: game
 ## Anecdotes et Curiosités
 - 4 ans de prototypage
 - Entièrement financé en interne grâce aux 2 jeux précédents du studio.
+- [[Mathieu Bablet]] est engagé notamment car il est "grimpeur" et habite à Grenoble
 ## Liens et Ressources
 
 | Description                                   | URL                                                           |
