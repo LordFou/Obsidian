@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-536.webp]]
 # Lennart Jasch
 
 # Informations Générales
@@ -13,9 +13,9 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition          | Résultat                   | Remarque         |
-| ----- | -------------------- | -------------------------- | ---------------- |
-| 2026  | [[Tour des Alpes]]-  | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition                   | Résultat | Remarque |
+| ----- | ----------------------------- | -------- | -------- |
+| 2026  | [[Tour des Alpes]] - 4e étape | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

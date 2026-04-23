@@ -16,7 +16,7 @@ type: event
 | 1e (ITA) | [[Tommaso Dati]]  | [[Tommaso Dati]]      | [[Emanuel Zangerle]] | [[Tommaso Dati]] | [[Gabriele Bessega]]  |           |
 |          |                   |                       |                      |                  |                       |           |
 | 3e (ANG) | [[Tom Pidcock]]   | [[Giulio Pellizzari]] | [[Emanuel Zangerle]] | [[Tom Pidcock]]  | [[Giulio Pellizzari]] |           |
-| 4e (ALL) | [[Lennart Jasch]] |                       |                      |                  |                       |           |
+| 4e (ALL) | [[Lennart Jasch]] | [[Giulio Pellizzari]] |                      |                  |                       |           |
 ## Femmes
 
 ### Etapes
@@ -28,11 +28,10 @@ type: event
 
 ### Hommes
 
-
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur          | Nationalité | Remarque |
+| ----- | ------------------ | ----------- | -------- |
+| 2025  | [[Michael Storer]] | Australien  |          |
+| 2026  |                    |             |          |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

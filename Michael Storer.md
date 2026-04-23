@@ -7,16 +7,18 @@ type: personne
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Australien
-- **Sport / Discipline** :  Cyclisme
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  Tudor
+- **Équipe(s) / Club(s)** :  [[Tudor]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                    | Résultat          | Remarque |
-| ----- | ------------------------------ | ----------------- | -------- |
-| 2025  | [[Tour de France]] - 15e étape | Combattif du jour |          |
-| 2025  | [[Memorial Pantani]]           | 1ier              |          |
+| Année | Compétition                           | Résultat          | Remarque |
+| ----- | ------------------------------------- | ----------------- | -------- |
+| 2025  | [[Tour des Alpes]] - Classement final | 1ier              |          |
+| 2025  | [[Tour de France]] - 15e étape        | Combattif du jour |          |
+| 2025  | [[Memorial Pantani]]                  | 1ier              |          |
+|       |                                       |                   |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
