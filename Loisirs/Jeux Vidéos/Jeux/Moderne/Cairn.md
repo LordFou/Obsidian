@@ -20,6 +20,8 @@ type: game
 		- [[Adam Howden]] (Doubleur)
 		- Audrey Leprince
 		- Lauranne Cauduro
+		- [[Martin Stig Andersen]] (Directeur Audio)
+		- The Toxic Avenger
 - **Éditeur** : 
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 

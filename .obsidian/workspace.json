@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
+                "file": "Martin Stig Andersen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cairn"
+              "title": "Martin Stig Andersen"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cairn",
+                "query": "Limbo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
+                "file": "Martin Stig Andersen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Cairn"
+              "title": "Plan de Martin Stig Andersen"
             }
           },
           {
@@ -206,11 +206,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d16b531ed72169e2",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
+    "Martin Stig Andersen.md",
+    "Attachments/Pasted image 20260423212942.png",
     "Mathieu Bablet.md",
     "Attachments/image-544.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
     "Emeric Thoa.md",
     "Attachments/image-543.webp",
     "Attachments/image-542.webp",
@@ -239,11 +241,9 @@
     "4A Games.md",
     "Franchise Stalker.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Stalker 2.md",
-    "GSC Game World.md",
     "Attachments/image-538.webp",
     "Attachments/image.png",
     "Attachments/image-537.webp",
-    "Attachments/image-536.webp",
     "Sans titre",
     "TI-99",
     "Media DB/wiki",
@@ -256,4 +256,3 @@
     "Loisirs/Tourisme",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre"
   ]
-}
