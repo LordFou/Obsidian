@@ -11,11 +11,12 @@ type: event
 
 ### Etapes 
 
-|          | Vainqueur        | Général               | Montagne             | Points           | Jeune                 | Remarques |
-| -------- | ---------------- | --------------------- | -------------------- | ---------------- | --------------------- | --------- |
-| 1e (ITA) | [[Tommaso Dati]] | [[Tommaso Dati]]      | [[Emanuel Zangerle]] | [[Tommaso Dati]] | [[Gabriele Bessega]]  |           |
-|          |                  |                       |                      |                  |                       |           |
-| 3e (ANG) | [[Tom Pidcock]]  | [[Giulio Pellizzari]] | [[Emanuel Zangerle]] | [[Tom Pidcock]]  | [[Giulio Pellizzari]] |           |
+|          | Vainqueur         | Général               | Montagne             | Points           | Jeune                 | Remarques |
+| -------- | ----------------- | --------------------- | -------------------- | ---------------- | --------------------- | --------- |
+| 1e (ITA) | [[Tommaso Dati]]  | [[Tommaso Dati]]      | [[Emanuel Zangerle]] | [[Tommaso Dati]] | [[Gabriele Bessega]]  |           |
+|          |                   |                       |                      |                  |                       |           |
+| 3e (ANG) | [[Tom Pidcock]]   | [[Giulio Pellizzari]] | [[Emanuel Zangerle]] | [[Tom Pidcock]]  | [[Giulio Pellizzari]] |           |
+| 4e (ALL) | [[Lennart Jasch]] |                       |                      |                  |                       |           |
 ## Femmes
 
 ### Etapes
