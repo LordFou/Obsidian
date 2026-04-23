@@ -12,7 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  France
+- **Pays d’origine** :  France (Montpellier)
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -26,8 +26,8 @@ content:
 ## Jeux Développés
 | Année | Titre     |     |
 | ----- | --------- | --- |
-|       | [[Furi]]  |     |
-|       | [[Haven]] |     |
+| 2016  | [[Furi]]  |     |
+| 2020  | [[Haven]] |     |
 | 2026  | [[Cairn]] |     |
 
 ## Moteur(s) Utilisé(s)
