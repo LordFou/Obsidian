@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition          | Résultat | Remarque |
 | ----- | -------------------- | -------- | -------- |
 | 2026  | [[Amstel Gold Race]] | 1ier     |          |
+| 2026  | [[Flèche Wallonne]]  | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
