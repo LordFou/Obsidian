@@ -30,9 +30,8 @@ content: Trailer => https://youtu.be/B5oDnFEaOqk?si=UnqN5YCq8Ddz1DUE
 {{Analyse de la réception critique et populaire, ventes, influence sur d’autres jeux, adaptations en films, séries, livres...}}
 
 ## Anecdotes
-- {{Fait ou anecdote 1}}
-- {{Fait ou anecdote 2}}
-- {{Fait ou anecdote 3}}
+- Le jeu sortira en film en octobre 2026
+- 
 
 ## Liens connexes
 - [[Lien vers une autre note]] (ex: un jeu spécifique, un développeur)

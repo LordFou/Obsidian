@@ -51,6 +51,8 @@ Lister les prix, distinctions ou records obtenus.
 	- ![[image-335.webp]]
 - Mars 2026
 	- Licenciement de 105 emplois chez [[Red Storm]] mais Ubi ne ferme pas le studio pour continuer à bénéficier de la licence Tom Clancy sans payer  de royalties vu qu'ils ont acquis le studio et donc licence auparavant.
+- Avril 2026
+	- 200 postes en moins au QG Parisien
 
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.

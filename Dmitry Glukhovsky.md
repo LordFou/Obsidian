@@ -60,7 +60,7 @@ if (tableData.length > 0) {
 Lister les prix et reconnaissances obtenues.
 
 ## Controverses ou Faits Marquants
-- il a du fuir la Russie pour avoir critiqué l'invasion russe
+- il a du fuir la Russie pour avoir critiqué l'invasion russe en [[Ukraine]]
 
 | Description | URL |
 | ----------- | --- |
