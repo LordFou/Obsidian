@@ -11,10 +11,14 @@
             "id": "4f6020b4d022f65a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Journal de bord/2026-04-24.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "2026-04-24"
             }
           }
         ]
@@ -202,6 +206,7 @@
   },
   "active": "4f6020b4d022f65a",
   "lastOpenFiles": [
+    "Journal de bord/2026-04-24.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
     "Audrey Leprince.md",
     "The Game Bakers.md",
@@ -234,7 +239,6 @@
     "Loisirs/Jeux Vidéos/Non triés/GamePass (XBox).md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Last Flag.md",
     "Street Fighter.md",
-    "Loisirs/Jeux Vidéos/Jeux/Franchise/Franchise Metro.md",
     "Attachments/image-538.webp",
     "Attachments/image.png",
     "Attachments/image-537.webp",
