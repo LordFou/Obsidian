@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Control",
+                "query": "sworn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,7 +204,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f6020b4d022f65a",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
     "Journal de bord/2026-04-24.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
