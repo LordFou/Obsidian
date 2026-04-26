@@ -22,4 +22,4 @@ type: event
 | Année | Vainqueur              | Nationalité | Remarque |
 | ----- | ---------------------- | ----------- | -------- |
 | 2025  | [[Kimberley Le Court]] | Mauricienne |          |
-|       |                        |             |          |
+| 2026  | [[Demi Vollering]]     | Néerlandais |          |

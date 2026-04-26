@@ -28,6 +28,7 @@ type: personne
 | 2026  | [[Tour des Flandres]]                                       | 1ière    |            |
 | 2026  | [[Amstel Gold Race]]                                        | 3e       |            |
 | 2026  | [[Flèche Wallonne]]                                         | 1ière    |            |
+| 2026  | [[Liège-Bastogne-Liège]]                                    | 1ière    |            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

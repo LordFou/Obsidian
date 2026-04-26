@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elise Mertens.md",
+                "file": "Loisirs/Sport/Sportifs/Thibeau Spits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elise Mertens"
+              "title": "Thibeau Spits"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Elise Mer",
+                "query": "Thibeau Spits",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,8 +204,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dbacc6f984f28690",
+  "active": "4240a9f97f1ec44c",
   "lastOpenFiles": [
+    "Attachments/image-549.webp",
+    "Katarzyna Niewiadoma.md",
+    "Loisirs/Sport/Sportifs/Thibeau Spits.md",
+    "Loisirs/Sport/Sportifs/Puck Pieterse.md",
+    "Liège-Bastogne-Liège.md",
+    "Demi Vollering.md",
+    "Elise Mertens.md",
     "Stéphane Ogier.md",
     "Thierry Neuville.md",
     "Loisirs/Sport/Compétitions/Rallye des Iles Canaries.md",
@@ -220,7 +226,6 @@
     "Attachments/image-548.webp",
     "Loisirs/Sport/Compétitions/Flèche Wallonne.md",
     "Julian Alaphilippe.md",
-    "Liège-Bastogne-Liège.md",
     "Kimberley Le Court.md",
     "Thibau Nys.md",
     "Ben Healy.md",
@@ -229,12 +234,6 @@
     "Attachments/image-547.webp",
     "Loisirs/Sport/Compétitions/Tour des Asturies.md",
     "Movistar.md",
-    "Adria Pericas.md",
-    "Miguel Heidemann.md",
-    "Edgar David Cadena.md",
-    "Gabriel Layrac.md",
-    "Nairo Quintana.md",
-    "Marc Soler.md",
     "Attachments/image-546.webp",
     "Attachments/image-545.webp",
     "Attachments/Pasted image 20260423212942.png",
