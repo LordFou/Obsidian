@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demi Vollering.md",
+                "file": "Loisirs/Sport/Tadej Pogacar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Demi Vollering"
+              "title": "Tadej Pogacar"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Flèch",
+                "query": "Paul",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -132,8 +132,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,14 +208,17 @@
   },
   "active": "48c9814a16045369",
   "lastOpenFiles": [
+    "Liège-Bastogne-Liège.md",
+    "Paul Seixas.md",
+    "Loisirs/Sport/Tadej Pogacar.md",
+    "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
+    "Demi Vollering.md",
     "Loisirs/Sport/Le Sport Robotique.md",
     "Loisirs/Sport/Compétitions/Tournoi de Barcelone.md",
     "Loisirs/Sport/Compétitions/Tour des Alpes.md",
     "Journal de bord/2026-04-21.md",
     "Loisirs/Sport/Compétitions/Flèche Wallonne.md",
     "Loisirs/Sport/Sportifs/Puck Pieterse.md",
-    "Demi Vollering.md",
-    "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
     "conflict-files-obsidian-git.md",
     "Tournoi de Madrid.md",
     "Tommaso Dati.md",
@@ -235,9 +238,6 @@
     "Benoit Cosnefroy.md",
     "Loisirs/Sport/Compétitions/Flèche Brabançonne.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
-    "Liège-Bastogne-Liège.md",
-    "Loisirs/Sport/Tadej Pogacar.md",
-    "Loisirs/Sport/Compétitions/Tour des Alpes-Maritimes.md",
     "Attachments/image-531.webp",
     "Attachments/image-530.webp",
     "Attachments/image-529.webp",

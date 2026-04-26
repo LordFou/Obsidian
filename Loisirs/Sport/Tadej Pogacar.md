@@ -47,6 +47,7 @@ type: personne
 | 2026  | [[Milan San Remo]]                                         | 1ier     | Il tombe lourdement juste avant la [[Cipressa]] mais remonte sur son vélo, rattrape le peloton, remonte le peloton pour attaquer sur la fin du col et s'isoler en tête avec [[Mathieu van der Poel]] et [[Tom Pidcock]]. Ce dernier sera le seul à lui résister jusqu'au sprint final. |
 | 2026  | [[Tour des Flandres]]                                      | 1ier     |                                                                                                                                                                                                                                                                                        |
 | 2026  | [[Paris-Roubaix]]                                          | 2e       | Derrière [[Wout Van Aert]]                                                                                                                                                                                                                                                             |
+| 2026  | [[Liège-Bastogne-Liège]]                                   | 1ier     |                                                                                                                                                                                                                                                                                        |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -57,6 +58,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - 3 victoires consécutives aux [[Strade Bianche]] et 4 victoires au total. Il dépasse ainsi les victoires de [[Fabio Cancellara]]
 - 3 victoires au [[Tour des Flandres]] comme [[Tom Boonen]], [[Johan Museeuw]], [[Fabio Cancellara]],...
 - 4 victoires consécutives dans les 5 plus grands monuments cyclistes.
+- 4 victoires à [[Liège-Bastogne-Liège]]
 
 # Controverses ou Événements Importants
 - Il ne peut pas éviter la polémique du dopage (physique et mécanique) vu ses performances.
