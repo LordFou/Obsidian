@@ -63,20 +63,21 @@ type: personne
 | 2025  | [[Vélo de Cristal]]                                                              | 1ier 🏆  |                                                                                                                       |
 | 2025  | [[Sportif-Sportive Belge de l'année]]                                            | 1ier     |                                                                                                                       |
 |       |                                                                                  |          |                                                                                                                       |
-| 2026  | [[Trofeo Ses Salines]]                                                           | 1ier     | CLM par équipe avec [[Bora Redbull]]. =>  [[Challenge de Majorque]]                                                   |
-| 2026  | [[Trofeo Serra Tramuntana]]                                                      | 1ier     | 1'38 d'avance  => [[Challenge de Majorque]]                                                                           |
-| 2026  | [[Trofeo Andratx – Pollença]]                                                    | 1ier     | [[Challenge de Majorque]]                                                                                             |
-| 2026  | [[Tour de Valence]] - 2e étape                                                   | 1ier     | CLM                                                                                                                   |
-| 2026  | [[Tour de Valence]] - 3e étape                                                   | 1ier     |                                                                                                                       |
-| 2026  | [[Tour de Valence]] - Classement final                                           | 1ier     |                                                                                                                       |
-| 2026  | [[UAE Tour]] - 2e étape                                                          | 1ier     | CLM                                                                                                                   |
+| 2026  | [[Trofeo Ses Salines]]                                                           | ==1ier== | CLM par équipe avec [[Bora Redbull]]. =>  [[Challenge de Majorque]]                                                   |
+| 2026  | [[Trofeo Serra Tramuntana]]                                                      | ==1ier== | 1'38 d'avance  => [[Challenge de Majorque]]                                                                           |
+| 2026  | [[Trofeo Andratx – Pollença]]                                                    | ==1ier== | [[Challenge de Majorque]]                                                                                             |
+| 2026  | [[Tour de Valence]] - 2e étape                                                   | ==1ier== | CLM                                                                                                                   |
+| 2026  | [[Tour de Valence]] - 3e étape                                                   | ==1ier== |                                                                                                                       |
+| 2026  | [[Tour de Valence]] - Classement final                                           | ==1ier== |                                                                                                                       |
+| 2026  | [[UAE Tour]] - 2e étape                                                          | ==1ier== | CLM                                                                                                                   |
 | 2026  | [[UAE Tour]] - Classement final                                                  | 10e      | Contre perf ?                                                                                                         |
 | 2026  | [[Tour de Catalogne]] - 1e étape                                                 | 2e       | perdu d'un boyau                                                                                                      |
 | 2026  | [[Tour de Catalogne]] - 3e étape                                                 | Dernier  | Chute tout seul à 800m de la ligne alors qu'il était en tête avec [[Jonas Vingegaard]] (8 secondes devant le peloton) |
 | 2026  | [[Tour de Catalogne]] - 5e étape                                                 | 6e       | Conséquence de la chute ?                                                                                             |
 | 2026  | [[Tour de Catalogne]] - Classement final                                         | 5e       |                                                                                                                       |
 | 2026  | [[Tour des Flandres]]                                                            | 3e       | Première fois qu'il participe à cette course                                                                          |
-| 2026  | [[Amstel Gold Race]]                                                             | 1ier     |                                                                                                                       |
+| 2026  | [[Amstel Gold Race]]                                                             | ==1ier== |                                                                                                                       |
+| 2026  | [[Liège-Bastogne-Liège]]                                                         | 3e       |                                                                                                                       |
 ## Historique
 ```timeline-labeled
 [line-5, body-2]

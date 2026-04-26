@@ -28,6 +28,7 @@ type: personne
 | 2026  | [[Tour du Pays Basque]] - 5e étape                          | 1ier     |          |
 | 2026  | [[Tour du Pays Basque]] - Classement final                  | 1ier     |          |
 | 2026  | [[Flèche Wallonne]]                                         | 1ier     |          |
+| 2026  | [[Liège-Bastogne-Liège]]                                    | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

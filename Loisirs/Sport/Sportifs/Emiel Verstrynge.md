@@ -16,7 +16,10 @@ type: personne
 | Année | Compétition                               | Résultat | Remarque                          |
 | ----- | ----------------------------------------- | -------- | --------------------------------- |
 | 2025  | X2O - 6e manche - Cross Baal              | 2e       | Derrière [[Mathieu van der Poel]] |
+|       |                                           |          |                                   |
 | 2026  | [[Championnat de Belgique de Cyclocross]] | 2e       | Derrière [[Thibau Nys]]           |
+| 2026  | [[Amstel Gold Race]]                      | 5e       |                                   |
+| 2026  | [[Liège-Bastogne-Liège]]                  | 4e       |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
