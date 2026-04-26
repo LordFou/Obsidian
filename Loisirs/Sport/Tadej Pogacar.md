@@ -58,7 +58,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - 3 victoires consécutives aux [[Strade Bianche]] et 4 victoires au total. Il dépasse ainsi les victoires de [[Fabio Cancellara]]
 - 3 victoires au [[Tour des Flandres]] comme [[Tom Boonen]], [[Johan Museeuw]], [[Fabio Cancellara]],...
 - 4 victoires consécutives dans les 5 plus grands monuments cyclistes.
-- 4 victoires à [[Liège-Bastogne-Liège]]
+- 4 victoires à [[Liège-Bastogne-Liège]] dont 3 fois consécutives.
 
 # Controverses ou Événements Importants
 - Il ne peut pas éviter la polémique du dopage (physique et mécanique) vu ses performances.
