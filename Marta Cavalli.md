@@ -15,7 +15,8 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition          | Résultat | Remarque |
 | ----- | -------------------- | -------- | -------- |
-| 2022  | [[Amstel Gold Race]] | 1ier     |          |
+| 2022  | [[Amstel Gold Race]] | 1ière    |          |
+| 2022  | [[Flèche Wallonne]]  | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

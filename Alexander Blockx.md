@@ -11,7 +11,7 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
-- **Top Ranking** : 71
+- **Top Ranking** : 69
 
 # Palmarès et Distinctions
 | Année | Compétition                | Résultat   | Remarque                                  |
@@ -29,6 +29,7 @@ type: personne
 | 2026  | [[Tournoi de Cap Cana]]    | 2e tour    |                                           |
 | 2026  | [[Tournoi de Monte-Carlo]] | 1/8 finale | Défaite contre [[Alex de Minaur]] (ATP 6) |
 | 2026  | [[Tournoi de Munich]]      | 1/8 finale | Défaite contre [[Ben Shelton]] (ATP 6)    |
+| 2026  | [[Tournoi de Madrid]]      | 2e tour    |                                           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

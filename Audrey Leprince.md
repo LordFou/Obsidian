@@ -2,7 +2,7 @@
 type: personne
 ---
 
-# Dimitry Glukhovsky
+# Audrey Leprince
 
 ## Présentation
 Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
@@ -10,7 +10,7 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 ## Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  
-- **Profession(s)** : [[Auteur]]
+- **Profession(s)** : (Développeur, Designer, Compositeur, Journaliste, etc.)  
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 
 ```timeline-labeled
@@ -60,7 +60,7 @@ if (tableData.length > 0) {
 Lister les prix et reconnaissances obtenues.
 
 ## Controverses ou Faits Marquants
-- il a du fuir l'[[Ukraine]] lors de la guerre contre la Russie.
+Évoquer les polémiques ou événements notables liés à cette personne.
 
 | Description | URL |
 | ----------- | --- |

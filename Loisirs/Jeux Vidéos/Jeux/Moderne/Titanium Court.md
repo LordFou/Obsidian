@@ -33,7 +33,7 @@ tags: mediaDB/game
 - **Éditeur** : [[Fellow Traveller]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Stratégie]]
+- **Genre** : [[Stratégie]], [[Roguelike]], [[Match-3]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -42,6 +42,7 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
+	- ==CheckPoint (9/10)==
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -51,6 +52,7 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- Le [[Surréalisme]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

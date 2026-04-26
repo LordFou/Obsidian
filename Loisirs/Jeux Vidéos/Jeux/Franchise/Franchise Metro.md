@@ -14,7 +14,7 @@ type: game
 - **Points Communs** :
 
 ## Résumé et historique
-- Cette franchise se base sur les romans de l'auteur [[Dimitry Glukhovsky]]
+- Cette franchise se base sur les romans de l'auteur [[Dmitry Glukhovsky]]
 
 ```timeline-labeled
 [line-5, body-2]

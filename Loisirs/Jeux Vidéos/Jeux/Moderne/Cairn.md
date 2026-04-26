@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-![[image-293.webp]]
+ ![[image-541.webp|500x281]]
 # Cairn
 
 ## Informations Générales
@@ -18,6 +18,10 @@ type: game
 		- [[Camille Constantin Da Silva]] (Chanteuse, Doubleuse)
 		- [[Hyoie O’Grady]] (Doubleur)
 		- [[Adam Howden]] (Doubleur)
+		- [[Audrey Leprince]] (Fondatrice Studio)
+		- [[Lauranne Cauduro]] (Responsable Marketing)
+		- [[Martin Stig Andersen]] (Directeur Audio)
+		- [[The Toxic Avenger]] (DJ)
 - **Éditeur** : 
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
@@ -34,6 +38,7 @@ type: game
 	- Canard PC : 8/10
 		- Assez difficile mais en réalité, ça nous rend petit face à la montagne. Un peu le même sentiment que dans la réalité. Et malgré cette difficulté, on veut aller planter son drapeau en haut et vaincre le mont Kami
 	- 200K vente sur les 4 premiers jours du lancement
+	- Budget investi remboursé en moins d'un mois.
 - **Gameplay** :
 	- On peut vraiment expérimenter l'escalade de la montagne par n'importe quelle voie, vous êtes absolument libre, tout dépend de l'énergie de votre personnage et de vos mouvements.
 	- C'est une vraie simulation, le centre du gameplay est l'escalade.
@@ -46,7 +51,7 @@ type: game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- Le mont Kami
+	- Le mont Kami(la montagne aux 159 morts)
 - **Epoque** : 
 - **Personnages principaux** : 
 	- Aava
@@ -56,10 +61,13 @@ type: game
 	- [[Alpinisme]]
 	- [[La montagne]]
 - **Influencé par** :
+	- [[Bivouac]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - 4 ans de prototypage
+- Entièrement financé en interne grâce aux 2 jeux précédents du studio.
+- [[Mathieu Bablet]] est engagé notamment car il est "grimpeur" et habite à Grenoble
 ## Liens et Ressources
 
 | Description                                   | URL                                                           |
@@ -67,3 +75,4 @@ type: game
 | Trailer                                       | https://youtu.be/nhyMWuORSuA                                  |
 | Article Point & Think - Interview             | https://www.pointnthink.fr/fr/emeric-thoa-cairn/              |
 | Article Point & Think - Gameplay et sensation | https://www.pointnthink.fr/fr/cairn-on-ne-grimpe-jamais-seul/ |
+![[image-293.webp]]

@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# The Game Bakers
+# Leafy Games
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -11,9 +11,8 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Nom complet** :  
 - **Date de création** :  
 - **Fondateurs** :  
-	- [[Audrey Leprince]]
 - **Personnalités** :
-- **Pays d’origine** :  France (Montpellier)
+- **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -25,19 +24,16 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre     |     |
-| ----- | --------- | --- |
-| 2016  | [[Furi]]  |     |
-| 2020  | [[Haven]] |     |
-| 2026  | [[Cairn]] |     |
+| Année | Titre      |
+| ----- | ---------- |
+| XXXX  | Nom du jeu |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
 - Moteur 2
 
 ## Style et Influence
-- Leur jeu [[Furi]],[[Haven]] et [[Cairn]] font partie d'une trilogie thématique explorant différentes facettes de la liberté, vivre libre, aimer librement, puis chercher une liberté absolue, au prix de l’effort, du risque et du sacrifice.
-- La force de Game Bakers aujourd’hui c’est sa core team qui travaille ensemble et se fait confiance depuis 10-15 ans.
+Décrire le style graphique, les thématiques abordées, les influences notables.
 
 ## Succès et Récompenses
 Lister les prix, distinctions ou records obtenus.
@@ -48,6 +44,6 @@ Lister les prix, distinctions ou records obtenus.
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |

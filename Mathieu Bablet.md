@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-544.webp|240x310]]
 # Mathieu Bablet
 
 ## Présentation
@@ -15,7 +15,7 @@ type: personne
 - **Profession(s)** : 
 	- [[Directeur Créatif]]
 	- [[Directeur Artistique]]
-	- Bande Dessinée (mais quoi)
+	- Bande Dessinée 
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 
 ```timeline-labeled
@@ -65,7 +65,7 @@ if (tableData.length > 0) {
 Lister les prix et reconnaissances obtenues.
 
 ## Controverses ou Faits Marquants
-Évoquer les polémiques ou événements notables liés à cette personne.
+- C'est un montagnard
 
 ## Sources et Références
 - [Lien vers une source](#)

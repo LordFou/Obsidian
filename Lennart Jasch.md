@@ -1,22 +1,21 @@
 ---
 type: personne
 ---
-
-# Paula Blasi
+![[image-536.webp]]
+# Lennart Jasch
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Espagnole
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Nationalité** :  Allemand
+- **Sport / Discipline** :  [[Cyclisme]], [[Patinage de vitesse]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Tudor]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition          | Résultat | Remarque |
-| ----- | -------------------- | -------- | -------- |
-| 2026  | [[Amstel Gold Race]] | 1ier     |          |
-| 2026  | [[Flèche Wallonne]]  | 3e       |          |
+| Année | Compétition                   | Résultat | Remarque |
+| ----- | ----------------------------- | -------- | -------- |
+| 2026  | [[Tour des Alpes]] - 4e étape | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

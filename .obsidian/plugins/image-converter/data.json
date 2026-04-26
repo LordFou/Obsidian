@@ -148,7 +148,7 @@
         "name": "Width 500px",
         "resizeDimension": "width",
         "width": 500,
-        "resizeScaleMode": "auto",
+        "resizeScaleMode": "reduce",
         "respectEditorMaxWidth": true,
         "maintainAspectRatio": true,
         "resizeUnits": "pixels"
@@ -206,7 +206,7 @@
         "resizeUnits": "pixels"
       }
     ],
-    "selectedResizePreset": "Default (No Resize)"
+    "selectedResizePreset": "Width 500px"
   },
   "resizeCursorLocation": "none",
   "dropPasteCursorLocation": "back",
@@ -221,7 +221,7 @@
     "desiredWidth": 300,
     "desiredHeight": 300,
     "desiredLongestEdge": 1000,
-    "enlargeOrReduce": "Auto",
+    "enlargeOrReduce": "Reduce",
     "allowLargerFiles": false,
     "pngquantExecutablePath": "",
     "pngquantQuality": "65-80",
@@ -238,6 +238,7 @@
   "ProcessCurrentNoteskipImagesInTargetFormat": false,
   "ProcessCurrentNoteEnlargeOrReduce": "Always",
   "ProcessCurrentNoteSkipFormats": "tif,tiff,heic",
+  "ProcessCurrentNoteIgnoreFolders": "",
   "ProcessAllVaultconvertTo": "disabled",
   "ProcessAllVaultquality": 0.75,
   "ProcessAllVaultResizeModalresizeMode": "None",
@@ -316,12 +317,14 @@
     ]
   },
   "isImageAlignmentEnabled": true,
-  "imageAlignment_cacheCleanupInterval": 3600000,
-  "imageAlignment_cacheLocation": "plugin",
+  "imageAlignmentDefaultAlignment": "none",
+  "imageAlignmentCacheCleanupInterval": 3600000,
+  "imageAlignmentCacheLocation": "config",
   "isDragResizeEnabled": true,
   "isScrollResizeEnabled": true,
   "isDragAspectRatioLocked": true,
   "isResizeInReadingModeEnabled": true,
+  "disableObsidianImageSelectionOnClick": false,
   "resizeSensitivity": 0.1,
   "scrollwheelModifier": "Shift",
   "isImageResizeEnbaled": true,
@@ -331,6 +334,7 @@
   "enableContextMenu": true,
   "showSpaceSavedNotification": true,
   "revertToOriginalIfLarger": false,
+  "minimumCompressionSavingsInKB": 30,
   "enableImageCaptions": true,
   "skipCaptionExtensions": "icns",
   "captionFontSize": "var(--font-smaller)",
@@ -346,6 +350,8 @@
   "captionBorder": "none",
   "captionMarginTop": "4px",
   "captionAlignment": "center",
+  "imageAlignment_cacheCleanupInterval": 3600000,
+  "imageAlignment_cacheLocation": "plugin",
   "modalSessionState": {
     "customFolderOverride": "",
     "customFilenameOverride": "{imagename}"

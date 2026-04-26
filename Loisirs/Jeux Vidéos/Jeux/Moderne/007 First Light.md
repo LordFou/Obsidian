@@ -41,6 +41,7 @@ type: game
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - A été retardé une fois de Mars à Mai 2026
+- Présence de [[Lenny Kravitz]] ou en tout cas un personnage le représentant dans le jeu
 ## Liens et Ressources
 
 | Description      | URL                          |

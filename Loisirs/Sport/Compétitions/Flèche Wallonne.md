@@ -25,5 +25,6 @@ Une des plus célèbres courses belges de cyclisme de la planète à cause de sa
 | Année | Vainqueur          | Nationalité  | Remarque |
 | ----- | ------------------ | ------------ | -------- |
 | 2022  | [[Marta Cavalli]]  | Italienne    |          |
+| 2023  | [[Demi Vollering]] | Néerlandaise |          |
 | 2025  | [[Puck Pieterse]]  | Néerlandaise |          |
 | 2026  | [[Demi Vollering]] | Néerlandaise |          |

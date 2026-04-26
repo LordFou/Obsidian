@@ -8,7 +8,7 @@ type: game
 
 - **Année de sortie** : 2025
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[AP Thomson]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 

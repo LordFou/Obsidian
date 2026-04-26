@@ -20,7 +20,7 @@ type: game
 - **Résumé** :  
 
 ## Détails Techniques
-- **Moteur de jeu** : 
+- **Moteur de jeu** : [[4A Engine]]
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
@@ -40,9 +40,10 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- La guerre en Ukraine a fortement influencé le scénario de ce jeu ukrainien.
 ## Liens et Ressources
 
 | Description | URL       |
 | ----------- | --------- |
 | Wiki        | {{ url }} |
+![[image-538.webp|500x281]]

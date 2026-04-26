@@ -43,6 +43,7 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
+	- Enorme bide à la sortie
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -56,7 +57,7 @@ tags: mediaDB/game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Le chanteur du groupe [[Imagine Dragons]] a passé cinq ans à superviser le développement du jeu
 ## Liens et Ressources
 
 | Description | URL                                              |

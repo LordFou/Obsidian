@@ -1,17 +1,16 @@
 ---
 type: personne
 ---
-![[image-543.webp|240x310]]
-# Emeric Thoa
+
+# Dmitry Glukhovsky
 
 ## Présentation
 Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
 
 ## Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Profession(s)** : 
-	- [[Directeur Créatif]]
+- **Nationalité** :  Russe
+- **Profession(s)** : [[Auteur]]
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 
 ```timeline-labeled
@@ -61,11 +60,8 @@ if (tableData.length > 0) {
 Lister les prix et reconnaissances obtenues.
 
 ## Controverses ou Faits Marquants
-Évoquer les polémiques ou événements notables liés à cette personne.
+- il a du fuir la Russie pour avoir critiqué l'invasion russe en [[Ukraine]]
 
-## Sources et Références
-
-| Description           | Lien                                             |
-| --------------------- | ------------------------------------------------ |
-| Article Point & Think | https://www.pointnthink.fr/fr/emeric-thoa-cairn/ |
-
+| Description | URL |
+| ----------- | --- |
+|             |     |

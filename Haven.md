@@ -6,7 +6,7 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2020
 - **Développeur** : 
 	- Studio : [[The Game Bakers]]
 	- Personnalités : 

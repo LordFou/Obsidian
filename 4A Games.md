@@ -5,7 +5,7 @@ type: societe
 # 4A Games
 
 ## Présentation
-Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
+- Studio ukrainien formé par un groupe de développeurs ayant quitté [[GSC Game World]] ([[Franchise Stalker]]) en 2006.
 
 ## Informations Générales
 - **Nom complet** :  

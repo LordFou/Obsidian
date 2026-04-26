@@ -10,6 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
+		- [[Martin Stig Andersen]] (Audio)
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
