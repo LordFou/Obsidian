@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Paul",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -209,6 +209,7 @@
   "active": "48c9814a16045369",
   "lastOpenFiles": [
     "Liège-Bastogne-Liège.md",
+    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Loisirs/Sport/Tadej Pogacar.md",
     "Paul Seixas.md",
     "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
@@ -237,7 +238,6 @@
     "Paula Blasi.md",
     "Benoit Cosnefroy.md",
     "Loisirs/Sport/Compétitions/Flèche Brabançonne.md",
-    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Attachments/image-531.webp",
     "Attachments/image-530.webp",
     "Attachments/image-529.webp",
