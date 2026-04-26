@@ -24,7 +24,8 @@ Une des plus célèbres courses belges de cyclisme de la planète à cause de sa
 
 | Année | Vainqueur            | Nationalité  | Remarque |
 | ----- | -------------------- | ------------ | -------- |
-| 2011  | [[Philippe Gilbert]] | Belge        |          |
+| 2001  | [[Rik Verbrugghe]]   | ==Belge==        |          |
+| 2011  | [[Philippe Gilbert]] | ==Belge==        |          |
 | 2022  | [[Marta Cavalli]]    | Italienne    |          |
 | 2023  | [[Demi Vollering]]   | Néerlandaise |          |
 | 2025  | [[Puck Pieterse]]    | Néerlandaise |          |

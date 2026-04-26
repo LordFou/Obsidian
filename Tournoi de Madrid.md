@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Tournoi de Madrid
+# Tournoi de Madrid - Masters 1000
 
 # Introduction
 
