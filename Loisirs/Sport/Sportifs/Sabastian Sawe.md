@@ -6,7 +6,7 @@ type: personne
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
+- **Nationalité** :  Kényan
 - **Sport / Discipline** :  [[Athlétisme]]
 - **Poste / Spécialité** (si applicable) :  Marathon
 - **Équipe(s) / Club(s)** :  

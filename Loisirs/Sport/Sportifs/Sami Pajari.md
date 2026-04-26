@@ -8,7 +8,7 @@ type: personne
 - **Date de naissance** :  
 - **Nationalité** :  
 - **Sport / Discipline** :  
-- **Poste / Spécialité** (si applicable) : [[Rallye]]
+- **Poste / Spécialité** (si applicable) : [[Rallye des Iles Canaries]]
 - **Équipe(s) / Club(s)** :  [[Toyota]]
 - **Période d’activité** :  
 
