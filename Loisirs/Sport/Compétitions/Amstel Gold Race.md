@@ -11,6 +11,8 @@ Une des seules grandes courses néerlandaises, plutôt du style des courses arde
 
 | Année | Vainqueur                | Nationalité | Remarque                                                                                                                                          |
 | ----- | ------------------------ | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2010  | [[Philippe Gilbert]]     | ==Belge==   |                                                                                                                                                   |
+| 2011  | [[Philippe Gilbert]]     | ==Belge==   |                                                                                                                                                   |
 | 2012  | [[Philippe Gilbert]]     | ==Belge==   |                                                                                                                                                   |
 | 2018  | [[Michael Valgren]]      | Danois      |                                                                                                                                                   |
 | 2019  | [[Mathieu van der Poel]] | Néerlandais |                                                                                                                                                   |
