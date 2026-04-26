@@ -19,7 +19,7 @@ type: event
 | 2026  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Slovène     |          |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur              | Nationalité | Remarque |
+| ----- | ---------------------- | ----------- | -------- |
+| 2025  | [[Kimberley Le Court]] | Mauricienne |          |
+|       |                        |             |          |

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Emeline Detilleux.md",
+                "file": "Liège-Bastogne-Liège.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Emeline Detilleux"
+              "title": "Liège-Bastogne-Liège"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Emeline Detilleux",
+                "query": "Thibau",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -206,9 +207,14 @@
   },
   "active": "4240a9f97f1ec44c",
   "lastOpenFiles": [
+    "Kimberley Le Court.md",
+    "Liège-Bastogne-Liège.md",
+    "Thibau Nys.md",
+    "Ben Healy.md",
+    "Loisirs/Sport/Giulio Ciccone.md",
+    "Loisirs/Sport/Sportifs/Emeline Detilleux.md",
     "Attachments/image-547.webp",
     "Loisirs/Sport/Compétitions/Tour des Asturies.md",
-    "Loisirs/Sport/Sportifs/Emeline Detilleux.md",
     "Movistar.md",
     "Adria Pericas.md",
     "Miguel Heidemann.md",
@@ -222,7 +228,6 @@
     "Attachments/image-545.webp",
     "Loisirs/Sport/Compétitions/Amstel Gold Race.md",
     "Loisirs/Sport/Compétitions/Flèche Wallonne.md",
-    "Liège-Bastogne-Liège.md",
     "Loisirs/Sport/Compétitions/Flèche Brabançonne.md",
     "Loisirs/Sport/Sportifs/Chiara Manca.md",
     "conflict-files-obsidian-git.md",
@@ -231,9 +236,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
     "Audrey Leprince.md",
     "The Game Bakers.md",
-    "Elisabeth Revol.md",
-    "The Toxic Avenger.md",
-    "Martin Stig Andersen.md",
     "Attachments/Pasted image 20260423212942.png",
     "Attachments/image-544.webp",
     "Attachments/image-543.webp",
@@ -241,7 +243,6 @@
     "Attachments/image-541.webp",
     "Attachments/image-540.webp",
     "Attachments/image-539.webp",
-    "Attachments/image-538.webp",
     "Sans titre",
     "TI-99",
     "Media DB/wiki",
