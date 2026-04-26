@@ -16,6 +16,10 @@ type: personne
 | Année | Compétition                                  | Résultat | Remarque |
 | ----- | -------------------------------------------- | -------- | -------- |
 | 2011  | [[Strade Bianche]]                           | 1ier     |          |
+| 2011  | [[Flèche Brabançonne]]                       | 1ier     |          |
+| 2011  | [[Flèche Wallonne]]                          | 1ier     |          |
+| 2011  | [[Liège-Bastogne-Liège]]                     | 1ier     |          |
+| 2011  | [[Amstel Gold Race]]                         | 1ier     |          |
 | 2012  | [[Championnat du Monde de Cyclisme]] - Route | 1ier     |          |
 | 2019  | [[Paris-Roubaix]]                            | 1ier     |          |
 

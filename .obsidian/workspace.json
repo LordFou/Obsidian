@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ce3feda6b8d31e50",
+        "id": "dbc0a3dbf1bc6f92",
         "type": "tabs",
         "children": [
           {
-            "id": "c1f9d6146585f486",
+            "id": "4240a9f97f1ec44c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Loisirs/Sport/Compétitions/Flèche Brabançonne.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Flèche Brabançonne"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sworn",
+                "query": "Philippe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -204,8 +204,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1f9d6146585f486",
+  "active": "4240a9f97f1ec44c",
   "lastOpenFiles": [
+    "Philippe Gilbert.md",
+    "Loisirs/Sport/Sportifs/Chiara Manca.md",
     "conflict-files-obsidian-git.md",
     "Journal de bord/2026-04-26.md",
     "Journal de bord/2026-04-24.md",
@@ -237,8 +239,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Idols of Ash.md",
     "Attachments/image-539.webp",
     "Leafy Games.md",
-    "Loisirs/Jeux Vidéos/Sociétés/Ubisoft.md",
-    "Loisirs/Jeux Vidéos/Non triés/GamePass (XBox).md",
     "Attachments/image-538.webp",
     "Attachments/image.png",
     "Attachments/image-537.webp",
