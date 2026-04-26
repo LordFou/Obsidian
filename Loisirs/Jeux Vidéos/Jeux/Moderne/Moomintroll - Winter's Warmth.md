@@ -35,7 +35,7 @@ tags: mediaDB/game
 	- Studio : [[Hyper Games]]
 	- Personnalités : 
 - **Éditeur** : [[Hyper Games]], [[Kakehashi Games]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Switch]]
 - **Franchise** : 
 - **Genre** : [[Aventure]], [[RPG]]
 - **Résumé** :  
@@ -63,6 +63,7 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL                                        |
-| ----------- | ------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/3256150 |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Steam       | https://store.steampowered.com/app/3256150       |
+| Trailer     | https://youtu.be/5ePphEutTJ8?si=CfbJ805U2TA6Hzrp |

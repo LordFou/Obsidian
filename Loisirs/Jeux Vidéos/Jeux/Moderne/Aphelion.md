@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Aventure Narrative]]
+- **Genre** : [[Aventure Narrative]], [[Action Aventure]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -41,6 +41,7 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Trailer     | https://youtu.be/U6xCfctMVRE?si=SBCS0O75c2rzeLux |
+|             |                                                  |

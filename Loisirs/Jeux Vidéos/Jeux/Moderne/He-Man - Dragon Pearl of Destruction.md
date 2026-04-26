@@ -11,9 +11,9 @@ type: game
 	- Studio : [[Bitmap Bureau]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Beat'em up]]
 - **Résumé** : 
 
 ## Détails Techniques
