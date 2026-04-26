@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Tour des Asturies.md",
+                "file": "Loisirs/Sport/Sportifs/Emeline Detilleux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour des Asturies"
+              "title": "Emeline Detilleux"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Asturies",
+                "query": "Emeline Detilleux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,8 +206,13 @@
   },
   "active": "4240a9f97f1ec44c",
   "lastOpenFiles": [
-    "Edgar David Cadena.md",
+    "Attachments/image-547.webp",
     "Loisirs/Sport/Compétitions/Tour des Asturies.md",
+    "Loisirs/Sport/Sportifs/Emeline Detilleux.md",
+    "Movistar.md",
+    "Adria Pericas.md",
+    "Miguel Heidemann.md",
+    "Edgar David Cadena.md",
     "Gabriel Layrac.md",
     "Nairo Quintana.md",
     "Marc Soler.md",
@@ -230,13 +234,8 @@
     "Elisabeth Revol.md",
     "The Toxic Avenger.md",
     "Martin Stig Andersen.md",
-    "Control.md",
-    "Inside.md",
-    "Limbo.md",
     "Attachments/Pasted image 20260423212942.png",
-    "Mathieu Bablet.md",
     "Attachments/image-544.webp",
-    "Emeric Thoa.md",
     "Attachments/image-543.webp",
     "Attachments/image-542.webp",
     "Attachments/image-541.webp",
