@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b40fcdf9c595f841",
+        "id": "ce3feda6b8d31e50",
         "type": "tabs",
         "children": [
           {
-            "id": "322ea72d75af42af",
+            "id": "c1f9d6146585f486",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -204,7 +204,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cfaee1bb38725775",
+  "active": "c1f9d6146585f486",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Journal de bord/2026-04-26.md",
