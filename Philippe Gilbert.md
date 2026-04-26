@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-545.webp|418x301]]
 # Philippe Gilbert
 
 # Informations Générales

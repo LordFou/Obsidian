@@ -1,23 +1,24 @@
 ---
 type: personne
 ---
-
-# Marc Soler
+![[image-546.webp|276x356]]
+# Nairo Quintana
 
 # Informations Générales
-- **Date de naissance** :  
-- **Nationalité** :  Espagnol
+- **Date de naissance** :  1990
+- **Nationalité** :  Colombien
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
+- **Nbr Victoires** : 52
 
 # Palmarès et Distinctions
-| Année | Compétition                              | Résultat | Remarque |
-| ----- | ---------------------------------------- | -------- | -------- |
-| 2025  | [[Tour des Asturies]] - Classement final | 1ier     |          |
-| 2025  | [[Tour d'Espagne]] - 14e étape           | 1ier     |          |
-| 2026  | [[Tour de Murcie]] - 1e étape            | 1ier     |          |
+| Année | Compétition                                     | Résultat | Remarque |
+| ----- | ----------------------------------------------- | -------- | -------- |
+| 2022  | [[Tour des Alpes-Maritimes]] - 3e étape         | 1ier     |          |
+| 2022  | [[Tour des Alpes-Maritimes]] - Classement final | 1ier     |          |
+| 2026  | [[Tour des Asturies]] - 2e étape                | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -31,6 +32,6 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
-# Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |

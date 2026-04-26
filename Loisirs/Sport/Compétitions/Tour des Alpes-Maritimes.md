@@ -8,10 +8,11 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur        | Nationalité | Remarque |
-| ----- | ---------------- | ----------- | -------- |
-| 2026  | [[Paul Lapeira]] | Française   |          |
-|       |                  |             |          |
+| Année | Vainqueur          | Nationalité | Remarque |
+| ----- | ------------------ | ----------- | -------- |
+| 2022  | [[Nairo Quintana]] | Colombien   |          |
+| 2026  | [[Paul Lapeira]]   | Française   |          |
+|       |                    |             |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
