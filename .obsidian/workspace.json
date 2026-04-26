@@ -132,7 +132,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -206,7 +207,7 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "48c9814a16045369",
+  "active": "acbfcced6e5eac9a",
   "lastOpenFiles": [
     "Liège-Bastogne-Liège.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
