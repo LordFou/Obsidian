@@ -1,25 +1,21 @@
 ---
 type: personne
 ---
-![[image-546.webp|276x356]]
-# Nairo Quintana
+
+# Gabriel Layrac
 
 # Informations Générales
-- **Date de naissance** :  1990
-- **Nationalité** :  Colombien
+- **Date de naissance** :  
+- **Nationalité** :  Français
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
-- **Nbr Victoires** : 53
 
 # Palmarès et Distinctions
-| Année | Compétition                                     | Résultat | Remarque |
-| ----- | ----------------------------------------------- | -------- | -------- |
-| 2022  | [[Tour des Alpes-Maritimes]] - 3e étape         | 1ier     |          |
-| 2022  | [[Tour des Alpes-Maritimes]] - Classement final | 1ier     |          |
-| 2026  | [[Tour des Asturies]] - 2e étape                | 1ier     |          |
-| 2026  | [[Tour des Asturies]] - Classement final        | 1ier     |          |
+| Année | Compétition                      | Résultat | Remarque |
+| ----- | -------------------------------- | -------- | -------- |
+| 2026  | [[Tour des Asturies]] - 1e étape | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
