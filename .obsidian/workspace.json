@@ -6,7 +6,7 @@
       {
         "id": "dbc0a3dbf1bc6f92",
         "type": "tabs",
-        "dimension": 62.3897353648757,
+        "dimension": 56.05453087409783,
         "children": [
           {
             "id": "4240a9f97f1ec44c",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Aphelion.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire Crawlers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aphelion"
+              "title": "Vampire Crawlers"
             },
             "group": "28ac789db4c45d66"
           }
@@ -28,7 +28,7 @@
       {
         "id": "a4c6285acc74da59",
         "type": "tabs",
-        "dimension": 37.610264635124295,
+        "dimension": 43.945469125902164,
         "children": [
           {
             "id": "63f394dd4b157854",
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Aphelion.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire Crawlers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -46,7 +46,7 @@
                   "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
-                  "hideUnresolved": true,
+                  "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Aphelion"
+              "title": "Graphique de Vampire Crawlers"
             },
             "group": "28ac789db4c45d66"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Aphelion",
+                "query": "Vampire",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,9 +254,14 @@
   },
   "active": "4240a9f97f1ec44c",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/All Hail the Orb.md",
+    "LeGingerDev.md",
+    "All Hail the Orb.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Grow Wild.md",
+    "SPECTRUM48.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Aphelion.md",
     "Attachments/image-551.webp",
     "Amine Bouhafa.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Aphelion.md",
     "némésis.md",
     "Journal de bord/2025-11-13.md",
     "Loisirs/Jeux Vidéos/Plateformes/Playstation 5.md",
@@ -278,10 +283,6 @@
     "Attachments/image-549.webp",
     "Katarzyna Niewiadoma.md",
     "Loisirs/Sport/Sportifs/Puck Pieterse.md",
-    "Liège-Bastogne-Liège.md",
-    "Demi Vollering.md",
-    "Elise Mertens.md",
-    "Stéphane Ogier.md",
     "Attachments/image-548.webp",
     "Attachments/image-547.webp",
     "Attachments/image-546.webp",
@@ -289,7 +290,6 @@
     "Attachments/Pasted image 20260423212942.png",
     "Attachments/image-544.webp",
     "Attachments/image-543.webp",
-    "Attachments/image-542.webp",
     "Sans titre",
     "TI-99",
     "Media DB/wiki",
