@@ -6,7 +6,7 @@
       {
         "id": "dbc0a3dbf1bc6f92",
         "type": "tabs",
-        "dimension": 56.05453087409783,
+        "dimension": 56.13472333600642,
         "children": [
           {
             "id": "4240a9f97f1ec44c",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire Crawlers.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Pragmata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vampire Crawlers"
+              "title": "Pragmata"
             },
             "group": "28ac789db4c45d66"
           }
@@ -28,7 +28,7 @@
       {
         "id": "a4c6285acc74da59",
         "type": "tabs",
-        "dimension": 43.945469125902164,
+        "dimension": 43.86527666399358,
         "children": [
           {
             "id": "63f394dd4b157854",
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire Crawlers.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Pragmata.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Vampire Crawlers"
+              "title": "Graphique de Pragmata"
             },
             "group": "28ac789db4c45d66"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Vampire",
+                "query": "pragm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,6 +254,17 @@
   },
   "active": "4240a9f97f1ec44c",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Pratfall.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/PEAK.md",
+    "Quad Head.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Airborne Empire.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Airborne Kingdom.md",
+    "The Wandering Band LLC.md",
+    "Airborne Kingdom.md",
+    "Stray Fawn Publishing.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Gambonanza.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Flotsam.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Vampire Crawlers.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/All Hail the Orb.md",
     "LeGingerDev.md",
     "All Hail the Orb.md",
@@ -268,21 +279,10 @@
     "Louis Martin.md",
     "Attachments/image-550.webp",
     "Alexander Blockx.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Gambonanza.md",
     "Blukulélé.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/inKONBINI - One Store Many Stories.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Mourning Tide.md",
-    "Liquid Squid.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Invincible VS.md",
-    "Quarter Up.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Saros.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Lunchbreak Tactics.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/He-Man - Dragon Pearl of Destruction.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Moomintroll - Winter's Warmth.md",
-    "Loisirs/Sport/Sportifs/Thibeau Spits.md",
     "Attachments/image-549.webp",
-    "Katarzyna Niewiadoma.md",
-    "Loisirs/Sport/Sportifs/Puck Pieterse.md",
     "Attachments/image-548.webp",
     "Attachments/image-547.webp",
     "Attachments/image-546.webp",
