@@ -37,9 +37,11 @@ type: game
 	- 2060
 - **Personnages principaux** : 
 - **Ennemis** :
+	- Le [[némésis|Némésis]]
 - **Thèmes abordés** : 
 	- [[Réchauffement climatique]]
 - **Influencé par** :
+	- Le film « Arrival » ([[Denis Villeneuve]], 2016) pour l'audio.
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

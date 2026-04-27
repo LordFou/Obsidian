@@ -6,6 +6,7 @@
       {
         "id": "dbc0a3dbf1bc6f92",
         "type": "tabs",
+        "dimension": 57.73857257417803,
         "children": [
           {
             "id": "4240a9f97f1ec44c",
@@ -19,7 +20,53 @@
               },
               "icon": "lucide-file",
               "title": "Aphelion"
-            }
+            },
+            "group": "28ac789db4c45d66"
+          }
+        ]
+      },
+      {
+        "id": "a4c6285acc74da59",
+        "type": "tabs",
+        "dimension": 42.26142742582197,
+        "children": [
+          {
+            "id": "63f394dd4b157854",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Aphelion.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.283783783783784,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 128,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graphique de Aphelion"
+            },
+            "group": "28ac789db4c45d66"
           }
         ]
       }
@@ -89,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 245.5
   },
   "right": {
     "id": "424a7915b112611b",
@@ -205,11 +252,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4240a9f97f1ec44c",
+  "active": "63f394dd4b157854",
   "lastOpenFiles": [
-    "Louis Martin.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Aphelion.md",
     "Amine Bouhafa.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Aphelion.md",
+    "némésis.md",
+    "Journal de bord/2025-11-13.md",
+    "Loisirs/Jeux Vidéos/Plateformes/Playstation 5.md",
+    "Louis Martin.md",
     "Attachments/image-550.webp",
     "Alexander Blockx.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Gambonanza.md",
@@ -232,9 +282,6 @@
     "Elise Mertens.md",
     "Stéphane Ogier.md",
     "Thierry Neuville.md",
-    "Loisirs/Sport/Compétitions/Rallye des Iles Canaries.md",
-    "Barry Baltus.md",
-    "Tom Crabbe.md",
     "Attachments/image-548.webp",
     "Attachments/image-547.webp",
     "Attachments/image-546.webp",

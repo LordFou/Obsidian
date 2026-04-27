@@ -84,7 +84,7 @@
     "localJumps": 1,
     "localBacklinks": true,
     "localForelinks": true,
-    "localInterlinks": false,
+    "localInterlinks": true,
     "showTags": false,
     "showAttachments": false,
     "hideUnresolved": false,
@@ -95,13 +95,13 @@
     "textFadeMultiplier": 0,
     "nodeSizeMultiplier": 1,
     "lineSizeMultiplier": 1,
-    "collapse-forces": true,
-    "centerStrength": 0.518713248970312,
+    "collapse-forces": false,
+    "centerStrength": 0.283783783783784,
     "repelStrength": 10,
     "linkStrength": 1,
-    "linkDistance": 250,
+    "linkDistance": 128,
     "scale": 1,
-    "close": false
+    "close": true
   },
   "openInNewTab": false,
   "canonicalizePropertiesWithDataview": true,
@@ -129,10 +129,21 @@
         "linkStrength": 1,
         "repelStrength": 10
       },
-      "toggleTypes": {},
-      "logicTypes": {},
+      "toggleTypes": {
+        "tag": [],
+        "link": [],
+        "folder": []
+      },
+      "logicTypes": {
+        "tag": "OR",
+        "link": "OR",
+        "folder": "OR"
+      },
       "enableLayers": false,
-      "currentLayerLevel": 0
+      "currentLayerLevel": 0,
+      "pinNodes": {},
+      "hiddenLegendRows": [],
+      "collapsedLegendRows": []
     }
   ],
   "startingStateID": "default-vault",
