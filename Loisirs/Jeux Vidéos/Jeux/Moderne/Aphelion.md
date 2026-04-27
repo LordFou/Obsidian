@@ -10,6 +10,11 @@ type: game
 - **Développeur** : 
 	- Studio : [[Don't Nod]]
 	- Personnalités : 
+		- [[Louis Martin]] (Lead Audio)
+		- [[Amine Bouhafa]] (Compositeur)
+		- [[Kevin England]] (Sound Designer)
+		- [[Mathieu Fiorentini]] (Senior Sound Designer)
+		- 
 - **Éditeur** : 
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
@@ -20,7 +25,7 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** :
-	- [[Amine Bouhafa]]
+	- 
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 

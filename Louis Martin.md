@@ -1,8 +1,8 @@
 ---
 type: personne
 ---
-![[image-550.webp|500x284]]
-# Amine Bouhafa
+
+# Louis Martin
 
 ## Présentation
 Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
@@ -10,7 +10,8 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 ## Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  
-- **Profession(s)** : (Développeur, Designer, Compositeur, Journaliste, etc.)  
+- **Profession(s)** : 
+	- Lead Audio ([[Aphelion]])
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 
 ```timeline-labeled
@@ -57,11 +58,11 @@ if (tableData.length > 0) {
 ```
 
 ## Récompenses et Distinctions
-- César du ....
+Lister les prix et reconnaissances obtenues.
 
 ## Controverses ou Faits Marquants
 Évoquer les polémiques ou événements notables liés à cette personne.
 
-| Description | URL                                                            |
-| ----------- | -------------------------------------------------------------- |
-| Spotify     | https://open.spotify.com/intl-fr/artist/50FuOJ5QTp0kIsLEE2FP5l |
+| Description | URL |
+| ----------- | --- |
+|             |     |
