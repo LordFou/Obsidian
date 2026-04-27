@@ -22,11 +22,13 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- CheckPoint (7.5/10)
+	- Izual : Scénario un peu à la ramasse
 - **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Base lunaire]]
 - **Epoque** : 
 - **Personnages principaux** : 
 	- Hugh Williams

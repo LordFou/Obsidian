@@ -26,7 +26,6 @@ played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-
 ![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/680ac087db67c922e0340548103235a7529ec5df/header.jpg?t=1773869902)
 # shapez 2
 
@@ -39,9 +38,9 @@ tags: mediaDB/game
 - **Éditeur** : 
 	- [[tobspr Games]]
 	- [[Gamirror Games]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Simulation]], [[Stratégie]]
+- **Genre** : [[Simulation]], [[Stratégie]], [[Factory-Builder]]
 - **Résumé** :  
 
 ## Détails Techniques
