@@ -6,7 +6,7 @@
       {
         "id": "dbc0a3dbf1bc6f92",
         "type": "tabs",
-        "dimension": 57.73857257417803,
+        "dimension": 62.3897353648757,
         "children": [
           {
             "id": "4240a9f97f1ec44c",
@@ -28,7 +28,7 @@
       {
         "id": "a4c6285acc74da59",
         "type": "tabs",
-        "dimension": 42.26142742582197,
+        "dimension": 37.610264635124295,
         "children": [
           {
             "id": "63f394dd4b157854",
@@ -38,7 +38,7 @@
               "state": {
                 "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Aphelion.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -46,7 +46,7 @@
                   "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
-                  "hideUnresolved": false,
+                  "hideUnresolved": true,
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
@@ -54,7 +54,7 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
+                  "collapse-forces": true,
                   "centerStrength": 0.283783783783784,
                   "repelStrength": 10,
                   "linkStrength": 1,
@@ -252,8 +252,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63f394dd4b157854",
+  "active": "4240a9f97f1ec44c",
   "lastOpenFiles": [
+    "Attachments/image-551.webp",
     "Amine Bouhafa.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Aphelion.md",
     "némésis.md",
@@ -281,7 +282,6 @@
     "Demi Vollering.md",
     "Elise Mertens.md",
     "Stéphane Ogier.md",
-    "Thierry Neuville.md",
     "Attachments/image-548.webp",
     "Attachments/image-547.webp",
     "Attachments/image-546.webp",

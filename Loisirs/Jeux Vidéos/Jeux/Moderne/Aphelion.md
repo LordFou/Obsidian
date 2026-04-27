@@ -52,3 +52,4 @@ type: game
 | ----------- | ------------------------------------------------ |
 | Trailer     | https://youtu.be/U6xCfctMVRE?si=SBCS0O75c2rzeLux |
 |             |                                                  |
+![[image-551.webp|500x284]]
