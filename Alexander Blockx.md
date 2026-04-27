@@ -14,22 +14,22 @@ type: personne
 - **Top Ranking** : 69
 
 # Palmarès et Distinctions
-| Année | Compétition                | Résultat    | Remarque                                  |
-| ----- | -------------------------- | ----------- | ----------------------------------------- |
-| ?     | ?                          | Vainqueur   |                                           |
-| 2025  | ?                          | Vainqueur   |                                           |
-| 2025  | [[Tournoi de Bratislava]]  | Vainqueur   |                                           |
-| 2025  | Next Gen ATP Finals        | Finaliste   | Contre [[Learner Tien]]                   |
-|       |                            |             |                                           |
-| 2026  | [[Tournoi de Canberra]]    | Vainqueur   | Arrivée dans le top 100                   |
-| 2026  | [[Australian Open]]        | 1ier Tour   | [[Lucky Loser]]                           |
-| 2026  | [[Tournoi de Pau]]         | ?           |                                           |
-| 2026  | [[Tournoi de Lille]]       | Finaliste   | Défaite contre [[Luca Van Assche]]        |
-| 2026  | [[Tournoi Indian Wells]]   | 1e tour     |                                           |
-| 2026  | [[Tournoi de Cap Cana]]    | 2e tour     |                                           |
-| 2026  | [[Tournoi de Monte-Carlo]] | 1/8 finale  | Défaite contre [[Alex de Minaur]] (ATP 6) |
-| 2026  | [[Tournoi de Munich]]      | 1/8 finale  | Défaite contre [[Ben Shelton]] (ATP 6)    |
-| 2026  | [[Tournoi de Madrid]]      | 1/16 finale |                                           |
+| Année | Compétition                | Résultat   | Remarque                                  |
+| ----- | -------------------------- | ---------- | ----------------------------------------- |
+| ?     | ?                          | Vainqueur  |                                           |
+| 2025  | ?                          | Vainqueur  |                                           |
+| 2025  | [[Tournoi de Bratislava]]  | Vainqueur  |                                           |
+| 2025  | Next Gen ATP Finals        | Finaliste  | Contre [[Learner Tien]]                   |
+|       |                            |            |                                           |
+| 2026  | [[Tournoi de Canberra]]    | Vainqueur  | Arrivée dans le top 100                   |
+| 2026  | [[Australian Open]]        | 1ier Tour  | [[Lucky Loser]]                           |
+| 2026  | [[Tournoi de Pau]]         | ?          |                                           |
+| 2026  | [[Tournoi de Lille]]       | Finaliste  | Défaite contre [[Luca Van Assche]]        |
+| 2026  | [[Tournoi Indian Wells]]   | 1e tour    |                                           |
+| 2026  | [[Tournoi de Cap Cana]]    | 2e tour    |                                           |
+| 2026  | [[Tournoi de Monte-Carlo]] | 1/8 finale | Défaite contre [[Alex de Minaur]] (ATP 6) |
+| 2026  | [[Tournoi de Munich]]      | 1/8 finale | Défaite contre [[Ben Shelton]] (ATP 6)    |
+| 2026  | [[Tournoi de Madrid]]      | 1/8 finale | Victoire contre                           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
