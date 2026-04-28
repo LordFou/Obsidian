@@ -5,7 +5,7 @@ Nacon possède les entreprises suivantes :
 - [[Cyanide]]
 - [[Daedalic]]
 - [[Spiders]]
-- [[Kylotonn]]
+- [[Kylotonn]] (KT Racing)
 - [[Nacon Tech]]
 
 ```timeline-labeled
