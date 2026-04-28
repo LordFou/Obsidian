@@ -37,8 +37,12 @@ title: Rachat du studio par [[BigBen Interactive]]
 content: Le but est d'en faire l'une des vitrines de son nouveau bras d'édition [[Nacon]]
 
 date: 2023
-title: Changement de direction
-content: [[Anne Devouassoux]] remplace [[Jehanne Rousseau]]
+title: Gros Changements 
+content: L'entreprise s'engage pour la première fois dans deux développements parallèles, compliqués par une réorganisation du travail jugée insuffisante et un changement de direction : [[Anne Devouassoux]] remplace [[Jehanne Rousseau]]
+
+date: Depuis 2024
+title: Syndicat
+content: Plusieurs alarmes relayées par le syndicat STJV, dénonçent une rapide dégradation des conditions de travail et un dialogue social lourdement empêché au sein du studio.
 
 date: Avril 2026  
 title: Liquidation
@@ -52,6 +56,7 @@ content: La maison mère [[Nacon]], qui cherchait à vendre cette filiale pour r
 |       | [[The Technomancer]]            |
 | 2013  | [[Mars - War Logs]]             |
 | 2022  | [[Steelrising]]                 |
+| 2025  | Dark - Abandon                  |
 | 2026  | [[GreedFall - The Dying World]] |
 
 ## Moteur(s) Utilisé(s)
@@ -73,3 +78,5 @@ Lister les studios affiliés ou les collaborations importantes.
 ## Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
+
+![[image-557.webp|500x309]]
