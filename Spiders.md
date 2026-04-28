@@ -36,7 +36,9 @@ date: 2019
 title: Rachat du studio par [[BigBen Interactive]]
 content: Le but est d'en faire l'une des vitrines de son nouveau bras d'édition [[Nacon]]
 
-
+date: 2023
+title: Changement de direction
+content: [[Anne Devouassoux]] remplace [[Jehanne Rousseau]]
 
 date: Avril 2026  
 title: Liquidation
