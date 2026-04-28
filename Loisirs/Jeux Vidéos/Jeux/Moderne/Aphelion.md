@@ -15,7 +15,7 @@ type: game
 		- [[Kevin England]] (Sound Designer)
 		- [[Mathieu Fiorentini]] (Senior Sound Designer)
 		- 
-- **Éditeur** : 
+- **Éditeur** : [[Don't Nod]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Aventure Narrative]], [[Action Aventure]]
@@ -26,7 +26,8 @@ type: game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** :
 	- 
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 
 - **Gameplay** :
 - **Durée estimée** : 
 
