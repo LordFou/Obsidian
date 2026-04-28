@@ -6,7 +6,7 @@
       {
         "id": "dbc0a3dbf1bc6f92",
         "type": "tabs",
-        "dimension": 56.13472333600642,
+        "dimension": 62.43980738362761,
         "children": [
           {
             "id": "4240a9f97f1ec44c",
@@ -14,59 +14,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Allyson Felix.md",
+                "file": "Pierre de Froidmont.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Allyson Felix"
+              "title": "Pierre de Froidmont"
             },
-            "group": "28ac789db4c45d66"
+            "group": "8b1635c410096b27"
           }
         ]
       },
       {
-        "id": "a4c6285acc74da59",
+        "id": "2f8cc8b2ce1296f4",
         "type": "tabs",
-        "dimension": 43.86527666399358,
+        "dimension": 37.56019261637239,
         "children": [
           {
-            "id": "63f394dd4b157854",
+            "id": "9ee5eb33bb792d1b",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Allyson Felix.md",
+                "file": "Pierre de Froidmont.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
-                  "centerStrength": 0.283783783783784,
+                  "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
-                  "linkDistance": 128,
-                  "scale": 8,
-                  "close": false
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Allyson Felix"
+              "title": "Graphique de Pierre de Froidmont"
             },
-            "group": "28ac789db4c45d66"
+            "group": "8b1635c410096b27"
           }
         ]
       }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Allyson Felix",
+                "query": "Pierre De Froidmont",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,7 +131,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,10 +252,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63f394dd4b157854",
+  "active": "4240a9f97f1ec44c",
   "lastOpenFiles": [
-    "Loisirs/Internet/Les perles du net.md",
+    "Mountainbike.md",
+    "Pierre de Froidmont.md",
     "Loisirs/Sport/Sportifs/Allyson Felix.md",
+    "Attachments/image-553.webp",
+    "Attachments/image-552.webp",
+    "Loisirs/Internet/Les perles du net.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Forefront.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/shapez 2.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Pragmata.md",
@@ -278,8 +283,6 @@
     "SPECTRUM48.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Aphelion.md",
     "Attachments/image-551.webp",
-    "Amine Bouhafa.md",
-    "némésis.md",
     "Attachments/image-550.webp",
     "Attachments/image-549.webp",
     "Attachments/image-548.webp",
@@ -287,8 +290,6 @@
     "Attachments/image-546.webp",
     "Attachments/image-545.webp",
     "Attachments/Pasted image 20260423212942.png",
-    "Attachments/image-544.webp",
-    "Attachments/image-543.webp",
     "Sans titre",
     "TI-99",
     "Media DB/wiki",

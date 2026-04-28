@@ -7,7 +7,7 @@ type: personne
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** : Mountain-Bike 
+- **Sport / Discipline** : [[Mountainbike]], [[VTT]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  

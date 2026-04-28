@@ -1,11 +1,11 @@
 ---
 type: personne
 ---
-
+![[image-552.webp|258x271]]
 # Allyson Felix
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  1984
 - **Nationalité** :  Américaine
 - **Sport / Discipline** :  [[Athlétisme]]
 - **Poste / Spécialité** (si applicable) :  
@@ -21,7 +21,7 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- 11 médailles olympiques, dont sept en or.
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
