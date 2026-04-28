@@ -27,7 +27,7 @@ type: game
 - **Audio** :
 	- 
 - **Réception critique** : 
-	- 
+	- CheckPoint (5.5/10) : c'est beau graphisme et cinématique mais c'est mou (dialogue, escalade, infiltration)
 - **Gameplay** :
 - **Durée estimée** : 
 
