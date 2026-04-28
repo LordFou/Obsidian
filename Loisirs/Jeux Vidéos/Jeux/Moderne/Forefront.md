@@ -46,8 +46,7 @@ tags: mediaDB/game
 - **Gameplay** :
 - **Durée estimée** : 
 
-## Histoire et Univers
-- **Lieu(x)** : 
+## Histoire et Univers- **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
