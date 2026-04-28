@@ -6,7 +6,7 @@
       {
         "id": "dbc0a3dbf1bc6f92",
         "type": "tabs",
-        "dimension": 65.97110754414125,
+        "dimension": 68.13804173354735,
         "children": [
           {
             "id": "4240a9f97f1ec44c",
@@ -28,7 +28,7 @@
       {
         "id": "2f8cc8b2ce1296f4",
         "type": "tabs",
-        "dimension": 34.02889245585875,
+        "dimension": 31.86195826645265,
         "children": [
           {
             "id": "9ee5eb33bb792d1b",
@@ -54,9 +54,9 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "collapse-forces": false,
+                  "centerStrength": 0.994802494802495,
+                  "repelStrength": 6.25779625779626,
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Spiders",
+                "query": "Alexan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,10 +254,12 @@
   },
   "active": "4240a9f97f1ec44c",
   "lastOpenFiles": [
+    "Alexander Blockx.md",
+    "Attachments/image-556.webp",
+    "Spiders.md",
     "Nacon.md",
     "Kylotonn.md",
     "Anne Devouassoux.md",
-    "Spiders.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Steelrising.md",
     "Jehanne Rousseau.md",
     "Mars War Logs.md",
@@ -283,13 +285,11 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Pratfall.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/PEAK.md",
     "Quad Head.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Airborne Empire.md",
     "Attachments/image-551.webp",
     "Attachments/image-550.webp",
     "Attachments/image-549.webp",
     "Attachments/image-548.webp",
     "Attachments/image-547.webp",
-    "Attachments/image-546.webp",
     "Sans titre",
     "TI-99",
     "Media DB/wiki",

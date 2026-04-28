@@ -36,6 +36,8 @@ date: 2019
 title: Rachat du studio par [[BigBen Interactive]]
 content: Le but est d'en faire l'une des vitrines de son nouveau bras d'édition [[Nacon]]
 
+
+
 date: Avril 2026  
 title: Liquidation
 content: La maison mère [[Nacon]], qui cherchait à vendre cette filiale pour rembourser ses dettes, n'a pas trouvé preneur. Le redressement judiciaire de Spiders va laisser place à une liquidation.
