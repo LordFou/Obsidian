@@ -6,7 +6,7 @@
       {
         "id": "dbc0a3dbf1bc6f92",
         "type": "tabs",
-        "dimension": 62.43980738362761,
+        "dimension": 65.97110754414125,
         "children": [
           {
             "id": "4240a9f97f1ec44c",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pierre de Froidmont.md",
+                "file": "Spiders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pierre de Froidmont"
+              "title": "Spiders"
             },
             "group": "8b1635c410096b27"
           }
@@ -28,7 +28,7 @@
       {
         "id": "2f8cc8b2ce1296f4",
         "type": "tabs",
-        "dimension": 37.56019261637239,
+        "dimension": 34.02889245585875,
         "children": [
           {
             "id": "9ee5eb33bb792d1b",
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pierre de Froidmont.md",
+                "file": "Spiders.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Pierre de Froidmont"
+              "title": "Graphique de Spiders"
             },
             "group": "8b1635c410096b27"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pierre De Froidmont",
+                "query": "Spiders",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -252,10 +252,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4240a9f97f1ec44c",
+  "active": "dbacc6f984f28690",
   "lastOpenFiles": [
-    "Mountainbike.md",
+    "Loisirs/Sport/Sportifs/Dorian Godon.md",
+    "Attachments/image-554.webp",
+    "Tour de Romandie.md",
     "Pierre de Froidmont.md",
+    "Mountainbike.md",
     "Loisirs/Sport/Sportifs/Allyson Felix.md",
     "Attachments/image-553.webp",
     "Attachments/image-552.webp",
@@ -280,8 +283,6 @@
     "LeGingerDev.md",
     "All Hail the Orb.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Grow Wild.md",
-    "SPECTRUM48.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Aphelion.md",
     "Attachments/image-551.webp",
     "Attachments/image-550.webp",
     "Attachments/image-549.webp",
@@ -289,7 +290,6 @@
     "Attachments/image-547.webp",
     "Attachments/image-546.webp",
     "Attachments/image-545.webp",
-    "Attachments/Pasted image 20260423212942.png",
     "Sans titre",
     "TI-99",
     "Media DB/wiki",

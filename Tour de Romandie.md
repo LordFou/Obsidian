@@ -26,6 +26,25 @@ type: event
 | 2e (SUI) | [[Elise Chabbey]] | [[Urska Zigart]]  |          |        |       |           |
 | 3e (HUN) | [[Blanka Vas]]    | [[Elise Chabbey]] |          |        |       |           |
 
+
+# Edition 2026
+
+## Hommes
+
+### Etapes 
+
+|          | Vainqueur        | Général          | Montagne | Points | Jeune | Remarques               |
+| -------- | ---------------- | ---------------- | -------- | ------ | ----- | ---------------------- |
+| 1e (FRA) | [[Dorian Godon]] | [[Dorian Godon]] |          |        |       19e - [[Robbe Dhondt]] e  |
+|          |                  |                  |          |        |                                 |
+|          |                  |                  |          |        |                                 |
+## Femmes
+
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|     |           |         |          |        |       |           |
+|     |           |         |          |        |       |           |
+
 # General
 
 ### Hommes

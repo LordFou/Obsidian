@@ -26,6 +26,7 @@ content:
 ## Jeux Développés
 | Année | Titre                           |
 | ----- | ------------------------------- |
+|       |                                 |
 | 2026  | [[GreedFall - The Dying World]] |
 
 ## Moteur(s) Utilisé(s)
