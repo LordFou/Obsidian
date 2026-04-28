@@ -18,6 +18,14 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
+date: 
+title: Quelques commandes 
+content:
+
+date: 
+title: Mission de co-développement sur [[Of Orcs and Men]] avec [[Cyanide]]
+content:
+
 date: Avril 2026  
 title: Liquidation
 content: La maison mère Nacon, qui cherchait à vendre cette filiale pour rembourser ses dettes, n'a pas trouvé preneur. Le redressement judiciaire de Spiders va laisser place à une liquidation.
