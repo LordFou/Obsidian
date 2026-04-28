@@ -50,9 +50,11 @@ tags: mediaDB/game
 ## Histoire et Univers
 - **Lieu(x)** : 
 - **Epoque** : 
+	- 18e siècle ?
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[La Révolution Française]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
