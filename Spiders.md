@@ -12,19 +12,28 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  2008
 - **Fondateurs** :  
 - **Personnalités** :
+	- [[Jehanne Rousseau]] (scénariste, réalisatrice, directrice)
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
 ```timeline-labeled
 [line-5, body-2]
-date: 
-title: Quelques commandes 
+date: 2008 ?
+title: Quelques commandes de [[Focus Home Interactive]]
 content:
 
-date: 
+date: 2012
 title: Mission de co-développement sur [[Of Orcs and Men]] avec [[Cyanide]]
 content:
+
+date: 2008-2018
+title: Une décennie de partenariat entre [[Cyanide]] et [[Focus Home Interactive]]
+content: 
+
+date: 2019
+title: Rachat du studio par [[BigBen Interactive]]
+content: Le but est d'en faire l'une des vitrines de son nouveau bras d'édition [[Nacon]]
 
 date: Avril 2026  
 title: Liquidation
@@ -34,8 +43,9 @@ content: La maison mère Nacon, qui cherchait à vendre cette filiale pour rembo
 ## Jeux Développés
 | Année | Titre                           |
 | ----- | ------------------------------- |
+| 2012  | [[Of Orcs And Men]]             |
 |       | [[The Technomancer]]            |
-|       | [[Mars War Logs]]               |
+| 2013  | [[Mars - War Logs]]             |
 | 2022  | [[Steelrising]]                 |
 | 2026  | [[GreedFall - The Dying World]] |
 
