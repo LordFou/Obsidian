@@ -75,8 +75,10 @@ Lister les prix, distinctions ou records obtenus.
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+
+| Quoi                       | Lien                                                                                                |
+| -------------------------- | --------------------------------------------------------------------------------------------------- |
+| Lettre Ouverte du [[STJV]] | https://www.stjv.fr/wp-content/uploads/2024/08/Open-letter-to-Spiders-management-public-version.pdf |
+
 
 ![[image-557.webp|500x309]]

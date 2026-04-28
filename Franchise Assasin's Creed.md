@@ -28,6 +28,7 @@ content:
 | [[Assassin's Creed 2]]                         |       |             |                          |
 | [[Assassin's Creed 4 - Black Flag]]            |       |             | Il va y avoir une remake |
 | [[Assassin’s Creed 4 - Black Flag - Resynced]] |       |             |                          |
+| Assassin’s Creed Hexe                          |       |             |                          |
 
 
 ## Mécaniques et innovations

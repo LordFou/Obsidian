@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-558.webp|500x261]]
 # Aphelion
 
 ## Informations Générales
@@ -19,7 +19,7 @@ type: game
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Aventure Narrative]], [[Action Aventure]]
-- **Résumé** : 
+- **Résumé** : Alors que la Terre est en train de devenir inhabitable à cause du réchauffement climatique. Le dernier espoir pour l’humanité réside dans une planète qui vient tout juste d’être découverte :  Perséphone.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -34,7 +34,7 @@ type: game
 - **Lieu(x)** : 
 	- la planète perséphone
 - **Epoque** : 
-	- 2060
+	- 2062
 - **Personnages principaux** : 
 - **Ennemis** :
 	- Le [[némésis|Némésis]]
