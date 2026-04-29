@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-04-29.md",
+                "file": "Culture/Histoire/Faits Historiques/Révolution des œillets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-29"
+              "title": "Révolution des œillets"
             },
             "group": "8b1635c410096b27"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Journal de bord/2026-04-29.md",
+                "file": "Culture/Histoire/Faits Historiques/Révolution des œillets.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 2026-04-29"
+              "title": "Graphique de Révolution des œillets"
             },
             "group": "8b1635c410096b27"
           }
@@ -131,8 +131,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -233,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,8 +253,9 @@
   },
   "active": "4240a9f97f1ec44c",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Saros.md",
     "Journal de bord/2026-04-29.md",
+    "Culture/Histoire/Faits Historiques/Révolution des œillets.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Saros.md",
     "Attachments/image-559.webp",
     "Housemarq.md",
     "Sony.md",
@@ -284,7 +285,6 @@
     "Attachments/image-554.webp",
     "Tour de Romandie.md",
     "Pierre de Froidmont.md",
-    "Mountainbike.md",
     "Attachments/image-553.webp",
     "Attachments/image-552.webp",
     "Attachments/image-551.webp",

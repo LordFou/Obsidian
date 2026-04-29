@@ -1,0 +1,2 @@
+- Révolte ==**pacifique**== contre la dictature portugaise.
+- Cette dictature aura duré 48 ans
