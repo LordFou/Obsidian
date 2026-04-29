@@ -6,7 +6,6 @@
       {
         "id": "dbc0a3dbf1bc6f92",
         "type": "tabs",
-        "dimension": 67.73675762439807,
         "children": [
           {
             "id": "4240a9f97f1ec44c",
@@ -20,53 +19,7 @@
               },
               "icon": "lucide-file",
               "title": "Windrose"
-            },
-            "group": "8b1635c410096b27"
-          }
-        ]
-      },
-      {
-        "id": "2f8cc8b2ce1296f4",
-        "type": "tabs",
-        "dimension": 32.263242375601926,
-        "children": [
-          {
-            "id": "9ee5eb33bb792d1b",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Windrose.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.994802494802495,
-                  "repelStrength": 6.25779625779626,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graphique de Windrose"
-            },
-            "group": "8b1635c410096b27"
+            }
           }
         ]
       }
@@ -100,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "splatoon",
+                "query": "Aphelio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -252,8 +205,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "4240a9f97f1ec44c",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Aphelion.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Windrose.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Pragmata.md",
     "Build a Rocket Boy.md",
     "Culture/Histoire/Faits Historiques/Révolution des œillets.md",
@@ -265,7 +220,6 @@
     "Sony.md",
     "Hyper Games.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Moomintroll - Winter's Warmth.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Aphelion.md",
     "Loisirs/Jeux Vidéos/Sociétés/Don't Nod.md",
     "Assassin’s Creed Hexe.md",
     "Franchise Assasin's Creed.md",
@@ -284,7 +238,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Of Orcs And Men.md",
     "Cyanide.md",
     "Attachments/image-555.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/GreedFall - The Dying World.md",
     "Attachments/image-554.webp",
     "Attachments/image-553.webp",
     "Attachments/image-552.webp",

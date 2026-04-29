@@ -37,7 +37,7 @@ type: game
 - **Comparable à** :
 	- [[Valheim]]
 ## Anecdotes et Curiosités
-- 
+- En accord avec l'agence européenne de l'espace.
 ## Liens et Ressources
 
 | Description      | URL                          |
