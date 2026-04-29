@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Saros.md",
+                "file": "Journal de bord/2026-04-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Saros"
+              "title": "2026-04-29"
             },
             "group": "8b1635c410096b27"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Saros.md",
+                "file": "Journal de bord/2026-04-29.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Saros"
+              "title": "Graphique de 2026-04-29"
             },
             "group": "8b1635c410096b27"
           }
@@ -253,9 +253,10 @@
   },
   "active": "4240a9f97f1ec44c",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Saros.md",
+    "Journal de bord/2026-04-29.md",
     "Attachments/image-559.webp",
     "Housemarq.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Saros.md",
     "Sony.md",
     "Hyper Games.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Moomintroll - Winter's Warmth.md",
@@ -288,7 +289,6 @@
     "Attachments/image-552.webp",
     "Attachments/image-551.webp",
     "Attachments/image-550.webp",
-    "Attachments/image-549.webp",
     "Sans titre",
     "TI-99",
     "Media DB/wiki",
