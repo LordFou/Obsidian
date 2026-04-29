@@ -23,6 +23,7 @@ type: game
 - **Réception critique** : 
 	- CheckPoint (7.5/10)
 	- Izual : Scénario un peu à la ramasse
+	- 1 millions de vente en 2 jours
 - **Gameplay** :
 - **Durée estimée** : 
 
