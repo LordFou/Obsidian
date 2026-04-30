@@ -50,8 +50,10 @@ tags: mediaDB/game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- Vale Sangora
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Coen
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
@@ -61,6 +63,7 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/3751260 |
+| Description | URL                                        |
+| ----------- | ------------------------------------------ |
+| Steam       | https://store.steampowered.com/app/3751260 |
+![[image-561.webp|500x281]]
