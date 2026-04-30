@@ -19,6 +19,7 @@ type: personne
 | 2025  | [[Tour de République Tchèque]] - 2e étape         | 1ier     | :luc_plus: Maillot Général |
 | 2025  | [[Tour de République Tchèque]] - Classement Final | 1ier     |                            |
 |       |                                                   |          |                            |
+| 2026  | [[Tour de Romandie]] - 1e étape                   | 7e       |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
