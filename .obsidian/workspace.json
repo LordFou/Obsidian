@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Rafael Jodar.md",
+                "file": "Alexander Blockx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rafael Jodar"
+              "title": "Alexander Blockx"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Rafael Jodar",
+                "query": "Alexan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,8 +207,9 @@
   },
   "active": "9f4adb3705547eab",
   "lastOpenFiles": [
-    "Jannik Sinner.md",
+    "Attachments/image-560.webp",
     "Loisirs/Sport/Sportifs/Rafael Jodar.md",
+    "Jannik Sinner.md",
     "Tour de Romandie.md",
     "Junior Lecerf.md",
     "Loisirs/Sport/Tadej Pogacar.md",
@@ -234,7 +236,6 @@
     "Attachments/image-558.webp",
     "Spiders.md",
     "Attachments/image-557.webp",
-    "Alexander Blockx.md",
     "Attachments/image-556.webp",
     "Attachments/image-555.webp",
     "Attachments/image-554.webp",
