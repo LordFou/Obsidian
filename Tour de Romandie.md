@@ -33,11 +33,11 @@ type: event
 
 ### Etapes 
 
-|          | Vainqueur        | Général          | Montagne | Points | Jeune | Remarques               |
-| -------- | ---------------- | ---------------- | -------- | ------ | ----- | ---------------------- |
-| 1e (FRA) | [[Dorian Godon]] | [[Dorian Godon]] |          |        |       19e - [[Robbe Dhondt]] e  |
-|          |                  |                  |          |        |                                 |
-|          |                  |                  |          |        |                                 |
+|            | Vainqueur                                      | Général          | Montagne | Points | Jeune                    | Remarques |
+| ---------- | ---------------------------------------------- | ---------------- | -------- | ------ | ------------------------ | --------- |
+| Prol (FRA) | [[Dorian Godon]]                               | [[Dorian Godon]] |          |        | 19e - [[Robbe Dhondt]] e |           |
+| 1e (SLO)   | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] |                  |          |        |                          |           |
+|            |                                                |                  |          |        |                          |           |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
