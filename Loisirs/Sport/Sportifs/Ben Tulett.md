@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition         | Résultat | Remarque |
-| ----- | ------------------- | -------- | -------- |
-| 2026  | [[Flèche Wallonne]] | 3e       |          |
+| Année | Compétition            | Résultat | Remarque |
+| ----- | ---------------------- | -------- | -------- |
+| 2026  | [[Flèche Wallonne]]    | 3e       |          |
+| 2026  | [[Eschborn-Frankfurt]] | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

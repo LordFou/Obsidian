@@ -33,12 +33,12 @@ type: event
 
 ### Etapes 
 
-|            | Vainqueur                                      | Général           | Montagne            | Points            | Jeune                   | Remarques               |
-| ---------- | ---------------------------------------------- | ----------------- | ------------------- | ----------------- | ---------------------- | ----------------------- |
-| Prol (FRA) | [[Dorian Godon]]                               | [[Dorian Godon]]  |                     |                   19e - [[Robbe Dhondt]] ]  |                         |
-| 1e (SLO)   | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | [[Tadej Pogacar]] | [[Lenny Martinez]]  | [[Tadej Pogacar]] | [[Lenny Martine         | 7e - [[Junior Lecerf]]  |
-| 2e (SLO)   | [[Tadej Pogacar]]                              | [[Tadej Pogacar]] | [[Roland Thalmann]] | [[Tadej Pogacar]] | [[Lenny Martin          | 17e - [[Junior Lecerf]] |
-|            |                                                |                   |                     |                                             |                         |
+|            | Vainqueur                                      | Général           | Montagne            | Points                   | Jeune              | Remarques               |
+| ---------- | ---------------------------------------------- | ----------------- | ------------------- | ------------------------ | ------------------ | ----------------------- |
+| Prol (FRA) | [[Dorian Godon]]                               | [[Dorian Godon]]  |                     | 19e - [[Robbe Dhondt]] ] |                    |                         |
+| 1e (SLO)   | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | [[Tadej Pogacar]] | [[Lenny Martinez]]  | [[Tadej Pogacar]]        | [[Lenny Martinez]] | 7e - [[Junior Lecerf]]  |
+| 2e (SLO)   | [[Tadej Pogacar]]                              | [[Tadej Pogacar]] | [[Roland Thalmann]] | [[Tadej Pogacar]]        | [[Lenny Martinez]] | 17e - [[Junior Lecerf]] |
+| 3e (FRA)   | [[Dorian Godon]]                               | [[Tadej Pogacar]] |                     |                          |                    |                         |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
