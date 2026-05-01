@@ -43,6 +43,7 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
+	- CheckPoint (7/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -59,6 +60,8 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2353060 |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Steam       | https://store.steampowered.com/app/2353060       |
+| Trailer     | https://youtu.be/fq6GtBtYzeA?si=xwmN9TfXeuWTyh-9 |
+![[image-563.webp|500x275]]

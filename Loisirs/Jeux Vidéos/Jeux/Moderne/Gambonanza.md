@@ -45,6 +45,7 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
+	- CheckPoint (8/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -55,6 +56,7 @@ tags: mediaDB/game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Balatro]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
@@ -65,3 +67,4 @@ tags: mediaDB/game
 | ----------- | ------------------------------------------------ |
 | Steam       | https://store.steampowered.com/app/3509230       |
 | Trailer     | https://youtu.be/lYQmQGDLSJU?si=LQPowQPLOXgHHVMQ |
+![[image-562.webp|500x281]]
