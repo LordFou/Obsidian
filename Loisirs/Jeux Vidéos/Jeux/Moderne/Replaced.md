@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Sad Cat Studio]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Thunderful Publishing]]
 - **Plateformes** : [[PC]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Action]], [[Aventure]], [[Die and Retry]]
@@ -23,6 +23,7 @@ type: game
 	- Ambiance sonore à la [[Vangelis]]
 - **Réception critique** : 
 	- Assez dur d'après les gens, notamment quelques passages plateformes très hard.
+	- CheckPoint (6.5/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
