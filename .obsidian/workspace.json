@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gecko",
+                "query": "Oostduinkerke",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,7 +204,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9f4adb3705547eab",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Gecko Gods.md",
     "Journal de bord/2026-05-02.md",
