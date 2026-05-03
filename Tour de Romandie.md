@@ -40,6 +40,7 @@ type: event
 | 2e (SLO)   | [[Tadej Pogacar]]                              | [[Tadej Pogacar]] | [[Roland Thalmann]] | [[Tadej Pogacar]]        | [[Lenny Martinez]] | 17e - [[Junior Lecerf]] |
 | 3e (FRA)   | [[Dorian Godon]]                               | [[Tadej Pogacar]] | [[Roland Thalmann]] | [[Tadej Pogacar]]        | [[Lenny Martinez]] |                         |
 | 4e (SLO)   | [[Tadej Pogacar]]                              | [[Tadej Pogacar]] | [[Roland Thalmann]] | [[Tadej Pogacar]]        | [[Lenny Martinez]] | 8e - [[Junior Lecerf]]  |
+| 5e (SLO)   | [[Tadej Pogacar]]                              | [[Tadej Pogacar]] | [[Roland Thalmann]] | [[Tadej Pogacar]]        | [[Lenny Martinez]] |                         |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
@@ -52,10 +53,10 @@ type: event
 ### Hommes
 
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur         | Nationalité | Remarque |
+| ----- | ----------------- | ----------- | -------- |
+| 2025  |                   |             |          |
+| 2026  | [[Tadej Pogacar]] | Slovène     |          |
 ### Femmes
 
 | Année | Vainqueur         | Nationalité | Remarque |

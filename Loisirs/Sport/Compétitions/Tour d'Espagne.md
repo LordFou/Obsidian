@@ -11,7 +11,6 @@ Synonyme : Vuelta
 
 L'édition sera mouvementée à cause de manifestation pour la cause palestinienne ([[Génocide Palestinien]]).
 ## Hommes
-#### Etapes 
 
 |               | Vainqueur             | Général              | Montagne             | Points               | Jeune                  | Remarques                                                                        |
 | ------------- | --------------------- | -------------------- | -------------------- | -------------------- | ---------------------- | -------------------------------------------------------------------------------- |
@@ -44,9 +43,15 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 | --- | -------------- | ------- | -------- | ------ | ----- | --------- |
 | 7e  | Demi Vollering |         |          |        |       |           |
 |     |                |         |          |        |       |           |
-|     |                |         |          |        |       |           |
-|     |                |         |          |        |       |           |
 
+# Edition 2026 
+
+## Femmes
+
+|          | Vainqueur        | Général          | Montagne          | Points           | Jeune                 | Remarques              |
+| -------- | ---------------- | ---------------- | ----------------- | ---------------- | --------------------- | ---------------------- |
+| 1e (SUI) | [[Noemie Rüegg]] | [[Noemie Rüegg]] | [[Maeva Squiban]] | [[Noemie Rüegg]] | [[Eleonora Ciabocco]] | 2e - [[Lotte Kopecky]] |
+|          |                  |                  |                   |                  |                       |                        |
 
 # General 
 
@@ -57,4 +62,9 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 | 2018  | [[Simon Yates]]      | Anglais     |              |                   |                        |          |
 | 2022  | [[Remco Evenepoel]]  | Belge       |              |                   |                        |          |
 | 2025  | [[Jonas Vingegaard]] | Danois      | [[Jay Vine]] | [[Mads Pedersen]] | [[Matthew Riccitello]] |          |
-## Fem
+## Femmes
+
+| Année | Vainqueur          | Nationalité  | Remarque                  |
+| ----- | ------------------ | ------------ | ------------------------- |
+| 2025  | [[Demi Vollering]] | Néerlandaise | Sans véritable adversaire |
+|       |                    |              |                           |
