@@ -17,7 +17,9 @@ type: personne
 | ----- | ---------------------------------- | -------- | --------------------------------------------------------------- |
 | 2022  | [[Tour du Limbourg]]               | 1ier     |                                                                 |
 | 2023  | [[Grand Prix de Québec]]           | 1ier 🥇  |                                                                 |
+| 2023  | [[Famenne Ardenne Classic]]        | 1ier 🥇  |                                                                 |
 | 2024  | [[Binche-Chimay-Binche]]           | 1ier 🥇  |                                                                 |
+| 2024  | [[Famenne Ardenne Classic]]        | 1ier 🥇  |                                                                 |
 | 2025  | [[Brussels Cycling Classic]]       | 3e       | Sprint Massif                                                   |
 | 2025  | [[Tour de France]] - 9e étape      | 3e       | Sprint Massif                                                   |
 | 2025  | [[Tour de France]] - 11e étape     | 4e       | Etape de costaud                                                |
@@ -35,6 +37,7 @@ type: personne
 | 2026  | [[Clasica Almeria]]                | 6e       | Sprint                                                          |
 | 2026  | [[Tirreno-Adriatico]] - 3e étape   | 2e       | Sprint                                                          |
 | 2026  | [[Gand Wevelgem]]                  | 4e       | Sprint                                                          |
+| 2026  | [[Famenne Ardenne Classic]]        | 1ier 🥇  |                                                                 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

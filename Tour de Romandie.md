@@ -31,8 +31,6 @@ type: event
 
 ## Hommes
 
-### Etapes 
-
 |            | Vainqueur                                      | Général           | Montagne            | Points                   | Jeune              | Remarques               |
 | ---------- | ---------------------------------------------- | ----------------- | ------------------- | ------------------------ | ------------------ | ----------------------- |
 | Prol (FRA) | [[Dorian Godon]]                               | [[Dorian Godon]]  |                     | 19e - [[Robbe Dhondt]] ] |                    |                         |
@@ -53,10 +51,10 @@ type: event
 ### Hommes
 
 
-| Année | Vainqueur         | Nationalité | Remarque |
-| ----- | ----------------- | ----------- | -------- |
-| 2025  |                   |             |          |
-| 2026  | [[Tadej Pogacar]] | Slovène     |          |
+| Année | Vainqueur         | Nationalité | Montagne            | Points            | Jeune              | Team             | Remarque                |
+| ----- | ----------------- | ----------- | ------------------- | ----------------- | ------------------ | ---------------- | ----------------------- |
+| 2025  |                   |             |                     |                   |                    |                  |                         |
+| 2026  | [[Tadej Pogacar]] | Slovène     | [[Roland Thalmann]] | [[Tadej Pogacar]] | [[Lenny Martinez]] | [[Bora Redbull]] | 10e - [[Junior Lecerf]] |
 ### Femmes
 
 | Année | Vainqueur         | Nationalité | Remarque |
