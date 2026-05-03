@@ -11,11 +11,16 @@ type: event
 
 ### Etapes 
 
-|          | Vainqueur      | Général        | Montagne | Points | Jeune | Remarques |
-| -------- | -------------- | -------------- | -------- | ------ | ----- | --------- |
-| 1e (BEL) | [[Tom Crabbe]] | [[Tom Crabbe]] |          |        |       |           |
-|          |                |                |          |        |       |           |
-|          |                |                |          |        |       |           |
+|          | Vainqueur      | Général               | Montagne | Points         | Jeune | Remarques |
+| -------- | -------------- | --------------------- | -------- | -------------- | ----- | --------- |
+| 1e (BEL) | [[Tom Crabbe]] | [[Tom Crabbe]]        |          | [[Tom Crabbe]] |       |           |
+| 2e (BEL) | [[Tom Crabbe]] | [[Tom Crabbe]]        |          | [[Tom Crabbe]] |       |           |
+|          |                |                       |          |                |       |           |
+|          |                |                       |          |                |       |           |
+|          |                |                       |          |                |       |           |
+|          |                |                       |          |                |       |           |
+|          |                |                       |          |                |       |           |
+| 8e (BEL) | [[Tom Crabbe]] | [[Sebastian Berwick]] |          | [[Tom Crabbe]] |       | 3e -      |
 ## Femmes
 
 ### Etapes
@@ -28,10 +33,11 @@ type: event
 ### Hommes
 
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur             | Nationalité | Remarque |
+| ----- | --------------------- | ----------- | -------- |
+| 2025  | [[Wout Poels]]        | Néerlandais |          |
+| 2026  | [[Sebastian Berwick]] | Australien  |          |
+|       |                       |             |          |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
