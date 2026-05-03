@@ -11,16 +11,16 @@ type: event
 
 ### Etapes 
 
-|          | Vainqueur      | Général               | Montagne | Points         | Jeune | Remarques |
-| -------- | -------------- | --------------------- | -------- | -------------- | ----- | --------- |
-| 1e (BEL) | [[Tom Crabbe]] | [[Tom Crabbe]]        |          | [[Tom Crabbe]] |       |           |
-| 2e (BEL) | [[Tom Crabbe]] | [[Tom Crabbe]]        |          | [[Tom Crabbe]] |       |           |
-|          |                |                       |          |                |       |           |
-|          |                |                       |          |                |       |           |
-|          |                |                       |          |                |       |           |
-|          |                |                       |          |                |       |           |
-|          |                |                       |          |                |       |           |
-| 8e (BEL) | [[Tom Crabbe]] | [[Sebastian Berwick]] |          | [[Tom Crabbe]] |       | 3e -      |
+|          | Vainqueur      | Général               | Montagne | Points         | Jeune | Remarques              |
+| -------- | -------------- | --------------------- | -------- | -------------- | ----- | ---------------------- |
+| 1e (BEL) | [[Tom Crabbe]] | [[Tom Crabbe]]        |          | [[Tom Crabbe]] |       |                        |
+| 2e (BEL) | [[Tom Crabbe]] | [[Tom Crabbe]]        |          | [[Tom Crabbe]] |       |                        |
+|          |                |                       |          |                |       |                        |
+|          |                |                       |          |                |       |                        |
+|          |                |                       |          |                |       |                        |
+|          |                |                       |          |                |       |                        |
+|          |                |                       |          |                |       |                        |
+| 8e (BEL) | [[Tom Crabbe]] | [[Sebastian Berwick]] |          | [[Tom Crabbe]] |       | 3e - [[Kamiel Bonneu]] |
 ## Femmes
 
 ### Etapes

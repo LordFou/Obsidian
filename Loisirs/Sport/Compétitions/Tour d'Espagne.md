@@ -7,10 +7,10 @@ type: event
 
 Synonyme : Vuelta
 
-## Edition 2025
+# Edition 2025
 
 L'édition sera mouvementée à cause de manifestation pour la cause palestinienne ([[Génocide Palestinien]]).
-### Hommes
+## Hommes
 #### Etapes 
 
 |               | Vainqueur             | Général              | Montagne             | Points               | Jeune                  | Remarques                                                                        |
@@ -36,14 +36,9 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 | ==19e (BEL)== | [[Jasper Philipsen]]  | [[Jonas Vingegaard]] |                      |                      |                        |                                                                                  |
 | 20e (DAN)     | [[Jonas Vingegaard]]  | [[Jonas Vingegaard]] | [[Jay Vine]]         | [[Mads Pedersen]]    | [[Matthew Riccitello]] | 9e - [[Junior Lecerf]]                                                           |
 | 21e           | -                     | [[Jonas Vingegaard]] | [[Jay Vine]]         | [[Mads Pedersen]]    | [[Matthew Riccitello]] | 11e - [[Junior Lecerf]]                                                          |
-#### General
-| Année | Vainqueur            | Nationalité | Montagne     | Points            | Jeune                  | Remarque |
-| ----- | -------------------- | ----------- | ------------ | ----------------- | ---------------------- | -------- |
-| 2018  | [[Simon Yates]]      | Anglais     |              |                   |                        |          |
-| 2022  | [[Remco Evenepoel]]  | Belge       |              |                   |                        |          |
-| 2025  | [[Jonas Vingegaard]] | Danois      | [[Jay Vine]] | [[Mads Pedersen]] | [[Matthew Riccitello]] |          |
-### Femmes
-#### Etapes 
+
+## Femmes
+### Etapes 
 
 |     | Vainqueur      | Général | Montagne | Points | Jeune | Remarques |
 | --- | -------------- | ------- | -------- | ------ | ----- | --------- |
@@ -51,8 +46,15 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 |     |                |         |          |        |       |           |
 |     |                |         |          |        |       |           |
 |     |                |         |          |        |       |           |
-#### General
-| Année | Vainqueur          | Nationalité  | Remarque                  |
-| ----- | ------------------ | ------------ | ------------------------- |
-| 2025  | [[Demi Vollering]] | Néerlandaise | Sans véritable adversaire |
-|       |                    |              |                           |
+
+
+# General 
+
+## Hommes
+
+| Année | Vainqueur            | Nationalité | Montagne     | Points            | Jeune                  | Remarque |
+| ----- | -------------------- | ----------- | ------------ | ----------------- | ---------------------- | -------- |
+| 2018  | [[Simon Yates]]      | Anglais     |              |                   |                        |          |
+| 2022  | [[Remco Evenepoel]]  | Belge       |              |                   |                        |          |
+| 2025  | [[Jonas Vingegaard]] | Danois      | [[Jay Vine]] | [[Mads Pedersen]] | [[Matthew Riccitello]] |          |
+## Fem

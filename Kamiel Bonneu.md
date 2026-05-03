@@ -2,11 +2,11 @@
 type: personne
 ---
 
-# Sebastian Berwick
+# Kamiel Bonneu
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Australien
+- **Nationalité** :  Belge
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
@@ -15,8 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                            | Résultat | Remarque |
 | ----- | -------------------------------------- | -------- | -------- |
-| 2023  | [[Tour de Hainan]] - Xe étape          | 1ier     |          |
-| 2026  | [[Tour de Turquie]] - Classement final | 1ier     |          |
+| 2026  | [[Tour de Turquie]] - Classement final | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
