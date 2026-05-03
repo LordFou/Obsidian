@@ -8,10 +8,10 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur          | Nationalité | Remarque |
-| ----- | ------------------ | ----------- | -------- |
-| 2025  | [[Max Verstappen]] | Néerlandais |          |
-|       |                    |             |          |
+| Année | Vainqueur          | Epreuve    | Nationalité | Remarque |
+| ----- | ------------------ | ---------- | ----------- | -------- |
+| 2025  | [[Max Verstappen]] | Grand Prix | Néerlandais |          |
+| 2026  | [[Lando Norris]]   | Sprint     | Anglais     |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
