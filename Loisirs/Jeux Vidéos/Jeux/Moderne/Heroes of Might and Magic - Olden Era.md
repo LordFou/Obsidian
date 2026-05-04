@@ -28,7 +28,7 @@ tags: mediaDB/game
 
 ## Informations Générales
 
-- **Année de sortie** :  ?
+- **Année de sortie** :  ? (Early Access)
 - **Développeur** : 
 	- Studio : [[Unfrozen]]
 	- Personnalités : 
@@ -57,7 +57,8 @@ tags: mediaDB/game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- Le créateur de la franchise a rejoint lé
+- Le créateur de la franchise, [[Jon Van Caneghem]],  a rejoint l'équipe !
+- 
 ## Liens et Ressources
 
 | Description | URL       |

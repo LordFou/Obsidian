@@ -11,7 +11,7 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
-- **Top Ranking** : 69
+- **Top Ranking** : 36e
 
 # Palmarès et Distinctions
 | Année | Compétition                | Résultat       | Remarque                                                                                                                                                                                                                        |

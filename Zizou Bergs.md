@@ -41,7 +41,7 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+ - 8 titres en Challenger
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
