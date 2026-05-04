@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Open de Côte d'Ivoire - ATP Challenger 75
+# Tournoi de Monastir - ITF M25
 
 # Introduction
 
@@ -10,7 +10,6 @@ type: event
 
 | Année | Vainqueur           | Nationalité | Remarque |
 | ----- | ------------------- | ----------- | -------- |
-| ?     | [[Gauthier Onclin]] | ==Belge==   |          |
 | 2026  | [[Gauthier Onclin]] | ==Belge==   |          |
 |       |                     |             |          |
 # Femmes

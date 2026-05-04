@@ -18,14 +18,15 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : (Type de musique, Bande-son notable)
+- **Graphismes** : 
+- **Audio** : 
+	- M
 - **Réception critique** : 
 	- CheckPoint (7.5/10)
 	- Izual : Scénario un peu à la ramasse
 	- 1 millions de vente en 2 jours
 - **Gameplay** :
-- **Durée estimée** : 
+- **Durée estimée** : 15h max
 
 ## Histoire et Univers
 - **Lieu(x)** : 
@@ -40,7 +41,8 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Développement très compliqué
+- Séance de "Table Read" = lecture de scénario ensemble sans enregistrement.
 ## Liens et Ressources
 
 | Description | URL                                              |
