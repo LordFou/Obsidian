@@ -35,7 +35,7 @@ type: personne
 | 2026  | [[Tournoi de Monte-Carlo]] - Simple | 1/8 finale            | Défaite contre [[Alexander Zverev]]                          |
 | 2026  | [[Tournoi de Munich]]               | 2e tour               |                                                              |
 | 2026  | [[Tournoi de Madrid]]               | 1e tour               |                                                              |
-| 2026  | [[Tournoi d'Aix-en-Provence]]       | Finale                | Défaite contre [[Alejandro Tabilo]] (ATP )                   |
+| 2026  | [[Tournoi d'Aix-en-Provence]]       | Finale                | Défaite contre [[Alejandro Tabilo]] (ATP 43)                 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
