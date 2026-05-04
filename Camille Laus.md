@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[Pasted image 20250803231949.jpg]]
+![[image-567.webp|320x329]]
 # Camille Laus
 
 # Informations Générales
