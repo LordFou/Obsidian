@@ -20,7 +20,7 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : 
 - **Audio** : 
-	- M
+	- Musique sans thème iconique
 - **Réception critique** : 
 	- CheckPoint (7.5/10)
 	- Izual : Scénario un peu à la ramasse
@@ -37,6 +37,7 @@ type: game
 	- Diana
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- La place de l'homme et de la machine
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

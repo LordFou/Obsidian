@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-570.webp|333x260]]
 # Marianne Vos
 
 # Informations Générales
@@ -20,6 +20,7 @@ type: personne
 | 2025  | [[Championnat du monde de Gravel]] | 2e       | derrière [[Lorena Wiebes]]    |
 |       |                                    |          |                               |
 | 2026  | [[Paris-Roubaix]]                  | 2e       |                               |
+| 2026  | [[Tour d'Espagne]]                 | Abandon  | Fracture de la clavicule      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -29,7 +30,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - 8 maillots jaune
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Lors de la 1ière étape du [[Tour d'Espagne]] 2026, elle se fracture la clavicule mais terminera quand même 7e. Suivra son abandon.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
