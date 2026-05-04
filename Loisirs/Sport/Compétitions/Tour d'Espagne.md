@@ -51,7 +51,7 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 |              | Vainqueur         | Général            | Montagne          | Points             | Jeune                 | Remarques              |
 | ------------ | ----------------- | ------------------ | ----------------- | ------------------ | --------------------- | ---------------------- |
 | 1e (SUI)     | [[Noemie Rüegg]]  | [[Noemie Rüegg]]   | [[Maeva Squiban]] | [[Noemie Rüegg]]   | [[Eleonora Ciabocco]] | 2e - [[Lotte Kopecky]] |
-| ==2e (BEL)== | [[Shari Bossuyt]] | [[Franziska Koch]] |                   | [[Franziska Koch]] | Lore                  |                        |
+| ==2e (BEL)== | [[Shari Bossuyt]] | [[Franziska Koch]] | [[Maeva Squiban]] | [[Franziska Koch]] | [[Lore De Schepper]]  |                        |
 
 # General 
 
