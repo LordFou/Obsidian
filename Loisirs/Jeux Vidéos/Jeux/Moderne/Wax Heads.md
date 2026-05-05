@@ -44,6 +44,12 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
+	- CheckPoint (9/10)
+		- Magnifique style de dessin animé « fanzine »
+		- Un récit captivant
+		- Le gameplay est fluide et facile à prendre en main.
+		- Les personnages sont divers et chacun a sa propre histoire.
+		- Quelques bugs
 - **Gameplay** :
 - **Durée estimée** : 
 
