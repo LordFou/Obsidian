@@ -1,4 +1,6 @@
-Ce n'est pas de l'horreur ou de l'épouvante mais simplement une ambiance dérangeante.
+Ce n'est pas de l'horreur ou de l'épouvante mais simplement une ambiance dérangeante => une horreur qui ne se manifeste pas mais qui persiste, qui ne montre rien mais laisse des traces
+
+Différent du [[Survival Horror]], le [[Residual Horror]], c'est un peu comme si on avait retiré tous les piliers du [[Survival Horror]].
 
 | Jeu              | Année | Remarque |
 | ---------------- | ----- | -------- |

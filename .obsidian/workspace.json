@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Artic eggs",
+                "query": "survival horror",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,8 +207,10 @@
   },
   "active": "9f4adb3705547eab",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Arctic Eggs.md",
+    "Survival Horror.md",
     "Residual Horror.md",
+    "Ressources/Lâge dor du survival horror  mythe ou réalité  (Partie 1).md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Arctic Eggs.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Wax Heads.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Vagrus - The Riven Realms.md",
     "Attachments/image-572.webp",
@@ -234,9 +236,7 @@
     "Lando Norris.md",
     "Oscar Piastri.md",
     "Loisirs/Sport/Compétitions/Open de Côte d'Ivoire.md",
-    "Gauthier Onclin.md",
     "Attachments/image-569.webp",
-    "Tournoi de Monastir.md",
     "Attachments/image-568.webp",
     "Attachments/image-567.webp",
     "Attachments/image-566.webp",
