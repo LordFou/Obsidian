@@ -2,6 +2,14 @@ Ce n'est pas de l'horreur ou de l'épouvante mais simplement une ambiance déran
 
 Différent du [[Survival Horror]], le [[Residual Horror]], c'est un peu comme si on avait retiré tous les piliers du [[Survival Horror]].
 
+4 mécanismes :
+- une incertitude perceptive permanente
+- L’horreur est dans ce qui manque
+- une persistence du malaise
+- le médium comme matière de l'angoisse : la texture même de l’image, du grain, du tremblement des polygones
+
+Cousin de l'[[Abstract Horror]]
+
 | Jeu              | Année | Remarque |
 | ---------------- | ----- | -------- |
 | [[Arctic Eggs]]  | 2024  |          |
