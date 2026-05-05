@@ -65,6 +65,7 @@ type: personne
 | 2026  | [[Tour des Flandres]]                                                                             | 4e       |                                                                         |
 | 2026  | Meeting international de cyclisme sur piste de Gand - Omnium                                      | 1ière 🥇 |                                                                         |
 | 2026  | [[Tour d'Espagne]] - 1e étape                                                                     | 2e       |                                                                         |
+| 2026  | [[Tour d'Espagne]] - 3e étape                                                                     | 2e       |                                                                         |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
