@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Out of the Blue Games
+# Rastrolabs Game Studio
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,10 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                      |
-| ----- | -------------------------- |
-| 2020  | [[Call of the Sea]]        |
-| 2026  | [[Call of the Elder Gods]] |
+| Année | Titre       |
+| ----- | ----------- |
+| 2026  | [[RoadOut]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
