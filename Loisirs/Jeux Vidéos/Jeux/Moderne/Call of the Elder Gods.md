@@ -32,7 +32,7 @@ tags: mediaDB/game
 	- Studio : [[Out of the Blue Games]]
 	- Personnalités : 
 - **Éditeur** : [[Kwalee Gaming]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], 
 - **Franchise** : 
 - **Genre** : Adventure,Indie
 - **Résumé** :  
