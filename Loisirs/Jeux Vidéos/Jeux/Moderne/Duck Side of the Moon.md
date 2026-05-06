@@ -32,10 +32,10 @@ tags: mediaDB/game
 - **Développeur** : 
 	- Studio : [[Starbrew Games]]
 	- Personnalités : 
-- **Éditeur** : Starbrew Games
-- **Plateformes** : 
+- **Éditeur** : [[Starbrew Games]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
 - **Franchise** : 
-- **Genre** : Adventure,Casual,Indie
+- **Genre** : 
 - **Résumé** :  
 
 ## Détails Techniques
@@ -60,6 +60,8 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2959770 |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Steam       | https://store.steampowered.com/app/2959770       |
+| Trailer     | https://youtu.be/59YZ83yAj2s?si=6wv66lphdh_sa3wU |
+|             |                                                  |
