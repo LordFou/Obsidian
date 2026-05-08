@@ -13,10 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition         | Résultat  | Remarque                          |
-| ----- | ------------------- | --------- | --------------------------------- |
-| 2026  | [[Australian Open]] | Finaliste | Défaite contre [[Carlos Alcaraz]] |
-|       |                     |           |                                   |
+| Année | Compétition              | Résultat    | Remarque                          |
+| ----- | ------------------------ | ----------- | --------------------------------- |
+| 2026  | [[Australian Open]]      | Finaliste   | Défaite contre [[Carlos Alcaraz]] |
+| 2026  | [[Tournoi Indian Wells]] | 1/8e finale |                                   |
+| 2026  | [[Tournoi de Rome]]      | 1e tour     | !!                                |
+|       |                          |             |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
