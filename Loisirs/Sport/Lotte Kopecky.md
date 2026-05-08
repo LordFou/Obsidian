@@ -67,6 +67,7 @@ type: personne
 | 2026  | [[Tour d'Espagne]] - 1e étape                                                                     | 2e       |                                                                         |
 | 2026  | [[Tour d'Espagne]] - 3e étape                                                                     | 2e       |                                                                         |
 | 2026  | [[Tour d'Espagne]] - 4e étape                                                                     | 1ière    |                                                                         |
+| 2026  | [[Tour d'Espagne]] - 5e étape                                                                     | 2e       |                                                                         |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
