@@ -60,6 +60,20 @@ Aussi appelé [[Giro]] ^^
 | 7e<br>(AUS) | [[Sarah Gigante]]  | [[Elisa Longo Borghini]] |          |        |       |                                                                   |
 | 8e<br>(ALL) | [[Liane Lippert]]  | [[Elisa Longo Borghini]] |          |        |       |                                                                   |
 
+# Edition 2026
+## Hommes
+
+|          | Vainqueur        | Général          | Montagne          | Points           | Jeune            | Remarques                  |
+| -------- | ---------------- | ---------------- | ----------------- | ---------------- | ---------------- | -------------------------- |
+| 1e (FRA) | [[Paul Magnier]] | [[Paul Magnier]] | [[Diego Sevilla]] | [[Paul Magnier]] | [[Paul Magnier]] | 10e - [[Dries Van Gestel]] |
+|          |                  |                  |                   |                  |                  |                            |
+## Femmes
+
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|     |           |         |          |        |       |           |
+
+
 # General
 
 ### Hommes
