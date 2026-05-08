@@ -30,7 +30,7 @@ type: personne
 | 2026  | [[Tournoi de Monte-Carlo]] | 1/8 finale     | Défaite contre [[Alex de Minaur]] (ATP 6)                                                                                                                                                                                       |
 | 2026  | [[Tournoi de Munich]]      | 1/8 finale     | Défaite contre [[Ben Shelton]] (ATP 6)                                                                                                                                                                                          |
 | 2026  | [[Tournoi de Madrid]]      | ==1/2 finale== | Victoire en 1/16e contre [[Félix Auger-Aliassime]] (ATP 5)<br>Victoire en 1/8e contre [[Fransisco Cerundolo]] (ATP 20)<br>Victoire en 1/4 contre [[Casper Ruud]] (ATP 15)<br>Défaite en 1/2 contre [[Alexander Zverev]] (ATP 3) |
-|       |                            |                |                                                                                                                                                                                                                                 |
+| 2026  | [[Tournoi de Rome]]        | 1/16 finale    | Victoire contre [[Federico Cina]] (ATP 225)                                                                                                                                                                                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
