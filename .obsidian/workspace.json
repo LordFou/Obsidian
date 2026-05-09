@@ -15,7 +15,7 @@
               "state": {
                 "file": "SD-Worx.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "SD-Worx"
