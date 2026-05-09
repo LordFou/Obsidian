@@ -13,10 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                    | Résultat | Remarque |
-| ----- | ------------------------------ | -------- | -------- |
-| 2025  | [[Tour d'Espagne]] - 14e étape | 1ier     |          |
-| 2026  | [[Tour de Murcie]] - 1e étape  | 1ier     |          |
+| Année | Compétition                              | Résultat | Remarque |
+| ----- | ---------------------------------------- | -------- | -------- |
+| 2025  | [[Tour des Asturies]] - Classement final | 1ier     |          |
+| 2025  | [[Tour d'Espagne]] - 14e étape           | 1ier     |          |
+| 2026  | [[Tour de Murcie]] - 1e étape            | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

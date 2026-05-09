@@ -34,7 +34,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Le brouillard de Silent Hill était à l’origine une solution technique pour masquer la distance de rendu limitée de la console. 
 ## Liens et Ressources
 
 | Description | URL |

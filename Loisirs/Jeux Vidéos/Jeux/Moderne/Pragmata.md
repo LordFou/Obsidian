@@ -18,26 +18,32 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : (Type de musique, Bande-son notable)
+- **Graphismes** : 
+- **Audio** : 
+	- Musique sans thème iconique
 - **Réception critique** : 
 	- CheckPoint (7.5/10)
+	- Izual : Scénario un peu à la ramasse
+	- 1 millions de vente en 2 jours
 - **Gameplay** :
-- **Durée estimée** : 
+- **Durée estimée** : 15h max
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Base lunaire]]
 - **Epoque** : 
 - **Personnages principaux** : 
 	- Hugh Williams
 	- Diana
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- La place de l'homme et de la machine
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Développement très compliqué
+- Séance de "Table Read" = lecture de scénario ensemble sans enregistrement.
 ## Liens et Ressources
 
 | Description | URL                                              |

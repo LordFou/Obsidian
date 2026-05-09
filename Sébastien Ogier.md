@@ -7,7 +7,7 @@ type: personne
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Français
-- **Sport / Discipline** :  [[Rallye]]
+- **Sport / Discipline** :  [[Rallye des Iles Canaries]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  

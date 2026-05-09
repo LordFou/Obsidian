@@ -20,7 +20,7 @@ type: personne
 | 2026  | [[Grand Prix de Chine]] - Course         | 1ier     | ==Première victoire à 19 ans !== |
 | 2026  | [[Grand Prix du Japon]] - Qualifications | 1ier     |                                  |
 | 2026  | [[Grand Prix du Japon]] - Course         | 1ier     |                                  |
-|       |                                          |          |                                  |
+| 2026  | [[Grand Prix des USA]] - Course          | 1ier     |                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

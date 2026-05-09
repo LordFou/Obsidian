@@ -11,24 +11,26 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
+- **Top Ranking** : 1
 
 # Palmarès et Distinctions
-| Année | Compétition                         | Résultat        | Remarque                            |
-| ----- | ----------------------------------- | --------------- | ----------------------------------- |
-| 2025  | [[Roland-Garros]]                   | Finaliste       | Premier mondiale lors du tournoi    |
-| 2025  | [[Tournoi de Paris]]                | Vainqueur       |                                     |
-|       |                                     |                 |                                     |
-| 2026  | [[Tournoi de Doha]]                 | Quart de finale |                                     |
-| 2026  | [[Tournoi Indian Wells]]            | Vainqueur       | Victoire contre [[Daniil Medvedev]] |
-| 2026  | [[Tournoi de Miami]]                | Vainqueur       |                                     |
-| 2026  | [[Tournoi de Monte-Carlo]] - Double | 2e tour         | avec [[Zizou Bergs]]                |
-| 2026  | [[Tournoi de Monte-Carlo]] - Simple | Vainqueur       | Victoire contre [[Carlos Alcaraz]]  |
+| Année | Compétition                         | Résultat        | Remarque                             |
+| ----- | ----------------------------------- | --------------- | ------------------------------------ |
+| 2025  | [[Roland-Garros]]                   | Finaliste       | Premier mondiale lors du tournoi     |
+| 2025  | [[Tournoi de Paris]]                | Vainqueur       |                                      |
+|       |                                     |                 |                                      |
+| 2026  | [[Tournoi de Doha]]                 | Quart de finale |                                      |
+| 2026  | [[Tournoi Indian Wells]]            | Vainqueur       | Victoire contre [[Daniil Medvedev]]  |
+| 2026  | [[Tournoi de Miami]]                | Vainqueur       |                                      |
+| 2026  | [[Tournoi de Monte-Carlo]] - Double | 2e tour         | avec [[Zizou Bergs]]                 |
+| 2026  | [[Tournoi de Monte-Carlo]]          | Vainqueur       | Victoire contre [[Carlos Alcaraz]]   |
+| 2026  | [[Tournoi de Madrid]]               | Vainqueur       | Victoire contre [[Alexander Zverev]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-- 6 trophées en Masters 1000
+- 6 trophées en Masters 1000 dont 5 d'affilée (Record !)
 - 26 sets consécutifs gagnés en Masters 1000 (lors du [[Tournoi de Miami]] 2026). Il prend le record à [[Novak Djokovic]] qui en était à 24.
 
 # Controverses ou Événements Importants

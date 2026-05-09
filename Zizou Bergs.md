@@ -23,6 +23,7 @@ type: personne
 | 2025  | [[ATP - Tournoi de Tokyo]]          | 2e tour               | Défaite contre [[Carlos Alcaraz]]                            |
 | 2025  | [[ATP - Tournoi de Shangaï]]        | 1/4e finale           | Meilleur résultat en ATP<br>Défaite contre [[Novac Jokovic]] |
 | 2025  | [[Masters 1.000 de Paris]]          | 2e tour               | Défaite contre [[David Sinner]]                              |
+|       |                                     |                       |                                                              |
 | 2026  | [[United Cup]]                      | Demi-finale           | avec l' [[Equipe nationale belge de Tennis]]                 |
 | 2026  | [[Australian Open]]                 | 1ier tour             |                                                              |
 | 2026  | [[Tournoi de Rotterdam]]            | 1ier tour             |                                                              |
@@ -34,12 +35,14 @@ type: personne
 | 2026  | [[Tournoi de Monte-Carlo]] - Simple | 1/8 finale            | Défaite contre [[Alexander Zverev]]                          |
 | 2026  | [[Tournoi de Munich]]               | 2e tour               |                                                              |
 | 2026  | [[Tournoi de Madrid]]               | 1e tour               |                                                              |
+| 2026  | [[Tournoi d'Aix-en-Provence]]       | Finale                | Défaite contre [[Alejandro Tabilo]] (ATP 43)                 |
+| 2026  | [[Tournoi de Rome]]                 | 1e tour               | Défaite contre [[Terence Atmane]] (ATP 51)                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+ - 8 titres en Challenger
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

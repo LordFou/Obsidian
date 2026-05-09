@@ -34,6 +34,7 @@ type: personne
 | 2025  | [[Tournoi de Wuhan]] - Simple                    | 2e tour       | Blessée au dos                                                        |
 | 2025  | [[WTA - Tournoi d'Osaka]] - Simple               | 2e tour       |                                                                       |
 | 2025  | [[Masters WTA de Ryad]] - Double                 | Vainqueur     | avec V                                                                |
+|       |                                                  |               |                                                                       |
 | 2026  | [[Australian Open]] - Simple                     | 1/8 finale    | Défaite contre Rybanika (5e WTA)                                      |
 | 2026  | [[Australian Open]] - Double                     | ==Vainqueur== | avec [[Shuai Zhang]]                                                  |
 | 2026  | [[Tournoi de Doha]]                              | 2e tour       | Diminuée physiquement                                                 |
@@ -44,6 +45,8 @@ type: personne
 | 2026  | [[Tournoi de Miami]] - Simple                    | 1/16 finale   |                                                                       |
 | 2026  | [[Tournoi de Miami]] - Double                    | 1/4 finale    | Abandon sur pépin physique (infection virale)<br>avec [[Shuai Zhang]] |
 | 2026  | [[Billie Jean King Cup]] - 1/8 finale - 2e match | Vainqueure    |                                                                       |
+| 2026  | [[Tournoi de Madrid]] - Simple                   | 3e tour       | Défaite contre [[Karolina Pliskova]]                                  |
+| 2026  | [[Tournoi de Rome]] - Simple                     | 1/16 finale   |                                                                       |
 
 # Style et Caractéristiques
 - C'est une joueuse très équilibrée et régulière qui intègre en juin 2025 le club très fermé des joueuses qui ont gagné un tournoi sur les 3 types de surface.

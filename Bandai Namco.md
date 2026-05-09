@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Bandai Namco
+# Bandai Namco Entertainment
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.

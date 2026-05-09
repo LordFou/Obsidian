@@ -7,7 +7,7 @@ type: personne
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** : Belge
-- **Sport / Discipline** : [[Rallye]]
+- **Sport / Discipline** : [[Rallye des Iles Canaries]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** : [[Hyundai]]
 - **Période d’activité** :  
@@ -22,6 +22,8 @@ type: personne
 | 2025  | [[Rallye d'Arabie Saoudite]]                         | 1ier 🥇  |          |
 | 2025  | [[Championnat du Monde - WRC\|Championnat du Monde]] | 5e       |          |
 | 2026  | [[Rallye de Suède]]                                  | 7e       |          |
+| 2026  | [[Rallye de Croatie]]                                | Abandon  |          |
+| 2026  | [[Rallye des Iles Canaries]]                         | 6e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

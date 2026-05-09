@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-564.webp|370x373]]
 # Valentin Paret-Peintre
 
 # Informations Générales

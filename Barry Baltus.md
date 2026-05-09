@@ -24,6 +24,7 @@ type: personne
 | 2026  | GP de Thaïlande          | 14e      | Moto2    |                               |
 | 2026  | [[GP Brésil]]            | 14e      | Moto2    |                               |
 | 2026  | GP des US                | 6e       | Moto2    | Après être parti de la pôle ! |
+| 2026  | GP Espagne               | Abandon  | Moto2    |                               |
 |       |                          |          |          |                               |
 
 # Style et Caractéristiques

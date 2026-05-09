@@ -24,7 +24,6 @@ played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-
 ![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/5590e42cab09dacabee973dd2c3e27ef12ed4950/header.jpg?t=1774363861)
 # Vampire Crawlers
 

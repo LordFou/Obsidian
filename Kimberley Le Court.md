@@ -15,6 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                   | Résultat | Remarque                 |
 | ----- | ----------------------------- | -------- | ------------------------ |
+| 2025  | [[Liège-Bastogne-Liège]]      | 1ier     |                          |
 | 2025  | [[Tour de France]] - 2e étape | 3e       | :luc_plus: Maillot Jaune |
 | 2025  | [[Tour de France]] - 5e étape | 1iere    | :luc_plus: Maillot Jaune |
 

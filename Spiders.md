@@ -1,7 +1,7 @@
 ---
 type: societe
 ---
-
+![[image-555.webp|500x281]]
 # Spiders
 
 ## Présentation
@@ -9,23 +9,54 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ## Informations Générales
 - **Nom complet** :  
-- **Date de création** :  
+- **Date de création** :  2008
 - **Fondateurs** :  
 - **Personnalités** :
+	- [[Jehanne Rousseau]] (scénariste, réalisatrice, directrice)
+	- [[Anne Devouassoux]] (Directrice)
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
+date: 2008 ?
+title: Quelques commandes de [[Focus Home Interactive]]
 content:
+
+date: 2012
+title: Mission de co-développement sur [[Of Orcs and Men]] avec [[Cyanide]]
+content:
+
+date: 2008-2018
+title: Une décennie de partenariat entre [[Cyanide]] et [[Focus Home Interactive]]
+content: 
+
+date: 2019
+title: Rachat du studio par [[BigBen Interactive]]
+content: Le but est d'en faire l'une des vitrines de son nouveau bras d'édition [[Nacon]]
+
+date: 2023
+title: Gros Changements 
+content: L'entreprise s'engage pour la première fois dans deux développements parallèles, compliqués par une réorganisation du travail jugée insuffisante et un changement de direction : [[Anne Devouassoux]] remplace [[Jehanne Rousseau]]
+
+date: Depuis 2024
+title: Syndicat
+content: Plusieurs alarmes relayées par le syndicat STJV, dénonçent une rapide dégradation des conditions de travail et un dialogue social lourdement empêché au sein du studio.
+
+date: Avril 2026  
+title: Liquidation
+content: La maison mère [[Nacon]], qui cherchait à vendre cette filiale pour rembourser ses dettes, n'a pas trouvé preneur. Le redressement judiciaire de Spiders va laisser place à une liquidation.
 ```
 
 ## Jeux Développés
 | Année | Titre                           |
 | ----- | ------------------------------- |
+| 2012  | [[Of Orcs And Men]]             |
+|       | [[The Technomancer]]            |
+| 2013  | [[Mars - War Logs]]             |
+| 2022  | [[Steelrising]]                 |
+| 2025  | Dark - Abandon                  |
 | 2026  | [[GreedFall - The Dying World]] |
 
 ## Moteur(s) Utilisé(s)
@@ -44,6 +75,10 @@ Lister les prix, distinctions ou records obtenus.
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+
+| Quoi                       | Lien                                                                                                |
+| -------------------------- | --------------------------------------------------------------------------------------------------- |
+| Lettre Ouverte du [[STJV]] | https://www.stjv.fr/wp-content/uploads/2024/08/Open-letter-to-Spiders-management-public-version.pdf |
+
+
+![[image-557.webp|500x309]]

@@ -5,7 +5,7 @@ type: societe
 # Milestone S.r.l.
 
 ## Présentation
-Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
+- A l'origine, ce studio s'appelait Graffiti
 
 ## Informations Générales
 - **Nom complet** :  

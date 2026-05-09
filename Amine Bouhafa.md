@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-550.webp|500x284]]
 # Amine Bouhafa
 
 ## Présentation

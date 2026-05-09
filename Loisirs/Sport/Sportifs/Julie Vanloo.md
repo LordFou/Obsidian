@@ -5,12 +5,19 @@ type: personne
 # Julie Vanloo
 
 # Informations Générales
-- **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Date de naissance** :  1993
+- **Nationalité** :  Belge
+- **Sport / Discipline** :  [[Basket-Ball]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[New York Liberty]]
 - **Période d’activité** :  
+
+```timeline-labeled
+[line-5, body-2]
+date: Mai 2026
+title: Direction la pomme !
+content: Julie Vanloo recrutée par New York Liberty quelques heures avant le début de la saison de [[WNBA]]
+```
 
 # Palmarès et Distinctions
 | Année | Compétition        | Résultat    | Remarque                                    |

@@ -20,7 +20,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- - 1 millions de vente en ???
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -36,7 +37,7 @@ type: game
 - **Comparable à** :
 	- [[Valheim]]
 ## Anecdotes et Curiosités
-- 
+- En accord avec l'agence européenne de l'espace.
 ## Liens et Ressources
 
 | Description      | URL                          |

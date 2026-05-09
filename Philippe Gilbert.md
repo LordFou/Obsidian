@@ -1,13 +1,13 @@
 ---
 type: personne
 ---
-
+![[image-545.webp|418x301]]
 # Philippe Gilbert
 
 # Informations Générales
-- **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Date de naissance** :  1983
+- **Nationalité** :  Belge
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
@@ -15,7 +15,14 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                  | Résultat | Remarque |
 | ----- | -------------------------------------------- | -------- | -------- |
+| 2010  | [[Amstel Gold Race]]                         | 1ier     |          |
 | 2011  | [[Strade Bianche]]                           | 1ier     |          |
+| 2011  | [[Tirreno-Adriatico]] - Xe étape             | 1ier     |          |
+| 2011  | [[Milan San Remo]]                           | 3e       |          |
+| 2011  | [[Flèche Brabançonne]]                       | 1ier     |          |
+| 2011  | [[Flèche Wallonne]]                          | 1ier     |          |
+| 2011  | [[Liège-Bastogne-Liège]]                     | 1ier     |          |
+| 2011  | [[Amstel Gold Race]]                         | 1ier     |          |
 | 2012  | [[Championnat du Monde de Cyclisme]] - Route | 1ier     |          |
 | 2019  | [[Paris-Roubaix]]                            | 1ier     |          |
 

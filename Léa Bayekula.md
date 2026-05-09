@@ -23,7 +23,8 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Mai 2026
+	- Léa Bayekula bat son propre record du monde du 200 m (26.96) en T54
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-554.webp|267x190]]
 # Dorian Godon
 
 # Informations Générales
@@ -18,6 +18,7 @@ type: personne
 | 2026  | [[Paris-Nice]] - 7e étape        | 1ier     |                          |
 | 2026  | [[Tour de Catalogne]] - 1e étape | 1ier     | 2e - [[Remco Evenepoel]] |
 | 2026  | [[Tour de Catalogne]] - 3e étape | 1ier     |                          |
+| 2026  | [[Tour de Romandie]] - 1e étape  | 1ier     |                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

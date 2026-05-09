@@ -7,7 +7,7 @@ type: personne
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** : Français
-- **Sport / Discipline** : [[Rallye]] 
+- **Sport / Discipline** : [[Rallye des Iles Canaries]] 
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
@@ -19,6 +19,7 @@ type: personne
 | 2025  | [[Rallye du Paraguay]]         | 1ier     |                           |
 | 2025  | [[Rallye du Japon]]            | 1ier     |                           |
 | 2025  | [[Championnat du Monde - WRC]] | 1ier     |                           |
+| 2026  | [[Rallye des Iles Canaries]]   | 1ier     |                           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

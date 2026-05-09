@@ -20,6 +20,9 @@ type: personne
 | 2025  | [[Grand Prix de Hongrie]]         | 1ier     |          |
 | 2025  | [[Grand Prix du Mexique]]         | 1ier     |          |
 | 2025  | [[Championnat du Monde de F1]]    | 1ier     |          |
+|       |                                   |          |          |
+| 2026  | [[Grand Prix des USA]] - Sprint   | 1ier     |          |
+| 2026  | [[Grand Prix des USA]] - Course   | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

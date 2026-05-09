@@ -18,7 +18,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 | Année | Titre            | Genre | Plateformes |
 | ----- | ---------------- | ----- | ----------- |
 | 2025  | [[Lost Records]] |       |             |
-|       | [[Aphelion]]     |       |             |
+| 2026  | [[Aphelion]]     |       |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

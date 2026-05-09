@@ -35,7 +35,7 @@ tags: mediaDB/game
 	- Studio : [[Hyper Games]]
 	- Personnalités : 
 - **Éditeur** : [[Hyper Games]], [[Kakehashi Games]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Switch]]
 - **Franchise** : 
 - **Genre** : [[Aventure]], [[RPG]]
 - **Résumé** :  
@@ -46,6 +46,7 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
+	- CheckPoint (7.5/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -63,6 +64,7 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL                                        |
-| ----------- | ------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/3256150 |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Steam       | https://store.steampowered.com/app/3256150       |
+| Trailer     | https://youtu.be/5ePphEutTJ8?si=CfbJ805U2TA6Hzrp |
