@@ -57,6 +57,7 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 | 5e (NDL)     | [[Mischa Bredewold]]     | [[Lotte Kopecky]]        |                          |                    |                       | 2e - [[Lotte Kopecky]] qui laisse gagner sa coéquipière |
 | 6e (NDL)     | [[Anna van der Breggen]] | [[Anna van der Breggen]] | [[Anna van der Breggen]] | [[Lotte Kopecky]]  | [[Marion Bunel]]      | 9e - [[Lore De Schepper]]                               |
 | 7e           |                          |                          |                          |                    |                       |                                                         |
+|              |                          |                          |                          |                    |                       |                                                         |
 
 # General 
 
