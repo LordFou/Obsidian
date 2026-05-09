@@ -92,7 +92,7 @@ Aussi surnommé la petite reine, le tour de France est le 3e évènement sportif
 | 6e<br>(FRA) | [[Maeva Squiban]]          | [[Kimberley Le Court]]     | [[Elise Chabbey]] | [[Lorena Wiebes]] | [[Titia Ryo]]    | [[Maeva Squiban]]        | 6e - [[Margot Vanpachtenbeke]]e                  |
 | 7e<br>(FRA) | [[Maeva Squiban]]          | [[Kimberley Le Court]]     | [[Elise Chabbey]] | [[Lorena Wiebes]] | [[Nienke Vinke]] | [[Maeva Squiban]]        | 11e - [[Lotte Kopecky]]                          |
 | 8e<br>(FRA) | [[Pauline Ferrand Prevot]] | [[Pauline Ferrand Prevot]] | [[Elise Chabbey]] | [[Lorena Wiebes]] | [[Marion Bunel]] | [[Niamh Fisher-black]]   | 15e - [[Justine Ghekiere]]                       |
-| 9e<br>(FRA) | [[Pauline Ferrand Prevot]] | [[Pauline Ferrand Prevot]] | [[Elise Chabbey]] | [[Lorena Wiebes]] | [[Nienke Vinke]] | [[Anna Van der breggen]] | 14e - [[Justine Ghekiere]]                       |
+| 9e<br>(FRA) | [[Pauline Ferrand Prevot]] | [[Pauline Ferrand Prevot]] | [[Elise Chabbey]] | [[Lorena Wiebes]] | [[Nienke Vinke]] | [[Anna van der Breggen]] | 14e - [[Justine Ghekiere]]                       |
 
 | Equipe         | Nbr Victoires |
 | -------------- | ------------- |

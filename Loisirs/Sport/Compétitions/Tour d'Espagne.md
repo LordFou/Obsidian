@@ -48,14 +48,16 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 
 ## Femmes
 
-|              | Vainqueur            | Général            | Montagne             | Points             | Jeune                 | Remarques                                               |
-| ------------ | -------------------- | ------------------ | -------------------- | ------------------ | --------------------- | ------------------------------------------------------- |
-| 1e (SUI)     | [[Noemie Rüegg]]     | [[Noemie Rüegg]]   | [[Maeva Squiban]]    | [[Noemie Rüegg]]   | [[Eleonora Ciabocco]] | 2e - [[Lotte Kopecky]]                                  |
-| ==2e (BEL)== | [[Shari Bossuyt]]    | [[Franziska Koch]] | [[Maeva Squiban]]    | [[Franziska Koch]] | [[Lore De Schepper]]  |                                                         |
-| 3e (FRA)     | [[Cédrine Kerbaol]]  | [[Franziska Koch]] | [[Ashleigh Moolman]] | [[Franziska Koch]] | [[Lore De Schepper]]  | 2e - [[Lotte Kopecky]]                                  |
-| ==4e (BEL)== | [[Lotte Kopecky]]    | [[Lotte Kopecky]]  | [[Marine Allione]]   | [[Franziska Koch]] | [[Lore De Schepper]]  | 4e - [[Shari Bossuyt]]                                  |
-| 5e (NDL)     | [[Mischa Bredewold]] | [[Lotte Kopecky]]  |                      |                    |                       | 2e - [[Lotte Kopecky]] qui laisse gagner sa coéquipière |
-|              |                      |                    |                      |                    |                       |                                                         |
+|              | Vainqueur                | Général                  | Montagne                 | Points             | Jeune                 | Remarques                                               |
+| ------------ | ------------------------ | ------------------------ | ------------------------ | ------------------ | --------------------- | ------------------------------------------------------- |
+| 1e (SUI)     | [[Noemie Rüegg]]         | [[Noemie Rüegg]]         | [[Maeva Squiban]]        | [[Noemie Rüegg]]   | [[Eleonora Ciabocco]] | 2e - [[Lotte Kopecky]]                                  |
+| ==2e (BEL)== | [[Shari Bossuyt]]        | [[Franziska Koch]]       | [[Maeva Squiban]]        | [[Franziska Koch]] | [[Lore De Schepper]]  |                                                         |
+| 3e (FRA)     | [[Cédrine Kerbaol]]      | [[Franziska Koch]]       | [[Ashleigh Moolman]]     | [[Franziska Koch]] | [[Lore De Schepper]]  | 2e - [[Lotte Kopecky]]                                  |
+| ==4e (BEL)== | [[Lotte Kopecky]]        | [[Lotte Kopecky]]        | [[Marine Allione]]       | [[Franziska Koch]] | [[Lore De Schepper]]  | 4e - [[Shari Bossuyt]]                                  |
+| 5e (NDL)     | [[Mischa Bredewold]]     | [[Lotte Kopecky]]        |                          |                    |                       | 2e - [[Lotte Kopecky]] qui laisse gagner sa coéquipière |
+| 6e (NDL)     | [[Anna van der Breggen]] | [[Anna van der Breggen]] | [[Anna van der Breggen]] | [[Lotte Kopecky]]  | [[Marion Bunel]]      | 9e - [[Lore De Schepper]]                               |
+| 7e (SUI)     | [[Petra Stiasny]]        | [[Paula Blasi]]          |                          | [[Lotte Kopecky]]  |                       |                                                         |
+|              |                          |                          |                          |                    |                       |                                                         |
 
 # General 
 
