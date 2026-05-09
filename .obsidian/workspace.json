@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "89a87316a584e855",
+        "id": "2bfccb11c69c994e",
         "type": "tabs",
         "children": [
           {
-            "id": "9f4adb3705547eab",
+            "id": "ff5dbdee6025e11e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loisirs/Sport/Compétitions/Novak Djokovic.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Novak Djokovic"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -186,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,8 +200,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dbacc6f984f28690",
+  "active": "ff5dbdee6025e11e",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Novak Djokovic.md",
     "Alexander Blockx.md",
     "Loisirs/Sport/Anna van der Breggen.md",
     "Attachments/image-574.webp",
