@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d35255d5c2647c19",
+        "id": "a400b9cb30a2557d",
         "type": "tabs",
         "children": [
           {
-            "id": "5f5b078ed3c198ff",
+            "id": "65cc3d1d86feb12f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "SD-Worx.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "SD-Worx"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour d'Es",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Rétrolien pour Tour d'Espagne"
             }
           },
           {
@@ -113,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants"
+              "title": "Liens sortants de Tour d'Espagne"
             }
           },
           {
@@ -141,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Plan de Tour d'Espagne"
             }
           },
           {
@@ -192,10 +195,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f5b078ed3c198ff",
+  "active": "65cc3d1d86feb12f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+    "SD-Worx.md",
+    "Paula Blasi.md",
+    "Marion Bunel.md",
+    "Loisirs/Sport/Lotte Kopecky.md",
+    "Attachments/image-575.webp",
+    "Petra Stiasny.md",
+    "Journal de bord/2026-05-09.md",
+    "conflict-files-obsidian-git.md",
     "Attachments/image-574.webp",
     "Ben Turner.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Arctic Eggs.md",
@@ -215,12 +225,6 @@
     "Nairo Quintana.md",
     "Elissa Dukes.md",
     "The Wandering Band LLC.md",
-    "Nagai Industries.md",
-    "Residual Horror.md",
-    "Rebel Wolves.md",
-    "Starbrew Games.md",
-    "Kamiel Bonneu.md",
-    "Tournoi de Monastir.md",
     "Attachments/image-573.webp",
     "Attachments/image-572.webp",
     "Attachments/image-571.webp",
@@ -228,7 +232,6 @@
     "Attachments/image-569.webp",
     "Attachments/image-568.webp",
     "Attachments/image-567.webp",
-    "Attachments/image-566.webp",
-    "Attachments/image-565.webp"
+    "Attachments/image-566.webp"
   ]
 }

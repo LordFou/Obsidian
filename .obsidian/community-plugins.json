@@ -1,7 +1,5 @@
 [
   "obsidian-timeline",
-  "supercharged-links-obsidian",
-  "various-complements",
   "obsidian-mind-map",
   "obsidian-media-db-plugin",
   "obsidian-icon-folder",
@@ -14,5 +12,7 @@
   "calendar",
   "table-editor-obsidian",
   "obsidian-admonition",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "supercharged-links-obsidian",
+  "various-complements"
 ]
