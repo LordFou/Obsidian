@@ -68,7 +68,8 @@ Aussi appelé [[Giro]] ^^
 | -------- | ---------------- | ---------------- | ----------------- | ---------------- | ---------------- | -------------------------- |
 | 1e (FRA) | [[Paul Magnier]] | [[Paul Magnier]] | [[Diego Sevilla]] | [[Paul Magnier]] | [[Paul Magnier]] | 10e - [[Dries Van Gestel]] |
 | 2e (URU) | [[Thomas Silva]] | [[Thomas Silva]] | [[Diego Sevilla]] | [[Paul Magnier]] | [[Thomas Silva]] | Méga chute à 23km          |
-| 3e (FRA) | [[Paul Magnier]] |                  |                   |                  |                  |                            |
+| 3e (FRA) | [[Paul Magnier]] | [[Thomas Silva]] | [[Diego Sevilla]] | [[Paul Magnier]] | [[Paul Magnier]] |                            |
+|          |                  |                  |                   |                  |                  |                            |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |

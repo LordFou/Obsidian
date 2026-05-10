@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Rallye du Portugal.md",
+                "file": "Loisirs/Sport/Compétitions/Tro Bro Léon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rallye du Portugal"
+              "title": "Tro Bro Léon"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Portugal",
+                "query": "Tro Bro Léon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,6 +206,11 @@
   },
   "active": "65cc3d1d86feb12f",
   "lastOpenFiles": [
+    "Loisirs/Sport/Tour d'Italie.md",
+    "Loisirs/Sport/Compétitions/Tro Bro Léon.md",
+    "Paul Magnier.md",
+    "Thierry Neuville.md",
+    "Loisirs/Sport/Compétitions/Rallye du Portugal.md",
     "Loisirs/Sport/Compétitions/GP France.md",
     "Jorgen Martin.md",
     "Alexander Blockx.md",
@@ -215,13 +219,11 @@
     "Barry Baltus.md",
     "Marc Soler.md",
     "Jay Vine.md",
-    "Loisirs/Sport/Tour d'Italie.md",
     "Loisirs/Sport/Sportifs/Adam Yates.md",
     "Thomas Silva.md",
     "Attachments/image-576.webp",
     "Loisirs/Sport/Compétitions/Tour d'Italie.md",
     "Elise Mertens.md",
-    "Loisirs/Sport/Compétitions/Rallye du Portugal.md",
     "SD-Worx.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "Paula Blasi.md",
@@ -233,9 +235,6 @@
     "conflict-files-obsidian-git.md",
     "Attachments/image-574.webp",
     "Ben Turner.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Arctic Eggs.md",
-    "Unfrozen.md",
-    "Wout Poels.md",
     "Attachments/image-573.webp",
     "Attachments/image-572.webp",
     "Attachments/image-571.webp",
