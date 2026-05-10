@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition            | Résultat | Remarque |
 | ----- | ---------------------- | -------- | -------- |
 | 2026  | [[GP France]] - Sprint | 1ier     |          |
+| 2026  | [[GP France]] - Course | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
