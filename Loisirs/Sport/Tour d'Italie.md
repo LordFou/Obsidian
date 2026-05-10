@@ -61,12 +61,15 @@ Aussi appelé [[Giro]] ^^
 | 8e<br>(ALL) | [[Liane Lippert]]  | [[Elisa Longo Borghini]] |          |        |       |                                                                   |
 
 # Edition 2026
+
+- 
 ## Hommes
 
 |          | Vainqueur        | Général          | Montagne          | Points           | Jeune            | Remarques                  |
 | -------- | ---------------- | ---------------- | ----------------- | ---------------- | ---------------- | -------------------------- |
 | 1e (FRA) | [[Paul Magnier]] | [[Paul Magnier]] | [[Diego Sevilla]] | [[Paul Magnier]] | [[Paul Magnier]] | 10e - [[Dries Van Gestel]] |
-| 2e (URU) | [[Thomas Silva]] | [[Thomas Silva]] | [[Diego Sevilla]] | [[Paul Magnier]] | [[Thomas Silva]] |                            |
+| 2e (URU) | [[Thomas Silva]] | [[Thomas Silva]] | [[Diego Sevilla]] | [[Paul Magnier]] | [[Thomas Silva]] | Méga chute à 23km          |
+| 3e (FRA) | [[Paul Magnier]] |                  |                   |                  |                  |                            |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |

@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour d'Italie",
+                "query": "Adam Yates",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -207,8 +207,9 @@
   },
   "active": "65cc3d1d86feb12f",
   "lastOpenFiles": [
-    "Thomas Silva.md",
+    "Loisirs/Sport/Sportifs/Adam Yates.md",
     "Loisirs/Sport/Tour d'Italie.md",
+    "Thomas Silva.md",
     "Attachments/image-576.webp",
     "Loisirs/Sport/Compétitions/Tour d'Italie.md",
     "Elise Mertens.md",
