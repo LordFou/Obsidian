@@ -14,7 +14,7 @@ type: matos
 - RAM : 
 - Prix :
 	- Départ : 469.99e
-	- Mai 2026 : 499.99e
+	- Septembre 2026 : 499.99e
 
 ## Résumé et historique
 
