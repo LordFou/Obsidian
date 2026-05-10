@@ -73,8 +73,19 @@
               "icon": "lucide-bookmark",
               "title": "Signets"
             }
+          },
+          {
+            "id": "9a0762e513160310",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,10 +187,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 460.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -190,11 +202,10 @@
       "bases:Créer une nouvelle base": false,
       "obsidian-media-db-plugin:Add new Media DB entry": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65cc3d1d86feb12f",
+  "active": "9a0762e513160310",
   "lastOpenFiles": [
     "SD-Worx.md",
     "Loisirs/Sport/Compétitions/Rallye du Portugal.md",
