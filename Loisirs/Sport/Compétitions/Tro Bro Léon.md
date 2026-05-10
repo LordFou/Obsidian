@@ -8,10 +8,10 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur            | Nationalité | Remarque |
-| ----- | -------------------- | ----------- | -------- |
-| 2026  | [[Filippo Fiorelli]] | Italien     |          |
-|       |                      |             |          |
+| Année | Vainqueur            | Nationalité | Remarque                 |
+| ----- | -------------------- | ----------- | ------------------------ |
+| 2026  | [[Filippo Fiorelli]] | Italien     | 11e - [[Brent Van Moer]] |
+|       |                      |             |                          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Tro Bro Léon.md",
+                "file": "Switch 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tro Bro Léon"
+              "title": "Switch 2"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tro Bro Léon",
+                "query": "Switch 2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,8 +207,11 @@
   },
   "active": "65cc3d1d86feb12f",
   "lastOpenFiles": [
-    "Loisirs/Sport/Tour d'Italie.md",
+    "Attachments/image-577.webp",
     "Loisirs/Sport/Compétitions/Tro Bro Léon.md",
+    "Filippo Fiorelli.md",
+    "Sibiu Tour.md",
+    "Loisirs/Sport/Tour d'Italie.md",
     "Paul Magnier.md",
     "Thierry Neuville.md",
     "Loisirs/Sport/Compétitions/Rallye du Portugal.md",
@@ -231,10 +235,7 @@
     "Loisirs/Sport/Lotte Kopecky.md",
     "Attachments/image-575.webp",
     "Petra Stiasny.md",
-    "Journal de bord/2026-05-09.md",
-    "conflict-files-obsidian-git.md",
     "Attachments/image-574.webp",
-    "Ben Turner.md",
     "Attachments/image-573.webp",
     "Attachments/image-572.webp",
     "Attachments/image-571.webp",
