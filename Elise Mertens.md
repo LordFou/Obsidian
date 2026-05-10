@@ -46,7 +46,7 @@ type: personne
 | 2026  | [[Tournoi de Miami]] - Double                    | 1/4 finale    | Abandon sur pépin physique (infection virale)<br>avec [[Shuai Zhang]] |
 | 2026  | [[Billie Jean King Cup]] - 1/8 finale - 2e match | Vainqueure    |                                                                       |
 | 2026  | [[Tournoi de Madrid]] - Simple                   | 3e tour       | Défaite contre [[Karolina Pliskova]]                                  |
-| 2026  | [[Tournoi de Rome]] - Simple                     | 1/8 finale    | Victoire contre [[Jasmine Paolini]] (WTA 8)                           |
+| 2026  | [[Tournoi de Rome]] - Simple                     | 1/8 finale    | Victoire contre [[Jasmine Paolini]] (WTA 8) en 1/16                   |
 
 # Style et Caractéristiques
 - C'est une joueuse très équilibrée et régulière qui intègre en juin 2025 le club très fermé des joueuses qui ont gagné un tournoi sur les 3 types de surface.

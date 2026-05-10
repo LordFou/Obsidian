@@ -66,7 +66,7 @@ Aussi appelé [[Giro]] ^^
 |          | Vainqueur        | Général          | Montagne          | Points           | Jeune            | Remarques                  |
 | -------- | ---------------- | ---------------- | ----------------- | ---------------- | ---------------- | -------------------------- |
 | 1e (FRA) | [[Paul Magnier]] | [[Paul Magnier]] | [[Diego Sevilla]] | [[Paul Magnier]] | [[Paul Magnier]] | 10e - [[Dries Van Gestel]] |
-|          |                  |                  |                   |                  |                  |                            |
+| 2e (URU) | [[Thomas Silva]] | [[Thomas Silva]] | [[Diego Sevilla]] | [[Paul Magnier]] | [[Thomas Silva]] |                            |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
