@@ -61,8 +61,7 @@ Aussi appelé [[Giro]] ^^
 | 8e<br>(ALL) | [[Liane Lippert]]  | [[Elisa Longo Borghini]] |          |        |       |                                                                   |
 
 # Edition 2026
-
-- 
+- Lors de la 2e étape, il y a eu de nombreuses chutes dont une énorme à 23km de l'arrivée. Le jury a neutralisé la course car plus aucune ambulance ne suivait le peloton. 
 ## Hommes
 
 |          | Vainqueur        | Général          | Montagne          | Points           | Jeune            | Remarques                  |

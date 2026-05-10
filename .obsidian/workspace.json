@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Tour d'Italie.md",
+                "file": "Loisirs/Sport/Sportifs/Florian Vermeersch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour d'Italie"
+              "title": "Florian Vermeersch"
             }
           }
         ]
@@ -53,12 +53,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Adam Yates",
+                "query": "Florian Vermeersch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "Rechercher"
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,8 +207,12 @@
   },
   "active": "65cc3d1d86feb12f",
   "lastOpenFiles": [
-    "Loisirs/Sport/Sportifs/Adam Yates.md",
+    "Loisirs/Sport/Sportifs/Wout Van Aert.md",
+    "Barry Baltus.md",
+    "Marc Soler.md",
+    "Jay Vine.md",
     "Loisirs/Sport/Tour d'Italie.md",
+    "Loisirs/Sport/Sportifs/Adam Yates.md",
     "Thomas Silva.md",
     "Attachments/image-576.webp",
     "Loisirs/Sport/Compétitions/Tour d'Italie.md",
@@ -232,10 +236,6 @@
     "Wout Poels.md",
     "Loisirs/Sport/Sportifs/Allyson Felix.md",
     "Rastrolabs Game Studio.md",
-    "Journal de bord/2026-05-02.md",
-    "Mathéo Barusseau.md",
-    "Noemie Rüegg.md",
-    "LeGingerDev.md",
     "Attachments/image-573.webp",
     "Attachments/image-572.webp",
     "Attachments/image-571.webp",
