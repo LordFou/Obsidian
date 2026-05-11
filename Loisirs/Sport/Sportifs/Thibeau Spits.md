@@ -11,11 +11,13 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
+- Ranking : 1 (U25)
 
 # Palmarès et Distinctions
 | Année | Compétition                           | Résultat  | Remarque |
 | ----- | ------------------------------------- | --------- | -------- |
 | 2026  | Grand Prix 5 étoiles de Fontainebleau | Vainqueur |          |
+|       |                                       |           |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
