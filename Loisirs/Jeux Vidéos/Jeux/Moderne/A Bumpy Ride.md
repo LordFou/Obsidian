@@ -1,41 +1,44 @@
 ---
 type: game
 subType: ""
-title: Dead as Disco
-englishTitle: Dead as Disco
+title: A Bumpy Ride
+englishTitle: A Bumpy Ride
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/3404260
-id: 3404260
+url: https://store.steampowered.com/app/3056840
+id: 3056840
 developers:
-  - Brain Jar Games, Inc.
+  - Cosmoporium Games
 publishers:
-  - Brain Jar Games, Inc.
+  - Cosmoporium Games
 genres:
   - Action
+  - Adventure
+  - Casual
   - Indie
-  - Early Access
+  - Simulation
+  - Strategy
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/ae0f4b71735adf4f2494ecb7914fcbafee215277/header.jpg?t=1778394434
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3056840/d4dca2d43f04cd9c6d576eaf2dceb35ad69eb812/header.jpg?t=1778120080
 released: true
-releaseDate: 05/05/2026
+releaseDate: 01/05/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/ae0f4b71735adf4f2494ecb7914fcbafee215277/header.jpg?t=1778394434)
-# Dead as Disco
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3056840/d4dca2d43f04cd9c6d576eaf2dceb35ad69eb812/header.jpg?t=1778120080)
+# A Bumpy Ride
 
 ## Informations Générales
 
-- **Année de sortie** :  2026 (Accès anticipé)
+- **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Brain Jar Games]]
+	- Studio : [[Cosmoporium Games]]
 	- Personnalités : 
-- **Éditeur** : [[Brain Jar Games]]
+- **Éditeur** : [[Cosmoporium Games]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Combat]], [[Jeu de rythme]], [[Beat'em up]]
+- **Genre** : [[Exploration]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -53,6 +56,7 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- M
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
@@ -62,5 +66,5 @@ tags: mediaDB/game
 
 | Description | URL                                        |
 | ----------- | ------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/3404260 |
-|             |                                            |
+| Steam       | https://store.steampowered.com/app/3056840 |
+![[image-580.webp|500x

@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Brain Jar Games, Inc.
+# Cosmoporium Games
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,9 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre             |
-| ----- | ----------------- |
-| ?     | [[Dead as Disco]] |
+| Année | Titre            |
+| ----- | ---------------- |
+| 2026  | [[A Bumpy Ride]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
