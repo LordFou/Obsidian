@@ -37,8 +37,8 @@ tags: mediaDB/game
 - **Éditeur** : [[Horizont Computergrafik]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Roguelike]], [[Stratégie]], [[Réflexion]]
-- **Résumé** :  
+- **Genre** : [[Roguelike]], [[Stratégie]], [[Réflexion]], [[Tour par tour]]
+- **Résumé** :  il faut assembler et câbler tout un tas de modules (il y en a 170 !) pendant des combats au tour par tour. Selon les besoins tactiques, il faut régler ou réorganiser la machine pour par exemple qu'elle envoie plus d'énergie dans un bouclier ou dans un objet offensif.
 
 ## Détails Techniques
 - **Moteur de jeu** : 

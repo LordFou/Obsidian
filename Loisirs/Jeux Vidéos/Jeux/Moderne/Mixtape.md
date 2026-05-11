@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-584.webp|500x282]]
 # Mixtape
 
 ## Informations Générales
@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Beethoven and Dinosaur]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Annapurna Interactive]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
 - **Franchise** : 
 - **Genre** : [[Jeu narratif]]
@@ -19,7 +19,8 @@ type: game
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : (Type de musique, Bande-son notable)
+- **Audio** : 
+	- Bande-son des années 1990
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
@@ -32,6 +33,7 @@ type: game
 - **Thèmes abordés** : 
 	- [[Le passage à l'âge adulte]]
 - **Influencé par** :
+	- [[Life is Strange]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
