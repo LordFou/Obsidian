@@ -34,7 +34,7 @@ tags: mediaDB/game
 - **Éditeur** : [[Kwalee Gaming]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
 - **Franchise** : 
-- **Genre** : Adventure,Indie
+- **Genre** : [[Aventure]], [[Puzzle]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -59,6 +59,7 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2174380 |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Steam       | https://store.steampowered.com/app/2174380       |
+| Trailer     | https://youtu.be/xh5hZlcaTNk?si=WBGDuH_Zv3rkgt19 |

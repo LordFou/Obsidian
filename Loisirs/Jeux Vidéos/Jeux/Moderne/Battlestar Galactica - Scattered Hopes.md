@@ -1,48 +1,46 @@
 ---
 type: game
 subType: ""
-title: Clockwork Ambrosia
-englishTitle: Clockwork Ambrosia
+title: "Battlestar Galactica: Scattered Hopes"
+englishTitle: "Battlestar Galactica: Scattered Hopes"
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/896010
-id: 896010
+url: https://store.steampowered.com/app/2535950
+id: 2535950
 developers:
-  - Realmsoft
+  - Alt Shift
 publishers:
-  - OI Games
+  - Dotemu
 genres:
   - Action
-  - Adventure
   - Indie
-  - RPG
+  - Strategy
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/896010/header.jpg?t=1774737909
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2535950/d29dc74a212e14249b34ebbcdf028bbec5ce7ff0/header.jpg?t=1778511533
 released: true
-releaseDate: 20/01/2026
+releaseDate: 11/05/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/896010/header.jpg?t=1774737909)
-# Clockwork Ambrosia
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2535950/d29dc74a212e14249b34ebbcdf028bbec5ce7ff0/header.jpg?t=1778511533)
+# Battlestar Galactica: Scattered Hopes
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Realmsoft]]
+	- Studio : [[Alt Shift]]
 	- Personnalités : 
-- **Éditeur** : [[OI Games]]
+- **Éditeur** : [[Dotemu]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Metroïdvania]]
+- **Genre** : [[RTS]]
 - **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[Pixel Art]]
+- **Graphismes** : [[3D]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
@@ -64,5 +62,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/896010        |
-| Trailer     | https://youtu.be/J08uEwMx4U4?si=pFQHsvejD2ZasC1P |
+| Steam       | https://store.steampowered.com/app/2535950       |
+| Trailer     | https://youtu.be/-CRNtkc_yYw?si=XDT2qSpwdrWOsf0i |
