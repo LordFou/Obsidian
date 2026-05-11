@@ -1,41 +1,41 @@
 ---
 type: game
 subType: ""
-title: MOTORSLICE
-englishTitle: MOTORSLICE
+title: Outworld Station
+englishTitle: Outworld Station
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2830030
-id: 2830030
+url: https://store.steampowered.com/app/3242950
+id: 3242950
 developers:
-  - Regular Studio
+  - Trickjump Games Ltd
 publishers:
-  - Top Hat Studios, Inc.
+  - Trickjump Games Ltd
 genres:
-  - Action
-  - Adventure
   - Indie
+  - Simulation
+  - Strategy
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2830030/header.jpg?t=1778341635
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3242950/e5e55c6f4b10303151dc964950b78b9ea501e7ac/header_alt_assets_1.jpg?t=1777988959
 released: true
 releaseDate: 05/01/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2830030/header.jpg?t=1778341635)
-# MOTORSLICE
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3242950/e5e55c6f4b10303151dc964950b78b9ea501e7ac/header_alt_assets_1.jpg?t=1777988959)
+# Outworld Station
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Regular Studio]]
+	- Studio : [[Trickjump Games]] 
 	- Personnalités : 
-- **Éditeur** : [[Top Hat Studios]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
+- **Éditeur** : [[Trickjump Games]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Parkour]]
+- **Genre** : [[Base Building]], [[Factory-Builder]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -52,7 +52,6 @@ tags: mediaDB/game
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
-	- [Excavatrice à godet](https://fr.wikipedia.org/wiki/Excavatrice_%C3%A0_godets)
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
@@ -63,4 +62,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2830030 |
+| Wiki        | https://store.steampowered.com/app/3242950 |

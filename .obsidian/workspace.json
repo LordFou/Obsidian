@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/MOTORSLICE.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Mixtape.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOTORSLICE"
+              "title": "Mixtape"
             },
             "group": "2eff0d4a83b04dfe"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/MOTORSLICE.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Mixtape.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de MOTORSLICE"
+              "title": "Graphique de Mixtape"
             },
             "group": "2eff0d4a83b04dfe"
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Motorslice",
+                "query": "Outworld Station",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,10 +253,12 @@
   },
   "active": "65cc3d1d86feb12f",
   "lastOpenFiles": [
-    "Regular Studio.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/MOTORSLICE.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Mixtape.md",
     "Beethoven and Dinosaur.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Mixtape.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Outworld Station.md",
+    "Trickjump Games.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/MOTORSLICE.md",
+    "Regular Studio.md",
     "Attachments/image-584.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Blood Vial.md",
     "vampires.md",
@@ -282,8 +284,6 @@
     "Brain Jar Games.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Zero Parades.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/RoadOut.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Indiana Jones And The Great Circle.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Call of the Elder Gods.md",
     "Attachments/image-579.webp",
     "Attachments/image-578.webp",
     "Attachments/image-577.webp",

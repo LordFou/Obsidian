@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Beethoven and Dinosaur
+# Trickjump Games
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -12,7 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  Australie (Melbourne)
+- **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -24,9 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre       |
-| ----- | ----------- |
-| 2026  | [[Mixtape]] |
+| Année | Titre                |
+| ----- | -------------------- |
+| 2026  | [[Outworld Station]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

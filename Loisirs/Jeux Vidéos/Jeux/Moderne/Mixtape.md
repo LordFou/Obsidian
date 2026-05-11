@@ -21,7 +21,9 @@ type: game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : 
 	- Bande-son des années 1990
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- CheckPoint (8.5/10)
+		- BO mémorable
 - **Gameplay** :
 - **Durée estimée** : 
 
