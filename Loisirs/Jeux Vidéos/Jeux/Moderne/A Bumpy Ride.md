@@ -38,12 +38,13 @@ tags: mediaDB/game
 - **Éditeur** : [[Cosmoporium Games]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Exploration]]
+- **Genre** : [[Exploration]], [[Monde ouvert]]
 - **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 
+	- DA semi rétro
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
@@ -56,7 +57,7 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- M
+	- Les [[Train|trains]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
@@ -67,4 +68,4 @@ tags: mediaDB/game
 | Description | URL                                        |
 | ----------- | ------------------------------------------ |
 | Steam       | https://store.steampowered.com/app/3056840 |
-![[image-580.webp|500x
+![[image-580.webp|500x281]]
