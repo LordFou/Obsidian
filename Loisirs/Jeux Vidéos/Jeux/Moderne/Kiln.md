@@ -36,7 +36,7 @@ tags: mediaDB/game
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Action]], [[Party Games]]
-- **Résumé** :  On y incarne des poteries dont on a créé la forme en début de partie et c'est du combat 2 contre 2
+- **Résumé** :  On y incarne des poteries dont on a créé la forme en début de partie et c'est du combat 4 contre 4
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -44,6 +44,7 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
+	- CheckPoint (7/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -57,10 +58,11 @@ tags: mediaDB/game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Le concept du jeu a été imaginé en 2017 lors d'une game jam interne au studio appelée "Amnesia Fortnight" par Derek Brand.
 ## Liens et Ressources
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
 | Steam       | https://store.steampowered.com/app/1165990       |
 | Trailer     | https://youtu.be/6C11Zmc93-I?si=Q6juExHPcMYYdFHx |
+![[image-579.webp|500x281]]
