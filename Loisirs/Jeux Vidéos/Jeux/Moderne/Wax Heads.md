@@ -40,7 +40,8 @@ tags: mediaDB/game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 
+	- graphismes dessinés à la main
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
@@ -62,6 +63,7 @@ tags: mediaDB/game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[Coffee Talk]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources

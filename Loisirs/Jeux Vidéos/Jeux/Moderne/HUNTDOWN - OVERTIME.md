@@ -33,8 +33,8 @@ tags: mediaDB/game
 	- Personnalités : 
 - **Éditeur** : [[Coffee Stain Publishing]]
 - **Plateformes** : [[PC]]
-- **Franchise** : 
-- **Genre** : [[Run & Gun]]
+- **Franchise** : [[Franchise Huntdown]]
+- **Genre** : [[Run & Gun]], [[Roguelike]]
 - **Résumé** :  
 
 ## Détails Techniques

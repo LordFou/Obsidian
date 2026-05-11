@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/HUNTDOWN - OVERTIME.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Rogue Voltage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HUNTDOWN - OVERTIME"
+              "title": "Rogue Voltage"
             },
             "group": "2eff0d4a83b04dfe"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/HUNTDOWN - OVERTIME.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Rogue Voltage.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de HUNTDOWN - OVERTIME"
+              "title": "Graphique de Rogue Voltage"
             },
             "group": "2eff0d4a83b04dfe"
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Huntdown",
+                "query": "Rogue Voltage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -253,8 +253,15 @@
   },
   "active": "65cc3d1d86feb12f",
   "lastOpenFiles": [
-    "Easy Trigger Games.md",
+    "Horizont Computergrafik.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Rogue Voltage.md",
+    "Attachments/image-582.webp",
+    "Attachments/image-581.webp",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Wax Heads.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Coffee Talk.md",
+    "Franchise Huntdown.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/HUNTDOWN - OVERTIME.md",
+    "Easy Trigger Games.md",
     "Huntdown - Overtime.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/A Bumpy Ride.md",
     "Train.md",
@@ -275,19 +282,12 @@
     "Supermassive Games.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Battlestar Galactica - Scattered Hopes.md",
     "Alt Shift.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Outbound.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Kiln.md",
-    "Derek Brand.md",
-    "Double Fine.md",
     "Attachments/image-579.webp",
-    "Elise Mertens.md",
     "Attachments/image-578.webp",
     "Attachments/image-577.webp",
     "Attachments/image-576.webp",
     "Attachments/image-575.webp",
     "Attachments/image-574.webp",
-    "Attachments/image-573.webp",
-    "Attachments/image-572.webp",
-    "Attachments/image-571.webp"
+    "Attachments/image-573.webp"
   ]
 }
