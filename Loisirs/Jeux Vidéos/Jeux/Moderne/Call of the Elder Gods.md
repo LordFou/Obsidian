@@ -34,7 +34,7 @@ tags: mediaDB/game
 - **Éditeur** : [[Kwalee Gaming]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
 - **Franchise** : 
-- **Genre** : [[Aventure]], [[Puzzle]]
+- **Genre** : [[Aventure]], [[Puzzle]], [[Réflexion]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -42,7 +42,8 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 0
+	- CheckPoint (8,5/10)
+		- Une histoire, des énigmes et des personnages captivants		
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -50,6 +51,8 @@ tags: mediaDB/game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Evangeline
+	- Harry
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
@@ -63,3 +66,4 @@ tags: mediaDB/game
 | ----------- | ------------------------------------------------ |
 | Steam       | https://store.steampowered.com/app/2174380       |
 | Trailer     | https://youtu.be/xh5hZlcaTNk?si=WBGDuH_Zv3rkgt19 |
+![[image-590.webp|500x281]]
