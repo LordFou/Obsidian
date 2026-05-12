@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Call of the Elder Gods.md",
+                "file": "Leslie Benzies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Call of the Elder Gods"
+              "title": "Leslie Benzies"
             },
             "group": "2eff0d4a83b04dfe"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Call of the Elder Gods.md",
+                "file": "Leslie Benzies.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Call of the Elder Gods"
+              "title": "Graphique de Leslie Benzies"
             },
             "group": "2eff0d4a83b04dfe"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Call",
+                "query": "Build A Rocket Boy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,8 +255,13 @@
   },
   "active": "65cc3d1d86feb12f",
   "lastOpenFiles": [
-    "Out of the Blue Games.md",
+    "Build a Rocket Boy.md",
+    "Leslie Benzies.md",
+    "Loisirs/Jeux Vidéos/Périphériques/Steam Controller.md",
+    "Subnautica 2.md",
+    "Attachments/image-591.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Call of the Elder Gods.md",
+    "Out of the Blue Games.md",
     "Attachments/image-590.webp",
     "Les décès de sportifs.md",
     "Attachments/image-589.webp",
@@ -284,12 +289,7 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Rogue Voltage.md",
     "Horizont Computergrafik.md",
     "Attachments/image-582.webp",
-    "Attachments/image-581.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Wax Heads.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Coffee Talk.md",
-    "Franchise Huntdown.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/HUNTDOWN - OVERTIME.md",
-    "Easy Trigger Games.md",
-    "Huntdown - Overtime.md"
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Coffee Talk.md"
   ]
 }

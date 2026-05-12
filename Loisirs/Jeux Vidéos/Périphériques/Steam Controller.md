@@ -19,9 +19,8 @@ type: matos
 {{Gros résumé sur l’histoire de la console/micro, son impact sur le marché, ses innovations, ses succès ou échecs. Parle aussi des modèles révisés et de son influence sur l’industrie.}}
 
 ## Anecdotes et faits marquants
-- {{Fait ou anecdote 1}}
-- {{Fait ou anecdote 2}}
-- {{Lien avec la musique, le design, l’influence culturelle...}}
+- Le stock de Steam Controllers a été écoulé en 30 minutes seulement lors de sa mise en vente, le 4 mai 2026
+
 
 | Description | URL |
 | ----------- | --- |
