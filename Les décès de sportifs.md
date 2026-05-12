@@ -28,4 +28,9 @@ content: Un décès a assombri le match de football de Super Liga serbe entre le
 date: Avril 2026
 title: Juha Miettinen décède dans un terrible accident
 content: La course 1 des Qualifiers des [[24 Heures du Nürburgring]] automobiles a été endueillée par le décès du pilote samedi après-midi. Peu après le départ, un accident impliquant sept voitures est survenu au virage de Klostertal, sur la boucle nord du circuit, à la suite de la présence d'huile perdue par un autre pilote sur la piste.
+
+date: Mai 2026
+title: Décès à 29 ans du basketteur [[Brandon Clarke]]
+content: Les [[Memphis Grizzlies]], la franchise de la NBA de basket, ont annoncé mardi la mort de leur intérieur [[Brandon Clarke]], sans préciser les causes du décès de l’Américano-Canadien de 29 ans.
+![[image-589.webp|500x281]]
 ```

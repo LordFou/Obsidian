@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coronavirus.md",
+                "file": "Les décès de sportifs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coronavirus"
+              "title": "Les décès de sportifs"
             },
             "group": "2eff0d4a83b04dfe"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Coronavirus.md",
+                "file": "Les décès de sportifs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Coronavirus"
+              "title": "Graphique de Les décès de sportifs"
             },
             "group": "2eff0d4a83b04dfe"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Outworld Station",
+                "query": "Décès",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,11 +255,16 @@
   },
   "active": "65cc3d1d86feb12f",
   "lastOpenFiles": [
+    "Attachments/image-589.webp",
+    "Loisirs/Sport/Arnaud de Lie.md",
+    "Loisirs/Sport/Tour d'Italie.md",
+    "Jonathan Narvaez.md",
+    "Attachments/image-588.webp",
+    "Coronavirus.md",
     "Attachments/image-587.webp",
     "Attachments/image-586.webp",
     "Attachments/image-585.webp",
     "Hantavirus.md",
-    "Coronavirus.md",
     "Zoonose.md",
     "Journal de bord/2026-05-12.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Mixtape.md",
@@ -284,12 +289,7 @@
     "Huntdown - Overtime.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/A Bumpy Ride.md",
     "Train.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Frostrail.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Moses  Plato - Last Train to Clawville.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Trainatic.md",
     "Attachments/image-580.webp",
-    "Attachments/image-579.webp",
-    "Attachments/image-578.webp",
-    "Attachments/image-577.webp"
+    "Attachments/image-579.webp"
   ]
 }

@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-588.webp|216x278]]
 # Jonathan Narvaez
 
 # Informations Générales
@@ -17,7 +17,10 @@ type: personne
 | ----- | -------------------------------------- | -------- | --------- |
 | 2025  | [[Tour Down Under]] - Classement Final | 1ier     |           |
 | 2025  | [[Tour d'Allemagne]] - 2e étape        | 1ier     |           |
+| 2025  | Championnat National                   | 1ier     |           |
+|       |                                        |          |           |
 | 2026  | [[Tour Down Under]] - 4e étape         | Abandon  | Sur chute |
+| 2026  | [[Tour d'Italie]] - 4e étape           | 1ier     |           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

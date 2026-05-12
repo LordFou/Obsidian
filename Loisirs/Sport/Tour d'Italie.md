@@ -64,12 +64,13 @@ Aussi appelé [[Giro]] ^^
 - Lors de la 2e étape, il y a eu de nombreuses chutes dont une énorme à 23km de l'arrivée. Le jury a neutralisé la course car plus aucune ambulance ne suivait le peloton. 
 ## Hommes
 
-|          | Vainqueur        | Général          | Montagne          | Points           | Jeune            | Remarques                  |
-| -------- | ---------------- | ---------------- | ----------------- | ---------------- | ---------------- | -------------------------- |
-| 1e (FRA) | [[Paul Magnier]] | [[Paul Magnier]] | [[Diego Sevilla]] | [[Paul Magnier]] | [[Paul Magnier]] | 10e - [[Dries Van Gestel]] |
-| 2e (URU) | [[Thomas Silva]] | [[Thomas Silva]] | [[Diego Sevilla]] | [[Paul Magnier]] | [[Thomas Silva]] | Méga chute à 23km          |
-| 3e (FRA) | [[Paul Magnier]] | [[Thomas Silva]] | [[Diego Sevilla]] | [[Paul Magnier]] | [[Paul Magnier]] |                            |
-|          |                  |                  |                   |                  |                  |                            |
+|          | Vainqueur            | Général            | Montagne          | Points           | Jeune            | Remarques                    |
+| -------- | -------------------- | ------------------ | ----------------- | ---------------- | ---------------- | ---------------------------- |
+| 1e (FRA) | [[Paul Magnier]]     | [[Paul Magnier]]   | [[Diego Sevilla]] | [[Paul Magnier]] | [[Paul Magnier]] | 10e - [[Dries Van Gestel]]   |
+| 2e (URU) | [[Thomas Silva]]     | [[Thomas Silva]]   | [[Diego Sevilla]] | [[Paul Magnier]] | [[Thomas Silva]] | Méga chute à 23km            |
+| 3e (FRA) | [[Paul Magnier]]     | [[Thomas Silva]]   | [[Diego Sevilla]] | [[Paul Magnier]] | [[Paul Magnier]] |                              |
+| 4e (EQU) | [[Jonathan Narvaez]] | [[Giulio Ciccone]] |                   |                  |                  | 7e - [[Lennert Van Eetvelt]] |
+|          |                      |                    |                   |                  |                  |                              |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
