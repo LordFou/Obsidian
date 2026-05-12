@@ -36,7 +36,7 @@ tags: mediaDB/game
 - **Éditeur** : [[Bandai Namco]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : Action,Adventure,RPG
+- **Genre** : [[RPG]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -60,7 +60,7 @@ tags: mediaDB/game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Jeu développé par d'anciens développeurs de [[The Witcher 3]]
 ## Liens et Ressources
 
 | Description | URL                                        |

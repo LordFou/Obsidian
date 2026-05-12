@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-592.webp|250x375]]
 # Leslie Benzies
 
 ## Présentation
@@ -11,6 +11,8 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 - **Date de naissance** :  
 - **Nationalité** :  
 - **Profession(s)** : 
+	- Président (Rockstar North)
+	- Producteur ([[Franchise GTA]])
 	- Directeur ([[Build a Rocket Boy]])
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 

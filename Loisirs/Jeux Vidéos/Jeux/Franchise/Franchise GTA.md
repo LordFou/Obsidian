@@ -10,6 +10,10 @@ type: game
 - Éditeur(s) : {{Nom de l’éditeur}}
 - Première apparition : {{Nom du premier jeu (année)}}
 - Genre principal : {{Stratégie, Action-Aventure, FPS...}}
+- Producteurs 
+	- [[Leslie Benzies]]
+	- [[Sam Houser]]
+	- [[Dan Houser]]
 
 ## Résumé et historique
 {{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
