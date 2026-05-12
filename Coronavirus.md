@@ -17,6 +17,6 @@
 
 - Mai 2026
 	- un couple de Néerlandais et une femme allemande meurent d'infections respiratoires et sont déclarés contaminés à un hantavirus lors d'une croisière entre Ushuaïa et le Cap-Vert => [Wiki](https://fr.wikipedia.org/wiki/Cas_de_hantavirus_sur_le_MV_Hondius)
-	- 
+	  ![[image-585.webp|500x626]]
 	  
  
