@@ -36,7 +36,7 @@ tags: mediaDB/game
 - **Éditeur** : [[Bandai Namco]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[RPG]]
+- **Genre** : [[RPG]], [[Monde ouvert]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -46,11 +46,13 @@ tags: mediaDB/game
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
 - **Gameplay** :
+	- Gestion du temps : chaque action consomme un segment de la journée ou de la nuit
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
 	- Vale Sangora
+	- les [[Carpates]]
 - **Epoque** : 
 - **Personnages principaux** : 
 	- Coen
@@ -60,7 +62,8 @@ tags: mediaDB/game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- Jeu développé par d'anciens développeurs de [[The Witcher 3]]
+- Jeu développé par d'anciens développeurs de [[The Witcher 3 - Wild Hunt]]
+- 
 ## Liens et Ressources
 
 | Description | URL                                        |

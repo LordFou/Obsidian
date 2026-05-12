@@ -22,9 +22,10 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                    | Année | Plateformes | Remarque |
-| ------------------------ | ----- | ----------- | -------- |
-| [[Reigns - The Witcher]] | 2026  | [[PC]]      |          |
+| Titre                         | Année |
+| ----------------------------- | ----- |
+| [[The Witcher 3 - Wild Hunt]] | 2015  |
+| [[Reigns - The Witcher]]      | 2026  |
 
 
 ## Mécaniques et innovations

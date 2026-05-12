@@ -13,7 +13,7 @@ type: matos
 - Port : 
 	- USB-C
 	- Bluetooth
-- Tarif à la sortie : +-100€ 
+- Tarif à la sortie : 99€ 
 
 ## Résumé et historique
 {{Gros résumé sur l’histoire de la console/micro, son impact sur le marché, ses innovations, ses succès ou échecs. Parle aussi des modèles révisés et de son influence sur l’industrie.}}
