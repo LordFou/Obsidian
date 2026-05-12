@@ -1,0 +1,1 @@
+Maladie qui se transmet des animaux à l'humain et inversément.

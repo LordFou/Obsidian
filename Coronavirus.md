@@ -1,0 +1,9 @@
+- [[Zoonose]] dont l'origine est le rat
+- 3 syndromes
+	- fièvre hémorragique avec syndrome rénal 
+	- une forme de FSHR
+	- syndrome pulmonaire 
+		- 200 cas/an
+		- 
+- Pas de traitement curatif
+- 
