@@ -11,10 +11,14 @@
             "id": "391d38e525c52a62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Culture/Histoire/Guerres dans le monde.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Guerres dans le monde"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Alien",
+                "query": "Guerre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -202,8 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83492078db4b31eb",
+  "active": "391d38e525c52a62",
   "lastOpenFiles": [
+    "Sport & Guerre.md",
+    "Culture/Histoire/Guerres dans le monde.md",
+    "Media DB/games/Alien Deathstorm.md",
     "Loisirs/Jeux Vidéos/Périphériques/Steam Controller (V2015).md",
     "Loisirs/Jeux Vidéos/Périphériques/Steam Controller (V2026).md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Assassin's Creed Black Flag Resynced.md",
@@ -232,12 +239,9 @@
     "Loisirs/Sport/Tour d'Italie.md",
     "Jonathan Narvaez.md",
     "Attachments/image-588.webp",
-    "Coronavirus.md",
     "Attachments/image-587.webp",
     "Attachments/image-586.webp",
     "Attachments/image-585.webp",
-    "Hantavirus.md",
-    "Zoonose.md",
     "Attachments/image-584.webp",
     "Attachments/image-583.webp"
   ]
