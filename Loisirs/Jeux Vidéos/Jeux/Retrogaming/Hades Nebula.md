@@ -1,26 +1,24 @@
----
-type: game
----
 
-# Batman Forever
+# Hades Nebula
 
 ## Informations Générales
 
-- **Année de sortie** : 1995
+- **Année de sortie** :  1987
 - **Développeur** : 
-	- Studio : [[Probe]]
-	- Personnalités : 
-- **Éditeur** : [[Acclaim Entertainement]]
-- **Plateformes** : [[SNES]],[[Megadrive]]
-- **Franchise** :  [[Franchise Batman]]
-- **Genre** :
-- **Résumé** : 
+	- Studio : [[Paranoïd Software]]
+	- Personnalités : [[Mark Greenshields]]
+- **Éditeur** : [[Nexus]]
+- **Plateformes** : 
+- **Franchise** : 
+- **Genre** : {{ genres }}
+- **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
+	- Steam Rating : {{ onlineRating }}
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -37,6 +35,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL       |
+| ----------- | --------- |
+| Wiki        | {{ url }} |

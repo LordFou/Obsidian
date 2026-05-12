@@ -2,18 +2,15 @@
 type: personne
 ---
 
-# Mark Greenshields
+# Richard Naylor
 
 ## Présentation
-- Programmeur expérimenté sur [[Commodore 64]]
-- Il a écrit plusieurs ouvrages sur la programmation
-- 
+- Il a appris le [[Zilog Z80]] en autodidacte
 
 ## Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  
-- **Profession(s)** : 
-	- Programmeur chez [[Probe]], [[Domark]], [[Paranoïd Software]], [[QuickSilva]], [[Cascade Games]]
+- **Profession(s)** : (Développeur, Designer, Compositeur, Journaliste, etc.)  
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 
 ```timeline-labeled

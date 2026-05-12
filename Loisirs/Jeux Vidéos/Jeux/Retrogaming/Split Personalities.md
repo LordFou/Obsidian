@@ -1,26 +1,24 @@
----
-type: game
----
 
-# Batman Forever
+# Split Personalities
 
 ## Informations Générales
 
-- **Année de sortie** : 1995
+- **Année de sortie** :  
 - **Développeur** : 
-	- Studio : [[Probe]]
+	- Studio : [[Mark Greenshields]]
 	- Personnalités : 
-- **Éditeur** : [[Acclaim Entertainement]]
-- **Plateformes** : [[SNES]],[[Megadrive]]
-- **Franchise** :  [[Franchise Batman]]
-- **Genre** :
-- **Résumé** : 
+- **Éditeur** : [[Domark]]
+- **Plateformes** : 
+- **Franchise** : 
+- **Genre** : 
+- **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
+	- Steam Rating : 
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -37,6 +35,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL       |
+| ----------- | --------- |
+| Wiki        | {{ url }} |

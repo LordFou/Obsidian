@@ -8,7 +8,7 @@ type: game
 
 - **Année de sortie** : 1998
 - **Développeur** : 
-	- Studio : [[Probe Entertainment]]
+	- Studio : [[Probe]]
 	- Personnalités : 
 - **Éditeur** : [[Acclaim Entertainement]]
 - **Plateformes** : [[Playstation]]
