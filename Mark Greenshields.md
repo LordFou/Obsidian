@@ -7,7 +7,7 @@ type: personne
 ## Présentation
 - Programmeur expérimenté sur [[Commodore 64]]
 - Il a écrit plusieurs ouvrages sur la programmation
-- Il a été engagé 
+- Il a été engagé chez [[Domark]] après avoir travaillé sur la traduction du jeu [[A View To A Kill]] en éditant le code octet par octet et en corrigeant quelques bugs au passage.
 
 ## Informations Générales
 - **Date de naissance** :  
