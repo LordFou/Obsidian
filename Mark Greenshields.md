@@ -7,7 +7,7 @@ type: personne
 ## Présentation
 - Programmeur expérimenté sur [[Commodore 64]]
 - Il a écrit plusieurs ouvrages sur la programmation
-- 
+- Il a été engagé 
 
 ## Informations Générales
 - **Date de naissance** :  
