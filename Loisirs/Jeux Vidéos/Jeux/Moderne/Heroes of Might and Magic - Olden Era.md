@@ -64,3 +64,4 @@ tags: mediaDB/game
 | Description | URL       |
 | ----------- | --------- |
 | Wiki        | https://store.steampowered.com/app/3105440 |
+![[image-594.webp|500x282]]
