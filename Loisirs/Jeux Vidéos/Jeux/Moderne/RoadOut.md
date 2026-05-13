@@ -44,7 +44,7 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 0
+	- CheckPoint (7.5/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -68,3 +68,4 @@ tags: mediaDB/game
 | Steam       | https://store.steampowered.com/app/1829270       |
 | Trailer     | https://youtu.be/4_C2liy6u8Y?si=GhqsFamPg9FiqncT |
 |             |                                                  |
+![[image-593.webp|500x281]]
