@@ -1,18 +1,20 @@
 ---
 type: matos
 ---
-
+![[image-577.webp|500x269]]
 # Switch 2
 
 ## Informations principales
 - Fabricant : [[Nintendo]]
 - Année de sortie : 2025
 - Génération : {{Ex: 8-bit, 16-bit, 32-bit...}}
-- Type : {{Console de salon, Portable, Micro-ordinateur...}}
-- Support(s) : {{Cartouches, CD, Disquettes, etc.}}
-- Processeur : {{Nom et fréquence}}
-- RAM : {{Quantité de mémoire vive}}
-- Mascotte : 
+- Type : [[console]]
+- Support(s) : Cartouche + Numérique
+- Processeur : 
+- RAM : 
+- Prix :
+	- Départ : 469.99e
+	- Septembre 2026 : 499.99e
 
 ## Résumé et historique
 

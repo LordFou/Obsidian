@@ -56,7 +56,7 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 | ==4e (BEL)== | [[Lotte Kopecky]]        | [[Lotte Kopecky]]        | [[Marine Allione]]       | [[Franziska Koch]] | [[Lore De Schepper]]  | 4e - [[Shari Bossuyt]]                                  |
 | 5e (NDL)     | [[Mischa Bredewold]]     | [[Lotte Kopecky]]        |                          |                    |                       | 2e - [[Lotte Kopecky]] qui laisse gagner sa coéquipière |
 | 6e (NDL)     | [[Anna van der Breggen]] | [[Anna van der Breggen]] | [[Anna van der Breggen]] | [[Lotte Kopecky]]  | [[Marion Bunel]]      | 9e - [[Lore De Schepper]]                               |
-| 7e           |                          |                          |                          |                    |                       |                                                         |
+| 7e (SUI)     | [[Petra Stiasny]]        | [[Paula Blasi]]          | [[Paula Blasi]]          | [[Lotte Kopecky]]  | [[Marion Bunel]]      |                                                         |
 |              |                          |                          |                          |                    |                       |                                                         |
 
 # General 
@@ -70,7 +70,7 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 | 2025  | [[Jonas Vingegaard]] | Danois      | [[Jay Vine]] | [[Mads Pedersen]] | [[Matthew Riccitello]] |          |
 ## Femmes
 
-| Année | Vainqueur          | Nationalité  | Remarque                  |
-| ----- | ------------------ | ------------ | ------------------------- |
-| 2025  | [[Demi Vollering]] | Néerlandaise | Sans véritable adversaire |
-|       |                    |              |                           |
+| Année | Vainqueur          | Nationalité  | Montagne        | Points            | Jeune            | Equipe      | Remarque                  |
+| ----- | ------------------ | ------------ | --------------- | ----------------- | ---------------- | ----------- | ------------------------- |
+| 2025  | [[Demi Vollering]] | Néerlandaise |                 |                   |                  |             | Sans véritable adversaire |
+| 2026  | [[Paula Blasi]]    | Espagnole    | [[Paula Blasi]] | [[Lotte Kopecky]] | [[Marion Bunel]] | [[SD-Worx]] |                           |

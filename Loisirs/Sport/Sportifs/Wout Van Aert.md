@@ -30,30 +30,32 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 # Palmarès et Distinctions
 
 ## Carrière
-| Année | Courses                                                     | Remarque                                                                              |     |
-| ----- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------- | --- |
-| 2017  | [[Tour du Limbourg]]                                        |                                                                                       |     |
-| 2018  | [[Strade Bianche]]                                          | Début de quelques années de folie                                                     |     |
-| 2019  | [[Tour de France]] - 10e étape                              | Sprint Massif                                                                         |     |
-| 2020  | [[Milan San Remo]]                                          |                                                                                       |     |
-| 2020  | [[Tour de France]] - 5e étape                               | Sprint Massif                                                                         |     |
-| 2020  | [[Tour de France]] - 7e étape                               | Sprint en petit peloton                                                               |     |
-| 2021  | [[Amstel Gold Race]]                                        |                                                                                       |     |
-| 2021  | [[Tour de France]] - 11e étape                              | Victoire en solitaire sur le mont Ventoux                                             |     |
-| 2021  | [[Tour de France]] - 20e étape                              | CLM                                                                                   |     |
-| 2021  | [[Tour de France]] - 21e étape                              | Sprint Massif                                                                         |     |
-| 2022  | [[Tour de France]] - 4e étape                               | Victoire en solitaire                                                                 |     |
-| 2022  | [[Tour de France]] - 8e étape                               | Sprint de puncheur/sprinteur                                                          |     |
-| 2022  | [[Tour de France]] - 20e étape                              | CLM                                                                                   |     |
-| 2022  | [[Bretagne Classic]]                                        |                                                                                       |     |
-|       |                                                             |                                                                                       |     |
-| 2024  | [[Kuurne Bruxelles Kuurne]]                                 |                                                                                       |     |
-|       |                                                             |                                                                                       |     |
-| 2025  | [[Tour d'Italie]] - 9e étape                                | Etape des routes blanches                                                             |     |
-| 2025  | [[Tour de France]] - 21e étape                              | Etape finale <br>3 fois la butte de [[Montmartre]]<br>Arrivée sur les Champs Elysées. |     |
-| 2025  | [[Critérium d'Herentals]]                                   |                                                                                       |     |
-| 2025  | CXWorldCup - Coupe du Monde - 5e Manche - Anvers (Belgique) | 1ier                                                                                  |     |
-| 2026  | [[Paris-Roubaix]]                                           | 1ier                                                                                  |     |
+| Année | Courses                                                     | Remarque                                                                              |
+| ----- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 2017  | [[Tour du Limbourg]]                                        |                                                                                       |
+| 2018  | [[Strade Bianche]]                                          | Début de quelques années de folie                                                     |
+| 2019  | [[Tour de France]] - 10e étape                              | Sprint Massif                                                                         |
+| 2020  | [[Milan San Remo]]                                          |                                                                                       |
+| 2020  | [[Tour de France]] - 5e étape                               | Sprint Massif                                                                         |
+| 2020  | [[Tour de France]] - 7e étape                               | Sprint en petit peloton                                                               |
+| 2021  | [[Amstel Gold Race]]                                        |                                                                                       |
+| 2021  | [[Tour de France]] - 11e étape                              | Victoire en solitaire sur le mont Ventoux                                             |
+| 2021  | [[Tour de France]] - 20e étape                              | CLM                                                                                   |
+| 2021  | [[Tour de France]] - 21e étape                              | Sprint Massif                                                                         |
+| 2022  | [[Tour de France]] - 4e étape                               | Victoire en solitaire                                                                 |
+| 2022  | [[Tour de France]] - 8e étape                               | Sprint de puncheur/sprinteur                                                          |
+| 2022  | [[Tour de France]] - 20e étape                              | CLM                                                                                   |
+| 2022  | [[Bretagne Classic]]                                        |                                                                                       |
+|       |                                                             |                                                                                       |
+| 2024  | [[Kuurne Bruxelles Kuurne]]                                 |                                                                                       |
+|       |                                                             |                                                                                       |
+| 2025  | [[Tour d'Italie]] - 9e étape                                | Etape des routes blanches                                                             |
+| 2025  | [[Tour de France]] - 21e étape                              | Etape finale <br>3 fois la butte de [[Montmartre]]<br>Arrivée sur les Champs Elysées. |
+| 2025  | [[Critérium d'Herentals]]                                   |                                                                                       |
+| 2025  | CXWorldCup - Coupe du Monde - 5e Manche - Anvers (Belgique) | 1ier                                                                                  |
+|       |                                                             |                                                                                       |
+| 2026  | [[Paris-Roubaix]]                                           | 1ier                                                                                  |
+| 2026  | Marly Grav                                                  | 1ier                                                                                  |
 
 | Année | Compétition                                                       | Résultat | Remarque                                                                   |
 | ----- | ----------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |

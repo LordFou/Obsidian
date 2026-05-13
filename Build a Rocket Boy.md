@@ -12,6 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
+	-  [[Leslie Benzies]] (Directeur)
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
@@ -25,6 +26,10 @@ content: [[Build a Rocket Boy]] France emploierait encore une 50aine de personne
 date: Avril 2026
 title: Logicial Surveillance
 content: La société a mis en place un logiciel de surveillance sur les PC de travail de ses employés et le syndicat est remonté !
+
+date: Mai 2026
+title: 3e vague de licenciement en 1 an
+content: Cette fois, 170 sur les 250 employé·es du studio sont concerné·es
 ```
 
 ## Jeux Développés

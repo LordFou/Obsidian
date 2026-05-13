@@ -24,9 +24,10 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                  | Genre             | Plateformes |
-| ----- | ---------------------- | ----------------- | ----------- |
-| 2025  | [[Little Nightmare 3]] | Aventure, Horreur | PC          |
+| Année | Titre                  |
+| ----- | ---------------------- |
+| 2025  | [[Little Nightmare 3]] |
+| 2026  | [[Directive 8020]]     |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

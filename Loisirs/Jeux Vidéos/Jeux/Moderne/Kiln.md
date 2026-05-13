@@ -32,11 +32,12 @@ tags: mediaDB/game
 - **Développeur** : 
 	- Studio : [[Double Fine]]
 	- Personnalités : 
+		- [[Derek Brand]] (Chef de projet)
 - **Éditeur** : [[Xbox Game Studios]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Action]], [[Party Games]]
-- **Résumé** :  On y incarne des poteries dont on a créé la forme en début de partie et c'est du combat 2 contre 2
+- **Résumé** :  On y incarne des poteries dont on a créé la forme en début de partie. Cette forme décide de la classe que vous jouerez dans du PVP 4 contre 4.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -44,7 +45,11 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
+	- CheckPoint (7/10)
 - **Gameplay** :
+	-  Le but est de collecter de l'eau sur la carte, d'atteindre le four adverse et de l'arroser. Tout en combattant les autres joueurs, en évitant les dangers spécifiques à la carte et en défendant son propre four, il s'agit d'un jeu de défense de base.
+	- Au total, il y a environ 24 « classes », chacune avec ses avantages et ses inconvénients.
+	
 - **Durée estimée** : 
 
 ## Histoire et Univers
@@ -57,10 +62,11 @@ tags: mediaDB/game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Le concept du jeu a été imaginé en 2017 lors d'une game jam interne au studio appelée "Amnesia Fortnight" par [[Derek Brand]].
 ## Liens et Ressources
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
 | Steam       | https://store.steampowered.com/app/1165990       |
 | Trailer     | https://youtu.be/6C11Zmc93-I?si=Q6juExHPcMYYdFHx |
+![[image-579.webp|500x281]]

@@ -8,7 +8,7 @@ type: game
 
 - **Année de sortie** : 1995
 - **Développeur** : 
-	- Studio : [[Probe Entertainment]]
+	- Studio : [[Probe]]
 	- Personnalités : 
 - **Éditeur** : [[Acclaim Entertainement]]
 - **Plateformes** : [[SNES]],[[Megadrive]]

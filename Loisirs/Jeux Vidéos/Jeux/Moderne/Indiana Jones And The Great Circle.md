@@ -12,6 +12,8 @@ type: game
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
+	- [[PC]], [[Xbox Series]]
+	- [[Switch 2]] (Mai 2026)
 - **Franchise** : [[Franchise Indiana Jones|Indiana Jones]]
 - **Genre** : 
 - **Résumé** : 

@@ -22,13 +22,13 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                                          | Année | Plateformes | Remarque                 |
-| ---------------------------------------------- | ----- | ----------- | ------------------------ |
-| [[Assassin's Creed]]                           |       |             |                          |
-| [[Assassin's Creed 2]]                         |       |             |                          |
-| [[Assassin's Creed 4 - Black Flag]]            |       |             | Il va y avoir une remake |
-| [[Assassin’s Creed 4 - Black Flag - Resynced]] |       |             |                          |
-| [[Assassin’s Creed Hexe]]                      |       |             |                          |
+| Titre                                    | Année | Plateformes | Remarque                 |
+| ---------------------------------------- | ----- | ----------- | ------------------------ |
+| [[Assassin's Creed]]                     |       |             |                          |
+| [[Assassin's Creed 2]]                   |       |             |                          |
+| [[Assassin's Creed 4 - Black Flag]]      |       |             | Il va y avoir une remake |
+| [[Assassin's Creed Black Flag Resynced]] |       |             | Remake du 4              |
+| [[Assassin’s Creed Hexe]]                |       |             |                          |
 
 
 ## Mécaniques et innovations

@@ -42,7 +42,7 @@ type: personne
 | 2026  | [[Tour d'Algarve]] - 1e étape                             | ==1ier== | Sprint                    |
 | 2026  | [[Tour d'Algarve]] - 4e étape                             | ==1ier== | Sprint                    |
 | 2026  | [[Loisirs/Sport/Tour d'Italie\|Tour d'Italie]] - 1e étape | ==1ier== | Sprint                    |
-|       |                                                           |          |                           |
+| 2026  | [[Tour d'Italie]] - 3e étape                              | ==1ier== | Sprint                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

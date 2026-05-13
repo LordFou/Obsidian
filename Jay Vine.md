@@ -19,9 +19,11 @@ type: personne
 | 2025  | [[Tour d'Espagne]] - 10e étape                                   | 1ier     |                               |
 | 2025  | [[Tour d'Espagne]] - Maillot Montagne                            | 1ier     |                               |
 | 2025  | [[Championnat du Monde de Cyclisme\|Championnat du Monde]] - CLM | 2e       |                               |
+|       |                                                                  |          |                               |
 | 2026  | Championnat National - CLM                                       | 1ier     |                               |
 | 2026  | [[Tour Down Under]] - 2e étape                                   | 1ier     | :luc_plus: Classement général |
 | 2026  | [[Tour Down Under]] - Classement final                           | 1ier     |                               |
+| 2026  | [[Tour d'Italie]] - 2e étape                                     | Abandon  | sur chute                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

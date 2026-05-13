@@ -17,7 +17,7 @@
 		- le [[Pakistan]] bombarde la capitale Kaboul. => Guerre ouverte et déclarée entre les 2 capitales
 		- l'Iran et la Chine se proposent comme médiateur pour la suite
 
-# Iran / USA
+# Iran / USA et Israël
 - **Début** : 28/02/2026
 - **Cause** : exploitation du nucléaire par l'[[Iran]]
   ![[image-377.webp]]

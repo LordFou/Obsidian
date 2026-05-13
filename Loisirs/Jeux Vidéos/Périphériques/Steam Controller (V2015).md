@@ -2,21 +2,25 @@
 type: matos
 ---
 
-# Steam Controller
+# Steam Controller (V2015)
 
 ## Informations principales
-- Fabricant : [[Valve]]
-- Année de sortie : 2026
-- Console compatible : [[Steam Machine]]
-- Type : [[Gamepad]]
-- Autonomie : 35-40h
-- Port : 
-	- USB-C
-	- Bluetooth
-- Tarif à la sortie : +-100€ 
+- Fabricant : {{Nom du fabricant}}
+- Année de sortie : {{Année}}
+- Génération : {{Ex: 8-bit, 16-bit, 32-bit...}}
+- Type : {{Console de salon, Portable, Micro-ordinateur...}}
+- Support(s) : {{Cartouches, CD, Disquettes, etc.}}
+- Processeur : {{Nom et fréquence}}
+- RAM : {{Quantité de mémoire vive}}
+- Mascotte : 
 
 ## Résumé et historique
 {{Gros résumé sur l’histoire de la console/micro, son impact sur le marché, ses innovations, ses succès ou échecs. Parle aussi des modèles révisés et de son influence sur l’industrie.}}
+
+## Jeux emblématiques
+- {{Titre du jeu 1 (année)}}
+- {{Titre du jeu 2 (année)}}
+- {{Titre du jeu 3 (année)}}
 
 ## Anecdotes et faits marquants
 - {{Fait ou anecdote 1}}

@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-575.webp|250x385]]
 # Paula Blasi
 
 # Informations Générales
@@ -13,10 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition          | Résultat | Remarque |
-| ----- | -------------------- | -------- | -------- |
-| 2026  | [[Amstel Gold Race]] | 1ier     |          |
-| 2026  | [[Flèche Wallonne]]  | 3e       |          |
+| Année | Compétition                           | Résultat  | Remarque |
+| ----- | ------------------------------------- | --------- | -------- |
+| 2026  | [[Amstel Gold Race]]                  | ==1ière== |          |
+| 2026  | [[Flèche Wallonne]]                   | 3e        |          |
+| 2026  | [[Tour d'Espagne]] - Classement final | ==1ière== |          |
+| 2026  | [[Tour d'Espagne]] - Maillot Montagne | ==1ière== |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

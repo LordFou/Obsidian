@@ -13,10 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                      | Résultat | Remarque      |
-| ----- | -------------------------------- | -------- | ------------- |
-| 2025  | [[Tour de France]] - 8e étape    | 10e      | Maillot Blanc |
-| 2025  | [[Tour de l’Ardèche]] - 5e étape | 1ière    |               |
+| Année | Compétition                        | Résultat  | Remarque      |
+| ----- | ---------------------------------- | --------- | ------------- |
+| 2025  | [[Tour de France]] - 8e étape      | 10e       | Maillot Blanc |
+| 2025  | [[Tour de l’Ardèche]] - 5e étape   | ==1ière== |               |
+| 2026  | [[Tour d'Espagne]] - Maillot Jeune | ==1ière== |               |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

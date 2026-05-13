@@ -8,10 +8,11 @@ type: societe
 Studio indépendant très prolifique a la fin des années 80, début des 90. Principalement des jeux micros basés sur des licences d'émissions jeunesse ou des portages de grosses pointures sur consoles [[Nintendo]].
 
 ## Informations Générales
-- **Nom complet** :  
+- **Nom complet** :  Enigma Variations
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
+	- [[Mark Greenshields]]
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :

@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-591.webp|500x282]]
 # Subnautica 2
 
 ## Informations Générales
@@ -37,6 +37,6 @@ type: game
 - La sortie du jeu sera fortement chamboulée du fait que les principaux responsables de [[Unknown Worlds]] soient virés, puis restaurés dans leur fonction par la justice américaine.
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                                         |
+| ----------- | ------------------------------------------- |
+| Trailer     | https://www.youtube.com/watch?v=8EZhCzFaQuw |

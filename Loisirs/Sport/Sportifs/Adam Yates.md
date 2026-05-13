@@ -19,7 +19,9 @@ type: personne
 | 2025  | [[Tour d'Oman]] - Classement final | 1ier     |          |
 | 2025  | [[Coppa Agostini]]                 | 1ier     |          |
 | 2025  | [[Trofeo Tessile & Moda]]          | 1ier     |          |
+|       |                                    |          |          |
 | 2026  | [[O Gran Camiño]]                  | 1ier     |          |
+| 2026  | [[Tour d'Italie]] - 3e étape       | Abandon  |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -28,7 +30,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Lors du [[Tour d'Italie]] 2026, symptômes de commotion et abandon suite à une méga chute du peloton.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
