@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Tour de Hongrie.md",
+                "file": "Loisirs/Sport/Tour d'Italie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour de Hongrie"
+              "title": "Tour d'Italie"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hongrie",
+                "query": "Eulalio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,8 +207,10 @@
   },
   "active": "cbb586a3b30089cf",
   "lastOpenFiles": [
-    "Harold Martin Lopez.md",
+    "Igor Arrieta.md",
+    "Loisirs/Sport/Tour d'Italie.md",
     "Loisirs/Sport/Compétitions/Tour de Hongrie.md",
+    "Harold Martin Lopez.md",
     "Thibau Nys.md",
     "Tim Merlier.md",
     "Journal de bord/Archives/2025-07-05.md",
@@ -230,8 +233,6 @@
     "Journal de bord/2026-05-12.md",
     "Jorgen Martin.md",
     "Horizont Computergrafik.md",
-    "Hantavirus.md",
-    "Franchise Huntdown.md",
     "Attachments/image-592.webp",
     "Attachments/image-591.webp",
     "Attachments/image-590.webp",

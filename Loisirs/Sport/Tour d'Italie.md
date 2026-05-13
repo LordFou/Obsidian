@@ -70,7 +70,7 @@ Aussi appelé [[Giro]] ^^
 | 2e (URU) | [[Thomas Silva]]     | [[Thomas Silva]]   | [[Diego Sevilla]] | [[Paul Magnier]] | [[Thomas Silva]] | Méga chute à 23km            |
 | 3e (FRA) | [[Paul Magnier]]     | [[Thomas Silva]]   | [[Diego Sevilla]] | [[Paul Magnier]] | [[Paul Magnier]] |                              |
 | 4e (EQU) | [[Jonathan Narvaez]] | [[Giulio Ciccone]] |                   |                  |                  | 7e - [[Lennert Van Eetvelt]] |
-|          |                      |                    |                   |                  |                  |                              |
+| 5e (ESP) | [[Igor Arrieta]]     | [[Afonso Eulalio]] |                   |                  |                  |                              |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
