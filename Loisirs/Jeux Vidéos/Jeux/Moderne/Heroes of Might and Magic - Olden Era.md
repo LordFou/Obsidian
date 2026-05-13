@@ -34,7 +34,7 @@ tags: mediaDB/game
 	- Personnalités : 
 - **Éditeur** : [[Hooded Horse]]
 - **Plateformes** : 
-- **Franchise** : [[Franchise Heroes of Might and Magic]]
+- **Franchise** : [[Franchise Heroes of Might And Magic]]
 - **Genre** : [[4X]]
 - **Résumé** :  
 
@@ -54,6 +54,7 @@ tags: mediaDB/game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Heroes of Might and Magic III]] (Retour aux sources)
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

@@ -1,3 +1,7 @@
+---
+type: personne
+---
+
 # Rob King
 
 ## Présentation

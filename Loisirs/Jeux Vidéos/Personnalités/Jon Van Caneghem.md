@@ -1,3 +1,7 @@
+---
+type: personne
+---
+
 # Jon Van Caneghem
 
 ## Présentation

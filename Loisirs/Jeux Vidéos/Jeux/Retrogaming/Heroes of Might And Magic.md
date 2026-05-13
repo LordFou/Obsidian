@@ -1,4 +1,6 @@
-
+---
+type: game
+---
 
 # Heroes of Might And Magic
 
