@@ -22,6 +22,7 @@ type: personne
 | 2026  | [[JO 2026]] - Mass Start                                            |          |                                                            |
 | 2026  | [[JO 2026]] - 1500m                                                 |          |                                                            |
 | 2026  | [[JO 2026]] - Poursuite par équipe                                  | 6e       |                                                            |
+| 2026  | [[Omloop der Kempen]]                                               | 3e       |                                                            |
 ```timeline-labeled
 [line-5, body-2]
 date: [[JO 2026]] 
