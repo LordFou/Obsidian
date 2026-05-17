@@ -44,6 +44,7 @@ type: personne
 | 2026  | [[GP de l'Escaut]]                                         | 1ier     |                  |                                              |
 | 2026  | [[Tour du Limbourg]]                                       | 1ier     |                  |                                              |
 | 2026  | [[Tour de Hongrie]] - 1e étape                             | 1ier     |                  |                                              |
+| 2026  | [[Tour de Hongrie]] - 3e étape                             | 1ier     |                  |                                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

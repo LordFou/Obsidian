@@ -1,23 +1,21 @@
 ---
 type: personne
 ---
-
-# Benoit Cosnefroy
+![[image-596.webp|500x281]]
+# Jilke Michielsen
 
 # Informations Générales
-- **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Date de naissance** :  2007 - 2026 (!!)
+- **Nationalité** :  Belge
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                    | Résultat | Remarque |
-| ----- | ------------------------------ | -------- | -------- |
-| 2026  | [[Flèche Brabançonne]]         | 3e       |          |
-| 2026  | [[Amstel Gold Race]]           | 3e       |          |
-| 2026  | [[Tour de Hongrie]] - 2e étape | 1ier     |          |
+| Année | Compétition                       | Résultat | Remarque |
+| ----- | --------------------------------- | -------- | -------- |
+| 2022  | Championnat de Belgique débutante | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -26,7 +24,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Décédée en 2026 d'un cancer des os... (sarcome d'Ewing)
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

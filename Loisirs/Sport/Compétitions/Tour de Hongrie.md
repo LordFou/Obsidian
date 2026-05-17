@@ -9,11 +9,11 @@ type: event
 
 ## Hommes
 
-|              | Vainqueur       | Général         | Montagne | Points | Jeune | Remarques |
-| ------------ | --------------- | --------------- | -------- | ------ | ----- | --------- |
-| ==1e (BEL)== | [[Tim Merlier]] | [[Tim Merlier]] |          |        |       |           |
-|              |                 |                 |          |        |       |           |
-|              |                 |                 |          |        |       |           |
+|              | Vainqueur            | Général         | Montagne | Points | Jeune | Remarques |
+| ------------ | -------------------- | --------------- | -------- | ------ | ----- | --------- |
+| ==1e (BEL)== | [[Tim Merlier]]      | [[Tim Merlier]] |          |        |       |           |
+| 2e (FRA)     | [[Benoit Cosnefroy]] |                 |          |        |       |           |
+| ==3e (BEL)== | [[Tim Merlier]]      | [[Tim Merlier]] |          |        |       |           |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
