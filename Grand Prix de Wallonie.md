@@ -10,7 +10,7 @@ type: event
 
 | Année | Vainqueur         | Nationalité | Remarque |
 | ----- | ----------------- | ----------- | -------- |
-| 2025  | [[Arnaud De Lie]] | ==Belge==   |          |
+| 2024  | [[Arnaud De Lie]] | ==Belge==   |          |
 | 2026  | [[Riley Sheehan]] | Américain   |          |
 # Femmes
 
