@@ -16,5 +16,6 @@ type: event
 
 | Année | Vainqueur        | Epreuve | Nationalité | Remarque |
 | ----- | ---------------- | ------- | ----------- | -------- |
+| 2023  | [[Sarah Chaâri]] | -?kg    | Belge       |          |
 | 2024  | [[Sarah Chaâri]] | -67kg   | Belge       |          |
-|       |                  |         |             |          |
+| 2026  | [[Sarah Chaâri]] | -73kg   | Belge       |          |
