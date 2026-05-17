@@ -17,6 +17,7 @@ type: personne
 | ----- | -------------------- | --------- | ---------------------------------- |
 | 2025  | [[Roland-Garros]]    | Vainqueur |                                    |
 | 2026  | [[Tournoi de Miami]] | Finaliste | Défaite contre [[Aryna Sabalenka]] |
+| 2026  | [[Tournoi de Rome]]  | Finaliste | Défaire contre [[Elina Svitolina]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

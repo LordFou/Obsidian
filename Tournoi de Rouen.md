@@ -2,11 +2,9 @@
 type: event
 ---
 
-# Tournoi de Rome - ATP/WTA Masters 1000
+# Tournoi de Rouen
 
 # Introduction
-
-Aussi surnommé le Foro Italico
 
 # Hommes
 
@@ -18,7 +16,5 @@ Aussi surnommé le Foro Italico
 
 | Année | Vainqueur           | Nationalité | Remarque |
 | ----- | ------------------- | ----------- | -------- |
-| 2017  | [[Elina Svitolina]] | Ukraine     |          |
-| 2018  | [[Elina Svitolina]] | Ukraine     |          |
-| 2026  | [[Elina Svitolina]] | Ukraine     |          |
+| 2025  | [[Elina Svitolina]] |             |          |
 |       |                     |             |          |

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Sandrine Tas.md",
+                "file": "Roland-Garros.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sandrine Tas"
+              "title": "Roland-Garros"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Omloop der Kempen",
+                "query": "Roland",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,6 +207,14 @@
   },
   "active": "3eb9d93a9163a702",
   "lastOpenFiles": [
+    "Attachments/image-598.webp",
+    "Tournoi de Strasbourg.md",
+    "Elina Svitolina.md",
+    "Coco Gauff.md",
+    "Tournoi de Rouen.md",
+    "Tournoi d'Auckland.md",
+    "Loisirs/Sport/Compétitions/Tournoi de Rome.md",
+    "Loisirs/Sport/Sportifs/Sandrine Tas.md",
     "Loisirs/Sport/Compétitions/Omloop der Kempen.md",
     "Loisirs/Sport/Lorena Wiebes.md",
     "Loisirs/Sport/Tour d'Italie.md",
@@ -227,14 +236,6 @@
     "Jasper Stuyven.md",
     "Christophe Laporte.md",
     "Grand Prix de Wallonie.md",
-    "Riley Sheehan.md",
-    "Jannik Sinner.md",
-    "Loisirs/Sport/Compétitions/Novak Djokovic.md",
-    "Sarah Chaâri.md",
-    "Championnat d'Europe de Taekwondo.md",
-    "Journal de bord/2026-05-17.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Heroes of Might and Magic - Olden Era.md",
-    "Loisirs/Jeux Vidéos/Jeux/Franchise/Franchise Heroes of Might And Magic.md",
     "Attachments/image-594.webp",
     "Attachments/image-593.webp",
     "Attachments/image-592.webp",
