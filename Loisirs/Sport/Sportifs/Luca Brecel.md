@@ -1,22 +1,21 @@
 ---
 type: personne
 ---
-![[image-249.webp]]
-# Sofia Costoulas
+![[image-599.webp|500x281]]
+# Luca Brecel
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Tennis]]
-- **Poste / Spécialité** (si applicable) :  
+- **Sport / Discipline** : [[Billiard]]
+- **Poste / Spécialité** (si applicable) :  [[Snooker]] 
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                        | Résultat    | Remarque                               |
-| ----- | ---------------------------------- | ----------- | -------------------------------------- |
-| 2026  | [[Tournoi d'Auckland]]             | 2e tour (?) | Premier qualif pour un tournoi ATP 250 |
-| 2026  | [[Roland-Garros]] - Qualifications | 2e tour     |                                        |
+| Année | Compétition                     | Résultat  | Remarque                              |
+| ----- | ------------------------------- | --------- | ------------------------------------ |
+| 2026  | Snooker 900 Global Championship | Finaliste Défaite contre [[Ronnie O’Sullivan]] e  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -30,6 +29,6 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
-# Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |
