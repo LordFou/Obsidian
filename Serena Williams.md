@@ -20,9 +20,9 @@ content:
 ```
 
 # Palmarès et Distinctions
-| Année | Compétition | Résultat   | Remarque                          |
-| ----- | ----------- | ---------- | --------------------------------- |
-| 2001  | [[US Open]] | Vainqueure | Victoire contre [[Kim Clijsters]] |
+| Année | Compétition              | Résultat   | Remarque                          |
+| ----- | ------------------------ | ---------- | --------------------------------- |
+| 2001  | [[Tournoi Indian Wells]] | Vainqueure | Victoire contre [[Kim Clijsters]] |
 
 # Style et Caractéristiques
 - Père égocentré [[Richard Williams]], il veut lancer ses futures filles dans le tennis avant même leur naissance. Il devient donc père, coach, manager. 
@@ -33,6 +33,12 @@ content:
 - [[US Open]] YYYY : Spirlea bouscule volontairement [[Venus Williams]] ?
 - [[John Mc Enroe]] provoque le duo en pariant qu'il verserait de l'argent à des oeuvres si elles le battait. Elles répliquent par l'autodérision
 - [[Tournoi Indian Wells]] 2001, racisme du public, une rumeur dit que le père aurait arranger le forfait d'une des soeurs lors de la demi finale (Venus) pour que ce soit Serena qui aille en finale. C'était contre [[Kim Clijsters]]. Serena gagnera quand même malgré l'hostilité du public (Réaction de [[Kim Clijsters]]?).
+- L'arrivée des soeurs williams pousse le tennis féminin à devenir plus puissant, plus agressif
+- Télé réalité, mode, tout y passe avec elles
+- La sœur ainée (considérée comme une seconde mère) décède à Compton dans une fusillade => ce qui fait chuté les soeurs au classement, elles doivent se remettre de tout ça car le tennis n'est plus leur priorité.
+- Venus choppe une maladie chronique (problème respiratoire), plus une blessure qui dégénère en embolie pulmonaire. (2005-2010 ?)
+- Puis elle rebondisse et prenne leur indépendance 
+	- Bataille contre les salaires différents à Wimbledon
 
 # Records et Faits Marquants
 - 13 titres WTA 1000
