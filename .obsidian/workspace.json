@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8e6d31870cb3d6b5",
+        "id": "3649dfbba920acce",
         "type": "tabs",
         "children": [
           {
-            "id": "30a2749a531f2294",
+            "id": "812ae3ce5a8c02af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -205,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2072e27471fd92c",
+  "active": "812ae3ce5a8c02af",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Tournoi de Strasbourg.md",
