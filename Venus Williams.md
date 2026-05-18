@@ -12,6 +12,13 @@ type: personne
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
+```timeline-labeled
+[line-5, body-2]
+date: 1992
+title: Début de la carrière sur le circuit pro
+content: 
+```
+
 # Palmarès et Distinctions
 | Année | Compétition           | Résultat                 | Remarque |
 | ----- | --------------------- | ------------------------ | -------- |

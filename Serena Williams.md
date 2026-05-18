@@ -28,7 +28,11 @@ content:
 - Père égocentré [[Richard Williams]], il veut lancer ses futures filles dans le tennis avant même leur naissance. Il devient donc père, coach, manager. 
 - Il veut habiter le pire ghetto de Californie (Compton) et faire parler de ses filles pour y amener les caméras et ça marche. 
 - Puis il ira s'installer en Floride, au plus près des grandes académies de sport.
-- En 1984, lors de l'enregistrement d'un interview, il s'engueulera avec l'interviewer afin que celui-ci "respecte sa fille" [[Venus Williams]] qui venait d'assurer à 14 ans qu'elle gagnerait ...
+- En 1984, lors de l'enregistrement d'un interview, il s'engueulera avec l'interviewer afin que celui-ci "respecte sa fille" [[Venus Williams]] qui venait d'assurer à 14 ans qu'elle battrait quelqu'un ...  Suite à cela, la relation avec les médias sera toujours compliquée mais les médias sont prévenus qu'il défendra ses filles à tout moment.
+- Le tennis est un sport "blanc" car il coute cher. Il a un cachet aristocratique. Et les soeurs williams vont bouleverser ça (Ex: leur tresse africaine avec perles face aux queues de cheval). Elles dérangent en fait
+- [[US Open]] YYYY : Spirlea bouscule volontairement [[Venus Williams]] ?
+- [[John Mc Enroe]] provoque le duo en pariant qu'il verserait de l'argent à des oeuvres si elles le battait. Elles répliquent par l'autodérision
+- 
 
 # Records et Faits Marquants
 - 13 titres WTA 1000
