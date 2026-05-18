@@ -24,7 +24,7 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- 1ier joueur à avoir remporté les neuf tournois de catégorie Masters 1000, la plus importante après celle du Grand Chelem
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

@@ -31,9 +31,11 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-- 6 trophées en Masters 1000 dont 5 d'affilée (Record !)
+- x trophées en Masters 1000 dont 6 d'affilée (Record !)
 - 26 sets consécutifs gagnés en Masters 1000 (lors du [[Tournoi de Miami]] 2026). Il prend le record à [[Novak Djokovic]] qui en était à 24.
-- Record de 32 matchs consécutifs en Masters 1000
+- Record de 34 matchs consécutifs en Masters 1000
+- 2e joueur après [[Novak Djokovic]] à avoir remporté les neuf tournois de catégorie Masters 1000, la plus importante après celle du Grand Chelem
+- 29 titres ATP
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
