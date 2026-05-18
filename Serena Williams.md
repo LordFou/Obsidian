@@ -38,7 +38,10 @@ content:
 - La sœur ainée (considérée comme une seconde mère) décède à Compton dans une fusillade => ce qui fait chuté les soeurs au classement, elles doivent se remettre de tout ça car le tennis n'est plus leur priorité.
 - Venus choppe une maladie chronique (problème respiratoire), plus une blessure qui dégénère en embolie pulmonaire. (2005-2010 ?)
 - Puis elle rebondisse et prenne leur indépendance 
-	- Bataille contre les salaires différents à Wimbledon
+	- Bataille contre les salaires différents à [[Wimbledon]] entre hommes et femmes
+	- Black Lives Matter
+- Serena sera sur le devant quand sa soeur combat la maladie
+- Au retour de sa grossesse, nouveau débat sur sa tenue. Notamment pour le président de la fédération française. Retour sur les formes des africaines
 
 # Records et Faits Marquants
 - 13 titres WTA 1000
