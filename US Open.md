@@ -18,6 +18,7 @@ type: event
 
 | Année | Vainqueur           | Nationalité | Remarque |
 | ----- | ------------------- | ----------- | -------- |
+| 2001  | [[Serena Williams]] | Américaine  |          |
 | 2005  | [[Kim Clijsters]]   | Belge       |          |
 | 2022  | [[Iga Swiatek]]     | Polonaise   |          |
 | 2025  | [[Aryna Sabalenka]] | Biélorusse  |          |
