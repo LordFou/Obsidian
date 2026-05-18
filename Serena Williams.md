@@ -32,7 +32,7 @@ content:
 - Le tennis est un sport "blanc" car il coute cher. Il a un cachet aristocratique. Et les soeurs williams vont bouleverser ça (Ex: leur tresse africaine avec perles face aux queues de cheval). Elles dérangent en fait
 - [[US Open]] YYYY : Spirlea bouscule volontairement [[Venus Williams]] ?
 - [[John Mc Enroe]] provoque le duo en pariant qu'il verserait de l'argent à des oeuvres si elles le battait. Elles répliquent par l'autodérision
-- 
+- [[Tournoi Indian Wells]] 2001, racisme du public, une rumeur dit que le père aurait arranger le forfait d'une des soeurs lors de la demi finale (Venus) pour que ce soit Serena qui aille en finale. C'était contre Clijsters
 
 # Records et Faits Marquants
 - 13 titres WTA 1000
