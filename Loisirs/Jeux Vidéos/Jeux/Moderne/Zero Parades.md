@@ -40,4 +40,4 @@ type: game
 
 | Description | URL |
 | ----------- | --- |
-|             |     |
+| Trailer     |     |

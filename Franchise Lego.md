@@ -22,9 +22,10 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre             | Année | Plateformes          | Remarque |
-| ----------------- | ----- | -------------------- | -------- |
-| [[Lego Voyagers]] | 2025  | PC, PS, Xbox, Switch |          |
+| Titre                                         | Année |
+| --------------------------------------------- | ----- |
+| [[Lego Voyagers]]                             | 2025  |
+| [[LEGO® Batman™ - Legacy of the Dark Knight]] | 2026  |
 
 
 ## Mécaniques et innovations
