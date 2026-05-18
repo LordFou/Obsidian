@@ -30,10 +30,11 @@ type: event
 ### Hommes
 
 
-| Année | Vainqueur            | Nationalité | Remarque |
-| ----- | -------------------- | ----------- | -------- |
-| 2026  | [[Jakob Söderqvist]] | Suédois     |          |
-|       |                      |             |          |
+| Année | Vainqueur               | Nationalité | Remarque |
+| ----- | ----------------------- | ----------- | -------- |
+| 2025  | [[Harold Martin Lopez]] | Equatorien  |          |
+| 2026  | [[Jakob Söderqvist]]    | Suédois     |          |
+|       |                         |             |          |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

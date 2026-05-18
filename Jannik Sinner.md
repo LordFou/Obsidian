@@ -25,6 +25,7 @@ type: personne
 | 2026  | [[Tournoi de Monte-Carlo]] - Double | 2e tour         | avec [[Zizou Bergs]]                 |
 | 2026  | [[Tournoi de Monte-Carlo]]          | Vainqueur       | Victoire contre [[Carlos Alcaraz]]   |
 | 2026  | [[Tournoi de Madrid]]               | Vainqueur       | Victoire contre [[Alexander Zverev]] |
+| 2026  | [[Tournoi de Rome]]                 | Vainqueur       | Victoire contre [[Casper Ruud]]      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

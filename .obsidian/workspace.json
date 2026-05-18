@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benoit Cosnefroy.md",
+                "file": "Casper Ruud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Benoit Cosnefroy"
+              "title": "Casper Ruud"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Tournoi de Rome",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,10 +207,16 @@
   },
   "active": "3f74a9e9c78095f6",
   "lastOpenFiles": [
-    "Loisirs/Sport/Sportifs/Luke Plapp.md",
-    "Benoit Cosnefroy.md",
-    "Jakob Söderqvist.md",
+    "Jannik Sinner.md",
+    "Casper Ruud.md",
+    "Loisirs/Sport/Compétitions/Tournoi de Rome.md",
+    "Tournoi de Genève.md",
+    "Raphaël Collignon.md",
+    "Loisirs/Sport/Sportifs/Alex Marquez.md",
     "Tour de Hongrie.md",
+    "Jakob Söderqvist.md",
+    "Benoit Cosnefroy.md",
+    "Loisirs/Sport/Sportifs/Luke Plapp.md",
     "Tim Merlier.md",
     "Loisirs/Sport/Tour d'Italie.md",
     "Les Soeurs Williams.md",
@@ -226,18 +233,12 @@
     "Igor Arrieta.md",
     "Harold Martin Lopez.md",
     "Evil Raptor.md",
-    "Davide Ballerini.md",
     "Attachments/image-598.webp",
     "Attachments/image-597.webp",
     "Attachments/image-596.webp",
     "Attachments/image-595.webp",
     "Attachments/image-594.webp",
     "Attachments/image-593.webp",
-    "Mark Greenshields.md",
-    "A View To A Kill.md",
-    "Domark.md",
-    "Richard Naylor.md",
-    "Zilog Z80.md",
     "Attachments/image-592.webp",
     "Attachments/image-591.webp",
     "Attachments/image-590.webp",

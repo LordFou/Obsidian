@@ -2,20 +2,20 @@
 type: personne
 ---
 
-# Luke Plapp
+# Casper Ruud
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Nationalité** :  Norvégien
+- **Sport / Discipline** :  [[Tennis]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                            | Résultat | Remarque |
-| ----- | -------------------------------------- | -------- | -------- |
-| 2026  | [[Tour de Hongrie]] - Classement final | 3e       |          |
+| Année | Compétition         | Résultat  | Remarque |
+| ----- | ------------------- | --------- | -------- |
+| 2026  | [[Tournoi de Rome]] | Finaliste |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
