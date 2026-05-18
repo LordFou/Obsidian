@@ -21,6 +21,8 @@ type: personne
 |       |                                        |          |           |
 | 2026  | [[Tour Down Under]] - 4e étape         | Abandon  | Sur chute |
 | 2026  | [[Tour d'Italie]] - 4e étape           | 1ier     |           |
+| 2026  | [[Tour d'Italie]] - 8e étape           | 1ier     |           |
+|       |                                        |          |           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

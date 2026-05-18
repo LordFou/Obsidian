@@ -1,3 +1,7 @@
+---
+type: societe
+---
+
 # New World Computing
 
 ## Présentation

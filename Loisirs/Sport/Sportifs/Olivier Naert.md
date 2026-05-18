@@ -5,19 +5,23 @@ type: personne
 # Olivier Naert
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  2004
 - **Nationalité** :  Belge
-- **Sport / Discipline** : J 
+- **Sport / Discipline** : [[Judo]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 - **Meilleur Classement** : 183e
 
 # Palmarès et Distinctions
-| Année | Compétition                      | Résultat | Remarque |
-| ----- | -------------------------------- | -------- | -------- |
-| 2025  | Coupe d’Europe - Malaga (-60 kg) | 2e       |          |
-| 2026  | Euro judo (-60kg)                | 1e tour  |          |
+| Année | Compétition                                     | Résultat | Remarque |
+| ----- | ----------------------------------------------- | -------- | -------- |
+| 2023  | Championnat d'Europe Junior - ?                 | 3e       |          |
+| 2023  | European Cup de Malaga                          | 2e       |          |
+| 2024  | European Open Tallinn                           | 3e       |          |
+| 2025  | Coupe d’Europe - Malaga (-60 kg)                | 2e       |          |
+| 2026  | Euro judo (-60kg)                               | 1e tour  |          |
+| 2026  | European Open La Nucia/Benidorm (Espagne) -60kg | Or       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

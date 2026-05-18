@@ -22,12 +22,17 @@ type: personne
 | 2026  | Prom'Classic - 10km route                                     | 1ière                    | Record d'Europe (30.10)                           |
 | 2026  | Cross Cup de Hannut                                           | 1ière                    |                                                   |
 | 2026  | Monaco - 5km route                                            |                          | Record de Belgique (14.48)                        |
+| 2026  | Super League - Kessel Lo - 3000m                              | 1ière                    | Record de Belgique                                |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Record de Belgique
+	- 5km route
+	- 3000m salle
+- Record d'Europe
+	- 10km route
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

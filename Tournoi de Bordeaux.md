@@ -2,7 +2,7 @@
 type: event
 ---
 
-# ATP 250 - Tournoi d'Auckland
+# Tournoi de Bordeaux - Challenger 175
 
 # Introduction
 
@@ -10,11 +10,11 @@ type: event
 
 | Année | Vainqueur | Nationalité | Remarque |
 | ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
+| 2026  |           |             |          |
 |       |           |             |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
 | ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
+| 2026  |           |             |          |
 |       |           |             |          |

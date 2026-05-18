@@ -13,10 +13,16 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition              | Résultat       | Remarque |
-| ----- | ------------------------ | -------------- | -------- |
-| 2019  | [[Wimbledon]] | Demi-finaliste |          |
-| 2023  | [[Wimbledon]] | Demi-finaliste |          |
+| Année | Compétition               | Résultat       | Remarque                       |
+| ----- | ------------------------- | -------------- | ------------------------------ |
+| 2017  | [[Tournoi de Rome]]       | Vainqueure     |                                |
+| 2018  | [[Tournoi de Rome]]       | Vainqueure     |                                |
+| 2019  | [[Wimbledon]]             | Demi-finaliste |                                |
+| 2023  | [[Tournoi de Strasbourg]] | Vainqueure     |                                |
+| 2023  | [[Wimbledon]]             | Demi-finaliste |                                |
+| 2025  | [[Tournoi de Rouen]]      | Vainqueure     |                                |
+| 2026  | [[Tournoi d'Auckland]]    | Vainqueure     |                                |
+| 2026  | [[Tournoi de Rome]]       | Vainqueure     | Victoire contre [[Coco Gauff]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

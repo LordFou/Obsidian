@@ -1,3 +1,7 @@
+---
+type: personne
+---
+
 # Paul Romero
 
 ## Présentation

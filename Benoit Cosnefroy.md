@@ -13,10 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition            | Résultat | Remarque |
-| ----- | ---------------------- | -------- | -------- |
-| 2026  | [[Flèche Brabançonne]] | 3e       |          |
-| 2026  | [[Amstel Gold Race]]   | 3e       |          |
+| Année | Compétition                    | Résultat | Remarque |
+| ----- | ------------------------------ | -------- | -------- |
+| 2026  | [[Flèche Brabançonne]]         | 3e       |          |
+| 2026  | [[Amstel Gold Race]]           | 3e       |          |
+| 2026  | [[Tour de Hongrie]] - 2e étape | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

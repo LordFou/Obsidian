@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                  | Résultat    | Remarque                               |
 | ----- | ---------------------------- | ----------- | -------------------------------------- |
-| 2026  | [[ATP - Tournoi d'Auckland]] | 2e tour (?) | Premier qualif pour un tournoi ATP 250 |
+| 2026  | [[Tournoi d'Auckland]] | 2e tour (?) | Premier qualif pour un tournoi ATP 250 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -15,7 +15,10 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                              | Résultat | Remarque                          |
 | ----- | ------------------------------------------------------------------------ | -------- | --------------------------------- |
-| 2024  | [[Championnat d'Europe de Cyclocross\|Champ. Europe]]                    | 1ier     |                                   |
+|       |                                                                          |          |                                   |
+| 2024  | [[Tour de Hongrie]] - Classement final                                   | ==1ier== |                                   |
+| 2024  | [[Championnat d'Europe de Cyclocross\|Champ. Europe]]                    | ==1ier== |                                   |
+|       |                                                                          |          |                                   |
 | 2025  | [[Tour du Pays Basque]]                                                  | 1ier     |                                   |
 | 2025  | [[Championnat de Belgique de Cyclocross]]                                | 1ier     |                                   |
 | 2025  | [[Critérium d'Alost]]                                                    | 3e       |                                   |

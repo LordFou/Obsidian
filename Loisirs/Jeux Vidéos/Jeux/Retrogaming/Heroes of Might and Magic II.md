@@ -1,3 +1,7 @@
+---
+type: game
+---
+
 ![[Pasted image 20250404010416.jpg]]
 # Heroes of Might and Magic II
 
@@ -13,7 +17,7 @@
 		- [[Paul Romero]] (Compositeur)
 - **Éditeur** : [[3DO - Entrerprise|3DO]]
 - **Plateformes** : PC, Mac
-- **Franchise** : [[Heroes of Might And Magic - Franchise|Heroes Of Might And Magic]]
+- **Franchise** : [[Franchise Heroes of Might And Magic|Heroes Of Might And Magic]]
 - **Genre** : [[Stratégie]]
 - **Résumé** : 
 	- De multiples héros explorent des cartes, parfois immense, avec leur armée et leurs artéfacts. Ils combattent d'autres héros provenant d'autres maisons afin de faire évoluer leur château. Tout est découpé en plusieurs scénarios qui font avancer une histoire fil rouge selon la maison que l'on joue.

@@ -18,5 +18,6 @@ type: event
 
 | Année | Vainqueur           | Nationalité | Remarque |
 | ----- | ------------------- | ----------- | -------- |
+| 2001  | [[Serena Williams]] | Américaine  |          |
 | 2026  | [[Aryna Sabalenka]] | Bélarusse   |          |
 |       |                     |             |          |

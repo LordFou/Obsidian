@@ -36,20 +36,21 @@ tags: mediaDB/game
 - **Éditeur** : [[DANGEN Entertainment]]
 - **Plateformes** : [[PC]], [[Playstation 5]],[[Xbox Series]],[[Switch]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[RPG]]
+- **Genre** : [[Action]], [[Aventure]], [[RPG]], [[Course]]
 - **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : [[Pixel Art]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 0
+	- CheckPoint (7.5/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- La Zone Morte
 - **Epoque** : 
 	- [[Post Apo]]
 - **Personnages principaux** : 
@@ -57,6 +58,7 @@ tags: mediaDB/game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Rock 'N Roll Racing]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
@@ -68,3 +70,4 @@ tags: mediaDB/game
 | Steam       | https://store.steampowered.com/app/1829270       |
 | Trailer     | https://youtu.be/4_C2liy6u8Y?si=GhqsFamPg9FiqncT |
 |             |                                                  |
+![[image-593.webp|500x281]]

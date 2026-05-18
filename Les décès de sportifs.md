@@ -33,4 +33,10 @@ date: Mai 2026
 title: Décès à 29 ans du basketteur [[Brandon Clarke]]
 content: Les [[Memphis Grizzlies]], la franchise de la NBA de basket, ont annoncé mardi la mort de leur intérieur [[Brandon Clarke]], sans préciser les causes du décès de l’Américano-Canadien de 29 ans.
 ![[image-589.webp|500x281]]
+
+date: Mai 2026
+title: [[Jilke Michielsen]] perd son combat contre le cancer
+content: L’ancienne championne belge de cyclisme, Jilke Michielsen a perdu son combat contre un cancer des os. Ses derniers mots sur son profil insta : « Ne te prends pas la tête, profite simplement ».
+![[image-597.webp|500x281]]
+
 ```
