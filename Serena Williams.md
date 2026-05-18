@@ -41,7 +41,9 @@ content:
 	- Bataille contre les salaires différents à [[Wimbledon]] entre hommes et femmes
 	- Black Lives Matter
 - Serena sera sur le devant quand sa soeur combat la maladie
-- Au retour de sa grossesse, nouveau débat sur sa tenue. Notamment pour le président de la fédération française. Retour sur les formes des africaines
+- Au retour de sa grossesse, nouveau débat sur sa tenue. Notamment pour le président de la fédération française. Retour sur le débat des formes des femmes africaines. Et du coup, nouvelle attaque contre Serena.
+- Débat sur les colères de [[Serena Williams]] aussi 
+	- Elle perd régulièrement un peu les pédales mais tout est aussi monté en épingle par après
 
 # Records et Faits Marquants
 - 13 titres WTA 1000
