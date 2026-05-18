@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3649dfbba920acce",
+        "id": "eb59456892fdfb64",
         "type": "tabs",
         "children": [
           {
-            "id": "812ae3ce5a8c02af",
+            "id": "3f74a9e9c78095f6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Benoit Cosnefroy.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Benoit Cosnefroy"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Probe",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,8 +204,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "812ae3ce5a8c02af",
+  "active": "3f74a9e9c78095f6",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Luke Plapp.md",
+    "Benoit Cosnefroy.md",
+    "Jakob Söderqvist.md",
+    "Tour de Hongrie.md",
+    "Tim Merlier.md",
+    "Loisirs/Sport/Tour d'Italie.md",
+    "Les Soeurs Williams.md",
     "conflict-files-obsidian-git.md",
     "Tournoi de Strasbourg.md",
     "Tournoi de Rouen.md",
@@ -214,7 +220,6 @@
     "Tournoi d'Auckland.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Far Far West.md",
     "Loisirs/Jeux Vidéos/Jeux/Franchise/Franchise Heroes of Might And Magic.md",
-    "Les Soeurs Williams.md",
     "Journal de bord/2026-05-18.md",
     "Journal de bord/2026-05-17.md",
     "Journal de bord/2026-05-13.md",
@@ -233,12 +238,6 @@
     "Domark.md",
     "Richard Naylor.md",
     "Zilog Z80.md",
-    "Cascade Games.md",
-    "Probe.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Hades Nebula.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Split Personalities.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Split Personalities (video game).md",
-    "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
     "Attachments/image-592.webp",
     "Attachments/image-591.webp",
     "Attachments/image-590.webp",

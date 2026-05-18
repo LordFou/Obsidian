@@ -2,12 +2,12 @@
 type: personne
 ---
 
-# Benoit Cosnefroy
+# Jakob Söderqvist
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Nationalité** : Suédois
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
@@ -15,10 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                            | Résultat | Remarque |
 | ----- | -------------------------------------- | -------- | -------- |
-| 2026  | [[Flèche Brabançonne]]                 | 3e       |          |
-| 2026  | [[Amstel Gold Race]]                   | 3e       |          |
-| 2026  | [[Tour de Hongrie]] - 2e étape         | 1ier     |          |
-| 2026  | [[Tour de Hongrie]] - Classement final | 2e       |          |
+| 2026  | [[Tour de Hongrie]] - Classement final | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

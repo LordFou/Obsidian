@@ -74,7 +74,7 @@ Aussi appelé [[Giro]] ^^
 | 6e (ITA) | [[Davide Ballerini]] | [[Afonso Eulalio]] | [[Diego Sevilla]]    | [[Paul Magnier]] | [[Afonso Eulalio]] | 2e - [[Jasper Stuyven]]      |
 | 7e (DAN) | [[Jonas Vingegaard]] | [[Afonso Eulalio]] |                      |                  | [[Afonso Eulalio]] |                              |
 | 8e (EQU) | [[Jonathan Narvaez]] | [[Afonso Eulalio]] | [[Jonas Vingegaard]] | [[Paul Magnier]] | [[Afonso Eulalio]] |                              |
-| 9e (DAN) | [[Jonas Vingegaard]] |                    |                      |                  |                    |                              |
+| 9e (DAN) | [[Jonas Vingegaard]] | [[Afonso Eulalio]] |                      |                  |                    |                              |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
