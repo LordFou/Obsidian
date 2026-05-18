@@ -25,7 +25,7 @@ content:
 | 2025  | WTA 500 de Washington | Victoire au premier tour | 45 ans ! |
 
 # Style et Caractéristiques
-Décrire le style de jeu, les points forts/faibles, les particularités.
+- - L'évolution de [[Venus Williams]] est intimement liée à celle de sa soeur [[Serena Williams]] => [[Les Soeurs Williams]]
 
 # Records et Faits Marquants
 - Elle repousse les limites de la longévité en gagnant un match à 45 ans, elle est la 2e joueuse la plus âgée à remporter un match après [[Martina Navratilova]]
