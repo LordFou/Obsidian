@@ -25,7 +25,10 @@ content:
 | XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
-- Père égocentré, il veut lancer ses futures filles dans le tennis avant même leur naissance. Il devient donc père, coach, manager. 
+- Père égocentré [[Richard Williams]], il veut lancer ses futures filles dans le tennis avant même leur naissance. Il devient donc père, coach, manager. 
+- Il veut habiter le pire ghetto de Californie (Compton) et faire parler de ses filles pour y amener les caméras et ça marche. 
+- Puis il ira s'installer en Floride, au plus près des grandes académies de sport.
+- En 1984, lors de l'enregistrement d'un interview, il s'engueulera avec l'interviewer afin que celui-ci "respecte sa fille" [[Venus Williams]] qui venait d'assurer à 14 ans qu'elle gagnerait ...
 
 # Records et Faits Marquants
 - 13 titres WTA 1000
