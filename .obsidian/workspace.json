@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-05-18.md",
+                "file": "Serena Williams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-18"
+              "title": "Serena Williams"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "giro",
+                "query": "Film",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,6 +207,8 @@
   "active": "c1646db1a5159925",
   "lastOpenFiles": [
     "Journal de bord/2026-05-18.md",
+    "Serena Williams.md",
+    "Culture/Histoire/Films à (re)voir.md",
     "Jonas Vingegaard.md",
     "Loisirs/Sport/Tour d'Italie.md",
     "Jana Van Lent.md",
@@ -234,8 +235,6 @@
     "Attachments/image-597.webp",
     "Loisirs/Sport/Sportifs/Jilke Michielsen.md",
     "Attachments/image-596.webp",
-    "Loisirs/Sport/Compétitions/Tour de Hongrie.md",
-    "Benoit Cosnefroy.md",
     "Attachments/image-595.webp",
     "Attachments/image-594.webp",
     "Attachments/image-593.webp",
