@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-602.webp|118x148]]
 # Jordi Meeus
 
 # Informations Générales
@@ -28,6 +28,7 @@ type: personne
 | 2026  | [[Kuurne Bruxelles Kuurne]]    | 10e      | Sprint costaud vent de face     |
 | 2026  | [[Samyn Classic]]              | 1ier     | Attaque après le dernier virage |
 | 2026  | [[Nokere Koerse]]              | 2e       | Sprint                          |
+| 2026  | [[Classique Dunkerque]]        | 3e       |                                 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
