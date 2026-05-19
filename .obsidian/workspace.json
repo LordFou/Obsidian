@@ -11,10 +11,14 @@
             "id": "0765834351c54b2a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Carlos Alcaraz.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Carlos Alcaraz"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Film",
+                "query": "Carlos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,10 +205,13 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "cfaee1bb38725775",
+  "active": "0765834351c54b2a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Jeline Vandromme.md",
+    "Filippo Ganna.md",
+    "Loisirs/Sport/Tour d'Italie.md",
     "Serena Williams.md",
+    "conflict-files-obsidian-git.md",
     "Tournoi de Genève.md",
     "Tour de Hongrie.md",
     "Loisirs/Sport/Sportifs/Luke Plapp.md",
@@ -222,15 +230,12 @@
     "Loisirs/Sport/Compétitions/Tournoi Indian Wells.md",
     "Culture/Histoire/Films à (re)voir.md",
     "Jonas Vingegaard.md",
-    "Loisirs/Sport/Tour d'Italie.md",
     "Jana Van Lent.md",
     "Loisirs/Sport/Compétitions/GP Catalogne.md",
     "Raphaël Collignon.md",
     "Tournoi de Bordeaux.md",
     "Roland-Garros.md",
     "Attachments/image-598.webp",
-    "Tournoi de Strasbourg.md",
-    "Elina Svitolina.md",
     "Attachments/image-597.webp",
     "Attachments/image-596.webp",
     "Attachments/image-595.webp",
