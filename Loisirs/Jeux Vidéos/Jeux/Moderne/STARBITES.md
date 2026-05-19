@@ -1,39 +1,42 @@
 ---
 type: game
 subType: ""
-title: Corsairs - Battle of the Caribbean
-englishTitle: Corsairs - Battle of the Caribbean
+title: STARBITES
+englishTitle: STARBITES
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2397510
-id: 2397510
+url: https://store.steampowered.com/app/2199080
+id: 2199080
 developers:
-  - Fishing Cactus
+  - IKINAGAMES
 publishers:
-  - Microids
+  - NIS America, Inc.
 genres:
-  - Strategy
+  - Adventure
+  - Casual
+  - RPG
+  - Simulation
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397510/50a31a3ac3712d2f878c36cba1191fe7552822c8/header.jpg?t=1779123642
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2199080/f8f1d8cab1def8c9f92a4e8bb7a919f0de31e2c8/header.jpg?t=1776984235
 released: true
-releaseDate: 18/01/2026
+releaseDate: 21/05/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397510/50a31a3ac3712d2f878c36cba1191fe7552822c8/header.jpg?t=1779123642)
-# Corsairs - Battle of the Caribbean
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2199080/f8f1d8cab1def8c9f92a4e8bb7a919f0de31e2c8/header.jpg?t=1776984235)
+# STARBITES
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Fishing Cactus]]
+	- Studio : [[IKINAGAMES]]
 	- Personnalités : 
-- **Éditeur** : [[Microids]]
-- **Plateformes** : [[PC]]
+- **Éditeur** : [[NIS America, Inc.]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch]], [[Switch 2]]
 - **Franchise** : 
-- **Genre** : [[Bataille Navale]]
+- **Genre** : [[Aventure]], [[RPG]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -60,5 +63,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/2397510       |
-| Trailer     | https://youtu.be/Bg7sZr-phRI?si=Kf6xELEBAfbSJpC6 |
+| Steam       | https://store.steampowered.com/app/2199080       |
+| Trailer     | https://youtu.be/31MWemHY6WA?si=jVmxZFEnONpmdoFk |

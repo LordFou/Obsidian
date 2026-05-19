@@ -1,39 +1,45 @@
 ---
 type: game
 subType: ""
-title: Corsairs - Battle of the Caribbean
-englishTitle: Corsairs - Battle of the Caribbean
+title: Psyvariar 3
+englishTitle: Psyvariar 3
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2397510
-id: 2397510
+url: https://store.steampowered.com/app/4019130
+id: 4019130
 developers:
-  - Fishing Cactus
+  - Banana Bytes
+  - Red Art Studios
 publishers:
-  - Microids
+  - Red Art Games
+  - SUCCESS Corp.
 genres:
-  - Strategy
+  - Action
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397510/50a31a3ac3712d2f878c36cba1191fe7552822c8/header.jpg?t=1779123642
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019130/6e239871155645500751d86866a3a63970130f17/header.jpg?t=1776239447
 released: true
-releaseDate: 18/01/2026
+releaseDate: 20/05/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397510/50a31a3ac3712d2f878c36cba1191fe7552822c8/header.jpg?t=1779123642)
-# Corsairs - Battle of the Caribbean
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019130/6e239871155645500751d86866a3a63970130f17/header.jpg?t=1776239447)
+# Psyvariar 3
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Fishing Cactus]]
+	- Studio : 
+		- [[Banana Bytes]]
+		- [[Red Art Studios]]
 	- Personnalités : 
-- **Éditeur** : [[Microids]]
-- **Plateformes** : [[PC]]
+- **Éditeur** : 
+	- [[Red Art Games]]
+	- [[SUCCESS Corp.]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Bataille Navale]]
+- **Genre** : [[Action]], [[Shoot'em up]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -60,5 +66,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/2397510       |
-| Trailer     | https://youtu.be/Bg7sZr-phRI?si=Kf6xELEBAfbSJpC6 |
+| Steam       | https://store.steampowered.com/app/4019130       |
+| Trailer     | https://youtu.be/Xe097l-kZnI?si=EyWYjuoqPCatclXQ |

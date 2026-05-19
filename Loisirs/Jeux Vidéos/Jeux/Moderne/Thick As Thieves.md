@@ -33,7 +33,7 @@ tags: mediaDB/game
 	- Studio : [[OtherSide Entertainment]]
 	- Personnalités : 
 - **Éditeur** : [[Megabit Publishing]]
-- **Plateformes** : [[PC]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Action]], [[Infiltration]]
 - **Résumé** :  
