@@ -34,7 +34,7 @@ tags: mediaDB/game
 	- Personnalités : 
 - **Éditeur** : [[Toge Productions]]
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise Coffee Talk]]
 - **Genre** : 
 - **Résumé** :  
 
