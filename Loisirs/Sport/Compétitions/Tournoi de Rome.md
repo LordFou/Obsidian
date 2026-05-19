@@ -10,10 +10,11 @@ Aussi surnommé le Foro Italico
 
 # Hommes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur           | Nationalité | Remarque |
+| ----- | ------------------- | ----------- | -------- |
+| 1976  | [[Adriano Panatta]] | Italien     |          |
+| 2026  | [[Jannik Sinner]]   | Italien     |          |
+|       |                     |             |          |
 # Femmes
 
 | Année | Vainqueur           | Nationalité | Remarque |

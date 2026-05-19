@@ -22,6 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- CheckPoint (6/10)
+	- Canard PC (7/10)
 - **Gameplay** :
 	- Y'a une histoire de seed prise au hasard sur une partie d'un autre joueur. La partie qu'il a vécue influence la partie du joueur courant. Exemple : le joueur précédent fout le bordel, on peut hériter d'un état policier. 
 	- Asynchrone

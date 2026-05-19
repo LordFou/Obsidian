@@ -2,29 +2,26 @@
 type: personne
 ---
 
-# Benoit Cosnefroy
+# Alex Marquez
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Nationalité** :  Espagnol
+- **Sport / Discipline** :  [[Moto]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                            | Résultat | Remarque |
-| ----- | -------------------------------------- | -------- | -------- |
-| 2026  | [[Flèche Brabançonne]]                 | 3e       |          |
-| 2026  | [[Amstel Gold Race]]                   | 3e       |          |
-| 2026  | [[Tour de Hongrie]] - 2e étape         | 1ier     |          |
-| 2026  | [[Tour de Hongrie]] - Classement final | 2e       |          |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- GP Catalogne - Chute - il souffre de deux fractures dont une à la clavicule droite suite à une fameuse chute => [Rtbf](https://www.rtbf.be/article/motogp-deux-fractures-pour-alex-marquez-une-rupture-des-ligaments-du-genou-et-une-fracture-du-perone-pour-johann-zarco-11725319)
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

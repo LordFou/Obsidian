@@ -1,24 +1,21 @@
 ---
 type: personne
 ---
-
-# Benoit Cosnefroy
+![[image-599.webp|500x281]]
+# Luca Brecel
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
-- **Poste / Spécialité** (si applicable) :  
+- **Nationalité** :  Belge
+- **Sport / Discipline** : [[Billiard]]
+- **Poste / Spécialité** (si applicable) :  [[Snooker]] 
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                            | Résultat | Remarque |
-| ----- | -------------------------------------- | -------- | -------- |
-| 2026  | [[Flèche Brabançonne]]                 | 3e       |          |
-| 2026  | [[Amstel Gold Race]]                   | 3e       |          |
-| 2026  | [[Tour de Hongrie]] - 2e étape         | 1ier     |          |
-| 2026  | [[Tour de Hongrie]] - Classement final | 2e       |          |
+| Année | Compétition                     | Résultat  | Remarque                              |
+| ----- | ------------------------------- | --------- | ------------------------------------ |
+| 2026  | Snooker 900 Global Championship | Finaliste Défaite contre [[Ronnie O’Sullivan]] e  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -1,23 +1,21 @@
 ---
 type: personne
 ---
-![[image-249.webp]]
-# Sofia Costoulas
+
+# Luke Plapp
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Tennis]]
+- **Nationalité** :  
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
-- Top Ranking : 144e
 
 # Palmarès et Distinctions
-| Année | Compétition                        | Résultat    | Remarque                               |
-| ----- | ---------------------------------- | ----------- | -------------------------------------- |
-| 2026  | [[Tournoi d'Auckland]]             | 2e tour (?) | Premier qualif pour un tournoi ATP 250 |
-| 2026  | [[Roland-Garros]] - Qualifications | 2e tour     |                                        |
+| Année | Compétition                            | Résultat | Remarque |
+| ----- | -------------------------------------- | -------- | -------- |
+| 2026  | [[Tour de Hongrie]] - Classement final | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -31,6 +29,6 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
-# Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |
