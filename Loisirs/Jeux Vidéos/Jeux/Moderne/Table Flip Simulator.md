@@ -1,42 +1,40 @@
 ---
 type: game
 subType: ""
-title: "FZ: Formation Z"
-englishTitle: "FZ: Formation Z"
+title: Table Flip Simulator
+englishTitle: Table Flip Simulator
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2728420
-id: 2728420
+url: https://store.steampowered.com/app/3000970
+id: 3000970
 developers:
-  - Granzella Inc.
+  - YummyYummyTummy
 publishers:
-  - CITY CONNECTION
-  - Clear River Games
+  - PM Studios, Inc.
 genres:
-  - Action
+  - Indie
+  - Simulation
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2728420/46b216e853587210613bab43df8768173197ea86/header.jpg?t=1776273697
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3000970/07db1d239b083d4525b8965d6b4deda8a3a5840c/header.jpg?t=1778833188
 released: true
 releaseDate: 21/05/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2728420/46b216e853587210613bab43df8768173197ea86/header.jpg?t=1776273697)
-# FZ: Formation Z
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3000970/07db1d239b083d4525b8965d6b4deda8a3a5840c/header.jpg?t=1778833188)
+# Table Flip Simulator
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Granzella Inc.]]
+	- Studio : [[YummyYummyTummy]]
 	- Personnalités : 
-- **Éditeur** : 
-	- [[CITY CONNECTION]]
-	- [[Clear River Games]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
+- **Éditeur** : [[PM Studios, Inc.]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch]]
 - **Franchise** : 
-- **Genre** : [[Shoot'em up]]
+- **Genre** : 
 - **Résumé** :  
 
 ## Détails Techniques
@@ -63,5 +61,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/2728420       |
-| Trailer     | https://youtu.be/KQJ9hfV3JbU?si=-Utea53z0VQXaFZa |
+| Steam       | https://store.steampowered.com/app/3000970       |
+| Trailer     | https://youtu.be/TDcxDK8b7Ko?si=zq4haV3Z4gB--bGV |

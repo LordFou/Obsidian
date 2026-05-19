@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/FZ - Formation Z.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Schrodinger's Cat Burglar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FZ - Formation Z"
+              "title": "Schrodinger's Cat Burglar"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Table Flip Simulator",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,8 +207,10 @@
   },
   "active": "0765834351c54b2a",
   "lastOpenFiles": [
-    "Granzella Inc..md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Table Flip Simulator.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Schrodinger's Cat Burglar.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/FZ - Formation Z.md",
+    "Granzella Inc..md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Coffee Talk Tokyo.md",
     "Chorus Worldwide Games.md",
     "Toge Productions.md",
@@ -232,8 +234,6 @@
     "OtherSide Entertainment.md",
     "Tournoi de Genève.md",
     "Casper Ruud.md",
-    "Raphaël Collignon.md",
-    "Jordi Meeus.md",
     "Attachments/image-602.webp",
     "Attachments/image-601.webp",
     "Attachments/image-600.webp",
