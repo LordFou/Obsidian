@@ -31,10 +31,10 @@ tags: mediaDB/game
 - **Développeur** : 
 	- Studio : [[Abandoned Sheep]]
 	- Personnalités : 
-- **Éditeur** : Abandoned Sheep
-- **Plateformes** : 
+- **Éditeur** : [[Abandoned Sheep]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : Adventure,Indie
+- **Genre** : [[Puzzle]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -59,6 +59,7 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2111550 |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Steam       | https://store.steampowered.com/app/2111550       |
+| Trailer     | https://youtu.be/wcfVQ0n9Xjo?si=uXrN3EWbZU2wUPEI |
