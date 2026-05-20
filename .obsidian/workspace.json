@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Leo Montulet.md",
+                "file": "Jonas Vingegaard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leo Montulet"
+              "title": "Jonas Vingegaard"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Léo Montulet",
+                "query": "Giro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -99,7 +99,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -221,8 +222,10 @@
   },
   "active": "540fa5ebfd8eec92",
   "lastOpenFiles": [
-    "Roland-Garros.md",
+    "Filippo Ganna.md",
+    "Loisirs/Sport/Tour d'Italie.md",
     "Loisirs/Sport/Sportifs/Leo Montulet.md",
+    "Roland-Garros.md",
     "Attachments/image-605.webp",
     "Attachments/image-604.webp",
     "David Goffin.md",
@@ -231,7 +234,6 @@
     "Culture/Géographie/Serbie.md",
     "Culture/Histoire/Guerres dans le monde.md",
     "Journal de bord/2026-05-20.md",
-    "Loisirs/Sport/Tour d'Italie.md",
     "Journal de bord/2026-05-18.md",
     "Ebola.md",
     "Loisirs/Sport/Compétitions/Enhanced Games.md",
@@ -248,7 +250,6 @@
     "Toge Productions.md",
     "Franchise Coffee Talk.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Coffee Talk.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Psyvariar 3.md",
     "Attachments/image-603.webp",
     "Attachments/image-602.webp",
     "Attachments/image-601.webp",

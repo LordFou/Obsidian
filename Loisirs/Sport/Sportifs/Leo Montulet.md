@@ -5,17 +5,17 @@ type: personne
 # Leo Montulet
 
 # Informations Générales
-- **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Date de naissance** :  1998
+- **Nationalité** :  Belge
+- **Sport / Discipline** :  [[Kayak]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition                                          | Résultat | Remarque |
+| ----- | ---------------------------------------------------- | -------- | -------- |
+| 2026  | Championnat du Monde - Descente de rivière classique | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
