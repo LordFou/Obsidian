@@ -28,6 +28,8 @@ content:
 | ----- | --------------- |
 |       | [[Demon Turf]]  |
 | 2026  | [[Demon Tides]] |
+| 2026  | [[Bubsy 4D]]    |
+|       |                 |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
