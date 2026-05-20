@@ -35,7 +35,7 @@ tags: mediaDB/game
 - **Éditeur** : [[Square Glade Games]]
 - **Plateformes** : [[PC]], [[Playstation 4]], [[Playstation 5]], [[Xbox Series]],[[XBox One]], [[Switch]], [[Switch 2]]
 - **Franchise** : 
-- **Genre** : [[Housing]], [[Exploration]]
+- **Genre** : [[Housing]], [[Exploration]], [[Coopération]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -44,6 +44,7 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- CheckPoint (4/10)
+	- Izual : une vraie réussite malgré un contenu un peu chiche
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -64,3 +65,4 @@ tags: mediaDB/game
 | ----------- | ------------------------------------------------ |
 | Steam       | https://store.steampowered.com/app/2681030       |
 | Trailer     | https://youtu.be/UyqFM4iBtPQ?si=4xYNL1TQgfpwPvpc |
+![[image-607.webp|500x282]]
