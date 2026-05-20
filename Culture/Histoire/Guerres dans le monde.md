@@ -37,3 +37,7 @@
 		  ![[image-445.webp|1024]]
 		- L'Iran tire un missile sur une ile lointaine avec une base US-UK, ce qu'il prouve qu'ils ont encore des capacités de riposter et assez loin...
 		  ![[image-475.webp]]
+		- L'Iran n'hésite pas à tirer sur les Emirats Arabe Unis avec lesquels ils ont quelques contencieux
+			- Reconnaissance d'[[Israël]]
+			- Fourniture de pétrole sans passer par le [[détroit d'Ormuz]]
+			- Occidentalisation
