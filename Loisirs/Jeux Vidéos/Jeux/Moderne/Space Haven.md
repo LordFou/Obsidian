@@ -1,41 +1,42 @@
 ---
 type: game
 subType: ""
-title: "Battlestar Galactica: Scattered Hopes"
-englishTitle: "Battlestar Galactica: Scattered Hopes"
+title: Space Haven
+englishTitle: Space Haven
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2535950
-id: 2535950
+url: https://store.steampowered.com/app/979110
+id: 979110
 developers:
-  - Alt Shift
+  - Bugbyte Ltd.
 publishers:
-  - Dotemu
+  - Bugbyte Ltd.
 genres:
-  - Action
   - Indie
+  - RPG
+  - Simulation
   - Strategy
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2535950/d29dc74a212e14249b34ebbcdf028bbec5ce7ff0/header.jpg?t=1779266660
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/73529f7afc14ec281cad99fe0284cbed06c552f0/header.jpg?t=1778684449
 released: true
-releaseDate: 11/05/2026
+releaseDate: 13/05/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2535950/d29dc74a212e14249b34ebbcdf028bbec5ce7ff0/header.jpg?t=1779266660)
-# Battlestar Galactica: Scattered Hopes
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/73529f7afc14ec281cad99fe0284cbed06c552f0/header.jpg?t=1778684449)
+# Space Haven
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Alt Shift]]
+	- Studio : [[Bugbyte Ltd.]]
 	- Personnalités : 
-- **Éditeur** : [[Dotemu]]
+- **Éditeur** : [[Bugbyte Ltd.]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : 
+- **Genre** : [[RPG]], [[Simulation]], [[Strategie]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -54,13 +55,14 @@ tags: mediaDB/game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
-	- Evolution de [[FTL]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2535950 |
+| Description | URL                                       |
+| ----------- | ----------------------------------------- |
+| Steam       | https://store.steampowered.com/app/979110 |
+|             |                                           |
+![[image-606.webp|500x282]]

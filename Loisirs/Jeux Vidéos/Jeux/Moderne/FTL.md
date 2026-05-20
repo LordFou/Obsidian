@@ -1,41 +1,41 @@
 ---
 type: game
 subType: ""
-title: "Battlestar Galactica: Scattered Hopes"
-englishTitle: "Battlestar Galactica: Scattered Hopes"
-year: "2026"
+title: "FTL: Faster Than Light"
+englishTitle: "FTL: Faster Than Light"
+year: "2012"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2535950
-id: 2535950
+url: https://store.steampowered.com/app/212680
+id: 212680
 developers:
-  - Alt Shift
+  - Subset Games
 publishers:
-  - Dotemu
+  - Subset Games
 genres:
-  - Action
   - Indie
+  - Simulation
   - Strategy
-onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2535950/d29dc74a212e14249b34ebbcdf028bbec5ce7ff0/header.jpg?t=1779266660
+onlineRating: 84
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/f21426ac9ad51338fa33becce88984758e07c38b/header.jpg?t=1748969356
 released: true
-releaseDate: 11/05/2026
+releaseDate: 14/09/2012
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2535950/d29dc74a212e14249b34ebbcdf028bbec5ce7ff0/header.jpg?t=1779266660)
-# Battlestar Galactica: Scattered Hopes
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/f21426ac9ad51338fa33becce88984758e07c38b/header.jpg?t=1748969356)
+# FTL: Faster Than Light
 
 ## Informations Générales
 
-- **Année de sortie** :  2026
+- **Année de sortie** :  2012
 - **Développeur** : 
-	- Studio : [[Alt Shift]]
+	- Studio : Subset Games
 	- Personnalités : 
-- **Éditeur** : [[Dotemu]]
+- **Éditeur** : Subset Games
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : 
+- **Genre** : Indie,Simulation,Strategy
 - **Résumé** :  
 
 ## Détails Techniques
@@ -43,7 +43,7 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 0
+	- Steam Rating : 84
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -54,7 +54,6 @@ tags: mediaDB/game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
-	- Evolution de [[FTL]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
@@ -63,4 +62,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2535950 |
+| Wiki        | https://store.steampowered.com/app/212680 |
