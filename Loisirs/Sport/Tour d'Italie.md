@@ -62,6 +62,8 @@ Aussi appelé [[Giro]] ^^
 
 # Edition 2026
 - Lors de la 2e étape, il y a eu de nombreuses chutes dont une énorme à 23km de l'arrivée. Le jury a neutralisé la course car plus aucune ambulance ne suivait le peloton. 
+- [[Jonas Vingegaard]] roule en patron (2 étapes et peu de concurrences)
+- [[Filippo Ganna]] écrase la CLM de la 10e étape
 ## Hommes
 
 |           | Vainqueur            | Général            | Montagne             | Points           | Jeune              | Remarques                    |

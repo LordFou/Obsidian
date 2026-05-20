@@ -1,5 +1,4 @@
 Virus découvert en 1976 qui se transmet par le sang ou la salive. Source régulière : la chauve-souris. C'est donc une [[Zoonose]].
-
 # Solution
 - Vaccins mais qui ne fonctionnent pas pour tous les variants.
 # Epidémie
