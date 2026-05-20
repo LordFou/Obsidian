@@ -1,0 +1,7 @@
+# Le Lithium
+- Certaines régions de la Serbie sont riches en gisement de Lithium
+	- Les pays européens sont très intéressés.
+	- Le peuple refuse de céder les terres 
+		- Peur de la pollution des terres
+		- Peur de perdre leur travail (Ferme, Agriculture,...)
+	- Le projet minier est porté par la société .... et pourrait impacter 18 000 habitants

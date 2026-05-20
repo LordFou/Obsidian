@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture/Histoire/Guerres dans le monde.md",
+                "file": "Culture/Géographie/Serbie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guerres dans le monde"
+              "title": "Serbie"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,6 +206,8 @@
   },
   "active": "0765834351c54b2a",
   "lastOpenFiles": [
+    "Culture/Histoire/Guerres dans le monde.md",
+    "Culture/Géographie/Serbie.md",
     "Journal de bord/2026-05-20.md",
     "Loisirs/Sport/Tour d'Italie.md",
     "Journal de bord/2026-05-18.md",
@@ -231,8 +232,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/STARBITES.md",
     "IKINAGAMES.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Zero Parades.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Thick As Thieves.md",
-    "Forza Horizon 6.md",
     "Attachments/image-603.webp",
     "Attachments/image-602.webp",
     "Attachments/image-601.webp",
