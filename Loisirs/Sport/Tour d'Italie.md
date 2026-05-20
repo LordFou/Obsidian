@@ -75,11 +75,12 @@ Aussi appelé [[Giro]] ^^
 | 4e (EQU)  | [[Jonathan Narvaez]] | [[Giulio Ciccone]] | [[Diego Sevilla]]    | [[Paul Magnier]] |                    | 7e - [[Lennert Van Eetvelt]]                 |
 | 5e (ESP)  | [[Igor Arrieta]]     | [[Afonso Eulalio]] | [[Diego Sevilla]]    | [[Paul Magnier]] | [[Afonso Eulalio]] |                                              |
 | 6e (ITA)  | [[Davide Ballerini]] | [[Afonso Eulalio]] | [[Diego Sevilla]]    | [[Paul Magnier]] | [[Afonso Eulalio]] | 2e - [[Jasper Stuyven]]                      |
-| 7e (DAN)  | [[Jonas Vingegaard]] | [[Afonso Eulalio]] |                      |                  | [[Afonso Eulalio]] |                                              |
+| 7e (DAN)  | [[Jonas Vingegaard]] | [[Afonso Eulalio]] | [[Jonas Vingegaard]] | [[Paul Magnier]] | [[Afonso Eulalio]] |                                              |
 | 8e (EQU)  | [[Jonathan Narvaez]] | [[Afonso Eulalio]] | [[Jonas Vingegaard]] | [[Paul Magnier]] | [[Afonso Eulalio]] |                                              |
-| 9e (DAN)  | [[Jonas Vingegaard]] | [[Afonso Eulalio]] |                      |                  | [[Afonso Eulalio]] |                                              |
-| 10e (ITA) | [[Filippo Ganna]]    | [[Afonso Eulalio]] |                      |                  | [[Afonso Eulalio]] | CLM                                          |
-| 11e (EQU) | [[Jonathan Narvaez]] | [[Afonso Eulalio]] |                      |                  |                    | Abandon de [[Lennert Van Eetvelt]] sur chute |
+| 9e (DAN)  | [[Jonas Vingegaard]] | [[Afonso Eulalio]] | [[Jonas Vingegaard]] | [[Paul Magnier]] | [[Afonso Eulalio]] |                                              |
+| 10e (ITA) | [[Filippo Ganna]]    | [[Afonso Eulalio]] | [[Jonas Vingegaard]] | [[Paul Magnier]] | [[Afonso Eulalio]] | CLM                                          |
+| 11e (EQU) | [[Jonathan Narvaez]] | [[Afonso Eulalio]] | [[Jonas Vingegaard]] | [[Paul Magnier]] | [[Afonso Eulalio]] | Abandon de [[Lennert Van Eetvelt]] sur chute |
+|           |                      |                    |                      |                  |                    |                                              |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
