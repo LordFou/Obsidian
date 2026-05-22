@@ -36,8 +36,8 @@ tags: mediaDB/game
 - **Éditeur** : [[Green Wizard]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : 
-- **Résumé** :  
+- **Genre** : [[Idle Game]]
+- **Résumé** :  construire de l'artillerie médiévale puis recruter des nains pour attaquer une montagne. Investissement dans le transport des minerais, qui doivent être acheminés depuis le bas de la montagne. Des boss, du prestige et des artefacts à trouver pour obtenir des bonus passifs.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
