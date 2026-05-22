@@ -24,13 +24,15 @@ content: Il s'engage chez [[Bahrein Victorious]]
 
 
 # Palmarès et Distinctions
-| Année | Compétition                                                         | Résultat | Remarque |
-| ----- | ------------------------------------------------------------------- | -------- | -------- |
-| 2025  | [[Tour de Belgique]] - Classement Jeune                             | 1ier     |          |
-| 2025  | [[Championnat de Belgique de Cyclisme\|Championnat National]] - CLM | 3e       |          |
-| 2025  | [[Tour du Danemark]] - 3e étape                                     | 2e       | CLM      |
-| 2026  | [[GP Denain]]                                                       | 1ier     |          |
-	
+| Année | Compétition                                                         | Résultat | Remarque                      |
+| ----- | ------------------------------------------------------------------- | -------- | ----------------------------- |
+| 2025  | [[Tour de Belgique]] - Classement Jeune                             | 1ier     |                               |
+| 2025  | [[Championnat de Belgique de Cyclisme\|Championnat National]] - CLM | 3e       |                               |
+| 2025  | [[Tour du Danemark]] - 3e étape                                     | 2e       | CLM                           |
+|       |                                                                     |          |                               |
+| 2026  | [[GP Denain]]                                                       | 1ier     |                               |
+| 2026  | [[Tour d'Italie]] - 12e étape                                       | 1ier     | Sorti à 3km devant le peloton |
+
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
