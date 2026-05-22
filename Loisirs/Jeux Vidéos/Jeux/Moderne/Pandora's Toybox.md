@@ -33,7 +33,7 @@ tags: mediaDB/game
 	- Studio : [[BetaLab]]
 	- Personnalités : 
 - **Éditeur** : [[2P Games]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[God Simulator]], [[Roguelite]]
 - **Résumé** :  Le principe est d'y aider une civilisation à se développer, en aiguillant ses découvertes technologiques ou en faisant apparaître des ressources. Il faut aussi la défendre contre les peuplades hérétiques, pourquoi pas avec une bonne fournée d'éclairs. Mais le jeu est aussi bâti autour d'un système d'aléatoire et de méta-progression, où l'on va tenter de collectionner huit dieux aux pouvoirs très différents, que l'on va même pouvoir combiner.

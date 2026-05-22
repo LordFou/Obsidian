@@ -26,6 +26,7 @@ content:
 ## Jeux Développés
 | Année | Titre                |
 | ----- | -------------------- |
+| 2023  | [[Sticky Business]]  |
 | 2026  | [[Thrifty Business]] |
 
 ## Moteur(s) Utilisé(s)

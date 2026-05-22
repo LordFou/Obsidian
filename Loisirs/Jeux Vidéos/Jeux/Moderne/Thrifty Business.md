@@ -35,7 +35,7 @@ tags: mediaDB/game
 - **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Housing]]
-- **Résumé** :  
+- **Résumé** :  on gère une boutique de fripes
 
 ## Détails Techniques
 - **Moteur de jeu** : 
