@@ -27,6 +27,7 @@ type: game
 	- Ecriture
 	- Ses personnages torturés 
 	- Ses décors exquis
+	- Certains joueurs rechignent à participer à l'achat à cause des évènements du studio
 - **Gameplay** :
 - **Durée estimée** : 
 

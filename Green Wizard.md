@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# ZA-UM
+# Green Wizard
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -18,16 +18,15 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date: 2022
-title: Les principaux créatifs s'en vont
-content: [Article](https://www.journaldugeek.com/2022/10/03/les-createurs-de-disco-elysium-abandonnent-le-studio-contre-leur-gre/)
+date:  
+title: 
+content:
 ```
 
 ## Jeux Développés
-| Année | Titre             |
-| ----- | ----------------- |
-| 2019  | [[Disco Elysium]] |
-| 2026  | [[Zero Parades]]  |
+| Année | Titre                   |
+| ----- | ----------------------- |
+| 2026  | [[Dwarf Eats Mountain]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
@@ -45,6 +44,6 @@ Lister les prix, distinctions ou records obtenus.
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |
