@@ -35,7 +35,7 @@ tags: mediaDB/game
 - **Éditeur** : [[Kwalee Gaming]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Roguelite]], Jeu de dés
+- **Genre** : [[Roguelite]], [[Jeu de dés]]
 - **Résumé** :  
 
 ## Détails Techniques
