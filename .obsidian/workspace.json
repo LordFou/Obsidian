@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eb59456892fdfb64",
+        "id": "77e0d543e1699d62",
         "type": "tabs",
         "children": [
           {
-            "id": "3f74a9e9c78095f6",
+            "id": "532180f923d6eb9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forza Horizon 6.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Forza Horizon 6"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -205,8 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f74a9e9c78095f6",
+  "active": "532180f923d6eb9e",
   "lastOpenFiles": [
+    "Journal de bord/2026-05-22.md",
+    "Forza Horizon 6.md",
     "Attachments/image-600.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/shapez 2.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Outbound.md",
@@ -233,7 +231,6 @@
     "Loisirs/Sport/Sportifs/Alex Marquez.md",
     "Tour de Hongrie.md",
     "Jakob Söderqvist.md",
-    "Benoit Cosnefroy.md",
     "Attachments/image-598.webp",
     "Attachments/image-597.webp",
     "Attachments/image-596.webp",
@@ -241,7 +238,6 @@
     "Attachments/image-594.webp",
     "Attachments/image-593.webp",
     "Attachments/image-592.webp",
-    "Attachments/image-591.webp",
-    "Attachments/image-590.webp"
+    "Attachments/image-591.webp"
   ]
 }
