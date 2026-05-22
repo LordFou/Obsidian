@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "77e0d543e1699d62",
+        "id": "c689521252e393ce",
         "type": "tabs",
         "children": [
           {
-            "id": "532180f923d6eb9e",
+            "id": "b87d79d6f3084a6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -207,6 +203,7 @@
   },
   "active": "a2072e27471fd92c",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Greenhearth Necromancer.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/NITRO GEN OMEGA.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Psyvariar 3.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Table Flip Simulator.md",
@@ -232,7 +229,6 @@
     "Journal de bord/2026-05-20.md",
     "IKINAGAMES.md",
     "Granzella Inc..md",
-    "Franchise Coffee Talk.md",
     "Attachments/image-610.webp",
     "Attachments/image-609.webp",
     "Attachments/image-608.webp",
