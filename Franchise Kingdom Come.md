@@ -24,9 +24,10 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                          | Année | Plateformes | Remarque |
-| ------------------------------ | ----- | ----------- | -------- |
-| [[Kingdom Come - Deliverance]] | 2018  |             |          |
+| Titre                             | Année | Plateformes | Remarque |
+| --------------------------------- | ----- | ----------- | -------- |
+| [[Kingdom Come - Deliverance]]    | 2018  |             |          |
+| [[Kingdom Come - Deliverance II]] | 2025  |             |          |
 
 
 ## Mécaniques et innovations
