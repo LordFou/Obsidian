@@ -81,7 +81,8 @@ Aussi appelé [[Giro]] ^^
 | 10e (ITA)     | [[Filippo Ganna]]    | [[Afonso Eulalio]] | [[Jonas Vingegaard]] | [[Paul Magnier]] | [[Afonso Eulalio]] | CLM                                          |
 | 11e (EQU)     | [[Jonathan Narvaez]] | [[Afonso Eulalio]] | [[Jonas Vingegaard]] | [[Paul Magnier]] | [[Afonso Eulalio]] | Abandon de [[Lennert Van Eetvelt]] sur chute |
 | ==12e (BEL)== | [[Alec Segaert]]     | [[Afonso Eulalio]] | [[Jonas Vingegaard]] | [[Paul Magnier]] | [[Afonso Eulalio]] | Sorti seul à 3 km devant le peloton          |
-| 13e (ESP)     |                      |                    |                      |                  |                    |                                              |
+| 13e (ITA)     | [[Alberto Bettiol]]  | [[Afonso Eulalio]] | [[Jonas Vingegaard]] | [[Paul Magnier]] | [[Afonso Eulalio]] | 3e - [[Jasper Stuyven]]                      |
+|               |                      |                    |                      |                  |                    |                                              |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
