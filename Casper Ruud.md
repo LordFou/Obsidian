@@ -13,9 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition         | Résultat  | Remarque                         |
-| ----- | ------------------- | --------- | -------------------------------- |
-| 2026  | [[Tournoi de Rome]] | Finaliste | Défaite contre [[Jannik Sinner]] |
+| Année | Compétition           | Résultat  | Remarque                         |
+| ----- | --------------------- | --------- | -------------------------------- |
+| 2021  | [[Tournoi de Genève]] | Vainqueur |                                  |
+| 2022  | [[Tournoi de Genève]] | Vainqueur |                                  |
+| 2024  | [[Tournoi de Genève]] | Vainqueur |                                  |
+| 2026  | [[Tournoi de Rome]]   | Finaliste | Défaite contre [[Jannik Sinner]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

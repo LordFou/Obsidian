@@ -62,19 +62,25 @@ Aussi appelé [[Giro]] ^^
 
 # Edition 2026
 - Lors de la 2e étape, il y a eu de nombreuses chutes dont une énorme à 23km de l'arrivée. Le jury a neutralisé la course car plus aucune ambulance ne suivait le peloton. 
+- [[Jonas Vingegaard]] roule en patron (2 étapes et peu de concurrences)
+- [[Filippo Ganna]] écrase la CLM de la 10e étape
+- [[Jonathan Narvaez]] s'offre 3 victoires d'étapes !
 ## Hommes
 
-|          | Vainqueur            | Général            | Montagne             | Points           | Jeune              | Remarques                    |
-| -------- | -------------------- | ------------------ | -------------------- | ---------------- | ------------------ | ---------------------------- |
-| 1e (FRA) | [[Paul Magnier]]     | [[Paul Magnier]]   | [[Diego Sevilla]]    | [[Paul Magnier]] | [[Paul Magnier]]   | 10e - [[Dries Van Gestel]]   |
-| 2e (URU) | [[Thomas Silva]]     | [[Thomas Silva]]   | [[Diego Sevilla]]    | [[Paul Magnier]] | [[Thomas Silva]]   | Méga chute à 23km            |
-| 3e (FRA) | [[Paul Magnier]]     | [[Thomas Silva]]   | [[Diego Sevilla]]    | [[Paul Magnier]] | [[Paul Magnier]]   |                              |
-| 4e (EQU) | [[Jonathan Narvaez]] | [[Giulio Ciccone]] | [[Diego Sevilla]]    | [[Paul Magnier]] |                    | 7e - [[Lennert Van Eetvelt]] |
-| 5e (ESP) | [[Igor Arrieta]]     | [[Afonso Eulalio]] | [[Diego Sevilla]]    | [[Paul Magnier]] | [[Afonso Eulalio]] |                              |
-| 6e (ITA) | [[Davide Ballerini]] | [[Afonso Eulalio]] | [[Diego Sevilla]]    | [[Paul Magnier]] | [[Afonso Eulalio]] | 2e - [[Jasper Stuyven]]      |
-| 7e (DAN) | [[Jonas Vingegaard]] | [[Afonso Eulalio]] |                      |                  | [[Afonso Eulalio]] |                              |
-| 8e (EQU) | [[Jonathan Narvaez]] | [[Afonso Eulalio]] | [[Jonas Vingegaard]] | [[Paul Magnier]] | [[Afonso Eulalio]] |                              |
-| 9e (DAN) | [[Jonas Vingegaard]] | [[Afonso Eulalio]] |                      |                  |                    |                              |
+|           | Vainqueur            | Général            | Montagne             | Points           | Jeune              | Remarques                                    |
+| --------- | -------------------- | ------------------ | -------------------- | ---------------- | ------------------ | -------------------------------------------- |
+| 1e (FRA)  | [[Paul Magnier]]     | [[Paul Magnier]]   | [[Diego Sevilla]]    | [[Paul Magnier]] | [[Paul Magnier]]   | 10e - [[Dries Van Gestel]]                   |
+| 2e (URU)  | [[Thomas Silva]]     | [[Thomas Silva]]   | [[Diego Sevilla]]    | [[Paul Magnier]] | [[Thomas Silva]]   | Méga chute à 23km                            |
+| 3e (FRA)  | [[Paul Magnier]]     | [[Thomas Silva]]   | [[Diego Sevilla]]    | [[Paul Magnier]] | [[Paul Magnier]]   |                                              |
+| 4e (EQU)  | [[Jonathan Narvaez]] | [[Giulio Ciccone]] | [[Diego Sevilla]]    | [[Paul Magnier]] |                    | 7e - [[Lennert Van Eetvelt]]                 |
+| 5e (ESP)  | [[Igor Arrieta]]     | [[Afonso Eulalio]] | [[Diego Sevilla]]    | [[Paul Magnier]] | [[Afonso Eulalio]] |                                              |
+| 6e (ITA)  | [[Davide Ballerini]] | [[Afonso Eulalio]] | [[Diego Sevilla]]    | [[Paul Magnier]] | [[Afonso Eulalio]] | 2e - [[Jasper Stuyven]]                      |
+| 7e (DAN)  | [[Jonas Vingegaard]] | [[Afonso Eulalio]] | [[Jonas Vingegaard]] | [[Paul Magnier]] | [[Afonso Eulalio]] |                                              |
+| 8e (EQU)  | [[Jonathan Narvaez]] | [[Afonso Eulalio]] | [[Jonas Vingegaard]] | [[Paul Magnier]] | [[Afonso Eulalio]] |                                              |
+| 9e (DAN)  | [[Jonas Vingegaard]] | [[Afonso Eulalio]] | [[Jonas Vingegaard]] | [[Paul Magnier]] | [[Afonso Eulalio]] |                                              |
+| 10e (ITA) | [[Filippo Ganna]]    | [[Afonso Eulalio]] | [[Jonas Vingegaard]] | [[Paul Magnier]] | [[Afonso Eulalio]] | CLM                                          |
+| 11e (EQU) | [[Jonathan Narvaez]] | [[Afonso Eulalio]] | [[Jonas Vingegaard]] | [[Paul Magnier]] | [[Afonso Eulalio]] | Abandon de [[Lennert Van Eetvelt]] sur chute |
+|           |                      |                    |                      |                  |                    |                                              |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |

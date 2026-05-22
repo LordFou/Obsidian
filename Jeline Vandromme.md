@@ -31,7 +31,7 @@ type: personne
 | 2026  | [[Tournoi de Maribor]]                  | 1/4 finale  |                                                                     |
 | 2026  | [[Tournoi de Croissy-Beaubourg]]        | 1/4 finale  |                                                                     |
 | 2026  | [[Tournoi de Nantes]]                   | Vainqueure  |                                                                     |
-|       |                                         |             |                                                                     |
+| 2026  | [[Roland-Garros]] - Qualifications      | 1e tour     |                                                                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

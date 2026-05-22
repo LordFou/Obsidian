@@ -37,7 +37,7 @@ type: personne
 | 2026  | [[Tournoi de Miami]]             | 3e tour                    | Première victoire en master 1000                                                     |
 | 2026  | [[Tournoi de Monza]]             | Vainqueur                  | 2e victoire dans ce tournoi                                                          |
 | 2026  | [[Tournoi de Bordeaux]]          | Finaliste                  | Défaite contre [[Juan Manuel Cerundolo]]                                             |
-| 2026  | [[Tournoi de Genève]]            |                            |                                                                                      |
+| 2026  | [[Tournoi de Genève]]            | 2e tour                    | Victoire contre [[Adrian Mannarino]] (ATP 44)                                        |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

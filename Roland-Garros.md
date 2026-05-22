@@ -1,7 +1,7 @@
 ---
 type: event
 ---
-![[image-598.webp|474x343]]
+![[image-605.webp|250x250]]
 # Roland-Garros
 
 # Introduction

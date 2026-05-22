@@ -34,7 +34,7 @@ tags: mediaDB/game
 	- Studio : [[Milestone]]
 	- Personnalités : 
 - **Éditeur** : [[Milestone]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Course]], [[Simulation]], [[Sports]]
 - **Résumé** :  
@@ -44,7 +44,7 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 0
+	- CheckPoint (8/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -61,6 +61,8 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL                                        |
-| ----------- | ------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/3875050 |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Steam       | https://store.steampowered.com/app/3875050       |
+| Trailer     | https://youtu.be/VXElfwN3doc?si=8pWWfYGmBCBm2GZG |
+![[image-610.webp|500x281]]

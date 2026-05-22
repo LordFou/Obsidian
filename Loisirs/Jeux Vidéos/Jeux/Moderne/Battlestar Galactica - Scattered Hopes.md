@@ -16,14 +16,14 @@ genres:
   - Indie
   - Strategy
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2535950/d29dc74a212e14249b34ebbcdf028bbec5ce7ff0/header.jpg?t=1778511533
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2535950/d29dc74a212e14249b34ebbcdf028bbec5ce7ff0/header.jpg?t=1779266660
 released: true
 releaseDate: 11/05/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2535950/d29dc74a212e14249b34ebbcdf028bbec5ce7ff0/header.jpg?t=1778511533)
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2535950/d29dc74a212e14249b34ebbcdf028bbec5ce7ff0/header.jpg?t=1779266660)
 # Battlestar Galactica: Scattered Hopes
 
 ## Informations Générales
@@ -33,14 +33,14 @@ tags: mediaDB/game
 	- Studio : [[Alt Shift]]
 	- Personnalités : 
 - **Éditeur** : [[Dotemu]]
-- **Plateformes** : [[PC]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[RTS]]
+- **Genre** : 
 - **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[3D]]
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
@@ -54,13 +54,13 @@ tags: mediaDB/game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- Evolution de [[FTL]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
-| Description | URL                                              |
-| ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/2535950       |
-| Trailer     | https://youtu.be/-CRNtkc_yYw?si=XDT2qSpwdrWOsf0i |
+| Description | URL       |
+| ----------- | --------- |
+| Wiki        | https://store.steampowered.com/app/2535950 |

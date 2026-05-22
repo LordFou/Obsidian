@@ -6,12 +6,12 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 2026 (?)
+- **Année de sortie** : 2026 
 - **Développeur** : 
 	- Studio : [[Nintendo]]
 	- Personnalités : 
 - **Éditeur** : [[Nintendo]]
-- **Plateformes** : 
+- **Plateformes** : [[Switch 2]]
 - **Franchise** : 
 - **Genre** :
 - **Résumé** : 
@@ -22,6 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- Kocobé : bof bof bof pas très intéressant. Y'a même mieux pour les enfants.
+	- CheckPoint (8.5/10)
 - **Gameplay** : peut-être trop enfantin
 - **Durée estimée** : 
 
@@ -38,6 +39,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Trailer     | https://youtu.be/1d7IdzUK2MM?si=1YlDgz6SdetPU_1u |

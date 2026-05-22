@@ -49,6 +49,8 @@ tags: mediaDB/game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- Nouvelle-Angleterre
+	- Australie
 - **Epoque** : 
 - **Personnages principaux** : 
 	- Evangeline
