@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dark Messiah of Might  Magic.md",
+                "file": "Loisirs/Jeux Vidéos/Sociétés/ZA-UM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dark Messiah of Might  Magic"
+              "title": "ZA-UM"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "The Adventures of Sir Kicksalot",
+                "query": "Zero Parades",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -208,6 +208,11 @@
   },
   "active": "b87d79d6f3084a6b",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Zero Parades.md",
+    "Loisirs/Jeux Vidéos/Sociétés/ZA-UM.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Warhammer 40k - Mechanicus II.md",
+    "Attachments/image-612.webp",
+    "Franchise Warhammer.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Adventures of Sir Kicksalot.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Dark Messiah of Might  Magic.md",
     "Stéphane Le Roy.md",
@@ -231,10 +236,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Table Flip Simulator.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Schrodinger's Cat Burglar.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/STARBITES.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/FZ - Formation Z.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/FTL.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Coffee Talk Tokyo.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Space Haven.md",
     "Attachments/image-610.webp",
     "Attachments/image-609.webp",
     "Attachments/image-608.webp",
@@ -242,7 +243,6 @@
     "Attachments/image-606.webp",
     "Attachments/image-605.webp",
     "Attachments/image-604.webp",
-    "Attachments/image-603.webp",
-    "Attachments/image-602.webp"
+    "Attachments/image-603.webp"
   ]
 }

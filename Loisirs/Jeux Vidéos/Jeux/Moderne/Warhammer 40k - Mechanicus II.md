@@ -6,7 +6,7 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
 	- Studio : [[Bulwark Studios]]
 	- Personnalités : 
@@ -28,6 +28,7 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Les technoprêtres
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
@@ -40,3 +41,4 @@ type: game
 | Description | URL |
 | ----------- | --- |
 |             |     |
+![[image-612.webp|500x282]]

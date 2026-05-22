@@ -23,6 +23,10 @@ type: game
 - **Réception critique** : 
 	- CheckPoint (9/10)
 	- Canard Pc (9/10)
+	- Univers original
+	- Ecriture
+	- Ses personnages torturés 
+	- Ses décors exquis
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -32,6 +36,7 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Espionnage]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

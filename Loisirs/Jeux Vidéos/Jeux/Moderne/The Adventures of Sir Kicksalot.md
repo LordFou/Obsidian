@@ -34,7 +34,7 @@ tags: mediaDB/game
 - **Éditeur** : [[Stéphane Le Roy]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[RPG]], [[Immersive Sim]]
+- **Genre** : [[Action]], [[RPG]], [[Immersive Sim]], [[Sandbox]]
 - **Résumé** :  consiste à pousser des ennemis dans le vide
 
 ## Détails Techniques
@@ -55,7 +55,7 @@ tags: mediaDB/game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
-	- [[Dark Messiah of Might and Magic]]
+	- [[Dark Messiah of Might  Magic]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources

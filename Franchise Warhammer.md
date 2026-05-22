@@ -22,9 +22,10 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                             | Année | Plateformes | Remarque |
-| --------------------------------- | ----- | ----------- | -------- |
-| [[Warhammer 40k - Mechanicus II]] |       |             |          |
+| Titre                              | Année | Plateformes | Remarque |
+| ---------------------------------- | ----- | ----------- | -------- |
+| [[Warhammer 40k - Space Marine 2]] |       |             |          |
+| [[Warhammer 40k - Mechanicus II]]  | 2026  | PC          |          |
 
 
 ## Mécaniques et innovations
