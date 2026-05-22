@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Tour d'Italie.md",
+                "file": "Franchise Kingdom Come.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour d'Italie"
+              "title": "Franchise Kingdom Come"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Warhorse Studios",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -208,9 +208,14 @@
   },
   "active": "b87d79d6f3084a6b",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Kingdom Come - Deliverance.md",
+    "Warhorse Studios.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/LumenTale - Memories of Trey.md",
+    "Attachments/image-611.webp",
+    "Beehive Studios.md",
+    "Loisirs/Sport/Tour d'Italie.md",
     "Alberto Bettiol.md",
     "Loisirs/Sport/Compétitions/Tour des Flandres.md",
-    "Loisirs/Sport/Tour d'Italie.md",
     "Victor Campenaert.md",
     "Championnat de Belgique de football.md",
     "Loisirs/Sport/Sportifs/Alec Segaert.md",
@@ -230,10 +235,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Corsairs - Battle of the Caribbean.md",
     "Toge Productions.md",
     "Spellgarden Games.md",
-    "Silverstring Media Inc..md",
-    "Red Art Studios.md",
-    "OtherSide Entertainment.md",
-    "Loisirs/Sport/Sportifs/Leo Montulet.md",
     "Attachments/image-610.webp",
     "Attachments/image-609.webp",
     "Attachments/image-608.webp",
@@ -242,7 +243,6 @@
     "Attachments/image-605.webp",
     "Attachments/image-604.webp",
     "Attachments/image-603.webp",
-    "Attachments/image-602.webp",
-    "Attachments/image-601.webp"
+    "Attachments/image-602.webp"
   ]
 }

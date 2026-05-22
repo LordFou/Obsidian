@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Warhorse Studios
+# Beehive Studios
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -12,7 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  
+- **Pays d’origine** :  Italien
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -24,10 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                             |
-| ----- | --------------------------------- |
-|       | [[Kingdom Come - Deliverance]]    |
-| 2025  | [[Kingdom Come - Deliverance II]] |
+| Année | Titre                            |
+| ----- | -------------------------------- |
+| 2026  | [[LumenTale - Memories of Trey]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
@@ -45,6 +44,6 @@ Lister les prix, distinctions ou records obtenus.
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |

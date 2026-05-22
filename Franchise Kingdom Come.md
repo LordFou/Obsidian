@@ -24,9 +24,9 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre | Année | Plateformes | Remarque |
-| ----- | ----- | ----------- | -------- |
-|       |       |             |          |
+| Titre                          | Année | Plateformes | Remarque |
+| ------------------------------ | ----- | ----------- | -------- |
+| [[Kingdom Come - Deliverance]] | 2018  |             |          |
 
 
 ## Mécaniques et innovations
