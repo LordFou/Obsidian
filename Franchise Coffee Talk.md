@@ -23,10 +23,10 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre           | Année | Plateformes | Remarque |
-| --------------- | ----- | ----------- | -------- |
-| [[Coffee Talk]] | 2020  |             |          |
-|                 |       |             |          |
+| Titre                 | Année | Plateformes | Remarque |
+| --------------------- | ----- | ----------- | -------- |
+| [[Coffee Talk]]       | 2020  |             |          |
+| [[Coffee Talk Tokyo]] | 2026  |             |          |
 
 
 ## Mécaniques et innovations

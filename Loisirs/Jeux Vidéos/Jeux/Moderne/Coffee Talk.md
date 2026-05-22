@@ -32,6 +32,7 @@ tags: mediaDB/game
 - **Développeur** : 
 	- Studio : [[Toge Productions]]
 	- Personnalités : 
+		- [[Mohammad Fahmi Hasni]]
 - **Éditeur** : [[Toge Productions]]
 - **Plateformes** : 
 - **Franchise** : [[Franchise Coffee Talk]]

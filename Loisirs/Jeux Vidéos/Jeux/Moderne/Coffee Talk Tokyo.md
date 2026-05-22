@@ -39,7 +39,7 @@ tags: mediaDB/game
 - **Éditeur** : [[Chorus Worldwide Games]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : [[Franchise Coffee Talk]]
-- **Genre** : [[Aventure Narrative]]
+- **Genre** : [[Aventure Narrative]], Simulateur de barista :-)
 - **Résumé** :  
 
 ## Détails Techniques
@@ -52,7 +52,7 @@ tags: mediaDB/game
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : 
+- **Lieu(x)** : Tokyo
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
