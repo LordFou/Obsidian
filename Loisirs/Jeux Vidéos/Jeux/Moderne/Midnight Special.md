@@ -30,15 +30,15 @@ tags: mediaDB/game
 - **Développeur** : 
 	- Studio : [[Scared Stupid Inc]]
 	- Personnalités : 
-- **Éditeur** : Yahaha Games
-- **Plateformes** : 
+- **Éditeur** : [[Yahaha Games]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : Indie
+- **Genre** : [[Horreur]], [[Point & Click]], 
 - **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : [[Pixel Art]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
@@ -47,8 +47,11 @@ tags: mediaDB/game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Manoir]]
+	- Maine (USA)
 - **Epoque** : 
 - **Personnages principaux** : 
+	- baby-sitter
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
@@ -58,6 +61,8 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2560100 |
+| Description | URL                                         |
+| ----------- | ------------------------------------------- |
+| Steam       | https://store.steampowered.com/app/2560100  |
+| Trailer     | https://www.youtube.com/watch?v=JDRF4dKmvWA |
+![[image-618.webp|500x282]]
