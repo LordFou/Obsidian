@@ -22,9 +22,10 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre               | Année | Plateformes | Remarque |
-| ------------------- | ----- | ----------- | -------- |
-| [[Forza Horizon 6]] |       |             | Au Japon |
+| Titre               | Année | Plateformes     | Remarque       |
+| ------------------- | ----- | --------------- | -------------- |
+| [[Forza Horizon 5]] |       | [[Xbox Series]] | Au [[Mexique]] |
+| [[Forza Horizon 6]] | 2026  | [[Xbox Series]] | Au [[Japon]]   |
 
 
 ## Mécaniques et innovations

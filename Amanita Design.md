@@ -26,8 +26,8 @@ content:
 ## Jeux Développés
 | Année | Titre          |
 | ----- | -------------- |
-|       | [[Samorost]]   |
-|       | Botanicula     |
+| 2012  | [[Botanicula]] |
+| 2021  | [[Samorost 1]] |
 | 2026  | [[Phonopolis]] |
 
 ## Moteur(s) Utilisé(s)

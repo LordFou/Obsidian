@@ -6,13 +6,13 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
 	- Studio : [[Playground Games]]
 	- Personnalités : 
 - **Éditeur** : [[Xbox Games Studio]]
 - **Plateformes** : [[PC]], [[Xbox Series]]
-- **Franchise** : 
+- **Franchise** : [[Franchise Forza]]
 - **Genre** : [[Course]]
 - **Résumé** : 
 
@@ -23,7 +23,7 @@ type: game
 - **Réception critique** : 
 	- Canard PC (8/10)
 	- CheckPoint (9/10)
-- **Gameplay** :
+- **Gameplay** : 
 - **Durée estimée** : 
 
 ## Histoire et Univers

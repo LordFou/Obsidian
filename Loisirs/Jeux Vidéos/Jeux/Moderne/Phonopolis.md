@@ -36,7 +36,7 @@ tags: mediaDB/game
 - **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : 
-- **Résumé** :  
+- **Résumé** :  un jeu d'énigmes où l'on dirige Félix, un jeune balayeur qui tombe sur un casque anti-bruit, lequel lui permet d'échapper au dispositif de contrôle sonore de la population dans sa cité de carton. S'ensuit une aventure entraînante et rocambolesque.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -51,6 +51,7 @@ tags: mediaDB/game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Félix
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
