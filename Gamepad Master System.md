@@ -1,7 +1,7 @@
 ---
 type: matos
 ---
-
+![[image-619.webp|500x281]]
 # Gamepad Master System
 
 ## Informations principales
@@ -14,7 +14,7 @@ type: matos
 ## Résumé et historique
 
 ## Anecdotes et faits marquants
-- En mai 2026, grâce au microcontrôleur RP2040, 
+- En mai 2026, grâce au microcontrôleur RP2040, un mod peut-être rajouté à la manette pour la connecter en USB-C. [Vidéo](https://youtu.be/lEYEePY9bpk?si=1ZU9iSZV8HYXa2Le)
 
 | Description | URL |
 | ----------- | --- |
