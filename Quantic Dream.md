@@ -10,8 +10,10 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 ## Informations Générales
 - **Nom complet** :  
 - **Date de création** :  1997
-- **Fondateurs** :  
-- **Personnalités** : [[David Cage]]
+- **Fondateurs** :  [[David Cage]]
+- **Personnalités** : 
+	- [[David Cage]] (Président)
+	- [[Guillaume de Fondaumière]] (Co-Président)
 - **Pays d’origine** :  France
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
@@ -24,15 +26,16 @@ content:
 
 date: Mai 2026
 title: Débacle du jeu [[Spellcasters Chronicles]]
-content: Selon le STVJ, 95 emplois serait menacés à cause de l'abandon du jeu
+content: Selon le STVJ, 95 emplois serait menacés à cause de l'abandon du jeu. Le syndicat pointe du doigt les choix stratégiques du studio et de [[NetEase Games]], actionnaire unique, notamment un projet jugé très éloigné de l’ADN narratif habituel de Quantic Dream
 ```
 
 ## Jeux Développés
 | Année                                | Titre                       |
 | ------------------------------------ | --------------------------- |
-| XXXX                                 | Heavy Rain                  |
-|                                      | Beyond : Two Souls          |
-|                                      | Detroit : Become Human      |
+| 1999                                 | Omikron : The Nomad Soul    |
+| 2010                                 | [[Heavy Rain]]              |
+| 2013                                 | [[Beyond : Two Souls]]      |
+| 2018                                 | [[Detroit : Become Human]]  |
 | 2026 (abandonné après quelques mois) | [[Spellcasters Chronicles]] |
 
 ## Moteur(s) Utilisé(s)

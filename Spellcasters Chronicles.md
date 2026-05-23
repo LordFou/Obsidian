@@ -1,3 +1,6 @@
+---
+type: game
+---
 
 # Spellcasters Chronicles
 
