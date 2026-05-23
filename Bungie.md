@@ -18,16 +18,17 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
-content:
+date: Mai 2026
+title: Fin du dev de [[Destiny 2]]
+content: Pas me de mise à pied font dire que le jeu service va stopper sa phase de développement.
 ```
 
 ## Jeux Développés
-| Année | Titre        | Genre | Plateformes |
-| ----- | ------------ | ----- | ----------- |
-| 2026  | [[Marathon]] | FPS   |             |
-|       | [[Destiny]]  |       |             |
+| Année | Titre         | Genre | Plateformes |
+| ----- | ------------- | ----- | ----------- |
+|       | [[Destiny]]   | FPS   |             |
+| 2019  | [[Destiny 2]] | FPS   |             |
+| 2026  | [[Marathon]]  | FPS   |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

@@ -19,6 +19,10 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Mascotte** :
 
 ```timeline-labeled
+date: 2018
+title: Climat de travail toxique
+content: Plusieurs médias mettent au grand jour un climat de travail toxique de certains employés envers d'autres.
+
 [line-5, body-2]
 date: 2022
 title: Rachat du studio par [[NetEase Games]] 
@@ -30,17 +34,16 @@ content: Selon le STVJ, 95 emplois serait menacés à cause de l'abandon du jeu.
 ```
 
 ## Jeux Développés
-| Année                                | Titre                       |
-| ------------------------------------ | --------------------------- |
-| 1999                                 | Omikron : The Nomad Soul    |
-| 2010                                 | [[Heavy Rain]]              |
-| 2013                                 | [[Beyond : Two Souls]]      |
-| 2018                                 | [[Detroit : Become Human]]  |
-| 2026 (abandonné après quelques mois) | [[Spellcasters Chronicles]] |
+| Année                                | Titre                        |
+| ------------------------------------ | ---------------------------- |
+| 1999                                 | [[Omikron : The Nomad Soul]] |
+| 2010                                 | [[Heavy Rain]]               |
+| 2013                                 | [[Beyond : Two Souls]]       |
+| 2018                                 | [[Detroit : Become Human]]   |
+| 2026 (abandonné après quelques mois) | [[Spellcasters Chronicles]]  |
 
 ## Moteur(s) Utilisé(s)
-- Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
-- Moteur 2
+- Son propre moteur
 
 ## Style et Influence
 - Ils ont popularisé la narration émotionnelle dans le jeu vidéo

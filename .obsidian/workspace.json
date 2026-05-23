@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantic Dream.md",
+                "file": "Master System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quantic Dream"
+              "title": "Master System"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Quantic Dream",
+                "query": "Master System",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -220,10 +220,14 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dbacc6f984f28690",
+  "active": "1491d77adb05352a",
   "lastOpenFiles": [
-    "Guillaume de Fondaumière.md",
+    "Bungie.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Destiny 2.md",
+    "Destiny 2.md",
+    "Destiny.md",
     "Quantic Dream.md",
+    "Guillaume de Fondaumière.md",
     "David Cage.md",
     "Spellcasters Chronicles.md",
     "Kimi Antonelli.md",
@@ -244,10 +248,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Pandora's Toybox.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Midnight Special.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Luna Abyss.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/LumenTale - Memories of Trey.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Kingdom Come - Deliverance.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Forza Horizon 5.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dwarf Eats Mountain.md",
     "Attachments/image-618.webp",
     "Attachments/image-617.webp",
     "Attachments/image-616.webp",

@@ -5,7 +5,7 @@ type: matos
 # Master System
 
 ## Informations principales
-- Fabricant : {{Nom du fabricant}}
+- Fabricant : [[Sega]]
 - Année de sortie : {{Année}}
 - Génération : {{Ex: 8-bit, 16-bit, 32-bit...}}
 - Type : {{Console de salon, Portable, Micro-ordinateur...}}
