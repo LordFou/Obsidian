@@ -6,13 +6,13 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
 	- Studio : [[Playground Games]]
 	- Personnalités : 
 - **Éditeur** : [[Xbox Games Studio]]
 - **Plateformes** : [[PC]], [[Xbox Series]]
-- **Franchise** : 
+- **Franchise** : [[Franchise Forza]]
 - **Genre** : [[Course]]
 - **Résumé** : 
 
@@ -23,11 +23,12 @@ type: game
 - **Réception critique** : 
 	- Canard PC (8/10)
 	- CheckPoint (9/10)
-- **Gameplay** :
+- **Gameplay** : 
+	- 550 modèles de caisses différentes
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : 
+- **Lieu(x)** : [[Japon]]
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
@@ -42,3 +43,4 @@ type: game
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
 | Trailer     | https://youtu.be/oYhaW-Vr4wg?si=fa-kEK5w7-JTCQQ_ |
+![[image-615.webp|500x282]]

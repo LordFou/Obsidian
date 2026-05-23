@@ -1,42 +1,40 @@
 ---
 type: game
 subType: ""
-title: Coffee Talk
-englishTitle: Coffee Talk
-year: "2020"
+title: Returnal™
+englishTitle: Returnal™
+year: "2023"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/914800
-id: 914800
+url: https://store.steampowered.com/app/1649240
+id: 1649240
 developers:
-  - Toge Productions
+  - Housemarque
+  - Climax Studios
 publishers:
-  - Toge Productions
+  - PlayStation Publishing LLC
 genres:
-  - Adventure
-  - Casual
-  - Indie
-onlineRating: 76
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/header.jpg?t=1768503373
+  - Action
+onlineRating: 0
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1649240/header.jpg?t=1750956860
 released: true
-releaseDate: 29/01/2020
+releaseDate: 15/02/2023
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/header.jpg?t=1768503373)
-# Coffee Talk
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1649240/header.jpg?t=1750956860)
+# Returnal
 
 ## Informations Générales
 
-- **Année de sortie** :  2020
+- **Année de sortie** :  2023
 - **Développeur** : 
-	- Studio : [[Toge Productions]]
+	- Studio : Housemarque,Climax Studios
 	- Personnalités : 
-		- [[Mohammad Fahmi Hasni]]
-- **Éditeur** : [[Toge Productions]]
+- **Éditeur** : PlayStation Publishing LLC
 - **Plateformes** : 
-- **Franchise** : [[Franchise Coffee Talk]]
-- **Genre** : 
+- **Franchise** : 
+- **Genre** : Action
 - **Résumé** :  
 
 ## Détails Techniques
@@ -44,7 +42,7 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 76
+	- Steam Rating : 0
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -63,4 +61,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/914800 |
+| Wiki        | https://store.steampowered.com/app/1649240 |

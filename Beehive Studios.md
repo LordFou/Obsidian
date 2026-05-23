@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Spellgarden Games
+# Beehive Studios
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -12,7 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  
+- **Pays d’origine** :  Italien
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -24,10 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                |
-| ----- | -------------------- |
-| 2023  | [[Sticky Business]]  |
-| 2026  | [[Thrifty Business]] |
+| Année | Titre                            |
+| ----- | -------------------------------- |
+| 2026  | [[LumenTale - Memories of Trey]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

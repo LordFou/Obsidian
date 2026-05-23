@@ -12,20 +12,21 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  
+- **Pays d’origine** :  Tchèquie
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
-content:
+date: Mai 2026
+title: Annonce d'un RPG dans l'univers du Seigneur des Anneaux
+content: Le projet a été officialisé le 20 mai sur les réseaux sociaux du développeur tchèque sans plus de précisions
 ```
 
 ## Jeux Développés
 | Année | Titre                             |
 | ----- | --------------------------------- |
+|       | [[Kingdom Come - Deliverance]]    |
 | 2025  | [[Kingdom Come - Deliverance II]] |
 
 ## Moteur(s) Utilisé(s)

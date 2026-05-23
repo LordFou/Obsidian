@@ -37,9 +37,9 @@ tags: mediaDB/game
 		- [[Toge Productions]]
 	- Personnalités : 
 - **Éditeur** : [[Chorus Worldwide Games]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch]], [[Switch 2]]### Pandora's Toybox
 - **Franchise** : [[Franchise Coffee Talk]]
-- **Genre** : [[Aventure Narrative]]
+- **Genre** : [[Aventure Narrative]], Simulateur de barista :-)
 - **Résumé** :  
 
 ## Détails Techniques
@@ -52,7 +52,7 @@ tags: mediaDB/game
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : 
+- **Lieu(x)** : Tokyo
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :

@@ -1,42 +1,43 @@
 ---
 type: game
 subType: ""
-title: Coffee Talk
-englishTitle: Coffee Talk
-year: "2020"
+title: Forza Horizon 5
+englishTitle: Forza Horizon 5
+year: "2021"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/914800
-id: 914800
+url: https://store.steampowered.com/app/1551360
+id: 1551360
 developers:
-  - Toge Productions
+  - Playground Games
 publishers:
-  - Toge Productions
+  - Xbox Game Studios
 genres:
+  - Action
   - Adventure
-  - Casual
-  - Indie
-onlineRating: 76
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/header.jpg?t=1768503373
+  - Racing
+  - Simulation
+  - Sports
+onlineRating: 0
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1746471508
 released: true
-releaseDate: 29/01/2020
+releaseDate: 08/11/2021
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/header.jpg?t=1768503373)
-# Coffee Talk
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1746471508)
+# Forza Horizon 5
 
 ## Informations Générales
 
-- **Année de sortie** :  2020
+- **Année de sortie** :  2021
 - **Développeur** : 
-	- Studio : [[Toge Productions]]
+	- Studio : [[Playground Games]]
 	- Personnalités : 
-		- [[Mohammad Fahmi Hasni]]
-- **Éditeur** : [[Toge Productions]]
+- **Éditeur** : [[Xbox Game Studios]]
 - **Plateformes** : 
-- **Franchise** : [[Franchise Coffee Talk]]
-- **Genre** : 
+- **Franchise** : 
+- **Genre** : [[Course]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -44,7 +45,7 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 76
+	- Steam Rating : 0
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -63,4 +64,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/914800 |
+| Wiki        | https://store.steampowered.com/app/1551360 |

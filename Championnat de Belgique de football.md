@@ -11,6 +11,7 @@ type: event
 | Année | Vainqueur            | Remarque                        |
 | ----- | -------------------- | ------------------------------- |
 | 2025  | Union Saint Gilloise | 90 ans après leur dernier sacre |
+| 2026  | Club Bruges          | 20e victoire                    |
 |       |                      |                                 |
 # Femmes
 

@@ -1,42 +1,41 @@
 ---
 type: game
 subType: ""
-title: Coffee Talk
-englishTitle: Coffee Talk
-year: "2020"
+title: Samorost 1
+englishTitle: Samorost 1
+year: "2021"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/914800
-id: 914800
+url: https://store.steampowered.com/app/1580970
+id: 1580970
 developers:
-  - Toge Productions
+  - Amanita Design
 publishers:
-  - Toge Productions
+  - Amanita Design
 genres:
   - Adventure
   - Casual
   - Indie
-onlineRating: 76
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/header.jpg?t=1768503373
+onlineRating: 0
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1580970/1263f6c450efc757e982f0f19e3a31406af761eb/header.jpg?t=1773172965
 released: true
-releaseDate: 29/01/2020
+releaseDate: 20/05/2021
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/header.jpg?t=1768503373)
-# Coffee Talk
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1580970/1263f6c450efc757e982f0f19e3a31406af761eb/header.jpg?t=1773172965)
+# Samorost 1
 
 ## Informations Générales
 
-- **Année de sortie** :  2020
+- **Année de sortie** :  2021
 - **Développeur** : 
-	- Studio : [[Toge Productions]]
+	- Studio : Amanita Design
 	- Personnalités : 
-		- [[Mohammad Fahmi Hasni]]
-- **Éditeur** : [[Toge Productions]]
+- **Éditeur** : Amanita Design
 - **Plateformes** : 
-- **Franchise** : [[Franchise Coffee Talk]]
-- **Genre** : 
+- **Franchise** : 
+- **Genre** : Adventure,Casual,Indie
 - **Résumé** :  
 
 ## Détails Techniques
@@ -44,7 +43,7 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 76
+	- Steam Rating : 0
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -63,4 +62,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/914800 |
+| Wiki        | https://store.steampowered.com/app/1580970 |

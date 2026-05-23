@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Spellgarden Games
+# Scared Stupid Inc
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -26,8 +26,7 @@ content:
 ## Jeux Développés
 | Année | Titre                |
 | ----- | -------------------- |
-| 2023  | [[Sticky Business]]  |
-| 2026  | [[Thrifty Business]] |
+| 2026  | [[Midnight Special]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

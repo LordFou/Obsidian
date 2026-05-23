@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Spellgarden Games
+# Amanita Design
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,10 +24,11 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                |
-| ----- | -------------------- |
-| 2023  | [[Sticky Business]]  |
-| 2026  | [[Thrifty Business]] |
+| Année | Titre          |
+| ----- | -------------- |
+| 2012  | [[Botanicula]] |
+| 2021  | [[Samorost 1]] |
+| 2026  | [[Phonopolis]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

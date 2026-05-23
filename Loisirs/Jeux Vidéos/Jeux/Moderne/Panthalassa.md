@@ -1,42 +1,41 @@
 ---
 type: game
 subType: ""
-title: Coffee Talk
-englishTitle: Coffee Talk
-year: "2020"
+title: Panthalassa
+englishTitle: Panthalassa
+year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/914800
-id: 914800
+url: https://store.steampowered.com/app/2955720
+id: 2955720
 developers:
-  - Toge Productions
+  - Meia Calça
 publishers:
-  - Toge Productions
+  - Meia Calça
 genres:
   - Adventure
   - Casual
   - Indie
-onlineRating: 76
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/header.jpg?t=1768503373
+onlineRating: 0
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2955720/7b9367aa4b1f6c09ae6c35dd28b82b5f82514ff9/header.jpg?t=1779134525
 released: true
-releaseDate: 29/01/2020
+releaseDate: 17/05/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/header.jpg?t=1768503373)
-# Coffee Talk
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2955720/7b9367aa4b1f6c09ae6c35dd28b82b5f82514ff9/header.jpg?t=1779134525)
+# Panthalassa
 
 ## Informations Générales
 
-- **Année de sortie** :  2020
+- **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Toge Productions]]
+	- Studio : [[Meia Calça]]
 	- Personnalités : 
-		- [[Mohammad Fahmi Hasni]]
-- **Éditeur** : [[Toge Productions]]
-- **Plateformes** : 
-- **Franchise** : [[Franchise Coffee Talk]]
-- **Genre** : 
+- **Éditeur** : [[Meia Calça]]
+- **Plateformes** : [[PC]]
+- **Franchise** : 
+- **Genre** : Adventure,Casual,Indie
 - **Résumé** :  
 
 ## Détails Techniques
@@ -44,12 +43,12 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 76
+	- Steam Rating : 0
 - **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : 
+- **Lieu(x)** : sous l'eau
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
@@ -63,4 +62,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/914800 |
+| Wiki        | https://store.steampowered.com/app/2955720 |
