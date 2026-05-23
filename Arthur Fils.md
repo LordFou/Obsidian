@@ -20,6 +20,7 @@ type: personne
 | 2024  | [[Tournoi de Tokyo]]     | Vainqueur |                                   |
 | 2026  | [[Tournoi de Doha]]      | Finaliste | Défaite contre [[Carlos Alcaraz]] |
 | 2026  | [[Tournoi de Barcelone]] | Vainqueur |                                   |
+| 2026  | [[Roland-Garros]]        | Forfait   |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
