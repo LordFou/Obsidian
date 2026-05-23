@@ -17,6 +17,10 @@ type: personne
 date: Mai 2026
 title: Direction la pomme !
 content: Julie Vanloo recrutée par New York Liberty quelques heures avant le début de la saison de [[WNBA]]
+
+date: Fin Mai 2026
+title: Pomme pourrie
+content: New York ne garde pas [[Julie Vanloo]]
 ```
 
 # Palmarès et Distinctions
