@@ -1,12 +1,12 @@
 ---
 type: game
 ---
-
+![[image-621.webp|500x379]]
 # Michael Jackson’s Moonwalker
 
 ## Informations Générales
 
-- **Année de sortie** :  {{ year }}
+- **Année de sortie** :  1988
 - **Développeur** : 
 	- Studio : {{ developers }}
 	- Personnalités : 
@@ -22,6 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Le résultat a été salué par la critique et reste aujourd’hui une référence du rétrogaming 16 bits, aussi bien pour sa jouabilité que pour la qualité de ses reprises musicales en 16 bits de _Smooth Criminal_, _Bad_ ou encore _Beat It_.
+	- Une équipe musicale composée de [[Brad Buxer]], [[Bobby Brooks]], [[Doug Grigsby III]], [[Darryl Ross]], [[Geoff Grace]] et [[Cirocco Jones]] a été montée pour travailler avec Michael. Pendant près de quatre semaines, ils ont créé quelque 41 morceaux au Record One Studio de Los Angeles.
 - **Gameplay** :
 - **Durée estimée** : 
 
