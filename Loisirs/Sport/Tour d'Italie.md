@@ -83,6 +83,7 @@ Aussi appelé [[Giro]] ^^
 | ==12e (BEL)== | [[Alec Segaert]]     | [[Afonso Eulalio]]   | [[Jonas Vingegaard]] | [[Paul Magnier]] | [[Afonso Eulalio]] | Sorti seul à 3 km devant le peloton          |
 | 13e (ITA)     | [[Alberto Bettiol]]  | [[Afonso Eulalio]]   | [[Jonas Vingegaard]] | [[Paul Magnier]] | [[Afonso Eulalio]] | 3e - [[Jasper Stuyven]]                      |
 | 14e (DAN)     | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] |                  |                    |                                              |
+| 15e (NOR)     | [[Fredrik Dversnes]] |                      |                      |                  |                    | 51,391 km/h de Moyenne !!!                   |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
