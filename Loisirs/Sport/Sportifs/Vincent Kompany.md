@@ -18,7 +18,7 @@ type: personne
 | 2025  | [[Trophée Raymond Goethals]] | 1ier           |                              |
 | 2026  | Championnat d'Allemagne      | 1ier           | avec le [[Bayern de Munich]] |
 | 2026  | Coupe d'Allemagne            | 1ier           | avec le [[Bayern de Munich]] |
-| 2026  | Champion's League            | Demi-finaliste | avec le [[Bayern de Munich]] |
+| 2026  | [[Champion's League]]        | Demi-finaliste | avec le [[Bayern de Munich]] |
 |       |                              |                |                              |
 
 # Style et Caractéristiques
