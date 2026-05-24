@@ -22,7 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- 2 millions de vente en 12h (Accès anticipé)
-	- 6000 critiques négatives a cause de ses conditions générales trop large ()
+	- 6000 critiques négatives a cause de ses conditions générales trop large (qui interdit de dire du mal du jeu)
 - **Gameplay** :
 - **Durée estimée** : 
 
