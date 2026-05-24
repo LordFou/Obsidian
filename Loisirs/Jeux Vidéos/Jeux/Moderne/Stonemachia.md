@@ -1,41 +1,41 @@
 ---
 type: game
 subType: ""
-title: Yerba Buena
-englishTitle: Yerba Buena
+title: Stonemachia
+englishTitle: Stonemachia
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2330110
-id: 2330110
+url: https://store.steampowered.com/app/2982610
+id: 2982610
 developers:
-  - Mad About Pandas
+  - Crossfall Games
 publishers:
-  - Focus Entertainment
+  - Crossfall Games
 genres:
   - Action
   - Adventure
   - Indie
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330110/ee6c7dd95a887f117cd9ec763b35539e01b5e0f6/header_alt_assets_0.jpg?t=1777378843
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2982610/8efb61a9b71968711b74eb54980cfa6ef4ea9ab1/header.jpg?t=1779268066
 released: true
 releaseDate: 26/05/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330110/ee6c7dd95a887f117cd9ec763b35539e01b5e0f6/header_alt_assets_0.jpg?t=1777378843)
-# Yerba Buena
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2982610/8efb61a9b71968711b74eb54980cfa6ef4ea9ab1/header.jpg?t=1779268066)
+# Stonemachia
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Mad About Pandas]]
+	- Studio : [[Crossfall Games]]
 	- Personnalités : 
-- **Éditeur** : [[Focus Entertainment]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
+- **Éditeur** : [[Crossfall Games]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[Puzzle]], [[FPS]]
+- **Genre** : [[Action]], [[Souls Like]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -49,11 +49,8 @@ tags: mediaDB/game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- [[San Francisco]]
 - **Epoque** : 
-	- [[Années 70]]
 - **Personnages principaux** : 
-	- Barb ?
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
@@ -65,5 +62,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/2330110       |
-| Trailer     | https://youtu.be/cZgim-KYkZQ?si=xEwBB-BrokXXiYPX |
+| Steam       | https://store.steampowered.com/app/2982610       |
+| Trailer     | https://youtu.be/cGl4dfO_gHc?si=kBU0RHvd5P-0lMxX |

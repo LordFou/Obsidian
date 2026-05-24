@@ -33,9 +33,9 @@ tags: mediaDB/game
 	- Studio : [[Beehive Studios]]
 	- Personnalités : 
 - **Éditeur** : [[Team17]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[RPG]]
+- **Genre** : [[Action]], [[Aventure]], [[RPG]], [[Tour par tour]], [[Collection]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -65,7 +65,8 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2261430 |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Steam       | https://store.steampowered.com/app/2261430       |
+| Trailer     | https://youtu.be/zecu2205rQY?si=KJudTSmFWa0oH52z |
 ![[image-611.webp|500x313]]
