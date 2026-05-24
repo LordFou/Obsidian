@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Personnalités/Michael Jackson.md",
+                "file": "Michael Jackson’s Moonwalker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Michael Jackson"
+              "title": "Michael Jackson’s Moonwalker"
             }
           }
         ]
@@ -205,10 +205,11 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dbacc6f984f28690",
+  "active": "8e981ec8df0f69d9",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Speedons.md",
     "Loisirs/Jeux Vidéos/Personnalités/Michael Jackson.md",
+    "Michael Jackson’s Moonwalker.md",
+    "Loisirs/Jeux Vidéos/Speedons.md",
     "Slay the Spire 2.md",
     "Red Hook.md",
     "Darkest Dungeon.md",
@@ -232,7 +233,6 @@
     "Loisirs/Sport/Tour d'Italie.md",
     "Philippe Gilbert.md",
     "Loisirs/Sport/Compétitions/Quatre Jours de Dunkerque.md",
-    "Samuel Watson.md",
     "Attachments/image-620.webp",
     "Attachments/image-619.webp",
     "Attachments/image-618.webp",
