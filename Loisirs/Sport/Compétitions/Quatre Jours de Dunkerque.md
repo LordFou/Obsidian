@@ -29,10 +29,12 @@ type: event
 ### Hommes
 
 
-| Année | Vainqueur           | Nationalité   | Remarque |
-| ----- | ------------------- | ------------- | -------- |
-| 2026  | [[Laurence Pithie]] | Néo-Zélandais |          |
-|       |                     |               |          |
+| Année | Vainqueur            | Nationalité   | Remarque |
+| ----- | -------------------- | ------------- | -------- |
+| 2022  | [[Philippe Gilbert]] | ==Belge==     |          |
+| 2025  | [[Samuel Watson]]    | Britannique   |          |
+| 2026  | [[Laurence Pithie]]  | Néo-Zélandais |          |
+|       |                      |               |          |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

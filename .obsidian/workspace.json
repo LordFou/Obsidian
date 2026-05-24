@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Quatre Jours de Dunkerque.md",
+                "file": "Tom Pidcock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quatre Jours de Dunkerque"
+              "title": "Tom Pidcock"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dunkerque",
+                "query": "Tom pid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,15 +207,17 @@
   },
   "active": "8e981ec8df0f69d9",
   "lastOpenFiles": [
-    "Jordi Meeus.md",
+    "Loisirs/Sport/Tour d'Italie.md",
+    "Philippe Gilbert.md",
     "Loisirs/Sport/Compétitions/Quatre Jours de Dunkerque.md",
+    "Samuel Watson.md",
     "Laurence Pithie.md",
+    "Jordi Meeus.md",
     "Templates/Fiche Event - Cyclisme Tour.md",
     "Loisirs/Sport/Sportifs/Mischa Bredewold.md",
     "Tour de Burgos.md",
     "Marlen Reusser.md",
     "Yara Kastelijn.md",
-    "Loisirs/Sport/Tour d'Italie.md",
     "Fredrik Dversnes.md",
     "Alessandro Borgo.md",
     "GP Criquielon.md",
@@ -232,8 +235,6 @@
     "Master System.md",
     "Bungie.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Destiny 2.md",
-    "Destiny 2.md",
-    "Destiny.md",
     "Attachments/image-618.webp",
     "Attachments/image-617.webp",
     "Attachments/image-616.webp",

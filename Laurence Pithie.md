@@ -15,6 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                      | Résultat | Remarque |
 | ----- | ------------------------------------------------ | -------- | -------- |
+| 2026  | [[Quatre Jours de Dunkerque]] - 1e étape         | 1ier     |          |
 | 2026  | [[Quatre Jours de Dunkerque]] - Classement final | 1ier     |          |
 
 # Style et Caractéristiques
