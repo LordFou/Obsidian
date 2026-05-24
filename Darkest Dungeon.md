@@ -8,7 +8,7 @@ type: game
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Red Hook]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 

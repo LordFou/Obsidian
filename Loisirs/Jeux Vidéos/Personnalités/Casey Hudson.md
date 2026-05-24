@@ -2,7 +2,7 @@
 type: personne
 ---
 
-# Eric Barone
+# Casey Hudson
 
 ## Présentation
 Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
@@ -15,9 +15,9 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 
 ```timeline-labeled
 [line-5, body-2]
-date: Mai 2026 
-title: Contre l'IA
-content: Il n'utilisera jamais l'IA générative parce qu'il s'agit d'un non-sens créatif
+date: Mai 2026
+title: Déclaration anti IA
+content: il évitera cette techno qu'il qualifie de "sans âme"
 ```
 
 
@@ -62,6 +62,6 @@ Lister les prix et reconnaissances obtenues.
 ## Controverses ou Faits Marquants
 Évoquer les polémiques ou événements notables liés à cette personne.
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |
