@@ -2,23 +2,20 @@
 type: personne
 ---
 
-# Mischa Bredewold
+# Laurence Pithie
 
-![[image-573.webp|240x305]]
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Néerlandaise
+- **Nationalité** :  Néo-Zélandais
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** : [[SD-Worx]]
+- **Équipe(s) / Club(s)** :  [[Bora Redbull]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                   | Résultat | Remarque |
-| ----- | ----------------------------- | -------- | -------- |
-| 2023  | Championnat d'Europe          | 1ière    |          |
-| 2025  | [[Amstel Gold Race]]          | 1ière    |          |
-| 2026  | [[Tour d'Espagne]] - 5e étape | 1ière    |          |
+| Année | Compétition                                      | Résultat | Remarque |
+| ----- | ------------------------------------------------ | -------- | -------- |
+| 2026  | [[Quatre Jours de Dunkerque]] - Classement final | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -32,8 +29,6 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
-# Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
-
-![[Pasted image 20250420231447.jpg]]
+| Description | URL |
+| ----------- | --- |
+|             |     |

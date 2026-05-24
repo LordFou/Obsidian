@@ -30,12 +30,12 @@ type: event
 
 ## Femmes
 
-|          | Vainqueur          | Général            | Montagne | Points | Jeune | Remarques |
-| -------- | ------------------ | ------------------ | -------- | ------ | ----- | --------- |
-|          |                    |                    |          |        |       |           |
-|          |                    |                    |          |        |       |           |
-|          |                    |                    |          |        |       |           |
-| 4e (NDL) | [[Yara Kastelijn]] | [[Yara Kastelijn]] |          |        |       |           |
+|          | Vainqueur          | Général              | Montagne | Points | Jeune | Remarques |
+| -------- | ------------------ | -------------------- | -------- | ------ | ----- | --------- |
+|          |                    |                      |          |        |       |           |
+|          |                    |                      |          |        |       |           |
+|          |                    | [[Mischa Bredewold]] |          |        |       |           |
+| 4e (NDL) | [[Yara Kastelijn]] | [[Yara Kastelijn]]   |          |        |       |           |
 
 # General
 
