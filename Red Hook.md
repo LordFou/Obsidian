@@ -19,8 +19,8 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 ```timeline-labeled
 [line-5, body-2]
 date: Mai 2026
-title: 
-content:
+title: Déclaration anti IA
+content: Le studio refuse catégoriquement de remplacer l'iconique narrateur de Darkest Dungeon (décédé l'an dernier) par une IA qui l'imiterait car ça serait dégradant pour son travail.
 ```
 
 ## Jeux Développés
