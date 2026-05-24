@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kimi Antonelli.md",
+                "file": "Subnautica 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kimi Antonelli"
-            }
-          },
-          {
-            "id": "1491d77adb05352a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Master System.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Master System"
-            }
-          },
-          {
-            "id": "194f7fad2c75c254",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gamepad Master System.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gamepad Master System"
+              "title": "Subnautica 2"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "subnauti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -234,10 +205,12 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "194f7fad2c75c254",
+  "active": "8e981ec8df0f69d9",
   "lastOpenFiles": [
-    "Attachments/image-619.webp",
+    "Attachments/image-620.webp",
+    "Kimi Antonelli.md",
     "Gamepad Master System.md",
+    "Attachments/image-619.webp",
     "Master System.md",
     "Bungie.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Destiny 2.md",
@@ -247,7 +220,6 @@
     "Guillaume de Fondaumière.md",
     "David Cage.md",
     "Spellcasters Chronicles.md",
-    "Kimi Antonelli.md",
     "Lando Norris.md",
     "Georges Russell.md",
     "Grand Prix du Canada.md",
@@ -271,7 +243,6 @@
     "Attachments/image-612.webp",
     "Attachments/image-611.webp",
     "Attachments/image-610.webp",
-    "Attachments/image-609.webp",
     "Loisirs/Sport/Compétitions/Sans titre",
     "Sans titre",
     "TI-99",

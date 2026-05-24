@@ -6,7 +6,7 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** : 2026 (Accès anticipé)
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
@@ -20,7 +20,9 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- 2 millions de vente en 12h (Accès anticipé)
+	- 6000 critiques négatives a cause de ses conditions générales trop large ()
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -40,3 +42,6 @@ type: game
 | Description | URL                                         |
 | ----------- | ------------------------------------------- |
 | Trailer     | https://www.youtube.com/watch?v=8EZhCzFaQuw |
+# Feuille de Route
+
+![[image-620.webp]]
