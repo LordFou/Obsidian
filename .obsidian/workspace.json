@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Personnalités/Michael Jackson.md",
+                "file": "Loisirs/Sport/Sportifs/Mischa Bredewold.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Michael Jackson"
+              "title": "Mischa Bredewold"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sonic",
+                "query": "Tour de burgo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5
+    "width": 460.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,10 +208,21 @@
   },
   "active": "44eee51ea74afa0d",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Franchise/Franchise Sonic.md",
-    "Sonic the Hedgehog 3.md",
-    "Mega Drive.md",
+    "Tour de Burgos.md",
+    "Loisirs/Sport/Compétitions/Quatre Jours de Dunkerque.md",
+    "Natnael Tesfatsion.md",
+    "Matteo Moschetti.md",
+    "Loisirs/Sport/Compétitions/Veenendaal - Veenendaal Classic.md",
+    "Loisirs/Sport/Tour d'Italie.md",
+    "Fredrik Dversnes.md",
+    "Tim Merlier.md",
+    "GP Criquielon.md",
+    "Alessandro Borgo.md",
     "Loisirs/Jeux Vidéos/Personnalités/Michael Jackson.md",
+    "Sonic the Hedgehog 3.md",
+    "Loisirs/Jeux Vidéos/Jeux/Franchise/Franchise Sonic.md",
+    "Attachments/image-625.webp",
+    "Mega Drive.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Metroïd Prime 4 - Beyond.md",
     "Attachments/image-624.webp",
     "Loisirs/Jeux Vidéos/Franchise Metroïd.md",
@@ -225,23 +237,12 @@
     "Per Strand Hagenes.md",
     "Raphaël Collignon.md",
     "Elise Mertens.md",
-    "Felix Rosenqvist.md",
     "Attachments/image-622.webp",
-    "Loisirs/Sport/Compétitions/500 miles d'Indianapolis.md",
-    "Kimi Antonelli.md",
-    "Grand Prix du Canada.md",
-    "Lando Norris.md",
-    "Georges Russell.md",
-    "Max Verstappen.md",
-    "Lewis Hamilton.md",
-    "Loisirs/Sport/Sportifs/Brent Van doninck.md",
-    "Loisirs/Sport/Sportifs/Jago Geerts.md",
     "Attachments/image-619.webp",
     "Attachments/image-621.webp",
     "Attachments/image-620.webp",
     "Attachments/image-618.webp",
     "Attachments/image-617.webp",
-    "Attachments/image-616.webp",
-    "Attachments/image-615.webp"
+    "Attachments/image-616.webp"
   ]
 }

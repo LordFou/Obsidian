@@ -1,12 +1,12 @@
 ---
 type: game
 ---
-
+![[image-625.webp|500x754]]
 # Sonic the Hedgehog 3
 
 ## Informations Générales
 
-- **Année de sortie** :  {{ year }}
+- **Année de sortie** :  1994
 - **Développeur** : 
 	- Studio : {{ developers }}
 	- Personnalités : 

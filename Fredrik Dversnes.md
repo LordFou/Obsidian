@@ -9,7 +9,7 @@ type: personne
 - **Nationalité** :  Norvégien
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Uno-x]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions

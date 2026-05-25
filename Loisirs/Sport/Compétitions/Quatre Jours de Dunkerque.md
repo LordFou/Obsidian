@@ -11,12 +11,12 @@ type: event
 
 ### Etapes 
 
-|              | Vainqueur           | Général             | Montagne | Points | Jeune | Remarques |
-| ------------ | ------------------- | ------------------- | -------- | ------ | ----- | --------- |
-| 1e (NZL)     | [[Laurence Pithie]] | [[Laurence Pithie]] |          |        |       |           |
-|              |                     |                     |          |        |       |           |
-|              |                     |                     |          |        |       |           |
-| ==5e (BEL)== | [[Jordi Meeus]]     | [[Laurence Pithie]] |          |        |       |           |
+|              | Vainqueur              | Général             | Montagne | Points | Jeune | Remarques            |
+| ------------ | ---------------------- | ------------------- | -------- | ------ | ----- | -------------------- |
+| 1e (NZL)     | [[Laurence Pithie]]    | [[Laurence Pithie]] |          |        |       |                      |
+|              |                        |                     |          |        |       |                      |
+| 4e (ERY)     | [[Natnael Tesfatsion]] |                     |          |        |       | 2e - [[Stan Dewulf]] |
+| ==5e (BEL)== | [[Jordi Meeus]]        | [[Laurence Pithie]] |          |        |       |                      |
 ## Femmes
 
 ### Etapes
