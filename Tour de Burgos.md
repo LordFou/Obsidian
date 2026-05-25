@@ -5,6 +5,8 @@ type: event
 
 # Introduction
 
+Aussi appelé [[Vuelta Burgos]]
+
 # Edition 2025
 
 ## Hommes
@@ -32,8 +34,8 @@ type: event
 
 |          | Vainqueur            | Général            | Montagne | Points | Jeune | Remarques |
 | -------- | -------------------- | ------------------ | -------- | ------ | ----- | --------- |
-|          |                      |                    |          |        |       |           |
-|          |                      |                    |          |        |       |           |
+| 1e (NDL) | [[Lorena Wiebes]]    | [[Lorena Wiebes]]  |          |        |       |           |
+| 2e (NDL) | [[Lorena Wiebes]]    | [[Lorena Wiebes]]  |          |        |       |           |
 | 3e (NDL) | [[Mischa Bredewold]] | [[Lorena Wiebes]]  |          |        |       |           |
 | 4e (NDL) | [[Yara Kastelijn]]   | [[Yara Kastelijn]] |          |        |       |           |
 

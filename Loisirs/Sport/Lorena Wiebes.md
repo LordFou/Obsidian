@@ -44,6 +44,8 @@ type: personne
 | 2026  | [[Flèche de Gooik Oetingen]]             | 1ière    |                                                     |
 | 2026  | [[Gand Wevelgem]]                        | 1ière    |                                                     |
 | 2026  | [[Omloop der Kempen]]                    | 1ière    |                                                     |
+| 2026  | [[Tour de Burgos]] - 1e étape            | 1ière    |                                                     |
+| 2026  | [[Tour de Burgos]] - 2e étape            | 1ière    |                                                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

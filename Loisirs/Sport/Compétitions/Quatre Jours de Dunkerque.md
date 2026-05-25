@@ -14,7 +14,8 @@ type: event
 |              | Vainqueur              | Général             | Montagne | Points | Jeune | Remarques            |
 | ------------ | ---------------------- | ------------------- | -------- | ------ | ----- | -------------------- |
 | 1e (NZL)     | [[Laurence Pithie]]    | [[Laurence Pithie]] |          |        |       |                      |
-|              |                        |                     |          |        |       |                      |
+| 2e (FRA)     | [[Victor Papon]]       |                     |          |        |       |                      |
+| 3e (NOR)     | [[Rasmus Tiller]]      |                     |          |        |       |                      |
 | 4e (ERY)     | [[Natnael Tesfatsion]] |                     |          |        |       | 2e - [[Stan Dewulf]] |
 | ==5e (BEL)== | [[Jordi Meeus]]        | [[Laurence Pithie]] |          |        |       |                      |
 ## Femmes

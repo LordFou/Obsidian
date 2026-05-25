@@ -2,22 +2,20 @@
 type: personne
 ---
 
-# Laurence Pithie
+# Rasmus Tiller
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Néo-Zélandais
+- **Nationalité** :  Norvégien
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Bora Redbull]]
+- **Équipe(s) / Club(s)** :  [[Uno-x]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                      | Résultat | Remarque |
-| ----- | ------------------------------------------------ | -------- | -------- |
-| 2026  | [[Tour de Cologne]]                              | 1ier     |          |
-| 2026  | [[Quatre Jours de Dunkerque]] - 1e étape         | 1ier     |          |
-| 2026  | [[Quatre Jours de Dunkerque]] - Classement final | 1ier     |          |
+| Année | Compétition                              | Résultat | Remarque |
+| ----- | ---------------------------------------- | -------- | -------- |
+| 2026  | [[Quatre Jours de Dunkerque]] - 3e étape | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
