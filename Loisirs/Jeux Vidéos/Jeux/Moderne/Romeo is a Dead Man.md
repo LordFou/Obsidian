@@ -8,8 +8,10 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[Grasshopper Manufacture]], [[Suda51]]
+	- Studio : 
+		- [[Grasshopper Manufacture]]
 	- Personnalités : 
+		- , [[Suda51]]
 - **Éditeur** : [[Grasshopper Manufacture]]
 - **Plateformes** : [[PC]], [[Xbox Series]], [[Playstation 5]]
 - **Franchise** : 
@@ -18,11 +20,12 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : [[Comics]], [[Pixel Art]] rétro, science-fiction psychédélique et violence grotesque
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- CheckPoint (6.5/10)
 	- Canard PC (4/10)
+		- Tout est vraiment un mélange foutraque
 - **Gameplay** :
 - **Durée estimée** : 
 

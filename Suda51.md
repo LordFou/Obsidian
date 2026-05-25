@@ -1,20 +1,17 @@
 ---
-type: societe
+type: personne
 ---
 
 # Suda51
 
 ## Présentation
-Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
+Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
 
 ## Informations Générales
-- **Nom complet** :  
-- **Date de création** :  
-- **Fondateurs** :  
-- **Personnalités** :
-- **Pays d’origine** :  
-- **Site officiel** : [Lien](#)  
-- **Mascotte** :
+- **Date de naissance** :  
+- **Nationalité** :  
+- **Profession(s)** : (Développeur, Designer, Compositeur, Journaliste, etc.)  
+- **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 
 ```timeline-labeled
 [line-5, body-2]
@@ -23,27 +20,48 @@ title:
 content:
 ```
 
-## Jeux Développés
-| Année | Titre                   |
-| ----- | ----------------------- |
-| 2026  | [[Romeo is a Dead Man]] |
 
-## Moteur(s) Utilisé(s)
-- Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
-- Moteur 2
+## Contributions Notables
 
-## Style et Influence
-Décrire le style graphique, les thématiques abordées, les influences notables.
+```dataviewjs
+const pages = dv.pages("");
+const results = [];
+const personnalite = dv.current().file.name.toLowerCase();  // Nom de la note actuelle
 
-## Succès et Récompenses
-Lister les prix, distinctions ou records obtenus.
+for (let page of pages) {
+    const content = await dv.io.load(page.file.path);
+    const lowerFileName = page.file.name.toLowerCase();
 
-## Controverses ou Événements Marquants
-Évoquer les polémiques ou faits marquants de l’histoire de la société.
+    if (content.toLowerCase().includes(personnalite) && lowerFileName !== personnalite) {
+        results.push({
+            link: page.file.link,
+            name: page.file.name.toLowerCase()
+        });
+    }
+}
 
-## Filiales et Partenaires
-Lister les studios affiliés ou les collaborations importantes.
+// Tri **sans localeCompare**, via comparaison de chaînes simples
+results.sort((a, b) => {
+    if (a.name < b.name) return -1;
+    if (a.name > b.name) return 1;
+    return 0;
+});
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+// Affichage sous forme de tableau à une colonne
+const tableData = results.map(item => [item.link]);
+
+if (tableData.length > 0) {
+    dv.table(["A travaillé pour/avec/sur/est lié à"], tableData);
+}
+
+```
+
+## Récompenses et Distinctions
+Lister les prix et reconnaissances obtenues.
+
+## Controverses ou Faits Marquants
+Évoquer les polémiques ou événements notables liés à cette personne.
+
+| Description | URL |
+| ----------- | --- |
+|             |     |
