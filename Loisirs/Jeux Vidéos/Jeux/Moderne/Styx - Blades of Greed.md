@@ -20,7 +20,9 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : 3D
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Canard PC (7/10)
+		- Gameplay habituel de la franchise => super classique
 - **Gameplay** :
 - **Durée estimée** : 
 

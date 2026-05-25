@@ -21,7 +21,8 @@ type: game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
-	- 6.5/10 (CheckPoint)
+	- CheckPoint (6.5/10)
+	- Canard PC (4/10)
 - **Gameplay** :
 - **Durée estimée** : 
 

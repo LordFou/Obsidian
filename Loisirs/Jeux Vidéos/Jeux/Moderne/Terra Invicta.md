@@ -32,9 +32,9 @@ tags: mediaDB/game
 	- Studio : [[Pavonis Interactive]]
 	- Personnalités : 
 - **Éditeur** : [[Hooded Horse]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : Simulation,Strategy
+- **Genre** : [[4X]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -43,6 +43,10 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 83
+	- Canard PC (6/10)
+		- Méga dur, seul les amateurs n'abandonneront pas
+		- Mal documenté => peu accessible
+		- Bourré de bonnes idées
 - **Gameplay** :
 - **Durée estimée** : 
 
