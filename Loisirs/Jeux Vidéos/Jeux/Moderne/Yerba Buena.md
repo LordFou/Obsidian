@@ -43,8 +43,10 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 0
+	- CheckPoint (8/10)
 - **Gameplay** :
+	- l’Oscillator utilisé par l'héroïne est un dispositif permettant de copier et coller les mouvements et propriétés physiques des objets du décor.
+	- Dimension d'un jeu dans le jeu,
 - **Durée estimée** : 
 
 ## Histoire et Univers

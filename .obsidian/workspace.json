@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Antwerp Port Epic.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Yerba Buena.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Antwerp Port Epic"
+              "title": "Yerba Buena"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Antwer",
+                "query": "Yerba",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,6 +207,11 @@
   },
   "active": "44eee51ea74afa0d",
   "lastOpenFiles": [
+    "Mad About Pandas.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Yerba Buena.md",
+    "Dries De Bondt.md",
+    "Loisirs/Sport/Antwerp Port Epic.md",
+    "Per Strand Hagenes.md",
     "Raphaël Collignon.md",
     "Elise Mertens.md",
     "Felix Rosenqvist.md",
@@ -230,11 +235,6 @@
     "Yara Kastelijn.md",
     "Spellcasters Chronicles.md",
     "Red Hook.md",
-    "Quantic Dream.md",
-    "Michael Jackson’s Moonwalker.md",
-    "Loisirs/Sport/Compétitions/Quatre Jours de Dunkerque.md",
-    "Loisirs/Sport/Compétitions/Europa League.md",
-    "Loisirs/Jeux Vidéos/Speedons.md",
     "Attachments/image-621.webp",
     "Attachments/image-620.webp",
     "Attachments/image-618.webp",
