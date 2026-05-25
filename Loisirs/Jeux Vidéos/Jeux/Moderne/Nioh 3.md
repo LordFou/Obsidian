@@ -12,7 +12,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : [[PC]],[[Playstation 5]]
-- **Franchise** : 
+- **Franchise** : [[Franchise Nioh]]
 - **Genre** : [[Action]], [[RPG]], [[Hack & Slash]]
 - **Résumé** : 
 

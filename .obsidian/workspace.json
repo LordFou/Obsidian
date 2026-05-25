@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Mewgenics.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Nioh 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mewgenics"
+              "title": "Nioh 3"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Mewgeni",
+                "query": "Nioh 3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -208,8 +208,10 @@
   },
   "active": "44eee51ea74afa0d",
   "lastOpenFiles": [
-    "Edmund McMillen.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Mewgenics.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Nioh 3.md",
+    "Franchise Nioh.md",
+    "Edmund McMillen.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/I Hate This Place.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Romeo is a Dead Man.md",
     "Suda51.md",
@@ -233,8 +235,6 @@
     "Loisirs/Internet/Les perles du net.md",
     "Benoit Cosnefroy.md",
     "Tour de Hongrie.md",
-    "Loisirs/Sport/Compétitions/Tour de Cologne.md",
-    "Journal de bord/Archives/2025-05-18.md",
     "Attachments/image-625.webp",
     "Attachments/image-624.webp",
     "Attachments/image-623.webp",
