@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture/Géographie/Ressources Naturelles.md",
+                "file": "Le Pétrole.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ressources Naturelles"
+              "title": "Le Pétrole"
             }
           }
         ]
@@ -206,8 +206,9 @@
   },
   "active": "44eee51ea74afa0d",
   "lastOpenFiles": [
-    "Culture/Le Gaz.md",
     "Culture/Géographie/Ressources Naturelles.md",
+    "Le Pétrole.md",
+    "Culture/Le Gaz.md",
     "Attachments/image-619.webp",
     "conflict-files-obsidian-git.md",
     "Yara Kastelijn.md",
@@ -232,7 +233,6 @@
     "Gamepad Master System.md",
     "GP Criquielon.md",
     "Fredrik Dversnes.md",
-    "David Cage.md",
     "Attachments/image-621.webp",
     "Attachments/image-620.webp",
     "Attachments/image-618.webp",

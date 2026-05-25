@@ -1,0 +1,2 @@
+Situation en temps réel => https://www.worldometers.info/fr/petrole/
+- On y voit que le Venezuela possèdent encore 17% des ressources mondiales => On se demande bien pourquoi [[Donald Trump]] y a déchu Maduro.

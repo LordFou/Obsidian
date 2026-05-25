@@ -1,3 +1,3 @@
 [[Le Gaz]]
 
-Le Pétrole
+[[Le Pétrole]]
