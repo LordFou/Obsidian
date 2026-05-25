@@ -6,12 +6,12 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : Mai 2026 (?)
+- **Année de sortie** : Mai 2026
 - **Développeur** : 
 	- Studio : [[IO Interactive]] 
 	- Personnalités : 
 - **Éditeur** : [[IO Interactive]] 
-- **Plateformes** : PC
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Action]]
 - **Résumé** : Le jeu raconte l'histoire du futur 007 car il est en formation. On suit donc ses premières missions.

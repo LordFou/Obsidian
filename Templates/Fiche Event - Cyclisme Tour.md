@@ -9,16 +9,12 @@ type: event
 
 ## Hommes
 
-### Etapes 
-
-|     | Vainqueur     | Général            | Montagne  | Points            | Jeune          | Remarques                                         |
-| --- | ------------- | ------------------ | --------- | ----------------- | -------------- | ------------------------------------------------- |
-|     |               |                    |           |                   |                |                                                   |
-|     |               |                    |           |                   |                |                                                   |
-|     |               |                    |           |                   |                |                                                   |
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|     |           |         |          |        |       |           |
+|     |           |         |          |        |       |           |
+|     |           |         |          |        |       |           |
 ## Femmes
-
-### Etapes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
 | --- | --------- | ------- | -------- | ------ | ----- | --------- |
@@ -27,10 +23,10 @@ type: event
 
 ### Hommes
 
-
 | Année | Vainqueur | Nationalité | Remarque |
 | ----- | --------- | ----------- | -------- |
 | 2026  |           |             |          |
+|       |           |             |          |
 |       |           |             |          |
 ### Femmes
 

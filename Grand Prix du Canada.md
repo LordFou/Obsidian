@@ -8,10 +8,11 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur           | Nationalité | Remarque                                                             |
-| ----- | ------------------- | ----------- | -------------------------------------------------------------------- |
-| 2025  | [[Georges Russell]] | Anglais     | Crash entre les 2 Mc Laren<br>Premier podium pour [[Kimi Antonelli]] |
-|       |                     |             |                                                                      |
+| Année | Epreuve | Vainqueur           | Nationalité | Remarque                                                             |
+| ----- | ------- | ------------------- | ----------- | -------------------------------------------------------------------- |
+| 2025  | Course  | [[Georges Russell]] | Anglais     | Crash entre les 2 Mc Laren<br>Premier podium pour [[Kimi Antonelli]] |
+| 2026  | Sprint  | [[Georges Russell]] | Anglais     |                                                                      |
+| 2026  | Course  |                     |             |                                                                      |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

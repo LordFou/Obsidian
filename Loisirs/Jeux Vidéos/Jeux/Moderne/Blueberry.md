@@ -33,7 +33,7 @@ tags: mediaDB/game
 - **Éditeur** : [[Hidden Trap]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch]]
 - **Franchise** : 
-- **Genre** : Indie
+- **Genre** : [[Aventure]]
 - **Résumé** :  
 
 ## Détails Techniques

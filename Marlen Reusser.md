@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                                | Résultat | Remarque                           |
 | ----- | ------------------------------------------ | -------- | ---------------------------------- |
 | 2023  | [[Tour de Suisse]] - Classement final      | 1ière    |                                    |
+| 2025  | [[Tour de Burgos]] - Classement final      | 1ière    |                                    |
 | 2025  | [[Tour de Suisse]] - 1e étape              | 1iere    | Sprint à 2 avec [[Demi Vollering]] |
 | 2025  | [[Tour de Suisse]] - 4e étape              | 1ière    |                                    |
 | 2025  | [[Tour de Suisse]] - Classement final      | 1ière    |                                    |

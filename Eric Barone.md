@@ -15,9 +15,9 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
-content:
+date: Mai 2026 
+title: Contre l'IA
+content: Il n'utilisera jamais l'IA générative parce qu'il s'agit d'un non-sens créatif
 ```
 
 

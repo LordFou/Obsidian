@@ -8,7 +8,7 @@ type: personne
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Néerlandaise
-- **Sport / Discipline** :  
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** : [[SD-Worx]]
 - **Période d’activité** :  

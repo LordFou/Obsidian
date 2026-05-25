@@ -35,7 +35,9 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- A subi 2 review bombing
+		- 1 organisé par les chinois qui n'ont pas accès aux serveurs steam pour se plaindre
+		- 1 par des joueurs occidentaux parce que le générique du jeu cite la consultante [[Anita Sarkeesian]], féministe qui est depuis 2012 une cible canonique des mouvements de joueurs réacs'.
 ## Liens et Ressources
 
 | Description | URL |

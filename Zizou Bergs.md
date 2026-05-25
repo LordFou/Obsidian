@@ -37,6 +37,7 @@ type: personne
 | 2026  | [[Tournoi de Madrid]]               | 1e tour               |                                                              |
 | 2026  | [[Tournoi d'Aix-en-Provence]]       | Finale                | Défaite contre [[Alejandro Tabilo]] (ATP 43)                 |
 | 2026  | [[Tournoi de Rome]]                 | 1e tour               | Défaite contre [[Terence Atmane]] (ATP 51)                   |
+| 2026  | [[Roland-Garros]]                   | 1e tour               | Défaite contre [[Tomas Machac]]                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

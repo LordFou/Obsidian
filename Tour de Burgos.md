@@ -9,8 +9,6 @@ type: event
 
 ## Hommes
 
-### Etapes 
-
 |          | Vainqueur            | Général            | Montagne                 | Points          | Jeune               | Remarques |
 | -------- | -------------------- | ------------------ | ------------------------ | --------------- | ------------------- | --------- |
 | 1e (ESP) | [[Roger Adrià]]      | [[Roger Adrià]]    | [[Carlos Garcia Pierna]] | [[Roger Adrià]] | [[Jordan Labrosse]] |           |
@@ -20,10 +18,24 @@ type: event
 | 5e (ITA) | [[Giulio Ciccone]]   | [[Isaac Del Toro]] |                          |                 |                     |           |
 ## Femmes
 
-### Etapes
-
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
 | --- | --------- | ------- | -------- | ------ | ----- | --------- |
+
+# Edition 2026
+
+## Hommes
+
+|          | Vainqueur            | Général            | Montagne                 | Points          | Jeune               | Remarques |
+| -------- | -------------------- | ------------------ | ------------------------ | --------------- | ------------------- | --------- |
+
+## Femmes
+
+|          | Vainqueur          | Général              | Montagne | Points | Jeune | Remarques |
+| -------- | ------------------ | -------------------- | -------- | ------ | ----- | --------- |
+|          |                    |                      |          |        |       |           |
+|          |                    |                      |          |        |       |           |
+|          |                    | [[Mischa Bredewold]] |          |        |       |           |
+| 4e (NDL) | [[Yara Kastelijn]] | [[Yara Kastelijn]]   |          |        |       |           |
 
 # General
 
@@ -35,7 +47,8 @@ type: event
 | 2025  | [[Isaac Del Toro]]  | Mexicain    |          |
 ### Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur          | Nationalité  | Remarque |
+| ----- | ------------------ | ------------ | -------- |
+| 2025  | [[Marlen Reusser]] | Suisse       |          |
+| 2026  | [[Yara Kastelijn]] | Néerlandaise |          |
+|       |                    |              |          |

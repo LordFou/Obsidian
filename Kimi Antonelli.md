@@ -21,6 +21,7 @@ type: personne
 | 2026  | [[Grand Prix du Japon]] - Qualifications | 1ier     |                                  |
 | 2026  | [[Grand Prix du Japon]] - Course         | 1ier     |                                  |
 | 2026  | [[Grand Prix des USA]] - Course          | 1ier     |                                  |
+| 2026  | [[Grand Prix du Canada]] - Sprint        | 3e       |                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

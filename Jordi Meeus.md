@@ -13,22 +13,23 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                    | Résultat | Remarque                        |
-| ----- | ------------------------------ | -------- | ------------------------------- |
-| 2025  | [[Tour d'Algarve]] -  ? étape  | 1ier     | Sprint                          |
-| 2025  | [[Tour de Suisse]] - 6e étape  | 1ier     | Sprint                          |
-| 2025  | [[Sprint de Copenhague]]       | 1ier     | Sprint                          |
-| 2025  | [[Tour de France]] - 17e étape | 2e       | Sprint                          |
-| 2025  | [[Super 8 Classic]]            | 3e       | Sprint                          |
-| 2025  | [[Binche-Chimay-Binche]]       | 1e       | Sprint                          |
-|       |                                |          |                                 |
-| 2026  | [[Tour d'Algarve]] - 1e étape  | 2e       | Sprint                          |
-| 2026  | [[Tour d'Algarve]] - 2e étape  | 2e       | Sprint                          |
-| 2026  | [[Omloop Het Nieuwsblad]]      | 7e       |                                 |
-| 2026  | [[Kuurne Bruxelles Kuurne]]    | 10e      | Sprint costaud vent de face     |
-| 2026  | [[Samyn Classic]]              | 1ier     | Attaque après le dernier virage |
-| 2026  | [[Nokere Koerse]]              | 2e       | Sprint                          |
-| 2026  | [[Classique Dunkerque]]        | 3e       |                                 |
+| Année | Compétition                              | Résultat | Remarque                        |
+| ----- | ---------------------------------------- | -------- | ------------------------------- |
+| 2025  | [[Tour d'Algarve]] -  ? étape            | ==1ier==     | Sprint                          |
+| 2025  | [[Tour de Suisse]] - 6e étape            | ==1ier==     | Sprint                          |
+| 2025  | [[Sprint de Copenhague]]                 | ==1ier==     | Sprint                          |
+| 2025  | [[Tour de France]] - 17e étape           | 2e       | Sprint                          |
+| 2025  | [[Super 8 Classic]]                      | 3e       | Sprint                          |
+| 2025  | [[Binche-Chimay-Binche]]                 | ==1ier== | Sprint                          |
+|       |                                          |          |                                 |
+| 2026  | [[Tour d'Algarve]] - 1e étape            | 2e       | Sprint                          |
+| 2026  | [[Tour d'Algarve]] - 2e étape            | 2e       | Sprint                          |
+| 2026  | [[Omloop Het Nieuwsblad]]                | 7e       |                                 |
+| 2026  | [[Kuurne Bruxelles Kuurne]]              | 10e      | Sprint costaud vent de face     |
+| 2026  | [[Samyn Classic]]                        | ==1ier== | Attaque après le dernier virage |
+| 2026  | [[Nokere Koerse]]                        | 2e       | Sprint                          |
+| 2026  | [[Classique Dunkerque]]                  | 3e       |                                 |
+| 2026  | [[Quatre Jours de Dunkerque]] - 4e étape | ==1ier== | Sprint                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
