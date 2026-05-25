@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-05-26.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Terra Invicta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-26"
+              "title": "Terra Invicta"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Viktor",
+                "query": "Terra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -208,9 +208,14 @@
   },
   "active": "44eee51ea74afa0d",
   "lastOpenFiles": [
+    "Pavonis Interactive.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Terra Invicta.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Valheim.md",
+    "Iron Gate AB.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hytale.md",
+    "Journal de bord/2026-05-26.md",
     "Attachments/image-626.webp",
     "Viktor Orban.md",
-    "Journal de bord/2026-05-26.md",
     "Loisirs/Internet/Les perles du net.md",
     "Benoit Cosnefroy.md",
     "Tour de Hongrie.md",
@@ -230,10 +235,6 @@
     "Tour de Burgos.md",
     "Loisirs/Sport/Lorena Wiebes.md",
     "Natnael Tesfatsion.md",
-    "Rasmus Tiller.md",
-    "Loisirs/Sport/Tour d'Italie.md",
-    "Fredrik Dversnes.md",
-    "Tim Merlier.md",
     "Attachments/image-625.webp",
     "Attachments/image-624.webp",
     "Attachments/image-623.webp",
@@ -242,7 +243,6 @@
     "Attachments/image-621.webp",
     "Attachments/image-620.webp",
     "Attachments/image-618.webp",
-    "Attachments/image-617.webp",
-    "Attachments/image-616.webp"
+    "Attachments/image-617.webp"
   ]
 }

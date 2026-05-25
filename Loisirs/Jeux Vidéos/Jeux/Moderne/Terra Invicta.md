@@ -1,43 +1,40 @@
 ---
 type: game
 subType: ""
-title: Valheim
-englishTitle: Valheim
-year: "2021"
+title: Terra Invicta
+englishTitle: Terra Invicta
+year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/892970
-id: 892970
+url: https://store.steampowered.com/app/1176470
+id: 1176470
 developers:
-  - Iron Gate AB
+  - Pavonis Interactive
 publishers:
-  - Coffee Stain Publishing
+  - Hooded Horse
 genres:
-  - Action
-  - Adventure
-  - Indie
-  - RPG
-  - Early Access
-onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/de0bdcf6c008c508a79d8e75eb91fc67f4bebd5d/header.jpg?t=1765967243
+  - Simulation
+  - Strategy
+onlineRating: 83
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/9423aad2c3bea9a6a0d135e85140ca7e0a2dd804/header.jpg?t=1778778126
 released: true
-releaseDate: 02/02/2021
+releaseDate: 05/01/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/de0bdcf6c008c508a79d8e75eb91fc67f4bebd5d/header.jpg?t=1765967243)
-# Valheim
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/9423aad2c3bea9a6a0d135e85140ca7e0a2dd804/header.jpg?t=1778778126)
+# Terra Invicta
 
 ## Informations Générales
 
-- **Année de sortie** :  2021
+- **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Iron Gate AB]]
+	- Studio : [[Pavonis Interactive]]
 	- Personnalités : 
-- **Éditeur** : [[Coffee Stain Publishing]]
+- **Éditeur** : [[Hooded Horse]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Survie]]
+- **Genre** : Simulation,Strategy
 - **Résumé** :  
 
 ## Détails Techniques
@@ -45,7 +42,7 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 0
+	- Steam Rating : 83
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -64,4 +61,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/892970 |
+| Wiki        | https://store.steampowered.com/app/1176470 |
