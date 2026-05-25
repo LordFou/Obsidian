@@ -15,6 +15,7 @@
 - https://www.chucknorrisfacts.fr/
 - https://www.excusesde.dev/
 - https://thetruesize.com/
+- https://rothko.joonas.wtf/ => Peinture créée sur b
 
 ## Outils
 - https://2025.gamesrecap.io/
@@ -33,4 +34,4 @@
 
 
 # Data
-![[image-190.webp]]
+![[imag

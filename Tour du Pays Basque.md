@@ -10,8 +10,6 @@ type: event
 
 ## Hommes
 
-### Etapes 
-
 |          | Vainqueur         | Général         | Montagne        | Points          | Jeune           | Remarques                       |
 | -------- | ----------------- | --------------- | --------------- | --------------- | --------------- | ------------------------------- |
 | 1e (FRA) | [[Paul Seixas]]   | [[Paul Seixas]] |                 |                 |                 | CLM<br>5e - [[Ilan Van Wilder]] |
@@ -22,10 +20,11 @@ type: event
 | 6e (USA) | [[August Andrew]] | [[Paul Seixas]] | [[Paul Seixas]] | [[Paul Seixas]] | [[Paul Seixas]] |                                 |
 ## Femmes
 
-### Etapes
-
-|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
-| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|          | Vainqueur               | Général              | Montagne | Points | Jeune | Remarques |
+| -------- | ----------------------- | -------------------- | -------- | ------ | ----- | --------- |
+| 1e (NDL) | [[Mischa Bredewold]]    | [[Mischa Bredewold]] |          |        |       |           |
+| 2e       | [[Dominika Włodarczyk]] | [[Mischa Bredewold]] |          |        |       |           |
+| 3e       | [[Dominika Włodarczyk]] | [[Mischa Bredewold]] |          |        |       |           |
 
 # General
 

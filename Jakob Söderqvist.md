@@ -15,6 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                            | Résultat | Remarque |
 | ----- | -------------------------------------- | -------- | -------- |
+| 2026  | [[Tour de Hongrie]] - 4e étape         | 1ier     |          |
 | 2026  | [[Tour de Hongrie]] - Classement final | 1ier     |          |
 
 # Style et Caractéristiques
