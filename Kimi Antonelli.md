@@ -42,6 +42,7 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 		- La victoire
 		- La pole 
 		- Le tour le plus rapide. 
+- Premier pilote à glaner ses quatre premiers succès de manière consécutive
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
