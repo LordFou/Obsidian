@@ -27,7 +27,7 @@ content:
 | Année | Titre               |
 | ----- | ------------------- |
 | 2025  | [[Ninja Gaiden 4]]  |
-|       | Nioh                |
+| 2026  | [[Nioh 3]]          |
 |       | [[Dead or Alive 7]] |
 
 ## Moteur(s) Utilisé(s)

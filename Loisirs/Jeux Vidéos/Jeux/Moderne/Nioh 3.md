@@ -8,9 +8,9 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : [[KOEI TECMO GAMES]]
+	- Studio : [[Team Ninja]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[KOEI TECMO GAMES]]
 - **Plateformes** : [[PC]],[[Playstation 5]]
 - **Franchise** : [[Franchise Nioh]]
 - **Genre** : [[Action]], [[RPG]], [[Hack & Slash]]
@@ -22,6 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- 7/10 (CheckPoint)
+	- Canard Pc (7/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
