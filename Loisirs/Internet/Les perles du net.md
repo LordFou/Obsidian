@@ -15,7 +15,7 @@
 - https://www.chucknorrisfacts.fr/
 - https://www.excusesde.dev/
 - https://thetruesize.com/
-- https://rothko.joonas.wtf/ => Peinture créée sur b
+- https://rothko.joonas.wtf/ => Peinture Rothko créée sur base de la météo dans sa ville
 
 ## Outils
 - https://2025.gamesrecap.io/
@@ -34,4 +34,4 @@
 
 
 # Data
-![[imag
+![[image-190.webp]]
