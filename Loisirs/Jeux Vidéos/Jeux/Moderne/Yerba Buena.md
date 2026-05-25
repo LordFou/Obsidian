@@ -41,12 +41,14 @@ tags: mediaDB/game
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : (Type de musique, Bande-son notable)
+- **Audio** : 
+	- Ambiance psychédélique et une bande-son groovy
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- CheckPoint (8/10)
+		- Le jeu déborde de bonnes idées, d’identité et d’inventivité
+		- Il manque d’énergie dans son rythme et sa finition
 - **Gameplay** :
-	- l’Oscillator utilisé par l'héroïne est un dispositif permettant de copier et coller les mouvements et propriétés physiques des objets du décor.
-	- Dimension d'un jeu dans le jeu,
+	- l’Oscillator utilisé par l'héroïne est un dispositif permettant de copier et coller les mouvements et propriétés physiques des objets du décor (Ex : utiliser la vapeur pour rendre des objets traversables)
 - **Durée estimée** : 
 
 ## Histoire et Univers
@@ -69,3 +71,4 @@ tags: mediaDB/game
 | ----------- | ------------------------------------------------ |
 | Steam       | https://store.steampowered.com/app/2330110       |
 | Trailer     | https://youtu.be/cZgim-KYkZQ?si=xEwBB-BrokXXiYPX |
+![[image-623.webp|500x313]]

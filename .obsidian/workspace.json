@@ -13,13 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Yerba Buena.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Stonemachia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yerba Buena"
-            }
+              "title": "Stonemachia"
+            },
+            "group": "e973de17a090d3f7"
+          }
+        ]
+      },
+      {
+        "id": "bacbf1d92892b504",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70f5258a13fc9bb8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Stonemachia.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graphique de Stonemachia"
+            },
+            "group": "e973de17a090d3f7"
           }
         ]
       }
@@ -53,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Yerba",
+                "query": "Stonemachia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,8 +252,12 @@
   },
   "active": "44eee51ea74afa0d",
   "lastOpenFiles": [
-    "Mad About Pandas.md",
+    "Les échecs.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Stonemachia.md",
+    "Crossfall Games.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Yerba Buena.md",
+    "Attachments/image-623.webp",
+    "Mad About Pandas.md",
     "Dries De Bondt.md",
     "Loisirs/Sport/Antwerp Port Epic.md",
     "Per Strand Hagenes.md",
@@ -232,16 +281,12 @@
     "Culture/Le Gaz.md",
     "Attachments/image-619.webp",
     "conflict-files-obsidian-git.md",
-    "Yara Kastelijn.md",
-    "Spellcasters Chronicles.md",
-    "Red Hook.md",
     "Attachments/image-621.webp",
     "Attachments/image-620.webp",
     "Attachments/image-618.webp",
     "Attachments/image-617.webp",
     "Attachments/image-616.webp",
     "Attachments/image-615.webp",
-    "Attachments/image-614.webp",
-    "Attachments/image-613.webp"
+    "Attachments/image-614.webp"
   ]
 }

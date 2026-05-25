@@ -45,14 +45,18 @@ tags: mediaDB/game
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
 - **Gameplay** :
+	- Le héros est capable de se transformer en différentes pièces d’échecs, chacune apportant ses propres capacités de combat
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Zefiro
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- Art italien
+	- [[Les échecs]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
