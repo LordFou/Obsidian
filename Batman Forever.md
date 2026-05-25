@@ -11,7 +11,7 @@ type: game
 	- Studio : [[Probe]]
 	- Personnalités : 
 - **Éditeur** : [[Acclaim Entertainement]]
-- **Plateformes** : [[SNES]],[[Megadrive]]
+- **Plateformes** : [[SNES]],[[Mega Drive]]
 - **Franchise** :  [[Franchise Batman]]
 - **Genre** :
 - **Résumé** : 

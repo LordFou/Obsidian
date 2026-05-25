@@ -9,7 +9,7 @@
 	- Personnalités : 
 		- [[Roger Hector]] (Superviseur)
 - **Éditeur** : 
-- **Plateformes** : [[Megadrive]]
+- **Plateformes** : [[Mega Drive]]
 - **Franchise** : 
 - **Genre** :
 - **Résumé** : 

@@ -11,3 +11,4 @@ Chanteur, King of The Pop
 | 1999  | [[Space Channel 5]]                  | Il incarne Space Michael                                                                                    |
 | 2000  | [[Ready 2 Rumble Boxing - Round 2]]  | Personnage caché                                                                                            |
 | 2010  | [[Michael Jackson - The Experience]] | Jeu Posthume                                                                                                |
+|       | [[Sonic the Hedgehog 3]]             | Il a travaillé sur l'audio mais il y a encore débat                                                         |

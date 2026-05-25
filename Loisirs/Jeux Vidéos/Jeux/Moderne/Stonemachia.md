@@ -40,12 +40,16 @@ tags: mediaDB/game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 
+	- la direction artistique marquante et singulière est inspirée de l’Italie classique 
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 0
+- **Réception critique** : 
+	- CheckPoint (7/10)
+		- jeu débordant de vision créative, d’audace mécanique et de personnalité artistique.
+		- expérience qui ose beaucoup, réussit souvent, trébuche parfois.
 - **Gameplay** :
 	- Le héros est capable de se transformer en différentes pièces d’échecs, chacune apportant ses propres capacités de combat
+	- Le jeu repose sur un système de combat précis, punitif et profondément gratifiant.
 - **Durée estimée** : 
 
 ## Histoire et Univers

@@ -8,10 +8,10 @@ type: game
 
 - **Année de sortie** : 1994
 - **Développeur** : 
-	- Studio : [[Konami]] ([[SNES]]), [[Clockwork Tortoise]] ([[Megadrive]])
+	- Studio : [[Konami]] ([[SNES]]), [[Clockwork Tortoise]] ([[Mega Drive]])
 	- Personnalités : 
-- **Éditeur** : [[Konami]]([[SNES]]), [[Sega]]([[Megadrive]])
-- **Plateformes** : [[SNES]] (1994), [[Megadrive]] (1995)
+- **Éditeur** : [[Konami]]([[SNES]]), [[Sega]]([[Mega Drive]])
+- **Plateformes** : [[SNES]] (1994), [[Mega Drive]] (1995)
 - **Franchise** : [[Franchise Batman]]
 - **Genre** : [[Plateforme]], [[Action]]
 - **Résumé** : il est inspiré de la série animée Batman: The Animated Series, renommée à l’époque The Adventures of Batman & Robin. Ce titre se distingue par sa fidélité à l’esthétique et à l’atmosphère du dessin animé culte des années 1990.

@@ -83,7 +83,7 @@ Lister les prix et reconnaissances obtenues.
 # Anecdotes
 - Premières consoles
 	- [[NES]] 
-	- [[Megadrive]]
+	- [[Mega Drive]]
 - Premiers jeux
 	- Final Fantasy VII
 	- Suikoden
