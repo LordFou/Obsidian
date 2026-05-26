@@ -8,7 +8,7 @@ type: personne
 - Programmeur expérimenté sur [[Commodore 64]]
 - Il a écrit plusieurs ouvrages sur la programmation
 - Il a été engagé chez [[Domark]], studio très impressionné, après avoir travaillé sur la traduction du jeu [[A View To A Kill]] en éditant le code octet par octet et en corrigeant quelques bugs au passage. 
-- 
+- Quelques années plus tard, il aidera [[Cascade Games]] car il n'avançait pas assez vite 
 
 ## Informations Générales
 - **Date de naissance** :  

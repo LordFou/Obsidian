@@ -10,6 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Domark]]
 	- Personnalités : 
+		- [[Mark Greenshields]]
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
@@ -39,6 +40,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | {{ url }} |
+| Description | URL                                        |
+| ----------- | ------------------------------------------ |
+| Short       | https://www.youtube.com/shorts/saJK2m8g7DI |
