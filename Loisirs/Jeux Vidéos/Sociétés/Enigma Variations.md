@@ -5,23 +5,27 @@ type: societe
 # Enigma Variations
 
 ## Présentation
-Studio indépendant très prolifique a la fin des années 80, début des 90. Principalement des jeux micros basés sur des licences d'émissions jeunesse ou des portages de grosses pointures sur consoles [[Nintendo]].
+- Studio indépendant très prolifique a la fin des années 80, début des 90. Principalement des jeux micros basés sur des licences d'émissions jeunesse ou des portages de grosses pointures sur consoles [[Nintendo]].
+- Ils négocieront des accords avec plusieurs éditeurs locaux comme Alternative Software, 
 
 ## Informations Générales
-- **Nom complet** :  Enigma Variations
-- **Date de création** :  
+- **Nom complet** :  Enigma Variations (nom provenant d'une oeuvre symphonique d'[[Edward Elgar]])
+- **Date de création** :  1988
 - **Fondateurs** :  
-- **Personnalités** :
 	- [[Mark Greenshields]]
+	- [[Richard Naylor]]
+- **Personnalités** :
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
+date: 1988
+title: Fondation de la société 
 content:
+
+
 ```
 
 ## Jeux Développés

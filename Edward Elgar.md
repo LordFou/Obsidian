@@ -2,27 +2,22 @@
 type: personne
 ---
 
-# Mark Greenshields
+# Edward Elgar
 
 ## Présentation
-- Programmeur expérimenté sur [[Commodore 64]]
-- Il a écrit plusieurs ouvrages sur la programmation
-- Il a été engagé chez [[Domark]], studio très impressionné, après avoir travaillé sur la traduction du jeu [[A View To A Kill]] en éditant le code octet par octet et en corrigeant quelques bugs au passage. 
-- Quelques années plus tard, il aidera [[Cascade Games]] car il n'avançait pas assez vite sur le jeu inspiré de la chanson [Nineteen](https://open.spotify.com/track/4YNyU0vEEC5grHkHnO9lhF) de [[Paul Hardcastle]]
-- [[Cascade Games]] l'embauchera à plein temps mais cela ne durera pas longtemps car la société rencontrera des difficultés financières
+Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
 
 ## Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  
-- **Profession(s)** : 
-	- Programmeur chez [[Probe]], [[Domark]], [[Paranoïd Software]], [[QuickSilva]], [[Cascade Games]]
+- **Profession(s)** : (Développeur, Designer, Compositeur, Journaliste, etc.)  
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 
 ```timeline-labeled
 [line-5, body-2]
-date: 1988 
-title: Création de [[Enigma Variations]] 
-content: [[Mark Greenshields]] et [[Richard Naylor]] fondent la société, le nom provenant d'une oeuvre symphonique d'[[Edward Elgar]]
+date:  
+title: 
+content:
 ```
 
 
