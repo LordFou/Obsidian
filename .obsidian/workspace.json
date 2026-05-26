@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "886848d94440fcd0",
+    "id": "125a04c033baea84",
     "type": "split",
     "children": [
       {
-        "id": "63dc71c06b3eca43",
+        "id": "2f5f4fb701c3a532",
         "type": "tabs",
         "children": [
           {
-            "id": "44eee51ea74afa0d",
+            "id": "1e224e909d6c4701",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/TR-49.md",
+                "file": "Journal de bord/2026-05-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TR-49"
+              "title": "2026-05-26"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7057d73fa22d2a54",
+    "id": "7447b8104e01b28b",
     "type": "split",
     "children": [
       {
-        "id": "9f40bde2dd7296ee",
+        "id": "b394191a6bc9af71",
         "type": "tabs",
         "children": [
           {
-            "id": "f96492dc49ab3580",
+            "id": "3d67b648b990b4f5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,24 +48,24 @@
             }
           },
           {
-            "id": "83492078db4b31eb",
+            "id": "571b06dbd1c46b81",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "TR-49",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
               "title": "Rechercher"
             }
           },
           {
-            "id": "ec802b8a3c6365f8",
+            "id": "d39db93a288b84a9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,39 +73,28 @@
               "icon": "lucide-bookmark",
               "title": "Signets"
             }
-          },
-          {
-            "id": "9a0762e513160310",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 300
   },
   "right": {
-    "id": "0e1075fc88e7c790",
+    "id": "6163af4f8151e8b9",
     "type": "split",
     "children": [
       {
-        "id": "ba849d9b01e5dba8",
+        "id": "c995bfb2d8a69ba6",
         "type": "tabs",
         "children": [
           {
-            "id": "d8916572f62a9441",
+            "id": "0854f7457f8280a1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+                "file": "Journal de bord/2026-05-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Tour d'Espagne"
+              "title": "Rétrolien pour 2026-05-26"
             }
           },
           {
-            "id": "88249b0f17b66e31",
+            "id": "f3bbca83208d0666",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+                "file": "Journal de bord/2026-05-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Tour d'Espagne"
+              "title": "Liens sortants de 2026-05-26"
             }
           },
           {
-            "id": "475e74975a3e35af",
+            "id": "199227995a5bda3a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,22 +137,22 @@
             }
           },
           {
-            "id": "393c119236bd3eef",
+            "id": "5be8448264f8050e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+                "file": "Journal de bord/2026-05-26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Tour d'Espagne"
+              "title": "Plan de 2026-05-26"
             }
           },
           {
-            "id": "778ba1dd29f324f9",
+            "id": "2af761ab065aafdd",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -173,7 +162,7 @@
             }
           },
           {
-            "id": "a2072e27471fd92c",
+            "id": "720770048378678f",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -187,11 +176,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -202,46 +190,10 @@
       "bases:Créer une nouvelle base": false,
       "obsidian-media-db-plugin:Add new Media DB entry": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "44eee51ea74afa0d",
-  "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Nioh 3.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/TR-49.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Roottrees are  Dead.md",
-    "Team Ninja.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Mewgenics.md",
-    "Franchise Nioh.md",
-    "Edmund McMillen.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/I Hate This Place.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Romeo is a Dead Man.md",
-    "Suda51.md",
-    "Tarsier Studio.md",
-    "REANIMAL.md",
-    "Fabraz.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Demon Tides.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Styx - Blades of Greed.md",
-    "Franchise Styx.md",
-    "Shards of Darkness.md",
-    "Master of Shadows.md",
-    "Cyanide.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Terra Invicta.md",
-    "Pavonis Interactive.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Valheim.md",
-    "Iron Gate AB.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hytale.md",
-    "Journal de bord/2026-05-26.md",
-    "Attachments/image-626.webp",
-    "Viktor Orban.md",
-    "Attachments/image-625.webp",
-    "Attachments/image-624.webp",
-    "Attachments/image-623.webp",
-    "Attachments/image-622.webp",
-    "Attachments/image-619.webp",
-    "Attachments/image-621.webp",
-    "Attachments/image-620.webp",
-    "Attachments/image-618.webp",
-    "Attachments/image-617.webp"
-  ]
+  "active": "1e224e909d6c4701",
+  "lastOpenFiles": []
 }
