@@ -9,11 +9,11 @@ type: game
 
 - **Année de sortie** :  Kickstarter depuis 2012
 - **Développeur** : 
-	- Studio : {{ developers }}
+	- Studio : [[Cloud Imperium Games]]
 	- Personnalités : 
 		- [[Chris Roberts]]
 - **Éditeur** : {{ publishers }}
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : {{ genres }}
 - **Résumé** :  
@@ -37,7 +37,8 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- En mai 2025, le jeu dépassera le budget d'un milliard de dollars et fêtera tout ça en vendant un vaisseau de plus à 5000$...
+  ![[image-628.webp|500x261]]
 ## Liens et Ressources
 
 | Description | URL       |
