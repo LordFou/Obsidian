@@ -1,15 +1,16 @@
 ---
 type: game
 ---
-![[image-632.webp|339x440]]
-# Extreme
+
+# Real Stunts Experts
 
 ## Informations Générales
 
-- **Année de sortie** :  1991
+Inspiré de la série des [[Années 80]], [[l'Homme qui tombe à pic]]
+
+- **Année de sortie** :  {{ year }}
 - **Développeur** : 
-	- Studio : 
-		- [[Enigma Variations]] (Portage [[Commodore 64]])
+	- Studio : {{ developers }}
 	- Personnalités : 
 - **Éditeur** : {{ publishers }}
 - **Plateformes** : 
