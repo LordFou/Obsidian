@@ -1,19 +1,19 @@
 ---
 type: game
 ---
-
+![[image-633.webp|285x440]]
 # Real Stunts Experts
 
 ## Informations Générales
 
 Inspiré de la série des [[Années 80]], [[l'Homme qui tombe à pic]]
 
-- **Année de sortie** :  {{ year }}
+- **Année de sortie** :  1989
 - **Développeur** : 
-	- Studio : {{ developers }}
+	- Studio : [[Enigma Variations]]
 	- Personnalités : 
-- **Éditeur** : {{ publishers }}
-- **Plateformes** : 
+- **Éditeur** : [[Alternative Software]]
+- **Plateformes** : [[Amstrad CPC]], [[Commode 16 Plus 4]]
 - **Franchise** : 
 - **Genre** : {{ genres }}
 - **Résumé** :  
