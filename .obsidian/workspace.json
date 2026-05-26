@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "James Bond.md",
+                "file": "A View To A Kill.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "James Bond"
+              "title": "A View To A Kill"
             }
           }
         ]
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "James Bond.md",
+                "file": "A View To A Kill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour James Bond"
+              "title": "Rétrolien pour A View To A Kill"
             }
           },
           {
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "James Bond.md",
+                "file": "A View To A Kill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de James Bond"
+              "title": "Liens sortants de A View To A Kill"
             }
           },
           {
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "James Bond.md",
+                "file": "A View To A Kill.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de James Bond"
+              "title": "Plan de A View To A Kill"
             }
           },
           {
@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,8 +206,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94b2d6d483a6fa66",
+  "active": "1e224e909d6c4701",
   "lastOpenFiles": [
+    "James Bond.md",
     "A View To A Kill.md",
     "Attachments/image-631.webp",
     "Attachments/image-630.webp",
@@ -223,7 +225,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Star Citizen.md",
     "Attachments/image-628.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/007 First Light.md",
-    "James Bond.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/GoldenEye 007.md",
     "Bungie.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Destiny 2.md",
