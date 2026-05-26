@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
+                "file": "Paranoïd Software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enigma Variations"
+              "title": "Paranoïd Software"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
+                "file": "Paranoïd Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Enigma Variations"
+              "title": "Rétrolien pour Paranoïd Software"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
+                "file": "Paranoïd Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Enigma Variations"
+              "title": "Liens sortants de Paranoïd Software"
             }
           },
           {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
+                "file": "Paranoïd Software.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Enigma Variations"
+              "title": "Plan de Paranoïd Software"
             }
           },
           {
@@ -208,6 +208,14 @@
   },
   "active": "1e224e909d6c4701",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Hades Nebula.md",
+    "Paranoïd Software.md",
+    "Mark Greenshields.md",
+    "Domark.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Split Personalities.md",
+    "Probe.md",
+    "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
+    "Attachments/image-629.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Star Citizen.md",
     "Attachments/image-628.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/007 First Light.md",

@@ -1,7 +1,7 @@
 ---
 type: societe
 ---
-
+![[image-629.webp|Logo de 1987 à 1993|360x132]]
 # Enigma Variations
 
 ## Présentation

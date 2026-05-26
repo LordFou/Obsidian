@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Domark
+# Paranoïd Software
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -12,8 +12,6 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-	- [[Mark Greenshields]]
-	- [[Dominic Wheatley]]
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
@@ -26,10 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                   |
-| ----- | ----------------------- |
-| XXXX  | [[A View To A Kill]]    |
-|       | [[Split Personalities]] |
+| Année | Titre            |
+| ----- | ---------------- |
+| XXXX  | [[Hades Nebula]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
