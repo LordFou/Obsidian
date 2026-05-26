@@ -2,19 +2,15 @@
 type: personne
 ---
 
-# Mark Greenshields
+# Paul Hardcastle
 
 ## Présentation
-- Programmeur expérimenté sur [[Commodore 64]]
-- Il a écrit plusieurs ouvrages sur la programmation
-- Il a été engagé chez [[Domark]], studio très impressionné, après avoir travaillé sur la traduction du jeu [[A View To A Kill]] en éditant le code octet par octet et en corrigeant quelques bugs au passage. 
-- Quelques années plus tard, il aidera [[Cascade Games]] car il n'avançait pas assez vite sur le jeu inspiré de la chanson [Nineteen](https://open.spotify.com/track/4YNyU0vEEC5grHkHnO9lhF) de [[Paul Hardcastle]]
+Chanteur => https://open.spotify.com/intl-fr/artist/0SgDfSfWqkZMW96aT2oQZ1
 
 ## Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  
-- **Profession(s)** : 
-	- Programmeur chez [[Probe]], [[Domark]], [[Paranoïd Software]], [[QuickSilva]], [[Cascade Games]]
+- **Profession(s)** : (Développeur, Designer, Compositeur, Journaliste, etc.)  
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 
 ```timeline-labeled
