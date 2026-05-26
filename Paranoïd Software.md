@@ -26,7 +26,7 @@ content:
 ## Jeux Développés
 | Année | Titre            |
 | ----- | ---------------- |
-| XXXX  | [[Hades Nebula]] |
+| 1987  | [[Hades Nebula]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

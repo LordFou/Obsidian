@@ -1,11 +1,14 @@
-
+---
+type: game
+---
+![[image-631.webp|500x678]]
 # A View To A Kill
 
 ## Informations Générales
 
-- **Année de sortie** :  
+- **Année de sortie** :  1985
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Domark]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
@@ -26,6 +29,7 @@
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- [[James Bond]]
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :

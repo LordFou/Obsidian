@@ -12,6 +12,7 @@ type: personne
 
 | Titre                        | Plateforme                                 | Année |                                                                                                     |
 | ---------------------------- | ------------------------------------------ | ----- | --------------------------------------------------------------------------------------------------- |
+| [[A View To A Kill]]         | [[ZX Spectrum]]                            | 1985  |                                                                                                     |
 | [[GoldenEye 007]]            | [[Nintendo 64]]                            | 1997  | Une référence dans l'évolution du jeu vidéo => nouveau style de FPS avec infiltration et espionnage |
 | 007 : Demain ne meurt jamais |                                            | 1999  |                                                                                                     |
 | Le monde ne suffit pas       | [[Nintendo 64]], [[Playstation]]           | 2000  |                                                                                                     |
