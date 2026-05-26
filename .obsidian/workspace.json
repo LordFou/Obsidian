@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bungie.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/007 First Light.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bungie"
+              "title": "007 First Light"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gamepad",
+                "query": "007",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bungie.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/007 First Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Bungie"
+              "title": "Rétrolien pour 007 First Light"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bungie.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/007 First Light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Bungie"
+              "title": "Liens sortants de 007 First Light"
             }
           },
           {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bungie.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/007 First Light.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Bungie"
+              "title": "Plan de 007 First Light"
             }
           },
           {
@@ -171,9 +171,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "94b2d6d483a6fa66",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -195,8 +205,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "571b06dbd1c46b81",
+  "active": "1e224e909d6c4701",
   "lastOpenFiles": [
+    "James Bond.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/007 First Light.md",
+    "Bungie.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Destiny 2.md",
     "Hanne Vandewinkel.md",
     "Attachments/image-627.webp",

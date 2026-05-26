@@ -13,14 +13,18 @@ type: game
 - **Éditeur** : [[IO Interactive]] 
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Action]]
-- **Résumé** : Le jeu raconte l'histoire du futur 007 car il est en formation. On suit donc ses premières missions.
+- **Genre** : [[Action]], [[Aventure]]
+- **Résumé** : Le jeu raconte l'histoire du futur 007 car il est en formation. On suit donc ses premières missions. Le jeune Bond apparaît plus vulnérable, impulsif et humain que dans ses incarnations habituelles, ce qui donne davantage de relief à son évolution.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- CheckPoint (9/10)
+		- Le jeu réussit à reprendre tous les codes de l'univers de [[James Bond]]
+		- L’écriture et la mise en scène sont élégantes, stylées et constamment captivantes.
+		- Certains affrontements sont jugés moins aboutis que les phases d’infiltration avec des combats au corps-à-corps parfois rigides ou confus 
 - **Gameplay** :
 - **Durée estimée** : 
 
