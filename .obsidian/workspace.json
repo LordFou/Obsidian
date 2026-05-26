@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
+                "file": "Andy Swann.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enigma Variations"
+              "title": "Andy Swann"
             }
           }
         ]
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
+                "file": "Andy Swann.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Enigma Variations"
+              "title": "Rétrolien pour Andy Swann"
             }
           },
           {
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
+                "file": "Andy Swann.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Enigma Variations"
+              "title": "Liens sortants de Andy Swann"
             }
           },
           {
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
+                "file": "Andy Swann.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Enigma Variations"
+              "title": "Plan de Andy Swann"
             }
           },
           {
@@ -208,8 +208,14 @@
   },
   "active": "1e224e909d6c4701",
   "lastOpenFiles": [
-    "Edward Elgar.md",
     "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
+    "Andy Swann.md",
+    "David Bowler.md",
+    "Shaun McClure.md",
+    "Wise Owl Software.md",
+    "Super Skills.md",
+    "Gary Lineker.md",
+    "Edward Elgar.md",
     "Mark Greenshields.md",
     "A View To A Kill.md",
     "Cascade Games.md",
@@ -232,12 +238,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Destiny 2.md",
     "Hanne Vandewinkel.md",
     "Attachments/image-627.webp",
-    "Zizou Bergs.md",
-    "Raphaël Collignon.md",
-    "Alexander Blockx.md",
-    "Loisirs/Sport/Tour d'Italie.md",
-    "Loisirs/Sport/Casper van Uden.md",
-    "Loisirs/Sport/Elisa Longo Borghini.md",
-    "Loisirs/Sport/Sportifs/Elisa Longo Borghini.md"
+    "Zizou Bergs.md"
   ]
 }
