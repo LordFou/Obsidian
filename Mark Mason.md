@@ -2,13 +2,10 @@
 type: personne
 ---
 
-# Andy Swann
+# Mark Mason
 
 ## Présentation
-- A 16 ans, il présente un jeu à la société [[Domark]]. Malgré leur refus, c'est là qu'il rencontrera pour la première fois [[Richard Naylor]] qui lui donnera des conseils techniques un exemplaire de [[The Living Daylights]].
-- Bien décidé à devenir programmeur à plein temps, il passera un entretien qui n'aboutira pas chez [[Rare]].
-- Passé à la programmation ST, il recevra un coup de fil de [[Richard Naylor]] lui demandant s'il pouvait encore programmer sur [[ZX Spectrum]]. A partir de là, il fut engagé par [[Enigma Variations]].
-- [[Mark Mason]] lui apprendra l'initie au [[Programmers Development System]] (PDS)
+Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
 
 ## Informations Générales
 - **Date de naissance** :  

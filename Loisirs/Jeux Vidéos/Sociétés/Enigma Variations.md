@@ -17,7 +17,8 @@ type: societe
 - **Personnalités** :
 	- [[Shaun McClure]] (Graphiste)
 	- [[David Bowler]]
-	- [[Andy Swann]]
+	- [[Andy Swann]] (Programmeur)
+	- [[Mark Mason]] (Programmeur)
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
@@ -32,9 +33,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre      |
-| ----- | ---------- |
-| XXXX  | Nom du jeu |
+| Année | Titre       | Remarque                                                  |
+| ----- | ----------- | --------------------------------------------------------- |
+| XXXX  | [[Extreme]] | Portage sur [[Commodore 64]] pour [[Digital Integration]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

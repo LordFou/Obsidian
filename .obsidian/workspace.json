@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andy Swann.md",
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Andy Swann"
+              "title": "Enigma Variations"
             }
           }
         ]
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Swann.md",
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Andy Swann"
+              "title": "Rétrolien pour Enigma Variations"
             }
           },
           {
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andy Swann.md",
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Andy Swann"
+              "title": "Liens sortants de Enigma Variations"
             }
           },
           {
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andy Swann.md",
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Andy Swann"
+              "title": "Plan de Enigma Variations"
             }
           },
           {
@@ -208,8 +208,12 @@
   },
   "active": "1e224e909d6c4701",
   "lastOpenFiles": [
+    "Extreme.md",
     "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
+    "Digital Integration.md",
     "Andy Swann.md",
+    "Programmers Development System.md",
+    "Mark Mason.md",
     "David Bowler.md",
     "Shaun McClure.md",
     "Wise Owl Software.md",
@@ -234,10 +238,6 @@
     "Attachments/image-628.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/007 First Light.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/GoldenEye 007.md",
-    "Bungie.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Destiny 2.md",
-    "Hanne Vandewinkel.md",
-    "Attachments/image-627.webp",
-    "Zizou Bergs.md"
+    "Attachments/image-627.webp"
   ]
 }
