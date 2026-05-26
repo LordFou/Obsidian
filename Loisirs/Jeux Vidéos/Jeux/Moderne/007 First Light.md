@@ -25,6 +25,7 @@ type: game
 		- Le jeu réussit à reprendre tous les codes de l'univers de [[James Bond]]
 		- L’écriture et la mise en scène sont élégantes, stylées et constamment captivantes.
 		- Certains affrontements sont jugés moins aboutis que les phases d’infiltration avec des combats au corps-à-corps parfois rigides ou confus 
+		- Une référence pour la Franchise [[James Bond]]
 - **Gameplay** :
 - **Durée estimée** : 
 
