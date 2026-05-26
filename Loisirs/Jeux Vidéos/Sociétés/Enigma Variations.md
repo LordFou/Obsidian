@@ -33,11 +33,11 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                   | Remarque                                                  |
-| ----- | ----------------------- | --------------------------------------------------------- |
-| 1989  | [[Real Stunts Experts]] | Inspirée de la série [[l'Homme qui tombe à pic]]          |
-| 1991  | [[Extreme]]             | Portage sur [[Commodore 64]] pour [[Digital Integration]] |
-| 1989  | Count Duckula           | Basé sur le dessin animé Comte Mordicus                   |
+| Année | Titre                   | Remarque                                                                            |
+| ----- | ----------------------- | ----------------------------------------------------------------------------------- |
+| 1989  | [[Real Stunts Experts]] | Inspirée de la série [[l'Homme qui tombe à pic]]                                    |
+| 1989  | [[Count Duckula]]       | Basé sur le dessin animé [Comte Mordicus](https://www.imdb.com/fr/title/tt0088500/) |
+| 1991  | [[Extreme]]             | Portage sur [[Commodore 64]] pour [[Digital Integration]]                           |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
