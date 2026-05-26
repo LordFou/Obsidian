@@ -20,7 +20,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 [line-5, body-2]
 date: Mai 2026
 title: Fin du dev de [[Destiny 2]]
-content: Pas me de mise à pied font dire que le jeu service va stopper sa phase de développement.
+content: Pas mal de mises à pied font dire que le jeu service va stopper sa phase de développement. Apparemment les licenciés l'ont appris en même temps que la presse alors que cette décision était prise depuis le début de l'année.
 ```
 
 ## Jeux Développés

@@ -1,11 +1,11 @@
 ---
 type: personne
 ---
-![[image-167.webp]]
+![[image-627.webp|500x281]]
 # Hanne Vandewinkel
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  2005
 - **Nationalité** :  Belge
 - **Sport / Discipline** :  [[Tennis]]
 - **Poste / Spécialité** (si applicable) :  
@@ -14,12 +14,12 @@ type: personne
 - **Top Ranking** : 94e
 
 # Palmarès et Distinctions
-| Année | Compétition                                        | Résultat   | Remarque             |
-| ----- | -------------------------------------------------- | ---------- | -------------------- |
-| 2025  | [[WTA - Tournoi de Tampico]]                       | Vainqueure |                      |
-|       |                                                    |            |                      |
-| 2026  | [[Billie Jean King Cup]] - 1/8 finale - 1ier match | Vainqueure | contre [[Iva Jovic]] |
-|       |                                                    |            |                      |
+| Année | Compétition                                        | Résultat   | Remarque                                  |
+| ----- | -------------------------------------------------- | ---------- | ----------------------------------------- |
+| 2025  | [[WTA - Tournoi de Tampico]]                       | Vainqueure |                                           |
+|       |                                                    |            |                                           |
+| 2026  | [[Billie Jean King Cup]] - 1/8 finale - 1ier match | Vainqueure | contre [[Iva Jovic]]                      |
+| 2026  | [[Roland-Garros]]                                  | 1e tour    | Défaite contre# [[Madison Keys]] (WTA 19) |
 
 # Style et Caractéristiques
 - Fan de [[Cyclisme]] et de [[Wout Van Aert]]
