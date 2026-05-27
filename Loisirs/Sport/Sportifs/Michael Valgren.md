@@ -28,7 +28,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Le 19 juin 2022, il a frôlé le pire lorsqu’il a chuté dans une descente et basculé dans un ravin peu après le départ de la quatrième et dernière étape de la Route d’Occitanie aux Angles.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
