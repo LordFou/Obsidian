@@ -13,11 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                       | Résultat | Remarque           |
-| ----- | ----------------------------------------------------------------- | -------- | ------------------ |
-| 2018  | [[Omloop Het Nieuwsblad]]                                         | 1ier     |                    |
-| 2018  | [[Loisirs/Sport/Compétitions/Amstel Gold Race\|Amstel Gold Race]] | 1ier     |                    |
-| 2026  | [[Tirreno-Adriatico]] - 5e                                        | 1ier     | 3800m de dénivellé |
+| Année | Compétition                                                       | Résultat | Remarque            |
+| ----- | ----------------------------------------------------------------- | -------- | ------------------- |
+| 2018  | [[Omloop Het Nieuwsblad]]                                         | 1ier     |                     |
+| 2018  | [[Loisirs/Sport/Compétitions/Amstel Gold Race\|Amstel Gold Race]] | 1ier     |                     |
+|       |                                                                   |          |                     |
+| 2026  | [[Tirreno-Adriatico]] - 5e                                        | 1ier     | 3800m de dénivellé  |
+| 2026  | [[Tour d'Italie]] - 17e étape                                     | 1ier     | +3000m de dénivellé |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
