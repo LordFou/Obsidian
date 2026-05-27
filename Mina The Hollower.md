@@ -24,7 +24,8 @@ type: game
 - **Audio** : 
 	- morceaux chiptune entraînants et mémorables
 - **Réception critique** : 
-	- 
+	- CheckPoint (9/10)
+	- Canard PC (8/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
