@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                                          | Résultat | Remarque |
 | ----- | ---------------------------------------------------- | -------- | -------- |
 | 2025  | [[Championnat d'Europe de Cyclisme]] - Espoirs - CLM | 2e       |          |
+| 2026  | [[Flèche du Sud]] - Classement final                 | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

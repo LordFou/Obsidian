@@ -26,9 +26,10 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                |
-| ----- | -------------------- |
-| XXXX  | [[A View To A Kill]] |
+| Année | Titre                   |
+| ----- | ----------------------- |
+| XXXX  | [[A View To A Kill]]    |
+|       | [[Split Personalities]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

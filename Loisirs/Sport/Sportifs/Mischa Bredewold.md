@@ -14,11 +14,15 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                   | Résultat | Remarque |
-| ----- | ----------------------------- | -------- | -------- |
-| 2023  | Championnat d'Europe          | 1ière    |          |
-| 2025  | [[Amstel Gold Race]]          | 1ière    |          |
-| 2026  | [[Tour d'Espagne]] - 5e étape | 1ière    |          |
+| Année | Compétition                                | Résultat | Remarque |
+| ----- | ------------------------------------------ | -------- | -------- |
+| 2023  | Championnat d'Europe                       | 1ière    |          |
+| 2025  | [[Amstel Gold Race]]                       | 1ière    |          |
+|       |                                            |          |          |
+| 2026  | [[Tour d'Espagne]] - 5e étape              | 1ière    |          |
+| 2026  | [[Tour du Pays Basque]] - 1e étape         | 1ière    |          |
+| 2026  | [[Tour du Pays Basque]] - Classement final | 1ière    |          |
+| 2026  | [[Tour de Burgos]] - 3e étape              | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

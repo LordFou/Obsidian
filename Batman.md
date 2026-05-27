@@ -11,7 +11,7 @@ type: game
 	- Studio : [[Sunsoft]]
 	- Personnalités : 
 - **Éditeur** : [[Sunsoft]]
-- **Plateformes** : [[Game Boy]], [[Megadrive]]
+- **Plateformes** : [[Game Boy]], [[Mega Drive]]
 - **Franchise** : [[Franchise Batman]]
 - **Genre** : [[Plateforme]]
 - **Résumé** : 

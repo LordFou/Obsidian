@@ -22,6 +22,7 @@ type: personne
 | 2026  | [[Grand Prix du Japon]] - Course         | 1ier     |                                  |
 | 2026  | [[Grand Prix des USA]] - Course          | 1ier     |                                  |
 | 2026  | [[Grand Prix du Canada]] - Sprint        | 3e       |                                  |
+| 2026  | [[Grand Prix du Canada]] Course          | 1ier     |                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -41,6 +42,7 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 		- La victoire
 		- La pole 
 		- Le tour le plus rapide. 
+- Premier pilote à glaner ses quatre premiers succès de manière consécutive
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

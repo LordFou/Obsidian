@@ -20,6 +20,8 @@ type: personne
 | 2026  | Grand Prix de Suisse    | 16e,18e  |          |
 | 2026  | Grand Prix de Sardaigne | 21e      |          |
 | 2026  | Grand Prix du Trentin   | 22e      |          |
+| 2026  | Grand Prix de France    | 15e      |          |
+|       |                         |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

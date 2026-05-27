@@ -8,6 +8,7 @@ Chanteur, King of The Pop
 | Année | Titre                                | Contribution                                                                                                |
 | ----- | ------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
 | 1988  | [[Michael Jackson’s Moonwalker]]     | C'est lui le héros : ces attaques sont des mouvements de danse et reposent sur le rythme et la chorégraphie |
+| 1994  | [[Sonic the Hedgehog 3]]             | Il a travaillé sur l'audio mais il y a encore débat                                                         |
 | 1999  | [[Space Channel 5]]                  | Il incarne Space Michael                                                                                    |
 | 2000  | [[Ready 2 Rumble Boxing - Round 2]]  | Personnage caché                                                                                            |
 | 2010  | [[Michael Jackson - The Experience]] | Jeu Posthume                                                                                                |

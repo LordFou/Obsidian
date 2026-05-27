@@ -16,7 +16,7 @@ type: event
 | ==1e (BEL)== | [[Tim Merlier]]      |                      |          |        |       |           |
 | 2e (FRA)     | [[Benoit Cosnefroy]] |                      |          |        |       |           |
 | ==3e (BEL)== | [[Tim Merlier]]      |                      |          |        |       |           |
-| 4e ()        |                      |                      |          |        |       |           |
+| 4e (SWE)     | [[Jakob Söderqvist]] |                      |          |        |       |           |
 | ==5e (BEL)== | [[Tim Merlier]]      | [[Jakob Söderqvist]] |          |        |       |           |
 ## Femmes
 

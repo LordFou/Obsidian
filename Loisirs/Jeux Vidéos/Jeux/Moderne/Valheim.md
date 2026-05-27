@@ -32,12 +32,12 @@ tags: mediaDB/game
 
 - **Année de sortie** :  2021
 - **Développeur** : 
-	- Studio : Iron Gate AB
+	- Studio : [[Iron Gate AB]]
 	- Personnalités : 
-- **Éditeur** : Coffee Stain Publishing
+- **Éditeur** : [[Coffee Stain Publishing]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : Action,Adventure,Indie,RPG,Early Access
+- **Genre** : [[Survie]]
 - **Résumé** :  
 
 ## Détails Techniques

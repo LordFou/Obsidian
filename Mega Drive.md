@@ -2,7 +2,7 @@
 type: matos
 ---
 
-# Megadrive
+# Mega Drive
 
 ## Informations principales
 - Fabricant : [[Sega]]

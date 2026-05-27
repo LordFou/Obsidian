@@ -27,6 +27,7 @@ type: personne
 | 2026  | [[Grand Prix d'Australie]]            | 6e       |          |
 | 2026  | [[Grand Prix de Chine]] - Sprint      | 9e       |          |
 | 2026  | [[Grand Prix de Chine]] - Course      | Abandon  |          |
+| 2026  | [[Grand Prix du Canada]] - Course     | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

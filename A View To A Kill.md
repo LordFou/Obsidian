@@ -1,12 +1,16 @@
-
+---
+type: game
+---
+![[image-631.webp|500x678]]
 # A View To A Kill
 
 ## Informations Générales
 
-- **Année de sortie** :  
+- **Année de sortie** :  1985
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Domark]]
 	- Personnalités : 
+		- [[Mark Greenshields]]
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
@@ -26,6 +30,7 @@
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- [[James Bond]]
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
@@ -35,6 +40,6 @@
 - 
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | {{ url }} |
+| Description | URL                                        |
+| ----------- | ------------------------------------------ |
+| Short       | https://www.youtube.com/shorts/saJK2m8g7DI |

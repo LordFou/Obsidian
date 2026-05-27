@@ -17,6 +17,8 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                      | Résultat      | Remarque                                                                                               |
 | ----- | ------------------------------------------------ | ------------- | ------------------------------------------------------------------------------------------------------ |
+| 2018  | [[Roland-Garros]] - Simple                       | 1/8 finale    |                                                                                                        |
+|       |                                                  |               |                                                                                                        |
 | 2019  | [[US Open]] - Double                             | ==Vainqueur== | avec [[Aryna Sabalenka]]                                                                               |
 |       |                                                  |               |                                                                                                        |
 | 2020  | [[Australian Open]] - Simple                     | 1/8 finale    |                                                                                                        |
@@ -28,7 +30,9 @@ type: personne
 | 2021  | [[Wimbledon]] - Double                           | ==Vainqueur== | avec [[Su-Wei Hsieh]]                                                                                  |
 |       |                                                  |               |                                                                                                        |
 | 2022  | [[Australian Open]] - Simple                     | 1/8 finale    |                                                                                                        |
+| 2022  | [[Roland-Garros]] - Simple                       | 1/8 finale    |                                                                                                        |
 |       |                                                  |               |                                                                                                        |
+| 2023  | [[Roland-Garros]] - Simple                       | 1/8 finale    |                                                                                                        |
 | 2023  | [[Tournoi de Miami]] - Simple                    | 1/8 finale    |                                                                                                        |
 |       |                                                  |               |                                                                                                        |
 | 2024  | [[Australian Open]] - Double                     | ==Vainqueur== | avec [[Su-Wei Hsieh]]                                                                                  |
@@ -56,6 +60,8 @@ type: personne
 | 2026  | [[Tournoi de Madrid]] - Simple                   | 1/16 finale   | Défaite contre [[Karolina Pliskova]]                                                                   |
 | 2026  | [[Tournoi de Rome]] - Double                     | 1ier tour     | avec [[Shuai Zhang]]                                                                                   |
 | 2026  | [[Tournoi de Rome]] - Simple                     | 1/8 finale    | Victoire contre [[Jasmine Paolini]] (WTA 8) en 1/16<br>Défaite contre [[Mirra Andreeva]] (WTA7) en 1/8 |
+| 2026  | [[Roland-Garros]] - Simple                       | 2e tour       | Victoire contre [[Tatjana Maria]] (WTA 54) au premier tour                                             |
+|       |                                                  |               |                                                                                                        |
 
 # Style et Caractéristiques
 - C'est une joueuse très équilibrée et régulière qui intègre en juin 2025 le club très fermé des joueuses qui ont gagné un tournoi sur les 3 types de surface.

@@ -18,17 +18,23 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : [[Comics]], 
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- CheckPoint : 6/10
+	- Canard PC : 4/10
+		- direction artistique forte et une ambiance réussie
+		- mécaniques et l’exécution ne suivent pas
 - **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
 - **Epoque** : 
+	- [[Années 80]]
 - **Personnages principaux** : 
+	- Elena
+	- Lou
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :

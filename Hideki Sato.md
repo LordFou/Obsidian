@@ -7,7 +7,7 @@ type: personne
 ## Présentation
 - L'ingénieur qui se cache derrière toutes les consoles [[Sega]]
 	- Architecte de la [[Master System]] (et des modèles [[SG-1000]])
-	- Directeur du département R&D au début des années 90, il va modeler l'ensemble des consoles [[Sega]] de la [[Megadrive]] à la [[Dreamcast]]
+	- Directeur du département R&D au début des années 90, il va modeler l'ensemble des consoles [[Sega]] de la [[Mega Drive]] à la [[Dreamcast]]
 	- Président de 2001 à 2003
 	- Départ en 2008 pour fonder [[Advance Create]]
 

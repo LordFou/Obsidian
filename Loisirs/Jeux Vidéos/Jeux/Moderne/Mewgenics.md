@@ -24,8 +24,12 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- 9/10 (CheckPoint)
+	- Canard PC (8/10)
+		- rythme décrit comme très lent et exigeant
 - **Gameplay** :
 - **Durée estimée** : 
+	- Des dizaines d'heures de jeu
+	- une abondance de contenu : ennemis nombreux, objets multiples, événements aléatoires, classes évolutives et systèmes imbriqués.
 
 ## Histoire et Univers
 - **Lieu(x)** : 
@@ -34,6 +38,10 @@ type: game
 	- Des chats
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Les chats]]
+	- [[Les excréments]]
+	- [[La reproduction]]
+	- [[La mutation]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

@@ -9,9 +9,9 @@
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition     | Résultat | Remarque      |
-| ----- | --------------- | -------- | ------------- |
-| 2025  | Giro - 4e Etape | 1ier     | Sprint Massif |
+| Année | Compétition                  | Résultat | Remarque      |
+| ----- | ---------------------------- | -------- | ------------- |
+| 2025  | [[Tour d'Italie]] - 4e Etape | 1ier     | Sprint Massif |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

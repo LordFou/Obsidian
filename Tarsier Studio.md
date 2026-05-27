@@ -18,9 +18,9 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
-content:
+date: ?
+title: Perte de droit
+content: ils perdent la licence [[Little Nightmare]]
 ```
 
 ## Jeux Développés

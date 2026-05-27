@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-624.webp|449x527]]
 # Metroid Prime 4 - Beyond
 
 ## Informations Générales

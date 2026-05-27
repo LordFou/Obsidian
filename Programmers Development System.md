@@ -1,0 +1,2 @@
+Langage de programmation sur PC.
+Cela facilitait la programmation de jeux qui étaient ensuite transféré vers l'ordinateur cible via l'interface matérielle : [[Amstrad CPC]], [[Commodore 64]], [[MSX]] , [[ZX Spectrum]]

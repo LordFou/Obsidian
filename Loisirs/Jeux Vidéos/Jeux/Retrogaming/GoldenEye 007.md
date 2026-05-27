@@ -44,7 +44,7 @@ type: game
 	- Le film [[Heat|Heat]]
 	- [[Virtua Cop]] pour le système de visée au pixel près
 - **A inspiré** : 
-	- Alors que Quake fige un genre de FPS, [[GoldenEye 007]] crée un nouveau style de FPS infiltration et espionnage, pas juste un shooter. D'après JV, le jeu donne le "la" pour les 17 années à venir au moins (1997 -> ...)
+	- Alors que Quake fige un genre de FPS, [[GoldenEye 007]] crée un nouveau style de FPS infiltration et espionnage, pas juste un shooter. ==D'après JV, le jeu donne le "la" pour les 17 années à venir au moins (1997 -> ...)==
 - **Comparable à** :
 
 ## Historique développement
