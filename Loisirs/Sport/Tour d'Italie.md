@@ -85,6 +85,7 @@ Aussi appelé [[Giro]] ^^
 | 14e (DAN)     | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Jonathan Narvaez]] | [[Afonso Eulalio]] |                                              |
 | 15e (NOR)     | [[Fredrik Dversnes]] | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Paul Magnier]]     | [[Afonso Eulalio]] | 51,391 km/h de Moyenne !!!                   |
 | 16e (DAN)     | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Paul Magnier]]     | [[Afonso Eulalio]] |                                              |
+| 17e (DAN)     | [[Michael Valgren]]  | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Paul Magnier]]     | [[Afonso Eulalio]] |                                              |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
