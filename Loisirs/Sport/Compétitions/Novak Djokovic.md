@@ -15,6 +15,9 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition              | Résultat    | Remarque                          |
 | ----- | ------------------------ | ----------- | --------------------------------- |
+| 2016  | [[Roland-Garros]]        | Vainqueur   |                                   |
+| 2021  | [[Roland-Garros]]        | Vainqueur   |                                   |
+| 2023  | [[Roland-Garros]]        | Vainqueur   |                                   |
 | 2026  | [[Australian Open]]      | Finaliste   | Défaite contre [[Carlos Alcaraz]] |
 | 2026  | [[Tournoi Indian Wells]] | 1/8e finale |                                   |
 | 2026  | [[Tournoi de Rome]]      | 1e tour     | !!                                |
@@ -25,7 +28,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
 - 1ier joueur à avoir remporté les neuf tournois de catégorie Masters 1000, la plus importante après celle du Grand Chelem
-- 
+- Il a le record du plus grand nombre de matchs joués dans un tournoi du [[Grand Chelem]]
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

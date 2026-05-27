@@ -1,17 +1,17 @@
 ---
 type: game
 ---
-
+![[image-637.webp|315x96]]
 # Mina The Hollower
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Yacht Club Games]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : [[PC]], [[Playstation 4]], [[Playstation 5]], [[Xbox Series]], [[Switch]]
+- **Éditeur** : [[Yacht Club Games]]
+- **Plateformes** : [[PC]], [[Playstation 4]], [[Playstation 5]], [[Xbox Series]], [[Switch]], [[Switch 2]]
 - **Franchise** : 
 - **Genre** : [[Plateforme]]
 - **Résumé** : 
