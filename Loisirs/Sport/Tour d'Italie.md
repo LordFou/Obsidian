@@ -88,7 +88,7 @@ Aussi appelé [[Giro]] ^^
 | 16e (DAN)     | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Paul Magnier]]     | [[Afonso Eulalio]] |                                              |
 | 17e (DAN)     | [[Michael Valgren]]  | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Jonathan Narvaez]] | [[Afonso Eulalio]] |                                              |
 | 18e (FRA)     | [[Paul Magnier]]     | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Paul Magnier]]     | [[Afonso Eulalio]] |                                              |
-|               |                      |                      |                      |                      |                    |                                              |
+| 19e (USA)     | [[Sepp Kuss]]        | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Paul Magnier]]     | [[Afonso Eulalio]] |                                              |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |

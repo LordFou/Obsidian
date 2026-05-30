@@ -39,7 +39,7 @@ type: personne
 | 2026  | [[Tournoi de Bordeaux]]          | Finaliste                  | Défaite contre [[Juan Manuel Cerundolo]]                                                                                |
 | 2026  | [[Tournoi de Genève]]            | 2e tour                    | Victoire contre [[Adrian Mannarino]] (ATP 44) au premier tour                                                           |
 | 2026  | [[Roland-Garros]] - Simple       | 3e tour                    | Victoire contre [[Aleksandar Vukic]] (ATP 96) au premier tour<br>Victoire contre [[Ben Shelton]] (ATP 5) au second tour |
-| 2026  | [[Roland-Garros]] - Double       | 2e tour                    | avec [[Zizou Bergs]]                                                                                                    |
+| 2026  | [[Roland-Garros]] - Double       | 2e tour puis forfait       | avec [[Zizou Bergs]]                                                                                                    |
 |       |                                  |                            |                                                                                                                         |
 |       |                                  |                            |                                                                                                                         |
 
