@@ -13,11 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition          | Résultat  | Remarque                           |
-| ----- | -------------------- | --------- | ---------------------------------- |
-| 2025  | [[Roland-Garros]]    | Vainqueur |                                    |
-| 2026  | [[Tournoi de Miami]] | Finaliste | Défaite contre [[Aryna Sabalenka]] |
-| 2026  | [[Tournoi de Rome]]  | Finaliste | Défaire contre [[Elina Svitolina]] |
+| Année | Compétition          | Résultat  | Remarque                              |
+| ----- | -------------------- | --------- | ------------------------------------- |
+| 2025  | [[Roland-Garros]]    | Vainqueur |                                       |
+| 2026  | [[Tournoi de Miami]] | Finaliste | Défaite contre [[Aryna Sabalenka]]    |
+| 2026  | [[Tournoi de Rome]]  | Finaliste | Défaire contre [[Elina Svitolina]]    |
+| 2026  | [[Roland-Garros]]    | 3e        | Défaite contre [[Anastasia Potapova]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

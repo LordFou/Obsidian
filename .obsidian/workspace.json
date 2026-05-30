@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Gand Wevelgem.md",
+                "file": "Coco Gauff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gand Wevelgem"
+              "title": "Coco Gauff"
             }
           }
         ]
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -207,17 +207,18 @@
   },
   "active": "1b852f747400f113",
   "lastOpenFiles": [
-    "Loisirs/Sport/Lorena Wiebes.md",
-    "Loisirs/Sport/Tour d'Italie.md",
-    "Loisirs/Sport/Giulio Ciccone.md",
-    "Attachments/image-642.webp",
-    "Giulio Pellizzari.md",
-    "Jonas Vingegaard.md",
+    "Roland-Garros.md",
+    "Justine Henin.md",
     "Loisirs/Sport/Sportifs/Kim Meylemans.md",
+    "Jonas Vingegaard.md",
+    "Loisirs/Sport/Tour d'Italie.md",
+    "Giulio Pellizzari.md",
+    "Loisirs/Sport/Giulio Ciccone.md",
+    "Loisirs/Sport/Lorena Wiebes.md",
+    "Loisirs/Sport/Compétitions/Gand Wevelgem.md",
+    "Attachments/image-642.webp",
     "Joao Fonseca.md",
     "Attachments/image-641.webp",
-    "Justine Henin.md",
-    "Roland-Garros.md",
     "Loisirs/Sport/Compétitions/Novak Djokovic.md",
     "Loisirs/Sport/Compétitions/Tour de Bretagne.md",
     "Mathéo Barusseau.md",
@@ -237,7 +238,6 @@
     "Loisirs/Sport/Sportifs/Bashir Abdi.md",
     "Journal de bord/2026-05-30.md",
     "Franchise The Witcher.md",
-    "Mina The Hollower.md",
     "Attachments/image-637.webp",
     "Attachments/image-636.webp",
     "Attachments/image-635.webp",

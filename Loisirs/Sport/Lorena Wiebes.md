@@ -41,6 +41,10 @@ type: personne
 | 2025  | [[Championnat du monde de Gravel]]       | 1ière    |                                                     |
 |       |                                          |          |                                                     |
 | 2026  | [[Omloop Het Nieuwsblad]]                | 3e       |                                                     |
+| 2026  | ?                                        | 1ière    |                                                     |
+| 2026  | ?                                        | 1ière    |                                                     |
+| 2026  | ?                                        | 1ière    |                                                     |
+| 2026  | ?                                        | 1ière    |                                                     |
 | 2026  | [[Flèche de Gooik Oetingen]]             | 1ière    |                                                     |
 | 2026  | [[Gand Wevelgem]]                        | 1ière    |                                                     |
 | 2026  | [[Omloop der Kempen]]                    | 1ière    |                                                     |
