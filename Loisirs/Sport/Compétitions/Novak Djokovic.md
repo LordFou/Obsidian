@@ -21,7 +21,7 @@ type: personne
 | 2026  | [[Australian Open]]      | Finaliste   | Défaite contre [[Carlos Alcaraz]] |
 | 2026  | [[Tournoi Indian Wells]] | 1/8e finale |                                   |
 | 2026  | [[Tournoi de Rome]]      | 1e tour     | !!                                |
-| 2026  | [[Roland-Garros]]        | 2e tour     |                                   |
+| 2026  | [[Roland-Garros]]        | 3e tour     | Défaite contre [[Joao Fonseca]]   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
