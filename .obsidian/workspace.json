@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Adolfo Daniel Vallejo.md",
+                "file": "Alexander Blockx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adolfo Daniel Vallejo"
+              "title": "Alexander Blockx"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Adolfo Daniel Vallejo",
+                "query": "alexander",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,8 +207,9 @@
   },
   "active": "1b852f747400f113",
   "lastOpenFiles": [
-    "Raphaël Collignon.md",
     "Loisirs/Sport/Sportifs/Adolfo Daniel Vallejo.md",
+    "Attachments/image-639.webp",
+    "Raphaël Collignon.md",
     "Elise Mertens.md",
     "Loisirs/Sport/Tour d'Italie.md",
     "Paul Magnier.md",
@@ -234,14 +236,12 @@
     "l'Homme qui tombe à pic.md",
     "Wise Owl Software.md",
     "Victor Papon.md",
-    "Super Skills.md",
     "Attachments/image-635.webp",
     "Attachments/image-634.webp",
     "Attachments/image-633.webp",
     "Attachments/image-632.webp",
     "Attachments/image-631.webp",
     "Attachments/image-630.webp",
-    "Attachments/image-629.webp",
     "Loisirs/Sport/Compétitions/Sans titre",
     "Sans titre",
     "TI-99",

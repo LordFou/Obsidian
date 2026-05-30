@@ -1,13 +1,13 @@
 ---
 type: personne
 ---
-
+![[image-639.webp|180x251]]
 # Adolfo Daniel Vallejo
 
 # Informations Générales
 - **Date de naissance** :  2004
-- **Nationalité** :  Paraguyéen
-- **Sport / Discipline** :  
+- **Nationalité** :  Paraguéen
+- **Sport / Discipline** :  [[Tennis]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
@@ -24,7 +24,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Lors d'une défaite à [[Roland-Garros]], il émettra des commentaires clairement misogyne et assumés envers l'arbitre féminin.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
