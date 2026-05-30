@@ -22,6 +22,7 @@ type: personne
 | 2026  | [[Tournoi Indian Wells]] | 1/8e finale |                                   |
 | 2026  | [[Tournoi de Rome]]      | 1e tour     | !!                                |
 | 2026  | [[Roland-Garros]]        | 3e tour     | Défaite contre [[Joao Fonseca]]   |
+|       |                          |             |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -29,6 +30,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 # Records et Faits Marquants
 - 1ier joueur à avoir remporté les neuf tournois de catégorie Masters 1000, la plus importante après celle du Grand Chelem
 - Il a le record du plus grand nombre de matchs joués dans un tournoi du [[Grand Chelem]]
+- 24 titres du [[Grand Chelem]]
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
