@@ -27,7 +27,8 @@ type: personne
 Évoquer les polémiques ou moments clés de sa carrière.
 
 # Retraite et Reconversion
-Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
+- Consultante pour France Télévision
+- Fondatrice d'une académie de Tennis à Limelette
 
 # Sources et Références
 - [Lien vers une source](#)
