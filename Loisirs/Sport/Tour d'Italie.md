@@ -92,9 +92,9 @@ Aussi appelé [[Giro]] ^^
 | 20e (DAN)     | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] |                      |                      |                    |                                              |
 ## Femmes
 
-|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
-| --- | --------- | ------- | -------- | ------ | ----- | --------- |
-|     |           |         |          |        |       |           |
+|          | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques |
+| -------- | ----------------- | ----------------- | -------- | ------ | ----- | --------- |
+| 1e (NDL) | [[Lorena Wiebes]] | [[Lorena Wiebes]] |          |        |       |           |
 
 
 # General

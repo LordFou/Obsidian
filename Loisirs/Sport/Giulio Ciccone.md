@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[Pasted image 20250803234756.png]]
+![[image-642.webp|233x295]]
 # Giulio Ciccone
 
 # Informations Générales
