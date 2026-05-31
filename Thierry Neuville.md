@@ -27,6 +27,7 @@ type: personne
 | 2026  | [[Rallye de Croatie]]                                | Abandon  |          |
 | 2026  | [[Rallye des Iles Canaries]]                         | 6e       |          |
 | 2026  | [[Rallye du Portugal]]                               | ==1ier== |          |
+| 2026  | [[Rallye du Japon]]                                  | 6e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

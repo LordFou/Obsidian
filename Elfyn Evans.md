@@ -6,16 +6,17 @@ type: personne
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Gallois
-- **Sport / Discipline** :  [[Rallye des Iles Canaries]]
+- **Nationalité** :  Anglais (Gallois)
+- **Sport / Discipline** :  [[Rallye]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition         | Résultat | Remarque                  |
-| ----- | ------------------- | -------- | ------------------------- |
-| 2026  | [[Rallye de Suède]] | 1ier     | 7e - [[Thierry Neuville]] |
+| Année | Compétition         | Résultat | Remarque |
+| ----- | ------------------- | -------- | -------- |
+| 2026  | [[Rallye de Suède]] | 1ier     |          |
+| 2026  | [[Rallye du Japon]] | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
