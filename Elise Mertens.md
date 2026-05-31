@@ -61,7 +61,7 @@ type: personne
 | 2026  | [[Tournoi de Rome]] - Double                     | 1ier tour     | avec [[Shuai Zhang]]                                                                                       |
 | 2026  | [[Tournoi de Rome]] - Simple                     | 1/8 finale    | Victoire contre [[Jasmine Paolini]] (WTA 8) en 1/16<br>Défaite contre [[Mirra Andreeva]] (WTA7) en 1/8     |
 | 2026  | [[Roland-Garros]] - Simple                       | 2e tour       | Victoire contre [[Tatjana Maria]] (WTA 54) au premier tour<br>Défaite contre [[Maja Chwalinska]] (WTA 114) |
-| 2026  | [[Roland-Garros]] - Double                       | 2e tour       |                                                                                                            |
+| 2026  | [[Roland-Garros]] - Double                       | 1/8 tour      |                                                                                                            |
 
 # Style et Caractéristiques
 - C'est une joueuse très équilibrée et régulière qui intègre en juin 2025 le club très fermé des joueuses qui ont gagné un tournoi sur les 3 types de surface.
