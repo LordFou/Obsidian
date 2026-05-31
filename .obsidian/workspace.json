@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e866c9f70bd11d35",
+        "id": "88d2631628bc05e9",
         "type": "tabs",
         "children": [
           {
-            "id": "8957993378b400bd",
+            "id": "957a7975405cdfc6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Samson.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Samson"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Fable",
+                "query": "Out of Words",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,8 +205,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "571b06dbd1c46b81",
+  "active": "957a7975405cdfc6",
   "lastOpenFiles": [
+    "Xbox Series.md",
+    "Crash the Bandicoot.md",
+    "Sega.md",
+    "Yuji Naka.md",
+    "Loisirs/Jeux Vidéos/Sonic 2.md",
+    "Sega America.md",
+    "Mike Fischer.md",
+    "Franchise Fable.md",
+    "Fable (Reboot).md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Fable.md",
     "conflict-files-obsidian-git.md",
     "Yuzo Koshiro.md",
     "Tournoi de Bruxelles.md",
@@ -233,16 +243,6 @@
     "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
     "Count Duckula.md",
     "Attachments/image-635.webp",
-    "Real Stunts Experts.md",
-    "Commode 16 Plus 4.md",
-    "Commode 16 Plus/4.md",
-    "Commode 16 Plus",
-    "Alternative Software.md",
-    "l'Homme qui tombe à pic.md",
-    "Extreme.md",
-    "Digital Integration.md",
-    "Andy Swann.md",
-    "Programmers Development System.md",
-    "Mark Mason.md"
+    "Commode 16 Plus"
   ]
 }

@@ -22,9 +22,9 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre              | Année | Plateformes | Remarque                  |
-| ------------------ | ----- | ----------- | ------------------------- |
-| [[Fable (Reboot)]] | 2027  |             | Reporté de 6 mois en 2026 |
+| Titre              | Année | Plateformes | Remarque                                                          |
+| ------------------ | ----- | ----------- | ----------------------------------------------------------------- |
+| [[Fable (Reboot)]] | 2027  |             | Reporté de 6 mois en juin 2026 pour cause de sortie de [[GTA VI]] |
 
 
 ## Mécaniques et innovations
