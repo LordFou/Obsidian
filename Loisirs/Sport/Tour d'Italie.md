@@ -94,7 +94,7 @@ Aussi appelé [[Giro]] ^^
 
 |          | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques |
 | -------- | ----------------- | ----------------- | -------- | ------ | ----- | --------- |
-| 1e (NDL) | [[Lorena Wiebes]] | [[Lorena Wiebes]] |          |        |       |           |
+| 1e (NDL) | [[Elisa Balsamo]] | [[Elisa Balsamo]] |          |        |       |           |
 
 
 # General
