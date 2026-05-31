@@ -24,6 +24,7 @@ content:
 ## Jeux principaux
 | Titre                            | Année | Plateformes | Remarque |
 | -------------------------------- | ----- | ----------- | -------- |
+| [[Link's Awakening]]             |       |             |          |
 | [[Zelda II - Adventure of Link]] |       |             |          |
 | [[Zelda - Breath of The Wild]]   |       |             |          |
 
@@ -39,6 +40,7 @@ content:
 - {{Fait ou anecdote 2}}
 - {{Fait ou anecdote 3}}
 
-## Liens connexes
-- [[Lien vers une autre note]] (ex: un jeu spécifique, un développeur)
-- [Page Wikipédia](https://wikipedia.org)
+
+| Trailer | https://youtu.be/_Fx0aJCRRpE?si=N7bvXqLopVRR0o9i |
+| ------- | ------------------------------------------------ |
+|         |                                                  |

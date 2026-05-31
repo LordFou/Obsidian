@@ -22,10 +22,11 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                         | Année |
-| ----------------------------- | ----- |
-| [[The Witcher 3 - Wild Hunt]] | 2015  |
-| [[Reigns - The Witcher]]      | 2026  |
+| Titre                                           | Année |
+| ----------------------------------------------- | ----- |
+| [[The Witcher 3 - Wild Hunt]]                   | 2015  |
+| [[Reigns - The Witcher]]                        | 2026  |
+| [[The Witcher 3 - Wild Hunt Songs of the Past]] | prévu |
 
 
 ## Mécaniques et innovations

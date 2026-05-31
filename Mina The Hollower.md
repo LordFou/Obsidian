@@ -1,17 +1,19 @@
 ---
 type: game
 ---
-
+![[image-637.webp|315x96]]
 # Mina The Hollower
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Yacht Club Games]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : [[PC]], [[Playstation 4]], [[Playstation 5]], [[Xbox Series]], [[Switch]]
+		- [[Jake Kaufman]] (Compositeur)
+		- [[Yuzo Koshiro]] (Compositeur)
+- **Éditeur** : [[Yacht Club Games]]
+- **Plateformes** : [[PC]], [[Playstation 4]], [[Playstation 5]], [[Xbox Series]], [[Switch]], [[Switch 2]]
 - **Franchise** : 
 - **Genre** : [[Plateforme]]
 - **Résumé** : 
@@ -19,8 +21,11 @@ type: game
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : [[Pixel Art]]
-- **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Audio** : 
+	- morceaux chiptune entraînants et mémorables
+- **Réception critique** : 
+	- CheckPoint (9/10)
+	- Canard PC (8/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -31,6 +36,7 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Link's Awakening]] (hommage à sa vu du dessus et ses énigmes)
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

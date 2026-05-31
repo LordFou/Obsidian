@@ -2,22 +2,20 @@
 type: personne
 ---
 
-# Shuai Zhang
+# Elisa Balsamo
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  [[Tennis]]
+- **Nationalité** :  Italienne
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                   | Résultat   | Remarque               |
-| ----- | ----------------------------- | ---------- | ---------------------- |
-| 2026  | [[Australian Open]] - Double  | 1/4 finale | avec [[Elise Mertens]] |
-| 2026  | [[Tournoi de Miami]] - Double | 1/4 finale | avec [[Elise Mertens]] |
-| 2026  | [[Roland-Garros]] - Double    | 1/8 finale | avec [[Elise Mertens]] |
+| Année | Compétition            | Résultat | Remarque |
+| ----- | ---------------------- | -------- | -------- |
+| 2026  | [[Tour d'Italie]] - 1e | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -31,6 +29,6 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
-# Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |

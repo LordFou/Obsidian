@@ -1,23 +1,21 @@
 ---
 type: personne
 ---
-
-# Shuai Zhang
+![[image-641.webp|500x293]]
+# Joao Fonseca
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
+- **Nationalité** :  Brésilien
 - **Sport / Discipline** :  [[Tennis]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                   | Résultat   | Remarque               |
-| ----- | ----------------------------- | ---------- | ---------------------- |
-| 2026  | [[Australian Open]] - Double  | 1/4 finale | avec [[Elise Mertens]] |
-| 2026  | [[Tournoi de Miami]] - Double | 1/4 finale | avec [[Elise Mertens]] |
-| 2026  | [[Roland-Garros]] - Double    | 1/8 finale | avec [[Elise Mertens]] |
+| Année | Compétition       | Résultat | Remarque                           |
+| ----- | ----------------- | -------- | ---------------------------------- |
+| 2026  | [[Roland-Garros]] | 3e tour  | Victoire contre [[Novak Djokovic]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -31,6 +29,6 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
-# Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |

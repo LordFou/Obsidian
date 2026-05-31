@@ -10,9 +10,9 @@ Soeur de [[Jules Hesters]]
 # Informations Générales
 - **Date de naissance** :  2004
 - **Nationalité** :  Belge
-- **Sport / Discipline** : [[Cyclisme sur piste]] 
+- **Sport / Discipline** : [[Cyclisme sur piste]], [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Jayco]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
@@ -25,6 +25,7 @@ Soeur de [[Jules Hesters]]
 | 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National]] - Kilomètre          | 1ière 🥇 |          |
 | 2026  | [[Championnat d'Europe de Cyclisme sur piste\|Champ. Europe]] - Scratch                 | 1ière 🥇 |          |
 | 2026  | Meeting international de cyclisme sur piste de Gand - Omnium                            | 5e       |          |
+| 2026  | [[Tour de Bretagne]] - 1e étape                                                         | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

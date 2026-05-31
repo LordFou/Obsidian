@@ -11,7 +11,7 @@ type: event
 | Année | Vainqueur | Remarque |
 | ----- | --------- | -------- |
 | 2025  | [[OKC]]   |          |
-|       |           |          |
+| 2026  |           |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

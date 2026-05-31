@@ -62,9 +62,10 @@ Aussi appelé [[Giro]] ^^
 
 # Edition 2026
 - Lors de la 2e étape, il y a eu de nombreuses chutes dont une énorme à 23km de l'arrivée. Le jury a neutralisé la course car plus aucune ambulance ne suivait le peloton. 
-- [[Jonas Vingegaard]] roule en patron (2 étapes et peu de concurrences)
+- [[Jonas Vingegaard]] roule en patron (5 étapes et peu de concurrences)
 - [[Filippo Ganna]] écrase la CLM de la 10e étape
 - [[Jonathan Narvaez]] s'offre 3 victoires d'étapes !
+- [[Paul Magnier]] domine le sprint et notamment [[Jonathan Milan]]
 ## Hommes
 
 |               | Vainqueur            | Général              | Montagne             | Points               | Jeune              | Remarques                                    |
@@ -85,11 +86,15 @@ Aussi appelé [[Giro]] ^^
 | 14e (DAN)     | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Jonathan Narvaez]] | [[Afonso Eulalio]] |                                              |
 | 15e (NOR)     | [[Fredrik Dversnes]] | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Paul Magnier]]     | [[Afonso Eulalio]] | 51,391 km/h de Moyenne !!!                   |
 | 16e (DAN)     | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Paul Magnier]]     | [[Afonso Eulalio]] |                                              |
+| 17e (DAN)     | [[Michael Valgren]]  | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Jonathan Narvaez]] | [[Afonso Eulalio]] |                                              |
+| 18e (FRA)     | [[Paul Magnier]]     | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Paul Magnier]]     | [[Afonso Eulalio]] |                                              |
+| 19e (USA)     | [[Sepp Kuss]]        | [[Jonas Vingegaard]] | [[Giulio Ciccone]]   | [[Paul Magnier]]     | [[Afonso Eulalio]] |                                              |
+| 20e (DAN)     | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] |                      |                      |                    |                                              |
 ## Femmes
 
-|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
-| --- | --------- | ------- | -------- | ------ | ----- | --------- |
-|     |           |         |          |        |       |           |
+|          | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques |
+| -------- | ----------------- | ----------------- | -------- | ------ | ----- | --------- |
+| 1e (NDL) | [[Elisa Balsamo]] | [[Elisa Balsamo]] |          |        |       |           |
 
 
 # General

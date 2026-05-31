@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Elfyn Evans
+# Luis Enrique
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Anglais (Gallois)
-- **Sport / Discipline** :  [[Rallye]]
-- **Poste / Spécialité** (si applicable) :  
+- **Nationalité** :  Espagnol ?
+- **Sport / Discipline** :  [[Football]]
+- **Poste / Spécialité** (si applicable) :  Entraineur
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition         | Résultat | Remarque |
-| ----- | ------------------- | -------- | -------- |
-| 2026  | [[Rallye de Suède]] | 1ier     |          |
-| 2026  | [[Rallye du Japon]] | 1ier     |          |
+| Année | Compétition           | Résultat  | Remarque        |
+| ----- | --------------------- | --------- | --------------- |
+| 2026  | [[Champion's League]] | Vainqueur | avec le [[PSG]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -30,6 +29,6 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
-# Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |

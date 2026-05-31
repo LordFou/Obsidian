@@ -26,6 +26,7 @@ type: personne
 | 2026  | [[Tournoi de Monte-Carlo]]          | Vainqueur       | Victoire contre [[Carlos Alcaraz]]   |
 | 2026  | [[Tournoi de Madrid]]               | Vainqueur       | Victoire contre [[Alexander Zverev]] |
 | 2026  | [[Tournoi de Rome]]                 | Vainqueur       | Victoire contre [[Casper Ruud]]      |
+| 2026  | [[Roland-Garros]]                   | 2e tour         | Défaite sur blessure                 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -41,7 +41,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - 5 tournois challengers gagnés
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- blessure à [[Roland-Garros]] 2026, déchirure d'un ligament de la cheville.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
