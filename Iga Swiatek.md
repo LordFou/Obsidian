@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-644.webp|418x329]]
 # Iga Swiatek
 
 # Informations Générales
@@ -21,18 +21,18 @@ content: La numéro 3 mondiale Iga Swiatek, "déçue" après son élimination ve
 
 
 # Palmarès et Distinctions
-| Année | Compétition               | Résultat   | Remarque |
-| ----- | ------------------------- | ---------- | -------- |
-| 2020  | [[Roland-Garros]]         | Vainqueure |          |
-| 2022  | [[Roland-Garros]]         | Vainqueure |          |
-| 2022  | [[US Open]]               | Vainqueure |          |
-| 2023  | [[Roland-Garros]]         | Vainqueure |          |
-| 2024  | [[Roland-Garros]]         | Vainqueure |          |
-| 2025  | [[Wimbledon]]             | Vainqueure |          |
-| 2025  | [[Tournoi de Cincinnati]] | Vainqueure |          |
-|       |                           |            |          |
-| 2026  | [[Australian Open]]       | 1/4 finale |          |
-| 2026  | [[Roland-Garros]]         | 1/8 finale |          |
+| Année | Compétition               | Résultat   | Remarque                         |
+| ----- | ------------------------- | ---------- | -------------------------------- |
+| 2020  | [[Roland-Garros]]         | Vainqueure |                                  |
+| 2022  | [[Roland-Garros]]         | Vainqueure |                                  |
+| 2022  | [[US Open]]               | Vainqueure |                                  |
+| 2023  | [[Roland-Garros]]         | Vainqueure |                                  |
+| 2024  | [[Roland-Garros]]         | Vainqueure |                                  |
+| 2025  | [[Wimbledon]]             | Vainqueure |                                  |
+| 2025  | [[Tournoi de Cincinnati]] | Vainqueure |                                  |
+|       |                           |            |                                  |
+| 2026  | [[Australian Open]]       | 1/4 finale |                                  |
+| 2026  | [[Roland-Garros]]         | 1/8 finale | Défaite contre [[Marta Kostyuk]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

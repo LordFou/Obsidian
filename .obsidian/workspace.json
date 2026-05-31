@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iga Swiatek.md",
+                "file": "Barry Baltus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iga Swiatek"
+              "title": "Barry Baltus"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Iga Swiatek",
+                "query": "Barry Baltus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,9 +204,12 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dbacc6f984f28690",
+  "active": "1b852f747400f113",
   "lastOpenFiles": [
+    "Journal de bord/Archives/2025-06-08.md",
     "Kuurne Bruxelles Kuurne.md",
+    "Iga Swiatek.md",
+    "Attachments/image-644.webp",
     "Tournoi de Bruxelles.md",
     "Kuurne-Bruxelles-Kuurne.md",
     "Champion's League.md",
@@ -232,8 +234,6 @@
     "Coco Gauff.md",
     "Roland-Garros.md",
     "Justine Henin.md",
-    "Loisirs/Sport/Sportifs/Kim Meylemans.md",
-    "Jonas Vingegaard.md",
     "Attachments/image-642.webp",
     "Attachments/image-641.webp",
     "Attachments/image-640.webp",
@@ -242,7 +242,6 @@
     "Attachments/image-637.webp",
     "Attachments/image-636.webp",
     "Attachments/image-635.webp",
-    "Attachments/image-634.webp",
     "Loisirs/Sport/Compétitions/Sans titre",
     "Sans titre",
     "TI-99",
