@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-645.webp|350x365]]
 # Elisa Balsamo
 
 # Informations Générales
@@ -9,13 +9,14 @@ type: personne
 - **Nationalité** :  Italienne
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Lidl-Trek]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition            | Résultat | Remarque |
-| ----- | ---------------------- | -------- | -------- |
-| 2026  | [[Tour d'Italie]] - 1e | 1ier     |          |
+| Année | Compétition                  | Résultat | Remarque                                           |
+| ----- | ---------------------------- | -------- | -------------------------------------------------- |
+| 2026  | [[Tour d'Italie]] - 1e étape | 1ier     | Sprint - 2e mais déclassement de [[Lorena Wiebes]] |
+| 2026  | [[Tour d'Italie]] - 2e étape | 1ier     | Sprint                                             |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

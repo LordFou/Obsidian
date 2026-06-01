@@ -6,8 +6,8 @@ type: personne
 
 # Informations Générales
 - **Date de naissance** :  2003
-- **Nationalité** :  
-- **Sport / Discipline** :  Tennis
+- **Nationalité** :  Espagnol
+- **Sport / Discipline** :  [[Tennis]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
@@ -16,6 +16,9 @@ type: personne
 | Année | Compétition                | Résultat    | Remarque                                   |
 | ----- | -------------------------- | ----------- | ------------------------------------------ |
 | 2022  | [[US Open]]                | Vainqueur   |                                            |
+|       |                            |             |                                            |
+| 2024  | [[Roland-Garros]]          | Vainqueur   |                                            |
+|       |                            |             |                                            |
 | 2025  | [[Roland-Garros]]          | Vainqueur   | Plus longue finale de l'histoire jusque là |
 | 2025  | [[Wimbledon]]              | Finaliste   |                                            |
 | 2025  | [[Tournoi de Cincinnati]]  | Vainqueur   |                                            |
