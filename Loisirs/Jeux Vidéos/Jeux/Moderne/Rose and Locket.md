@@ -35,12 +35,13 @@ tags: mediaDB/game
 - **Éditeur** : [[Ninja Kiwi]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Metroïdvania]]
+- **Genre** : [[Action]], [[Plateforme]]
 - **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 
+	- Comparable à ceux de [[Genndy Tartakovsky]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- CheckPoint (8/10)
@@ -49,13 +50,16 @@ tags: mediaDB/game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Far West]]
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Rose
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
@@ -64,3 +68,4 @@ tags: mediaDB/game
 | ----------- | ------------------------------------------------ |
 | Steam       | https://store.steampowered.com/app/1697850       |
 | Trailer     | https://youtu.be/76TL0R3bw3s?si=Rj2618uz-9xPSyX0 |
+![[image-650.webp|500x250]]

@@ -10,9 +10,10 @@ type: game
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
+		- 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise Tekken]]
 - **Genre** :
 - **Résumé** : 
 
