@@ -16,10 +16,12 @@ type: personne
 | Année | Compétition                          | Résultat | Remarque |
 | ----- | ------------------------------------ | -------- | -------- |
 | 2019  | [[Tour d'Italie]] - Maillot Montagne | ==1ier== |          |
-| 2025  | ?                                    | 1ier     |          |
+|       |                                      |          |          |
+| 2025  | ?                                    | ==1ier== |          |
 | 2025  | [[Liège-Bastogne-Liège]]             | 2e       |          |
-| 2025  | [[Clasica San Sebastian]]            | 1ier     |          |
-| 2025  | [[Tour de Burgos]] - 5e étape        | 1ier     |          |
+| 2025  | [[Clasica San Sebastian]]            | ==1ier== |          |
+| 2025  | [[Tour de Burgos]] - 5e étape        | ==1ier== |          |
+|       |                                      |          |          |
 | 2026  | [[Tour d'Italie]] - Maillot Montagne | ==1ier== |          |
 
 # Style et Caractéristiques

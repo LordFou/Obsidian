@@ -103,10 +103,10 @@ Aussi appelé [[Giro]] ^^
 
 ### Hommes
 
-| Année | Vainqueur       | Nationalité | Remarque |
-| ----- | --------------- | ----------- | -------- |
-| 2025  | [[Simon Yates]] | Anglais     |          |
-|       |                 |             |          |
+| Année | Vainqueur            |     |     |     |     |     | Nationalité | Remarque |
+| ----- | -------------------- | --- | --- | --- | --- | --- | ----------- | -------- |
+| 2025  | [[Simon Yates]]      |     |     |     |     |     | Anglais     |          |
+| 2026  | [[Jonas Vingegaard]] |     |     |     |     |     | Danois      |          |
 ### Femmes
 
 | Année | Vainqueur                | Nationalité | Remarque |
