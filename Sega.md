@@ -14,6 +14,8 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 	- [[David Rosen]]
 - **Personnalités** :
 	- [[Hideki Sato]] (Ingénieur)
+	- [[Mike Fischer]] (Vice Président - [[Sega America]])
+	- [[Yuji Naka]]
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
