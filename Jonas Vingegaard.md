@@ -16,17 +16,20 @@ type: personne
 | Année | Compétition                              | Résultat | Remarque                   |
 | ----- | ---------------------------------------- | -------- | -------------------------- |
 | 2021  | [[Tour de France]]                       | 1ier     |                            |
+|       |                                          |          |                            |
 | 2022  | [[Tour de France]]                       | 1ier     |                            |
+|       |                                          |          |                            |
 | 2023  | [[Paris-Nice]] - Classement final        | 3e       |                            |
+|       |                                          |          |                            |
 | 2024  | [[Tour de France]] - Classement final    | 2e       |                            |
 |       |                                          |          |                            |
-| 2025  | [[Tour d'Algarve]] - Classement final    | 1ier     |                            |
+| 2025  | [[Tour d'Algarve]] - Classement final    | ==1ier== |                            |
 | 2025  | [[Paris-Nice]]                           | Abandon  |                            |
 | 2025  | [[Tour de France]] - Classement final    | 2e       |                            |
-| 2025  | [[Tour d'Espagne]] - 2e étape            | 1ier     | :luc_plus: Maillot Général |
-| 2025  | [[Tour d'Espagne]] - 9e étape            | 1ier     |                            |
-| 2025  | [[Tour d'Espagne]] - 20e étape           | 1ier     |                            |
-| 2025  | [[Tour d'Espagne]] - Classement final    | 1ier     |                            |
+| 2025  | [[Tour d'Espagne]] - 2e étape            | ==1ier== | :luc_plus: Maillot Général |
+| 2025  | [[Tour d'Espagne]] - 9e étape            | ==1ier== |                            |
+| 2025  | [[Tour d'Espagne]] - 20e étape           | ==1ier== |                            |
+| 2025  | [[Tour d'Espagne]] - Classement final    | ==1ier== |                            |
 |       |                                          |          |                            |
 | 2026  | [[Paris-Nice]] - 4e étape                | ==1ier== | :luc_plus: Maillot Général |
 | 2026  | [[Paris-Nice]] - 5e étape                | ==1ier== |                            |
@@ -47,7 +50,7 @@ type: personne
 - On lui reproche souvent des courses d'attente.
 
 # Records et Faits Marquants
-- Vainqueur des 3 grands tours
+- Vainqueur des 3 grands tours => [[Club des vainqueurs des 3 grands tours]]
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
