@@ -15,6 +15,8 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                              | Résultat | Remarque                        |
 | ----- | ---------------------------------------- | -------- | ------------------------------- |
+| 2024  | [[Tour de Wallonie]] - 1e étape          | ==1ier== | Sprint                          |
+|       |                                          |          |                                 |
 | 2025  | [[Tour d'Algarve]] -  ? étape            | ==1ier== | Sprint                          |
 | 2025  | [[Tour de Suisse]] - 6e étape            | ==1ier== | Sprint                          |
 | 2025  | [[Sprint de Copenhague]]                 | ==1ier== | Sprint                          |

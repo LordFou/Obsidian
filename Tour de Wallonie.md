@@ -25,9 +25,10 @@ type: event
 # Edition 2026
 ## Hommes
 
-|              | Vainqueur       | Général         | Montagne | Points | Jeune | Remarques |
-| ------------ | --------------- | --------------- | -------- | ------ | ----- | --------- |
-| ==1e (BEL)== | [[Jordi Meeus]] | [[Jordi Meeus]] |          |        |       |           |
+|              | Vainqueur       | Général         | Montagne          | Points          | Jeune              | Remarques |
+| ------------ | --------------- | --------------- | ----------------- | --------------- | ------------------ | --------- |
+| ==1e (BEL)== | [[Jordi Meeus]] | [[Jordi Meeus]] | [[Samuel Florez]] | [[Jordi Meeus]] | [[Joppe Heremans]] |           |
+|              |                 |                 |                   |                 |                    |           |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |

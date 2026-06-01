@@ -19,8 +19,6 @@ Aussi appelé [[Giro]] ^^
 - Ayuso est en forme et se fait remarquer mais abandonne
 - Mais surtout une team [[Visma]] qui se refait la cerise cette année avec la victoire finale pour [[Simon Yates]] ainsi que 3 victoires d'étapes !!
 
-### Etapes 
-
 |     | Vainqueur             | Général            | Montagne     | Points            | Jeune              | Remarques                                                                                                                                                           |
 | --- | --------------------- | ------------------ | ------------ | ----------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | [[Mads Pedersen]]     | [[Mads Pedersen]]  | [[Moniquet]] | [[Mads Pedersen]] | Busatto            | 2e Van Aert<br>Chute de Mikkel Landa                                                                                                                                |
@@ -47,8 +45,6 @@ Aussi appelé [[Giro]] ^^
 |     |                       |                    |              |                   |                    |                                                                                                                                                                     |
 ## Femmes
 
-### Etapes
-
 |             | Vainqueur          | Général                  | Montagne | Points | Jeune | Remarques                                                         |
 | ----------- | ------------------ | ------------------------ | -------- | ------ | ----- | ----------------------------------------------------------------- |
 | 1<br>(SUI)  | [[Marlen Reusser]] | [[Marlen Reusser]]       |          |        | ?     | CLM<br>2e - [[Lotte Kopecky]]                                     |
@@ -61,12 +57,14 @@ Aussi appelé [[Giro]] ^^
 | 8e<br>(ALL) | [[Liane Lippert]]  | [[Elisa Longo Borghini]] |          |        |       |                                                                   |
 
 # Edition 2026
+
+## Hommes
+
 - Lors de la 2e étape, il y a eu de nombreuses chutes dont une énorme à 23km de l'arrivée. Le jury a neutralisé la course car plus aucune ambulance ne suivait le peloton. 
 - [[Jonas Vingegaard]] roule en patron (5 étapes et peu de concurrences)
 - [[Filippo Ganna]] écrase la CLM de la 10e étape
 - [[Jonathan Narvaez]] s'offre 3 victoires d'étapes !
 - [[Paul Magnier]] domine le sprint et notamment [[Jonathan Milan]]
-## Hommes
 
 |               | Vainqueur            | Général              | Montagne             | Points               | Jeune              | Remarques                                    |
 | ------------- | -------------------- | -------------------- | -------------------- | -------------------- | ------------------ | -------------------------------------------- |
@@ -111,10 +109,13 @@ Aussi appelé [[Giro]] ^^
 
 ## Femmes
 
-|          | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques |
-| -------- | ----------------- | ----------------- | -------- | ------ | ----- | --------- |
-| 1e (ITA) | [[Elisa Balsamo]] | [[Elisa Balsamo]] |          |        |       |           |
-| 2e (ITA) | [[Elisa Balsamo]] | [[Elisa Balsamo]] |          |        |       |           |
+- Les sprints sont dominés par [[Elisa Balsamo]] après la disqualification de [[Lorena Wiebes]]
+
+|          | Vainqueur         | Général           | Montagne                 | Points            | Jeune          | Remarques |
+| -------- | ----------------- | ----------------- | ------------------------ | ----------------- | -------------- | --------- |
+| 1e (ITA) | [[Elisa Balsamo]] | [[Elisa Balsamo]] |                          | [[Elisa Balsamo]] |                |           |
+| 2e (ITA) | [[Elisa Balsamo]] | [[Elisa Balsamo]] |                          | [[Elisa Balsamo]] |                |           |
+| 3e (ITA) | [[Elisa Balsamo]] | [[Elisa Balsamo]] | [[Anna Van der breggen]] | [[Elisa Balsamo]] | [[Célia Gery]] |           |
 
 
 # General

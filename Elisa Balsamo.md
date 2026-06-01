@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-645.webp|350x365]]
+![[image-649.webp|342x348]]
 # Elisa Balsamo
 
 # Informations Générales
