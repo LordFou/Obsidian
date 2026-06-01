@@ -1,12 +1,12 @@
 ---
 type: personne
 ---
-![[image-639.webp|180x251]]
-# Adolfo Daniel Vallejo
+
+# Amélie Mauresmo
 
 # Informations Générales
-- **Date de naissance** :  2004
-- **Nationalité** :  Paraguéen
+- **Date de naissance** :  
+- **Nationalité** :  Française
 - **Sport / Discipline** :  [[Tennis]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
@@ -24,10 +24,10 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-- Lors d'une défaite à [[Roland-Garros]], il émettra des commentaires clairement misogyne et assumés envers l'arbitre féminin. Le tournoi lui a mis une amende de 65.000 euros.
+Évoquer les polémiques ou moments clés de sa carrière.
 
 # Retraite et Reconversion
-Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
+- Directrice de [[Roland-Garros]]
 
 | Description | URL |
 | ----------- | --- |

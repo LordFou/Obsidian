@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-602.webp|118x148]]
+![[image-648.webp|500x159]]
 # Jordi Meeus
 
 # Informations Générales
@@ -15,9 +15,9 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                              | Résultat | Remarque                        |
 | ----- | ---------------------------------------- | -------- | ------------------------------- |
-| 2025  | [[Tour d'Algarve]] -  ? étape            | ==1ier==     | Sprint                          |
-| 2025  | [[Tour de Suisse]] - 6e étape            | ==1ier==     | Sprint                          |
-| 2025  | [[Sprint de Copenhague]]                 | ==1ier==     | Sprint                          |
+| 2025  | [[Tour d'Algarve]] -  ? étape            | ==1ier== | Sprint                          |
+| 2025  | [[Tour de Suisse]] - 6e étape            | ==1ier== | Sprint                          |
+| 2025  | [[Sprint de Copenhague]]                 | ==1ier== | Sprint                          |
 | 2025  | [[Tour de France]] - 17e étape           | 2e       | Sprint                          |
 | 2025  | [[Super 8 Classic]]                      | 3e       | Sprint                          |
 | 2025  | [[Binche-Chimay-Binche]]                 | ==1ier== | Sprint                          |
@@ -30,6 +30,7 @@ type: personne
 | 2026  | [[Nokere Koerse]]                        | 2e       | Sprint                          |
 | 2026  | [[Classique Dunkerque]]                  | 3e       |                                 |
 | 2026  | [[Quatre Jours de Dunkerque]] - 4e étape | ==1ier== | Sprint                          |
+| 2026  | [[Tour de Wallonie]] - 1e étape          | ==1ier== | Sprint                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

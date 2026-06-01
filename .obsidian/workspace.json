@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "125a04c033baea84",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca8306bbbb243a7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afb9b6d48cb795ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jordi Meeus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jordi Meeus"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7447b8104e01b28b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b394191a6bc9af71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d67b648b990b4f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "571b06dbd1c46b81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Tour de Wall",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "d39db93a288b84a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          },
+          {
+            "id": "94b2d6d483a6fa66",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6163af4f8151e8b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c995bfb2d8a69ba6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0854f7457f8280a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Enigma Variations"
+            }
+          },
+          {
+            "id": "f3bbca83208d0666",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Enigma Variations"
+            }
+          },
+          {
+            "id": "199227995a5bda3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "5be8448264f8050e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Enigma Variations.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Enigma Variations"
+            }
+          },
+          {
+            "id": "2af761ab065aafdd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "720770048378678f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 381.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "markdown-importer:Ouvrir l'importateur Markdown": false,
+      "bases:Créer une nouvelle base": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "afb9b6d48cb795ab",
+  "lastOpenFiles": [
+    "Attachments/image-648.webp",
+    "Tour de Wallonie.md",
+    "Jordi Meeus.md",
+    "Loisirs/Sport/Sportifs/Adolfo Daniel Vallejo.md",
+    "Roland-Garros.md",
+    "Amélie Mauresmo.md",
+    "conflict-files-obsidian-git.md",
+    "Liste Idées Cadeau Maman.md",
+    "Journal de bord/2026-06-01.md",
+    "GP Italie.md",
+    "Club des vainqueurs des 3 grands tours.md",
+    "Attachments/image-647.webp",
+    "Attachments/image-646.webp",
+    "Attachments/image-645.webp",
+    "Afonso Eulalio.md",
+    "Journal de bord/2026-06-02.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Samson.md",
+    "Xbox Series.md",
+    "Crash the Bandicoot.md",
+    "Sega.md",
+    "Yuji Naka.md",
+    "Loisirs/Jeux Vidéos/Sonic 2.md",
+    "Sega America.md",
+    "Mike Fischer.md",
+    "Franchise Fable.md",
+    "Fable (Reboot).md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Fable.md",
+    "Yuzo Koshiro.md",
+    "Tournoi de Bruxelles.md",
+    "Attachments/image-644.webp",
+    "Attachments/image-643.webp",
+    "Attachments/image-642.webp",
+    "Attachments/image-641.webp",
+    "Attachments/image-640.webp",
+    "Attachments/image-639.webp",
+    "Attachments/image-638.webp",
+    "Commode 16 Plus"
+  ]
+}

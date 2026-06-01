@@ -6,6 +6,8 @@ type: event
 
 # Introduction
 
+Directrice : [[Amélie Mauresmo]]
+
 # Hommes
 
 | Année | Vainqueur              | Nationalité | Remarque                             |

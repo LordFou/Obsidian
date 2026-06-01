@@ -9,23 +9,32 @@ type: event
 
 ## Hommes
 
-### Etapes 
-
-|             | Vainqueur             | Général           | Montagne | Points | Jeune | Remarques |
-| ----------- | --------------------- | ----------------- | -------- | ------ | ----- | --------- |
-| 1e<br>(NZL) | [[Corbin Strong]]     | [[Corbin Strong]] |          |        |       |           |
-| 2e<br>(UK)  | [[Oliver Knight]]     | [[Oliver Knight]] |          |        |       |           |
-| 3e<br>      | [[Davide Donati]]     | [[Oliver Knight]] |          |        |       |           |
-| 4e<br>(CZK) | [[Mathias Vacek]]     | [[Corbin Strong]] |          |        |       |           |
-| 5e<br>(FRA) | [[Clément Izquierdo]] | [[Corbin Strong]] |          |        |       |           |
+|          | Vainqueur             | Général           | Montagne | Points | Jeune | Remarques |
+| -------- | --------------------- | ----------------- | -------- | ------ | ----- | --------- |
+| 1e (NZL) | [[Corbin Strong]]     | [[Corbin Strong]] |          |        |       |           |
+| 2e (UK)  | [[Oliver Knight]]     | [[Oliver Knight]] |          |        |       |           |
+| 3e (ITA) | [[Davide Donati]]     | [[Oliver Knight]] |          |        |       |           |
+| 4e (CZK) | [[Mathias Vacek]]     | [[Corbin Strong]] |          |        |       |           |
+| 5e (FRA) | [[Clément Izquierdo]] | [[Corbin Strong]] |          |        |       |           |
 
 ## Femmes
 
-### Etapes
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+
+# Edition 2026
+## Hommes
+
+|              | Vainqueur       | Général         | Montagne | Points | Jeune | Remarques |
+| ------------ | --------------- | --------------- | -------- | ------ | ----- | --------- |
+| ==1e (BEL)== | [[Jordi Meeus]] | [[Jordi Meeus]] |          |        |       |           |
+## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
 | --- | --------- | ------- | -------- | ------ | ----- | --------- |
-### Général
+|     |           |         |          |        |       |           |
+
+
 # General
 
 ### Hommes
