@@ -26,7 +26,7 @@ type: personne
 | 2026  | GP des US                | 6e       | Moto2    | Après être parti de la pôle ! |
 | 2026  | GP Espagne               | Abandon  | Moto2    |                               |
 | 2026  | [[GP France]]            | Abandon  | Moto2    |                               |
-| 2026  | GP Italie                | 8e       | Moto2    | Parti de la 19e position      |
+| 2026  | [[GP Italie]]            | 8e       | Moto2    | Parti de la 19e position      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -6,7 +6,7 @@ type: personne
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** : 
+- **Nationalité** : Italien
 - **Sport / Discipline** : [[Moto]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
@@ -17,6 +17,7 @@ type: personne
 | ----- | ----------------------------- | -------- | -------- |
 | 2026  | [[GP Brésil]]                 | 1ier     |          |
 | 2026  | [[GP des Amériques]] - Austin | 1ier     |          |
+| 2026  | [[GP Italie]]                 | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
