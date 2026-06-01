@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marco Bezzecchi.md",
+                "file": "Loisirs/Sport/Tour d'Italie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marco Bezzecchi"
+              "title": "Tour d'Italie"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Barry Baltus",
+                "query": "Giro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,8 +207,9 @@
   },
   "active": "1b852f747400f113",
   "lastOpenFiles": [
-    "GP Italie.md",
     "Barry Baltus.md",
+    "GP Italie.md",
+    "Marco Bezzecchi.md",
     "Journal de bord/Archives/2025-06-08.md",
     "Kuurne Bruxelles Kuurne.md",
     "Iga Swiatek.md",
@@ -233,7 +235,6 @@
     "Franchise Fable.md",
     "Fable (Reboot).md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Fable.md",
-    "Coco Gauff.md",
     "Attachments/image-642.webp",
     "Attachments/image-641.webp",
     "Attachments/image-640.webp",

@@ -94,7 +94,8 @@ Aussi appelé [[Giro]] ^^
 
 |          | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques |
 | -------- | ----------------- | ----------------- | -------- | ------ | ----- | --------- |
-| 1e (NDL) | [[Elisa Balsamo]] | [[Elisa Balsamo]] |          |        |       |           |
+| 1e (ITA) | [[Elisa Balsamo]] | [[Elisa Balsamo]] |          |        |       |           |
+| 2e (ITA) | [[Elisa Balsamo]] | [[Elisa Balsamo]] |          |        |       |           |
 
 
 # General
