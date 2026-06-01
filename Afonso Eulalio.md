@@ -1,22 +1,21 @@
 ---
 type: personne
 ---
-![[image-645.webp|350x365]]
-# Elisa Balsamo
+
+# Afonso Eulalio
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Italienne
+- **Nationalité** :  Portugais
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Lidl-Trek]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                  | Résultat | Remarque                                           |
-| ----- | ---------------------------- | -------- | -------------------------------------------------- |
-| 2026  | [[Tour d'Italie]] - 1e étape | 1ier     | Sprint - 2e mais déclassement de [[Lorena Wiebes]] |
-| 2026  | [[Tour d'Italie]] - 2e étape | 1ier     | Sprint                                             |
+| Année | Compétition                       | Résultat | Remarque |
+| ----- | --------------------------------- | -------- | -------- |
+| 2026  | [[Tour d'Italie]] - Maillot Jeune | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

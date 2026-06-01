@@ -89,22 +89,42 @@ Aussi appelé [[Giro]] ^^
 | 17e (DAN)     | [[Michael Valgren]]  | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Jonathan Narvaez]] | [[Afonso Eulalio]] |                                              |
 | 18e (FRA)     | [[Paul Magnier]]     | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Paul Magnier]]     | [[Afonso Eulalio]] |                                              |
 | 19e (USA)     | [[Sepp Kuss]]        | [[Jonas Vingegaard]] | [[Giulio Ciccone]]   | [[Paul Magnier]]     | [[Afonso Eulalio]] |                                              |
-| 20e (DAN)     | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] |                      |                      |                    |                                              |
+| 20e (DAN)     | [[Jonas Vingegaard]] | [[Jonas Vingegaard]] | [[Giulio Ciccone]]   | [[Paul Magnier]]     | [[Afonso Eulalio]] |                                              |
+| 21e (ITA)     | [[Jonathan Milan]]   | [[Jonas Vingegaard]] | [[Giulio Ciccone]]   | [[Paul Magnier]]     | [[Afonso Eulalio]] |                                              |
+|               |                      |                      |                      |                      |                    |                                              |
+
+| Equipe | Nbr Victoires |
+| ------ | ------------- |
+|        |               |
+
+| Nation | Nbr Victoires |
+| ------ | ------------- |
+| DAN    | 6             |
+| ITA    | 4             |
+| FRA    | 3             |
+| EQU    | 3             |
+| URU    | 1             |
+| BEL    | 1             |
+| ESP    | 1             |
+| NOR    | 1             |
+| USA    | 1             |
+
 ## Femmes
 
 |          | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques |
 | -------- | ----------------- | ----------------- | -------- | ------ | ----- | --------- |
-| 1e (NDL) | [[Elisa Balsamo]] | [[Elisa Balsamo]] |          |        |       |           |
+| 1e (ITA) | [[Elisa Balsamo]] | [[Elisa Balsamo]] |          |        |       |           |
+| 2e (ITA) | [[Elisa Balsamo]] | [[Elisa Balsamo]] |          |        |       |           |
 
 
 # General
 
 ### Hommes
 
-| Année | Vainqueur       | Nationalité | Remarque |
-| ----- | --------------- | ----------- | -------- |
-| 2025  | [[Simon Yates]] | Anglais     |          |
-|       |                 |             |          |
+| Année | Vainqueur            | Nationalité | Montagne              | Points            | Jeune              | Equipe    | Remarque |
+| ----- | -------------------- | ----------- | --------------------- | ----------------- | ------------------ | --------- | -------- |
+| 2025  | [[Simon Yates]]      | Anglais     | [[Lorenzo Fortunato]] | [[Mads Pedersen]] | [[Isaac Del Toro]] |           |          |
+| 2026  | [[Jonas Vingegaard]] | Danois      | [[Giulio Ciccone]]    | [[Paul Magnier]]  | [[Afonso Eulalio]] | [[Visma]] |          |
 ### Femmes
 
 | Année | Vainqueur                | Nationalité | Remarque |
