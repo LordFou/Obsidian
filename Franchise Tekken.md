@@ -8,6 +8,7 @@ type: game
 ## Informations générales
 - **Créateur(s)** : 
 	- [[Katsuhiro Harada]] (Directeur historique de la franchise)
+	- [[Kohei Ikeda]] (Directeur des épisodes 7 et 8)
 - **Développeur(s)** : {{Studio(s) de développement}}
 - **Éditeur(s)** : {{Nom de l’éditeur}}
 - **Première apparition** : {{Nom du premier jeu (année)}}
@@ -19,8 +20,12 @@ type: game
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
+date: Décembre 2025
+title: Départ de [[Katsuhiro Harada]] de chez [[Bandai Namco]]
+content:
+
+date: Juin 2026
+title: Départ de [[Kohei Ikeda]] de chez [[Bandai Namco]]
 content:
 ```
 ## Jeux principaux
