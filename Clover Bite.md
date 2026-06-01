@@ -24,9 +24,10 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre        |
-| ----- | ------------ |
-| 2026  | [[GRIME II]] |
+| Année | Titre           |
+| ----- | --------------- |
+| 2026  | [[GRIME II]]    |
+| 2026  | [[Chef Knight]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

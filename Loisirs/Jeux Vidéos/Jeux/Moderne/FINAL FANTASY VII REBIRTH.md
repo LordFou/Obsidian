@@ -1,43 +1,44 @@
 ---
 type: game
 subType: ""
-title: Chef Knight
-englishTitle: Chef Knight
-year: "2026"
+title: FINAL FANTASY VII REBIRTH
+englishTitle: FINAL FANTASY VII REBIRTH
+year: "2025"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/4304930
-id: 4304930
+url: https://store.steampowered.com/app/2909400
+id: 2909400
 developers:
-  - Clover Bite
+  - Square Enix
 publishers:
-  - Clover Bite
+  - Square Enix
 genres:
   - Action
-  - Casual
-  - Indie
-  - Simulation
-  - Strategy
+  - Adventure
+  - RPG
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304930/ef9c3c89192e4413d6af84deb45289fc887f003f/header.jpg?t=1780334140
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/header.jpg?t=1775124617
 released: true
-releaseDate: 01/06/2026
+releaseDate: 23/01/2025
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304930/ef9c3c89192e4413d6af84deb45289fc887f003f/header.jpg?t=1780334140)
-# Chef Knight
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/header.jpg?t=1775124617)
+# FINAL FANTASY VII REBIRTH
 
 ## Informations Générales
 
-- **Année de sortie** :  2026
+- **Année de sortie** :  2025
 - **Développeur** : 
-	- Studio : [[Clover Bite]]
+	- Studio : [[Square Enix]]
 	- Personnalités : 
-- **Éditeur** : [[Clover Bite]]
-- **Plateformes** : [[PC]]
+- **Éditeur** : [[Square Enix]]
+- **Plateformes** : 
+	- [[Xbox Series]] (2026)
+	- [[Switch 2]] (2026)
+	- [[PC]] (2025)
 - **Franchise** : 
-- **Genre** : [[Action]], [[Simulation]], [[Strategie]]
+- **Genre** : [[RPG]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -56,7 +57,6 @@ tags: mediaDB/game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
-	- [[Vampire Survivors]] (?)
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
@@ -65,5 +65,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/4304930       |
-| Trailer     | https://youtu.be/0LThddcqgZg?si=oaqUa1E3q5vW-1bP |
+| Steam       | https://store.steampowered.com/app/2909400       |
+| Trailer     | https://youtu.be/q8Ol6dgTIw8?si=lWNjYRld9L4HxkZv |

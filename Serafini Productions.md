@@ -24,9 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre      |
-| ----- | ---------- |
-| XXXX  | Nom du jeu |
+| Année | Titre                   |
+| ----- | ----------------------- |
+| 2026  | [[BrokenLore - FOLLOW]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

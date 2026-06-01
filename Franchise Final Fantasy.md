@@ -23,11 +23,11 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                          | Année    | Plateformes | Remarque |
-| ------------------------------ | -------- | ----------- | -------- |
-| [[Final Fantasy]]              |          |             |          |
-| [[Final Fantasy VII - Remake]] | 2013 (?) |             |          |
-|                                |          |             |          |
+| Titre                           | Année    | Plateformes | Remarque |
+| ------------------------------- | -------- | ----------- | -------- |
+| [[Final Fantasy]]               |          |             |          |
+| [[Final Fantasy VII - Remake]]  | 2013 (?) |             |          |
+| [[Final Fantasy VII - Rebirth]] | 2026     |             |          |
 
 
 ## Mécaniques et innovations
