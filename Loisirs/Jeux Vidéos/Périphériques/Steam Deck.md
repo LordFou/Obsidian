@@ -17,10 +17,18 @@ type: matos
 ## Résumé et historique
 {{Gros résumé sur l’histoire de la console/micro, son impact sur le marché, ses innovations, ses succès ou échecs. Parle aussi des modèles révisés et de son influence sur l’industrie.}}
 
+```timeline-labeled
+[line-5, body-2]
+date: Mai 2026
+title: Augmentation de prix
+content: Le steam deck OLED 1 TB passe à 919 euros (+300!!)
+```
+
+
 # Déclinaison
 - LCD 256 Gb
 - OLED 512 Gb
-- OLED ?
+- OLED 1 TB
 
 ## Jeux emblématiques
 - {{Titre du jeu 1 (année)}}
