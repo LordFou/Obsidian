@@ -11,10 +11,14 @@
             "id": "87deb76766078895",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Journal de bord/2026-06-01.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "2026-06-01"
             }
           }
         ]
@@ -202,6 +206,7 @@
   },
   "active": "87deb76766078895",
   "lastOpenFiles": [
+    "Journal de bord/2026-06-01.md",
     "Liste Idées Cadeau Maman.md",
     "Famille/Cadeaux/Liste de cadeau Tim.md",
     "Famille/Cadeaux/Liste de cadeau pour Norah.md",
@@ -228,7 +233,6 @@
     "Journal de bord/2026-05-31.md",
     "Fable (Reboot).md",
     "Jonathan Milan.md",
-    "Elisa Balsamo.md",
     "Attachments/image-646.webp",
     "Attachments/image-645.webp",
     "Attachments/image-644.webp",
