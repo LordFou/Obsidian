@@ -116,6 +116,7 @@ Aussi appelé [[Giro]] ^^
 | 1e (ITA) | [[Elisa Balsamo]] | [[Elisa Balsamo]] |                          | [[Elisa Balsamo]] |                |           |
 | 2e (ITA) | [[Elisa Balsamo]] | [[Elisa Balsamo]] |                          | [[Elisa Balsamo]] |                |           |
 | 3e (ITA) | [[Elisa Balsamo]] | [[Elisa Balsamo]] | [[Anna Van der breggen]] | [[Elisa Balsamo]] | [[Célia Gery]] |           |
+| 4e (NDL) |                   |                   |                          |                   |                |           |
 
 
 # General
