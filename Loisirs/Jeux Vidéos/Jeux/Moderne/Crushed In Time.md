@@ -11,7 +11,7 @@ type: game
 	- Studio : [[Draw Me A Pixel]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : PC
+- **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Point & Click]], [[Aventure]], [[Enquête]]
 - **Résumé** : 
@@ -41,6 +41,7 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Trailer     | https://youtu.be/pSSLM0QBRNo?si=iTSM6kALppEXZv5R |
+|             |                                                  |

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7231d1b93dbd85b0",
+        "id": "67ce700b9b271d41",
         "type": "tabs",
         "children": [
           {
-            "id": "a2986e89f9c976e8",
+            "id": "fc34731ee00a1412",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hatchery Games.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hatchery Games"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Voidling Bound",
+                "query": "Dark Scroll",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -186,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,8 +200,17 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "a2986e89f9c976e8",
+  "active": "fc34731ee00a1412",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dark Scrolls.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Thank You For Your Application.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Denshattack !.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Denshattack!.md",
+    "Undercoders.md",
+    "Fireshine Games.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Beastro.md",
+    "Timberline Studio.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Crushed In Time.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Voidling Bound.md",
     "Hatchery Games.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/You Know The Drill.md",
@@ -225,16 +229,7 @@
     "Ben Oliver.md",
     "Attachments/image-653.webp",
     "Loisirs/Sport/Anna van der Breggen.md",
-    "Loisirs/Sport/Sportifs/Magali Kempen.md",
     "Attachments/image-652.webp",
-    "Loisirs/Sport/Compétitions/Championnat de Belgique de Handball.md",
-    "Loisirs/Sport/Equipes/Black Arrows.md",
-    "Journal de bord/2026-06-03.md",
-    "conflict-files-obsidian-git.md",
-    "Serafini Productions.md",
-    "Loisirs/Sport/Sportifs/Naomi Osaka.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/eFootball Kick-Off!.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Swan Song.md",
     "Attachments/image-651.webp",
     "Attachments/image-650.webp",
     "Attachments/image-649.webp",

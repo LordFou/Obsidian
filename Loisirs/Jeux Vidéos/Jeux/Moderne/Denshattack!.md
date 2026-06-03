@@ -1,41 +1,43 @@
 ---
 type: game
 subType: ""
-title: Voidling Bound
-englishTitle: Voidling Bound
+title: Denshattack!
+englishTitle: Denshattack!
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2004680
-id: 2004680
+url: https://store.steampowered.com/app/2524850
+id: 2524850
 developers:
-  - Hatchery Games
+  - Undercoders
 publishers:
-  - Hatchery Games
+  - Fireshine Games
+  - Boltray Games
 genres:
   - Action
   - Adventure
-  - RPG
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/header.jpg?t=1780167412
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2524850/9e82089d034705eaa84ecb130d04ed1084ce574c/header.jpg?t=1780476565
 released: true
-releaseDate: 09/06/2026
+releaseDate: 20/01/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/header.jpg?t=1780167412)
-# Voidling Bound
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2524850/9e82089d034705eaa84ecb130d04ed1084ce574c/header.jpg?t=1780476565)
+# Denshattack!
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Hatchery Games]]
+	- Studio : [[Undercoders]]
 	- Personnalités : 
-- **Éditeur** : [[Hatchery Games]]
-- **Plateformes** : [[PC]]
+- **Éditeur** : 
+	- [[Fireshine Games]]
+	- [[Boltray Games]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : Action,Adventure,RPG
+- **Genre** : Action,Adventure
 - **Résumé** :  
 
 ## Détails Techniques
@@ -62,4 +64,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2004680 |
+| Wiki        | https://store.steampowered.com/app/2524850 |

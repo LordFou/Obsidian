@@ -1,41 +1,41 @@
 ---
 type: game
 subType: ""
-title: Voidling Bound
-englishTitle: Voidling Bound
+title: Dark Scrolls
+englishTitle: Dark Scrolls
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2004680
-id: 2004680
+url: https://store.steampowered.com/app/2912550
+id: 2912550
 developers:
-  - Hatchery Games
+  - " doinksoft"
 publishers:
-  - Hatchery Games
+  - Devolver Digital
 genres:
   - Action
   - Adventure
-  - RPG
+  - Indie
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/header.jpg?t=1780167412
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2912550/d26737e52d78ed0240d6e0aa9ae639f9462d75dd/header.jpg?t=1780121292
 released: true
-releaseDate: 09/06/2026
+releaseDate: 22/06/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/header.jpg?t=1780167412)
-# Voidling Bound
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2912550/d26737e52d78ed0240d6e0aa9ae639f9462d75dd/header.jpg?t=1780121292)
+# Dark Scrolls
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Hatchery Games]]
+	- Studio :  doinksoft
 	- Personnalités : 
-- **Éditeur** : [[Hatchery Games]]
-- **Plateformes** : [[PC]]
+- **Éditeur** : Devolver Digital
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : Action,Adventure,RPG
+- **Genre** : Action,Adventure,Indie
 - **Résumé** :  
 
 ## Détails Techniques
@@ -62,4 +62,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2004680 |
+| Wiki        | https://store.steampowered.com/app/2912550 |

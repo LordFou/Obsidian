@@ -1,41 +1,42 @@
 ---
 type: game
 subType: ""
-title: Voidling Bound
-englishTitle: Voidling Bound
+title: Thank You For Your Application
+englishTitle: Thank You For Your Application
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2004680
-id: 2004680
+url: https://store.steampowered.com/app/2881370
+id: 2881370
 developers:
-  - Hatchery Games
+  - IceLemonTea Studio
 publishers:
-  - Hatchery Games
+  - IceLemonTea Studio
+  - No More Robots
 genres:
-  - Action
-  - Adventure
+  - Indie
   - RPG
+  - Simulation
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/header.jpg?t=1780167412
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881370/c7f6c4b11585f83a08426a6135c963c4e41afa53/header.jpg?t=1780396631
 released: true
-releaseDate: 09/06/2026
+releaseDate: 19/06/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/header.jpg?t=1780167412)
-# Voidling Bound
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881370/c7f6c4b11585f83a08426a6135c963c4e41afa53/header.jpg?t=1780396631)
+# Thank You For Your Application
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Hatchery Games]]
+	- Studio : IceLemonTea Studio
 	- Personnalités : 
-- **Éditeur** : [[Hatchery Games]]
-- **Plateformes** : [[PC]]
+- **Éditeur** : IceLemonTea Studio,No More Robots
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : Action,Adventure,RPG
+- **Genre** : Indie,RPG,Simulation
 - **Résumé** :  
 
 ## Détails Techniques
@@ -62,4 +63,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2004680 |
+| Wiki        | https://store.steampowered.com/app/2881370 |
