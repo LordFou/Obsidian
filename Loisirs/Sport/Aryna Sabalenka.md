@@ -31,7 +31,7 @@ type: personne
 | 2026  | [[Australian Open]]      | Finaliste  | Défaite contre [[Elena Rybakina]]  |
 | 2026  | [[Tournoi Indian Wells]] | Vainqueure | Victoire contre [[Elena Rybakina]] |
 | 2026  | [[Tournoi de Miami]]     | Vainqueure | Victoire contre [[Coco Gauff]]     |
-| 2026  | [[Roland-Garros]]        | 1/4 finale |                                    |
+| 2026  | [[Roland-Garros]]        | 1/4 finale | Défaite contre [[Diana Shnaider]]  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

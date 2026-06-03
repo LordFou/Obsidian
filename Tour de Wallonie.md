@@ -25,10 +25,11 @@ type: event
 # Edition 2026
 ## Hommes
 
-|              | Vainqueur       | Général         | Montagne          | Points          | Jeune              | Remarques              |
-| ------------ | --------------- | --------------- | ----------------- | --------------- | ------------------ | ---------------------- |
-| ==1e (BEL)== | [[Jordi Meeus]] | [[Jordi Meeus]] | [[Samuel Florez]] | [[Jordi Meeus]] | [[Joppe Heremans]] |                        |
-| 2e (NZL)     | [[Ben Oliver]]  | [[Ben Oliver]]  |                   |                 |                    | 6e - [[Arnaud de Lie]] |
+|              | Vainqueur           | Général         | Montagne          | Points          | Jeune              | Remarques              |
+| ------------ | ------------------- | --------------- | ----------------- | --------------- | ------------------ | ---------------------- |
+| ==1e (BEL)== | [[Jordi Meeus]]     | [[Jordi Meeus]] | [[Samuel Florez]] | [[Jordi Meeus]] | [[Joppe Heremans]] |                        |
+| 2e (NZL)     | [[Ben Oliver]]      | [[Ben Oliver]]  |                   |                 |                    | 6e - [[Arnaud de Lie]] |
+| 3e (NZL)     | [[Laurence Pithie]] |                 |                   |                 |                    |                        |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
