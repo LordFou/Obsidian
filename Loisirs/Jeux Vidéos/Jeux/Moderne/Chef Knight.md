@@ -1,39 +1,43 @@
 ---
 type: game
 subType: ""
-title: Blueberry
-englishTitle: Blueberry
+title: Chef Knight
+englishTitle: Chef Knight
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/1536120
-id: 1536120
+url: https://store.steampowered.com/app/4304930
+id: 4304930
 developers:
-  - MELLOW Games
+  - Clover Bite
 publishers:
-  - Hidden Trap
+  - Clover Bite
 genres:
+  - Action
+  - Casual
   - Indie
+  - Simulation
+  - Strategy
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1536120/header.jpg?t=1776445367
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304930/ef9c3c89192e4413d6af84deb45289fc887f003f/header.jpg?t=1780334140
 released: true
-releaseDate: 28/05/2026
+releaseDate: 01/06/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1536120/header.jpg?t=1776445367)
-# Blueberry
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304930/ef9c3c89192e4413d6af84deb45289fc887f003f/header.jpg?t=1780334140)
+# Chef Knight
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[MELLOW Games]]
+	- Studio : [[Clover Bite]]
 	- Personnalités : 
-- **Éditeur** : [[Hidden Trap]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch]]
+- **Éditeur** : [[Clover Bite]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Aventure]], [[Puzzle]]
+- **Genre** : [[Action]], [[Simulation]], [[Strategie]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -41,7 +45,7 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- CheckPoint (8/10)
+	- Steam Rating : 0
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -51,9 +55,8 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- Appréhender son passé
-	- Les étapes de la vie (Enfance, [[adolescence]], l'âge adulte, la vieillesse)
 - **Influencé par** :
+	- [[Vampire Survivors]] (?)
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
@@ -62,6 +65,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/1536120       |
-| Trailer     | https://youtu.be/9ZKw3vqViJY?si=ogZoKYMtW6NwPNo- |
-![[image-651.webp|500x281]]
+| Steam       | https://store.steampowered.com/app/4304930       |
+| Trailer     | https://youtu.be/0LThddcqgZg?si=oaqUa1E3q5vW-1bP |

@@ -1,39 +1,43 @@
 ---
 type: game
 subType: ""
-title: Blueberry
-englishTitle: Blueberry
+title: "BrokenLore: FOLLOW"
+englishTitle: "BrokenLore: FOLLOW"
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/1536120
-id: 1536120
+url: https://store.steampowered.com/app/2846530
+id: 2846530
 developers:
-  - MELLOW Games
+  - Serafini Productions
 publishers:
-  - Hidden Trap
+  - Serafini Productions
+  - Soft Source
 genres:
-  - Indie
+  - Action
+  - Adventure
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1536120/header.jpg?t=1776445367
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2846530/header.jpg?t=1780293688
 released: true
-releaseDate: 28/05/2026
+releaseDate: 31/05/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1536120/header.jpg?t=1776445367)
-# Blueberry
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2846530/header.jpg?t=1780293688)
+# BrokenLore: FOLLOW
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[MELLOW Games]]
+	- Studio : [[Serafini Productions]]
 	- Personnalités : 
-- **Éditeur** : [[Hidden Trap]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch]]
+- **Éditeur** : 
+	- [[Serafini Productions]]
+	- [[Soft Source]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Aventure]], [[Puzzle]]
+- **Genre** : [[Action]], [[Aventure]], [[Horreur]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -41,7 +45,7 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- CheckPoint (8/10)
+	- Steam Rating : 0
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -51,8 +55,6 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- Appréhender son passé
-	- Les étapes de la vie (Enfance, [[adolescence]], l'âge adulte, la vieillesse)
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
@@ -62,6 +64,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/1536120       |
-| Trailer     | https://youtu.be/9ZKw3vqViJY?si=ogZoKYMtW6NwPNo- |
-![[image-651.webp|500x281]]
+| Steam       | https://store.steampowered.com/app/2846530       |
+| Trailer     | https://youtu.be/_bgRvbdQaP0?si=5w-3a7dnxul9OXqv |

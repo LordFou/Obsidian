@@ -1,39 +1,42 @@
 ---
 type: game
 subType: ""
-title: Blueberry
-englishTitle: Blueberry
+title: "River City Saga: Journey to the West"
+englishTitle: "River City Saga: Journey to the West"
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/1536120
-id: 1536120
+url: https://store.steampowered.com/app/4164020
+id: 4164020
 developers:
-  - MELLOW Games
+  - Arc System Works
+  - UnitePlus
 publishers:
-  - Hidden Trap
+  - Arc System Works
 genres:
-  - Indie
+  - Action
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1536120/header.jpg?t=1776445367
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/701b98e16babe26dd97a9c53fac6dc7f871de588/header.jpg?t=1779943880
 released: true
-releaseDate: 28/05/2026
+releaseDate: 03/06/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1536120/header.jpg?t=1776445367)
-# Blueberry
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/701b98e16babe26dd97a9c53fac6dc7f871de588/header.jpg?t=1779943880)
+# River City Saga: Journey to the West
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[MELLOW Games]]
+	- Studio : 
+		- [[Arc System Works]]
+		- [[UnitePlus]]
 	- Personnalités : 
-- **Éditeur** : [[Hidden Trap]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch]]
+- **Éditeur** : [[Arc System Works]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Switch]]
 - **Franchise** : 
-- **Genre** : [[Aventure]], [[Puzzle]]
+- **Genre** : [[Action]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -41,7 +44,7 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- CheckPoint (8/10)
+	- Steam Rating : 0
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -51,8 +54,6 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- Appréhender son passé
-	- Les étapes de la vie (Enfance, [[adolescence]], l'âge adulte, la vieillesse)
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
@@ -62,6 +63,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/1536120       |
-| Trailer     | https://youtu.be/9ZKw3vqViJY?si=ogZoKYMtW6NwPNo- |
-![[image-651.webp|500x281]]
+| Steam       | https://store.steampowered.com/app/4164020       |
+| Trailer     | https://youtu.be/LYQNeshIj1c?si=luwaXy3m0Asczc1v |

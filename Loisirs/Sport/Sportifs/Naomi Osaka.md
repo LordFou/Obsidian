@@ -1,21 +1,22 @@
 ---
 type: personne
 ---
-![[image-639.webp|180x251]]
-# Adolfo Daniel Vallejo
+
+# Naomi Osaka
 
 # Informations Générales
-- **Date de naissance** :  2004
-- **Nationalité** :  Paraguéen
-- **Sport / Discipline** :  [[Tennis]]
+- **Date de naissance** :  
+- **Nationalité** :  
+- **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition       | Résultat   | Remarque                                   |
+| ----- | ----------------- | ---------- | ------------------------------------------ |
+| 2026  | [[Roland-Garros]] | 1/8 finale | Défaite contre [[Aryna Sabalenka]] (WTA 1) |
+|       |                   |            |                                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -24,7 +25,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-- Lors d'une défaite à [[Roland-Garros]], il émettra des commentaires clairement misogyne et assumés envers l'arbitre féminin. Le tournoi lui a mis une amende de 65.000 euros.
+Évoquer les polémiques ou moments clés de sa carrière.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2026-06-03"
             }
+          },
+          {
+            "id": "b27a8b2204e2aefa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,10 +219,30 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "87deb76766078895",
+  "active": "b27a8b2204e2aefa",
   "lastOpenFiles": [
-    "Politique.md",
     "Journal de bord/2026-06-03.md",
+    "conflict-files-obsidian-git.md",
+    "Serafini Productions.md",
+    "Loisirs/Sport/Sportifs/Naomi Osaka.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/eFootball Kick-Off!.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Swan Song.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Rose and Locket.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/River City Saga - Journey to the West.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/FINAL FANTASY VII REBIRTH.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Chef Knight.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/BrokenLore - FOLLOW.md",
+    "Kohei Ikeda.md",
+    "Katsuhiro Harada.md",
+    "Journal de bord/2026-06-02.md",
+    "Genndy Tartakovsky.md",
+    "Franchise Tekken.md",
+    "Attachments/image-651.webp",
+    "Attachments/image-650.webp",
+    "Attachments/image-649.webp",
+    "Attachments/image-648.webp",
+    "Amélie Mauresmo.md",
+    "Politique.md",
     "Les médias et la politique.md",
     "Journal de bord/2026-06-01.md",
     "Liste Idées Cadeau Maman.md",
@@ -217,31 +252,11 @@
     "Attachments/image-647.webp",
     "Jonas Vingegaard.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
-    "Loisirs/Sport/Tour de France.md",
-    "Loisirs/Sport/Tour d'Italie.md",
-    "Visma.md",
-    "Afonso Eulalio.md",
-    "Loisirs/Sport/Giulio Ciccone.md",
-    "Lorenzo Fortunato.md",
-    "Paul Magnier.md",
-    "Loisirs/Sport/Sportifs/Sacha Coenen.md",
-    "Loisirs/Sport/Sportifs/Jago Geerts.md",
-    "Loisirs/Sport/Sportifs/Brent Van doninck.md",
-    "Loisirs/Sport/Sportifs/Lucas Coenen.md",
-    "Lucas Pope.md",
-    "conflict-files-obsidian-git.md",
-    "Yuji Naka.md",
-    "Sega America.md",
-    "Mike Fischer.md",
     "Attachments/image-646.webp",
     "Attachments/image-645.webp",
     "Attachments/image-644.webp",
     "Attachments/image-643.webp",
     "Attachments/image-642.webp",
-    "Attachments/image-641.webp",
-    "Attachments/image-640.webp",
-    "Attachments/image-639.webp",
-    "Attachments/image-638.webp",
     "Loisirs/Sport/Compétitions/Sans titre",
     "Sans titre",
     "TI-99",

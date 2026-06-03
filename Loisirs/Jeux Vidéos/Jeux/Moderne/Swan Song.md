@@ -1,39 +1,40 @@
 ---
 type: game
 subType: ""
-title: Blueberry
-englishTitle: Blueberry
+title: Swan Song
+englishTitle: Swan Song
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/1536120
-id: 1536120
+url: https://store.steampowered.com/app/3265290
+id: 3265290
 developers:
-  - MELLOW Games
+  - Business Goose Studios
 publishers:
-  - Hidden Trap
+  - Business Goose Studios
 genres:
+  - Casual
   - Indie
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1536120/header.jpg?t=1776445367
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265290/ee8634572c3db5dc110a803e227b4af638fd98ca/header.jpg?t=1780251195
 released: true
-releaseDate: 28/05/2026
+releaseDate: 04/06/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1536120/header.jpg?t=1776445367)
-# Blueberry
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265290/ee8634572c3db5dc110a803e227b4af638fd98ca/header.jpg?t=1780251195)
+# Swan Song
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[MELLOW Games]]
+	- Studio : [[Business Goose Studios]]
 	- Personnalités : 
-- **Éditeur** : [[Hidden Trap]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch]]
+- **Éditeur** : [[Business Goose Studios]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Aventure]], [[Puzzle]]
+- **Genre** : [[Puzzle]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -41,7 +42,7 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- CheckPoint (8/10)
+	- Steam Rating : 0
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -51,8 +52,6 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- Appréhender son passé
-	- Les étapes de la vie (Enfance, [[adolescence]], l'âge adulte, la vieillesse)
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
@@ -62,6 +61,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/1536120       |
-| Trailer     | https://youtu.be/9ZKw3vqViJY?si=ogZoKYMtW6NwPNo- |
-![[image-651.webp|500x281]]
+| Steam       | https://store.steampowered.com/app/3265290       |
+| Trailer     | https://youtu.be/F_wtzRF3vxc?si=xalOShl4nDPuNms1 |

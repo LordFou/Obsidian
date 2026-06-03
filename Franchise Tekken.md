@@ -2,32 +2,36 @@
 type: game
 ---
 
-# Franchise Final Fantasy
+# Franchise Tekken
 
 
 ## Informations générales
-- Créateur(s) : 
-	- [[Hironobu Sakaguchi]]
-- Développeur(s) : {{Studio(s) de développement}}
-- Éditeur(s) : {{Nom de l’éditeur}}
-- Première apparition : {{Nom du premier jeu (année)}}
-- Genre principal : {{Stratégie, Action-Aventure, FPS...}}
+- **Créateur(s)** : 
+	- [[Katsuhiro Harada]] (Directeur historique de la franchise)
+	- [[Kohei Ikeda]] (Directeur des épisodes 7 et 8)
+- **Développeur(s)** : {{Studio(s) de développement}}
+- **Éditeur(s)** : {{Nom de l’éditeur}}
+- **Première apparition** : {{Nom du premier jeu (année)}}
+- **Genre principal** : {{Stratégie, Action-Aventure, FPS...}}
+- **Points Communs** :
 
 ## Résumé et historique
 {{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
+date: Décembre 2025
+title: Départ de [[Katsuhiro Harada]] de chez [[Bandai Namco]]
+content:
+
+date: Juin 2026
+title: Départ de [[Kohei Ikeda]] de chez [[Bandai Namco]]
 content:
 ```
 ## Jeux principaux
-| Titre                           | Année    | Plateformes | Remarque |
-| ------------------------------- | -------- | ----------- | -------- |
-| [[Final Fantasy]]               |          |             |          |
-| [[Final Fantasy VII - Remake]]  | 2013 (?) |             |          |
-| [[Final Fantasy VII - Rebirth]] | 2026     |             |          |
+| Titre | Année | Plateformes | Remarque |
+| ----- | ----- | ----------- | -------- |
+|       |       |             |          |
 
 
 ## Mécaniques et innovations

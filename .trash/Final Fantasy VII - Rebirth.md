@@ -1,27 +1,24 @@
----
-type: game
----
-
-# Tekken
+![image]({{ image }})
+# Final Fantasy VII - Rebirth
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** :  {{ year }}
 - **Développeur** : 
-	- Studio : 
+	- Studio : {{ developers }}
 	- Personnalités : 
-		- 
-- **Éditeur** : 
+- **Éditeur** : {{ publishers }}
 - **Plateformes** : 
-- **Franchise** : [[Franchise Tekken]]
-- **Genre** :
-- **Résumé** : 
+- **Franchise** : 
+- **Genre** : {{ genres }}
+- **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
+	- Steam Rating : {{ onlineRating }}
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -38,6 +35,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL       |
+| ----------- | --------- |
+| Wiki        | {{ url }} |

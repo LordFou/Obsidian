@@ -2,26 +2,26 @@
 type: game
 ---
 
-# Tekken
+# eFootball Kick-Off!
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : {{ developers }}
 	- Personnalités : 
-		- 
-- **Éditeur** : 
-- **Plateformes** : 
-- **Franchise** : [[Franchise Tekken]]
-- **Genre** :
-- **Résumé** : 
+- **Éditeur** : {{ publishers }}
+- **Plateformes** : [[Switch 2]]
+- **Franchise** : 
+- **Genre** : [[Sport]]
+- **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
+	- Steam Rating : {{ onlineRating }}
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -38,6 +38,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                   |
+| ----------- | --------------------- |
+| Trailer     | # eFootball Kick-Off! |
