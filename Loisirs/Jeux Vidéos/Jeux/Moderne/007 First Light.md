@@ -26,6 +26,8 @@ type: game
 		- L’écriture et la mise en scène sont élégantes, stylées et constamment captivantes.
 		- Certains affrontements sont jugés moins aboutis que les phases d’infiltration avec des combats au corps-à-corps parfois rigides ou confus 
 		- Une référence pour la Franchise [[James Bond]]
+	- Ventes
+		- 1,5 millions de copies le jour de la sortie
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -34,7 +36,7 @@ type: game
 	- [[Slovaquie]]
 - **Epoque** : 
 - **Personnages principaux** : 
-	- [[James Bond]]
+	- [[James Bond]] (Patrick Gibson ?)
 - **Ennemis** :
 - **Thèmes abordés** : 
 	- [[Espionnage]]
