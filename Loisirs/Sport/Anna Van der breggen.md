@@ -16,7 +16,9 @@ type: personne
 | Année | Compétition                   | Résultat  | Remarque           |
 | ----- | ----------------------------- | --------- | ------------------ |
 | 2025  | [[Tour de France]] - 9e étape | 11e       | Combattive du jour |
+|       |                               |           |                    |
 | 2026  | [[Tour d'Espagne]] - 6e étape | ==1ière== |                    |
+| 2026  | [[Tour d'Italie]] - 4e étape  | ==1ière== | CLM                |
 
 
 # Style et Caractéristiques

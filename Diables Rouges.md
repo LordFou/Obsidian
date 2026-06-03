@@ -3,11 +3,11 @@ type: team
 ---
 ## Equipe nationale belge masculine de football
 
-| Année | Epreuve | Résultat | Remarque |
-| ----- | ------- | -------- | -------- |
-| 2026  |         |          |          |
-|       |         |          |          |
-|       |         |          |          |
+| Année | Epreuve            | Résultat | Remarque |
+| ----- | ------------------ | -------- | -------- |
+| 2026  | [[Coupe du Monde]] |          |          |
+|       |                    |          |          |
+|       |                    |          |          |
 
 
 ## Equipe nationale belge masculine de futsal
