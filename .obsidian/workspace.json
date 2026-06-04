@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "2026-06-04"
             }
+          },
+          {
+            "id": "4ed7f1259ec46731",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +215,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "fc34731ee00a1412",
+  "active": "4ed7f1259ec46731",
   "lastOpenFiles": [
     "Journal de bord/2026-06-04.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Dark Scrolls.md",
