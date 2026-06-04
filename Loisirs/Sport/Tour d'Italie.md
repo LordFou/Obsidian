@@ -117,7 +117,8 @@ Aussi appelé [[Giro]] ^^
 | 2e (ITA) | [[Elisa Balsamo]]        | [[Elisa Balsamo]]        |                          | [[Elisa Balsamo]] |                |           |
 | 3e (ITA) | [[Elisa Balsamo]]        | [[Elisa Balsamo]]        | [[Anna Van der breggen]] | [[Elisa Balsamo]] | [[Célia Gery]] |           |
 | 4e (NDL) | [[Anna van der Breggen]] | [[Anna van der Breggen]] | [[Anna van der Breggen]] | [[Elisa Balsamo]] |                | CLM       |
-| 5e (NDL) | [[Demi Vollering]]       | [[Anna van der Breggen]] |                          |                   |                |           |
+| 5e (NDL) | [[Demi Vollering]]       | [[Anna van der Breggen]] |                          | [[Elisa Balsamo]] |                |           |
+| 6e (ITA) | [[Elisa Balsamo]]        |                          |                          | [[Elisa Balsamo]] |                |           |
 
 
 # General
