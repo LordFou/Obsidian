@@ -11,10 +11,14 @@
             "id": "fc34731ee00a1412",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Journal de bord/2026-06-04.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "2026-06-04"
             }
           }
         ]
@@ -202,6 +206,7 @@
   },
   "active": "fc34731ee00a1412",
   "lastOpenFiles": [
+    "Journal de bord/2026-06-04.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Dark Scrolls.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Thank You For Your Application.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Denshattack !.md",
@@ -228,7 +233,6 @@
     "Coupe du Monde.md",
     "Ben Oliver.md",
     "Attachments/image-653.webp",
-    "Loisirs/Sport/Anna van der Breggen.md",
     "Attachments/image-652.webp",
     "Attachments/image-651.webp",
     "Attachments/image-650.webp",
