@@ -39,6 +39,7 @@ type: personne
 | 2026  | [[Gand Wevelgem]]                  | 4e       | Sprint                                                          |
 | 2026  | [[Famenne Ardenne Classic]]        | 1ier 🥇  |                                                                 |
 | 2026  | [[Tour d'Italie]]                  | Abandon  | Lors de la 4e étape - Infection gastrique                       |
+| 2026  | [[Tour de Wallonie]] - 4e étape    | 1ier     |                                                                 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
