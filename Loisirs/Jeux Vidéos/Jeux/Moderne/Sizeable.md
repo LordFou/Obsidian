@@ -1,12 +1,12 @@
 ---
 type: game
 subType: ""
-title: Swan Song
-englishTitle: Swan Song
-year: "2026"
+title: Sizeable
+englishTitle: Sizeable
+year: "2021"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/3265290
-id: 3265290
+url: https://store.steampowered.com/app/1333910
+id: 1333910
 developers:
   - Business Goose Studios
 publishers:
@@ -15,26 +15,26 @@ genres:
   - Casual
   - Indie
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265290/ee8634572c3db5dc110a803e227b4af638fd98ca/header.jpg?t=1780251195
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1333910/header.jpg?t=1741078379
 released: true
-releaseDate: 04/06/2026
+releaseDate: 19/03/2021
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265290/ee8634572c3db5dc110a803e227b4af638fd98ca/header.jpg?t=1780251195)
-# Swan Song
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1333910/header.jpg?t=1741078379)
+# Sizeable
 
 ## Informations Générales
 
-- **Année de sortie** :  2026
+- **Année de sortie** :  2021
 - **Développeur** : 
 	- Studio : [[Business Goose Studios]]
 	- Personnalités : 
 - **Éditeur** : [[Business Goose Studios]]
-- **Plateformes** : [[PC]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Puzzle]]
+- **Genre** : 
 - **Résumé** :  
 
 ## Détails Techniques
@@ -42,7 +42,7 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- CheckPoint : 7,5/10
+	- Steam Rating : 0
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -59,7 +59,6 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL                                              |
-| ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/3265290       |
-| Trailer     | https://youtu.be/F_wtzRF3vxc?si=xalOShl4nDPuNms1 |
+| Description | URL       |
+| ----------- | --------- |
+| Wiki        | https://store.steampowered.com/app/1333910 |
