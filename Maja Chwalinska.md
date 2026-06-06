@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-659.webp|244x338]]
 # Maja Chwalinska
 
 # Informations Générales
