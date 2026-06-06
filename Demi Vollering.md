@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-657.webp|437x249]]
 # Demi Vollering
 
 # Informations Générales
@@ -30,6 +30,7 @@ type: personne
 | 2026  | [[Flèche Wallonne]]                                         | ==1ière== |            |
 | 2026  | [[Liège-Bastogne-Liège]]                                    | ==1ière== |            |
 | 2026  | [[Tour d'Italie]] - 5e étape                                | ==1ière== |            |
+| 2026  | [[Tour d'Italie]] - 7e étape                                | ==1ière== |            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

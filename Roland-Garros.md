@@ -18,7 +18,7 @@ Directrice : [[Amélie Mauresmo]]
 |       |                        |             |                                      |
 # Femmes
 
-| Année | Vainqueur      | Nationalité | Remarque |
-| ----- | -------------- | ----------- | -------- |
-| 2025  | [[Coco Gauff]] | Américaine  |          |
-|       |                |             |          |
+| Année | Vainqueur          | Nationalité | Remarque |
+| ----- | ------------------ | ----------- | -------- |
+| 2025  | [[Coco Gauff]]     | Américaine  |          |
+| 2026  | [[Mirra Andreeva]] | Russe       |          |

@@ -120,6 +120,7 @@ Aussi appelé [[Giro]] ^^
 | 5e (NDL) | [[Demi Vollering]]       | [[Anna van der Breggen]] |                          | [[Elisa Balsamo]] |                |           |
 | 6e (ITA) | [[Elisa Balsamo]]        | [[Anna van der Breggen]] |                          | [[Elisa Balsamo]] |                |           |
 | 7e (FRA) | [[Célia Gery]]           | [[Anna van der Breggen]] |                          |                   |                |           |
+| 8e (NDL) | [[Demi Vollering]]       | [[Anna van der Breggen]] |                          |                   |                |           |
 
 
 # General
