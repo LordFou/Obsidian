@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-654.webp|251x323]]
 # Célia Gery
 
 # Informations Générales
