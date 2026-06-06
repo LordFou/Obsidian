@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "67ce700b9b271d41",
+        "id": "5344f195c80dea13",
         "type": "tabs",
         "children": [
           {
-            "id": "fc34731ee00a1412",
+            "id": "9568b0690ad0f340",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-06-04.md",
+                "file": "Loisirs/Restaurant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-04"
-            }
-          },
-          {
-            "id": "4ed7f1259ec46731",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Swan Song.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Swan Song"
+              "title": "Restaurant"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Swan song",
+                "query": "Resto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -99,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,12 +204,13 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "4ed7f1259ec46731",
+  "active": "9568b0690ad0f340",
   "lastOpenFiles": [
+    "Journal de bord/2026-06-04.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Swan Song.md",
     "Business Goose Studios.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/30 Birds.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sizeable.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Swan Song.md",
     "Switch 2.md",
     "Loisirs/Sport/Sportifs/Maya Chwalinska.md",
     "Loisirs/Sport/Tour d'Italie.md",
@@ -233,7 +218,6 @@
     "Loisirs/Sport/Arnaud de Lie.md",
     "Mirra Andreeva.md",
     "Diables Rouges.md",
-    "Journal de bord/2026-06-04.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Dark Scrolls.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Thank You For Your Application.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Denshattack !.md",
