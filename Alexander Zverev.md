@@ -13,13 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat   | Remarque                          |
-| ----- | --------------------- | ---------- | --------------------------------- |
-| 2018  | [[Tournoi de Madrid]] | Vainqueur  |                                   |
-| 2021  | [[Tournoi de Madrid]] | Vainqueur  |                                   |
-| 2024  | [[Roland-Garros]]     | Finaliste  | Défaite contre [[Carlos Alcaraz]] |
-| 2026  | [[Tournoi de Madrid]] | Finaliste  | Défaite contre [[Jannik Sinner]]  |
-| 2026  | [[Roland-Garros]]     | 1/4 finale |                                   |
+| Année | Compétition           | Résultat  | Remarque                          |
+| ----- | --------------------- | --------- | --------------------------------- |
+| 2018  | [[Tournoi de Madrid]] | Vainqueur |                                   |
+| 2021  | [[Tournoi de Madrid]] | Vainqueur |                                   |
+| 2024  | [[Roland-Garros]]     | Finaliste | Défaite contre [[Carlos Alcaraz]] |
+| 2026  | [[Tournoi de Madrid]] | Finaliste | Défaite contre [[Jannik Sinner]]  |
+| 2026  | [[Roland-Garros]]     | Finaliste |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

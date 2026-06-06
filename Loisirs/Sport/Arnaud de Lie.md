@@ -13,34 +13,34 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                        | Résultat | Remarque                                                        |
-| ----- | ---------------------------------- | -------- | --------------------------------------------------------------- |
-| 2022  | [[Tour du Limbourg]]               | 1ier     |                                                                 |
-| 2023  | [[Grand Prix de Québec]]           | 1ier 🥇  |                                                                 |
-| 2023  | [[Famenne Ardenne Classic]]        | 1ier 🥇  |                                                                 |
-| 2024  | [[Binche-Chimay-Binche]]           | 1ier 🥇  |                                                                 |
-| 2024  | [[Famenne Ardenne Classic]]        | 1ier 🥇  |                                                                 |
-| 2025  | [[Brussels Cycling Classic]]       | 3e       | Sprint Massif                                                   |
-| 2025  | [[Tour de France]] - 9e étape      | 3e       | Sprint Massif                                                   |
-| 2025  | [[Tour de France]] - 11e étape     | 4e       | Etape de costaud                                                |
-| 2025  | [[Tour de France]] - 17e étape     | 4e       | Sprint Massif                                                   |
-| 2025  | [[Cyclassics Hambourg]]            | 2e       | Juste derrière le dernier échappé de la journée                 |
-| 2025  | [[Renewi Tour]] - 1e étape         | 2e       | Derrière [[Tim Merlier]]                                        |
-| 2025  | [[Renewi Tour]] - 3e étape         | 2e       | Derrière [[Mathieu van der Poel]]<br>:luc_plus: Maillot Général |
-| 2025  | [[Renewi Tour]] - 5e étape         | ==1ier== |                                                                 |
-| 2025  | [[Renewi Tour]] - Classement final | ==1ier== |                                                                 |
-| 2025  | [[Bretagne Classic]]               | ==1ier== |                                                                 |
-| 2025  | [[Grand Prix de Wallonie]]         | ==1ier== | Sprint trèèèèès long                                            |
-| 2025  | [[Super 8 Classic]]                | ==1ier== | Sprint                                                          |
-| 2025  | [[Paris-Chauny]]                   | ==1ier== | Sprint                                                          |
-|       |                                    |          |                                                                 |
-| 2026  | [[Clasica Almeria]]                | 6e       | Sprint                                                          |
-| 2026  | [[Tirreno-Adriatico]] - 3e étape   | 2e       | Sprint                                                          |
-| 2026  | [[Gand Wevelgem]]                  | 4e       | Sprint                                                          |
-| 2026  | [[Famenne Ardenne Classic]]        | ==1ier== |                                                                 |
-| 2026  | [[Tour d'Italie]]                  | Abandon  | Lors de la 4e étape - Infection gastrique                       |
-| 2026  | [[Tour de Wallonie]] - 4e étape    | ==1ier== |                                                                 |
-|       |                                    |          |                                                                 |
+| Année | Compétition                             | Résultat | Remarque                                                        |
+| ----- | --------------------------------------- | -------- | --------------------------------------------------------------- |
+| 2022  | [[Tour du Limbourg]]                    | 1ier     |                                                                 |
+| 2023  | [[Grand Prix de Québec]]                | 1ier 🥇  |                                                                 |
+| 2023  | [[Famenne Ardenne Classic]]             | 1ier 🥇  |                                                                 |
+| 2024  | [[Binche-Chimay-Binche]]                | 1ier 🥇  |                                                                 |
+| 2024  | [[Famenne Ardenne Classic]]             | 1ier 🥇  |                                                                 |
+| 2025  | [[Brussels Cycling Classic]]            | 3e       | Sprint Massif                                                   |
+| 2025  | [[Tour de France]] - 9e étape           | 3e       | Sprint Massif                                                   |
+| 2025  | [[Tour de France]] - 11e étape          | 4e       | Etape de costaud                                                |
+| 2025  | [[Tour de France]] - 17e étape          | 4e       | Sprint Massif                                                   |
+| 2025  | [[Cyclassics Hambourg]]                 | 2e       | Juste derrière le dernier échappé de la journée                 |
+| 2025  | [[Renewi Tour]] - 1e étape              | 2e       | Derrière [[Tim Merlier]]                                        |
+| 2025  | [[Renewi Tour]] - 3e étape              | 2e       | Derrière [[Mathieu van der Poel]]<br>:luc_plus: Maillot Général |
+| 2025  | [[Renewi Tour]] - 5e étape              | ==1ier== |                                                                 |
+| 2025  | [[Renewi Tour]] - Classement final      | ==1ier== |                                                                 |
+| 2025  | [[Bretagne Classic]]                    | ==1ier== |                                                                 |
+| 2025  | [[Grand Prix de Wallonie]]              | ==1ier== | Sprint trèèèèès long                                            |
+| 2025  | [[Super 8 Classic]]                     | ==1ier== | Sprint                                                          |
+| 2025  | [[Paris-Chauny]]                        | ==1ier== | Sprint                                                          |
+|       |                                         |          |                                                                 |
+| 2026  | [[Clasica Almeria]]                     | 6e       | Sprint                                                          |
+| 2026  | [[Tirreno-Adriatico]] - 3e étape        | 2e       | Sprint                                                          |
+| 2026  | [[Gand Wevelgem]]                       | 4e       | Sprint                                                          |
+| 2026  | [[Famenne Ardenne Classic]]             | ==1ier== |                                                                 |
+| 2026  | [[Tour d'Italie]]                       | Abandon  | Lors de la 4e étape - Infection gastrique                       |
+| 2026  | [[Tour de Wallonie]] - 4e étape         | ==1ier== |                                                                 |
+| 2026  | [[Tour de Wallonie]] - Classement final | 3e       | Bcp de malchance tout le long de l'épreuve                      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
