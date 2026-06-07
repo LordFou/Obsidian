@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Critérium du Dauphiné.md",
+                "file": "Kimi Antonelli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Critérium du Dauphiné"
+              "title": "Kimi Antonelli"
             }
           }
         ]
@@ -53,8 +53,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Auvergne",
-                "matchingCase": false,
+                "query": "Luis Hamilton",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -205,10 +205,12 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "a3d0cada8a736ae8",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
-    "Ramses Debruyne.md",
+    "Loisirs/Sport/Compétitions/Grand Prix de Monaco.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Monaco GP.md",
     "Critérium du Dauphiné.md",
+    "Ramses Debruyne.md",
     "Loisirs/Sport/Sportifs/Alex Baudin.md",
     "Attachments/image-661.webp",
     "GP Hongrie.md",
@@ -238,9 +240,7 @@
     "Loisirs/Sport/Arnaud de Lie.md",
     "Tour de Wallonie.md",
     "Ben Oliver.md",
-    "Célia Gery.md",
     "Attachments/image-654.webp",
-    "Mc Laren.md",
     "Attachments/image-653.webp",
     "Attachments/image-652.webp",
     "Loisirs/Sport/Compétitions/Sans titre",
