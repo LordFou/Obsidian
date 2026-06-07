@@ -31,6 +31,7 @@ type: personne
 | 2026  | [[Liège-Bastogne-Liège]]                                    | ==1ière== |            |
 | 2026  | [[Tour d'Italie]] - 5e étape                                | ==1ière== |            |
 | 2026  | [[Tour d'Italie]] - 7e étape                                | ==1ière== |            |
+| 2026  | [[Tour d'Italie]] - Classement final                        | ==1ière== |            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

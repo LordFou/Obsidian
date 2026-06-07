@@ -20,6 +20,7 @@ type: personne
 | 2025  | [[Flèche Brabançonne]]               | 1ière - 🥇   |          |
 | 2025  | [[Tour d'Italie]] - 7e étape         | Maillot Rose |          |
 | 2025  | [[Tour d'Italie]] - Classement final | 1ière - 🥇   |          |
+| 2026  | [[Tour d'Italie]] - 9e étape         | 1ière        |          |
 
 ## Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

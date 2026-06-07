@@ -21,6 +21,7 @@ type: personne
 | 2026  | Grand Prix de Sardaigne                     | 2e       |                                     |
 | 2026  | Grand Prix de Trentin                       | ==1ier== |                                     |
 | 2026  | Grand Prix d'Allemagne                      | ==1ier== |                                     |
+| 2026  | Grand Prix de Lettonie                      | ==1ier== |                                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
