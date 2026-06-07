@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "250bb7fb683de18c",
+        "id": "b0705ef9d0690efd",
         "type": "tabs",
         "children": [
           {
-            "id": "ff1b7b0003ef7b50",
+            "id": "a3d0cada8a736ae8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -200,8 +200,9 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "ff1b7b0003ef7b50",
+  "active": "a3d0cada8a736ae8",
   "lastOpenFiles": [
+    "Journal de bord/2026-06-07.md",
     "Belgian Cats.md",
     "Jana Van Lent.md",
     "Maja Chwalinska.md",
@@ -233,7 +234,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Swan Song.md",
     "Business Goose Studios.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/30 Birds.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sizeable.md",
     "Attachments/image-653.webp",
     "Attachments/image-652.webp",
     "Attachments/image-651.webp",
