@@ -5,7 +5,7 @@ type: event
 
 # Introduction
 - Anciennement appelé **Critérium du Dauphiné libéré**
-- Nouvellement appelée le Tour Auvergne-Rhône-Alpes
+- Nouvellement appelée le [[Tour Auvergne-Rhône-Alpes]]
 - Course à étape considérée comme la répétition générale du [[Tour de France]]
 - Organisé par [[ASO]]
 
@@ -21,8 +21,6 @@ content: Il devient le Tour Auvergne-Rhône-Alpes (CDLR : c'est naze)
 | Quoi          | Lien                                     |
 | ------------- | ---------------------------------------- |
 | Site officiel | https://www.criterium-du-dauphine.fr/fr/ |
-
-
 # Edition 2025
 
 ## Hommes - Etapes
@@ -42,6 +40,20 @@ content: Il devient le Tour Auvergne-Rhône-Alpes (CDLR : c'est naze)
 |     | Vainqueur | Général | Montagne | Points | Jeune | Equipe | Combativité | Remarques |
 | --- | --------- | ------- | -------- | ------ | ----- | ------ | ----------- | --------- |
 |     |           |         |          |        |       |        |             |           |
+
+
+# Edition 2026
+## Hommes
+
+|          | Vainqueur       | Général         | Montagne        | Points          | Jeune           | Remarques                |
+| -------- | --------------- | --------------- | --------------- | --------------- | --------------- | ------------------------ |
+| 1e (FRA) | [[Alex Baudin]] | [[Alex Baudin]] | [[Alex Baudin]] | [[Alex Baudin]] | [[Alex Baudin]] | 2e - [[Ramses Debruyne]] |
+## Femmes
+
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|     |           |         |          |        |       |           |
+
 
 # General
 

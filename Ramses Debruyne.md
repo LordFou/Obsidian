@@ -1,21 +1,21 @@
 ---
 type: personne
 ---
-![[image-661.webp|494x291]]
-# Alex Baudin
+
+# Ramses Debruyne
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Français
+- **Nationalité** :  Belge
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  EF Education
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
 | Année | Compétition                          | Résultat | Remarque |
 | ----- | ------------------------------------ | -------- | -------- |
-| 2026  | [[Critérium du Dauphiné]] - 1e étape | 1ier     |          |
+| 2026  | [[Critérium du Dauphiné]] - 1e étape | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -29,6 +29,6 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
-# Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |
