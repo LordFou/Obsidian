@@ -11,7 +11,9 @@ type: event
 | Année | Vainqueur              | Nationalité | Remarque                  |
 | ----- | ---------------------- | ----------- | ------------------------- |
 | 2014  | [[Stanislas Wawrinka]] | Suisse      |                           |
+| 2025  | [[Carlos Alcaraz]]     | Espagnol    |                           |
 | 2026  | [[Carlos Alcaraz]]     | Espagnol    | contre [[Novak Djokovic]] |
+|       |                        |             |                           |
 |       |                        |             |                           |
 # Femmes
 

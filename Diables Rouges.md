@@ -19,7 +19,7 @@ Tous les résultats de match des [[Diables Rouges]] => [RTBF Sport](https://www.
 |       |                    |                                                                                                                                                                                                          |                           |
 # U17
 
-| Année | Epreuve | Résultat | Remarque                          |
-| ----- | ------- | -------- | --------------------------------- |
-| 2025  | Euro    | Finale   | Victoire en demi contre la France |
-|       |         |          |                                   |
+| Année | Epreuve | Résultat | Remarque                                                                     |
+| ----- | ------- | -------- | ---------------------------------------------------------------------------- |
+| 2025  | Euro    | Finale   | Victoire en demi contre la France<br>Défaite aux tirs au but contre l'Italie |
+|       |         |          |                                                                              |

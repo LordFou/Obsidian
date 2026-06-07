@@ -11,6 +11,7 @@ type: event
 | Année | Vainqueur              | Nationalité | Remarque |
 | ----- | ---------------------- | ----------- | -------- |
 | 2016  | [[Stanislas Wawrinka]] | Suisse      |          |
+| 2020  | [[Dominic Thiem]]      |             |          |
 | 2021  | [[Daniil Medvedev]]    | Russe       |          |
 | 2025  | [[Carlos Alcaraz]]     | Espagnol    |          |
 |       |                        |             |          |

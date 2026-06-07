@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Flavio Cobolli
+# Dominic Thiem
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Italien
-- **Sport / Discipline** : [[Tennis]] 
+- **Nationalité** :  
+- **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
-- Top Ranking : 14e
 
 # Palmarès et Distinctions
-| Année | Compétition       | Résultat  | Remarque                            |
-| ----- | ----------------- | --------- | ----------------------------------- |
-| 2026  | [[Roland-Garros]] | Finaliste | Défaite contre [[Alexander Zverev]] |
+| Année | Compétition | Résultat  | Remarque |
+| ----- | ----------- | --------- | -------- |
+| 2026  | [[US Open]] | Vainqueur |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
