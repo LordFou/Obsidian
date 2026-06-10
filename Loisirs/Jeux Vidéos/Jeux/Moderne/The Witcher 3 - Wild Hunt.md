@@ -28,9 +28,9 @@ tags: mediaDB/game
 
 - **Année de sortie** :  2015
 - **Développeur** : 
-	- Studio : CD PROJEKT RED
+	- Studio : [[CD Projekt]]
 	- Personnalités : 
-- **Éditeur** : CD PROJEKT RED
+- **Éditeur** : [[CD Projekt]]
 - **Plateformes** : 
 - **Franchise** : [[Franchise The Witcher]]
 - **Genre** : [[RPG]]
