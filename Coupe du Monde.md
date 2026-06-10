@@ -6,6 +6,13 @@ type: event
 
 # Introduction
 
+# Edition 2026
+- Scandales
+	- Les supporters iraniens empêchés de venir dans les stades.
+	- Les joueurs iraniens ne peuvent débarquer aux USA que le jour de leur match.
+	- L'arbitre somalien interdit d'entrer sur le territoire US.
+	- Fouilles des équipes du Sénégal et de l'Ouzbékistan.
+
 # Hommes
 
 | Année | Vainqueur | Nationalité | Remarque    |

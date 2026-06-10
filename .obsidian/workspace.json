@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anthon Charmig.md",
+                "file": "Critérium du Dauphiné.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anthon Charmig"
+              "title": "Critérium du Dauphiné"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Crité",
+                "query": "Coupe du Monde ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,10 +205,11 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dbacc6f984f28690",
+  "active": "a3d0cada8a736ae8",
   "lastOpenFiles": [
-    "Critérium du Dauphiné.md",
+    "Coupe du Monde.md",
     "Anthon Charmig.md",
+    "Critérium du Dauphiné.md",
     "Attachments/image-662.webp",
     "Alexander Zverev.md",
     "Journal de bord/2026-06-10.md",

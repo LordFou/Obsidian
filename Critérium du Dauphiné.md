@@ -49,6 +49,7 @@ content: Il devient le Tour Auvergne-Rhône-Alpes (CDLR : c'est naze)
 | -------- | ------------------ | --------------- | --------------- | --------------- | --------------- | -------------------------- |
 | 1e (FRA) | [[Alex Baudin]]    | [[Alex Baudin]] | [[Alex Baudin]] | [[Alex Baudin]] | [[Alex Baudin]] | 2e - [[Ramses Debruyne]]   |
 | 2e (DAN) | [[Anthon Charmig]] | [[Alex Baudin]] |                 |                 |                 | 3e - [[Vlad Van Mechelen]] |
+| 3e (NDL) | [[Visma]]          | [[Alex Baudin]] |                 |                 |                 |                            |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
