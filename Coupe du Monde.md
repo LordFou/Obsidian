@@ -18,6 +18,7 @@ type: event
 
 ## Groupe A
 
+
 | Match                    | Résultat | Remarque                                                               |
 | ------------------------ | -------- | ---------------------------------------------------------------------- |
 | Mexique - Afrique du Sud | 2-0      | 3 cartons rouge qui vont déjà destabiliser pour les prochains matchs ! |
