@@ -18,10 +18,11 @@ type: event
 
 ## Groupe A
 
-| Match                    | Résultat | Remarque                                          |
-| ------------------------ | -------- | ------------------------------------------------- |
-| Mexique - Afrique du Sud | 2-0      | 3 cartons rouge qui vont déjà destabiliser  !<br> |
-|                          |          |                                                   |
+| Match                    | Résultat | Remarque                                                               |
+| ------------------------ | -------- | ---------------------------------------------------------------------- |
+| Mexique - Afrique du Sud | 2-0      | 3 cartons rouge qui vont déjà destabiliser pour les prochains matchs ! |
+|                          |          |                                                                        |
+|                          |          |                                                                        |
 
 | Pays           | Points |
 | -------------- | ------ |
@@ -33,10 +34,17 @@ type: event
 # Hall of fame
 ## Hommes
 
-| Année | Vainqueur | Nationalité | Remarque    |
-| ----- | --------- | ----------- | ----------- |
-| 2026  |           |             | Los Angeles |
-|       |           |             |             |
+| Année | Nationalité | Remarque           |
+| ----- | ----------- | ------------------ |
+| 1998  | France      |                    |
+| 2002  |             |                    |
+| 2006  |             |                    |
+| 2010  |             | Afrique du Sud     |
+| 2014  | Allemagne ? |                    |
+| 2018  | France      |                    |
+| 2022  | Argentine   |                    |
+| 2026  |             | Mexique/Canada/USA |
+|       |             |                    |
 ## Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
