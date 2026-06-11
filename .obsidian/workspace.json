@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Ja'Kobe Tharp.md",
+                "file": "Loisirs/Sport/Compétitions/Vendée Globe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ja'Kobe Tharp"
+              "title": "Vendée Globe"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ja'Kobe Tharp",
+                "query": "Décès",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -205,9 +206,12 @@
   },
   "active": "a3d0cada8a736ae8",
   "lastOpenFiles": [
+    "Charlie Dalin.md",
+    "Les décès de sportifs.md",
+    "Attachments/image-670.webp",
+    "Loisirs/Sport/Sportifs/Ja'Kobe Tharp.md",
     "Attachments/image-669.webp",
     "Journal de bord/2026-06-11.md",
-    "Loisirs/Sport/Sportifs/Ja'Kobe Tharp.md",
     "Coupe du Monde.md",
     "Attachments/image-668.webp",
     "Attachments/image-667.webp",
@@ -237,10 +241,7 @@
     "Loisirs/Sport/Sportifs/Flavio Cobolli.md",
     "Roland-Garros.md",
     "Loisirs/Sport/Sportifs/Liam Everts.md",
-    "Tour de République Tchèque.md",
     "Attachments/image-661.webp",
-    "Attachments/image-660.webp",
-    "Attachments/image-659.webp",
     "Loisirs/Sport/Compétitions/Sans titre",
     "Sans titre",
     "TI-99",

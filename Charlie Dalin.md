@@ -15,6 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition      | Résultat | Remarque       |
 | ----- | ---------------- | -------- | -------------- |
+| 2022  | [[Vendée Globe]] | 1ier     |                |
 | 2025  | [[Vendée Globe]] | 1ier     | avec un cancer |
 
 # Style et Caractéristiques
