@@ -62,6 +62,8 @@ tags: mediaDB/game
 	- Art italien
 	- [[Les échecs]]
 - **Influencé par** :
+	- [[Dark Souls]]
+	- [[Elden Ring]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

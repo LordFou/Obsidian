@@ -51,6 +51,7 @@ tags: mediaDB/game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Batman
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
