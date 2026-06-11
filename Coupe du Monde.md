@@ -8,7 +8,7 @@ type: event
 
 # Edition 2026
 
-
+![[image-668.webp|181x278]]
 
 - Scandales
 	- Les supporters iraniens empêchés de venir dans les stades.
@@ -18,10 +18,10 @@ type: event
 
 ## Groupe A
 
-| Match                    | Résultat | Remarque          |
-| ------------------------ | -------- | ----------------- |
-| Mexique - Afrique du Sud | 2-0      | 3 cartons rouge ! |
-|                          |          |                   |
+| Match                    | Résultat | Remarque                                          |
+| ------------------------ | -------- | ------------------------------------------------- |
+| Mexique - Afrique du Sud | 2-0      | 3 cartons rouge qui vont déjà destabiliser  !<br> |
+|                          |          |                                                   |
 
 | Pays           | Points |
 | -------------- | ------ |
