@@ -13,6 +13,10 @@ type: event
 	- L'arbitre somalien interdit d'entrer sur le territoire US.
 	- Fouilles des équipes du Sénégal et de l'Ouzbékistan.
 
+# Groupe A
+
+
+
 # Hommes
 
 | Année | Vainqueur | Nationalité | Remarque    |
