@@ -27,7 +27,7 @@ tags: mediaDB/game
 
 ## Informations Générales
 
-- **Année de sortie** :  2026
+- **Année de sortie** :  2026 (Accès anticipé)
 - **Développeur** : 
 	- Studio : Alex Massé and team
 	- Personnalités : 
@@ -55,10 +55,12 @@ tags: mediaDB/game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[The Sims]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/1118520 |
+| Description | URL                                        |
+| ----------- | ------------------------------------------ |
+| Steam       | https://store.steampowered.com/app/1118520 |
+![[image-673.webp|500x281]]
