@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coupe du Monde.md",
+                "file": "Vito Braet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coupe du Monde"
+              "title": "Vito Braet"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Coupe",
+                "query": "Crité",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,6 +207,10 @@
   },
   "active": "a3d0cada8a736ae8",
   "lastOpenFiles": [
+    "Critérium du Dauphiné.md",
+    "Vito Braet.md",
+    "Loisirs/Sport/Sportifs/Wout Van Aert.md",
+    "Coupe du Monde.md",
     "Loisirs/Sport/Compétitions/Vendée Globe.md",
     "Charlie Dalin.md",
     "Les décès de sportifs.md",
@@ -213,7 +218,6 @@
     "Loisirs/Sport/Sportifs/Ja'Kobe Tharp.md",
     "Attachments/image-669.webp",
     "Journal de bord/2026-06-11.md",
-    "Coupe du Monde.md",
     "Attachments/image-668.webp",
     "Attachments/image-667.webp",
     "Attachments/image-666.webp",
@@ -228,7 +232,6 @@
     "Corbin Strong.md",
     "Rick Pluimers.md",
     "Quinn Simmons.md",
-    "Critérium du Dauphiné.md",
     "Red Flames.md",
     "Anthon Charmig.md",
     "Attachments/image-662.webp",
@@ -239,8 +242,6 @@
     "Australian Open.md",
     "US Open.md",
     "Dominic Thiem.md",
-    "Loisirs/Sport/Sportifs/Flavio Cobolli.md",
-    "Roland-Garros.md",
     "Attachments/image-661.webp",
     "Loisirs/Sport/Compétitions/Sans titre",
     "Sans titre",

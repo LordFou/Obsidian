@@ -56,6 +56,7 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 |       |                                                             |                                                                                       |
 | 2026  | [[Paris-Roubaix]]                                           | 1ier                                                                                  |
 | 2026  | Marly Grav                                                  | 1ier                                                                                  |
+| 2026  | [[Critérium du Dauphiné]] - 4e étape                        | 1ier                                                                                  |
 
 | Année | Compétition                                                       | Résultat | Remarque                                                                   |
 | ----- | ----------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
