@@ -9,18 +9,18 @@ type: personne
 - **Nationalité** :  Belge
 - **Sport / Discipline** : [[Cyclisme]] 
 - **Poste / Spécialité** (si applicable) :  [[Grimpeur]]
-- **Équipe(s) / Club(s)** :  [[Lotto]], Redbull [[Bora Redbull]]
+- **Équipe(s) / Club(s)** :  [[Lotto]], [[Bora Redbull]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                    | Résultat | Remarque |
-| ----- | ------------------------------ | -------- | -------- |
-| 2025  | ?                              | 1ier     |          |
-| 2025  | [[Tour de Norvège]] - 3e étape | 1ier     |          |
-| 2025  | [[Clasica San Sebastian]]      | 3e       |          |
-|       |                                |          |          |
-| 2026  | [[Trofeo Andratx – Pollença]]  | 3e       |          |
-|       |                                |          |          |
+| Année | Compétition                          | Résultat | Remarque |
+| ----- | ------------------------------------ | -------- | -------- |
+| 2025  | ?                                    | ==1ier==     |          |
+| 2025  | [[Tour de Norvège]] - 3e étape       | ==1ier==     |          |
+| 2025  | [[Clasica San Sebastian]]            | 3e       |          |
+|       |                                      |          |          |
+| 2026  | [[Trofeo Andratx – Pollença]]        | 3e       |          |
+| 2026  | [[Critérium du Dauphiné]] - 6e étape | ==1ier== |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

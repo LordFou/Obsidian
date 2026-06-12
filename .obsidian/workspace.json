@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coupe du Monde.md",
+                "file": "Maxim Van Gils.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coupe du Monde"
+              "title": "Maxim Van Gils"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Coup",
+                "query": "Wout",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +205,11 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dbacc6f984f28690",
+  "active": "a3d0cada8a736ae8",
   "lastOpenFiles": [
+    "Critérium du Dauphiné.md",
+    "Loisirs/Sport/Sportifs/Wout Van Aert.md",
+    "Coupe du Monde.md",
     "Journal de bord/2026-06-12.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Realm of Ink.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Schrödinger's Call.md",
@@ -225,12 +229,9 @@
     "Biekka Games.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Paralives.md",
     "Attachments/image-673.webp",
-    "Coupe du Monde.md",
     "Attachments/image-672.webp",
     "Attachments/image-671.webp",
     "Vito Braet.md",
-    "Critérium du Dauphiné.md",
-    "Loisirs/Sport/Sportifs/Wout Van Aert.md",
     "Loisirs/Sport/Compétitions/Vendée Globe.md",
     "Charlie Dalin.md",
     "Les décès de sportifs.md",
