@@ -39,6 +39,14 @@ type: event
 | --------------------------- | -------- | ------------------------------------------------------------------ |
 | Canada - Bosnie-Herzégovine | 1-1      | 1 mi-temps pour la Bosnie-Herzégovine<br>1 mi-temps pour le Canada |
 | Quatar - Suisse             |          |                                                                    |
+|                             |          |                                                                    |
+|                             |          |                                                                    |
+
+| Pays           | Points | Différence |
+| -------------- | ------ | ---------- |
+| Canada         | 1      | 0          |
+| Corée du Sud   | 1      | 0          |
+
 # Hall of fame
 ## Hommes
 
