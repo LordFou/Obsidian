@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-06-12.md",
+                "file": "Coupe du Monde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-12"
+              "title": "Coupe du Monde"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Realm of Ink",
+                "query": "Coup",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -204,10 +204,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "a3d0cada8a736ae8",
+  "active": "dbacc6f984f28690",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Realm of Ink.md",
     "Journal de bord/2026-06-12.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Realm of Ink.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Schrödinger's Call.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Butcherman.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Stonemachia.md",

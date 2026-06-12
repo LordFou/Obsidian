@@ -18,20 +18,27 @@ type: event
 
 ## Groupe A
 
-
 | Match                    | Résultat | Remarque                                                               |
 | ------------------------ | -------- | ---------------------------------------------------------------------- |
 | Mexique - Afrique du Sud | 2-0      | 3 cartons rouge qui vont déjà destabiliser pour les prochains matchs ! |
+| Corée du Sud - Tchéquie  | 2-1      |                                                                        |
 |                          |          |                                                                        |
-|                          |          |                                                                        |
 
-| Pays           | Points |
-| -------------- | ------ |
-| Mexique        | 3      |
-| Afrique du Sud | 0      |
+| Pays           | Points | Différence |
+| -------------- | ------ | ---------- |
+| Mexique        | 3      | +2         |
+| Corée du Sud   | 3      | +1         |
+| Tchéquie       | 0      | -1         |
+| Afrique du Sud | 0      | -2         |
 
 
 
+## Groupe B 
+
+| Match                       | Résultat | Remarque                                                           |
+| --------------------------- | -------- | ------------------------------------------------------------------ |
+| Canada - Bosnie-Herzégovine | 1-1      | 1 mi-temps pour la Bosnie-Herzégovine<br>1 mi-temps pour le Canada |
+| Quatar - Suisse             |          |                                                                    |
 # Hall of fame
 ## Hommes
 
