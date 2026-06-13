@@ -38,14 +38,26 @@ type: event
 | Match                       | Résultat | Remarque                                                           |
 | --------------------------- | -------- | ------------------------------------------------------------------ |
 | Canada - Bosnie-Herzégovine | 1-1      | 1 mi-temps pour la Bosnie-Herzégovine<br>1 mi-temps pour le Canada |
-| Quatar - Suisse             |          |                                                                    |
-|                             |          |                                                                    |
-|                             |          |                                                                    |
+| Quatar - Suisse             | 1-1      | La surprise du  premier match                                      |
 
-| Pays           | Points | Différence |
-| -------------- | ------ | ---------- |
-| Canada         | 1      | 0          |
-| Corée du Sud   | 1      | 0          |
+| Pays         | Points | Différence |
+| ------------ | ------ | ---------- |
+| Canada       | 1      | 0          |
+| Corée du Sud | 1      | 0          |
+| Quatar       | 1      | 0          |
+| Suisse       | 1      | 0          |
+## Groupe C 
+
+| Match          | Résultat | Remarque |
+| -------------- | -------- | -------- |
+| USA - Paraguay | 4-1      |          |
+|                |          |          |
+
+| Pays     | Points | Différence |
+| -------- | ------ | ---------- |
+| USA      | 3      | +3         |
+| Paraguay | 0      | -3         |
+
 
 # Hall of fame
 ## Hommes
