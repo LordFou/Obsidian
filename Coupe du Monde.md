@@ -40,12 +40,12 @@ type: event
 | Canada - Bosnie-Herzégovine | 1-1      | 1 mi-temps pour la Bosnie-Herzégovine<br>1 mi-temps pour le Canada |
 | Quatar - Suisse             | 1-1      | La surprise du  premier match                                      |
 
-| Pays         | Points | Différence |
-| ------------ | ------ | ---------- |
-| Canada       | 1      | 0          |
-| Corée du Sud | 1      | 0          |
-| Quatar       | 1      | 0          |
-| Suisse       | 1      | 0          |
+| Pays               | Points | Différence |
+| ------------------ | ------ | ---------- |
+| Suisse             | 1      | 0          |
+| Canada             | 1      | 0          |
+| Quatar             | 1      | 0          |
+| Bosnie-Herzégovine | 1      | 0          |
 ## Groupe C 
 
 | Match          | Résultat | Remarque |

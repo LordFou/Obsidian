@@ -53,6 +53,7 @@ content: Il devient le Tour Auvergne-Rhône-Alpes (CDLR : c'est naze)
 | 4e (USA)     | [[Quinn Simmons]]  | [[Alex Baudin]]   |                 |                 |                 |                               |
 | ==5e (BEL)== | [[Wout Van Aert]]  | [[Alex Baudin]]   |                 |                 |                 | Sprint<br>4e - [[Vito Braet]] |
 | ==6e (BEL)== | [[Maxim Van Gils]] | [[Luke Tuckwell]] |                 |                 |                 |                               |
+| 7e (MEX)     | [[Isaac Del Toro]] | [[Luke Tuckwell]] |                 |                 |                 | 5e - [[Cian Uijtdebroeks]]    |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
