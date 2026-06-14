@@ -1,21 +1,21 @@
 ---
 type: personne
 ---
-![[image-675.webp|500x281]]
-# Liam Slock
+
+# Nadav Raisberg
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Nationalité** :  
+- **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Lotto - Intermarché]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition      | Résultat | Remarque                                                          |
-| ----- | ---------------- | -------- | ----------------------------------------------------------------- |
-| 2026  | [[GP Gippingen]] | 1ier     | Avec chute sur la ligne en célébrant<br>==Première Victoire Pro== |
+| Année | Compétition                                  | Résultat      | Remarque |
+| ----- | -------------------------------------------- | ------------- | -------- |
+| 2026  | [[Critérium du Dauphiné]] - Classement final | Maillot Point |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -1,21 +1,21 @@
 ---
 type: personne
 ---
-![[image-675.webp|500x281]]
-# Liam Slock
+
+# Clément Braz Afonso
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
+- **Nationalité** :  Français
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[Lotto - Intermarché]]
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition      | Résultat | Remarque                                                          |
-| ----- | ---------------- | -------- | ----------------------------------------------------------------- |
-| 2026  | [[GP Gippingen]] | 1ier     | Avec chute sur la ligne en célébrant<br>==Première Victoire Pro== |
+| Année | Compétition                                  | Résultat | Remarque |
+| ----- | -------------------------------------------- | -------- | -------- |
+| 2026  | [[Critérium du Dauphiné]] - Classement final |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

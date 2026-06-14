@@ -15,8 +15,10 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                          | Résultat | Remarque |
 | ----- | ------------------------------------ | -------- | -------- |
-| 2025  | ?                                    | ==1ier==     |          |
-| 2025  | [[Tour de Norvège]] - 3e étape       | ==1ier==     |          |
+| 2024  | [[GP Gippingen]]                     | ==1ier== |          |
+|       |                                      |          |          |
+| 2025  | ?                                    | ==1ier== |          |
+| 2025  | [[Tour de Norvège]] - 3e étape       | ==1ier== |          |
 | 2025  | [[Clasica San Sebastian]]            | 3e       |          |
 |       |                                      |          |          |
 | 2026  | [[Trofeo Andratx – Pollença]]        | 3e       |          |

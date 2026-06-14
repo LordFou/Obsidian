@@ -15,7 +15,8 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition              | Résultat | Remarque |
 | ----- | ------------------------ | -------- | -------- |
-| 2025  | [[A Travers la Flandre]] | 1ier     |          |
+| 2025  | [[A Travers la Flandre]] | ==1ier== |          |
+| 2025  | [[GP Gippingen]]         | ==1ier== |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
