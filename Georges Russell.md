@@ -17,11 +17,12 @@ type: personne
 | ----- | --------------------------------- | -------- | ------------------ |
 | 2025  | [[Grand Prix du Canada]]          | 1ier     |                    |
 |       |                                   |          |                    |
-| 2026  | [[Grand Prix d'Australie]]        | 1ier     |                    |
-| 2026  | [[Grand Prix de Chine]] - Sprint  | 1ier     |                    |
+| 2026  | [[Grand Prix d'Australie]]        | ==1ier== |                    |
+| 2026  | [[Grand Prix de Chine]] - Sprint  | ==1ier== |                    |
 | 2026  | [[Grand Prix de Chine]] - Course  | 2e       |                    |
-| 2026  | [[Grand Prix du Canada]] - Sprint | 1ier     |                    |
+| 2026  | [[Grand Prix du Canada]] - Sprint | ==1ier== |                    |
 | 2026  | [[Grand Prix du Canada]] - Course | Abandon  | Problème mécanique |
+| 2026  | [[Grand Prix d'Espagne]] - Course | 2e       |                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
