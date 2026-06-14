@@ -1,41 +1,41 @@
 ---
 type: game
 subType: ""
-title: Voidling Bound
-englishTitle: Voidling Bound
+title: NBA THE RUN
+englishTitle: NBA THE RUN
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2004680
-id: 2004680
+url: https://store.steampowered.com/app/2866670
+id: 2866670
 developers:
-  - Hatchery Games
+  - Play by Play Studios
 publishers:
-  - Hatchery Games
+  - Play by Play Studios
 genres:
   - Action
-  - Adventure
-  - RPG
+  - Casual
+  - Sports
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/header.jpg?t=1780167412
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866670/341cce53e1826ac8d4ff005313e8590f46cfec4c/header.jpg?t=1781120286
 released: true
 releaseDate: 09/06/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/header.jpg?t=1780167412)
-# Voidling Bound
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866670/341cce53e1826ac8d4ff005313e8590f46cfec4c/header.jpg?t=1781120286)
+# NBA THE RUN
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Hatchery Games]]
+	- Studio : [[Play by Play Studios]]
 	- Personnalités : 
-- **Éditeur** : [[Hatchery Games]]
-- **Plateformes** : [[PC]]
+- **Éditeur** : [[Play by Play Studios]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[RPG]]
+- **Genre** : [[Sport]], [[Basket-Ball]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -62,5 +62,6 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/2004680       |
-| Trailer     | https://youtu.be/hEWwuPZ2yM0?si=rHtJ-JsM8PA109Jk |
+| Steam       | https://store.steampowered.com/app/2866670       |
+| Trailer     | https://youtu.be/DvgJugUaKWQ?si=MsSVzSh47heuqrPd |
+|             |                                                  |

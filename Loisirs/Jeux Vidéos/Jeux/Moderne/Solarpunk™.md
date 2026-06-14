@@ -1,41 +1,44 @@
 ---
 type: game
 subType: ""
-title: Voidling Bound
-englishTitle: Voidling Bound
+title: Solarpunk™
+englishTitle: Solarpunk™
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2004680
-id: 2004680
+url: https://store.steampowered.com/app/1805110
+id: 1805110
 developers:
-  - Hatchery Games
+  - Cyberwave
 publishers:
-  - Hatchery Games
+  - rokaplay
+  - Metaroot
 genres:
-  - Action
   - Adventure
-  - RPG
+  - Indie
+  - Simulation
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/header.jpg?t=1780167412
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/9512e707770080499c95c50976ff1b6f712a95ba/header.jpg?t=1780935129
 released: true
-releaseDate: 09/06/2026
+releaseDate: 08/06/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/header.jpg?t=1780167412)
-# Voidling Bound
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/9512e707770080499c95c50976ff1b6f712a95ba/header.jpg?t=1780935129)
+# Solarpunk™
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Hatchery Games]]
+	- Studio : [[Cyberwave]]
 	- Personnalités : 
-- **Éditeur** : [[Hatchery Games]]
-- **Plateformes** : [[PC]]
+- **Éditeur** : 
+	- [[rokaplay]]
+	- [[Metaroot]]
+- **Plateformes** : [[PC]], [[Playstation 4]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[RPG]]
+- **Genre** : [[Crafting]], [[Survie]], [[Aventure]], [[Simulation]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -62,5 +65,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/2004680       |
-| Trailer     | https://youtu.be/hEWwuPZ2yM0?si=rHtJ-JsM8PA109Jk |
+| Steam       | https://store.steampowered.com/app/1805110       |
+| Trailer     | https://youtu.be/WQPboQNozH4?si=uXCnSj8V2K7Lbtg4 |

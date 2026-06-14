@@ -38,7 +38,7 @@ tags: mediaDB/game
 	- [[Kepler Ghost]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : Casual,Indie,RPG
+- **Genre** : [[Roguelite]], [[RPG]]
 - **Résumé** :  
 
 ## Détails Techniques

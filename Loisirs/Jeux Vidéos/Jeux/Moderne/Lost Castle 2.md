@@ -1,41 +1,42 @@
 ---
 type: game
 subType: ""
-title: Voidling Bound
-englishTitle: Voidling Bound
+title: Lost Castle 2
+englishTitle: Lost Castle 2
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2004680
-id: 2004680
+url: https://store.steampowered.com/app/2445690
+id: 2445690
 developers:
-  - Hatchery Games
+  - Hunter Studio
 publishers:
-  - Hatchery Games
+  - Hunter Studio
 genres:
   - Action
   - Adventure
+  - Indie
   - RPG
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/header.jpg?t=1780167412
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/f6619cdbb283b34d8fc5bdd12472127a2efd0866/header.jpg?t=1781171074
 released: true
-releaseDate: 09/06/2026
+releaseDate: 10/06/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/header.jpg?t=1780167412)
-# Voidling Bound
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/f6619cdbb283b34d8fc5bdd12472127a2efd0866/header.jpg?t=1781171074)
+# Lost Castle 2
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Hatchery Games]]
+	- Studio : [[Hunter Studio]]
 	- Personnalités : 
-- **Éditeur** : [[Hatchery Games]]
+- **Éditeur** : [[Hunter Studio]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[RPG]]
+- **Genre** : Action,Adventure,Indie,RPG
 - **Résumé** :  
 
 ## Détails Techniques
@@ -60,7 +61,6 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL                                              |
-| ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/2004680       |
-| Trailer     | https://youtu.be/hEWwuPZ2yM0?si=rHtJ-JsM8PA109Jk |
+| Description | URL       |
+| ----------- | --------- |
+| Wiki        | https://store.steampowered.com/app/2445690 |
