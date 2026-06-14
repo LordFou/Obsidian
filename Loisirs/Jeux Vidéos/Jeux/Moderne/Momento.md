@@ -1,44 +1,46 @@
 ---
 type: game
 subType: ""
-title: Solarpunk™
-englishTitle: Solarpunk™
+title: Momento
+englishTitle: Momento
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/1805110
-id: 1805110
+url: https://store.steampowered.com/app/2474770
+id: 2474770
 developers:
-  - Cyberwave
+  - Fat Alien Cat
+  - Nomo Studio
 publishers:
-  - rokaplay
-  - Metaroot
+  - Fat Alien Cat & Nomo Studio
 genres:
-  - Adventure
-  - Indie
-  - Simulation
+  - Casual
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/9512e707770080499c95c50976ff1b6f712a95ba/header.jpg?t=1780935129
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2474770/cd703a3d72e2f6d086a3d227236bc3853fc98d57/header.jpg?t=1781325546
 released: true
-releaseDate: 08/06/2026
+releaseDate: 06/06/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/9512e707770080499c95c50976ff1b6f712a95ba/header.jpg?t=1780935129)
-# Solarpunk™
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2474770/cd703a3d72e2f6d086a3d227236bc3853fc98d57/header.jpg?t=1781325546)
+# Momento
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Cyberwave]]
+	- Studio : 
+		- Fat Alien
+		- Cat
+		- Nomo Studio
 	- Personnalités : 
 - **Éditeur** : 
-	- [[rokaplay]]
-	- [[Metaroot]]
-- **Plateformes** : [[PC]], [[Playstation 4]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
+	- Fat Alien
+	- Cat
+	- Nomo Studio
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Crafting]], [[Survie]], [[Aventure]], [[Simulation]]
+- **Genre** : 
 - **Résumé** :  
 
 ## Détails Techniques
@@ -46,7 +48,7 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 0
+	- CheckPoint (8/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -65,5 +67,6 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/1805110       |
-| Trailer     | https://youtu.be/WQPboQNozH4?si=uXCnSj8V2K7Lbtg4 |
+| Steam       | https://store.steampowered.com/app/2474770       |
+| Trailer     | https://youtu.be/ZhTWXjQFZJk?si=J9ug5_DEgRiyz2ax |
+|             |                                                  |

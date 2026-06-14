@@ -1,42 +1,44 @@
 ---
 type: game
 subType: ""
-title: Lost Castle 2
-englishTitle: Lost Castle 2
+title: Solarpunk™
+englishTitle: Solarpunk™
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2445690
-id: 2445690
+url: https://store.steampowered.com/app/1805110
+id: 1805110
 developers:
-  - Hunter Studio
+  - Cyberwave
 publishers:
-  - Hunter Studio
+  - rokaplay
+  - Metaroot
 genres:
-  - Action
   - Adventure
   - Indie
-  - RPG
+  - Simulation
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/f6619cdbb283b34d8fc5bdd12472127a2efd0866/header.jpg?t=1781171074
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/9512e707770080499c95c50976ff1b6f712a95ba/header.jpg?t=1780935129
 released: true
-releaseDate: 10/06/2026
+releaseDate: 08/06/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/f6619cdbb283b34d8fc5bdd12472127a2efd0866/header.jpg?t=1781171074)
-# Lost Castle 2
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/9512e707770080499c95c50976ff1b6f712a95ba/header.jpg?t=1780935129)
+# Solarpunk
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Hunter Studio]]
+	- Studio : [[Cyberwave]]
 	- Personnalités : 
-- **Éditeur** : [[Hunter Studio]]
-- **Plateformes** : [[PC]]
+- **Éditeur** : 
+	- [[rokaplay]]
+	- [[Metaroot]]
+- **Plateformes** : [[PC]], [[Playstation 4]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Roguelite]], [[RPG]]
+- **Genre** : [[Crafting]], [[Survie]], [[Aventure]], [[Simulation]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -63,5 +65,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/2445690       |
-| Trailer     | https://youtu.be/D6f24rKhN04?si=e6NjONlojrJnmsMQ |
+| Steam       | https://store.steampowered.com/app/1805110       |
+| Trailer     | https://youtu.be/WQPboQNozH4?si=uXCnSj8V2K7Lbtg4 |
