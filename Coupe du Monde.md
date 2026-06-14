@@ -76,6 +76,34 @@ type: event
 | Paraguay  | 0      | -3         |
 
 
+## Groupe E 
+
+| Match               | Résultat | Remarque                                      |
+| ------------------- | -------- | --------------------------------------------- |
+| Allemagne - Curaçao | 7-1      | Premier but dans la coupe du monde du Curaçao |
+
+| Pays      | Points | Différence |
+| --------- | ------ | ---------- |
+| Allemagne | 3      | +6         |
+| Curaçao   | 0      | -6         |
+|           |        |            |
+## Groupe F 
+
+| Match            | Résultat | Remarque |
+| ---------------- | -------- | -------- |
+| Pays-Bas - Japon |          |          |
+
+
+| Pays     | Points | Différence |
+| -------- | ------ | ---------- |
+| Pays-Bas |        |            |
+| Japon    |        |            |
+|          |        |            |
+
+
+
+
+
 # Hall of fame
 ## Hommes
 
