@@ -2,23 +2,20 @@
 type: personne
 ---
 
-# Jenno Berckmoes
+# Floris Van Tricht
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** :  Cyclisme 
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                     | Résultat | Remarque    |
-| ----- | ------------------------------- | -------- | ----------- |
-| 2024  | [[Muur Classic]]                | 1ier     |             |
-| 2025  | [[Tour de Belgique]] - 4e étape | 1ier     | Etape Reine |
-| 2025  | [[Muur Classic]]                | 3e       |             |
-| 2026  | [[Muur Classic]]                | 3e       |             |
+| Année | Compétition      | Résultat | Remarque |
+| ----- | ---------------- | -------- | -------- |
+| 2026  | [[Muur Classic]] | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -27,11 +24,11 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-- Chute au [[Tour des Flandres]] 2025
+Évoquer les polémiques ou moments clés de sa carrière.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
-# Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |

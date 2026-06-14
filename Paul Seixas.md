@@ -37,7 +37,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - Plus jeune vainqueur de la [[Flèche Wallonne]] en 2026 (19 ans)
 
 # Controverses ou Événements Importants
-- Chute lors du [[Critérium du Dauphiné]] 2026, le [[Tour de France]] est-il compromis ?
+- Chute lors du [[Critérium du Dauphiné]] 2026, puis abandon le lendemain, le [[Tour de France]] est-il compromis ?
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
