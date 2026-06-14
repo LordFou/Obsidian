@@ -1,42 +1,45 @@
 ---
 type: game
 subType: ""
-title: Control, I'm Not Coming Back
-englishTitle: Control, I'm Not Coming Back
+title: Astro Colony
+englishTitle: Astro Colony
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/4515660
-id: 4515660
+url: https://store.steampowered.com/app/1614550
+id: 1614550
 developers:
-  - Desborde Games
+  - Terad Games
 publishers:
-  - Desborde Games
+  - Terad Games
 genres:
+  - Action
   - Adventure
+  - Casual
   - Indie
-  - Free To Play
+  - Simulation
+  - Strategy
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515660/4e7f6f7276749c6f97cf7a31bf9b0fa8254b6c8f/header.jpg?t=1781364152
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1614550/2444c2c90769a6e052700c9cf7efbc3603276a7c/header.jpg?t=1780941848
 released: true
-releaseDate: 29/05/2026
+releaseDate: 02/06/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515660/4e7f6f7276749c6f97cf7a31bf9b0fa8254b6c8f/header.jpg?t=1781364152)
-# Control, I'm Not Coming Back
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1614550/2444c2c90769a6e052700c9cf7efbc3603276a7c/header.jpg?t=1780941848)
+# Astro Colony
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Desborde Games]]
+	- Studio : [[Terad Games]]
 	- Personnalités : 
-- **Éditeur** : [[Desborde Games]]
+- **Éditeur** : [[Terad Games]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Aventure Narrative]]
-- **Résumé** :  on y suit un astronaute morose qui explore l'espace (mais pas que), aux côtés de la sonde Voyager 1
+- **Genre** : [[Factory-Builder]]
+- **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -45,11 +48,10 @@ tags: mediaDB/game
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
 - **Gameplay** :
-- **Durée estimée** : <1h
+- **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- [[Espace]]
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
@@ -57,10 +59,11 @@ tags: mediaDB/game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[Satisfactory]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/4515660 |
+| Wiki        | https://store.steampowered.com/app/1614550 |

@@ -20,12 +20,13 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[Pixel Art]]
+- **Graphismes** : [[Pixel Art]], Style 8 bits
 - **Audio** : 
 	- morceaux chiptune entraînants et mémorables
 - **Réception critique** : 
 	- CheckPoint (9/10)
 	- Canard PC (8/10)
+	- Izual : L'inventivité du jeu et ses combats impeccables ont mis tout Internet en pâmoison, tandis que sa difficulté et son inspiration soulslike l'ont propulsé au rang de candidat au GOTY pour beaucoup
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -47,3 +48,4 @@ type: game
 | ----------- | ------------------------------------------------ |
 | Trailer     | https://youtu.be/_Fx0aJCRRpE?si=rIx1TV39MnU5M2sn |
 |             |                                                  |
+![[image-676.webp|500x282]]
