@@ -89,15 +89,15 @@ type: event
 |           |        |            |
 ## Groupe F 
 
-| Match            | Résultat | Remarque |
-| ---------------- | -------- | -------- |
-| Pays-Bas - Japon |          |          |
-
+| Match            | Résultat | Remarque                                |
+| ---------------- | -------- | --------------------------------------- |
+| Pays-Bas - Japon | 2-2      | Mené 2 fois, le Japon est revenu 2 fois |
+|                  |          |                                         |
 
 | Pays     | Points | Différence |
 | -------- | ------ | ---------- |
-| Pays-Bas |        |            |
-| Japon    |        |            |
+| Pays-Bas | 1      | 0          |
+| Japon    | 1      | 0          |
 |          |        |            |
 
 
