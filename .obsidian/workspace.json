@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Chef Knight.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/My Little Cafe Nightmare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chef Knight"
+              "title": "My Little Cafe Nightmare"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Chef k",
+                "query": "Solarpunk",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,8 +204,16 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "a3d0cada8a736ae8",
+  "active": "2066e9a3d214d366",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Greatest Penguin Heist of All Time.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/My Little Cafe Nightmare.md",
+    "SethMadDev.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/A Kobold Story  - Trenchcoat Adventurer.md",
+    "Attachments/image-678.webp",
+    "Crystal Spider Games.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Chef Knight.md",
+    "Attachments/image-677.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Astro Colony.md",
     "Terad Games.md",
     "Mina The Hollower.md",
@@ -228,21 +235,13 @@
     "Clément Braz Afonso.md",
     "Isaac Del Toro.md",
     "Liam Slock.md",
-    "Loisirs/Sport/Compétitions/GP Gippingen.md",
-    "Thibau Nys.md",
-    "Maxim Van Gils.md",
-    "Neilson Powless.md",
     "Attachments/image-675.webp",
-    "Loisirs/Sport/Sportifs/Charles Leclerc.md",
-    "Lando Norris.md",
     "Attachments/image-674.webp",
     "Attachments/image-673.webp",
     "Attachments/image-672.webp",
     "Attachments/image-671.webp",
     "Attachments/image-670.webp",
     "Attachments/image-669.webp",
-    "Attachments/image-668.webp",
-    "Attachments/image-667.webp",
     "Loisirs/Sport/Compétitions/Sans titre",
     "Sans titre",
     "TI-99",
