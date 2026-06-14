@@ -46,12 +46,27 @@ type: event
 | Canada             | 1      | 0          |
 | Quatar             | 1      | 0          |
 | Bosnie-Herzégovine | 1      | 0          |
+
 ## Groupe C 
 
-| Match          | Résultat | Remarque |
-| -------------- | -------- | -------- |
-| USA - Paraguay | 4-1      |          |
-|                |          |          |
+| Match          | Résultat | Remarque                                           |
+| -------------- | -------- | -------------------------------------------------- |
+| Brésil - Maroc | 1-1      | La première grande affiche de cette coupe du monde |
+| Haïti - Ecosse | 0-1      |                                                    |
+
+| Pays   | Points | Différence |
+| ------ | ------ | ---------- |
+| Ecosse | 3      | +1         |
+| Brésil | 1      | 0          |
+| Maroc  | 1      | 0          |
+| Haïti  | 0      | -1         |
+
+## Groupe D 
+
+| Match          | Résultat | Remarque                                      |
+| -------------- | -------- | --------------------------------------------- |
+| USA - Paraguay | 4-1      | Les USA bien rentrés dans leur coupe du monde |
+|                |          |                                               |
 
 | Pays     | Points | Différence |
 | -------- | ------ | ---------- |

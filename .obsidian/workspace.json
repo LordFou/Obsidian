@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Seixas.md",
+                "file": "NBA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paul Seixas"
+              "title": "NBA"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Paul Sei",
+                "query": "NBA",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -205,11 +205,12 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "a3d0cada8a736ae8",
+  "active": "dbacc6f984f28690",
   "lastOpenFiles": [
+    "Coupe du Monde.md",
+    "Paul Seixas.md",
     "Isaac Del Toro.md",
     "Critérium du Dauphiné.md",
-    "Coupe du Monde.md",
     "Journal de bord/2026-06-13.md",
     "Tournoi de Rosmalen.md",
     "Zizou Bergs.md",
@@ -232,7 +233,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Remake of the End of the Greatest RPG of All Time.md",
     "Coin Drop Games.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Town to City.md",
-    "Galaxy Grove.md",
     "Attachments/image-673.webp",
     "Attachments/image-672.webp",
     "Attachments/image-671.webp",
