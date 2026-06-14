@@ -63,15 +63,17 @@ type: event
 
 ## Groupe D 
 
-| Match          | Résultat | Remarque                                      |
-| -------------- | -------- | --------------------------------------------- |
-| USA - Paraguay | 4-1      | Les USA bien rentrés dans leur coupe du monde |
-|                |          |                                               |
+| Match               | Résultat | Remarque                                      |
+| ------------------- | -------- | --------------------------------------------- |
+| USA - Paraguay      | 4-1      | Les USA bien rentrés dans leur coupe du monde |
+| Australie - Turquie | 2-0      | petite surprise                               |
 
-| Pays     | Points | Différence |
-| -------- | ------ | ---------- |
-| USA      | 3      | +3         |
-| Paraguay | 0      | -3         |
+| Pays      | Points | Différence |
+| --------- | ------ | ---------- |
+| USA       | 3      | +3         |
+| Australie | 3      | +2         |
+| Turquie   | 0      | -2         |
+| Paraguay  | 0      | -3         |
 
 
 # Hall of fame
