@@ -78,31 +78,78 @@ type: event
 
 ## Groupe E 
 
-| Match               | Résultat | Remarque                                      |
-| ------------------- | -------- | --------------------------------------------- |
-| Allemagne - Curaçao | 7-1      | Premier but dans la coupe du monde du Curaçao |
+| Match                    | Résultat | Remarque                                      |
+| ------------------------ | -------- | --------------------------------------------- |
+| Allemagne - Curaçao      | 7-1      | Premier but dans la coupe du monde du Curaçao |
+| Côte d'Ivoire - Equateur | 1-0      |                                               |
 
-| Pays      | Points | Différence |
-| --------- | ------ | ---------- |
-| Allemagne | 3      | +6         |
-| Curaçao   | 0      | -6         |
-|           |        |            |
+| Pays          | Points | Différence |
+| ------------- | ------ | ---------- |
+| Allemagne     | 3      | +6         |
+| Côte d'Ivoire | 3      | +1         |
+| Equateur      | 0      | -1         |
+| Curaçao       | 0      | -6         |
 ## Groupe F 
 
 | Match            | Résultat | Remarque                                |
 | ---------------- | -------- | --------------------------------------- |
 | Pays-Bas - Japon | 2-2      | Mené 2 fois, le Japon est revenu 2 fois |
-|                  |          |                                         |
+| Suède - Tunisie  | 5-1      |                                         |
 
 | Pays     | Points | Différence |
 | -------- | ------ | ---------- |
+| Suède    | 3      | +4         |
 | Pays-Bas | 1      | 0          |
 | Japon    | 1      | 0          |
-|          |        |            |
+| Tunisie  | 0      | -4         |
+## Groupe G
 
+| Match             | Résultat | Remarque |
+| ----------------- | -------- | -------- |
+| Belgique - Egypte |          |          |
 
+| Pays     | Points | Différence |
+| -------- | ------ | ---------- |
+| Belgique |        |            |
+| Egypte   |        |            |
 
+## Groupe H
 
+| Match            | Résultat | Remarque                                |
+| ---------------- | -------- | --------------------------------------- |
+
+| Pays     | Points | Différence |
+| -------- | ------ | ---------- |
+
+## Groupe I
+
+| Match            | Résultat | Remarque                                |
+| ---------------- | -------- | --------------------------------------- |
+
+| Pays     | Points | Différence |
+| -------- | ------ | ---------- |
+
+## Groupe J
+
+| Match            | Résultat | Remarque                                |
+| ---------------- | -------- | --------------------------------------- |
+
+| Pays     | Points | Différence |
+| -------- | ------ | ---------- |
+## Groupe K
+
+| Match            | Résultat | Remarque                                |
+| ---------------- | -------- | --------------------------------------- |
+
+| Pays     | Points | Différence |
+| -------- | ------ | ---------- |
+## Groupe L
+
+| Match            | Résultat | Remarque                                |
+| ---------------- | -------- | --------------------------------------- |
+
+| Pays     | Points | Différence |
+| -------- | ------ | ---------- |
 
 # Hall of fame
 ## Hommes
