@@ -2,15 +2,16 @@
 type: game
 ---
 
-# Franchise Elder Scrolls
+# Franchise Fallout
 
 
 ## Informations générales
-- Créateur(s) : {{Nom du ou des créateurs}}
-- Développeur(s) : {{Studio(s) de développement}}
-- Éditeur(s) : {{Nom de l’éditeur}}
-- Première apparition : {{Nom du premier jeu (année)}}
-- Genre principal : {{Stratégie, Action-Aventure, FPS...}}
+- **Créateur(s)** : {{Nom du ou des créateurs}}
+- **Développeur(s)** : {{Studio(s) de développement}}
+- **Éditeur(s)** : {{Nom de l’éditeur}}
+- **Première apparition** : {{Nom du premier jeu (année)}}
+- **Genre principal** : {{Stratégie, Action-Aventure, FPS...}}
+- **Points Communs** :
 
 ## Résumé et historique
 {{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
@@ -22,10 +23,11 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                | Année | Plateformes | Remarque |
-| -------------------- | ----- | ----------- | -------- |
-| [[Skyrim]]           | 2016  |             |          |
-| [[Elder Scrolls VI]] |       |             |          |
+| Titre                   | Année | Plateformes | Remarque |
+| ----------------------- | ----- | ----------- | -------- |
+| [[Fallout - New Vegas]] |       |             |          |
+| [[Fallout 4]]           |       |             |          |
+| [[Fallout 76]]          |       |             |          |
 
 
 ## Mécaniques et innovations

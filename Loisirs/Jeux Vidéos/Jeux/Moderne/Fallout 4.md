@@ -1,56 +1,52 @@
 ---
 type: game
 subType: ""
-title: Starfield
-englishTitle: Starfield
-year: "2023"
+title: Fallout 4
+englishTitle: Fallout 4
+year: "2015"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/1716740
-id: 1716740
+url: https://store.steampowered.com/app/377160
+id: 377160
 developers:
   - Bethesda Game Studios
 publishers:
   - Bethesda Softworks
 genres:
   - RPG
-onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg?t=1773759594
+onlineRating: 84
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg?t=1764687456
 released: true
-releaseDate: 05/09/2023
+releaseDate: 09/11/2015
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg?t=1773759594)
-# Starfield
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg?t=1764687456)
+# Fallout 4
 
 ## Informations Générales
 
-- **Année de sortie** :  2023
+- **Année de sortie** :  2015
 - **Développeur** : 
 	- Studio : [[Bethesda Game Studio]]
 	- Personnalités : 
 - **Éditeur** : [[Bethesda Softworks]]
 - **Plateformes** : 
-	- [[PC]]
-	- [[Xbox Series]]
-	- [[Playstation 5]] (2026)
-- **Franchise** : 
+- **Franchise** : [[Franchise Fallout]]
 - **Genre** : [[RPG]]
 - **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : [[Creation Engine]]
-- **Graphismes** : [[3D]]
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 0
+	- Steam Rating : 84
 - **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- [[Espace]]
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
@@ -62,7 +58,6 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL                                              |
-| ----------- | ------------------------------------------------ |
-| steam       | https://store.steampowered.com/app/1716740       |
-| Trailer PS5 | https://youtu.be/WhfHnKmcXAE?si=vpOJxz3xvWF7AtwH |
+| Description | URL       |
+| ----------- | --------- |
+| Wiki        | https://store.steampowered.com/app/377160 |

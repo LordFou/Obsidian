@@ -1,12 +1,12 @@
 ---
 type: game
 subType: ""
-title: Starfield
-englishTitle: Starfield
-year: "2023"
+title: Fallout 76
+englishTitle: Fallout 76
+year: "2020"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/1716740
-id: 1716740
+url: https://store.steampowered.com/app/1151340
+id: 1151340
 developers:
   - Bethesda Game Studios
 publishers:
@@ -14,34 +14,31 @@ publishers:
 genres:
   - RPG
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg?t=1773759594
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/0bd68f952d2abb58a5710964b97f56584ef49f4d/header.jpg?t=1780927266
 released: true
-releaseDate: 05/09/2023
+releaseDate: 14/04/2020
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg?t=1773759594)
-# Starfield
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/0bd68f952d2abb58a5710964b97f56584ef49f4d/header.jpg?t=1780927266)
+# Fallout 76
 
 ## Informations Générales
 
-- **Année de sortie** :  2023
+- **Année de sortie** :  2020
 - **Développeur** : 
 	- Studio : [[Bethesda Game Studio]]
 	- Personnalités : 
 - **Éditeur** : [[Bethesda Softworks]]
 - **Plateformes** : 
-	- [[PC]]
-	- [[Xbox Series]]
-	- [[Playstation 5]] (2026)
-- **Franchise** : 
-- **Genre** : [[RPG]]
+- **Franchise** : [[Franchise Fallout]]
+- **Genre** : [[RPG]], [[MMORPG]]
 - **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : [[Creation Engine]]
-- **Graphismes** : [[3D]]
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
@@ -50,7 +47,6 @@ tags: mediaDB/game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-	- [[Espace]]
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
@@ -62,7 +58,6 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL                                              |
-| ----------- | ------------------------------------------------ |
-| steam       | https://store.steampowered.com/app/1716740       |
-| Trailer PS5 | https://youtu.be/WhfHnKmcXAE?si=vpOJxz3xvWF7AtwH |
+| Description | URL       |
+| ----------- | --------- |
+| Wiki        | https://store.steampowered.com/app/1151340 |

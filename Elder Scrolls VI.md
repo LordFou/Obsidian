@@ -2,25 +2,26 @@
 type: game
 ---
 
-# Fallout - New Vegas
+# Elder Scrolls VI
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** :  {{ year }}
 - **Développeur** : 
-	- Studio : 
+	- Studio : {{ developers }}
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : {{ publishers }}
 - **Plateformes** : 
-- **Franchise** : [[Franchise Fallout]]
-- **Genre** :
-- **Résumé** : 
+- **Franchise** : 
+- **Genre** : {{ genres }}
+- **Résumé** :  
 
 ## Détails Techniques
-- **Moteur de jeu** : 
+- **Moteur de jeu** : [[Creation Engine]]
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
+	- Steam Rating : {{ onlineRating }}
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -37,6 +38,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL       |
+| ----------- | --------- |
+| Wiki        | {{ url }} |
