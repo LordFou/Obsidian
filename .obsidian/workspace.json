@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cian Uijtdebroeks.md",
+                "file": "Culture/L'extrême droite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cian Uijtdebroeks"
+              "title": "L'extrême droite"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Cian",
+                "query": "extr",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,9 +205,11 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dbacc6f984f28690",
+  "active": "a3d0cada8a736ae8",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Périphériques/Steam Controller (V2026).md",
     "Coupe du Monde.md",
+    "Cian Uijtdebroeks.md",
     "Journal de bord/2026-06-15.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Solarpunk.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Momento.md",
@@ -234,8 +236,6 @@
     "Desborde Games.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Silver Pines.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Fatekeeper.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Skyrim.md",
-    "Franchise Elder Scrolls.md",
     "Attachments/image-675.webp",
     "Attachments/image-674.webp",
     "Attachments/image-673.webp",

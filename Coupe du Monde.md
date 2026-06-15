@@ -115,11 +115,15 @@ type: event
 
 ## Groupe H
 
-| Match            | Résultat | Remarque                                |
-| ---------------- | -------- | --------------------------------------- |
+| Match              | Résultat | Remarque                                      |
+| ------------------ | -------- | --------------------------------------------- |
+| Espagne - Cap Vert | 0-0      | L'Espagne pas encore rentrée dans son tournoi |
+|                    |          |                                               |
 
 | Pays     | Points | Différence |
 | -------- | ------ | ---------- |
+| Espagne  | 1      | 0          |
+| Cap Vert | 1      | 0          |
 
 ## Groupe I
 
