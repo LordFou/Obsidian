@@ -23,18 +23,19 @@ personalRating: 0
 tags: mediaDB/game
 ---
 ![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/1f84e73b8095ab9f40b1bc2c81845330979afc09/header_alt_assets_20.jpg?t=1778610036)
-# Overwatch®
+# Overwatch
 
 ## Informations Générales
 
 - **Année de sortie** :  2023
 - **Développeur** : 
-	- Studio : Blizzard Entertainment, Inc.
+	- Studio : [[Blizzard]] 
 	- Personnalités : 
-- **Éditeur** : Blizzard Entertainment, Inc.
+		- [[Jeff Kaplan]]
+- **Éditeur** : [[Blizzard]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : Action,Free To Play
+- **Genre** : [[Action]], [[Free2Play]]
 - **Résumé** :  
 
 ## Détails Techniques
