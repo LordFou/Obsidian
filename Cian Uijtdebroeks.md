@@ -13,19 +13,21 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                          | Résultat | Remarque                               |
-| ----- | ------------------------------------ | -------- | -------------------------------------- |
-| 2022  | [[Tour de l'Avenir]]                 | 1ier     | Course non PRO                         |
-| 2025  | [[Clasica San Sebastian]]            | 9e       |                                        |
-| 2025  | [[Tour de l'Ain]] - 1e étape         | ?        | :luc_plus: Maillot Montagne            |
-| 2025  | [[Tour de l'Ain]] - 2e étape         | 2e       | :luc_plus: Maillot Jeune               |
-| 2025  | [[Tour de l'Ain]] - 3e étape         | 1ier     | Première victoire PRO<br>Solo de 50 km |
-| 2025  | [[Tour de l'Ain]] - Classement Final | 1ier     |                                        |
-| 2025  | [[Tour de l'Ain]] - Classement Jeune | 1ier     |                                        |
-| 2025  | [[Tour d’Emilie]]                    | 8e       |                                        |
-|       |                                      |          |                                        |
-| 2026  | [[Tour de Valence]] - 4e étape       | ?        | Abandon sur blessure                   |
-| 2026  | [[Tour de Catalogne]] - 5e étape     | 9e       |                                        |
+| Année | Compétition                                  | Résultat | Remarque                               |
+| ----- | -------------------------------------------- | -------- | -------------------------------------- |
+| 2022  | [[Tour de l'Avenir]]                         | 1ier     | Course non PRO                         |
+| 2025  | [[Clasica San Sebastian]]                    | 9e       |                                        |
+| 2025  | [[Tour de l'Ain]] - 1e étape                 | ?        | :luc_plus: Maillot Montagne            |
+| 2025  | [[Tour de l'Ain]] - 2e étape                 | 2e       | :luc_plus: Maillot Jeune               |
+| 2025  | [[Tour de l'Ain]] - 3e étape                 | 1ier     | Première victoire PRO<br>Solo de 50 km |
+| 2025  | [[Tour de l'Ain]] - Classement Final         | 1ier     |                                        |
+| 2025  | [[Tour de l'Ain]] - Classement Jeune         | 1ier     |                                        |
+| 2025  | [[Tour d’Emilie]]                            | 8e       |                                        |
+|       |                                              |          |                                        |
+| 2026  | [[Tour de Valence]] - 4e étape               | ?        | Abandon sur blessure                   |
+| 2026  | [[Tour de Catalogne]] - 5e étape             | 9e       |                                        |
+| 2026  | [[Tour de Catalogne]] - Classement final     | 8e       |                                        |
+| 2026  | [[Critérium du Dauphiné]] - Classement final | 7e       |                                        |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
