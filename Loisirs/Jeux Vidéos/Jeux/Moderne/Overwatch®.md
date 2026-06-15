@@ -1,43 +1,40 @@
 ---
 type: game
 subType: ""
-title: Denshattack!
-englishTitle: Denshattack!
-year: "2026"
+title: Overwatch®
+englishTitle: Overwatch®
+year: "2023"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2524850
-id: 2524850
+url: https://store.steampowered.com/app/2357570
+id: 2357570
 developers:
-  - Undercoders
+  - Blizzard Entertainment, Inc.
 publishers:
-  - Fireshine Games
-  - Boltray Games
+  - Blizzard Entertainment, Inc.
 genres:
   - Action
-  - Adventure
+  - Free To Play
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2524850/9e82089d034705eaa84ecb130d04ed1084ce574c/header.jpg?t=1780476565
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/1f84e73b8095ab9f40b1bc2c81845330979afc09/header_alt_assets_20.jpg?t=1778610036
 released: true
-releaseDate: 20/01/2026
+releaseDate: 10/08/2023
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2524850/9e82089d034705eaa84ecb130d04ed1084ce574c/header.jpg?t=1780476565)
-# Denshattack!
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/1f84e73b8095ab9f40b1bc2c81845330979afc09/header_alt_assets_20.jpg?t=1778610036)
+# Overwatch®
 
 ## Informations Générales
 
-- **Année de sortie** :  2026
+- **Année de sortie** :  2023
 - **Développeur** : 
-	- Studio : [[Undercoders]]
+	- Studio : Blizzard Entertainment, Inc.
 	- Personnalités : 
-- **Éditeur** : 
-	- [[Fireshine Games]]
-	- [[Boltray Games]]
-- **Plateformes** : [[PC]]
+- **Éditeur** : Blizzard Entertainment, Inc.
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action]]
+- **Genre** : Action,Free To Play
 - **Résumé** :  
 
 ## Détails Techniques
@@ -64,4 +61,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2524850 |
+| Wiki        | https://store.steampowered.com/app/2357570 |
