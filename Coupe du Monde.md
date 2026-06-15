@@ -106,12 +106,13 @@ type: event
 
 | Match             | Résultat | Remarque |
 | ----------------- | -------- | -------- |
-| Belgique - Egypte |          |          |
+| Belgique - Egypte | 1-1      |          |
+|                   |          |          |
 
 | Pays     | Points | Différence |
 | -------- | ------ | ---------- |
-| Belgique |        |            |
-| Egypte   |        |            |
+| Belgique | 1      | 0          |
+| Egypte   | 1      | 0          |
 
 ## Groupe H
 
