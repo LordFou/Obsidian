@@ -11,7 +11,7 @@ type: event
 | Année | Vainqueur        | Nationalité | Remarque |
 | ----- | ---------------- | ----------- | -------- |
 | 2025  | [[Paul Magnier]] | Français    |          |
-|       |                  |             |          |
+| 2026  |                  |             |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

@@ -26,10 +26,22 @@ https://www.tourdesuisse.ch/fr
 | --- | ------------------ | ------------------ | -------- | ------ | ----- | ---------------------------------- |
 | 1   | [[Marlen Reusser]] | [[Marlen Reusser]] |          |        |       | Sprint à 2 avec [[Demi Vollering]] |
 | 2   | [[Amber Kraak]]    | [[Marlen Reusser]] |          |        |       |                                    |
+# Edition 2026
+## Hommes
+
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|     |           |         |          |        |       |           |
+## Femmes
+
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|     |           |         |          |        |       |           |
+
+
 # General
 
 ### Hommes
-
 
 | Année | Vainqueur        | Nationalité | Montagne             | Points           | Jeune               | Equipe                  | Combativité      | Remarques                        |
 | ----- | ---------------- | ----------- | -------------------- | ---------------- | ------------------- | ----------------------- | ---------------- | -------------------------------- |
