@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Kylian Mbappé.md",
+                "file": "Loisirs/Sport/Compétitions/Tour des Alpes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kylian Mbappé"
+              "title": "Tour des Alpes"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kylian Mbappé",
+                "query": "Tour des Alpes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,8 +207,9 @@
   },
   "active": "c96e0744428e06fb",
   "lastOpenFiles": [
-    "PSG.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Aliens.md",
     "Loisirs/Sport/Sportifs/Kylian Mbappé.md",
+    "PSG.md",
     "Attachments/image-683.webp",
     "Coupe du Monde.md",
     "Loisirs/Sport/Sportifs/Neisser Loyola.md",
@@ -235,7 +237,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Silver Pines.md",
     "Loisirs/Sport/Compétitions/Tournoi de Berlin.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Solarpunk.md",
-    "Loisirs/Sport/Compétitions/GP Gippingen.md",
     "Attachments/image-679.webp",
     "Attachments/image-678.webp",
     "Attachments/image-677.webp",
