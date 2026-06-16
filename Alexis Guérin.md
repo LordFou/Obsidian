@@ -2,20 +2,20 @@
 type: personne
 ---
 
-# Casper van Uden
-![[Pasted image 20250513221016.jpg]]
+# Alexis Guérin
+
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Néerlandais
-- **Sport / Discipline** :  Cyclisme
+- **Nationalité** :  Français
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  DSM
+- **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition     | Résultat | Remarque      |
-| ----- | --------------- | -------- | ------------- |
-| 2025  | Giro - 4e Etape | 1ier     | Sprint Massif |
+| Année | Compétition             | Résultat | Remarque |
+| ----- | ----------------------- | -------- | -------- |
+| 2026  | [[Grand Prix Anicolor]] | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -29,6 +29,6 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
-# Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |
