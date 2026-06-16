@@ -132,11 +132,15 @@ type: event
 
 ## Groupe I
 
-| Match            | Résultat | Remarque                                |
-| ---------------- | -------- | --------------------------------------- |
+| Match            | Résultat | Remarque                                                              |
+| ---------------- | -------- | --------------------------------------------------------------------- |
+| France - Sénégal | 3-1      | La France déroule et se pose en favori ayant réussi son premier match |
+| Iraq - Norvège   |          |                                                                       |
 
-| Pays     | Points | Différence |
-| -------- | ------ | ---------- |
+| Pays    | Points | Différence |
+| ------- | ------ | ---------- |
+| France  | 3      | +2         |
+| Sénégal | 0      | -2         |
 
 ## Groupe J
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coupe du Monde.md",
+                "file": "Loisirs/Sport/Sportifs/Kylian Mbappé.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coupe du Monde"
+              "title": "Kylian Mbappé"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Neisser Loyola",
+                "query": "Kylian Mbappé",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,6 +206,10 @@
   },
   "active": "c96e0744428e06fb",
   "lastOpenFiles": [
+    "PSG.md",
+    "Loisirs/Sport/Sportifs/Kylian Mbappé.md",
+    "Attachments/image-683.webp",
+    "Coupe du Monde.md",
     "Loisirs/Sport/Sportifs/Neisser Loyola.md",
     "Jasper Schoofs.md",
     "Giro Next Gen.md",
@@ -217,7 +220,6 @@
     "Femke Bol.md",
     "Attachments/image-681.webp",
     "Attachments/image-680.webp",
-    "Coupe du Monde.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Voidling Bound.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/My Little Cafe Nightmare.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Realm of Ink.md",
@@ -234,15 +236,12 @@
     "Loisirs/Sport/Compétitions/Tournoi de Berlin.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Solarpunk.md",
     "Loisirs/Sport/Compétitions/GP Gippingen.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Skyrim.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Town to City.md",
     "Attachments/image-679.webp",
     "Attachments/image-678.webp",
     "Attachments/image-677.webp",
     "Attachments/image-676.webp",
     "Attachments/image-675.webp",
     "Attachments/image-674.webp",
-    "Attachments/image-673.webp",
     "Commode 16 Plus"
   ]
 }
