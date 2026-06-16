@@ -16,8 +16,11 @@ type: personne
 | Année | Compétition                             | Résultat | Remarque                                                        |
 | ----- | --------------------------------------- | -------- | --------------------------------------------------------------- |
 | 2022  | [[Tour du Limbourg]]                    | 1ier     |                                                                 |
+|       |                                         |          |                                                                 |
 | 2023  | [[Grand Prix de Québec]]                | 1ier 🥇  |                                                                 |
 | 2023  | [[Famenne Ardenne Classic]]             | 1ier 🥇  |                                                                 |
+| 2023  | [[Grand Prix du Morbihan]]              | 1ier     |                                                                 |
+|       |                                         |          |                                                                 |
 | 2024  | [[Binche-Chimay-Binche]]                | 1ier 🥇  |                                                                 |
 | 2024  | [[Famenne Ardenne Classic]]             | 1ier 🥇  |                                                                 |
 | 2025  | [[Brussels Cycling Classic]]            | 3e       | Sprint Massif                                                   |

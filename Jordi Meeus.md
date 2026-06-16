@@ -15,11 +15,13 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                              | Résultat | Remarque                        |
 | ----- | ---------------------------------------- | -------- | ------------------------------- |
+| 2023  | Grand Prix de Wallonie                   | 1ier     |                                 |
+|       |                                          |          |                                 |
 | 2024  | [[Tour de Wallonie]] - 1e étape          | ==1ier== | Sprint                          |
 |       |                                          |          |                                 |
 | 2025  | [[Tour d'Algarve]] -  ? étape            | ==1ier== | Sprint                          |
 | 2025  | [[Tour de Suisse]] - 6e étape            | ==1ier== | Sprint                          |
-| 2025  | [[Copenhague Sprint]]                 | ==1ier== | Sprint                          |
+| 2025  | [[Copenhague Sprint]]                    | ==1ier== | Sprint                          |
 | 2025  | [[Tour de France]] - 17e étape           | 2e       | Sprint                          |
 | 2025  | [[Super 8 Classic]]                      | 3e       | Sprint                          |
 | 2025  | [[Binche-Chimay-Binche]]                 | ==1ier== | Sprint                          |

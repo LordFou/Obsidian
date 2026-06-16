@@ -16,7 +16,7 @@ type: personne
 | Année | Compétition               | Résultat | Remarque |
 | ----- | ------------------------- | -------- | -------- |
 | 2022  | [[Sibiu Tour]] - Xe étape | 1ier     |          |
-| 2026  | [[Tro Bro Léon]]          | 1ier     |          |
+| 2026  | [[Tro Bro Leon]]          | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
