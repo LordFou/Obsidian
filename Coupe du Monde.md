@@ -104,27 +104,31 @@ type: event
 | Tunisie  | 0      | -4         |
 ## Groupe G
 
-| Match             | Résultat | Remarque |
-| ----------------- | -------- | -------- |
-| Belgique - Egypte | 1-1      |          |
-|                   |          |          |
+| Match                   | Résultat | Remarque |
+| ----------------------- | -------- | -------- |
+| Belgique - Egypte       | 1-1      |          |
+| Iran - Nouvelle Zélande | 2-2      |          |
 
-| Pays     | Points | Différence |
-| -------- | ------ | ---------- |
-| Belgique | 1      | 0          |
-| Egypte   | 1      | 0          |
+| Pays             | Points | Différence |
+| ---------------- | ------ | ---------- |
+| Belgique         | 1      | 0          |
+| Egypte           | 1      | 0          |
+| Iran             | 1      | 0          |
+| Nouvelle-Zélande | 1      | 0          |
 
 ## Groupe H
 
-| Match              | Résultat | Remarque                                      |
-| ------------------ | -------- | --------------------------------------------- |
-| Espagne - Cap Vert | 0-0      | L'Espagne pas encore rentrée dans son tournoi |
-|                    |          |                                               |
+| Match                     | Résultat | Remarque                                      |
+| ------------------------- | -------- | --------------------------------------------- |
+| Espagne - Cap Vert        | 0-0      | L'Espagne pas encore rentrée dans son tournoi |
+| Arabie Saoudite - Uruguay | 1-1      |                                               |
 
-| Pays     | Points | Différence |
-| -------- | ------ | ---------- |
-| Espagne  | 1      | 0          |
-| Cap Vert | 1      | 0          |
+| Pays            | Points | Différence |
+| --------------- | ------ | ---------- |
+| Espagne         | 1      | 0          |
+| Cap Vert        | 1      | 0          |
+| Arabie Saoudite | 1      | 0          |
+| Uruguay         | 1      | 0          |
 
 ## Groupe I
 
