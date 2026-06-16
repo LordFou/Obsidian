@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jordi Meeus.md",
+                "file": "Loisirs/Sport/Compétitions/Tour des Alpes-Maritimes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jordi Meeus"
+              "title": "Tour des Alpes-Maritimes"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Circuit de Wallonie",
+                "query": "Heist",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,8 +206,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c96e0744428e06fb",
+  "active": "571b06dbd1c46b81",
   "lastOpenFiles": [
+    "Tour de Wallonie.md",
+    "Benoit Cosnefroy.md",
+    "Loisirs/Sport/Compétitions/Boucle de la Mayenne.md",
+    "Loisirs/Sport/Antwerp Port Epic.md",
+    "GP Criquielon.md",
+    "Loisirs/Sport/Compétitions/Veenendaal - Veenendaal Classic.md",
+    "Loisirs/Sport/Compétitions/Quatre Jours de Dunkerque.md",
+    "Classique Dunkerque.md",
+    "Loisirs/Sport/Compétitions/Tour de Cologne.md",
+    "Loisirs/Sport/Compétitions/Boucle de L'Aulne.md",
+    "Loisirs/Sport/Compétitions/Tour du Finistère.md",
+    "Jordi Meeus.md",
     "Grand Prix de Wallonie.md",
     "Loisirs/Sport/Compétitions/Circuit de Wallonie.md",
     "Riley Sheehan.md",
@@ -219,21 +231,9 @@
     "Filippo Fiorelli.md",
     "Loisirs/Sport/Compétitions/Grand Prix du Morbihan.md",
     "Loisirs/Sport/Arnaud de Lie.md",
-    "Benoit Cosnefroy.md",
     "Loisirs/Sport/Tour d'Italie.md",
     "Jarno Widar.md",
     "Loisirs/Sport/Compétitions/Flèche Ardennaise.md",
-    "Loisirs/Sport/Compétitions/Tour de Grèce.md",
-    "Tour des Apennins.md",
-    "Loisirs/Sport/Compétitions/Famenne Ardenne Classic.md",
-    "Loisirs/Sport/Compétitions/Ronde van Overijssel.md",
-    "Loisirs/Sport/Compétitions/Grand Prix Anicolor.md",
-    "Alexis Guérin.md",
-    "Kenny Molly.md",
-    "Loisirs/Sport/Compétitions/Circuit du Pays de Waes.md",
-    "Circuit T100.md",
-    "Loisirs/Sport/Compétitions/Eschborn-Frankfurt.md",
-    "Tour de Romandie.md",
     "Attachments/image-683.webp",
     "Attachments/image-682.webp",
     "Attachments/image-681.webp",

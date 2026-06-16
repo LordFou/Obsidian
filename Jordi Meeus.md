@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                              | Résultat | Remarque                        |
 | ----- | ---------------------------------------- | -------- | ------------------------------- |
-| 2023  | Grand Prix de Wallonie                   | 1ier     |                                 |
+| 2023  | [[Grand Prix de Wallonie]]               | ==1ier== |                                 |
 |       |                                          |          |                                 |
 | 2024  | [[Tour de Wallonie]] - 1e étape          | ==1ier== | Sprint                          |
 |       |                                          |          |                                 |
