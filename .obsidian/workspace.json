@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ca8306bbbb243a7d",
+        "id": "df4c5237088c45a4",
         "type": "tabs",
         "children": [
           {
-            "id": "afb9b6d48cb795ab",
+            "id": "5760568ea1fcf3e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loisirs/Jeux Vidéos/Périphériques/Steam Deck.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Steam Deck"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -205,8 +201,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "afb9b6d48cb795ab",
+  "active": "5760568ea1fcf3e3",
   "lastOpenFiles": [
+    "Journal de bord/2026-06-17.md",
+    "Loisirs/Jeux Vidéos/Périphériques/Steam Deck.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Blueberry.md",
     "Attachments/image-651.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/River City Saga - Journey to the West.md",
@@ -234,8 +232,6 @@
     "Elisa Balsamo.md",
     "Attachments/image-649.webp",
     "Loisirs/Sport/Tour d'Italie.md",
-    "Tour de Wallonie.md",
-    "Joppe Heremans.md",
     "Attachments/image-648.webp",
     "Attachments/image-647.webp",
     "Attachments/image-646.webp",
