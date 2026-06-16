@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "df4c5237088c45a4",
+        "id": "4ff45402c6bd7bd0",
         "type": "tabs",
         "children": [
           {
-            "id": "5760568ea1fcf3e3",
+            "id": "c96e0744428e06fb",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -205,8 +201,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5760568ea1fcf3e3",
+  "active": "720770048378678f",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Voidling Bound.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/My Little Cafe Nightmare.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Realm of Ink.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Momento.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/NBA THE RUN.md",
+    "Loisirs/Sport/Compétitions/Grand Prix de Monaco.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Remake of the End of the Greatest RPG of All Time.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/You Know The Drill.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Snacktorio.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Paralives.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sizeable.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Thank You For Your Application.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Silver Pines.md",
     "Loisirs/Sport/Compétitions/Tournoi de Berlin.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Solarpunk.md",
@@ -221,18 +229,6 @@
     "ludokai.md",
     "Undercoders.md",
     "Timberline Studio.md",
-    "Terad Games.md",
-    "TT Games.md",
-    "SethMadDev.md",
-    "Ramses Debruyne.md",
-    "Patrice Désilets.md",
-    "Paraglacial.md",
-    "Panache.md",
-    "Nadav Raisberg.md",
-    "Mc Laren.md",
-    "Matteo Arnaldi.md",
-    "Maja Chwalinska.md",
-    "Loisirs/Sport/Sportifs/Maya Chwalinska.md",
     "Attachments/image-679.webp",
     "Attachments/image-678.webp",
     "Attachments/image-677.webp",
