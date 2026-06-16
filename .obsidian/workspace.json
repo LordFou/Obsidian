@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Giro Next Gen.md",
+                "file": "Coupe du Monde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Giro Next Gen"
+              "title": "Coupe du Monde"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Giro",
+                "query": "Neisser Loyola",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -207,6 +207,9 @@
   },
   "active": "c96e0744428e06fb",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Neisser Loyola.md",
+    "Jasper Schoofs.md",
+    "Giro Next Gen.md",
     "Joao Almeida.md",
     "Tour de Suisse.md",
     "Loisirs/Sport/Sportifs/Audrey Werro.md",
@@ -233,9 +236,6 @@
     "Loisirs/Sport/Compétitions/GP Gippingen.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Skyrim.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Town to City.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Overwatch.md",
-    "conflict-files-obsidian-git.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Lost Castle 2.md",
     "Attachments/image-679.webp",
     "Attachments/image-678.webp",
     "Attachments/image-677.webp",

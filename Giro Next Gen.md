@@ -11,11 +11,11 @@ type: event
 
 ### Etapes 
 
-|          | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
-| -------- | --------- | ------- | -------- | ------ | ----- | --------- |
-| 3e (BEL) |           |         |          |        |       |           |
-|          |           |         |          |        |       |           |
-|          |           |         |          |        |       |           |
+|          | Vainqueur          | Général            | Montagne | Points | Jeune | Remarques |
+| -------- | ------------------ | ------------------ | -------- | ------ | ----- | --------- |
+| 3e (BEL) | [[Jasper Schoofs]] | [[Jasper Schoofs]] |          |        |       |           |
+|          |                    |                    |          |        |       |           |
+|          |                    |                    |          |        |       |           |
 ### Général
 
 ## Femmes
