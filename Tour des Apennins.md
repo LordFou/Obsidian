@@ -8,10 +8,10 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur        | Nationalité | Remarque |
-| ----- | ---------------- | ----------- | -------- |
-| 2025  | [[Diego Ulissi]] | Italien     |          |
-|       |                  |             |          |
+| Année | Vainqueur              | Nationalité | Remarque |
+| ----- | ---------------------- | ----------- | -------- |
+| 2025  | [[Diego Ulissi]]       | Italien     |          |
+| 2026  | [[Ludovico Crescioli]] | Italien     |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

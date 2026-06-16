@@ -19,6 +19,7 @@ type: personne
 | 2026  | [[Amstel Gold Race]]                   | 3e       |          |
 | 2026  | [[Tour de Hongrie]] - 2e étape         | 1ier     |          |
 | 2026  | [[Tour de Hongrie]] - Classement final | 2e       |          |
+| 2026  | [[Grand Prix du Morbihan]]             |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

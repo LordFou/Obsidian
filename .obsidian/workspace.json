@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Famenne Ardenne Classic.md",
+                "file": "Benoit Cosnefroy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Famenne Ardenne Classic"
+              "title": "Benoit Cosnefroy"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Famenne",
+                "query": "Morbihan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,6 +208,13 @@
   },
   "active": "c96e0744428e06fb",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Grand Prix du Morbihan.md",
+    "Loisirs/Sport/Tour d'Italie.md",
+    "Jarno Widar.md",
+    "Loisirs/Sport/Compétitions/Flèche Ardennaise.md",
+    "Loisirs/Sport/Compétitions/Tour de Grèce.md",
+    "Tour des Apennins.md",
+    "Loisirs/Sport/Compétitions/Famenne Ardenne Classic.md",
     "Loisirs/Sport/Compétitions/Ronde van Overijssel.md",
     "Loisirs/Sport/Compétitions/Grand Prix Anicolor.md",
     "Alexis Guérin.md",
@@ -226,14 +234,7 @@
     "Loisirs/Sport/Compétitions/Flèche Wallonne.md",
     "Bora Redbull.md",
     "Giulio Pellizzari.md",
-    "Loisirs/Sport/Compétitions/Tour des Alpes.md",
-    "Tommaso Dati.md",
-    "Lennart Jasch.md",
-    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Aliens.md",
-    "Loisirs/Sport/Sportifs/Kylian Mbappé.md",
-    "PSG.md",
     "Attachments/image-683.webp",
-    "Coupe du Monde.md",
     "Attachments/image-682.webp",
     "Attachments/image-681.webp",
     "Attachments/image-680.webp",

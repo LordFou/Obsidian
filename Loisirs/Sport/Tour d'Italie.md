@@ -91,10 +91,6 @@ Aussi appelé [[Giro]] ^^
 | 21e (ITA)     | [[Jonathan Milan]]   | [[Jonas Vingegaard]] | [[Giulio Ciccone]]   | [[Paul Magnier]]     | [[Afonso Eulalio]] |                                              |
 |               |                      |                      |                      |                      |                    |                                              |
 
-| Equipe | Nbr Victoires |
-| ------ | ------------- |
-|        |               |
-
 | Nation | Nbr Victoires |
 | ------ | ------------- |
 | DAN    | 6             |
