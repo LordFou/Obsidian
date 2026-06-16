@@ -11,12 +11,12 @@ type: event
 
 ### Etapes 
 
-|     | Vainqueur              | Général            | Montagne             | Points                 | Jeune             | Equipe       | Remarques |
-| --- | ---------------------- | ------------------ | -------------------- | ---------------------- | ----------------- | ------------ | --------- |
-| 1e  | [[Gabriel Layrac]]     |                    |                      |                        |                   |              |           |
-| 2e  | [[Nairo Quintana]]     | [[Nairo Quintana]] |                      |                        |                   |              |           |
-| 3e  | [[Edgar David Cadena]] | [[Nairo Quintana]] |                      |                        |                   |              |           |
-| 4e  | [[Edgar David Cadena]] | [[Nairo Quintana]] | [[Miguel Heidemann]] | [[Edgar David Cadena]] | [[Adria Pericas]] | [[Movistar]] |           |
+|          | Vainqueur              | Général            | Montagne             | Points                 | Jeune             | Equipe       | Remarques |
+| -------- | ---------------------- | ------------------ | -------------------- | ---------------------- | ----------------- | ------------ | --------- |
+| 1e (FRA) | [[Gabriel Layrac]]     |                    |                      |                        |                   |              |           |
+| 2e (COL) | [[Nairo Quintana]]     | [[Nairo Quintana]] |                      |                        |                   |              |           |
+| 3e       | [[Edgar David Cadena]] | [[Nairo Quintana]] |                      |                        |                   |              |           |
+| 4e       | [[Edgar David Cadena]] | [[Nairo Quintana]] | [[Miguel Heidemann]] | [[Edgar David Cadena]] | [[Adria Pericas]] | [[Movistar]] |           |
 ## Femmes
 
 ### Etapes
