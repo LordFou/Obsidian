@@ -14,7 +14,7 @@ type: event
 |       |                   |             |                     |
 # Femmes
 
-| Année | Vainqueur      | Nationalité | Remarque               |
-| ----- | -------------- | ----------- | ---------------------- |
-| 2025  | Gabriel Diallo | Canadien    | Contre [[Zizou Bergs]] |
-|       |                |             |                        |
+| Année | Vainqueur          | Nationalité | Remarque               |
+| ----- | ------------------ | ----------- | ---------------------- |
+| 2025  | [[Gabriel Diallo]] | Canadien    | Contre [[Zizou Bergs]] |
+|       |                    |             |                        |

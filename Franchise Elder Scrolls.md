@@ -22,9 +22,11 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre | Année | Plateformes | Remarque |
-| ----- | ----- | ----------- | -------- |
-|       |       |             |          |
+| Titre                | Année | Plateformes | Remarque |
+| -------------------- | ----- | ----------- | -------- |
+| [[Oblivion]]         |       |             |          |
+| [[Skyrim]]           | 2016  |             |          |
+| [[Elder Scrolls VI]] |       |             |          |
 
 
 ## Mécaniques et innovations

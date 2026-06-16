@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-654.webp|251x323]]
 # Célia Gery
 
 # Informations Générales
@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition            | Résultat | Remarque |
-| ----- | ---------------------- | -------- | -------- |
-| 2026  | [[Flèche Brabançonne]] | 1ière    |          |
+| Année | Compétition                  | Résultat | Remarque |
+| ----- | ---------------------------- | -------- | -------- |
+| 2026  | [[Flèche Brabançonne]]       | ==1ière==    |          |
+| 2026  | [[Tour d'Italie]] - 7e étape | ==1ière==    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

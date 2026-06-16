@@ -6,7 +6,8 @@ type: game
 
 
 ## Informations générales
-- Créateur(s) : {{Nom du ou des créateurs}}
+- Créateur(s) : 
+	- [[Patrice Désilets]]
 - Développeur(s) : {{Studio(s) de développement}}
 - Éditeur(s) : {{Nom de l’éditeur}}
 - Première apparition : {{Nom du premier jeu (année)}}

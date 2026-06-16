@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-660.webp|330x269]]
 # Abdel Saïd
 
 # Informations Générales
@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                | Résultat | Remarque |
-| ----- | -------------------------- | -------- | -------- |
-| 2025  | Super Grand-Prix de Prague | 1ier     |          |
+| Année | Compétition                                                 | Résultat | Remarque |
+| ----- | ----------------------------------------------------------- | -------- | -------- |
+| 2025  | Super Grand-Prix de Prague                                  | 1ier     |          |
+| 2026  | Jumping CSI de Cannes – Grand Prix du Global Champions Tour | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

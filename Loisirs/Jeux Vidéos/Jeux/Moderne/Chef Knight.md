@@ -67,3 +67,4 @@ tags: mediaDB/game
 | ----------- | ------------------------------------------------ |
 | Steam       | https://store.steampowered.com/app/4304930       |
 | Trailer     | https://youtu.be/0LThddcqgZg?si=oaqUa1E3q5vW-1bP |
+![[image-677.webp|500x282]]

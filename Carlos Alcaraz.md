@@ -19,6 +19,7 @@ type: personne
 |       |                            |             |                                            |
 | 2024  | [[Roland-Garros]]          | Vainqueur   |                                            |
 |       |                            |             |                                            |
+| 2025  | [[Australian Open]]        | Vainqueur   |                                            |
 | 2025  | [[Roland-Garros]]          | Vainqueur   | Plus longue finale de l'histoire jusque là |
 | 2025  | [[Wimbledon]]              | Finaliste   |                                            |
 | 2025  | [[Tournoi de Cincinnati]]  | Vainqueur   |                                            |

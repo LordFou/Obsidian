@@ -39,4 +39,8 @@ title: [[Jilke Michielsen]] perd son combat contre le cancer
 content: L’ancienne championne belge de cyclisme, Jilke Michielsen a perdu son combat contre un cancer des os. Ses derniers mots sur son profil insta : « Ne te prends pas la tête, profite simplement ».
 ![[image-597.webp|500x281]]
 
+date: Juin 2026
+title: Décès du navigateur français [[Charlie Dalin]]
+content: Vainqueur du Vendée Globe 2024-2025 et déjà malade à l'époque , il décède d'un cancer à l’âge de 42 ans
+![[image-670.webp|500x281]]
 ```

@@ -10,10 +10,10 @@ Course World Tour danoise dont la première édition a eu lieu en 2025.
 
 # Hommes
 
-| Année | Vainqueur       | Nationalité | Remarque |
-| ----- | --------------- | ----------- | -------- |
-| 2025  | [[Jordi Meeus]] | Belge       |          |
-|       |                 |             |          |
+| Année | Vainqueur            | Nationalité | Remarque |
+| ----- | -------------------- | ----------- | -------- |
+| 2025  | [[Jordi Meeus]]      | ==Belge==   |          |
+| 2026  | [[Jasper Philipsen]] | ==Belge==   |          |
 # Femmes
 
 | Année | Vainqueur         | Nationalité | Remarque |

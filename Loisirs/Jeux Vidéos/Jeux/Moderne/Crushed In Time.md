@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-663.webp|500x281]]
 # Crushed In Time
 
 ## Informations Générales
@@ -11,7 +11,7 @@ type: game
 	- Studio : [[Draw Me A Pixel]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : PC
+- **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Point & Click]], [[Aventure]], [[Enquête]]
 - **Résumé** : 
@@ -21,7 +21,8 @@ type: game
 - **Graphismes** : 
 	- [[Cartoon]]
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- CheckPoint (7/10)
 - **Gameplay** :
 	- Le monde est élastique => on peut tout tirer dans le jeu et puis le lâcher façon élastique. Ce qui entraîne toute une série de chose sur le monde environnant.
 - **Durée estimée** : 
@@ -31,9 +32,10 @@ type: game
 - **Epoque** : 
 - **Personnages principaux** : 
 	- [[Sherlock Holmes]]
-	- Watson
+	- [[John Watson]]
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Voyage dans le temps]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
@@ -41,6 +43,7 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Trailer     | https://youtu.be/pSSLM0QBRNo?si=iTSM6kALppEXZv5R |
+|             |                                                  |

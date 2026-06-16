@@ -55,7 +55,7 @@ tags: mediaDB/game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
-	- [[Dark Messiah of Might  Magic]]
+	- [[Dark Messiah]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources

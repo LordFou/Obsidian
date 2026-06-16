@@ -111,11 +111,17 @@ Aussi appelé [[Giro]] ^^
 
 - Les sprints sont dominés par [[Elisa Balsamo]] après la disqualification de [[Lorena Wiebes]]
 
-|          | Vainqueur         | Général           | Montagne                 | Points            | Jeune          | Remarques |
-| -------- | ----------------- | ----------------- | ------------------------ | ----------------- | -------------- | --------- |
-| 1e (ITA) | [[Elisa Balsamo]] | [[Elisa Balsamo]] |                          | [[Elisa Balsamo]] |                |           |
-| 2e (ITA) | [[Elisa Balsamo]] | [[Elisa Balsamo]] |                          | [[Elisa Balsamo]] |                |           |
-| 3e (ITA) | [[Elisa Balsamo]] | [[Elisa Balsamo]] | [[Anna Van der breggen]] | [[Elisa Balsamo]] | [[Célia Gery]] |           |
+|          | Vainqueur                | Général                  | Montagne                 | Points            | Jeune          | Remarques |
+| -------- | ------------------------ | ------------------------ | ------------------------ | ----------------- | -------------- | --------- |
+| 1e (ITA) | [[Elisa Balsamo]]        | [[Elisa Balsamo]]        |                          | [[Elisa Balsamo]] |                |           |
+| 2e (ITA) | [[Elisa Balsamo]]        | [[Elisa Balsamo]]        |                          | [[Elisa Balsamo]] |                |           |
+| 3e (ITA) | [[Elisa Balsamo]]        | [[Elisa Balsamo]]        | [[Anna Van der breggen]] | [[Elisa Balsamo]] | [[Célia Gery]] |           |
+| 4e (NDL) | [[Anna van der Breggen]] | [[Anna van der Breggen]] | [[Anna van der Breggen]] | [[Elisa Balsamo]] |                | CLM       |
+| 5e (NDL) | [[Demi Vollering]]       | [[Anna van der Breggen]] |                          | [[Elisa Balsamo]] |                |           |
+| 6e (ITA) | [[Elisa Balsamo]]        | [[Anna van der Breggen]] |                          | [[Elisa Balsamo]] |                |           |
+| 7e (FRA) | [[Célia Gery]]           | [[Anna van der Breggen]] |                          |                   |                |           |
+| 8e (NDL) | [[Demi Vollering]]       | [[Anna van der Breggen]] |                          |                   |                |           |
+| 9e (ITA) | [[Elisa Longo Borghini]] | [[Demi Vollering]]       |                          |                   |                |           |
 
 
 # General

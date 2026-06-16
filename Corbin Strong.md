@@ -20,6 +20,7 @@ type: personne
 | 2025  | [[Tour de Wallonie]] - Classement final                | 1ier     |                            |
 | 2025  | [[ArcticRace]] - 1e étape                              | 1ier     | :luc_plus: Maillot Général |
 | 2026  | [[Tour de la Région Pays de la Loire]] - Maillot Point | 1ier     |                            |
+| 2026  | [[Circuit Franco-Belge]]                               | 1ier     |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

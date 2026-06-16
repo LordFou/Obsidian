@@ -16,13 +16,15 @@ type: personne
 | Année | Compétition                              | Résultat | Remarque                         |
 | ----- | ---------------------------------------- | -------- | -------------------------------- |
 | 2026  | [[Grand Prix d'Australie]]               | 2e       |                                  |
-| 2026  | [[Grand Prix de Chine]] - Qualifications | 1ier     |                                  |
-| 2026  | [[Grand Prix de Chine]] - Course         | 1ier     | ==Première victoire à 19 ans !== |
-| 2026  | [[Grand Prix du Japon]] - Qualifications | 1ier     |                                  |
-| 2026  | [[Grand Prix du Japon]] - Course         | 1ier     |                                  |
-| 2026  | [[Grand Prix des USA]] - Course          | 1ier     |                                  |
+| 2026  | [[Grand Prix de Chine]] - Qualifications | ==1ier== |                                  |
+| 2026  | [[Grand Prix de Chine]] - Course         | ==1ier== | ==Première victoire à 19 ans !== |
+| 2026  | [[Grand Prix du Japon]] - Qualifications | ==1ier== |                                  |
+| 2026  | [[Grand Prix du Japon]] - Course         | ==1ier== |                                  |
+| 2026  | [[Grand Prix des USA]] - Course          | ==1ier== |                                  |
 | 2026  | [[Grand Prix du Canada]] - Sprint        | 3e       |                                  |
-| 2026  | [[Grand Prix du Canada]] Course          | 1ier     |                                  |
+| 2026  | [[Grand Prix du Canada]] Course          | ==1ier== |                                  |
+| 2026  | [[Grand Prix de Monaco]] - Course        | ==1ier== |                                  |
+| 2026  | [[Grand Prix d'Espagne]] - Course        | Abandon  |                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

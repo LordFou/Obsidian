@@ -40,7 +40,7 @@ tags: mediaDB/game
 - **Résumé** :  
 
 ## Détails Techniques
-- **Moteur de jeu** : 
+- **Moteur de jeu** : [[Creation Engine]]
 - **Graphismes** : [[3D]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)

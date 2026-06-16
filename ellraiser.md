@@ -24,9 +24,10 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                                    | Genre      | Plateformes |
-| ----- | ---------------------------------------- | ---------- | ----------- |
+| Année | Titre                              | Genre      | Plateformes |
+| ----- | ---------------------------------- | ---------- | ----------- |
 | 2025  | [[Mudborne - Frog Management Sim]] | [[Puzzle]] | PC          |
+| 2026  | [[Snacktorio]]                     |            |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

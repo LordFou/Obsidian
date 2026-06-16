@@ -19,6 +19,8 @@ type: personne
 | 2026  | [[Grand Prix de Chine]] - Sprint  | 2e       |          |
 | 2026  | [[Grand Prix de Chine]] - Course  | 3e       |          |
 | 2026  | [[Grand Prix du Canada]] - Course | 2e       |          |
+| 2026  | [[Grand Prix de Monaco]] - Course | 2e       |          |
+| 2026  | [[Grand Prix d'Espagne]] - Course | ==1ier== |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

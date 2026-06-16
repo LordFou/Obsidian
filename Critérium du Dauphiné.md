@@ -5,7 +5,7 @@ type: event
 
 # Introduction
 - Anciennement appelé **Critérium du Dauphiné libéré**
-- Nouvellement appelée le Tour Auvergne-Rhône-Alpes
+- Nouvellement appelée le [[Tour Auvergne-Rhône-Alpes]]
 - Course à étape considérée comme la répétition générale du [[Tour de France]]
 - Organisé par [[ASO]]
 
@@ -21,8 +21,6 @@ content: Il devient le Tour Auvergne-Rhône-Alpes (CDLR : c'est naze)
 | Quoi          | Lien                                     |
 | ------------- | ---------------------------------------- |
 | Site officiel | https://www.criterium-du-dauphine.fr/fr/ |
-
-
 # Edition 2025
 
 ## Hommes - Etapes
@@ -42,6 +40,27 @@ content: Il devient le Tour Auvergne-Rhône-Alpes (CDLR : c'est naze)
 |     | Vainqueur | Général | Montagne | Points | Jeune | Equipe | Combativité | Remarques |
 | --- | --------- | ------- | -------- | ------ | ----- | ------ | ----------- | --------- |
 |     |           |         |          |        |       |        |             |           |
+
+
+# Edition 2026
+## Hommes
+
+|              | Vainqueur          | Général            | Montagne                | Points             | Jeune              | Remarques                     |
+| ------------ | ------------------ | ------------------ | ----------------------- | ------------------ | ------------------ | ----------------------------- |
+| 1e (FRA)     | [[Alex Baudin]]    | [[Alex Baudin]]    | [[Alex Baudin]]         | [[Alex Baudin]]    | [[Alex Baudin]]    | 2e - [[Ramses Debruyne]]      |
+| 2e (DAN)     | [[Anthon Charmig]] | [[Alex Baudin]]    | [[Clément Braz Afonso]] |                    |                    | 3e - [[Vlad Van Mechelen]]    |
+| 3e (NDL)     | [[Visma]]          | [[Alex Baudin]]    | [[Clément Braz Afonso]] |                    |                    |                               |
+| 4e (USA)     | [[Quinn Simmons]]  | [[Alex Baudin]]    | [[Clément Braz Afonso]] |                    |                    |                               |
+| ==5e (BEL)== | [[Wout Van Aert]]  | [[Alex Baudin]]    | [[Clément Braz Afonso]] |                    |                    | Sprint<br>4e - [[Vito Braet]] |
+| ==6e (BEL)== | [[Maxim Van Gils]] | [[Luke Tuckwell]]  | [[Clément Braz Afonso]] |                    |                    |                               |
+| 7e (MEX)     | [[Isaac Del Toro]] | [[Luke Tuckwell]]  | [[Clément Braz Afonso]] |                    |                    | 5e - [[Cian Uijtdebroeks]]    |
+| 8e (MEX)     | [[Isaac Del Toro]] | [[Isaac Del Toro]] | [[Clément Braz Afonso]] | [[Nadav Raisberg]] | [[Isaac Del Toro]] |                               |
+## Femmes
+
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|     |           |         |          |        |       |           |
+
 
 # General
 

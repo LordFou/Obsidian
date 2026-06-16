@@ -19,18 +19,21 @@ type: personne
 | 2025  | [[Championnats du monde d'athlétisme\| Champ. Monde]] - 5000m | 32e                      | 15.14.93                                          |
 | 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 10km   | 13e                      |                                                   |
 | 2025  | Champ. Europe Cross Country                                   | 4e                       |                                                   |
-| 2026  | Prom'Classic - 10km route                                     | 1ière                    | Record d'Europe (30.10)                           |
+|       |                                                               |                          |                                                   |
+| 2026  | Prom'Classic - 10km route                                     | 1ière                    | Record d'Europe ? (30.10.00)                      |
 | 2026  | Cross Cup de Hannut                                           | 1ière                    |                                                   |
 | 2026  | Monaco - 5km route                                            |                          | Record de Belgique (14.48)                        |
 | 2026  | Super League - Kessel Lo - 3000m                              | 1ière                    | Record de Belgique                                |
+| 2026  | Championnat de Belgique de la distance - 10km                 | 1ière                    | Record de Belgique (Vieux de 26 ans)<br>30.51.18  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
 - Record de Belgique
-	- 5km route
 	- 3000m salle
+	- 5km route
+	- 10km piste 
 - Record d'Europe
 	- 10km route
 

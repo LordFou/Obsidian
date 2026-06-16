@@ -1,3 +1,7 @@
+# Sport
+## Football
+- Lors de la [[Coupe du Monde]] 2026, un arbitre du VAR, aurait fait un signe suprémaciste lors de la présentation des arbitres
+  ![[image-679.webp|500x281]] 
 # Pologne
 - Juin 2025 : les nationalistes remportent les élections
 # France

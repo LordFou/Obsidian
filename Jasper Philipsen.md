@@ -29,9 +29,10 @@ type: personne
 | 2025  | [[Tour de Münster]]                                                      | 1ier 🥇  |                                                           |
 |       |                                                                          |          |                                                           |
 | 2026  | [[Tirreno-Adriatico]] - 3e étape                                         | 3e       | Sprint                                                    |
-| 2026  | [[Nokere Koerse]]                                                        | 1ier     | Sprint long vent de face                                  |
+| 2026  | [[Nokere Koerse]]                                                        | ==1ier== | Sprint long vent de face                                  |
 | 2026  | [[Tour de Bruges]]                                                       | 2e       | Sprint                                                    |
-| 2026  | [[Gand Wevelgem]]                                                        | 1ier     | Sprint                                                    |
+| 2026  | [[Gand Wevelgem]]                                                        | ==1ier== | Sprint                                                    |
+| 2026  | [[Copenhagen Sprint]]                                                    | ==1ier== |                                                           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

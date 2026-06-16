@@ -25,10 +25,13 @@ type: event
 # Edition 2026
 ## Hommes
 
-|              | Vainqueur       | Général         | Montagne          | Points          | Jeune              | Remarques |
-| ------------ | --------------- | --------------- | ----------------- | --------------- | ------------------ | --------- |
-| ==1e (BEL)== | [[Jordi Meeus]] | [[Jordi Meeus]] | [[Samuel Florez]] | [[Jordi Meeus]] | [[Joppe Heremans]] |           |
-|              |                 |                 |                   |                 |                    |           |
+|              | Vainqueur           | Général           | Montagne          | Points          | Jeune              | Remarques              |
+| ------------ | ------------------- | ----------------- | ----------------- | --------------- | ------------------ | ---------------------- |
+| ==1e (BEL)== | [[Jordi Meeus]]     | [[Jordi Meeus]]   | [[Samuel Florez]] | [[Jordi Meeus]] | [[Joppe Heremans]] |                        |
+| 2e (NZL)     | [[Ben Oliver]]      | [[Ben Oliver]]    |                   |                 |                    | 6e - [[Arnaud de Lie]] |
+| 3e (NZL)     | [[Laurence Pithie]] | [[Ben Oliver]]    |                   |                 |                    |                        |
+| 4e (BEL)     | [[Arnaud de Lie]]   | [[Riley Sheehan]] |                   |                 |                    |                        |
+| 5e (NZL)     | [[Ben Oliver]]      | [[Ben Oliver]]    |                   |                 |                    | 3e - [[Arnaud de Lie]] |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
@@ -45,7 +48,7 @@ type: event
 | ----- | ------------------ | ------------- | -------- |
 | 2024  | [[Matteo Trentin]] | Italien       |          |
 | 2025  | [[Corbin Strong]]  | Néo-zélandais |          |
-|       |                    |               |          |
+| 2026  | [[Ben Oliver]]     | Néo-zélandais |          |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

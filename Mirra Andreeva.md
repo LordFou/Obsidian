@@ -1,21 +1,23 @@
 ---
 type: personne
 ---
-
+![[image-658.webp|416x262]]
 # Mirra Andreeva
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Nationalité** :  Russe
+- **Sport / Discipline** :  [[Tennis]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
+- Top Ranking : 8
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition           | Résultat   | Remarque                            |
+| ----- | --------------------- | ---------- | ----------------------------------- |
+| 2026  | [[Tournoi de Madrid]] | Finale     | Défaite contre [[Marta Kostyuk]]    |
+| 2026  | [[Roland-Garros]]     | Vainqueure | Victoire contre [[Maja Chwalinska]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

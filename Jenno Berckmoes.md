@@ -17,6 +17,8 @@ type: personne
 | ----- | ------------------------------- | -------- | ----------- |
 | 2024  | [[Muur Classic]]                | 1ier     |             |
 | 2025  | [[Tour de Belgique]] - 4e étape | 1ier     | Etape Reine |
+| 2025  | [[Muur Classic]]                | 3e       |             |
+| 2026  | [[Muur Classic]]                | 3e       |             |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

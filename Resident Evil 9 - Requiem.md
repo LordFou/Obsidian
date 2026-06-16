@@ -22,6 +22,9 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- CheckPoint : 9/10
+	- 335k joueurs en simultané lors du premier WE de lancement. 
+	- 5 Millions de vente durant les 4 premiers jours
+	- 
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -42,9 +45,7 @@ type: game
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - Day One sur la [[Switch 2]]
-- 335k joueurs en simultané lors du premier WE de lancement.
-- 5 Millions de vente durant les 4 premiers jours
-- Total Vente : 6 millions
+
 ## Liens et Ressources
 
 | Description | URL                          |

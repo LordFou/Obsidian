@@ -1,4 +1,6 @@
-
+---
+type: game
+---
 
 # Oblivion - The Elder Scrolls 4
 
@@ -6,12 +8,12 @@
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : [[Bethesda]]
+	- Studio : [[Bethesda Game Studio]]
 	- Personnalités : 
-- **Éditeur** : [[Bethesda]]
-- **Plateformes** : PC
-- **Franchise** : [[Elder Scrolls]]
-- **Genre** : RPG
+- **Éditeur** : [[Bethesda Softworks]]
+- **Plateformes** : [[PC]]
+- **Franchise** : [[Franchise Elder Scrolls]]
+- **Genre** : [[RPG]]
 - **Résumé** : 
 
 ## Détails Techniques

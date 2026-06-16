@@ -9,11 +9,11 @@ Equipe féminine de foot belge
 - **Sport / Discipline** : [[Football]] 
 
 # Palmarès et Distinctions
-| Année | Compétition                           | Résultat               | Remarque                                                                                                                       |     |
-| ----- | ------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --- |
-| 2025  | [[Euro de Football\|Euro]] 2025       | 3e place de leur poule | Défaite contre l'Italie (0-1)<br>Défaite contre l'Espagne (6-2)<br>Victoire contre le Portugal (1-2)                           |     |
-| 2026  | Qualification [[Coupe du Monde]] 2027 |                        | Victoire contre Israël (0-3)<br>Victoire contre Israël (5-0)<br>Egalité contre l'Ecosse (1-1)<br>Egalité contre l'Ecosse (0-0) |     |
-|       |                                       |                        |                                                                                                                                |     |
+| Année | Compétition                           | Résultat               | Remarque                                                                                                                                                                                                     |     |
+| ----- | ------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| 2025  | [[Euro de Football\|Euro]] 2025       | 3e place de leur poule | Défaite contre l'Italie (0-1)<br>Défaite contre l'Espagne (6-2)<br>Victoire contre le Portugal (1-2)                                                                                                         |     |
+| 2026  | Qualification [[Coupe du Monde]] 2027 |                        | Victoire contre Israël (0-3)<br>Victoire contre Israël (5-0)<br>Egalité contre l'Ecosse (1-1)<br>Egalité contre l'Ecosse (0-0)<br>Victoire contre le Luxembourg (6-0)<br>Victoire contre le Luxembourg (0-7) |     |
+|       |                                       |                        |                                                                                                                                                                                                              |     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
