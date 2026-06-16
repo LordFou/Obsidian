@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Femke Bol.md",
+                "file": "Giro Next Gen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Femke Bol"
+              "title": "Giro Next Gen"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Femke",
+                "query": "Giro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,6 +207,12 @@
   },
   "active": "c96e0744428e06fb",
   "lastOpenFiles": [
+    "Joao Almeida.md",
+    "Tour de Suisse.md",
+    "Loisirs/Sport/Sportifs/Audrey Werro.md",
+    "Attachments/image-682.webp",
+    "Femke Bol.md",
+    "Attachments/image-681.webp",
     "Attachments/image-680.webp",
     "Coupe du Monde.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Voidling Bound.md",
@@ -230,9 +236,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Overwatch.md",
     "conflict-files-obsidian-git.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Lost Castle 2.md",
-    "Loisirs/Sport/Compétitions/Championnat de Belgique de Handball.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Greatest Penguin Heist of All Time.md",
-    "ludokai.md",
     "Attachments/image-679.webp",
     "Attachments/image-678.webp",
     "Attachments/image-677.webp",
@@ -240,9 +243,6 @@
     "Attachments/image-675.webp",
     "Attachments/image-674.webp",
     "Attachments/image-673.webp",
-    "Attachments/image-672.webp",
-    "Attachments/image-671.webp",
-    "Attachments/image-670.webp",
     "Commode 16 Plus"
   ]
 }

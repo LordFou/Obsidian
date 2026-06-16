@@ -1,21 +1,21 @@
 ---
 type: personne
 ---
-![[image-681.webp|223x261]]
-# Femke Bol
+![[image-682.webp|184x234]]
+# Audrey Werro
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Néerlandaise
+- **Nationalité** :  Suissesse
 - **Sport / Discipline** :  [[Athlétisme]]
-- **Poste / Spécialité** (si applicable) : 400m haies 
+- **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                         | Résultat | Remarque |
-| ----- | --------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 400m haies | 1ier     |          |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -29,6 +29,6 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
-# Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |
