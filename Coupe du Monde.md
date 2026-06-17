@@ -146,11 +146,14 @@ type: event
 
 ## Groupe J
 
-| Match            | Résultat | Remarque                                |
-| ---------------- | -------- | --------------------------------------- |
+| Match               | Résultat | Remarque                     |
+| ------------------- | -------- | ---------------------------- |
+| Argentine - Algérie | 3-0      | Triplé de [[Lionel Messi]] ! |
+|                     |          |                              |
 
-| Pays     | Points | Différence |
-| -------- | ------ | ---------- |
+| Pays | Points | Différence |
+| ---- | ------ | ---------- |
+|      |        |            |
 ## Groupe K
 
 | Match            | Résultat | Remarque                                |
