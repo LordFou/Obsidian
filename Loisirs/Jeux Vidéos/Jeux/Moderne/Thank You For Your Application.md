@@ -31,12 +31,14 @@ tags: mediaDB/game
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : IceLemonTea Studio
+	- Studio : [[IceLemonTea Studio]]
 	- Personnalités : 
-- **Éditeur** : IceLemonTea Studio,No More Robots
-- **Plateformes** : 
+- **Éditeur** : 
+	- [[IceLemonTea Studio]]
+	- [[No More Robots]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : Indie,RPG,Simulation
+- **Genre** : [[RPG]], [[Simulation]], [[Point & Click]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -61,6 +63,7 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2881370 |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Steam       | https://store.steampowered.com/app/2881370       |
+| Trailer     | https://youtu.be/6zbCEwIakw0?si=Hhr6cf-YHgIPCqYo |
