@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Schrödinger's Call.md",
+                "file": "Coupe du Monde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schrödinger's Call"
+              "title": "Coupe du Monde"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Schrodinger’s Call",
+                "query": "Coupe",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,8 +207,8 @@
   },
   "active": "8ce5e3e2eeaf76eb",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Schrodinger's Cat Burglar.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Schrödinger's Call.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Schrodinger's Cat Burglar.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Thank You For Your Application.md",
     "IceLemonTea Studio.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/R-Type Tactics I • II Cosmos.md",

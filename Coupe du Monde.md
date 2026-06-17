@@ -171,10 +171,13 @@ type: event
 
 | Match                | Résultat | Remarque |
 | -------------------- | -------- | -------- |
-| Angleterre - Croatie |          |          |
+| Angleterre - Croatie | 4-2      |          |
+|                      |          |          |
 
-| Pays     | Points | Différence |
-| -------- | ------ | ---------- |
+| Pays       | Points | Différence |
+| ---------- | ------ | ---------- |
+| Angleterre | 3      | +2         |
+| Croatie    | 0      | -2         |
 
 # Hall of fame
 ## Hommes
