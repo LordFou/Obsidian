@@ -7,7 +7,7 @@ type: personne
 ## Présentation
 - Diplômé en game writing à Skövde en 2015, dernier de sa promo, il enchaîne d’abord les contrats de narrative design sur des projets d’horreur et de survie, fonde une boîte qui s’écroule en 2017, puis décide de tout reprendre lui-même : code gameplay, modélisation 3D, écriture, direction artistique. 
 - Il détestait la programmation mais après la faillite de sa boîte, il a appris a apprécié et surtout à garder la main sur la base du code de ses projet.
-- Pour lui, plus le joueur possède de contexte autour d'un choix, plus ce choix 
+- Pour lui, plus le joueur possède de contexte autour d'un choix, plus ce choix lui semble avoir du poids sur le jeu. C'est ce qu'il avait démontré dans son mémoire de fin d'étude et qui semble se confirmer avec le succès de son jeu [[Esoteric Ebb]].
 
 ## Informations Générales
 - **Date de naissance** :  
