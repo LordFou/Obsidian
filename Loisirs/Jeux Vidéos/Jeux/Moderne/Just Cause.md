@@ -8,7 +8,7 @@ type: game
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Avalanche Studios]]
 	- Personnalités : 
 		- [[Christofer Sundberg]] (Créateur)
 - **Éditeur** : 
