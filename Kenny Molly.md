@@ -2,21 +2,20 @@
 type: personne
 ---
 
-# Filippo Fiorelli
+# Kenny Molly
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** : Italien
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Nationalité** :  Belge
+- **Sport / Discipline** : [[Cyclisme]] 
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition               | Résultat | Remarque |
-| ----- | ------------------------- | -------- | -------- |
-| 2022  | [[Sibiu Tour]] - Xe étape | 1ier     |          |
-| 2026  | [[Tro Bro Leon]]          | 1ier     |          |
+| Année | Compétition                 | Résultat | Remarque |
+| ----- | --------------------------- | -------- | -------- |
+| 2026  | [[Circuit du Pays de Waes]] | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

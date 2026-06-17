@@ -1,28 +1,27 @@
 ---
 type: personne
 ---
-
-# Filippo Fiorelli
+![[image-683.webp|212x222]]
+# Kylian Mbappé
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** : Italien
-- **Sport / Discipline** :  [[Cyclisme]]
+- **Nationalité** :  France
+- **Sport / Discipline** :  [[Football]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[PSG]], [[Real Madrid]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition               | Résultat | Remarque |
-| ----- | ------------------------- | -------- | -------- |
-| 2022  | [[Sibiu Tour]] - Xe étape | 1ier     |          |
-| 2026  | [[Tro Bro Leon]]          | 1ier     |          |
+| Année | Compétition        | Résultat | Remarque |
+| ----- | ------------------ | -------- | -------- |
+| 2018  | [[Coupe du Monde]] | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Meilleur buteur français en équipe nationale
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

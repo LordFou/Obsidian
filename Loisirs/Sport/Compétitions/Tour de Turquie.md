@@ -11,16 +11,16 @@ type: event
 
 ### Etapes 
 
-|          | Vainqueur      | Général               | Montagne | Points         | Jeune | Remarques              |
-| -------- | -------------- | --------------------- | -------- | -------------- | ----- | ---------------------- |
-| 1e (BEL) | [[Tom Crabbe]] | [[Tom Crabbe]]        |          | [[Tom Crabbe]] |       |                        |
-| 2e (BEL) | [[Tom Crabbe]] | [[Tom Crabbe]]        |          | [[Tom Crabbe]] |       |                        |
-|          |                |                       |          |                |       |                        |
-|          |                |                       |          |                |       |                        |
-|          |                |                       |          |                |       |                        |
-|          |                |                       |          |                |       |                        |
-|          |                |                       |          |                |       |                        |
-| 8e (BEL) | [[Tom Crabbe]] | [[Sebastian Berwick]] |          | [[Tom Crabbe]] |       | 3e - [[Kamiel Bonneu]] |
+|          | Vainqueur                                                   | Général               | Montagne | Points         | Jeune | Remarques              |
+| -------- | ----------------------------------------------------------- | --------------------- | -------- | -------------- | ----- | ---------------------- |
+| 1e (BEL) | [[Tom Crabbe]]                                              | [[Tom Crabbe]]        |          | [[Tom Crabbe]] |       |                        |
+| 2e (BEL) | [[Tom Crabbe]]                                              | [[Tom Crabbe]]        |          | [[Tom Crabbe]] |       |                        |
+| 3e (COL) | [[Ivan Sosa]]                                               |                       |          |                |       |                        |
+| 4e (POL) | [[Stanisław Aniołkowski]]                                   |                       |          |                |       |                        |
+| 5e (NDL) | [[Loisirs/Sport/Sportifs/Casper van Uden\|Casper van Uden]] |                       |          |                |       |                        |
+| 6e (ITA) | [[Christian Bagatin]]                                       |                       |          |                |       |                        |
+| 7e (ITA) | [[Davide Ballerini]]                                        |                       |          |                |       |                        |
+| 8e (BEL) | [[Tom Crabbe]]                                              | [[Sebastian Berwick]] |          | [[Tom Crabbe]] |       | 3e - [[Kamiel Bonneu]] |
 ## Femmes
 
 ### Etapes

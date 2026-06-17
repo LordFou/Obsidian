@@ -104,35 +104,45 @@ type: event
 | Tunisie  | 0      | -4         |
 ## Groupe G
 
-| Match             | Résultat | Remarque |
-| ----------------- | -------- | -------- |
-| Belgique - Egypte | 1-1      |          |
-|                   |          |          |
+| Match                   | Résultat | Remarque |
+| ----------------------- | -------- | -------- |
+| Belgique - Egypte       | 1-1      |          |
+| Iran - Nouvelle Zélande | 2-2      |          |
 
-| Pays     | Points | Différence |
-| -------- | ------ | ---------- |
-| Belgique | 1      | 0          |
-| Egypte   | 1      | 0          |
+| Pays             | Points | Différence |
+| ---------------- | ------ | ---------- |
+| Belgique         | 1      | 0          |
+| Egypte           | 1      | 0          |
+| Iran             | 1      | 0          |
+| Nouvelle-Zélande | 1      | 0          |
 
 ## Groupe H
 
-| Match              | Résultat | Remarque                                      |
-| ------------------ | -------- | --------------------------------------------- |
-| Espagne - Cap Vert | 0-0      | L'Espagne pas encore rentrée dans son tournoi |
-|                    |          |                                               |
+| Match                     | Résultat | Remarque                                      |
+| ------------------------- | -------- | --------------------------------------------- |
+| Espagne - Cap Vert        | 0-0      | L'Espagne pas encore rentrée dans son tournoi |
+| Arabie Saoudite - Uruguay | 1-1      |                                               |
 
-| Pays     | Points | Différence |
-| -------- | ------ | ---------- |
-| Espagne  | 1      | 0          |
-| Cap Vert | 1      | 0          |
+| Pays            | Points | Différence |
+| --------------- | ------ | ---------- |
+| Espagne         | 1      | 0          |
+| Cap Vert        | 1      | 0          |
+| Arabie Saoudite | 1      | 0          |
+| Uruguay         | 1      | 0          |
 
 ## Groupe I
 
-| Match            | Résultat | Remarque                                |
-| ---------------- | -------- | --------------------------------------- |
+| Match            | Résultat | Remarque                                                              |
+| ---------------- | -------- | --------------------------------------------------------------------- |
+| France - Sénégal | 3-1      | La France déroule et se pose en favori ayant réussi son premier match |
+| Iraq - Norvège   | 1-4      |                                                                       |
 
-| Pays     | Points | Différence |
-| -------- | ------ | ---------- |
+| Pays    | Points | Différence |
+| ------- | ------ | ---------- |
+| Norvège | 3      | +3         |
+| France  | 3      | +2         |
+| Sénégal | 0      | -2         |
+| Iraq    | 0      | -3         |
 
 ## Groupe J
 

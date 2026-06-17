@@ -2,7 +2,7 @@
 type: event
 ---
 
-# A Travers Le Hageland
+# Ronde van Overijssel
 
 # Introduction
 
@@ -10,11 +10,11 @@ type: event
 
 | Année | Vainqueur        | Nationalité | Remarque |
 | ----- | ---------------- | ----------- | -------- |
-| 2025  | [[Paul Magnier]] | Français    |          |
-| 2026  |                  |             |          |
+| 2026  | [[Patrick Eddy]] | Australien  |          |
+|       |                  |             |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
 | ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
+| 2026  |           |             |          |
 |       |           |             |          |

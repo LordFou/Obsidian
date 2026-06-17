@@ -5,17 +5,17 @@ type: event
 
 # Introduction
 
-# Edition 2025
+# Edition 2026
 
 ## Hommes
 
 ### Etapes 
 
-|     | Vainqueur     | Général            | Montagne  | Points            | Jeune          | Remarques                                         |
-| --- | ------------- | ------------------ | --------- | ----------------- | -------------- | ------------------------------------------------- |
-|     |               |                    |           |                   |                |                                                   |
-|     |               |                    |           |                   |                |                                                   |
-|     |               |                    |           |                   |                |                                                   |
+|          | Vainqueur          | Général            | Montagne | Points | Jeune | Remarques |
+| -------- | ------------------ | ------------------ | -------- | ------ | ----- | --------- |
+| 3e (BEL) | [[Jasper Schoofs]] | [[Jasper Schoofs]] |          |        |       |           |
+|          |                    |                    |          |        |       |           |
+|          |                    |                    |          |        |       |           |
 ### Général
 
 ## Femmes

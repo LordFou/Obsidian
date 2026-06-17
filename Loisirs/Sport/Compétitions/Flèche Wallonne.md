@@ -11,7 +11,7 @@ Une des plus célèbres courses belges de cyclisme de la planète à cause de sa
 
 | Année | Vainqueur                        | Nationalité | Remarque                                        |
 | ----- | -------------------------------- | ----------- | ----------------------------------------------- |
-|       | Laurent Jalabert                 |             |                                                 |
+|       | [[Laurent Jalabert]]             |             |                                                 |
 |       |                                  |             |                                                 |
 |       | [[Bo Hamburger]]                 | Américain   |                                                 |
 |       | [[Marc Hirschi]]                 | Suisse      |                                                 |

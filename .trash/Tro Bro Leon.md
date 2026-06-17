@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Grand Prix du Morbihan
+# Tro Bro Leon
 
 # Introduction
 
@@ -10,12 +10,7 @@ type: event
 
 | Année | Vainqueur            | Nationalité | Remarque |
 | ----- | -------------------- | ----------- | -------- |
-| 2021  | [[Arne Marit]]       | ==Belge==   |          |
-| 2022  | [[Julien Simon]]     | Français    |          |
-| 2023  | [[Arnaud de Lie]]    | ==Belge==   |          |
-| 2024  | [[Benoit Cosnefroy]] | Français    |          |
-| 2025  | [[Benoit Cosnefroy]] | Français    |          |
-| 2026  | [[Benoit Cosnefroy]] | Français    |          |
+| 2026  | [[Filippo Fiorelli]] | Italien     |          |
 |       |                      |             |          |
 # Femmes
 

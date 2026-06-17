@@ -16,11 +16,15 @@ type: personne
 | Année | Compétition                              | Résultat | Remarque                              |
 | ----- | ---------------------------------------- | -------- | ------------------------------------- |
 | 2025  | [[Tour d'Italie]] - Classement final     | 6e       |                                       |
-| 2025  | [[Tour d'Espagne]] - 17e étape           | 1ier     | ==Première Victoire==                 |
+| 2025  | [[Tour d'Espagne]] - 17e étape           | ==1ier== | ==Première Victoire==                 |
 |       |                                          |          |                                       |
 | 2026  | [[Tirreno-Adriatico]] - 2e étape         | 3e       |                                       |
 | 2026  | [[Tirreno-Adriatico]] - 4e étape         | 2e       | :luc_plus: Maillot classement général |
 | 2026  | [[Tirreno-Adriatico]] - Classement final | 3e       |                                       |
+| 2026  | [[Tour des Alpes]] - 2e étape            | ==1ier== |                                       |
+| 2026  | [[Tour des Alpes]] - 5e étape            | ==1ier== |                                       |
+| 2026  | [[Tour des Alpes]] - Classement final    | ==1ier== |                                       |
+| 2026  | [[Tour des Alpes]] - Maillot Jeune       | ==1ier== |                                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

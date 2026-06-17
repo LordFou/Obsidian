@@ -1,3 +1,7 @@
+---
+type: personne
+---
+
 # Casper van Uden
 ![[Pasted image 20250513221016.jpg]]
 # Informations Générales

@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Tro Bro Léon
+# Tro Bro Leon
 
 # Introduction
 
@@ -10,7 +10,7 @@ type: event
 
 | Année | Vainqueur            | Nationalité | Remarque                 |
 | ----- | -------------------- | ----------- | ------------------------ |
-| 2026  | [[Filippo Fiorelli]] | Italien     | 11e - [[Brent Van Moer]] |
+| 2026  | [[Filippo Fiorelli]] | Italien     | 11e - [[Brett Van Moer]] |
 |       |                      |             |                          |
 # Femmes
 

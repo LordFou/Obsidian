@@ -10,8 +10,6 @@ https://www.tourdesuisse.ch/fr
 
 ## Hommes
 
-### Etapes 
-
 |     | Vainqueur             | Général             | Montagne             | Points              | Jeune               | Remarques                             |
 | --- | --------------------- | ------------------- | -------------------- | ------------------- | ------------------- | ------------------------------------- |
 | 1   | [[Romain Grégoire]]   | [[Romain Grégoire]] |                      |                     |                     |                                       |
@@ -22,21 +20,28 @@ https://www.tourdesuisse.ch/fr
 | 6   | [[Jordi Meeus]]       | [[Kevin Vauquelin]] | [[Aleksandr Vlasov]] | [[Joao Almeida]]    | [[Kevin Vauquelin]] | Sprint                                |
 | 7   | [[Joao Almeida]]      | [[Kevin Vauquelin]] | [[Aleksandr Vlasov]] | [[Joao Almeida]]    | [[Kevin Vauquelin]] |                                       |
 | 8   | [[Joao Almeida]]      | [[Joao Almeida]]    | [[Aleksandr Vlasov]] | [[Joao Almeida]]    | [[Kevin Vauquelin]] | CLM<br>10e - [[Ilan Van Wilder]]      |
-### Général
-
 ## Femmes
-
-### Etapes
 
 |     | Vainqueur          | Général            | Montagne | Points | Jeune | Remarques                          |
 | --- | ------------------ | ------------------ | -------- | ------ | ----- | ---------------------------------- |
 | 1   | [[Marlen Reusser]] | [[Marlen Reusser]] |          |        |       | Sprint à 2 avec [[Demi Vollering]] |
 | 2   | [[Amber Kraak]]    | [[Marlen Reusser]] |          |        |       |                                    |
-### Général
+# Edition 2026
+## Hommes
+
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|     |           |         |          |        |       |           |
+## Femmes
+
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|     |           |         |          |        |       |           |
+
+
 # General
 
 ### Hommes
-
 
 | Année | Vainqueur        | Nationalité | Montagne             | Points           | Jeune               | Equipe                  | Combativité      | Remarques                        |
 | ----- | ---------------- | ----------- | -------------------- | ---------------- | ------------------- | ----------------------- | ---------------- | -------------------------------- |

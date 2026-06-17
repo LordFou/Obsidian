@@ -45,6 +45,7 @@ type: personne
 | 2026  | [[Tirreno-Adriatico]] - 6e étape                                               | ==1ier== |          |
 | 2026  | [[Tirreno-Adriatico]] - ==Classement final==                                   | ==1ier== |          |
 | 2026  | [[Tour du Pays Basque]]                                                        | Abandon  |          |
+| 2026  | [[Tour d'Auvergne - Rhône-Alpes]]                                              | ==1ier== |          |
 | 2026  | [[Critérium du Dauphiné]] - 6e étape                                           | ==1ier== |          |
 | 2026  | [[Critérium du Dauphiné]] - 8e étape                                           | ==1ier== |          |
 | 2026  | [[Critérium du Dauphiné]] - Classement final                                   | ==1ier== |          |
