@@ -11,21 +11,28 @@ https://baloisebelgiumtour.be/fr/
 
 ## Hommes
 
-|          | Vainqueur            | Général                   | Super Flandrien (Combativité) | Points                    | Jeune            | Remarques   |
-| -------- | -------------------- | ------------------------- | ----------------------------- | ------------------------- | ---------------- | ----------- |
-| 1e (BEL) | [[Tim Merlier]]      | [[Tim Merlier]]           |                               |                           |                  | Sprint      |
-| 2e (BEL) | [[Jasper Philipsen]] | [[Juan Sebastian Molano]] |                               |                           |                  | Sprint      |
-| 3e (FRA) | [[Ethan Hayter]]     | [[Ethan Hayter]]          |                               |                           |                  | CLM         |
-| 4e (BEL) | [[Jenno Berckmoes]]  | [[Filippo Baroncini]]     | [[Dylan Vandenstorme]]        | [[Jenno Berckmoes]]       | [[Alec Segaert]] | Etape reine |
-| 5e ()    | [[Tim Merlier]]      | [[Filippo Baroncini]]     | [[Dylan Vandenstorme]]        | [[Juan Sebastian Molano]] | [[Alec Segaert]] |             |
-|          |                      |                           |                               |                           |                  |             |
+|              | Vainqueur            | Général                   | Super Flandrien (Combativité) | Points                    | Jeune            | Remarques   |
+| ------------ | -------------------- | ------------------------- | ----------------------------- | ------------------------- | ---------------- | ----------- |
+| ==1e (BEL)== | [[Tim Merlier]]      | [[Tim Merlier]]           |                               |                           |                  | Sprint      |
+| ==2e (BEL)== | [[Jasper Philipsen]] | [[Juan Sebastian Molano]] |                               |                           |                  | Sprint      |
+| 3e (FRA)     | [[Ethan Hayter]]     | [[Ethan Hayter]]          |                               |                           |                  | CLM         |
+| ==4e (BEL)== | [[Jenno Berckmoes]]  | [[Filippo Baroncini]]     | [[Dylan Vandenstorme]]        | [[Jenno Berckmoes]]       | [[Alec Segaert]] | Etape reine |
+| ==5e (BEL)== | [[Tim Merlier]]      | [[Filippo Baroncini]]     | [[Dylan Vandenstorme]]        | [[Juan Sebastian Molano]] | [[Alec Segaert]] |             |
 ## Femmes
-
-### Etapes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
 | --- | --------- | ------- | -------- | ------ | ----- | --------- |
-### Général
+# Edition 2026
+## Hommes
+
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|     |           |         |          |        |       |           |
+## Femmes
+
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|     |           |         |          |        |       |           |
 # General
 
 ### Hommes
