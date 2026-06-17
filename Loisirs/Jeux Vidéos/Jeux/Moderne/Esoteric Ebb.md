@@ -23,7 +23,10 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- CheckPoint (8/10)
+	- Remontée commerciale déclenchée par un article de [[PC Gamer]] en janvier 2026
 - **Gameplay** :
+	- Suit les règles de Donjons & Dragons cinquième édition
+	- Insertion d’idéologies politiques directement dans les caractéristiques du personnage
 - **Durée estimée** : 20h
 
 ## Histoire et Univers
@@ -46,3 +49,4 @@ type: game
 | Description | URL                          |
 | ----------- | ---------------------------- |
 | Trailer     | https://youtu.be/4GrC3k1gq5w |
+![[image-686.webp|500x281]]
