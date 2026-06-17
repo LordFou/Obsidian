@@ -149,11 +149,14 @@ type: event
 | Match               | Résultat | Remarque                     |
 | ------------------- | -------- | ---------------------------- |
 | Argentine - Algérie | 3-0      | Triplé de [[Lionel Messi]] ! |
-|                     |          |                              |
+| Autriche - Jordanie | 3-1      |                              |
 
-| Pays | Points | Différence |
-| ---- | ------ | ---------- |
-|      |        |            |
+| Pays      | Points | Différence |
+| --------- | ------ | ---------- |
+| Argentine | 3      | +3         |
+| Autriche  | 3      | +2         |
+| Jordanie  | 0      | -2         |
+| Algérie   | 0      | -3         |
 ## Groupe K
 
 | Match            | Résultat | Remarque                                |

@@ -105,7 +105,7 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 - Vu toutes ses secondes places, on l'appelle le [[Poulidor]] belge.
 - Janvier 2026 : fracture légère à la cheville
 - Février 2026 : maladie => il manque le WE inaugural belge
-- Juin 2026 : chute à l'entrainement et blessure au coude => Abandon après sa victoire d'étape au [[Critérium du Dauphiné]].
+- Juin 2026 : chute à l'entrainement et blessure au coude => Abandon après sa victoire d'étape au [[Critérium du Dauphiné]]. Il déclare forfait 1 semaine après pour le [[Tour de France]].
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

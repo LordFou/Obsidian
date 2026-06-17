@@ -40,6 +40,8 @@ type: personne
 | 2026  | [[Roland-Garros]] - Simple          | 1e tour                | Défaite contre [[Tomas Machac]]                              |
 | 2026  | [[Roland-Garros]] - Double          | 2e tour - puis forfait | avec [[Raphaël Collignon]]                                   |
 | 2026  | [[Tournoi de Rosmalen]] - Double    | Finale                 |                                                              |
+| 2026  | [[Tournoi de Halle]]                | 1e tour                |                                                              |
+|       |                                     |                        |                                                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
