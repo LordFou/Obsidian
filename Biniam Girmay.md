@@ -13,13 +13,16 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                    | Résultat | Remarque                   |
-| ----- | ------------------------------ | -------- | -------------------------- |
-| 2024  | [[Circuit Franco-Belge]]       | 1ier     |                            |
-| 2025  | [[Tour de France]] - 1e étape  | 2e       | Maillot Blanc              |
-| 2026  | [[Tour de Valence]] - 1e étape | 1ier     | :luc_plus: Maillot Général |
-| 2026  | [[Clasica Almeria]]            | 1ier     |                            |
-| 2026  | [[Paris-Nice]] - 1e étape      | 5e       |                            |
+| Année | Compétition                     | Résultat | Remarque                   |
+| ----- | ------------------------------- | -------- | -------------------------- |
+| 2024  | [[Circuit Franco-Belge]]        | ==1ier== |                            |
+|       |                                 |          |                            |
+| 2025  | [[Tour de France]] - 1e étape   | 2e       | Maillot Blanc              |
+|       |                                 |          |                            |
+| 2026  | [[Tour de Valence]] - 1e étape  | ==1ier== | :luc_plus: Maillot Général |
+| 2026  | [[Clasica Almeria]]             | ==1ier== |                            |
+| 2026  | [[Paris-Nice]] - 1e étape       | 5e       |                            |
+| 2026  | [[Tour de Belgique]] - 1e étape | ==1ier== |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -41,12 +41,13 @@ type: personne
 | 2025  | [[Circuit du Houtland]]                                    | 1ier     |                                |                                              |
 | 2025  | [[Tour de Hollande]] - 1e étape                            | 1ier     |                                |                                              |
 |       |                                                            |          |                                |                                              |
-| 2026  | [[GP de l'Escaut]]                                         | 1ier     |                                |                                              |
-| 2026  | [[Tour du Limbourg]]                                       | 1ier     |                                |                                              |
-| 2026  | [[Tour de Hongrie]] - 1e étape                             | 1ier     |                                |                                              |
-| 2026  | [[Tour de Hongrie]] - 3e étape                             | 1ier     |                                |                                              |
-| 2026  | [[Tour de Hongrie]] - 5e étape                             | 1ier     |                                |                                              |
+| 2026  | [[GP de l'Escaut]]                                         | ==1ier== |                                |                                              |
+| 2026  | [[Tour du Limbourg]]                                       | ==1ier== |                                |                                              |
+| 2026  | [[Tour de Hongrie]] - 1e étape                             | ==1ier== |                                |                                              |
+| 2026  | [[Tour de Hongrie]] - 3e étape                             | ==1ier== |                                |                                              |
+| 2026  | [[Tour de Hongrie]] - 5e étape                             | ==1ier== |                                |                                              |
 | 2026  | [[GP Criquielon]]                                          | 5e       | Vainqueur du sprint du peloton |                                              |
+| 2026  | [[Tour de Belgique]] - 1e étape                            | 2e       |                                |                                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -159,15 +159,19 @@ type: event
 | Algérie   | 0      | -3         |
 ## Groupe K
 
-| Match            | Résultat | Remarque                                |
-| ---------------- | -------- | --------------------------------------- |
+| Match            | Résultat | Remarque |
+| ---------------- | -------- | -------- |
+| Portugal - Congo | 1-1      |          |
 
 | Pays     | Points | Différence |
 | -------- | ------ | ---------- |
+| Congo    | 1      | 0          |
+| Portugal | 1      | 0          |
 ## Groupe L
 
-| Match            | Résultat | Remarque                                |
-| ---------------- | -------- | --------------------------------------- |
+| Match                | Résultat | Remarque |
+| -------------------- | -------- | -------- |
+| Angleterre - Croatie |          |          |
 
 | Pays     | Points | Différence |
 | -------- | ------ | ---------- |

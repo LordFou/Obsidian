@@ -20,7 +20,7 @@ type: personne
 | 2025  | [[Championnat du Monde de Cyclisme\|Championnat du Monde]] - CLM | 3e 🥉    |              |
 | 2026  | [[UAE Tour]] - 1e étape                                          | 6e       |              |
 | 2026  | [[Tirreno-Adriatico]]                                            | Abandon  | Maladie      |
-|       |                                                                  |          |              |
+| 2026  | [[Tour de Suisse]] - 1e étape                                    | 4e       |              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
