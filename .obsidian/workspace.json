@@ -187,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5,
-    "collapsed": true
+    "width": 381.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,7 +205,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94b2d6d483a6fa66",
+  "active": "c96e0744428e06fb",
   "lastOpenFiles": [
     "Tour de Slovénie.md",
     "Loisirs/Sport/Sportifs/Michael Valgren.md",
