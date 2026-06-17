@@ -5,11 +5,11 @@ type: personne
 # Christoffer Bodegård
 
 ## Présentation
-Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
+- Diplômé en game writing à Skövde en 2015 mais dernier de sa promo (comme quoi)
 
 ## Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
+- **Nationalité** :  Suédois
 - **Profession(s)** : [[Développeur]]
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 

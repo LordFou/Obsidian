@@ -14,7 +14,7 @@ type: game
 - **Éditeur** : [[Raw Fury]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[CRPG]],
+- **Genre** : [[CRPG]]
 - **Résumé** : on y enquête sur l'explosion d'un salon de thé en divaguant avec des gobelins, en choisissant un camp politique ou en discutant avec nos propres compétences.
 
 ## Détails Techniques
@@ -40,7 +40,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- 8 ans de développement pour un seul développeur
 ## Liens et Ressources
 
 | Description | URL                          |

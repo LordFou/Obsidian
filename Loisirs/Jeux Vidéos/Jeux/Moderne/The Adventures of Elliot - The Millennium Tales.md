@@ -57,8 +57,10 @@ tags: mediaDB/game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[The Legend of Zelda]]
 - **A inspiré** : 
 - **Comparable à** :
+	- [[Chrono Trigger]] (Voyage dans le temps)
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
@@ -67,3 +69,4 @@ tags: mediaDB/game
 | ----------- | ------------------------------------------------ |
 | Steam       | https://store.steampowered.com/app/3483510       |
 | Trailer     | https://youtu.be/0xfxIcWTBIY?si=p9EVeOk3gAsb51_0 |
+![[image-685.webp|500x281]]

@@ -13,6 +13,7 @@ type: game
 		- [[Acquire]]
 	- Personnalités : 
 - **Éditeur** : 
+	- [[Nintendo]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :
