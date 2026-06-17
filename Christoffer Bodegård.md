@@ -65,4 +65,4 @@ Lister les prix et reconnaissances obtenues.
 Évoquer les polémiques ou événements notables liés à cette personne.
 
 ## Sources et Références
-- Interview de Point
+- Interview de Point'n Think => https://www.pointnthink.fr/fr/christoffer-bodegard-esoteric-ebb/

@@ -24,9 +24,10 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                |
-| ----- | -------------------- |
-| 2026  | [[FZ - Formation Z]] |
+| Année | Titre                            |
+| ----- | -------------------------------- |
+| 2026  | [[FZ - Formation Z]]             |
+| 2026  | [[R-Type Tactics I • II Cosmos]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
