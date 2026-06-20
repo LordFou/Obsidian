@@ -159,24 +159,29 @@ type: event
 | Algérie   | 0      | -3         |
 ## Groupe K
 
-| Match            | Résultat | Remarque |
-| ---------------- | -------- | -------- |
-| Portugal - Congo | 1-1      |          |
+| Match                  | Résultat | Remarque |
+| ---------------------- | -------- | -------- |
+| Portugal - Congo       | 1-1      |          |
+| Ouzbékistan - Colombie | 1-3      |          |
 
-| Pays     | Points | Différence |
-| -------- | ------ | ---------- |
-| Congo    | 1      | 0          |
-| Portugal | 1      | 0          |
+| Pays        | Points | Différence |
+| ----------- | ------ | ---------- |
+| Colombie    | 3      | +2         |
+| Congo       | 1      | 0          |
+| Portugal    | 1      | 0          |
+| Ouzbékistan | 0      | -2         |
 ## Groupe L
 
 | Match                | Résultat | Remarque |
 | -------------------- | -------- | -------- |
 | Angleterre - Croatie | 4-2      |          |
-|                      |          |          |
+| Ghana - Panama       | 1-0      |          |
 
 | Pays       | Points | Différence |
 | ---------- | ------ | ---------- |
 | Angleterre | 3      | +2         |
+| Ghana      | 3      | +1         |
+| Panama     | 0      | -1         |
 | Croatie    | 0      | -2         |
 
 # Hall of fame
