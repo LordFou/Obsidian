@@ -1,22 +1,21 @@
 ---
 type: personne
 ---
-![[image-692.webp|250x340]]
-# Zoe Bäckstedt
+
+# Lorenzo Mark Finn
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Anglaise
+- **Nationalité** :  Italien
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                      | Résultat  | Remarque |
-| ----- | -------------------------------- | --------- | -------- |
-| 2025  | [[Simac Ladies Tour]] - 5e étape | ==1ière== |          |
-| 2026  | [[Tour de Suisse]] - 3e étape    | ==1ière== |          |
+| Année | Compétition                  | Résultat | Remarque |
+| ----- | ---------------------------- | -------- | -------- |
+| 2026  | [[Giro Next Gen]] - 6e étape | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -30,6 +29,6 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
-# Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |

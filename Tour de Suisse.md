@@ -39,7 +39,7 @@ https://www.tourdesuisse.ch/fr
 | -------- | ------------------------ | ------------------------ | -------- | ------ | ----- | --------- |
 | 1e (NDL) | [[Femke De Vries]]       | [[Femke De Vries]]       |          |        |       |           |
 | 2e (ITA) | [[Elisa Longo Borghini]] | [[Elisa Longo Borghini]] |          |        |       |           |
-| 3e ()    |                          |                          |          |        |       |           |
+| 3e (ANG) | [[Zoe Bäckstedt]]        | [[Elisa Longo Borghini]] |          |        |       |           |
 
 
 # General

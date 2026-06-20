@@ -40,7 +40,7 @@ type: personne
 | 2026  | [[Tournoi de Genève]]            | 2e tour                    | Victoire contre [[Adrian Mannarino]] (                                                                                                                                               |
 | 2026  | [[Roland-Garros]] - Simple       | 3e tour                    | Victoire contre [[Aleksandar Vukic]] (ATP 96) au premier tour<br>Victoire contre [[Ben Shelton]] (ATP 5) au second tour<br>Défaite contre [[Matteo Arnaldi]]  tour<br>Défaite contre |
 | 2026  | [[Roland-Garros]] - Double       | 2e tour puis forfait       |                                                                                                                                                                                      |
-| 2026  | [[Tournoi de Halle]] - Simple    | 1/4 finale                 |                                                                                                                                                                                      |
+| 2026  | [[Tournoi de Halle]] - Simple    | 1/4 finale                 | Défaite contre [[Alexander Zverev]]                                                                                                                                                  |
 |       |                                  |                            |                                                                                                                                                                                      |
 
 # Style et Caractéristiques

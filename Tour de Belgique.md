@@ -29,6 +29,7 @@ https://baloisebelgiumtour.be/fr/
 | -------- | ----------------- | ----------------- | -------- | ------ | ----- | ------------------------- |
 | 1e (ERY) | [[Biniam Girmay]] | [[Biniam Girmay]] |          |        |       | 2e - [[Tim Merlier]]      |
 | 2e (BEL) | [[Tim Merlier]]   | [[Tim Merlier]]   |          |        |       | 3e - [[Jasper Philipsen]] |
+| 3e (ESP) | [[Alex Aranburu]] | [[Alex Aranburu]] |          |        |       |                           |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
