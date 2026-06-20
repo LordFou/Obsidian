@@ -25,6 +25,8 @@ type: personne
 | 2025  | [[Tour de Grande Bretagne]] - 1e étape | 1ier     | Sprint Massif                              |
 | 2025  | [[Tour de Grande Bretagne]] - 2e étape | 1ier     | Sprint Massif                              |
 | 2025  | [[Grand Prix d’Isbergues]]             | 1ier     | Sprint Massif                              |
+|       |                                        |          |                                            |
+| 2026  | [[Tour de Belgique]] - 2e étape        | 2e       |                                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

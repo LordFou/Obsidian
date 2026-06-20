@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour de Suis",
+                "query": "Bart Le",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,10 +205,15 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "8ce5e3e2eeaf76eb",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
-    "Marlen Reusser.md",
+    "Tour de Belgique.md",
+    "Jasper Philipsen.md",
+    "Copenhague Sprint.md",
+    "Copenhagen Sprint.md",
+    "Loisirs/Sport/Olav Kooij.md",
     "Tour de Suisse.md",
+    "Marlen Reusser.md",
     "Loisirs/Sport/Elisa Longo Borghini.md",
     "Attachments/image-689.webp",
     "Attachments/image-688.webp",
@@ -233,11 +238,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Chrono Trigger.md",
     "Square Enix.md",
     "Octopath Traveler.md",
-    "Acquire.md",
-    "Claytechworks.md",
-    "Ilan Van Wilder.md",
-    "Loisirs/Sport/Tadej Pogacar.md",
-    "Tim Merlier.md",
     "Attachments/image-684.webp",
     "Attachments/image-683.webp",
     "Attachments/image-682.webp",
