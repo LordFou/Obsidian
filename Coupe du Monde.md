@@ -23,11 +23,12 @@ type: event
 | Mexique - Afrique du Sud  | 2-0      | 3 cartons rouge qui vont déjà destabiliser pour les prochains matchs ! |
 | Corée du Sud - Tchéquie   | 2-1      |                                                                        |
 | Tchéquie - Afrique du Sud | 1-1      |                                                                        |
+| Mexique - Corée du Sud    | 1-0      |                                                                        |
 
 | Pays           | Points | Différence |
 | -------------- | ------ | ---------- |
-| Mexique        | 3      | +2         |
-| Corée du Sud   | 3      | +1         |
+| Mexique        | 6      | +3         |
+| Corée du Sud   | 3      | 0          |
 | Tchéquie       | 1      | -1         |
 | Afrique du Sud | 1      | -2         |
 
@@ -42,10 +43,10 @@ type: event
 
 | Pays               | Points | Différence |
 | ------------------ | ------ | ---------- |
+| Canada             | 4      | +6         |
 | Suisse             | 4      | +3         |
-| Canada             | 1      | 0          |
-| Quatar             | 1      | 0          |
 | Bosnie-Herzégovine | 1      | -3         |
+| Quatar             | 1      | -6         |
 
 ## Groupe C 
 
