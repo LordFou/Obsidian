@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-687.webp|444x284]]
 # Nafi Thiam
 
 # Informations Générales

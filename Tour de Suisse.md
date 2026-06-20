@@ -34,9 +34,10 @@ https://www.tourdesuisse.ch/fr
 | 1e (SLO) | [[Tadej Pogacar]] | [[Tadej Pogacar]] |          |        |       | 4e - [[Ilan Van Wilder]] |
 ## Femmes
 
-|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
-| --- | --------- | ------- | -------- | ------ | ----- | --------- |
-|     |           |         |          |        |       |           |
+|          | Vainqueur                | Général                  | Montagne | Points | Jeune | Remarques |
+| -------- | ------------------------ | ------------------------ | -------- | ------ | ----- | --------- |
+| 1e (NDL) | [[Femke De Vries]]       | [[Femke De Vries]]       |          |        |       |           |
+| 2e (ITA) | [[Elisa Longo Borghini]] | [[Elisa Longo Borghini]] |          |        |       |           |
 
 
 # General
@@ -50,7 +51,7 @@ https://www.tourdesuisse.ch/fr
 |       |                  |             |                      |                  |                     |                         |                  |                                  |
 ### Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur          | Nationalité | Remarque |
+| ----- | ------------------ | ----------- | -------- |
+| 2025  | [[Marlen Reusser]] | Suisse      |          |
+|       |                    |             |          |

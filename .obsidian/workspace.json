@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Nafi Thiam.md",
+                "file": "Tour de Suisse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nafi Thiam"
+              "title": "Tour de Suisse"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Nafi",
+                "query": "Tour de Suis",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,6 +207,14 @@
   },
   "active": "8ce5e3e2eeaf76eb",
   "lastOpenFiles": [
+    "Marlen Reusser.md",
+    "Tour de Suisse.md",
+    "Loisirs/Sport/Elisa Longo Borghini.md",
+    "Attachments/image-689.webp",
+    "Attachments/image-688.webp",
+    "Femke De Vries.md",
+    "Loisirs/Sport/Sportifs/Nafi Thiam.md",
+    "Attachments/image-687.webp",
     "Coupe du Monde.md",
     "Journal de bord/2026-06-21.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Schrödinger's Call.md",
@@ -227,21 +236,13 @@
     "Acquire.md",
     "Claytechworks.md",
     "Ilan Van Wilder.md",
-    "Tour de Suisse.md",
     "Loisirs/Sport/Tadej Pogacar.md",
     "Tim Merlier.md",
-    "Tour de Belgique.md",
-    "Biniam Girmay.md",
-    "Elise Mertens.md",
-    "Zizou Bergs.md",
     "Attachments/image-684.webp",
     "Attachments/image-683.webp",
     "Attachments/image-682.webp",
     "Attachments/image-681.webp",
     "Attachments/image-680.webp",
-    "Attachments/image-679.webp",
-    "Attachments/image-678.webp",
-    "Attachments/image-677.webp",
     "Loisirs/Sport/Compétitions/Sans titre",
     "Sans titre",
     "TI-99",
