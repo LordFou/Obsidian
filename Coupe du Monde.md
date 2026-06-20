@@ -18,20 +18,18 @@ type: event
 
 ## Groupe A
 
-| Match                    | Résultat | Remarque                                                               |
-| ------------------------ | -------- | ---------------------------------------------------------------------- |
-| Mexique - Afrique du Sud | 2-0      | 3 cartons rouge qui vont déjà destabiliser pour les prochains matchs ! |
-| Corée du Sud - Tchéquie  | 2-1      |                                                                        |
-|                          |          |                                                                        |
+| Match                     | Résultat | Remarque                                                               |
+| ------------------------- | -------- | ---------------------------------------------------------------------- |
+| Mexique - Afrique du Sud  | 2-0      | 3 cartons rouge qui vont déjà destabiliser pour les prochains matchs ! |
+| Corée du Sud - Tchéquie   | 2-1      |                                                                        |
+| Tchéquie - Afrique du Sud | 1-1      |                                                                        |
 
 | Pays           | Points | Différence |
 | -------------- | ------ | ---------- |
 | Mexique        | 3      | +2         |
 | Corée du Sud   | 3      | +1         |
-| Tchéquie       | 0      | -1         |
-| Afrique du Sud | 0      | -2         |
-
-
+| Tchéquie       | 1      | -1         |
+| Afrique du Sud | 1      | -2         |
 
 ## Groupe B 
 

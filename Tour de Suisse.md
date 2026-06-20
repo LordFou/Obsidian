@@ -29,10 +29,10 @@ https://www.tourdesuisse.ch/fr
 # Edition 2026
 ## Hommes
 
-|          | Vainqueur           | Général           | Montagne | Points | Jeune | Remarques                |
-| -------- | ------------------- | ----------------- | -------- | ------ | ----- | ------------------------ |
-| 1e (SLO) | [[Tadej Pogacar]]   | [[Tadej Pogacar]] |          |        |       | 4e - [[Ilan Van Wilder]] |
-| 2e (FRA) | [[Romain Grégoire]] | [[Tadej Pogacar]] |          |        |       |                          |
+|          | Vainqueur           | Général           | Montagne | Points | Jeune | Remarques                 |
+| -------- | ------------------- | ----------------- | -------- | ------ | ----- | ------------------------- |
+| 1e (SLO) | [[Tadej Pogacar]]   | [[Tadej Pogacar]] |          |        |       | 4e - [[Ilan Van Wilder]]  |
+| 2e (FRA) | [[Romain Grégoire]] | [[Tadej Pogacar]] |          |        |       | 7e - [[Emiel Verstrynge]] |
 ## Femmes
 
 |          | Vainqueur                | Général                  | Montagne | Points | Jeune | Remarques |
