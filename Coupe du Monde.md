@@ -54,12 +54,14 @@ type: event
 | -------------- | -------- | -------------------------------------------------- |
 | Brésil - Maroc | 1-1      | La première grande affiche de cette coupe du monde |
 | Haïti - Ecosse | 0-1      |                                                    |
+| Ecosse - Maroc | 0-1      |                                                    |
+|                |          |                                                    |
 
 | Pays   | Points | Différence |
 | ------ | ------ | ---------- |
-| Ecosse | 3      | +1         |
+| Maroc  | 4      | +1         |
+| Ecosse | 3      | 0          |
 | Brésil | 1      | 0          |
-| Maroc  | 1      | 0          |
 | Haïti  | 0      | -1         |
 
 ## Groupe D 
@@ -68,11 +70,12 @@ type: event
 | ------------------- | -------- | --------------------------------------------- |
 | USA - Paraguay      | 4-1      | Les USA bien rentrés dans leur coupe du monde |
 | Australie - Turquie | 2-0      | petite surprise                               |
+| USA - Australie     | 2-0      |                                               |
 
 | Pays      | Points | Différence |
 | --------- | ------ | ---------- |
-| USA       | 3      | +3         |
-| Australie | 3      | +2         |
+| USA       | 6      | +5         |
+| Australie | 3      | 0          |
 | Turquie   | 0      | -2         |
 | Paraguay  | 0      | -3         |
 

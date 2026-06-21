@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition               | Résultat | Remarque |
-| ----- | ------------------------- | -------- | -------- |
-| 2025  | [[Clasica San Sebastian]] | 10e      |          |
+| Année | Compétition                   | Résultat | Remarque |
+| ----- | ----------------------------- | -------- | -------- |
+| 2025  | [[Clasica San Sebastian]]     | 10e      |          |
+| 2026  | [[Tour de Suisse]] - 3e étape | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
