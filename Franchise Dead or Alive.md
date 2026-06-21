@@ -23,9 +23,10 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre               | Année | Plateformes | Remarque |
-| ------------------- | ----- | ----------- | -------- |
-| [[Dead or Alive 7]] |       |             |          |
+| Titre                          | Année | Plateformes                                | Remarque |
+| ------------------------------ | ----- | ------------------------------------------ | -------- |
+| [[DEAD OR ALIVE 6 Last Round]] | 2026  | [[PC]], [[Playstation 5]], [[Xbox Series]] |          |
+| [[Dead or Alive 7]]            |       |                                            |          |
 
 
 ## Mécaniques et innovations

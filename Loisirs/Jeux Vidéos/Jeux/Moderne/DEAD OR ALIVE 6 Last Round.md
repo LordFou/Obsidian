@@ -31,8 +31,8 @@ tags: mediaDB/game
 	- Studio : [[KOEI TECMO GAMES]]
 	- Personnalités : 
 - **Éditeur** : [[KOEI TECMO GAMES]]
-- **Plateformes** : 
-- **Franchise** : 
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
+- **Franchise** : [[Franchise Dead or Alive]]
 - **Genre** : [[Combat]]
 - **Résumé** :  
 
