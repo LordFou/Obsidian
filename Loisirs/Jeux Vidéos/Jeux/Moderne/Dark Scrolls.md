@@ -30,12 +30,12 @@ tags: mediaDB/game
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio :  doinksoft
+	- Studio :  [[doinksoft]]
 	- Personnalités : 
-- **Éditeur** : Devolver Digital
-- **Plateformes** : 
+- **Éditeur** : [[Devolver Digital]]
+- **Plateformes** : [[PC]], [[Switch]]
 - **Franchise** : 
-- **Genre** : Action,Adventure,Indie
+- **Genre** : [[Plateforme]], [[Coopération]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -60,6 +60,7 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2912550 |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Steam       | https://store.steampowered.com/app/2912550       |
+| Trailer     | https://youtu.be/v5pkLRPuNd0?si=R6PzmXwFFEa-Rf59 |
