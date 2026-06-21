@@ -25,11 +25,12 @@ https://baloisebelgiumtour.be/fr/
 # Edition 2026
 ## Hommes
 
-|          | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques                 |
-| -------- | ----------------- | ----------------- | -------- | ------ | ----- | ------------------------- |
-| 1e (ERY) | [[Biniam Girmay]] | [[Biniam Girmay]] |          |        |       | 2e - [[Tim Merlier]]      |
-| 2e (BEL) | [[Tim Merlier]]   | [[Tim Merlier]]   |          |        |       | 3e - [[Jasper Philipsen]] |
-| 3e (ESP) | [[Alex Aranburu]] | [[Alex Aranburu]] |          |        |       |                           |
+|              | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques                 |
+| ------------ | ----------------- | ----------------- | -------- | ------ | ----- | ------------------------- |
+| 1e (ERY)     | [[Biniam Girmay]] | [[Biniam Girmay]] |          |        |       | 2e - [[Tim Merlier]]      |
+| ==2e (BEL)== | [[Tim Merlier]]   | [[Tim Merlier]]   |          |        |       | 3e - [[Jasper Philipsen]] |
+| 3e (ESP)     | [[Alex Aranburu]] | [[Alex Aranburu]] |          |        |       |                           |
+| 4e (NDL)     | [[Olav Kooij]]    | [[Alex Aranburu]] |          |        |       | 2e - [[Tim Merlier]]      |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |

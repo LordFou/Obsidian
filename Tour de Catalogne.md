@@ -9,8 +9,6 @@ type: event
 
 ## Hommes
 
-### Etapes 
-
 |          | Vainqueur               | Général              | Montagne                 | Points                   | Jeune              | Remarques                                              |
 | -------- | ----------------------- | -------------------- | ------------------------ | ------------------------ | ------------------ | ------------------------------------------------------ |
 | 1e (FRA) | [[Dorian Godon]]        | [[Dorian Godon]]     | [[Baptiste Veistroffer]] | [[Dorian Godon]]         | ?                  | 2e - [[Remco Evenepoel]]                               |
