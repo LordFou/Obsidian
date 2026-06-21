@@ -83,16 +83,16 @@ type: event
 
 ## Groupe E 
 
-| Match                    | Résultat | Remarque                                      |
-| ------------------------ | -------- | --------------------------------------------- |
-| Allemagne - Curaçao      | 7-1      | Premier but dans la coupe du monde du Curaçao |
-| Côte d'Ivoire - Equateur | 1-0      |                                               |
-|                          |          |                                               |
+| Match                     | Résultat | Remarque                                      |
+| ------------------------- | -------- | --------------------------------------------- |
+| Allemagne - Curaçao       | 7-1      | Premier but dans la coupe du monde du Curaçao |
+| Côte d'Ivoire - Equateur  | 1-0      |                                               |
+| Allemagne - Côte d'Ivoire | 2-1      |                                               |
 
 | Pays          | Points | Différence |
 | ------------- | ------ | ---------- |
-| Allemagne     | 3      | +6         |
-| Côte d'Ivoire | 3      | +1         |
+| Allemagne     | 6      | +7         |
+| Côte d'Ivoire | 3      | 0          |
 | Equateur      | 0      | -1         |
 | Curaçao       | 0      | -6         |
 ## Groupe F 
