@@ -87,6 +87,7 @@ type: event
 | ------------------------ | -------- | --------------------------------------------- |
 | Allemagne - Curaçao      | 7-1      | Premier but dans la coupe du monde du Curaçao |
 | Côte d'Ivoire - Equateur | 1-0      |                                               |
+|                          |          |                                               |
 
 | Pays          | Points | Différence |
 | ------------- | ------ | ---------- |
@@ -100,11 +101,12 @@ type: event
 | ---------------- | -------- | --------------------------------------- |
 | Pays-Bas - Japon | 2-2      | Mené 2 fois, le Japon est revenu 2 fois |
 | Suède - Tunisie  | 5-1      |                                         |
+| Pays-Bas - Suède | 5-1      |                                         |
 
 | Pays     | Points | Différence |
 | -------- | ------ | ---------- |
-| Suède    | 3      | +4         |
-| Pays-Bas | 1      | 0          |
+| Pays-Bas | 4      | +4         |
+| Suède    | 3      | 0          |
 | Japon    | 1      | 0          |
 | Tunisie  | 0      | -4         |
 ## Groupe G

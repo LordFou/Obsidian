@@ -26,6 +26,7 @@ type: personne
 |       |                                                 |                  |                                                    |
 | 2026  | [[Clasica Jaen]]                                | 1ier             |                                                    |
 | 2026  | [[Tour d'Andalousie]]                           | 9e               |                                                    |
+| 2026  | [[Tour de Suisse]] - 4e étape                   | 5e               |                                                    |
 
 # Style et Caractéristiques
 - Très bon équipier
