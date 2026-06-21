@@ -88,13 +88,14 @@ type: event
 | Allemagne - Curaçao       | 7-1      | Premier but dans la coupe du monde du Curaçao |
 | Côte d'Ivoire - Equateur  | 1-0      |                                               |
 | Allemagne - Côte d'Ivoire | 2-1      |                                               |
+| Equateur - Curaçao        | 0-0      |                                               |
 
 | Pays          | Points | Différence |
 | ------------- | ------ | ---------- |
 | Allemagne     | 6      | +7         |
 | Côte d'Ivoire | 3      | 0          |
-| Equateur      | 0      | -1         |
-| Curaçao       | 0      | -6         |
+| Equateur      | 1      | -1         |
+| Curaçao       | 1      | -6         |
 ## Groupe F 
 
 | Match            | Résultat | Remarque                                |
@@ -102,13 +103,14 @@ type: event
 | Pays-Bas - Japon | 2-2      | Mené 2 fois, le Japon est revenu 2 fois |
 | Suède - Tunisie  | 5-1      |                                         |
 | Pays-Bas - Suède | 5-1      |                                         |
+| Tunisie - Japon  | 0-4      | ==1000e Match de la coupe du monde !==  |
 
 | Pays     | Points | Différence |
 | -------- | ------ | ---------- |
 | Pays-Bas | 4      | +4         |
+| Japon    | 3      | +4         |
 | Suède    | 3      | 0          |
-| Japon    | 1      | 0          |
-| Tunisie  | 0      | -4         |
+| Tunisie  | 0      | -8         |
 ## Groupe G
 
 | Match                   | Résultat | Remarque |
