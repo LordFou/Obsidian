@@ -25,12 +25,13 @@ https://baloisebelgiumtour.be/fr/
 # Edition 2026
 ## Hommes
 
-|              | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques                 |
-| ------------ | ----------------- | ----------------- | -------- | ------ | ----- | ------------------------- |
-| 1e (ERY)     | [[Biniam Girmay]] | [[Biniam Girmay]] |          |        |       | 2e - [[Tim Merlier]]      |
-| ==2e (BEL)== | [[Tim Merlier]]   | [[Tim Merlier]]   |          |        |       | 3e - [[Jasper Philipsen]] |
-| 3e (ESP)     | [[Alex Aranburu]] | [[Alex Aranburu]] |          |        |       |                           |
-| 4e (NDL)     | [[Olav Kooij]]    | [[Alex Aranburu]] |          |        |       | 2e - [[Tim Merlier]]      |
+|              | Vainqueur            | Général              | Montagne | Points | Jeune | Remarques                 |
+| ------------ | -------------------- | -------------------- | -------- | ------ | ----- | ------------------------- |
+| 1e (ERY)     | [[Biniam Girmay]]    | [[Biniam Girmay]]    |          |        |       | 2e - [[Tim Merlier]]      |
+| ==2e (BEL)== | [[Tim Merlier]]      | [[Tim Merlier]]      |          |        |       | 3e - [[Jasper Philipsen]] |
+| 3e (ESP)     | [[Alex Aranburu]]    | [[Alex Aranburu]]    |          |        |       |                           |
+| 4e (NDL)     | [[Olav Kooij]]       | [[Alex Aranburu]]    |          |        |       | 2e - [[Tim Merlier]]      |
+| ==5e (BEL)== | [[Jasper Philipsen]] | [[Jasper Philipsen]] |          |        |       |                           |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
@@ -44,7 +45,7 @@ https://baloisebelgiumtour.be/fr/
 | Année | Vainqueur             | Nationalité | Points                    | Jeune            | Super Flandrien (Combativité) | Remarque                                                         |
 | ----- | --------------------- | ----------- | ------------------------- | ---------------- | ----------------------------- | ---------------------------------------------------------------- |
 | 2025  | [[Filippo Baroncini]] | Italien     | [[Juan Sebastian Molano]] | [[Alec Segaert]] | [[Dylan Vandenstorme]]        | 2e - [[Ethan Hayter]] - (UK)<br>3e - [[Jenno Berckmoes]] - (BEL) |
-|       |                       |             |                           |                  |                               |                                                                  |
+| 2026  | [[Jasper Philipsen]]  | ==Belge==   |                           |                  |                               |                                                                  |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
