@@ -113,17 +113,19 @@ type: event
 | Tunisie  | 0      | -8         |
 ## Groupe G
 
-| Match                   | Résultat | Remarque |
-| ----------------------- | -------- | -------- |
-| Belgique - Egypte       | 1-1      |          |
-| Iran - Nouvelle Zélande | 2-2      |          |
+| Match                     | Résultat | Remarque |
+| ------------------------- | -------- | -------- |
+| Belgique - Egypte         | 1-1      |          |
+| Iran - Nouvelle Zélande   | 2-2      |          |
+| Belgique - Iran           | 0-0      |          |
+| Egypte - Nouvelle Zélande | 3-1      |          |
 
 | Pays             | Points | Différence |
 | ---------------- | ------ | ---------- |
-| Belgique         | 1      | 0          |
-| Egypte           | 1      | 0          |
-| Iran             | 1      | 0          |
-| Nouvelle-Zélande | 1      | 0          |
+| Egypte           | 3      | +2         |
+| Iran             | 2      | 0          |
+| Belgique         | 2      | 0          |
+| Nouvelle-Zélande | 1      | -2         |
 
 ## Groupe H
 

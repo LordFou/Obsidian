@@ -35,6 +35,7 @@ https://www.tourdesuisse.ch/fr
 | 2e (FRA) | [[Romain Grégoire]]  | [[Tadej Pogacar]] |          |        |       | 7e - [[Emiel Verstrynge]]   |
 | 3e (EQU) | [[Jonathan Narvaez]] | [[Tadej Pogacar]] |          |        |       | 2e - [[Xandro Meurisse]]    |
 | 4e (SLO) | [[Tadej Pogacar]]    | [[Tadej Pogacar]] |          |        |       | 5e - [[Tim Wellens]]<br>CLM |
+| 5e (SLO) | [[Tadej Pogacar]]    | [[Tadej Pogacar]] |          |        |       | 4e - [[Jarno Widar]]        |
 ## Femmes
 
 |          | Vainqueur                | Général                  | Montagne | Points | Jeune | Remarques |
@@ -49,11 +50,11 @@ https://www.tourdesuisse.ch/fr
 
 ### Hommes
 
-| Année | Vainqueur        | Nationalité | Montagne             | Points           | Jeune               | Equipe                  | Combativité      | Remarques                        |
-| ----- | ---------------- | ----------- | -------------------- | ---------------- | ------------------- | ----------------------- | ---------------- | -------------------------------- |
-| 2025  | [[Joao Almeida]] | Portugais   | [[Aleksandr Vlasov]] | [[Joao Almeida]] | [[Kevin Vauquelin]] | [[Israël Premier Tech]] | [[Joao Almeida]] | 2e - [[Kevin Vauquelin]]<br>3e - |
-|       |                  |             |                      |                  |                     |                         |                  |                                  |
-|       |                  |             |                      |                  |                     |                         |                  |                                  |
+| Année | Vainqueur         | Nationalité | Montagne             | Points           | Jeune               | Equipe                  | Combativité      | Remarques                        |
+| ----- | ----------------- | ----------- | -------------------- | ---------------- | ------------------- | ----------------------- | ---------------- | -------------------------------- |
+| 2025  | [[Joao Almeida]]  | Portugais   | [[Aleksandr Vlasov]] | [[Joao Almeida]] | [[Kevin Vauquelin]] | [[Israël Premier Tech]] | [[Joao Almeida]] | 2e - [[Kevin Vauquelin]]<br>3e - |
+| 2026  | [[Tadej Pogacar]] | Slovène     |                      |                  |                     |                         |                  | 5e - [[Ilan Van Wilder]]         |
+|       |                   |             |                      |                  |                     |                         |                  |                                  |
 ### Femmes
 
 | Année | Vainqueur          | Nationalité | Remarque |
