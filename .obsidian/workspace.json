@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Star Fox.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/The 7th Guest Remake.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Star Fox"
+              "title": "The 7th Guest Remake"
+            }
+          },
+          {
+            "id": "93394ed43fdb3b62",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Star Fox",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,8 +216,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "8ce5e3e2eeaf76eb",
+  "active": "93394ed43fdb3b62",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The 7th Guest Remake.md",
+    "Star Fox.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/DEAD OR ALIVE 6 Last Round.md",
     "Franchise Dead or Alive.md",
     "KOEI TECMO GAMES.md",
@@ -232,9 +245,7 @@
     "Loïs Petit.md",
     "Marlen Reusser.md",
     "Xandro Meurisse.md",
-    "Jonathan Narvaez.md",
     "Attachments/image-693.webp",
-    "Lorenzo Mark Finn.md",
     "Attachments/image-692.webp",
     "Attachments/image-691.webp",
     "Attachments/image-690.webp",
