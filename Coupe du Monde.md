@@ -133,13 +133,15 @@ type: event
 | ------------------------- | -------- | --------------------------------------------- |
 | Espagne - Cap Vert        | 0-0      | L'Espagne pas encore rentrée dans son tournoi |
 | Arabie Saoudite - Uruguay | 1-1      |                                               |
+| Espagne - Arabie Saoudite | 4-0      |                                               |
+| Uruguay - Cap Vert        | 2-2      |                                               |
 
 | Pays            | Points | Différence |
 | --------------- | ------ | ---------- |
-| Espagne         | 1      | 0          |
-| Cap Vert        | 1      | 0          |
-| Arabie Saoudite | 1      | 0          |
-| Uruguay         | 1      | 0          |
+| Espagne         | 4      | +4         |
+| Cap Vert        | 2      | 0          |
+| Uruguay         | 2      | 0          |
+| Arabie Saoudite | 1      | -4         |
 
 ## Groupe I
 
