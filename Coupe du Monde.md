@@ -180,26 +180,30 @@ type: event
 | ---------------------- | -------- | -------- |
 | Portugal - Congo       | 1-1      |          |
 | Ouzbékistan - Colombie | 1-3      |          |
+| Portugal - Ouzbékistan | 5-0      |          |
+| Colombie - Congo       | 1-0      |          |
 
 | Pays        | Points | Différence |
 | ----------- | ------ | ---------- |
-| Colombie    | 3      | +2         |
+| Portugal    | 4      | +5         |
+| Colombie    | 6      | +3         |
 | Congo       | 1      | 0          |
-| Portugal    | 1      | 0          |
-| Ouzbékistan | 0      | -2         |
+| Ouzbékistan | 0      | -7         |
 ## Groupe L
 
 | Match                | Résultat | Remarque |
 | -------------------- | -------- | -------- |
 | Angleterre - Croatie | 4-2      |          |
 | Ghana - Panama       | 1-0      |          |
+| Angleterre - Ghana   | 0-0      |          |
+| Panama - Croatie     | 0-1      |          |
 
 | Pays       | Points | Différence |
 | ---------- | ------ | ---------- |
-| Angleterre | 3      | +2         |
-| Ghana      | 3      | +1         |
-| Panama     | 0      | -1         |
-| Croatie    | 0      | -2         |
+| Angleterre | 4      | +2         |
+| Ghana      | 4      | +1         |
+| Croatie    | 3      | -1         |
+| Panama     | 0      | -2         |
 
 # Hall of fame
 ## Hommes
