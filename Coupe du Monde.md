@@ -187,16 +187,16 @@ type: event
 | ----------- | ------ | ---------- |
 | Portugal    | 4      | +5         |
 | Colombie    | 6      | +3         |
-| Congo       | 1      | 0          |
+| Congo       | 1      | -1         |
 | Ouzbékistan | 0      | -7         |
 ## Groupe L
 
-| Match                | Résultat | Remarque |
-| -------------------- | -------- | -------- |
-| Angleterre - Croatie | 4-2      |          |
-| Ghana - Panama       | 1-0      |          |
-| Angleterre - Ghana   | 0-0      |          |
-| Panama - Croatie     | 0-1      |          |
+| Match                | Résultat | Remarque                                |
+| -------------------- | -------- | --------------------------------------- |
+| Angleterre - Croatie | 4-2      |                                         |
+| Ghana - Panama       | 1-0      |                                         |
+| Angleterre - Ghana   | 0-0      |                                         |
+| Panama - Croatie     | 0-1      | 200 titularisation pour [[Luca Modric]] |
 
 | Pays       | Points | Différence |
 | ---------- | ------ | ---------- |

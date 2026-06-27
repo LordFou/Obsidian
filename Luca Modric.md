@@ -1,13 +1,13 @@
 ---
 type: personne
 ---
-![[image-698.webp|500x309]]
-# Jada Lynch
+
+# Luca Modric
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Basket-Ball]]
+- **Nationalité** :  
+- **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
@@ -16,18 +16,12 @@ type: personne
 | Année | Compétition           | Résultat                   | Remarque         |
 | ----- | --------------------- | -------------------------- | ---------------- |
 | XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
-```timeline-labeled
-[line-5, body-2]
-date: Mars 2026
-title: Hoop Summit
-content: Elle obtient un ticket pour le prestigieux Hoop Summit
-```
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- 200 titularisations avec la Croatie lors de la [[Coupe du Monde]] 2026
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
@@ -35,6 +29,6 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
-# Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |
