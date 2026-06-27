@@ -16,7 +16,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition       | Résultat   | Remarque |
 | ----- | ----------------- | ---------- | -------- |
-| 2019  | [[Roland-Garros]] |            |          |
+| 2019  | [[Roland-Garros]] | Finale     |          |
 | 2023  | [[Wimbledon]]     | Vainqueure |          |
 | 2025  | [[US Open]]       | 1/4 finale |          |
 |       |                   |            |          |

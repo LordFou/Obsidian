@@ -145,29 +145,32 @@ type: event
 
 ## Groupe I
 
-| Match            | Résultat | Remarque                                                              |
-| ---------------- | -------- | --------------------------------------------------------------------- |
-| France - Sénégal | 3-1      | La France déroule et se pose en favori ayant réussi son premier match |
-| Iraq - Norvège   | 1-4      |                                                                       |
+| Match             | Résultat | Remarque                                                              |
+| ----------------- | -------- | --------------------------------------------------------------------- |
+| France - Sénégal  | 3-1      | La France déroule et se pose en favori ayant réussi son premier match |
+| Iraq - Norvège    | 1-4      |                                                                       |
+| France - Iraq     | 3-0      |                                                                       |
+| Norvège - Sénégal | 3-2      |                                                                       |
 
 | Pays    | Points | Différence |
 | ------- | ------ | ---------- |
-| Norvège | 3      | +3         |
-| France  | 3      | +2         |
-| Sénégal | 0      | -2         |
-| Iraq    | 0      | -3         |
+| France  | 6      | +5         |
+| Norvège | 6      | +4         |
+| Sénégal | 0      | -3         |
+| Iraq    | 0      | -6         |
 
 ## Groupe J
 
-| Match               | Résultat | Remarque                     |
-| ------------------- | -------- | ---------------------------- |
-| Argentine - Algérie | 3-0      | Triplé de [[Lionel Messi]] ! |
-| Autriche - Jordanie | 3-1      |                              |
+| Match                | Résultat | Remarque                                                                                                      |
+| -------------------- | -------- | ------------------------------------------------------------------------------------------------------------- |
+| Argentine - Algérie  | 3-0      | Triplé de [[Lionel Messi]] !                                                                                  |
+| Autriche - Jordanie  | 3-1      |                                                                                                               |
+| Argentine - Autriche | 2-0      | [[Lionel Messi]] devient le meilleur buteur à la coupe du monde.<br>Il dépasse l'Allemand [[Miroslav Klose]]. |
 
 | Pays      | Points | Différence |
 | --------- | ------ | ---------- |
-| Argentine | 3      | +3         |
-| Autriche  | 3      | +2         |
+| Argentine | 6      | +5         |
+| Autriche  | 3      | 0          |
 | Jordanie  | 0      | -2         |
 | Algérie   | 0      | -3         |
 ## Groupe K
