@@ -2,7 +2,7 @@
 type: event
 ---
 
-# European Open
+# European Open de Bruxelles
 
 # Introduction
 

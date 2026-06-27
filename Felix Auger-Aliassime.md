@@ -15,8 +15,8 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition       | Résultat  | Remarque |
 | ----- | ----------------- | --------- | -------- |
-| 2022  | [[European Open]] | Vainqueur |          |
-| 2025  | [[European Open]] | Vainqueur |          |
+| 2022  | [[Tournoi de Bruxelles]] | Vainqueur |          |
+| 2025  | [[Tournoi de Bruxelles]] | Vainqueur |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

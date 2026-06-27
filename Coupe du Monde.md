@@ -212,10 +212,9 @@ type: event
 | Croatie    | 3      | -1         |
 | Panama     | 0      | -2         |
 ### Eliminés
-- Jordanie
-- Quatar
-- Turquie
-- Haïti
+- Asie : Jordanie, Quatar
+- Europe : Turquie, Tchèquie
+- ? : Haïti
 
 # Hall of fame
 ## Hommes

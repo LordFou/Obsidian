@@ -13,9 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                   | Résultat | Remarque           |
-| ----- | ----------------------------- | -------- | ------------------ |
-| 2025  | [[Tour de Suisse]] - 5e étape | 1ier     | Etape de montagne  |
+| Année | Compétition                           | Résultat | Remarque          |
+| ----- | ------------------------------------- | -------- | ----------------- |
+| 2025  | [[Tour de Suisse]] - 5e étape         | 1ier     | Etape de montagne |
+| 2025  | [[Tour de France]] - Classement final | 4e       |                   |
+| 2026  | [[Tour de France]]                    | Forfait  |                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

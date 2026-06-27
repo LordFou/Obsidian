@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Tournoi de Bruxelles - ATP 250
+# Tournoi de Bruxelles - European Open - ATP 250
 
 # Introduction
 
