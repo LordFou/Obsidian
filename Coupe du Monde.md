@@ -126,19 +126,21 @@ type: event
 | Tunisie  | 0      | -10        |
 ### Groupe G
 
-| Match                     | Résultat | Remarque |
-| ------------------------- | -------- | -------- |
-| Belgique - Egypte         | 1-1      |          |
-| Iran - Nouvelle Zélande   | 2-2      |          |
-| Belgique - Iran           | 0-0      |          |
-| Egypte - Nouvelle Zélande | 3-1      |          |
+| Match                       | Résultat | Remarque |
+| --------------------------- | -------- | -------- |
+| Belgique - Egypte           | 1-1      |          |
+| Iran - Nouvelle Zélande     | 2-2      |          |
+| Belgique - Iran             | 0-0      |          |
+| Egypte - Nouvelle Zélande   | 3-1      |          |
+| Nouvelle-Zélande - Belgique | 1-5      |          |
+| Egypte - Iran               | 1-1      |          |
 
 | Pays             | Points | Différence |
 | ---------------- | ------ | ---------- |
-| Egypte           | 3      | +2         |
-| Iran             | 2      | 0          |
-| Belgique         | 2      | 0          |
-| Nouvelle-Zélande | 1      | -2         |
+| Belgique         | 5      | +4         |
+| Egypte           | 4      | +2         |
+| Iran             | 3      | 0          |
+| Nouvelle-Zélande | 1      | -6         |
 
 ### Groupe H
 
@@ -232,6 +234,8 @@ type: event
 - ? : Haïti, Curaçao
 - Amérique du Sud : 
 	- Uruguay
+- Océanie
+	- Nouvelle-Zélande
 
 # Hall of fame
 ## Hommes

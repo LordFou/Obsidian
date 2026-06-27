@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Belgian Cats.md",
+                "file": "Coupe du Monde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Belgian Cats"
+              "title": "Coupe du Monde"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Belgian ",
+                "query": "Thibaut",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,6 +206,8 @@
   },
   "active": "8ce5e3e2eeaf76eb",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Thibaut Courtois.md",
+    "Belgian Cats.md",
     "Coupe du Monde.md",
     "Loisirs/Sport/Compétitions/Tournoi de Eastbourne.md",
     "Zizou Bergs.md",
@@ -233,8 +234,6 @@
     "Greet Minnen.md",
     "Elise Mertens.md",
     "Loisirs/Sport/Sportifs/Naomi Osaka.md",
-    "Australian Open.md",
-    "US Open.md",
     "Attachments/image-697.webp",
     "Attachments/image-696.webp",
     "Attachments/image-695.webp",
