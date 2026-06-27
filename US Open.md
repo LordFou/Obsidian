@@ -20,7 +20,9 @@ type: event
 | Année | Vainqueur           | Nationalité | Remarque |
 | ----- | ------------------- | ----------- | -------- |
 | 2001  | [[Serena Williams]] | Américaine  |          |
-| 2005  | [[Kim Clijsters]]   | Belge       |          |
+| 2005  | [[Kim Clijsters]]   | ==Belge==   |          |
+| 2018  | [[Naomi Osaka]]     | Japonaise   |          |
+| 2020  | [[Naomi Osaka]]     | Japonaise   |          |
 | 2022  | [[Iga Swiatek]]     | Polonaise   |          |
 | 2025  | [[Aryna Sabalenka]] | Biélorusse  |          |
 |       |                     |             |          |

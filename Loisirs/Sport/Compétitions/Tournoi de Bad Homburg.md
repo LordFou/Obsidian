@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Tournoi de Bad Homburg
+# Tournoi de Bad Homburg - WTA 500
 
 # Introduction
 
