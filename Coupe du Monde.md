@@ -73,19 +73,21 @@ type: event
 
 ### Groupe D 
 
-| Match               | Résultat | Remarque                                      |
-| ------------------- | -------- | --------------------------------------------- |
-| USA - Paraguay      | 4-1      | Les USA bien rentrés dans leur coupe du monde |
-| Australie - Turquie | 2-0      | petite surprise                               |
-| USA - Australie     | 2-0      |                                               |
-| Turquie - Paraguay  | 0-1      | La Turquie déjà éliminée                      |
+| Match                | Résultat | Remarque                                      |
+| -------------------- | -------- | --------------------------------------------- |
+| USA - Paraguay       | 4-1      | Les USA bien rentrés dans leur coupe du monde |
+| Australie - Turquie  | 2-0      | petite surprise                               |
+| USA - Australie      | 2-0      |                                               |
+| Turquie - Paraguay   | 0-1      | La Turquie déjà éliminée                      |
+| Paraguay - Australie | 0-0      |                                               |
+| Turquie - USA        | 3-2      |                                               |
 
 | Pays      | Points | Différence |
 | --------- | ------ | ---------- |
-| USA       | 6      | +5         |
+| USA       | 6      | +4         |
 | Australie | 3      | 0          |
 | Paraguay  | 3      | -2         |
-| Turquie   | 0      | -3         |
+| Turquie   | 3      | -2         |
 
 
 ### Groupe E 
@@ -146,6 +148,7 @@ type: event
 | Arabie Saoudite - Uruguay | 1-1      |                                               |
 | Espagne - Arabie Saoudite | 4-0      |                                               |
 | Uruguay - Cap Vert        | 2-2      |                                               |
+|                           |          |                                               |
 
 | Pays            | Points | Différence |
 | --------------- | ------ | ---------- |
