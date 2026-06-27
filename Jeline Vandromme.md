@@ -41,7 +41,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - Elle remporte son premier grand chelem junior en septembre 2025
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- En juin 2026, peu avant [[Roland-Garros]], [[Marion Bartoli]] devient sa coach intérimaire.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

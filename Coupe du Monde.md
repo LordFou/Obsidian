@@ -166,13 +166,14 @@ type: event
 | Argentine - Algérie  | 3-0      | Triplé de [[Lionel Messi]] !                                                                                  |
 | Autriche - Jordanie  | 3-1      |                                                                                                               |
 | Argentine - Autriche | 2-0      | [[Lionel Messi]] devient le meilleur buteur à la coupe du monde.<br>Il dépasse l'Allemand [[Miroslav Klose]]. |
+| Algérie - Jordanie   | 2-1      | Elimination de la jordanie                                                                                    |
 
 | Pays      | Points | Différence |
 | --------- | ------ | ---------- |
 | Argentine | 6      | +5         |
 | Autriche  | 3      | 0          |
-| Jordanie  | 0      | -2         |
-| Algérie   | 0      | -3         |
+| Algérie   | 3      | -2         |
+| Jordanie  | 0      | -3         |
 ## Groupe K
 
 | Match                  | Résultat | Remarque |
