@@ -13,10 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition             | Résultat  | Remarque |
-| ----- | ----------------------- | --------- | -------- |
-| 2025  | [[Tournoi de Bâle]]     | Finaliste |          |
-| 2026  | [[Tournoi de Majorque]] | Vainqueur |          |
+| Année | Compétition                 | Résultat  | Remarque |
+| ----- | --------------------------- | --------- | -------- |
+| 2025  | [[Tournoi de Delrey Beach]] | Finaliste |          |
+| 2025  | [[Tournoi de Washington]]   | Finaliste |          |
+| 2025  | [[Tournoi de Bâle]]         | Finaliste |          |
+| 2026  | [[Tournoi de Majorque]]     | Vainqueur |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

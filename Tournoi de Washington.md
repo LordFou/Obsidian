@@ -2,19 +2,16 @@
 type: event
 ---
 
-# Hockey Pro League
+# Tournoi de Washington - ATP 500
 
 # Introduction
 
-Compétition rassemblant les 9 meilleures nations du [[Hockey sur gazon]] mondial
-
 # Hommes
 
-| Année | Vainqueur    |
-| ----- | ------------ |
-| 2021  | ==Belgique== |
-| 2026  | ==Belgique== |
-|       |              |
+| Année | Vainqueur | Nationalité | Remarque |
+| ----- | --------- | ----------- | -------- |
+| 2026  |           |             |          |
+|       |           |             |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
