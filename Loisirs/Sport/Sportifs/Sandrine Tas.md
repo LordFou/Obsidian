@@ -24,6 +24,7 @@ type: personne
 | 2026  | [[JO 2026]] - Poursuite par équipe                                  | 6e       |                                                            |
 | 2026  | [[Omloop der Kempen]]                                               | 3e       |                                                            |
 | 2026  | [[Tour de Bretagne]] - 1e étape                                     | 1ière    |                                                            |
+| 2026  | [[Championnat de Belgique de Cyclisme]] - CLM                       | 2e       |                                                            |
 ```timeline-labeled
 [line-5, body-2]
 date: [[JO 2026]] 

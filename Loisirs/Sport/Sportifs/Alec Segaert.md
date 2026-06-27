@@ -32,6 +32,7 @@ content: Il s'engage chez [[Bahrein Victorious]]
 |       |                                                                     |          |                               |
 | 2026  | [[GP Denain]]                                                       | 1ier     |                               |
 | 2026  | [[Tour d'Italie]] - 12e étape                                       | 1ier     | Sorti à 3km devant le peloton |
+| 2026  | [[Championnat de Belgique de Cyclisme\|Champ. National]] - CLM      | 1ier     |                               |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
