@@ -16,24 +16,26 @@ type: event
 	- L'arbitre somalien interdit d'entrer sur le territoire US.
 	- Fouilles des équipes du Sénégal et de l'Ouzbékistan.
 
-## Groupe A
+## Phase de groupe
+### Groupe A
 
-| Match                     | Résultat | Remarque                                                               |
-| ------------------------- | -------- | ---------------------------------------------------------------------- |
-| Mexique - Afrique du Sud  | 2-0      | 3 cartons rouge qui vont déjà destabiliser pour les prochains matchs ! |
-| Corée du Sud - Tchéquie   | 2-1      |                                                                        |
-| Tchéquie - Afrique du Sud | 1-1      |                                                                        |
-| Mexique - Corée du Sud    | 1-0      |                                                                        |
-| Ecosse - Brésil           |          |                                                                        |
+| Match                         | Résultat | Remarque                                                               |
+| ----------------------------- | -------- | ---------------------------------------------------------------------- |
+| Mexique - Afrique du Sud      | 2-0      | 3 cartons rouge qui vont déjà destabiliser pour les prochains matchs ! |
+| Corée du Sud - Tchéquie       | 2-1      |                                                                        |
+| Tchéquie - Afrique du Sud     | 1-1      |                                                                        |
+| Mexique - Corée du Sud        | 1-0      |                                                                        |
+| Afrique du Sud - Corée du Sud | 1-0      |                                                                        |
+| Tchèquie - Mexique            | 0-3      |                                                                        |
 
 | Pays           | Points | Différence |
 | -------------- | ------ | ---------- |
-| Mexique        | 6      | +3         |
-| Corée du Sud   | 3      | 0          |
-| Tchéquie       | 1      | -1         |
-| Afrique du Sud | 1      | -2         |
+| Mexique        | 9      | +6         |
+| Afrique du Sud | 4      | -1         |
+| Corée du Sud   | 3      | -1         |
+| Tchéquie       | 1      | -4         |
 
-## Groupe B 
+### Groupe B 
 
 | Match                       | Résultat | Remarque                                                           |
 | --------------------------- | -------- | ------------------------------------------------------------------ |
@@ -51,23 +53,25 @@ type: event
 | Bosnie-Herzégovine | 4      | -1         |
 | Quatar             | 1      | -8         |
 
-## Groupe C 
+### Groupe C 
 
-| Match          | Résultat | Remarque                                           |
-| -------------- | -------- | -------------------------------------------------- |
-| Brésil - Maroc | 1-1      | La première grande affiche de cette coupe du monde |
-| Haïti - Ecosse | 0-1      |                                                    |
-| Ecosse - Maroc | 0-1      |                                                    |
-| Brésil - Haïti | 3-0      |                                                    |
+| Match           | Résultat | Remarque                                           |
+| --------------- | -------- | -------------------------------------------------- |
+| Brésil - Maroc  | 1-1      | La première grande affiche de cette coupe du monde |
+| Haïti - Ecosse  | 0-1      |                                                    |
+| Ecosse - Maroc  | 0-1      |                                                    |
+| Brésil - Haïti  | 3-0      |                                                    |
+| Ecosse - Brésil | 0-3      |                                                    |
+| Maroc - Haïti   | 4-2      |                                                    |
 
 | Pays   | Points | Différence |
 | ------ | ------ | ---------- |
-| Brésil | 4      | +3         |
-| Maroc  | 4      | +1         |
-| Ecosse | 3      | 0          |
-| Haïti  | 0      | -4         |
+| Brésil | 7      | +6         |
+| Maroc  | 7      | +3         |
+| Ecosse | 3      | -3         |
+| Haïti  | 0      | -6         |
 
-## Groupe D 
+### Groupe D 
 
 | Match               | Résultat | Remarque                                      |
 | ------------------- | -------- | --------------------------------------------- |
@@ -84,7 +88,7 @@ type: event
 | Turquie   | 0      | -3         |
 
 
-## Groupe E 
+### Groupe E 
 
 | Match                     | Résultat | Remarque                                      |
 | ------------------------- | -------- | --------------------------------------------- |
@@ -99,7 +103,7 @@ type: event
 | Côte d'Ivoire | 3      | 0          |
 | Equateur      | 1      | -1         |
 | Curaçao       | 1      | -6         |
-## Groupe F 
+### Groupe F 
 
 | Match            | Résultat | Remarque                                |
 | ---------------- | -------- | --------------------------------------- |
@@ -114,7 +118,7 @@ type: event
 | Japon    | 3      | +4         |
 | Suède    | 3      | 0          |
 | Tunisie  | 0      | -8         |
-## Groupe G
+### Groupe G
 
 | Match                     | Résultat | Remarque |
 | ------------------------- | -------- | -------- |
@@ -130,7 +134,7 @@ type: event
 | Belgique         | 2      | 0          |
 | Nouvelle-Zélande | 1      | -2         |
 
-## Groupe H
+### Groupe H
 
 | Match                     | Résultat | Remarque                                      |
 | ------------------------- | -------- | --------------------------------------------- |
@@ -146,7 +150,7 @@ type: event
 | Uruguay         | 2      | 0          |
 | Arabie Saoudite | 1      | -4         |
 
-## Groupe I
+### Groupe I
 
 | Match             | Résultat | Remarque                                                              |
 | ----------------- | -------- | --------------------------------------------------------------------- |
@@ -162,7 +166,7 @@ type: event
 | Sénégal | 0      | -3         |
 | Iraq    | 0      | -6         |
 
-## Groupe J
+### Groupe J
 
 | Match                | Résultat | Remarque                                                                                                      |
 | -------------------- | -------- | ------------------------------------------------------------------------------------------------------------- |
@@ -177,7 +181,7 @@ type: event
 | Autriche  | 3      | 0          |
 | Algérie   | 3      | -2         |
 | Jordanie  | 0      | -3         |
-## Groupe K
+### Groupe K
 
 | Match                  | Résultat | Remarque |
 | ---------------------- | -------- | -------- |
@@ -192,7 +196,7 @@ type: event
 | Colombie    | 6      | +3         |
 | Congo       | 1      | -1         |
 | Ouzbékistan | 0      | -7         |
-## Groupe L
+### Groupe L
 
 | Match                | Résultat | Remarque                                |
 | -------------------- | -------- | --------------------------------------- |
@@ -207,9 +211,11 @@ type: event
 | Ghana      | 4      | +1         |
 | Croatie    | 3      | -1         |
 | Panama     | 0      | -2         |
-## Fin de la phase de groupe
-
-Les éliminés : Jordanie, Quatar, Turquie
+### Eliminés
+- Jordanie
+- Quatar
+- Turquie
+- Haïti
 
 # Hall of fame
 ## Hommes
