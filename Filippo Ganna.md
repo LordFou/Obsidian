@@ -27,6 +27,7 @@ type: personne
 | 2026  | [[Tirreno-Adriatico]] - 1e étape                                          | 1ier     | CLM       |
 | 2026  | [[A Travers la Flandre]]                                                  | 1ier     |           |
 | 2026  | [[Tour d'Italie]] - 10e étape                                             | 1ier     | CLM       |
+| 2026  | [[Championnat National Italien de Cyclisme]] - CLM                        | 1ier     |           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

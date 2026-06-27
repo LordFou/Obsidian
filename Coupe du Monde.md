@@ -96,12 +96,13 @@ type: event
 | Côte d'Ivoire - Equateur  | 1-0      |                                               |
 | Allemagne - Côte d'Ivoire | 2-1      |                                               |
 | Equateur - Curaçao        | 0-0      |                                               |
+| Equateur - Allemagne      | 2-1      |                                               |
 
 | Pays          | Points | Différence |
 | ------------- | ------ | ---------- |
-| Allemagne     | 6      | +7         |
+| Allemagne     | 6      | +6         |
+| Equateur      | 4      | 0          |
 | Côte d'Ivoire | 3      | 0          |
-| Equateur      | 1      | -1         |
 | Curaçao       | 1      | -6         |
 ### Groupe F 
 
