@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Tournoi de Eastbourne
+# Tournoi de Eastbourne - ATP 250
 
 # Introduction
 

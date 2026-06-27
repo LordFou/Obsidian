@@ -142,20 +142,21 @@ type: event
 
 ### Groupe H
 
-| Match                     | Résultat | Remarque                                      |
-| ------------------------- | -------- | --------------------------------------------- |
-| Espagne - Cap Vert        | 0-0      | L'Espagne pas encore rentrée dans son tournoi |
-| Arabie Saoudite - Uruguay | 1-1      |                                               |
-| Espagne - Arabie Saoudite | 4-0      |                                               |
-| Uruguay - Cap Vert        | 2-2      |                                               |
-|                           |          |                                               |
+| Match                      | Résultat | Remarque                                      |
+| -------------------------- | -------- | --------------------------------------------- |
+| Espagne - Cap Vert         | 0-0      | L'Espagne pas encore rentrée dans son tournoi |
+| Arabie Saoudite - Uruguay  | 1-1      |                                               |
+| Espagne - Arabie Saoudite  | 4-0      |                                               |
+| Uruguay - Cap Vert         | 2-2      |                                               |
+| Uruguay - Espagne          | 0-1      |                                               |
+| Cap Vert - Arabie Saoudite | 0-0      |                                               |
 
 | Pays            | Points | Différence |
 | --------------- | ------ | ---------- |
-| Espagne         | 4      | +4         |
-| Cap Vert        | 2      | 0          |
-| Uruguay         | 2      | 0          |
-| Arabie Saoudite | 1      | -4         |
+| Espagne         | 7      | +5         |
+| Cap Vert        | 3      | 0          |
+| Uruguay         | 2      | -1         |
+| Arabie Saoudite | 2      | -4         |
 
 ### Groupe I
 
@@ -165,13 +166,15 @@ type: event
 | Iraq - Norvège    | 1-4      |                                                                       |
 | France - Iraq     | 3-0      |                                                                       |
 | Norvège - Sénégal | 3-2      |                                                                       |
+| Norvège - France  | 1-4      | Triplé du ballon d'or [[Ousmane Dembele]]                             |
+| Sénégal - Iraq    | 5-0      |                                                                       |
 
 | Pays    | Points | Différence |
 | ------- | ------ | ---------- |
-| France  | 6      | +5         |
-| Norvège | 6      | +4         |
-| Sénégal | 0      | -3         |
-| Iraq    | 0      | -6         |
+| France  | 9      | +8         |
+| Norvège | 6      | +1         |
+| Sénégal | 3      | +2         |
+| Iraq    | 0      | -11        |
 
 ### Groupe J
 
@@ -219,9 +222,16 @@ type: event
 | Croatie    | 3      | -1         |
 | Panama     | 0      | -2         |
 ### Eliminés
-- Asie : Jordanie, Quatar
-- Europe : Turquie, Tchèquie
+- Asie : 
+	- Jordanie
+	- Quatar
+	- Iraq
+- Europe : 
+	- Turquie
+	- Tchèquie
 - ? : Haïti, Curaçao
+- Amérique du Sud : 
+	- Uruguay
 
 # Hall of fame
 ## Hommes

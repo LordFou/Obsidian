@@ -3,6 +3,8 @@ type: team
 ---
 Equipe belge féminine de basket
 
+Aussi appelé Be Gold Cats ?
+
 # Résultats
 
 | Année | Epreuve                                                                         | Place               | Remarques                                                                                                                                                                                           |

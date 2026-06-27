@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zizou Bergs.md",
+                "file": "Belgian Cats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zizou Bergs"
+              "title": "Belgian Cats"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Zizou",
+                "query": "Belgian ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,14 +207,15 @@
   },
   "active": "8ce5e3e2eeaf76eb",
   "lastOpenFiles": [
+    "Coupe du Monde.md",
+    "Loisirs/Sport/Compétitions/Tournoi de Eastbourne.md",
+    "Zizou Bergs.md",
     "Loisirs/Sport/Sportifs/Alec Segaert.md",
     "Loisirs/Sport/Sportifs/Sandrine Tas.md",
     "Lotte Claes.md",
     "Loisirs/Sport/Lotte Kopecky.md",
-    "Coupe du Monde.md",
     "Red Lions.md",
     "Filippo Ganna.md",
-    "Zizou Bergs.md",
     "Loisirs/Sport/Compétitions/Tournoi de Bruxelles.md",
     "Loisirs/Sport/Compétitions/Rallye de Grèce.md",
     "Oscar Onley.md",
@@ -234,7 +235,6 @@
     "Loisirs/Sport/Sportifs/Naomi Osaka.md",
     "Australian Open.md",
     "US Open.md",
-    "Loisirs/Sport/Compétitions/Tournoi de Bad Homburg.md",
     "Attachments/image-697.webp",
     "Attachments/image-696.webp",
     "Attachments/image-695.webp",
