@@ -18,11 +18,12 @@ type: event
 
 ## Simple
 
-| Année | Vainqueur              | Nationalité | Remarque                         |
-| ----- | ---------------------- | ----------- | -------------------------------- |
-| 2024  | [[Barbora Krejcikova]] | Tchèque     |                                  |
-| 2025  | [[Iga Swiatek]]        | Polonaise   | Finaliste : [[Amanda Anisimova]] |
-|       |                        |             |                                  |
+| Année | Vainqueur               | Nationalité | Remarque                         |
+| ----- | ----------------------- | ----------- | -------------------------------- |
+| 2023  | [[Marketa Vondrousova]] | Tchèque     |                                  |
+| 2024  | [[Barbora Krejcikova]]  | Tchèque     |                                  |
+| 2025  | [[Iga Swiatek]]         | Polonaise   | Finaliste : [[Amanda Anisimova]] |
+|       |                         |             |                                  |
 ## Double
 
 | Année | Vainqueur                                    | Nationalité   | Remarque |

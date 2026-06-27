@@ -13,18 +13,19 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                        | Résultat | Remarque                   |
-| ----- | ---------------------------------- | -------- | -------------------------- |
-| 2025  | [[US Open]]                        | 2e tour  |                            |
-| 2025  | [[ATP - Tournoi de Shangaï]]       | 3e tour  |                            |
-| 2025  | [[European Open]] - Double         | 1e tour  | avec [[Raphaël Collignon]] |
-| 2025  | [[ATP - Tournoi de Bâle]]          | 1e tour  |                            |
-|       |                                    |          |                            |
-| 2026  | [[Tournoi de Pau]]                 | 1e tour  |                            |
-| 2026  | [[Tournoi de Lille]]               | 1e tour  |                            |
-| 2026  | [[Tournoi Indian Wells]]           | 1e tour  |                            |
-| 2026  | [[Tournoi de Cap Cana]]            | 1e tour  |                            |
-| 2026  | [[Roland-Garros]] - Qualifications | 2e tour  | Dernier [[Roland-Garros]]  |
+| Année | Compétition                        | Résultat  | Remarque                   |
+| ----- | ---------------------------------- | --------- | -------------------------- |
+| 2025  | [[US Open]]                        | 2e tour   |                            |
+| 2025  | [[ATP - Tournoi de Shangaï]]       | 3e tour   |                            |
+| 2025  | [[European Open]] - Double         | 1e tour   | avec [[Raphaël Collignon]] |
+| 2025  | [[ATP - Tournoi de Bâle]]          | 1e tour   |                            |
+|       |                                    |           |                            |
+| 2026  | [[Tournoi de Pau]]                 | 1e tour   |                            |
+| 2026  | [[Tournoi de Lille]]               | 1e tour   |                            |
+| 2026  | [[Tournoi Indian Wells]]           | 1e tour   |                            |
+| 2026  | [[Tournoi de Cap Cana]]            | 1e tour   |                            |
+| 2026  | [[Roland-Garros]] - Qualifications | 2e tour   | Dernier [[Roland-Garros]]  |
+| 2026  | [[Wimbledon]] - Qualifications     | 1ier tour |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
