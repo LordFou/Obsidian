@@ -24,6 +24,7 @@ type: event
 | Corée du Sud - Tchéquie   | 2-1      |                                                                        |
 | Tchéquie - Afrique du Sud | 1-1      |                                                                        |
 | Mexique - Corée du Sud    | 1-0      |                                                                        |
+| Ecosse - Brésil           |          |                                                                        |
 
 | Pays           | Points | Différence |
 | -------------- | ------ | ---------- |
@@ -40,13 +41,15 @@ type: event
 | Quatar - Suisse             | 1-1      | La surprise du  premier match                                      |
 | Suisse - Bosnie-Herzégovine | 4-1      |                                                                    |
 | Canada - Quatar             | 6-0      |                                                                    |
+| Suisse - Canada             | 2-1      |                                                                    |
+| Bosnie-Herzégovine - Quatar | 3-1      |                                                                    |
 
 | Pays               | Points | Différence |
 | ------------------ | ------ | ---------- |
-| Canada             | 4      | +6         |
-| Suisse             | 4      | +3         |
-| Bosnie-Herzégovine | 1      | -3         |
-| Quatar             | 1      | -6         |
+| Suisse             | 7      | +4         |
+| Canada             | 4      | +5         |
+| Bosnie-Herzégovine | 4      | -1         |
+| Quatar             | 1      | -8         |
 
 ## Groupe C 
 
@@ -204,6 +207,9 @@ type: event
 | Ghana      | 4      | +1         |
 | Croatie    | 3      | -1         |
 | Panama     | 0      | -2         |
+## Fin de la phase de groupe
+
+Les éliminés : Jordanie, Quatar, Turquie
 
 # Hall of fame
 ## Hommes
