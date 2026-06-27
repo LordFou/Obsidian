@@ -97,28 +97,31 @@ type: event
 | Allemagne - Côte d'Ivoire | 2-1      |                                               |
 | Equateur - Curaçao        | 0-0      |                                               |
 | Equateur - Allemagne      | 2-1      |                                               |
+| Curaçao - Côte d'Ivoire   | 0-2      |                                               |
 
 | Pays          | Points | Différence |
 | ------------- | ------ | ---------- |
 | Allemagne     | 6      | +6         |
+| Côte d'Ivoire | 6      | +2         |
 | Equateur      | 4      | 0          |
-| Côte d'Ivoire | 3      | 0          |
-| Curaçao       | 1      | -6         |
+| Curaçao       | 1      | -8         |
 ### Groupe F 
 
-| Match            | Résultat | Remarque                                |
-| ---------------- | -------- | --------------------------------------- |
-| Pays-Bas - Japon | 2-2      | Mené 2 fois, le Japon est revenu 2 fois |
-| Suède - Tunisie  | 5-1      |                                         |
-| Pays-Bas - Suède | 5-1      |                                         |
-| Tunisie - Japon  | 0-4      | ==1000e Match de la coupe du monde !==  |
+| Match              | Résultat | Remarque                                |
+| ------------------ | -------- | --------------------------------------- |
+| Pays-Bas - Japon   | 2-2      | Mené 2 fois, le Japon est revenu 2 fois |
+| Suède - Tunisie    | 5-1      |                                         |
+| Pays-Bas - Suède   | 5-1      |                                         |
+| Tunisie - Japon    | 0-4      | ==1000e Match de la coupe du monde !==  |
+| Tunisie - Pays-Bas | 1-3      |                                         |
+| Japon - Suède      | 1-1      |                                         |
 
 | Pays     | Points | Différence |
 | -------- | ------ | ---------- |
-| Pays-Bas | 4      | +4         |
-| Japon    | 3      | +4         |
-| Suède    | 3      | 0          |
-| Tunisie  | 0      | -8         |
+| Pays-Bas | 7      | +6         |
+| Japon    | 4      | +4         |
+| Suède    | 4      | 0          |
+| Tunisie  | 0      | -10        |
 ### Groupe G
 
 | Match                     | Résultat | Remarque |
@@ -215,7 +218,7 @@ type: event
 ### Eliminés
 - Asie : Jordanie, Quatar
 - Europe : Turquie, Tchèquie
-- ? : Haïti
+- ? : Haïti, Curaçao
 
 # Hall of fame
 ## Hommes
