@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+%% fold %%
 # {{title}}
 
 # Informations Générales
