@@ -13,6 +13,8 @@ type: event
 | 2023  | [[Remco Evenepoel]] | Route  |                                                   |
 | 2025  | [[Remco Evenepoel]] | CLM    | Sans adversaire à sa taille                       |
 | 2025  | [[Tim Wellens]]     | Route  | 2e [[Remco Evenepoel]]<br>3e [[Jasper Philipsen]] |
+| 2026  | [[Alec Segaert]]    | CLM    |                                                   |
+| 2026  |                     | Route  |                                                   |
 
 # Femmes
 
@@ -20,3 +22,5 @@ type: event
 | ----- | -------------------- | ------ | --------------------------- |
 | 2025  | [[Lotte Kopecky]]    | CLM    | Sans adversaire à sa taille |
 | 2025  | [[Justine Ghekiere]] | Route  |                             |
+| 2026  | [[Lotte Claes]]      | CLM    |                             |
+| 2026  | [[Shari Bossuyt]]    | Route  |                             |

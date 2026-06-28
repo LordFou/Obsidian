@@ -26,7 +26,7 @@ type: personne
 |       |                                                                                                   |          |                                                                         |
 | 2022  | [[Vélo de Cristal]]                                                                               | 1ière 🥇 |                                                                         |
 | 2022  | [[Trophée de la Flandrienne]]                                                                     | 1ière 🥇 |                                                                         |
-| 2022  | [[Championnat d'Europe de Cyclisme sur piste]] - Elimination                                      | 1ière 🥇 |                                                                         |
+| 2022  | [[Championnat d'Europe de Cyclisme sur piste\|Champ. Europe Piste]] - Elimination                 | 1ière 🥇 |                                                                         |
 | 2022  | [[Championnat d'Europe de Cyclisme sur piste]] - Points                                           | 1ière 🥇 |                                                                         |
 | 2022  | [[Championnat du Monde de Cyclisme sur piste]] - Elimination                                      | 1ière 🥇 |                                                                         |
 | 2022  | [[Championnat du Monde de Cyclisme sur piste]] - Madison                                          | 1ière 🥇 | avec [[Shari Bossuyt]]                                                  |
@@ -35,16 +35,16 @@ type: personne
 | 2023  | [[Championnat du Monde de Cyclisme]]                                                              | 1ière 🥇 |                                                                         |
 | 2023  | [[Vélo de Cristal]]                                                                               | 1ière 🥇 |                                                                         |
 | 2023  | [[Trophée de la Flandrienne]]                                                                     | 1ière 🥇 |                                                                         |
-| 2023  | [[Championnat d'Europe de Cyclisme sur piste]] - Elimination                                      | 1ière 🥇 |                                                                         |
-| 2023  | [[Championnat du Monde de Cyclisme sur piste]] - Elimination                                      | 1ière 🥇 |                                                                         |
-| 2023  | [[Championnat du Monde de Cyclisme sur piste]] - Points                                           | 1ière 🥇 |                                                                         |
+| 2023  | [[Championnat d'Europe de Cyclisme sur piste\|Champ. Europe Piste]] - Elimination                 | 1ière 🥇 |                                                                         |
+| 2023  | [[Championnat du Monde de Cyclisme sur piste\|Champ. Europe Piste]] - Elimination                 | 1ière 🥇 |                                                                         |
+| 2023  | [[Championnat du Monde de Cyclisme sur piste\|Champ. Europe Piste]] - Points                      | 1ière 🥇 |                                                                         |
 |       |                                                                                                   |          |                                                                         |
 | 2024  | [[Simac Ladies Tour]] - Classement final                                                          | 1ière 🥇 |                                                                         |
 | 2024  | [[Championnat du Monde de Cyclisme]]                                                              | 1ière 🥇 |                                                                         |
 | 2024  | [[Vélo de Cristal]]                                                                               | 1ière 🥇 |                                                                         |
 | 2024  | [[Trophée de la Flandrienne]]                                                                     | 1ière 🥇 |                                                                         |
-| 2024  | [[Championnat d'Europe de Cyclisme sur piste]] - Elimination                                      | 1ière 🥇 |                                                                         |
-| 2024  | [[Championnat d'Europe de Cyclisme sur piste]] - Points                                           | 1ière 🥇 |                                                                         |
+| 2024  | [[Championnat d'Europe de Cyclisme sur piste\|Champ. Europe Piste]] - Elimination                 | 1ière 🥇 |                                                                         |
+| 2024  | [[Championnat d'Europe de Cyclisme sur piste\|Champ. Europe Piste]] - Points                      | 1ière 🥇 |                                                                         |
 |       |                                                                                                   |          |                                                                         |
 | 2025  | [[Tour des Flandres]]                                                                             | 1ière 🥇 |                                                                         |
 | 2025  | [[Championnat de Belgique de Cyclisme\|Championnat National]] - CLM                               | 1ière 🥇 |                                                                         |
@@ -57,18 +57,20 @@ type: personne
 |       |                                                                                                   |          |                                                                         |
 | 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - Poursuite Individuelle | 1ière 🥇 |                                                                         |
 | 2026  | [[Championnat de Belgique de Cyclisme sur piste\|Champ. National Piste]] - Madison (?)            | 1ière 🥇 | avec [[Shari Bossuyt]]                                                  |
-| 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Elimination                                      | 1ière 🥇 |                                                                         |
-| 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Points                                           | 1ière 🥇 |                                                                         |
-| 2026  | [[Championnat d'Europe de Cyclisme sur piste]] - Madison                                          | 1ière 🥇 | avec [[Shari Bossuyt]]                                                  |
+| 2026  | [[Championnat d'Europe de Cyclisme sur piste\|Champ. Europe Piste]] - Elimination                 | 1ière 🥇 |                                                                         |
+| 2026  | [[Championnat d'Europe de Cyclisme sur piste\|Champ. Europe Piste]] - Points                      | 1ière 🥇 |                                                                         |
+| 2026  | [[Championnat d'Europe de Cyclisme sur piste\|Champ. Europe Piste]] - Madison                     | 1ière 🥇 | avec [[Shari Bossuyt]]                                                  |
 | 2026  | [[Nokere Koerse]]                                                                                 | 1ière 🥇 |                                                                         |
 | 2026  | [[Milan San Remo]]                                                                                | 1ière 🥇 |                                                                         |
 | 2026  | [[Tour des Flandres]]                                                                             | 4e       |                                                                         |
-| 2026  | Meeting international de cyclisme sur piste de Gand - Omnium                                      | 1ière 🥇 |                                                                         |
+| 2026  | Meeting international de Gand - Omnium                                                            | 1ière 🥇 |                                                                         |
 | 2026  | [[Tour d'Espagne]] - 1e étape                                                                     | 2e       |                                                                         |
 | 2026  | [[Tour d'Espagne]] - 3e étape                                                                     | 2e       |                                                                         |
 | 2026  | [[Tour d'Espagne]] - 4e étape                                                                     | 1ière 🥇 |                                                                         |
 | 2026  | [[Tour d'Espagne]] - 5e étape                                                                     | 2e       |                                                                         |
 | 2026  | [[Tour d'Espagne]] - Maillot Points                                                               | 1ière 🥇 |                                                                         |
+| 2026  | [[Championnat de Belgique de Cyclisme\|Champ National]] - Route                                   | 2e       |                                                                         |
+| 2026  | [[Championnat de Belgique de Cyclisme\|Champ National]] - CLM                                     | 4e       |                                                                         |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
