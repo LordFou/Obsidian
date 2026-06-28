@@ -238,13 +238,36 @@ type: event
 - Europe : 
 	- Turquie
 	- Tchèquie
-- ? : Haïti, Curaçao
+- Afrique
+	- Tunisie
 - Amérique : 
 	- Uruguay
 	- Panama
+	- Curaçao (?)
 - Océanie
 	- Nouvelle-Zélande
+	- Haïti (?)
 
+## 1/16e Finale
+
+| Date           | Heure | Match                           | Résultat |
+| -------------- | ----: | ------------------------------- | -------- |
+| Dim. 28 juin   | 21:00 | Afrique du Sud - Canada         |          |
+| Lun. 29 juin   | 19:00 | Brésil - Japon                  |          |
+| Lun. 29 juin   | 22:30 | Allemagne - Paraguay            |          |
+| Mar. 30 juin   | 03:00 | Pays-Bas - Maroc                |          |
+| Mar. 30 juin   | 19:00 | Côte d'Ivoire - Norvège         |          |
+| Mar. 30 juin   | 23:00 | France - Suède                  |          |
+| Mer. 1 juillet | 03:00 | Mexique - Équateur              |          |
+| Mer. 1 juillet | 18:00 | Angleterre - RD Congo           |          |
+| Mer. 1 juillet | 22:00 | Belgique - Sénégal              |          |
+| Jeu. 2 juillet | 02:00 | États-Unis - Bosnie-Herzégovine |          |
+| Jeu. 2 juillet | 21:00 | Espagne - Autriche              |          |
+| Ven. 3 juillet | 01:00 | Portugal - Croatie              |          |
+| Ven. 3 juillet | 05:00 | Suisse - Algérie                |          |
+| Ven. 3 juillet | 20:00 | Australie - Égypte              |          |
+| Sam. 4 juillet | 00:00 | Argentine - Cap-Vert            |          |
+| Sam. 4 juillet | 03:30 | Colombie - Ghana                |          |
 # Hall of fame
 ## Hommes
 
