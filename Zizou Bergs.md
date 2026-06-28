@@ -41,7 +41,7 @@ type: personne
 | 2026  | [[Roland-Garros]] - Double          | 2e tour - puis forfait | avec [[Raphaël Collignon]]                                   |
 | 2026  | [[Tournoi de Rosmalen]] - Double    | Finale                 |                                                              |
 | 2026  | [[Tournoi de Halle]]                | 1e tour                |                                                              |
-| 2026  | [[Tournoi de Eastbourne]]           | Finale                 |                                                              |
+| 2026  | [[Tournoi de Eastbourne]]           | ==Vainqueur==          | Victoire contre [[Ugo Humbert]] (ATP 30)                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
