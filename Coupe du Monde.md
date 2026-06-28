@@ -201,6 +201,7 @@ type: event
 | Ouzbékistan - Colombie | 1-3      |          |
 | Portugal - Ouzbékistan | 5-0      |          |
 | Colombie - Congo       | 1-0      |          |
+| Colomb                 |          |          |
 
 | Pays        | Points | Différence |
 | ----------- | ------ | ---------- |
@@ -216,13 +217,15 @@ type: event
 | Ghana - Panama       | 1-0      |                                         |
 | Angleterre - Ghana   | 0-0      |                                         |
 | Panama - Croatie     | 0-1      | 200 titularisation pour [[Luca Modric]] |
+| Panama - Angleterre  | 0-2      |                                         |
+| Croatie - Ghana      | 2-1      |                                         |
 
 | Pays       | Points | Différence |
 | ---------- | ------ | ---------- |
-| Angleterre | 4      | +2         |
-| Ghana      | 4      | +1         |
-| Croatie    | 3      | -1         |
-| Panama     | 0      | -2         |
+| Angleterre | 7      | +4         |
+| Croatie    | 6      | 0          |
+| Ghana      | 4      | 0          |
+| Panama     | 0      | -4         |
 ### Eliminés
 - Asie : 
 	- Jordanie
@@ -232,8 +235,9 @@ type: event
 	- Turquie
 	- Tchèquie
 - ? : Haïti, Curaçao
-- Amérique du Sud : 
+- Amérique : 
 	- Uruguay
+	- Panama
 - Océanie
 	- Nouvelle-Zélande
 
