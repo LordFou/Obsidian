@@ -21,7 +21,9 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-- [[Lionel Messi]] devient le meilleur buteur à la coupe du monde. Il dépasse l'Allemand [[Miroslav Klose]].
+- [[Coupe du Monde]] 2026
+	- Il devient le meilleur buteur lors en dépassant l'Allemand [[Miroslav Klose]] (19).
+	- Il devient le premier joueur de l’histoire à marquer dans sept matches de suite.
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

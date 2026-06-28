@@ -186,13 +186,15 @@ type: event
 | Autriche - Jordanie  | 3-1      |                                                                                                               |
 | Argentine - Autriche | 2-0      | [[Lionel Messi]] devient le meilleur buteur à la coupe du monde.<br>Il dépasse l'Allemand [[Miroslav Klose]]. |
 | Algérie - Jordanie   | 2-1      | Elimination de la jordanie                                                                                    |
+| Jordanie - Argentine | 1-3      | Encore des records qui tombe pour [[Lionel Messi]]                                                            |
+| Algérie - Autriche   | 3-3      |                                                                                                               |
 
 | Pays      | Points | Différence |
 | --------- | ------ | ---------- |
-| Argentine | 6      | +5         |
-| Autriche  | 3      | 0          |
-| Algérie   | 3      | -2         |
-| Jordanie  | 0      | -3         |
+| Argentine | 9      | +7         |
+| Autriche  | 4      | 0          |
+| Algérie   | 4      | -2         |
+| Jordanie  | 0      | -5         |
 ### Groupe K
 
 | Match                  | Résultat | Remarque |
@@ -201,14 +203,15 @@ type: event
 | Ouzbékistan - Colombie | 1-3      |          |
 | Portugal - Ouzbékistan | 5-0      |          |
 | Colombie - Congo       | 1-0      |          |
-| Colomb                 |          |          |
+| Colombie - Portugal    | 0-0      |          |
+| Congo - Ouzbékistan    | 3-1      |          |
 
 | Pays        | Points | Différence |
 | ----------- | ------ | ---------- |
-| Portugal    | 4      | +5         |
-| Colombie    | 6      | +3         |
-| Congo       | 1      | -1         |
-| Ouzbékistan | 0      | -7         |
+| Colombie    | 7      | +3         |
+| Portugal    | 5      | +5         |
+| Congo       | 4      | +1         |
+| Ouzbékistan | 0      | -9         |
 ### Groupe L
 
 | Match                | Résultat | Remarque                                |
@@ -231,6 +234,7 @@ type: event
 	- Jordanie
 	- Quatar
 	- Iraq
+	- Iran
 - Europe : 
 	- Turquie
 	- Tchèquie
