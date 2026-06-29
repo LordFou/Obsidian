@@ -25,7 +25,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
 - Record de Belgique
-	- 110m 
+	- 110m haies (13.16s)
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
@@ -35,4 +35,4 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 
 # Sources et Références
 - [Lien vers une source](#)
-- [Article détaillé]
+- [Article détaillé](#)

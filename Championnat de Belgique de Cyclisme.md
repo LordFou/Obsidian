@@ -14,7 +14,7 @@ type: event
 | 2025  | [[Remco Evenepoel]] | CLM    | Sans adversaire à sa taille                       |
 | 2025  | [[Tim Wellens]]     | Route  | 2e [[Remco Evenepoel]]<br>3e [[Jasper Philipsen]] |
 | 2026  | [[Alec Segaert]]    | CLM    |                                                   |
-| 2026  |                     | Route  |                                                   |
+| 2026  | [[Rune Herregodts]] | Route  |                                                   |
 
 # Femmes
 
