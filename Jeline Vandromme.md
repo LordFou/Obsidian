@@ -32,6 +32,7 @@ type: personne
 | 2026  | [[Tournoi de Croissy-Beaubourg]]        | 1/4 finale  |                                                                     |
 | 2026  | [[Tournoi de Nantes]]                   | Vainqueure  |                                                                     |
 | 2026  | [[Roland-Garros]] - Qualifications      | 1e tour     |                                                                     |
+| 2026  | [[Wimbledon]] - Qualifications          | 3e tour     |                                                                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -41,7 +42,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - Elle remporte son premier grand chelem junior en septembre 2025
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- En juin 2026, peu avant [[Roland-Garros]], [[Marion Bartoli]] devient sa coach intérimaire.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

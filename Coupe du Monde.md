@@ -16,156 +16,258 @@ type: event
 	- L'arbitre somalien interdit d'entrer sur le territoire US.
 	- Fouilles des équipes du Sénégal et de l'Ouzbékistan.
 
-## Groupe A
+## Phase de groupe
+### Groupe A
 
-| Match                    | Résultat | Remarque                                                               |
-| ------------------------ | -------- | ---------------------------------------------------------------------- |
-| Mexique - Afrique du Sud | 2-0      | 3 cartons rouge qui vont déjà destabiliser pour les prochains matchs ! |
-| Corée du Sud - Tchéquie  | 2-1      |                                                                        |
-|                          |          |                                                                        |
+| Match                         | Résultat | Remarque                                                               |
+| ----------------------------- | -------- | ---------------------------------------------------------------------- |
+| Mexique - Afrique du Sud      | 2-0      | 3 cartons rouge qui vont déjà destabiliser pour les prochains matchs ! |
+| Corée du Sud - Tchéquie       | 2-1      |                                                                        |
+| Tchéquie - Afrique du Sud     | 1-1      |                                                                        |
+| Mexique - Corée du Sud        | 1-0      |                                                                        |
+| Afrique du Sud - Corée du Sud | 1-0      |                                                                        |
+| Tchèquie - Mexique            | 0-3      |                                                                        |
 
 | Pays           | Points | Différence |
 | -------------- | ------ | ---------- |
-| Mexique        | 3      | +2         |
-| Corée du Sud   | 3      | +1         |
-| Tchéquie       | 0      | -1         |
-| Afrique du Sud | 0      | -2         |
+| Mexique        | 9      | +6         |
+| Afrique du Sud | 4      | -1         |
+| Corée du Sud   | 3      | -1         |
+| Tchéquie       | 1      | -4         |
 
-
-
-## Groupe B 
+### Groupe B 
 
 | Match                       | Résultat | Remarque                                                           |
 | --------------------------- | -------- | ------------------------------------------------------------------ |
 | Canada - Bosnie-Herzégovine | 1-1      | 1 mi-temps pour la Bosnie-Herzégovine<br>1 mi-temps pour le Canada |
 | Quatar - Suisse             | 1-1      | La surprise du  premier match                                      |
+| Suisse - Bosnie-Herzégovine | 4-1      |                                                                    |
+| Canada - Quatar             | 6-0      |                                                                    |
+| Suisse - Canada             | 2-1      |                                                                    |
+| Bosnie-Herzégovine - Quatar | 3-1      |                                                                    |
 
 | Pays               | Points | Différence |
 | ------------------ | ------ | ---------- |
-| Suisse             | 1      | 0          |
-| Canada             | 1      | 0          |
-| Quatar             | 1      | 0          |
-| Bosnie-Herzégovine | 1      | 0          |
+| Suisse             | 7      | +4         |
+| Canada             | 4      | +5         |
+| Bosnie-Herzégovine | 4      | -1         |
+| Quatar             | 1      | -8         |
 
-## Groupe C 
+### Groupe C 
 
-| Match          | Résultat | Remarque                                           |
-| -------------- | -------- | -------------------------------------------------- |
-| Brésil - Maroc | 1-1      | La première grande affiche de cette coupe du monde |
-| Haïti - Ecosse | 0-1      |                                                    |
+| Match           | Résultat | Remarque                                           |
+| --------------- | -------- | -------------------------------------------------- |
+| Brésil - Maroc  | 1-1      | La première grande affiche de cette coupe du monde |
+| Haïti - Ecosse  | 0-1      |                                                    |
+| Ecosse - Maroc  | 0-1      |                                                    |
+| Brésil - Haïti  | 3-0      |                                                    |
+| Ecosse - Brésil | 0-3      |                                                    |
+| Maroc - Haïti   | 4-2      |                                                    |
 
 | Pays   | Points | Différence |
 | ------ | ------ | ---------- |
-| Ecosse | 3      | +1         |
-| Brésil | 1      | 0          |
-| Maroc  | 1      | 0          |
-| Haïti  | 0      | -1         |
+| Brésil | 7      | +6         |
+| Maroc  | 7      | +3         |
+| Ecosse | 3      | -3         |
+| Haïti  | 0      | -6         |
 
-## Groupe D 
+### Groupe D 
 
-| Match               | Résultat | Remarque                                      |
-| ------------------- | -------- | --------------------------------------------- |
-| USA - Paraguay      | 4-1      | Les USA bien rentrés dans leur coupe du monde |
-| Australie - Turquie | 2-0      | petite surprise                               |
+| Match                | Résultat | Remarque                                      |
+| -------------------- | -------- | --------------------------------------------- |
+| USA - Paraguay       | 4-1      | Les USA bien rentrés dans leur coupe du monde |
+| Australie - Turquie  | 2-0      | petite surprise                               |
+| USA - Australie      | 2-0      |                                               |
+| Turquie - Paraguay   | 0-1      | La Turquie déjà éliminée                      |
+| Paraguay - Australie | 0-0      |                                               |
+| Turquie - USA        | 3-2      |                                               |
 
 | Pays      | Points | Différence |
 | --------- | ------ | ---------- |
-| USA       | 3      | +3         |
-| Australie | 3      | +2         |
-| Turquie   | 0      | -2         |
-| Paraguay  | 0      | -3         |
+| USA       | 6      | +4         |
+| Australie | 3      | 0          |
+| Paraguay  | 3      | -2         |
+| Turquie   | 3      | -2         |
 
 
-## Groupe E 
-
-| Match                    | Résultat | Remarque                                      |
-| ------------------------ | -------- | --------------------------------------------- |
-| Allemagne - Curaçao      | 7-1      | Premier but dans la coupe du monde du Curaçao |
-| Côte d'Ivoire - Equateur | 1-0      |                                               |
-
-| Pays          | Points | Différence |
-| ------------- | ------ | ---------- |
-| Allemagne     | 3      | +6         |
-| Côte d'Ivoire | 3      | +1         |
-| Equateur      | 0      | -1         |
-| Curaçao       | 0      | -6         |
-## Groupe F 
-
-| Match            | Résultat | Remarque                                |
-| ---------------- | -------- | --------------------------------------- |
-| Pays-Bas - Japon | 2-2      | Mené 2 fois, le Japon est revenu 2 fois |
-| Suède - Tunisie  | 5-1      |                                         |
-
-| Pays     | Points | Différence |
-| -------- | ------ | ---------- |
-| Suède    | 3      | +4         |
-| Pays-Bas | 1      | 0          |
-| Japon    | 1      | 0          |
-| Tunisie  | 0      | -4         |
-## Groupe G
-
-| Match                   | Résultat | Remarque |
-| ----------------------- | -------- | -------- |
-| Belgique - Egypte       | 1-1      |          |
-| Iran - Nouvelle Zélande | 2-2      |          |
-
-| Pays             | Points | Différence |
-| ---------------- | ------ | ---------- |
-| Belgique         | 1      | 0          |
-| Egypte           | 1      | 0          |
-| Iran             | 1      | 0          |
-| Nouvelle-Zélande | 1      | 0          |
-
-## Groupe H
+### Groupe E 
 
 | Match                     | Résultat | Remarque                                      |
 | ------------------------- | -------- | --------------------------------------------- |
-| Espagne - Cap Vert        | 0-0      | L'Espagne pas encore rentrée dans son tournoi |
-| Arabie Saoudite - Uruguay | 1-1      |                                               |
+| Allemagne - Curaçao       | 7-1      | Premier but dans la coupe du monde du Curaçao |
+| Côte d'Ivoire - Equateur  | 1-0      |                                               |
+| Allemagne - Côte d'Ivoire | 2-1      |                                               |
+| Equateur - Curaçao        | 0-0      |                                               |
+| Equateur - Allemagne      | 2-1      |                                               |
+| Curaçao - Côte d'Ivoire   | 0-2      |                                               |
+
+| Pays          | Points | Différence |
+| ------------- | ------ | ---------- |
+| Allemagne     | 6      | +6         |
+| Côte d'Ivoire | 6      | +2         |
+| Equateur      | 4      | 0          |
+| Curaçao       | 1      | -8         |
+### Groupe F 
+
+| Match              | Résultat | Remarque                                |
+| ------------------ | -------- | --------------------------------------- |
+| Pays-Bas - Japon   | 2-2      | Mené 2 fois, le Japon est revenu 2 fois |
+| Suède - Tunisie    | 5-1      |                                         |
+| Pays-Bas - Suède   | 5-1      |                                         |
+| Tunisie - Japon    | 0-4      | ==1000e Match de la coupe du monde !==  |
+| Tunisie - Pays-Bas | 1-3      |                                         |
+| Japon - Suède      | 1-1      |                                         |
+
+| Pays     | Points | Différence |
+| -------- | ------ | ---------- |
+| Pays-Bas | 7      | +6         |
+| Japon    | 4      | +4         |
+| Suède    | 4      | 0          |
+| Tunisie  | 0      | -10        |
+### Groupe G
+
+| Match                       | Résultat | Remarque |
+| --------------------------- | -------- | -------- |
+| Belgique - Egypte           | 1-1      |          |
+| Iran - Nouvelle Zélande     | 2-2      |          |
+| Belgique - Iran             | 0-0      |          |
+| Egypte - Nouvelle Zélande   | 3-1      |          |
+| Nouvelle-Zélande - Belgique | 1-5      |          |
+| Egypte - Iran               | 1-1      |          |
+
+| Pays             | Points | Différence |
+| ---------------- | ------ | ---------- |
+| Belgique         | 5      | +4         |
+| Egypte           | 4      | +2         |
+| Iran             | 3      | 0          |
+| Nouvelle-Zélande | 1      | -6         |
+
+### Groupe H
+
+| Match                      | Résultat | Remarque                                      |
+| -------------------------- | -------- | --------------------------------------------- |
+| Espagne - Cap Vert         | 0-0      | L'Espagne pas encore rentrée dans son tournoi |
+| Arabie Saoudite - Uruguay  | 1-1      |                                               |
+| Espagne - Arabie Saoudite  | 4-0      |                                               |
+| Uruguay - Cap Vert         | 2-2      |                                               |
+| Uruguay - Espagne          | 0-1      |                                               |
+| Cap Vert - Arabie Saoudite | 0-0      |                                               |
 
 | Pays            | Points | Différence |
 | --------------- | ------ | ---------- |
-| Espagne         | 1      | 0          |
-| Cap Vert        | 1      | 0          |
-| Arabie Saoudite | 1      | 0          |
-| Uruguay         | 1      | 0          |
+| Espagne         | 7      | +5         |
+| Cap Vert        | 3      | 0          |
+| Uruguay         | 2      | -1         |
+| Arabie Saoudite | 2      | -4         |
 
-## Groupe I
+### Groupe I
 
-| Match            | Résultat | Remarque                                                              |
-| ---------------- | -------- | --------------------------------------------------------------------- |
-| France - Sénégal | 3-1      | La France déroule et se pose en favori ayant réussi son premier match |
-| Iraq - Norvège   | 1-4      |                                                                       |
+| Match             | Résultat | Remarque                                                              |
+| ----------------- | -------- | --------------------------------------------------------------------- |
+| France - Sénégal  | 3-1      | La France déroule et se pose en favori ayant réussi son premier match |
+| Iraq - Norvège    | 1-4      |                                                                       |
+| France - Iraq     | 3-0      |                                                                       |
+| Norvège - Sénégal | 3-2      |                                                                       |
+| Norvège - France  | 1-4      | Triplé du ballon d'or [[Ousmane Dembele]]                             |
+| Sénégal - Iraq    | 5-0      |                                                                       |
 
 | Pays    | Points | Différence |
 | ------- | ------ | ---------- |
-| Norvège | 3      | +3         |
-| France  | 3      | +2         |
-| Sénégal | 0      | -2         |
-| Iraq    | 0      | -3         |
+| France  | 9      | +8         |
+| Norvège | 6      | +1         |
+| Sénégal | 3      | +2         |
+| Iraq    | 0      | -11        |
 
-## Groupe J
+### Groupe J
 
-| Match            | Résultat | Remarque                                |
-| ---------------- | -------- | --------------------------------------- |
+| Match                | Résultat | Remarque                                                                                                      |
+| -------------------- | -------- | ------------------------------------------------------------------------------------------------------------- |
+| Argentine - Algérie  | 3-0      | Triplé de [[Lionel Messi]] !                                                                                  |
+| Autriche - Jordanie  | 3-1      |                                                                                                               |
+| Argentine - Autriche | 2-0      | [[Lionel Messi]] devient le meilleur buteur à la coupe du monde.<br>Il dépasse l'Allemand [[Miroslav Klose]]. |
+| Algérie - Jordanie   | 2-1      | Elimination de la jordanie                                                                                    |
+| Jordanie - Argentine | 1-3      | Encore des records qui tombe pour [[Lionel Messi]]                                                            |
+| Algérie - Autriche   | 3-3      |                                                                                                               |
 
-| Pays     | Points | Différence |
-| -------- | ------ | ---------- |
-## Groupe K
+| Pays      | Points | Différence |
+| --------- | ------ | ---------- |
+| Argentine | 9      | +7         |
+| Autriche  | 4      | 0          |
+| Algérie   | 4      | -2         |
+| Jordanie  | 0      | -5         |
+### Groupe K
 
-| Match            | Résultat | Remarque                                |
-| ---------------- | -------- | --------------------------------------- |
+| Match                  | Résultat | Remarque |
+| ---------------------- | -------- | -------- |
+| Portugal - Congo       | 1-1      |          |
+| Ouzbékistan - Colombie | 1-3      |          |
+| Portugal - Ouzbékistan | 5-0      |          |
+| Colombie - Congo       | 1-0      |          |
+| Colombie - Portugal    | 0-0      |          |
+| Congo - Ouzbékistan    | 3-1      |          |
 
-| Pays     | Points | Différence |
-| -------- | ------ | ---------- |
-## Groupe L
+| Pays        | Points | Différence |
+| ----------- | ------ | ---------- |
+| Colombie    | 7      | +3         |
+| Portugal    | 5      | +5         |
+| Congo       | 4      | +1         |
+| Ouzbékistan | 0      | -9         |
+### Groupe L
 
-| Match            | Résultat | Remarque                                |
-| ---------------- | -------- | --------------------------------------- |
+| Match                | Résultat | Remarque                                |
+| -------------------- | -------- | --------------------------------------- |
+| Angleterre - Croatie | 4-2      |                                         |
+| Ghana - Panama       | 1-0      |                                         |
+| Angleterre - Ghana   | 0-0      |                                         |
+| Panama - Croatie     | 0-1      | 200 titularisation pour [[Luca Modric]] |
+| Panama - Angleterre  | 0-2      |                                         |
+| Croatie - Ghana      | 2-1      |                                         |
 
-| Pays     | Points | Différence |
-| -------- | ------ | ---------- |
+| Pays       | Points | Différence |
+| ---------- | ------ | ---------- |
+| Angleterre | 7      | +4         |
+| Croatie    | 6      | 0          |
+| Ghana      | 4      | 0          |
+| Panama     | 0      | -4         |
+### Eliminés
+- Asie : 
+	- Jordanie
+	- Quatar
+	- Iraq
+	- Iran
+- Europe : 
+	- Turquie
+	- Tchèquie
+- Afrique
+	- Tunisie
+- Amérique : 
+	- Uruguay
+	- Panama
+	- Curaçao (?)
+- Océanie
+	- Nouvelle-Zélande
+	- Haïti (?)
 
+## 1/16e Finale
+
+| Date           | Heure | Match                           | Résultat |
+| -------------- | ----: | ------------------------------- | -------- |
+| Dim. 28 juin   | 21:00 | Afrique du Sud - Canada         |          |
+| Lun. 29 juin   | 19:00 | Brésil - Japon                  |          |
+| Lun. 29 juin   | 22:30 | Allemagne - Paraguay            |          |
+| Mar. 30 juin   | 03:00 | Pays-Bas - Maroc                |          |
+| Mar. 30 juin   | 19:00 | Côte d'Ivoire - Norvège         |          |
+| Mar. 30 juin   | 23:00 | France - Suède                  |          |
+| Mer. 1 juillet | 03:00 | Mexique - Équateur              |          |
+| Mer. 1 juillet | 18:00 | Angleterre - RD Congo           |          |
+| Mer. 1 juillet | 22:00 | Belgique - Sénégal              |          |
+| Jeu. 2 juillet | 02:00 | États-Unis - Bosnie-Herzégovine |          |
+| Jeu. 2 juillet | 21:00 | Espagne - Autriche              |          |
+| Ven. 3 juillet | 01:00 | Portugal - Croatie              |          |
+| Ven. 3 juillet | 05:00 | Suisse - Algérie                |          |
+| Ven. 3 juillet | 20:00 | Australie - Égypte              |          |
+| Sam. 4 juillet | 00:00 | Argentine - Cap-Vert            |          |
+| Sam. 4 juillet | 03:30 | Colombie - Ghana                |          |
 # Hall of fame
 ## Hommes
 
@@ -186,3 +288,8 @@ type: event
 | ----- | --------- | ----------- | -------- |
 | 2025  |           |             |          |
 |       |           |             |          |
+|       |           |             |          |
+
+# Statistiques
+
+![[image-697.webp|500x422]]

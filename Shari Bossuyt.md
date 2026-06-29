@@ -27,6 +27,7 @@ type: personne
 | 2026  | [[Championnat d'Europe de Cyclisme sur piste\|Champ. Europe]] - Madison              | 1ière 🥇  | avec [[Lotte Kopecky]]     |
 | 2026  | [[Tour de Bruges]]                                                                   | 2e        |                            |
 | 2026  | [[Tour d'Espagne]] - 2e étape                                                        | ==1ière== | Sprint                     |
+| 2026  | [[Championnat de Belgique de Cyclisme\|Champ. National]] - Route                     | ==1ière== |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

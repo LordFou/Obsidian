@@ -9,8 +9,11 @@ type: game
 - **Année de sortie** : 
 - **Développeur** : 
 	- Studio : 
+		- [[Square Enix]]
+		- [[Acquire]]
 	- Personnalités : 
 - **Éditeur** : 
+	- [[Nintendo]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :

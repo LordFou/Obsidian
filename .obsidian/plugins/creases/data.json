@@ -1,0 +1,4 @@
+{
+  "onOpenCreasesBehavior": "preserve-fold-state",
+  "templateCreasesBehavior": "start-folded"
+}

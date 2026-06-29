@@ -36,6 +36,7 @@ type: personne
 | 2026  | Grand Prix de France             | 2e       | Derrière [[Jeffrey Herlings]]                         |
 | 2026  | Grand Prix d'Allemagne           | ==1ier== |                                                       |
 | 2026  | Championnat US - Thunder Valley  | 2e       |                                                       |
+| 2026  | Grand Prix d'Italie              | 2e       |                                                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

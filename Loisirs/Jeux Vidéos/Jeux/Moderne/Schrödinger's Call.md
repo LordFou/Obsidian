@@ -14,15 +14,15 @@ publishers:
 genres:
   - Adventure
   - Indie
-onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2090390/b0803ff89c6ea0f084dbfbd116b3aa15964815a9/header.jpg?t=1776235455
+onlineRating: 89
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2090390/b0803ff89c6ea0f084dbfbd116b3aa15964815a9/header.jpg?t=1780918143
 released: true
 releaseDate: 27/05/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2090390/b0803ff89c6ea0f084dbfbd116b3aa15964815a9/header.jpg?t=1776235455)
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2090390/b0803ff89c6ea0f084dbfbd116b3aa15964815a9/header.jpg?t=1780918143)
 # Schrödinger's Call
 
 ## Informations Générales
@@ -32,18 +32,18 @@ tags: mediaDB/game
 	- Studio : [[Acrobatic Chirimenjako]]
 	- Personnalités : 
 - **Éditeur** : [[SHUEISHA GAMES]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Switch]]
 - **Franchise** : 
-- **Genre** : [[Aventure]], [[Visual Novel]]
+- **Genre** : Adventure,Indie
 - **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : 
-	- Illustrations magnifiques
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 0
+	- Steam Rating : 89
+	- CheckPoint : 9/10
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -60,7 +60,6 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL                                              |
-| ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/2090390       |
-| Trailer     | https://youtu.be/YrN6ZYL85RQ?si=jbw9AXzqCaWuu9Eq |
+| Description | URL       |
+| ----------- | --------- |
+| Wiki        | https://store.steampowered.com/app/2090390 |

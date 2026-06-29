@@ -9,8 +9,6 @@ type: event
 
 ## Hommes
 
-### Etapes 
-
 |          | Vainqueur               | Général              | Montagne                 | Points                   | Jeune              | Remarques                                              |
 | -------- | ----------------------- | -------------------- | ------------------------ | ------------------------ | ------------------ | ------------------------------------------------------ |
 | 1e (FRA) | [[Dorian Godon]]        | [[Dorian Godon]]     | [[Baptiste Veistroffer]] | [[Dorian Godon]]         | ?                  | 2e - [[Remco Evenepoel]]                               |
@@ -22,15 +20,15 @@ type: event
 | 7e (AUS) | [[Brady Guilmore]]      | [[Jonas Vingegaard]] | [[Giulio Ciccone]]       | [[Dorian Godon]]         | [[Lenny Martinez]] | 3e - [[Remco Evenepoel]]                               |
 ## Femmes
 
-### Etapes
-
-|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
-| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|          | Vainqueur       | Général         | Montagne | Points | Jeune | Remarques             |
+| -------- | --------------- | --------------- | -------- | ------ | ----- | --------------------- |
+| 1e       |                 |                 |          |        |       |                       |
+| 2e (ESP) | [[Paula Blasi]] | [[Paula Blasi]] |          |        |       | 6e - [[Emma Siegers]] |
+| 3e       |                 |                 |          |        |       |                       |
 
 # General
 
 ### Hommes
-
 
 | Année | Vainqueur            | Nationalité | Montagne           | Points           | Jeune              | Team             |
 | ----- | -------------------- | ----------- | ------------------ | ---------------- | ------------------ | ---------------- |

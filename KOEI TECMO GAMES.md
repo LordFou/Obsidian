@@ -24,9 +24,10 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre      |
-| ----- | ---------- |
-| 2026  | [[Nioh 3]] |
+| Année | Titre                          |
+| ----- | ------------------------------ |
+| 2026  | [[Nioh 3]]                     |
+| 2026  | [[DEAD OR ALIVE 6 Last Round]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

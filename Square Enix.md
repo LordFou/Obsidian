@@ -24,11 +24,13 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                                              | Remarques                     |
-| ----- | -------------------------------------------------- | ----------------------------- |
-| 2025  | [[Final Fantasy Tactics - The Ivalice Chronicles]] |                               |
-| 2026  | [[Dragon Quest VII Reimagined]]                    | Square Enix Creative Studio 2 |
-| 2026  | [[PARANORMASIGHT - The Mermaid’s Curse]]           |                               |
+| Année | Titre                                               | Remarques                     |
+| ----- | --------------------------------------------------- | ----------------------------- |
+| 2018  | [[Octopath Traveler]]                               |                               |
+| 2025  | [[Final Fantasy Tactics - The Ivalice Chronicles]]  |                               |
+| 2026  | [[Dragon Quest VII Reimagined]]                     | Square Enix Creative Studio 2 |
+| 2026  | [[PARANORMASIGHT - The Mermaid’s Curse]]            |                               |
+| 2026  | [[The Adventures of Elliot - The Millennium Tales]] |                               |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

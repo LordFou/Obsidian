@@ -63,6 +63,7 @@ type: personne
 | 2026  | [[Roland-Garros]] - Simple                       | 2e tour       | Victoire contre [[Tatjana Maria]] (WTA 54) au premier tour<br>Défaite contre [[Maja Chwalinska]] (WTA 114) |
 | 2026  | [[Roland-Garros]] - Double                       | 1/8 tour      | avec [[Shuai Zhang]]                                                                                       |
 | 2026  | [[Tournoi de Berlin]] - Simple                   | 2e tour       |                                                                                                            |
+| 2026  | [[Tournoi de Bad Homburg]] - Simple              | 2e tour       | Défaite contre [[Naomi Osaka]] (WTA 15)                                                                    |
 
 # Style et Caractéristiques
 - C'est une joueuse très équilibrée et régulière qui intègre en juin 2025 le club très fermé des joueuses qui ont gagné un tournoi sur les 3 types de surface.

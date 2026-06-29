@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition         | Résultat | Remarque |
 | ----- | ------------------- | -------- | -------- |
 | 2025  | [[Rallye du Chili]] | 1ier     |          |
+| 2026  | [[Rallye de Grèce]] | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

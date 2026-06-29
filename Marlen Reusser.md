@@ -22,10 +22,11 @@ type: personne
 | 2025  | [[Tour de Suisse]] - Classement final      | 1ière    |                                    |
 | 2025  | [[Tour d'Italie]] - 1e étape               | 1ière    | CLM<br>Maillot Rose                |
 | 2025  | [[Tour d'Italie]] - 4e étape               | ?        | Maillot Rose                       |
-| 2025  | [[Championnat du Monde de Cyclisme]] - CLM | 1ière    |                                    |
-| 2025  | [[Championnat d'Europe de Cyclisme]] - CLM | 1ière    |                                    |
+| 2025  | [[Championnat du Monde de Cyclisme]] - CLM | ==1ière==    |                                    |
+| 2025  | [[Championnat d'Europe de Cyclisme]] - CLM | ==1ière==    |                                    |
 |       |                                            |          |                                    |
-| 2026  | [[A Travers la Flandre]]                   | 1ière    |                                    |
+| 2026  | [[A Travers la Flandre]]                   | ==1ière==    |                                    |
+| 2026  | [[Tour de Suisse]] - 4e étape              | ==1ière==    | CLM                                |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

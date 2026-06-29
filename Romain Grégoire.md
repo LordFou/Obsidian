@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-690.webp|282x270]]
 # Romain Grégoire
 
 # Informations Générales

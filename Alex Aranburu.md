@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-693.webp|237x161]]
 # Alex Aranburu
 
 # Informations Générales
@@ -9,13 +9,14 @@ type: personne
 - **Nationalité** :  Espagnol
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Cofidis]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
 | Année | Compétition                        | Résultat | Remarque |
 | ----- | ---------------------------------- | -------- | -------- |
-| 2026  | [[Tour du Pays Basque]] - 4e étape | 1ier     |          |
+| 2026  | [[Tour du Pays Basque]] - 4e étape | ==1ier== |          |
+| 2026  | [[Tour de Belgique]] - 3e étape    | ==1ier== |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

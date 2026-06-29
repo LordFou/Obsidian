@@ -19,6 +19,8 @@ type: event
 
 | Année | Vainqueur          | Nationalité    | Remarque |
 | ----- | ------------------ | -------------- | -------- |
+| 2019  | [[Naomi Osaka]]    | Japonaise      |          |
+| 2021  | [[Naomi Osaka]]    | Japonaise      |          |
 | 2025  | [[Madison Keys]]   | ?              |          |
 | 2026  | [[Elena Rybakina]] | Kazakhstanaise |          |
 |       |                    |                |          |

@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-692.webp|250x340]]
 # Zoe Bäckstedt
 
 # Informations Générales
@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                      | Résultat | Remarque |
-| ----- | -------------------------------- | -------- | -------- |
-| 2025  | [[Simac Ladies Tour]] - 5e étape | 1ier     |          |
+| Année | Compétition                      | Résultat  | Remarque |
+| ----- | -------------------------------- | --------- | -------- |
+| 2025  | [[Simac Ladies Tour]] - 5e étape | ==1ière== |          |
+| 2026  | [[Tour de Suisse]] - 3e étape    | ==1ière== |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

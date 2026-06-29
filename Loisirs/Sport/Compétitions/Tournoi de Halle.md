@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Tournoi de Bruxelles - ATP 250
+# Tournoi de Halle - ATP 500
 
 # Introduction
 
@@ -10,11 +10,11 @@ type: event
 
 | Année | Vainqueur | Nationalité | Remarque |
 | ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
+| 2026  |           |             |          |
 |       |           |             |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
 | ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
+| 2026  |           |             |          |
 |       |           |             |          |

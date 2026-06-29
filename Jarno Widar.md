@@ -23,6 +23,7 @@ type: personne
 | 2025  | [[Flèche Ardennaise]]                                       | ==1ier==                |                                                         |
 |       |                                                             |                         |                                                         |
 | 2026  | [[Figueira Champions Classic]]                              | 4e                      |                                                         |
+| 2026  | [[Tour de Suisse]] - 5e étape                               | 4e                      |                                                         |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

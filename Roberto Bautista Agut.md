@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition       | Résultat  | Remarque |
 | ----- | ----------------- | --------- | -------- |
-| 2024  | [[European Open]] | Vainqueur |          |
+| 2024  | [[Tournoi de Bruxelles]] | Vainqueur |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

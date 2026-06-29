@@ -18,6 +18,7 @@ type: personne
 | ----- | ---------------------------------- | ----------- | -------------------------------------- |
 | 2026  | [[Tournoi d'Auckland]]             | 2e tour (?) | Premier qualif pour un tournoi ATP 250 |
 | 2026  | [[Roland-Garros]] - Qualifications | 3e tour     |                                        |
+| 2026  | [[Wimbledon]] - Qualifications     | 1ier tour   |                                        |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -20,9 +20,10 @@ type: personne
 | 2025  | Championnat National                   | 1ier     |           |
 |       |                                        |          |           |
 | 2026  | [[Tour Down Under]] - 4e étape         | Abandon  | Sur chute |
-| 2026  | [[Tour d'Italie]] - 4e étape           | 1ier     |           |
-| 2026  | [[Tour d'Italie]] - 8e étape           | 1ier     |           |
-| 2026  | [[Tour d'Italie]] - 11e étape          | 1ier     |           |
+| 2026  | [[Tour d'Italie]] - 4e étape           | ==1ier== |           |
+| 2026  | [[Tour d'Italie]] - 8e étape           | ==1ier== |           |
+| 2026  | [[Tour d'Italie]] - 11e étape          | ==1ier== |           |
+| 2026  | [[Tour de Suisse]] - 3e étape          | ==1ier== |           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -1,13 +1,13 @@
 ---
 type: personne
 ---
-
+![[image-698.webp|500x309]]
 # Jada Lynch
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Nationalité** :  Belge
+- **Sport / Discipline** :  [[Basket-Ball]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  

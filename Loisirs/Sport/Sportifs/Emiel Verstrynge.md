@@ -20,6 +20,7 @@ type: personne
 | 2026  | [[Championnat de Belgique de Cyclocross]] | 2e       | Derrière [[Thibau Nys]]           |
 | 2026  | [[Amstel Gold Race]]                      | 5e       |                                   |
 | 2026  | [[Liège-Bastogne-Liège]]                  | 4e       |                                   |
+| 2026  | [[Tour de Suisse]] - 2e étape             | 7e       |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

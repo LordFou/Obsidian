@@ -22,6 +22,7 @@ type: personne
 | 2026  | Grand Prix du Trentin   | 22e      |          |
 | 2026  | Grand Prix de France    | 15e      |          |
 | 2026  | Grand Prix d'Allemagne  | 20e      |          |
+| 2026  | Grand Prix d'Italie     | 14e      |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

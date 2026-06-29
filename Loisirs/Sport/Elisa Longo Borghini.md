@@ -1,9 +1,8 @@
 ---
 type: personne
 ---
+![[image-689.webp|500x281]]
 # Elisa Longo Borghini
-
-![[Pasted image 20250418215138.png]]
 
 ## Informations Générales
 - **Date de naissance** :  
@@ -16,11 +15,13 @@ type: personne
 ## Palmarès et Distinctions
 | Année | Compétition                          | Résultat     | Remarque |
 | ----- | ------------------------------------ | ------------ | -------- |
-| 2024  | [[Tour d'Italie]] - Classement final | 1ière - 🥇   |          |
-| 2025  | [[Flèche Brabançonne]]               | 1ière - 🥇   |          |
+| 2024  | [[Tour d'Italie]] - Classement final | ==1ière==    |          |
+| 2025  | [[Flèche Brabançonne]]               | ==1ière==    |          |
 | 2025  | [[Tour d'Italie]] - 7e étape         | Maillot Rose |          |
-| 2025  | [[Tour d'Italie]] - Classement final | 1ière - 🥇   |          |
-| 2026  | [[Tour d'Italie]] - 9e étape         | 1ière        |          |
+| 2025  | [[Tour d'Italie]] - Classement final | ==1ière==    |          |
+|       |                                      |              |          |
+| 2026  | [[Tour d'Italie]] - 9e étape         | ==1ière==    |          |
+| 2026  | [[Tour de Suisse]] - 2e étape        | ==1ière==    |          |
 
 ## Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -37,3 +38,5 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 ## Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
+
+![[Pasted image 20250418215138.png]]

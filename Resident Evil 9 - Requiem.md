@@ -24,7 +24,6 @@ type: game
 	- CheckPoint : 9/10
 	- 335k joueurs en simultané lors du premier WE de lancement. 
 	- 5 Millions de vente durant les 4 premiers jours
-	- 
 - **Gameplay** :
 - **Durée estimée** : 
 
