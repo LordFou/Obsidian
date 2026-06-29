@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4ff45402c6bd7bd0",
+        "id": "548f3050708b6b11",
         "type": "tabs",
         "children": [
           {
-            "id": "c96e0744428e06fb",
+            "id": "9427154d7be391e1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Journal de bord/2026-06-30.md",
-                "bFile": "Journal de bord/2026-06-30.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 2026-06-30  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -205,7 +201,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "720770048378678f",
+  "active": "9427154d7be391e1",
   "lastOpenFiles": [
     "Journal de bord/2026-06-30.md",
     "Journal de bord/2026-06-22.md",
