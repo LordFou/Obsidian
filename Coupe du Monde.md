@@ -252,8 +252,8 @@ type: event
 
 | Date           | Heure | Match                           | Résultat |
 | -------------- | ----: | ------------------------------- | -------- |
-| Dim. 28 juin   | 21:00 | Afrique du Sud - Canada         |          |
-| Lun. 29 juin   | 19:00 | Brésil - Japon                  |          |
+| Dim. 28 juin   | 21:00 | Afrique du Sud - Canada         | 0-1      |
+| Lun. 29 juin   | 19:00 | Brésil - Japon                  | 2-1      |
 | Lun. 29 juin   | 22:30 | Allemagne - Paraguay            |          |
 | Mar. 30 juin   | 03:00 | Pays-Bas - Maroc                |          |
 | Mar. 30 juin   | 19:00 | Côte d'Ivoire - Norvège         |          |
