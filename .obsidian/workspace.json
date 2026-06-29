@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jonathan Milan.md",
+                "file": "Red Panthers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jonathan Milan"
+              "title": "Red Panthers"
             },
             "group": "8166f2c25b298bcd"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Jonathan Milan.md",
+                "file": "Red Panthers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Jonathan Milan"
+              "title": "Graphique de Red Panthers"
             },
             "group": "8166f2c25b298bcd"
           }
@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -251,8 +251,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "571b06dbd1c46b81",
+  "active": "94b2d6d483a6fa66",
   "lastOpenFiles": [
+    "Jonathan Milan.md",
     "Championnat du Danemark de Cyclisme.md",
     "Loisirs/Sport/Mads Pedersen.md",
     "Loisirs/Sport/Sportifs/Magnus Cort Nielsen.md",
@@ -279,7 +280,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The 7th Guest Remake.md",
     "Luca Modric.md",
     "Marketa Vondrousova.md",
-    "Marion Bartoli.md",
     "Attachments/image-700.webp",
     "Attachments/image-699.webp",
     "Attachments/image-698.webp",
