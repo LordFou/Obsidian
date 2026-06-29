@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                      | Résultat | Remarque |
-| ----- | -------------------------------- | -------- | -------- |
-| 2026  | [[Tour de Catalogne]] - 2e étape | 1ier     |          |
+| Année | Compétition                             | Résultat | Remarque |
+| ----- | --------------------------------------- | -------- | -------- |
+| 2026  | [[Tour de Catalogne]] - 2e étape        | 1ier     |          |
+| 2026  | [[Championnat du Danemark de Cyclisme]] |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

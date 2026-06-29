@@ -33,6 +33,7 @@ type: personne
 | 2026  | [[Tirreno-Adriatico]] - 7e étape     | ==1ier==     | Sprint Massif                                |
 | 2026  | [[Milan San Remo]]                   | Forfait      | Malade                                       |
 | 2026  | [[Tour d'Italie]] - 21e étape        | ==1ier==     | Sprint Massif                                |
+| 2026  | [[Championnat d'Italie de Cyclisme]] | ==1ier==     |                                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
