@@ -11,10 +11,14 @@
             "id": "7fcebfd7af790fc8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Loisirs/Sport/Sportifs/Michael Obasuyi.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Michael Obasuyi"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Coupe du Monde",
+                "query": "Michael Obasuyi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,8 +205,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "720770048378678f",
+  "active": "7fcebfd7af790fc8",
   "lastOpenFiles": [
+    "Kimi Antonelli.md",
+    "Grand Prix d'Autriche.md",
+    "Max Verstappen.md",
+    "Georges Russell.md",
+    "Lorenzo Mark Finn.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Adventures of Elliot - The Millennium Tales.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The 7th Guest Remake.md",
+    "Luca Modric.md",
+    "Marketa Vondrousova.md",
+    "Marion Bartoli.md",
     "Loisirs/Sport/Compétitions/Tournoi de Bruxelles.md",
     "Loisirs/Sport/Sportifs/Cristiano Ronaldo.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/R-Type Tactics I • II Cosmos.md",
@@ -219,16 +233,6 @@
     "Loisirs/Sport/Compétitions/Rallye de Grèce.md",
     "Ugo Humbert.md",
     "Tournoi de Washington.md",
-    "Tournoi de Delrey Beach.md",
-    "Tournoi de Bâle.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/DEAD OR ALIVE 6 Last Round.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/COPA CITY.md",
-    "Lionel Messi.md",
-    "Journal de bord/2026-06-28.md",
-    "Journal de bord/2026-06-27.md",
-    "Journal de bord/2026-06-21.md",
-    "IceLemonTea Studio.md",
-    "Emma Farrow.md",
     "Attachments/image-700.webp",
     "Attachments/image-699.webp",
     "Attachments/image-698.webp",
