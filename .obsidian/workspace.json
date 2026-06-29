@@ -11,14 +11,14 @@
             "id": "c96e0744428e06fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Journal de bord/2026-06-22.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Journal de bord/2026-06-30.md",
+                "bFile": "Journal de bord/2026-06-30.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2026-06-22"
+              "icon": "diff",
+              "title": "Diff: 2026-06-30  (Working Tree)"
             }
           }
         ]
@@ -205,10 +205,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c96e0744428e06fb",
+  "active": "720770048378678f",
   "lastOpenFiles": [
-    "Coupe du Monde.md",
+    "Journal de bord/2026-06-30.md",
     "Journal de bord/2026-06-22.md",
+    "Coupe du Monde.md",
     "Tour de Slovénie.md",
     "Loisirs/Sport/Sportifs/Michael Valgren.md",
     "Route d’Occitanie.md",
@@ -232,7 +233,6 @@
     "Classique Dunkerque.md",
     "Loisirs/Sport/Compétitions/Tour de Cologne.md",
     "Loisirs/Sport/Compétitions/Boucle de L'Aulne.md",
-    "Loisirs/Sport/Compétitions/Tour du Finistère.md",
     "Attachments/image-683.webp",
     "Attachments/image-682.webp",
     "Attachments/image-681.webp",
