@@ -256,7 +256,7 @@ type: event
 | Lun. 29 juin   | 19:00 | Brésil - Japon                  | 2-1              |
 | Lun. 29 juin   | 22:30 | Allemagne - Paraguay            | 1-1 (TaB => 5-6) |
 | Mar. 30 juin   | 03:00 | Pays-Bas - Maroc                | 1-1 (TaB => 2-3) |
-| Mar. 30 juin   | 19:00 | Côte d'Ivoire - Norvège         |                  |
+| Mar. 30 juin   | 19:00 | Côte d'Ivoire - Norvège         | 1-2              |
 | Mar. 30 juin   | 23:00 | France - Suède                  |                  |
 | Mer. 1 juillet | 03:00 | Mexique - Équateur              |                  |
 | Mer. 1 juillet | 18:00 | Angleterre - RD Congo           |                  |
