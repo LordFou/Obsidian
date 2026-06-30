@@ -32,7 +32,7 @@ type: personne
 | 2026  | [[Tournoi de Madrid]]      | ==1/2 finale== | Victoire en 1/16e contre [[Félix Auger-Aliassime]] (ATP 5)<br>Victoire en 1/8e contre [[Fransisco Cerundolo]] (ATP 20)<br>Victoire en 1/4 contre [[Casper Ruud]] (ATP 15)<br>Défaite en 1/2 contre [[Alexander Zverev]] (ATP 3) |
 | 2026  | [[Tournoi de Rome]]        | 1/16           | Victoire contre [[Federico Cina]] (ATP 225)<br>Victoire contre [[Tallon Griekspoor]] (ATP 31)<br>Défaite contre [[Alexander Zverev]] (ATP 3)                                                                                    |
 | 2026  | [[Roland-Garros]]          | 2e tour        | Victoire contre [[Coleman Wong]] ([[Lucky Loser]])<br>Forfait au 2e tour - Entorse durant un entrainement                                                                                                                       |
-|       |                            |                |                                                                                                                                                                                                                                 |
+| 2026  | [[Wimbledon]]              | 1e tour        | Défaite contre [[Alexander Zverev]] (ATP 3)                                                                                                                                                                                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
