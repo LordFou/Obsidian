@@ -23,6 +23,8 @@ content:
 | Année | Compétition              | Résultat   | Remarque                          |
 | ----- | ------------------------ | ---------- | --------------------------------- |
 | 2001  | [[Tournoi Indian Wells]] | Vainqueure | Victoire contre [[Kim Clijsters]] |
+| 2026  | [[Wimbledon]]            | 1ier tour  | ==Un retour à 44 ans !!==         |
+|       |                          |            |                                   |
 
 # Style et Caractéristiques
 - L'évolution de [[Serena Williams]] est intimement liée à celle de sa soeur [[Venus Williams]] => [[Les Soeurs Williams]]
@@ -30,6 +32,7 @@ content:
 
 # Records et Faits Marquants
 - 13 titres WTA 1000
+- 39 titres du [[Grand Chelem]] dont 23 en simple.
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

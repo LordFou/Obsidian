@@ -8,10 +8,10 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur          | Titre | Remarque |
-| ----- | ------------------ | ----- | -------- |
-| 2025  | [[Bruno Armirail]] | CLM   |          |
-|       |                    |       |          |
+| Année | Vainqueur           | Titre  | Remarque |
+| ----- | ------------------- | ------ | -------- |
+| 2025  | [[Bruno Armirail]]  | CLM    |          |
+| 2026  | [[Romain Grégoire]] | Course |          |
 # Femmes
 
 | Année | Vainqueur           | Titre | Remarque |

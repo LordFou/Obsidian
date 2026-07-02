@@ -13,16 +13,19 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                                        | Résultat         | Remarque |
-| ----- | ---------------------------------------------------------------------------------- | ---------------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 110m haies                                | Eliminé en série | 13,54s   |
-| 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - 60m haies | Demi-finale      |          |
+| Année | Compétition                                                                        | Résultat         | Remarque                        |
+| ----- | ---------------------------------------------------------------------------------- | ---------------- | ------------------------------- |
+| 2025  | [[Championnats du monde d'athlétisme]] - 110m haies                                | Eliminé en série | 13,54s                          |
+| 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - 60m haies | Demi-finale      |                                 |
+| 2026  | Ligue de Diamant - Paris - 110m haies                                              | 3e (Série)       | 13.16s + ==Record de Belgique== |
+|       |                                                                                    |                  |                                 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Record de Belgique
+	- 110m haies (13.16s)
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

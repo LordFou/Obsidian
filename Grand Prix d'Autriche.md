@@ -8,10 +8,10 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur        | Nationalité | Remarque |
-| ----- | ---------------- | ----------- | -------- |
-| 2025  | [[Lando Norris]] | Britannique |          |
-|       |                  |             |          |
+| Année | Vainqueur           | Nationalité | Remarque |
+| ----- | ------------------- | ----------- | -------- |
+| 2025  | [[Lando Norris]]    | Britannique |          |
+| 2026  | [[Georges Russell]] | Britannique |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

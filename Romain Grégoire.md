@@ -13,16 +13,18 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                    | Résultat | Remarque      |
-| ----- | ---------------------------------------------- | -------- | ------------- |
-| 2025  | ?                                              | ?        | ?             |
-| 2025  | [[Tour de Suisse]] - 1e étape                  | 1ier     | Sous la pluie |
-| 2025  | [[Tour de Grande Bretagne]] - 4e étape         | 1ier     |               |
-| 2025  | [[Tour de Grande Bretagne]] - Classement Final | 1ier     |               |
-| 2025  | [[Tour du Luxembourg]] - 1e étape              | 1ier     |               |
-| 2025  | [[Tour du Luxembourg]] - 5e étape              | 1ier     |               |
-|       |                                                |          |               |
-| 2026  | [[Faun Drôme Classic]]                              | 1ier     |               |
+| Année | Compétition                                            | Résultat | Remarque      |
+| ----- | ------------------------------------------------------ | -------- | ------------- |
+| 2025  | ?                                                      | ?        | ?             |
+| 2025  | [[Tour de Suisse]] - 1e étape                          | 1ier     | Sous la pluie |
+| 2025  | [[Tour de Grande Bretagne]] - 4e étape                 | 1ier     |               |
+| 2025  | [[Tour de Grande Bretagne]] - Classement Final         | 1ier     |               |
+| 2025  | [[Tour du Luxembourg]] - 1e étape                      | 1ier     |               |
+| 2025  | [[Tour du Luxembourg]] - 5e étape                      | 1ier     |               |
+|       |                                                        |          |               |
+| 2026  |                                                        | ?        |               |
+| 2026  | [[Faun Drôme Classic]]                                 | 1ier     |               |
+| 2026  | [[Championnat de France de Cyclisme\| Champ.National]] | 1ier     |               |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

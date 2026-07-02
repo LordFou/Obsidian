@@ -42,6 +42,7 @@ type: personne
 | 2026  | [[Tournoi de Rosmalen]] - Double    | Finale                 |                                                              |
 | 2026  | [[Tournoi de Halle]]                | 1e tour                |                                                              |
 | 2026  | [[Tournoi de Eastbourne]]           | ==Vainqueur==          | Victoire contre [[Ugo Humbert]] (ATP 30)                     |
+| 2026  | [[Wimbledon]]                       | 2e tour                | Victoire contre [[Ugo Humbert]] (ATP 30)                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -58,3 +59,5 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 # Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
+
+![[image-701.webp|500x281]]
