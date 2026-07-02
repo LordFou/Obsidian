@@ -249,7 +249,6 @@ type: event
 	- Haïti (?)
 
 
-## 1/8
 ## 1/16e Finale
 
 | Date           | Heure | Match                           | Résultat         |
@@ -270,6 +269,19 @@ type: event
 | Ven. 3 juillet | 20:00 | Australie - Égypte              |                  |
 | Sam. 4 juillet | 00:00 | Argentine - Cap-Vert            |                  |
 | Sam. 4 juillet | 03:30 | Colombie - Ghana                |                  |
+## 1/8e Finale
+
+| Date           | Heure | Match                                                          |
+| -------------- | ----- | -------------------------------------------------------------- |
+| Sam. 4 juillet | 19:00 | Canada - Maroc                                                 |
+| Sam. 4 juillet | 23:00 | Paraguay - France                                              |
+| Dim. 5 juillet | 22:00 | Brésil - Norvège                                               |
+| Lun. 6 juillet | 02:00 | Mexique - Angleterre                                           |
+| Lun. 6 juillet | 21:00 | Vainqueur de Portugal–Croatie vs vainqueur d'Espagne–Autriche  |
+| Mar. 7 juillet | 02:00 | États-Unis - Belgique                                          |
+| Mar. 7 juillet | 18:00 | Vainqueur d'Argentine–Cap-Vert vs vainqueur d'Australie–Égypte |
+| Mar.7 juillet  | 22:00 | Vainqueur de Suisse–Algérie vs vainqueur de Colombie–Ghana     |
+
 # Hall of fame
 ## Hommes
 
@@ -294,4 +306,4 @@ type: event
 
 # Statistiques
 
-![[image-697.webp|500
+![[image-697.webp|500x422]]
