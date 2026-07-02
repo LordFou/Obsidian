@@ -7,6 +7,10 @@ type: event
 
 Aussi surnommé la petite reine, le tour de France est le 3e évènement sportif le plus regardé au monde avec la coupe du monde de football et les jeux olympiques.
 
+# Statistiques %% fold %%
+
+![[image-704.webp|500x410]]![[image-705.webp|500x460]]
+
 # Edition 2025
 
 ## Hommes
