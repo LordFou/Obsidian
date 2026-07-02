@@ -16,7 +16,7 @@ type: event
 	- L'arbitre somalien interdit d'entrer sur le territoire US.
 	- Fouilles des équipes du Sénégal et de l'Ouzbékistan.
 
-## Phase de groupe
+## Phase de groupe %% fold %%
 ### Groupe A
 
 | Match                         | Résultat | Remarque                                                               |
@@ -248,6 +248,8 @@ type: event
 	- Nouvelle-Zélande
 	- Haïti (?)
 
+
+## 1/8
 ## 1/16e Finale
 
 | Date           | Heure | Match                           | Résultat         |
@@ -257,11 +259,11 @@ type: event
 | Lun. 29 juin   | 22:30 | Allemagne - Paraguay            | 1-1 (TaB => 5-6) |
 | Mar. 30 juin   | 03:00 | Pays-Bas - Maroc                | 1-1 (TaB => 2-3) |
 | Mar. 30 juin   | 19:00 | Côte d'Ivoire - Norvège         | 1-2              |
-| Mar. 30 juin   | 23:00 | France - Suède                  |                  |
-| Mer. 1 juillet | 03:00 | Mexique - Équateur              |                  |
-| Mer. 1 juillet | 18:00 | Angleterre - RD Congo           |                  |
-| Mer. 1 juillet | 22:00 | Belgique - Sénégal              |                  |
-| Jeu. 2 juillet | 02:00 | États-Unis - Bosnie-Herzégovine |                  |
+| Mar. 30 juin   | 23:00 | France - Suède                  | 3-0              |
+| Mer. 1 juillet | 03:00 | Mexique - Équateur              | 2-0              |
+| Mer. 1 juillet | 18:00 | Angleterre - RD Congo           | 2-1              |
+| Mer. 1 juillet | 22:00 | Belgique - Sénégal              | 3-2              |
+| Jeu. 2 juillet | 02:00 | États-Unis - Bosnie-Herzégovine | 2-0              |
 | Jeu. 2 juillet | 21:00 | Espagne - Autriche              |                  |
 | Ven. 3 juillet | 01:00 | Portugal - Croatie              |                  |
 | Ven. 3 juillet | 05:00 | Suisse - Algérie                |                  |
@@ -292,4 +294,4 @@ type: event
 
 # Statistiques
 
-![[image-697.webp|500x422]]
+![[image-697.webp|500
