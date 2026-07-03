@@ -263,9 +263,9 @@ type: event
 | Mer. 1 juillet | 18:00 | Angleterre - RD Congo           | 2-1              |
 | Mer. 1 juillet | 22:00 | Belgique - Sénégal              | 3-2              |
 | Jeu. 2 juillet | 02:00 | États-Unis - Bosnie-Herzégovine | 2-0              |
-| Jeu. 2 juillet | 21:00 | Espagne - Autriche              |                  |
-| Ven. 3 juillet | 01:00 | Portugal - Croatie              |                  |
-| Ven. 3 juillet | 05:00 | Suisse - Algérie                |                  |
+| Jeu. 2 juillet | 21:00 | Espagne - Autriche              | 3-0              |
+| Ven. 3 juillet | 01:00 | Portugal - Croatie              | 2-1              |
+| Ven. 3 juillet | 05:00 | Suisse - Algérie                | 2-0              |
 | Ven. 3 juillet | 20:00 | Australie - Égypte              |                  |
 | Sam. 4 juillet | 00:00 | Argentine - Cap-Vert            |                  |
 | Sam. 4 juillet | 03:30 | Colombie - Ghana                |                  |
