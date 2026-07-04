@@ -271,16 +271,16 @@ type: event
 | Sam. 4 juillet | 03:30 | Colombie - Ghana                | 1-0              |
 ## 1/8e Finale
 
-| Date           | Heure | Match                 |
-| -------------- | ----- | --------------------- |
-| Sam. 4 juillet | 19:00 | Canada - Maroc        |
-| Sam. 4 juillet | 23:00 | Paraguay - France     |
-| Dim. 5 juillet | 22:00 | Brésil - Norvège      |
-| Lun. 6 juillet | 02:00 | Mexique - Angleterre  |
-| Lun. 6 juillet | 21:00 | Portugal–Espagne      |
-| Mar. 7 juillet | 02:00 | États-Unis - Belgique |
-| Mar. 7 juillet | 18:00 | Argentine–Égypte      |
-| Mar.7 juillet  | 22:00 | Suisse–Colombie       |
+| Date           | Heure | Match                 | Résultat |
+| -------------- | ----- | --------------------- | -------- |
+| Sam. 4 juillet | 19:00 | Canada - Maroc        | 0-2      |
+| Sam. 4 juillet | 23:00 | Paraguay - France     |          |
+| Dim. 5 juillet | 22:00 | Brésil - Norvège      |          |
+| Lun. 6 juillet | 02:00 | Mexique - Angleterre  |          |
+| Lun. 6 juillet | 21:00 | Portugal–Espagne      |          |
+| Mar. 7 juillet | 02:00 | États-Unis - Belgique |          |
+| Mar. 7 juillet | 18:00 | Argentine–Égypte      |          |
+| Mar.7 juillet  | 22:00 | Suisse–Colombie       |          |
 
 ## 1/4 Finale
 
