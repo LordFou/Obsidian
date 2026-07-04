@@ -271,16 +271,18 @@ type: event
 | Sam. 4 juillet | 03:30 | Colombie - Ghana                | 1-0              |
 ## 1/8e Finale
 
-| Date           | Heure | Match                                                          |
-| -------------- | ----- | -------------------------------------------------------------- |
-| Sam. 4 juillet | 19:00 | Canada - Maroc                                                 |
-| Sam. 4 juillet | 23:00 | Paraguay - France                                              |
-| Dim. 5 juillet | 22:00 | Brésil - Norvège                                               |
-| Lun. 6 juillet | 02:00 | Mexique - Angleterre                                           |
-| Lun. 6 juillet | 21:00 | Portugal–Espagne–Autriche                                      |
-| Mar. 7 juillet | 02:00 | États-Unis - Belgique                                          |
-| Mar. 7 juillet | 18:00 | Vainqueur d'Argentine–Cap-Vert vs vainqueur d'Australie–Égypte |
-| Mar.7 juillet  | 22:00 | Vainqueur de Suisse–Algérie vs vainqueur de Colombie–Ghana     |
+| Date           | Heure | Match                 |
+| -------------- | ----- | --------------------- |
+| Sam. 4 juillet | 19:00 | Canada - Maroc        |
+| Sam. 4 juillet | 23:00 | Paraguay - France     |
+| Dim. 5 juillet | 22:00 | Brésil - Norvège      |
+| Lun. 6 juillet | 02:00 | Mexique - Angleterre  |
+| Lun. 6 juillet | 21:00 | Portugal–Espagne      |
+| Mar. 7 juillet | 02:00 | États-Unis - Belgique |
+| Mar. 7 juillet | 18:00 | Argentine–Égypte      |
+| Mar.7 juillet  | 22:00 | Suisse–Colombie       |
+
+## 1/4 Finale
 
 # Hall of fame
 ## Hommes
