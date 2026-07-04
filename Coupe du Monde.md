@@ -249,7 +249,7 @@ type: event
 	- Haïti (?)
 
 
-## 1/16e Finale
+## 1/16e Finale %% fold %%
 
 | Date           | Heure | Match                           | Résultat         |
 | -------------- | ----: | ------------------------------- | ---------------- |
@@ -266,9 +266,9 @@ type: event
 | Jeu. 2 juillet | 21:00 | Espagne - Autriche              | 3-0              |
 | Ven. 3 juillet | 01:00 | Portugal - Croatie              | 2-1              |
 | Ven. 3 juillet | 05:00 | Suisse - Algérie                | 2-0              |
-| Ven. 3 juillet | 20:00 | Australie - Égypte              |                  |
-| Sam. 4 juillet | 00:00 | Argentine - Cap-Vert            |                  |
-| Sam. 4 juillet | 03:30 | Colombie - Ghana                |                  |
+| Ven. 3 juillet | 20:00 | Australie - Égypte              | 1-1 (TaB => 3-5) |
+| Sam. 4 juillet | 00:00 | Argentine - Cap-Vert            | 3-2              |
+| Sam. 4 juillet | 03:30 | Colombie - Ghana                | 1-0              |
 ## 1/8e Finale
 
 | Date           | Heure | Match                                                          |
@@ -277,7 +277,7 @@ type: event
 | Sam. 4 juillet | 23:00 | Paraguay - France                                              |
 | Dim. 5 juillet | 22:00 | Brésil - Norvège                                               |
 | Lun. 6 juillet | 02:00 | Mexique - Angleterre                                           |
-| Lun. 6 juillet | 21:00 | Vainqueur de Portugal–Croatie vs vainqueur d'Espagne–Autriche  |
+| Lun. 6 juillet | 21:00 | Portugal–Espagne–Autriche                                      |
 | Mar. 7 juillet | 02:00 | États-Unis - Belgique                                          |
 | Mar. 7 juillet | 18:00 | Vainqueur d'Argentine–Cap-Vert vs vainqueur d'Australie–Égypte |
 | Mar.7 juillet  | 22:00 | Vainqueur de Suisse–Algérie vs vainqueur de Colombie–Ghana     |

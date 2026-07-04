@@ -16,13 +16,15 @@ type: personne
 
 | Année | Compétition        | Résultat | Remarque |
 | ----- | ------------------ | -------- | -------- |
-| 2011  | [[Tour d'Espagne]] | ==1ier==     |          |
+| 2011  | [[Tour d'Espagne]] | ==1ier== |          |
+| 2012  | [[JO 2012]]        | Bronze   |          |
 | 2013  | [[Tour de France]] | ==1ier== |          |
 | 2015  | [[Tour de France]] | ==1ier== |          |
 | 2016  | [[Tour de France]] | ==1ier== |          |
+| 2016  | [[JO 2016]]        | Bronze   |          |
 | 2017  | [[Tour de France]] | ==1ier== |          |
-| 2017  | [[Tour d'Espagne]] | ==1ier==     |          |
-| 2018  | [[Tour d'Italie]]  | ==1ier==     |          |
+| 2017  | [[Tour d'Espagne]] | ==1ier== |          |
+| 2018  | [[Tour d'Italie]]  | ==1ier== |          |
 
 # Style et Caractéristiques  %% fold %%
 Décrire le style de jeu, les points forts/faibles, les particularités.
