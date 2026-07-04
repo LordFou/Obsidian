@@ -16,9 +16,10 @@ Aussi surnommé la petite reine, le tour de France est le 3e évènement sportif
 # Edition 2026
 ## Hommes
 
-|          | Vainqueur | Général              | Montagne | Points | Jeune          | Remarques      |
-| -------- | --------- | -------------------- | -------- | ------ | -------------- | -------------- |
-| 1e (NDL) | [[Visma]] | [[Jonas Vingegaard]] |          |        | [[Juan Ayuso]] | CLM par équipe |
+|          | Vainqueur | Général              | Montagne | Points | Jeune          | Remarques                                  |
+| -------- | --------- | -------------------- | -------- | ------ | -------------- | ------------------------------------------ |
+| 1e (NDL) | [[Visma]] | [[Jonas Vingegaard]] | -        | -      | [[Juan Ayuso]] | CLM par équipe<br>5e - [[Remco Evenepoel]] |
+| 2e ()    |           |                      |          |        |                |                                            |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
