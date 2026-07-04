@@ -1,43 +1,42 @@
 ---
 type: game
 subType: ""
-title: Tabletop Tavern
-englishTitle: Tabletop Tavern
+title: Puni the Florist
+englishTitle: Puni the Florist
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/3337380
-id: 3337380
+url: https://store.steampowered.com/app/3396290
+id: 3396290
 developers:
-  - TJ
+  - Earthquack Games
 publishers:
-  - Frostbloom
-  - Gamirror Games
+  - Earthquack Games
 genres:
-  - Strategy
+  - Casual
+  - Indie
+  - Simulation
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/be1671a7a42ef807118e9770ae4f3df65050cf37/header.jpg?t=1782584376
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396290/78b235ed5326fa3bc6e6eaf5be884a67c4e2834c/header.jpg?t=1783021162
 released: true
-releaseDate: 11/06/2026
+releaseDate: 08/06/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/be1671a7a42ef807118e9770ae4f3df65050cf37/header.jpg?t=1782584376)
-# Tabletop Tavern
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396290/78b235ed5326fa3bc6e6eaf5be884a67c4e2834c/header.jpg?t=1783021162)
+# Puni the Florist
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[TJ]]
+	- Studio : [[Earthquack Games]]
 	- Personnalités : 
-- **Éditeur** : 
-	- [[Frostbloom]]
-	- [[Gamirror Games]]
+- **Éditeur** : [[Earthquack Games]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Strategie]], [[Roguelite]]
-- **Résumé** :  
+- **Genre** : [[Simulation]]
+- **Résumé** :   jeu de vente de bouquets de fleurs atypique
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -54,15 +53,14 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Horticulture]]
 - **Influencé par** :
-	- [[Franchise Total War]]
 - **A inspiré** : 
 - **Comparable à** :
-	- [[Master of Command]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/3337380 |
+| Wiki        | https://store.steampowered.com/app/3396290 |

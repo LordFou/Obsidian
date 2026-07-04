@@ -1,42 +1,46 @@
 ---
 type: game
 subType: ""
-title: Tabletop Tavern
-englishTitle: Tabletop Tavern
+title: "Unrailed 2: Back on Track"
+englishTitle: "Unrailed 2: Back on Track"
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/3337380
-id: 3337380
+url: https://store.steampowered.com/app/2211170
+id: 2211170
 developers:
-  - TJ
+  - Indoor Astronaut
 publishers:
-  - Frostbloom
-  - Gamirror Games
+  - Indoor Astronaut
+  - Kepler Ghost
 genres:
+  - Action
+  - Casual
+  - Indie
+  - Simulation
   - Strategy
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/be1671a7a42ef807118e9770ae4f3df65050cf37/header.jpg?t=1782584376
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/e13148cadb42b138b5edce3e475045d4870ec263/header_alt_assets_6.jpg?t=1782895685
 released: true
 releaseDate: 11/06/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/be1671a7a42ef807118e9770ae4f3df65050cf37/header.jpg?t=1782584376)
-# Tabletop Tavern
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/e13148cadb42b138b5edce3e475045d4870ec263/header_alt_assets_6.jpg?t=1782895685)
+# Unrailed 2: Back on Track
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[TJ]]
+	- Studio : [[Indoor Astronaut]]
 	- Personnalités : 
 - **Éditeur** : 
-	- [[Frostbloom]]
-	- [[Gamirror Games]]
+	- [[Indoor Astronaut]]
+	- [[Kepler Ghost]]
 - **Plateformes** : [[PC]]
-- **Franchise** : 
-- **Genre** : [[Strategie]], [[Roguelite]]
+- **Franchise** : [[Franchise Unrailed]]
+- **Genre** : 
 - **Résumé** :  
 
 ## Détails Techniques
@@ -55,14 +59,12 @@ tags: mediaDB/game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
-	- [[Franchise Total War]]
 - **A inspiré** : 
 - **Comparable à** :
-	- [[Master of Command]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/3337380 |
+| Wiki        | https://store.steampowered.com/app/2211170 |
