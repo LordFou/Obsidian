@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Pokemon Go.md",
+                "file": "Xbox Games Studio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pokemon Go"
+              "title": "Xbox Games Studio"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pokemon Go",
+                "query": "Xbox",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,8 +207,10 @@
   },
   "active": "e2d2c4319fe535eb",
   "lastOpenFiles": [
-    "Coupe du Monde.md",
+    "Loisirs/Jeux Vidéos/Plateformes/Xbox.md",
+    "Xbox Games Studio.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Pokemon Go.md",
+    "Coupe du Monde.md",
     "Loisirs/Sport/Tour de France.md",
     "Zizou Bergs.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Ogre Chambers 2222.md",
@@ -230,8 +233,6 @@
     "Exbleative.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/33 immortals.md",
     "Loisirs/Jeux Vidéos/Sociétés/Thunder Lotus Games.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Apocalypse Express.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hack '95.md",
     "Attachments/image-706.webp",
     "Attachments/image-705.webp",
     "Attachments/image-704.webp",

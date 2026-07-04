@@ -32,7 +32,9 @@
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+
+# Polémiques
+- Des drones américains seraient entrainés sur base des données du jeu. Lorsque l'on scanne des points de contrôles.
 ## Liens et Ressources
 
 | Description | URL       |
