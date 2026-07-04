@@ -35,8 +35,8 @@ tags: mediaDB/game
 - **Éditeur** : [[Llamaware Studios]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : 
-- **Résumé** :  
+- **Genre** : [[Roguelike]]
+- **Résumé** :  Il s'agit d'un roguelike où l'on dirige un cheminot chargé de tout faire en se déplaçant dans son train : pelleter le charbon dans la loco, viser avec le canon, bouger une pince mécanique pour choper des ressources au vol, actionner l'aiguillage, et ainsi de suite.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
