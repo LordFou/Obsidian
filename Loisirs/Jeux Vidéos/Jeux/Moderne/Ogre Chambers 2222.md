@@ -1,46 +1,40 @@
 ---
 type: game
 subType: ""
-title: "Unrailed 2: Back on Track"
-englishTitle: "Unrailed 2: Back on Track"
+title: Ogre Chambers 2222
+englishTitle: Ogre Chambers 2222
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2211170
-id: 2211170
+url: https://store.steampowered.com/app/3375890
+id: 3375890
 developers:
-  - Indoor Astronaut
+  - ANTENNA GAMES
 publishers:
-  - Indoor Astronaut
-  - Kepler Ghost
+  - ANTENNA GAMES
 genres:
   - Action
-  - Casual
   - Indie
-  - Simulation
-  - Strategy
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/e13148cadb42b138b5edce3e475045d4870ec263/header_alt_assets_6.jpg?t=1782895685
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375890/fe4777a28d1d2a40455915c2816292288027e6e4/header.jpg?t=1782987321
 released: true
-releaseDate: 11/06/2026
+releaseDate: 08/06/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/e13148cadb42b138b5edce3e475045d4870ec263/header_alt_assets_6.jpg?t=1782895685)
-# Unrailed 2: Back on Track
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375890/fe4777a28d1d2a40455915c2816292288027e6e4/header.jpg?t=1782987321)
+# Ogre Chambers 2222
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Indoor Astronaut]]
+	- Studio : [[ANTENNA GAMES]]
 	- Personnalités : 
-- **Éditeur** : 
-	- [[Indoor Astronaut]]
-	- [[Kepler Ghost]]
+- **Éditeur** : [[ANTENNA GAMES]]
 - **Plateformes** : [[PC]]
-- **Franchise** : [[Franchise Unrailed]]
-- **Genre** : Action
+- **Franchise** : 
+- **Genre** : [[Action]], [[Roguelite]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -67,4 +61,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2211170 |
+| Wiki        | https://store.steampowered.com/app/3375890 |

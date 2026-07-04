@@ -1,46 +1,41 @@
 ---
 type: game
 subType: ""
-title: "Unrailed 2: Back on Track"
-englishTitle: "Unrailed 2: Back on Track"
-year: "2026"
+title: Unrailed!
+englishTitle: Unrailed!
+year: "2020"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2211170
-id: 2211170
+url: https://store.steampowered.com/app/1016920
+id: 1016920
 developers:
   - Indoor Astronaut
 publishers:
-  - Indoor Astronaut
-  - Kepler Ghost
+  - Daedalic Entertainment
 genres:
   - Action
   - Casual
   - Indie
-  - Simulation
-  - Strategy
-onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/e13148cadb42b138b5edce3e475045d4870ec263/header_alt_assets_6.jpg?t=1782895685
+onlineRating: 77
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/header.jpg?t=1773842519
 released: true
-releaseDate: 11/06/2026
+releaseDate: 23/09/2020
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211170/e13148cadb42b138b5edce3e475045d4870ec263/header_alt_assets_6.jpg?t=1782895685)
-# Unrailed 2: Back on Track
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/header.jpg?t=1773842519)
+# Unrailed!
 
 ## Informations Générales
 
-- **Année de sortie** :  2026
+- **Année de sortie** :  2020
 - **Développeur** : 
 	- Studio : [[Indoor Astronaut]]
 	- Personnalités : 
-- **Éditeur** : 
-	- [[Indoor Astronaut]]
-	- [[Kepler Ghost]]
-- **Plateformes** : [[PC]]
+- **Éditeur** : [[Daedalic Entertainment]]
+- **Plateformes** : 
 - **Franchise** : [[Franchise Unrailed]]
-- **Genre** : Action
+- **Genre** : [[Action]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -48,7 +43,7 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 0
+	- Steam Rating : 77
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -67,4 +62,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2211170 |
+| Wiki        | https://store.steampowered.com/app/1016920 |
