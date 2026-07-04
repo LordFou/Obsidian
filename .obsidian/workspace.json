@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Tour de France.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Tabletop Tavern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour de France"
+              "title": "Tabletop Tavern"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour de F",
+                "query": "Tabletop Tavern",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,9 +207,15 @@
   },
   "active": "e2d2c4319fe535eb",
   "lastOpenFiles": [
-    "Visma.md",
-    "Loisirs/Sport/Tour de France.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Master of Command.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Tabletop Tavern.md",
+    "Master of Command.md",
+    "Franchise Total War.md",
+    "Total War.md",
+    "TJ.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Exo Rally Championship.md",
+    "Loisirs/Sport/Tour de France.md",
+    "Visma.md",
     "Exbleative.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/33 immortals.md",
     "Loisirs/Jeux Vidéos/Sociétés/Thunder Lotus Games.md",
@@ -227,12 +233,6 @@
     "Grand Prix de Grande-Bretagne.md",
     "Coupe du Monde.md",
     "Loisirs/Sport/Equipes/Belgians Lions.md",
-    "Loisirs/Sport/Sportifs/Chris Froome.md",
-    "Liège-Bastogne-Liège.md",
-    "Loisirs/Sport/Tour d'Italie.md",
-    "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
-    "Mirra Andreeva.md",
-    "Club des vainqueurs des 3 grands tours.md",
     "Attachments/image-706.webp",
     "Attachments/image-705.webp",
     "Attachments/image-704.webp",
