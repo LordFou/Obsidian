@@ -14,10 +14,15 @@ type: personne
 
 # Palmarès et Distinctions  %% fold %%
 
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
-|       |                       |                            |                  |
+| Année | Compétition        | Résultat | Remarque |
+| ----- | ------------------ | -------- | -------- |
+| 2011  | [[Tour d'Espagne]] | ==1ier==     |          |
+| 2013  | [[Tour de France]] | ==1ier== |          |
+| 2015  | [[Tour de France]] | ==1ier== |          |
+| 2016  | [[Tour de France]] | ==1ier== |          |
+| 2017  | [[Tour de France]] | ==1ier== |          |
+| 2017  | [[Tour d'Espagne]] | ==1ier==     |          |
+| 2018  | [[Tour d'Italie]]  | ==1ier==     |          |
 
 # Style et Caractéristiques  %% fold %%
 Décrire le style de jeu, les points forts/faibles, les particularités.

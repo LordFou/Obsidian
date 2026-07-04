@@ -126,6 +126,7 @@ Aussi appelé [[Giro]] ^^
 
 | Année | Vainqueur            | Nationalité | Montagne              | Points            | Jeune              | Equipe    | Remarque |
 | ----- | -------------------- | ----------- | --------------------- | ----------------- | ------------------ | --------- | -------- |
+| 2018  | [[Chris Froome]]     | Anglais     |                       |                   |                    |           |          |
 | 2025  | [[Simon Yates]]      | Anglais     | [[Lorenzo Fortunato]] | [[Mads Pedersen]] | [[Isaac Del Toro]] |           |          |
 | 2026  | [[Jonas Vingegaard]] | Danois      | [[Giulio Ciccone]]    | [[Paul Magnier]]  | [[Afonso Eulalio]] | [[Visma]] |          |
 ### Femmes

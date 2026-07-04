@@ -11,8 +11,22 @@ Aussi surnommé la petite reine, le tour de France est le 3e évènement sportif
 
 ![[image-704.webp|500x410]]![[image-705.webp|500x460]]
 
-# Edition 2025
 
+
+# Edition 2026
+## Hommes
+
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques      |
+| --- | --------- | ------- | -------- | ------ | ----- | -------------- |
+| 1e  |           |         |          |        |       | CLM par équipe |
+## Femmes
+
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|     |           |         |          |        |       |           |
+
+
+# Edition 2025 %% fold %%
 ## Hommes
 
 - Domination de [[Tadej Pogacar]], il repousse ses adversaires à plus de 4 minutes
@@ -112,12 +126,16 @@ Aussi surnommé la petite reine, le tour de France est le 3e évènement sportif
 | NDL    | 3             |
 | ESP    | 1             |
 | MAU    | 1             |
-# General
+# General %% fold %%
 
 ### Hommes
 
 | Année | Vainqueur            | Nationalité | Montagne          | Points             | Jeune                | Combattif     | Equipe    | Podium                                             |
 | ----- | -------------------- | ----------- | ----------------- | ------------------ | -------------------- | ------------- | --------- | -------------------------------------------------- |
+| 2013  | [[Chris Froome]]     | Anglais     |                   |                    |                      |               |           |                                                    |
+| 2015  | [[Chris Froome]]     | Anglais     |                   |                    |                      |               |           |                                                    |
+| 2016  | [[Chris Froome]]     | Anglais     |                   |                    |                      |               |           |                                                    |
+| 2017  | [[Chris Froome]]     | Anglais     |                   |                    |                      |               |           |                                                    |
 | 2018  | [[Geraint Thomas]]   | Anglais     |                   |                    |                      |               |           |                                                    |
 | 2021  | [[Jonas Vingegaard]] | Danois      |                   |                    |                      |               |           |                                                    |
 | 2022  | [[Jonas Vingegaard]] | Danois      |                   |                    |                      |               |           |                                                    |

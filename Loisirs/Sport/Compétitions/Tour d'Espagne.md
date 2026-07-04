@@ -65,6 +65,8 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 
 | Année | Vainqueur            | Nationalité | Montagne     | Points            | Jeune                  | Remarque |
 | ----- | -------------------- | ----------- | ------------ | ----------------- | ---------------------- | -------- |
+| 2011  | [[Chris Froome]]     | Anglais     |              |                   |                        |          |
+| 2017  | [[Chris Froome]]     | Anglais     |              |                   |                        |          |
 | 2018  | [[Simon Yates]]      | Anglais     |              |                   |                        |          |
 | 2022  | [[Remco Evenepoel]]  | Belge       |              |                   |                        |          |
 | 2025  | [[Jonas Vingegaard]] | Danois      | [[Jay Vine]] | [[Mads Pedersen]] | [[Matthew Riccitello]] |          |
