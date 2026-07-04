@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Gothic 1 Remake.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Solarpunk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gothic 1 Remake"
+              "title": "Solarpunk"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gothic",
+                "query": "Solar",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,9 +207,9 @@
   },
   "active": "e2d2c4319fe535eb",
   "lastOpenFiles": [
-    "Alkimia Interactive.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Gothic 1 Remake.md",
     "Franchise Gothic.md",
+    "Alkimia Interactive.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Gothic 1.md",
     "Elise Mertens.md",
     "Kimi Antonelli.md",

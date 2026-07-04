@@ -28,6 +28,8 @@ tags: mediaDB/game
 
 ## Informations Générales
 
+Remake de [[Gothic 1]]
+
 - **Année de sortie** :  2026
 - **Développeur** : 
 	- Studio : [[Alkimia Interactive]]
@@ -45,7 +47,8 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 0
+	- Le jeu est décrié, à raison, pour ses bugs en pagaille (comme le jeu original)
+	- Scénario terriblement accrocheur
 - **Gameplay** :
 - **Durée estimée** : 
 
