@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Apocalypse Express.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Exo Rally Championship.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apocalypse Express"
+              "title": "Exo Rally Championship"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Apocaly",
+                "query": "Exo Rally Championship",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,8 +207,12 @@
   },
   "active": "e2d2c4319fe535eb",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hack '95.md",
+    "Exbleative.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Exo Rally Championship.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/33 immortals.md",
+    "Loisirs/Jeux Vidéos/Sociétés/Thunder Lotus Games.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Apocalypse Express.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hack '95.md",
     "Llamaware Studios.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Burglin' Gnomes.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Solarpunk.md",
@@ -232,10 +236,6 @@
     "Zizou Bergs.md",
     "Attachments/image-705.webp",
     "Attachments/image-704.webp",
-    "Journal de bord/2026-07-02.md",
-    "conflict-files-obsidian-git.md",
-    "Loisirs/Sport/Sportifs/Rune Herregodts.md",
-    "Journal de bord/2026-06-30.md",
     "Attachments/image-703.webp",
     "Attachments/image-702.webp",
     "Attachments/image-701.webp",
