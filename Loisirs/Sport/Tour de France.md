@@ -14,18 +14,28 @@ Aussi surnommé la petite reine, le tour de France est le 3e évènement sportif
 
 
 # Edition 2026
+
+Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Evenepoel]]
 ## Hommes
 
-|          | Vainqueur | Général              | Montagne          | Points | Jeune          | Remarques                                  |
-| -------- | --------- | -------------------- | ----------------- | ------ | -------------- | ------------------------------------------ |
-| 1e (NDL) | [[Visma]] | [[Jonas Vingegaard]] | [[Tadej Pogacar]] | -      | [[Juan Ayuso]] | CLM par équipe<br>5e - [[Remco Evenepoel]] |
-| 2e ()    |           |                      |                   |        |                |                                            |
-## Femmes
+|          | Vainqueur | Général              | Montagne          | Points          | Jeune          | Remarques                                                                                                                        |
+| -------- | --------- | -------------------- | ----------------- | --------------- | -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1e (NDL) | [[Visma]] | [[Jonas Vingegaard]] | [[Tadej Pogacar]] | [[Egan Bernal]] | [[Juan Ayuso]] | CLM par équipe<br>5e - [[Remco Evenepoel]]<br>3 chutes au même endroit sur le parcours dont une qui provoque le premier abandon. |
+| 2e ()    |           |                      |                   |                 |                | Sprint Intermédiaire :                                                                                                           |
+## Femmes %% fold %%
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
 | --- | --------- | ------- | -------- | ------ | ----- | --------- |
 |     |           |         |          |        |       |           |
+|     |           |         |          |        |       |           |
 
+| Equipe               | Nbr Victoires |
+| -------------------- | ------------- |
+| Visma                | 1             |
+
+| Nation   | Nbr Victoires |
+| -------- | ------------- |
+| Pays-Bas | 1             |
 
 # Edition 2025 %% fold %%
 ## Hommes

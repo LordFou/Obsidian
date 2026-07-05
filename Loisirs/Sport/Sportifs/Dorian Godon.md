@@ -13,12 +13,14 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                      | Résultat | Remarque                 |
-| ----- | -------------------------------- | -------- | ------------------------ |
-| 2026  | [[Paris-Nice]] - 7e étape        | 1ier     |                          |
-| 2026  | [[Tour de Catalogne]] - 1e étape | 1ier     | 2e - [[Remco Evenepoel]] |
-| 2026  | [[Tour de Catalogne]] - 3e étape | 1ier     |                          |
-| 2026  | [[Tour de Romandie]] - 1e étape  | 1ier     |                          |
+| Année | Compétition                               | Résultat | Remarque                 |
+| ----- | ----------------------------------------- | -------- | ------------------------ |
+| 2026  | [[Paris-Nice]] - 7e étape                 | ==1ier== |                          |
+| 2026  | [[Paris-Nice]] - Classement Points        | ==1ier== |                          |
+| 2026  | [[Tour de Catalogne]] - 1e étape          | ==1ier== | 2e - [[Remco Evenepoel]] |
+| 2026  | [[Tour de Catalogne]] - 3e étape          | ==1ier== |                          |
+| 2026  | [[Tour de Catalogne]] - Classement Points | ==1ier== |                          |
+| 2026  | [[Tour de Romandie]] - 1e étape           | ==1ier== |                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
