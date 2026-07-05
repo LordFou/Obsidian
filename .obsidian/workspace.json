@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Serena",
+                "query": "Tour de France",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -201,7 +201,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cdf37515e358596f",
+  "active": "571b06dbd1c46b81",
   "lastOpenFiles": [
     "Journal de bord/2026-07-05.md",
     "Serena Williams.md",
