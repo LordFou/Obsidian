@@ -15,7 +15,7 @@ type: event
 	- Les joueurs iraniens ne peuvent débarquer aux USA que le jour de leur match.
 	- L'arbitre somalien interdit d'entrer sur le territoire US.
 	- Fouilles des équipes du Sénégal et de l'Ouzbékistan.
-	- Le meilleur attaquant américain ne sera pas suspendu de sa carte rouge pour le 8e finale contre la Belgique. Choix unilatéral de la FIFA. ([[Donald Trump]] remercie [[Gianni Infantino]])
+	- Le meilleur attaquant américain ne sera pas suspendu de sa carte rouge pour le 8e finale contre la Belgique. Choix unilatéral de la FIFA. ([[Donald Trump]] remercie [[Gianni Infantino]]) => https://www.nytimes.com/2026/07/05/us/trump-fifa-balogun-world-cup.html?unlocked_article_code=1.vVA.-Etz.7Jrw_FsOGg3S
 
 ## Phase de groupe %% fold %%
 ### Groupe A
