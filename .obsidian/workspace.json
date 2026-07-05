@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grand Prix de Grande-Bretagne.md",
+                "file": "Lewis Hamilton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grand Prix de Grande-Bretagne"
+              "title": "Lewis Hamilton"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Grand Prix de Grande",
+                "query": "Lewis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -206,8 +206,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "33b8b6cfcd7e4d0a",
+  "active": "94b2d6d483a6fa66",
   "lastOpenFiles": [
+    "Georges Russell.md",
+    "Loisirs/Sport/Sportifs/Charles Leclerc.md",
+    "Grand Prix de Grande-Bretagne.md",
     "Loisirs/Sport/Sportifs/Brent Van doninck.md",
     "Elise Mertens.md",
     "Loisirs/Sport/Sportifs/Lucas Coenen.md",
@@ -233,9 +236,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Griftlands.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Gothic 1 Remake.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Exo Rally Championship.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Burglin' Gnomes.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Apocalypse Express.md",
-    "Llamaware Studios.md",
     "Attachments/image-707.webp",
     "Attachments/image-706.webp",
     "Attachments/image-705.webp",
