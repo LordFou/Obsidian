@@ -11,17 +11,14 @@
             "id": "33b8b6cfcd7e4d0a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Généalogie des Jeux Vidéos.canvas",
-                "viewState": {
-                  "x": 44.5,
-                  "y": -359,
-                  "zoom": 0
-                }
+                "file": "Culture/Histoire/Guerres dans le monde.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Généalogie des Jeux Vidéos"
+              "icon": "lucide-file",
+              "title": "Guerres dans le monde"
             }
           }
         ]
@@ -56,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Généalogie",
+                "query": "Guerre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -211,6 +208,7 @@
   },
   "active": "33b8b6cfcd7e4d0a",
   "lastOpenFiles": [
+    "Généalogie des Jeux Vidéos.canvas",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Roguebook.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/NUTMEG! A Nostalgic Deckbuilding Football Manager.md",
     "Abrakam Entertainment SA.md",
@@ -238,7 +236,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Pokemon Go.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Oxygen Not Included.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Unrailed 2 - Back on Track.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Tabletop Tavern.md",
     "Attachments/image-707.webp",
     "Attachments/image-706.webp",
     "Attachments/image-705.webp",

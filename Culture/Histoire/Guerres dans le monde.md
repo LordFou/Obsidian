@@ -1,11 +1,14 @@
 # Russie / Ukraine
-- **Début** :
-- **Cause** :
-- **Déroulement** :
+- **Début** : Février 2022
+- **Cause** : Expansion de la Russie 
+- **Déroulement** : En 2012 (?), La Russie revendique la Crimée et un accord est trouvé faisant croire aux européens que cela n'ira pas plus loin. En 2022, la Russie démontre que son désir de reconstruire l'empire russe est toujours présent.
 - Enjeux annexes :
 	- Le gaz
 		- Au début de la guerre, le gaz importé provenait encore de la Russie à 40%, 3 ans plus tard, nous ne sommes plus qu'à 11%. L'Europe veut en sortir avant 2027-2028.
 		- La demande de GNL transporté par bateau est en forte augmentation.
+	- Le pétrole
+		- Après 4 ans, les 2 camps visent les raffineries et réserve de pétrole. 
+		- La Russie connaît une des plus grandes pénuries à ce jour et les longues files aux pompes se multiplient.
 
 # Afghanistan / Pakistan
 - **Début** : février 2026 (Guerre déclarée et ouverte)
