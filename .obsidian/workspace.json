@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour de France",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -208,8 +208,9 @@
   },
   "active": "33b8b6cfcd7e4d0a",
   "lastOpenFiles": [
-    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
+    "Felix Engelhardt.md",
     "Loisirs/Sport/Tour de France.md",
+    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Loisirs/Sport/Tadej Pogacar.md",
     "Isaac Del Toro.md",
     "conflict-files-obsidian-git.md",
@@ -233,7 +234,6 @@
     "Indoor Astronaut.md",
     "Franchise Unrailed.md",
     "Franchise Total War.md",
-    "Exbleative.md",
     "Attachments/image-707.webp",
     "Attachments/image-706.webp",
     "Attachments/image-705.webp",

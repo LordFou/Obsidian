@@ -18,10 +18,10 @@ Aussi surnommé la petite reine, le tour de France est le 3e évènement sportif
 Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Evenepoel]]
 ## Hommes
 
-|          | Vainqueur          | Général              | Montagne          | Points             | Jeune              | Remarques                                                                                                                        |
-| -------- | ------------------ | -------------------- | ----------------- | ------------------ | ------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| 1e (NDL) | [[Visma]]          | [[Jonas Vingegaard]] | [[Tadej Pogacar]] | [[Egan Bernal]]    | [[Juan Ayuso]]     | CLM par équipe<br>5e - [[Remco Evenepoel]]<br>3 chutes au même endroit sur le parcours dont une qui provoque le premier abandon. |
-| 2e (MEX) | [[Isaac Del Toro]] | [[Jonas Vingegaard]] |                   | [[Isaac Del Toro]] | [[Isaac Del Toro]] | 2e - [[Tadej Pogacar]]<br>3e - [[Remco Evenepoel]]                                                                               |
+|          | Vainqueur          | Général              | Montagne          | Points             | Jeune              | Combattif            | Remarques                                                                                                                        |
+| -------- | ------------------ | -------------------- | ----------------- | ------------------ | ------------------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1e (NDL) | [[Visma]]          | [[Jonas Vingegaard]] | [[Tadej Pogacar]] | [[Egan Bernal]]    | [[Juan Ayuso]]     |                      | CLM par équipe<br>5e - [[Remco Evenepoel]]<br>3 chutes au même endroit sur le parcours dont une qui provoque le premier abandon. |
+| 2e (MEX) | [[Isaac Del Toro]] | [[Jonas Vingegaard]] |                   | [[Isaac Del Toro]] | [[Isaac Del Toro]] | [[Felix Engelhardt]] | 2e - [[Tadej Pogacar]]<br>3e - [[Remco Evenepoel]]                                                                               |
 ## Femmes %% fold %%
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
