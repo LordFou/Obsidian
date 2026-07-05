@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,6 +208,10 @@
   },
   "active": "33b8b6cfcd7e4d0a",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
+    "Loisirs/Sport/Tour de France.md",
+    "Loisirs/Sport/Tadej Pogacar.md",
+    "Isaac Del Toro.md",
     "conflict-files-obsidian-git.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Unrailed!.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Puni the Florist.md",
@@ -229,14 +234,10 @@
     "Franchise Unrailed.md",
     "Franchise Total War.md",
     "Exbleative.md",
-    "Earthquack Games.md",
-    "Culture/Géographie/Espagne.md",
     "Attachments/image-707.webp",
     "Attachments/image-706.webp",
     "Attachments/image-705.webp",
     "Attachments/image-704.webp",
-    "Alkimia Interactive.md",
-    "ANTENNA GAMES.md",
     "Attachments/image-703.webp",
     "Attachments/image-702.webp",
     "Attachments/image-701.webp",
