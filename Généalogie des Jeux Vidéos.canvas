@@ -12,7 +12,13 @@
 		{"id":"3f1bf8f4568b256c","type":"text","text":"[[Donkey Kong]]","x":-58,"y":-719,"width":178,"height":50},
 		{"id":"3e3a516ec965bd42","type":"text","text":"[[Pac-Man]]","x":140,"y":-719,"width":140,"height":50},
 		{"id":"bbe28bbb8442dd17","type":"text","text":"[[Crazy Climber]]","x":300,"y":-720,"width":171,"height":50},
-		{"id":"442d812ad837a1a6","x":137,"y":-565,"width":163,"height":50,"type":"text","text":"[[Miner 2049er]]"}
+		{"id":"442d812ad837a1a6","type":"text","text":"[[Miner 2049er]]","x":137,"y":-565,"width":163,"height":50},
+		{"id":"47080698240826e8","x":280,"y":-440,"width":250,"height":60,"type":"text","text":"[[Franchise Slay The Spire]]"},
+		{"id":"a9500bdf7cf43fd2","x":518,"y":-202,"width":138,"height":60,"type":"text","text":"[[Wildfrost]]"},
+		{"id":"e6dff916339dc2e9","x":268,"y":-150,"width":137,"height":60,"type":"text","text":"[[Griftlands]]"},
+		{"id":"b0dccfed12c969de","x":386,"y":-60,"width":185,"height":60,"type":"text","text":"[[The Royal Writ]]"},
+		{"id":"b522c0cc8b31e50a","x":50,"y":-262,"width":250,"height":60,"type":"text","text":"[[Franchise Monster Train]]"},
+		{"id":"869747b31bab12d5","x":656,"y":-280,"width":160,"height":52,"type":"text","text":"[[Roguebook]]"}
 	],
 	"edges":[
 		{"id":"4a18a36038fad2b6","fromNode":"5ee6d9504f663625","fromSide":"bottom","toNode":"ba5a91f9b58b8e46","toSide":"top"},
@@ -21,6 +27,11 @@
 		{"id":"60161c2400eec7ec","fromNode":"ba5a91f9b58b8e46","fromSide":"bottom","toNode":"35047186ed62d3f5","toSide":"top"},
 		{"id":"6fc685e1fa5d37c6","fromNode":"3f1bf8f4568b256c","fromSide":"bottom","toNode":"442d812ad837a1a6","toSide":"top"},
 		{"id":"d578ae9ca87f505d","fromNode":"3e3a516ec965bd42","fromSide":"bottom","toNode":"442d812ad837a1a6","toSide":"top"},
-		{"id":"262d13c9ddbaca4e","fromNode":"bbe28bbb8442dd17","fromSide":"bottom","toNode":"442d812ad837a1a6","toSide":"top"}
+		{"id":"262d13c9ddbaca4e","fromNode":"bbe28bbb8442dd17","fromSide":"bottom","toNode":"442d812ad837a1a6","toSide":"top"},
+		{"id":"d5adef42ad59749d","fromNode":"47080698240826e8","fromSide":"bottom","toNode":"b522c0cc8b31e50a","toSide":"top"},
+		{"id":"be2f13b75db0b188","fromNode":"47080698240826e8","fromSide":"bottom","toNode":"e6dff916339dc2e9","toSide":"top"},
+		{"id":"cc3843c9f45cc569","fromNode":"47080698240826e8","fromSide":"bottom","toNode":"b0dccfed12c969de","toSide":"top"},
+		{"id":"4cffad78eb513108","fromNode":"47080698240826e8","fromSide":"bottom","toNode":"a9500bdf7cf43fd2","toSide":"top"},
+		{"id":"dc2a176f0090040f","fromNode":"47080698240826e8","fromSide":"bottom","toNode":"869747b31bab12d5","toSide":"top"}
 	]
 }
