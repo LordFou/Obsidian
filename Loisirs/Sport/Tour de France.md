@@ -7,8 +7,37 @@ type: event
 
 Aussi surnommé la petite reine, le tour de France est le 3e évènement sportif le plus regardé au monde avec la coupe du monde de football et les jeux olympiques.
 
-# Edition 2025
+# Statistiques %% fold %%
 
+![[image-704.webp|500x410]]![[image-705.webp|500x460]]
+
+
+
+# Edition 2026
+
+Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Evenepoel]]
+## Hommes
+
+|          | Vainqueur | Général              | Montagne          | Points          | Jeune          | Remarques                                                                                                                        |
+| -------- | --------- | -------------------- | ----------------- | --------------- | -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1e (NDL) | [[Visma]] | [[Jonas Vingegaard]] | [[Tadej Pogacar]] | [[Egan Bernal]] | [[Juan Ayuso]] | CLM par équipe<br>5e - [[Remco Evenepoel]]<br>3 chutes au même endroit sur le parcours dont une qui provoque le premier abandon. |
+| 2e ()    |           |                      |                   |                 |                | Sprint Intermédiaire :                                                                                                           |
+## Femmes %% fold %%
+
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|     |           |         |          |        |       |           |
+|     |           |         |          |        |       |           |
+
+| Equipe               | Nbr Victoires |
+| -------------------- | ------------- |
+| Visma                | 1             |
+
+| Nation   | Nbr Victoires |
+| -------- | ------------- |
+| Pays-Bas | 1             |
+
+# Edition 2025 %% fold %%
 ## Hommes
 
 - Domination de [[Tadej Pogacar]], il repousse ses adversaires à plus de 4 minutes
@@ -108,12 +137,16 @@ Aussi surnommé la petite reine, le tour de France est le 3e évènement sportif
 | NDL    | 3             |
 | ESP    | 1             |
 | MAU    | 1             |
-# General
+# General %% fold %%
 
 ### Hommes
 
 | Année | Vainqueur            | Nationalité | Montagne          | Points             | Jeune                | Combattif     | Equipe    | Podium                                             |
 | ----- | -------------------- | ----------- | ----------------- | ------------------ | -------------------- | ------------- | --------- | -------------------------------------------------- |
+| 2013  | [[Chris Froome]]     | Anglais     |                   |                    |                      |               |           |                                                    |
+| 2015  | [[Chris Froome]]     | Anglais     |                   |                    |                      |               |           |                                                    |
+| 2016  | [[Chris Froome]]     | Anglais     |                   |                    |                      |               |           |                                                    |
+| 2017  | [[Chris Froome]]     | Anglais     |                   |                    |                      |               |           |                                                    |
 | 2018  | [[Geraint Thomas]]   | Anglais     |                   |                    |                      |               |           |                                                    |
 | 2021  | [[Jonas Vingegaard]] | Danois      |                   |                    |                      |               |           |                                                    |
 | 2022  | [[Jonas Vingegaard]] | Danois      |                   |                    |                      |               |           |                                                    |

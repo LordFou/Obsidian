@@ -1,3 +1,7 @@
+---
+type: societe
+---
+
 # Thunder Lotus Games
 
 ## Présentation

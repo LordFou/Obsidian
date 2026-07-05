@@ -6,15 +6,14 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : [[2025]] (?)
+- **Année de sortie** : 2026
 - **Développeur** : 
 	- Société : [[Thunder Lotus Games]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[Xbox]] ([[GamePass (XBox)]])
-- **Genre** : action, MMO
+- **Plateformes** : [[Xbox Series]]
+- **Genre** : [[Roguelite]]
 - **Résumé** : c'est un genre de diablo qui se joue à 33 sur une map, sans chat vocal. On pose des buff ou debuff et il faut plusieurs joueurs à le faire au même endroit pour le déclencher.
-- **Etat** : Accès anticipé
 
 ## Détails Techniques
 - **Moteur de jeu** : 

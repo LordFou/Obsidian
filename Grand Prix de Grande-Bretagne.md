@@ -8,10 +8,11 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur        | Nationalité | Remarque |
-| ----- | ---------------- | ----------- | -------- |
-| 2025  | [[Lando Norris]] | Britannique |          |
-|       |                  |             |          |
+| Année | Vainqueur          | Epreuve | Nationalité | Remarque |
+| ----- | ------------------ | ------- | ----------- | -------- |
+| 2025  | [[Lando Norris]]   | Course  | Britannique |          |
+| 2026  | [[Kimi Antonelli]] | Sprint  | Italien     |          |
+|       |                    |         |             |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

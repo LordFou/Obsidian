@@ -8,9 +8,9 @@ type: game
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Klei Entertainment]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Klei Entertainment]]
 - **Plateformes** : 
 - **Franchise** : [[Franchise Don't Starve]]
 - **Genre** : [[Survie]]

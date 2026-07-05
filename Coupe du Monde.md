@@ -16,7 +16,7 @@ type: event
 	- L'arbitre somalien interdit d'entrer sur le territoire US.
 	- Fouilles des équipes du Sénégal et de l'Ouzbékistan.
 
-## Phase de groupe
+## Phase de groupe %% fold %%
 ### Groupe A
 
 | Match                         | Résultat | Remarque                                                               |
@@ -248,7 +248,8 @@ type: event
 	- Nouvelle-Zélande
 	- Haïti (?)
 
-## 1/16e Finale
+
+## 1/16e Finale %% fold %%
 
 | Date           | Heure | Match                           | Résultat         |
 | -------------- | ----: | ------------------------------- | ---------------- |
@@ -257,17 +258,32 @@ type: event
 | Lun. 29 juin   | 22:30 | Allemagne - Paraguay            | 1-1 (TaB => 5-6) |
 | Mar. 30 juin   | 03:00 | Pays-Bas - Maroc                | 1-1 (TaB => 2-3) |
 | Mar. 30 juin   | 19:00 | Côte d'Ivoire - Norvège         | 1-2              |
-| Mar. 30 juin   | 23:00 | France - Suède                  |                  |
-| Mer. 1 juillet | 03:00 | Mexique - Équateur              |                  |
-| Mer. 1 juillet | 18:00 | Angleterre - RD Congo           |                  |
-| Mer. 1 juillet | 22:00 | Belgique - Sénégal              |                  |
-| Jeu. 2 juillet | 02:00 | États-Unis - Bosnie-Herzégovine |                  |
-| Jeu. 2 juillet | 21:00 | Espagne - Autriche              |                  |
-| Ven. 3 juillet | 01:00 | Portugal - Croatie              |                  |
-| Ven. 3 juillet | 05:00 | Suisse - Algérie                |                  |
-| Ven. 3 juillet | 20:00 | Australie - Égypte              |                  |
-| Sam. 4 juillet | 00:00 | Argentine - Cap-Vert            |                  |
-| Sam. 4 juillet | 03:30 | Colombie - Ghana                |                  |
+| Mar. 30 juin   | 23:00 | France - Suède                  | 3-0              |
+| Mer. 1 juillet | 03:00 | Mexique - Équateur              | 2-0              |
+| Mer. 1 juillet | 18:00 | Angleterre - RD Congo           | 2-1              |
+| Mer. 1 juillet | 22:00 | Belgique - Sénégal              | 3-2              |
+| Jeu. 2 juillet | 02:00 | États-Unis - Bosnie-Herzégovine | 2-0              |
+| Jeu. 2 juillet | 21:00 | Espagne - Autriche              | 3-0              |
+| Ven. 3 juillet | 01:00 | Portugal - Croatie              | 2-1              |
+| Ven. 3 juillet | 05:00 | Suisse - Algérie                | 2-0              |
+| Ven. 3 juillet | 20:00 | Australie - Égypte              | 1-1 (TaB => 3-5) |
+| Sam. 4 juillet | 00:00 | Argentine - Cap-Vert            | 3-2              |
+| Sam. 4 juillet | 03:30 | Colombie - Ghana                | 1-0              |
+## 1/8e Finale
+
+| Date           | Heure | Match                 | Résultat |
+| -------------- | ----- | --------------------- | -------- |
+| Sam. 4 juillet | 19:00 | Canada - Maroc        | 0-2      |
+| Sam. 4 juillet | 23:00 | Paraguay - France     | 0-1      |
+| Dim. 5 juillet | 22:00 | Brésil - Norvège      |          |
+| Lun. 6 juillet | 02:00 | Mexique - Angleterre  |          |
+| Lun. 6 juillet | 21:00 | Portugal–Espagne      |          |
+| Mar. 7 juillet | 02:00 | États-Unis - Belgique |          |
+| Mar. 7 juillet | 18:00 | Argentine–Égypte      |          |
+| Mar.7 juillet  | 22:00 | Suisse–Colombie       |          |
+
+## 1/4 Finale
+
 # Hall of fame
 ## Hommes
 

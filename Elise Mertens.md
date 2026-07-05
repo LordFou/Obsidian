@@ -15,56 +15,56 @@ type: personne
 - ==**Top Ranking Double** : 1==
 
 # Palmarès et Distinctions
-| Année | Compétition                                      | Résultat      | Remarque                                                                                                   |
-| ----- | ------------------------------------------------ | ------------- | ---------------------------------------------------------------------------------------------------------- |
-| 2018  | [[Roland-Garros]] - Simple                       | 1/8 finale    |                                                                                                            |
-|       |                                                  |               |                                                                                                            |
-| 2019  | [[US Open]] - Double                             | ==Vainqueur== | avec [[Aryna Sabalenka]]                                                                                   |
-|       |                                                  |               |                                                                                                            |
-| 2020  | [[Australian Open]] - Simple                     | 1/8 finale    |                                                                                                            |
-| 2020  | [[Tournoi de Rome]] - Simple                     | 1/4 finale    |                                                                                                            |
-|       |                                                  |               |                                                                                                            |
-| 2021  | [[Tournoi de Miami]] - Simple                    | 1/8 finale    |                                                                                                            |
-| 2021  | [[Australian Open]] - Simple                     | 1/8 finale    |                                                                                                            |
-| 2021  | [[Australian Open]] - Double                     | ==Vainqueur== | avec [[Aryna Sabalenka]]                                                                                   |
-| 2021  | [[Wimbledon]] - Double                           | ==Vainqueur== | avec [[Su-Wei Hsieh]]                                                                                      |
-|       |                                                  |               |                                                                                                            |
-| 2022  | [[Australian Open]] - Simple                     | 1/8 finale    |                                                                                                            |
-| 2022  | [[Roland-Garros]] - Simple                       | 1/8 finale    |                                                                                                            |
-|       |                                                  |               |                                                                                                            |
-| 2023  | [[Roland-Garros]] - Simple                       | 1/8 finale    |                                                                                                            |
-| 2023  | [[Tournoi de Miami]] - Simple                    | 1/8 finale    |                                                                                                            |
-|       |                                                  |               |                                                                                                            |
-| 2024  | [[Australian Open]] - Double                     | ==Vainqueur== | avec [[Su-Wei Hsieh]]                                                                                      |
-|       |                                                  |               |                                                                                                            |
-| 2025  | [[Tournoi de Rosmalen]] - Simple                 | Vainqueur     | 10e titre en simple                                                                                        |
-| 2025  | [[Wimbledon]] - Simple                           | 8e de finale  |                                                                                                            |
-| 2025  | [[Wimbledon]] - Double                           | ==Vainqueur== | 5e titre de grand chelem en double avec [[Veronika Kudermetova]]                                           |
-| 2025  | [[US Open]] - Simple                             | 3e tour       |                                                                                                            |
-| 2025  | [[US Open]] - Double                             | Demi-finale   | avec [[Veronika Kudermetova]]                                                                              |
-| 2025  | [[Tournoi de Wuhan]] - Simple                    | 2e tour       | Blessée au dos                                                                                             |
-| 2025  | [[WTA - Tournoi d'Osaka]] - Simple               | 2e tour       |                                                                                                            |
-| 2025  | [[Masters WTA de Ryad]] - Double                 | Vainqueur     | avec V                                                                                                     |
-| 2025  | [[Tournoi de Rome]] - Simple                     | 1/8 finale    |                                                                                                            |
-|       |                                                  |               |                                                                                                            |
-| 2026  | [[Australian Open]] - Simple                     | 1/8 finale    | Défaite contre Rybanika (5e WTA)                                                                           |
-| 2026  | [[Australian Open]] - Double                     | ==Vainqueur== | avec [[Shuai Zhang]]                                                                                       |
-| 2026  | [[Tournoi de Doha]]                              | 2e tour       | Diminuée physiquement                                                                                      |
-| 2026  | [[Tournoi de Dubaï]] - Simple                    | 1/8 finale    | Défaite contre [[Coco Gauff]] (4e WTA)                                                                     |
-| 2026  | [[Tournoi de Dubaï]] - Double                    | 1ier tour     |                                                                                                            |
-| 2026  | [[Tournoi Indian Wells]] - Simple                | 3e tour       |                                                                                                            |
-| 2026  | [[Tournoi Indian Wells]] - Double                | 1ier tour     |                                                                                                            |
-| 2026  | [[Tournoi de Miami]] - Simple                    | 1/16 finale   |                                                                                                            |
-| 2026  | [[Tournoi de Miami]] - Double                    | 1/4 finale    | Abandon sur pépin physique (infection virale) avec [[Shuai Zhang]]                                         |
-| 2026  | [[Billie Jean King Cup]] - 1/8 finale - 2e match | Vainqueure    |                                                                                                            |
-| 2026  | [[Tournoi de Madrid]] - Simple                   | 1/16 finale   | Défaite contre [[Karolina Pliskova]]                                                                       |
-| 2026  | [[Tournoi de Rome]] - Double                     | 1ier tour     | avec [[Shuai Zhang]]                                                                                       |
-| 2026  | [[Tournoi de Rome]] - Simple                     | 1/8 finale    | Victoire contre [[Jasmine Paolini]] (WTA 8) en 1/16<br>Défaite contre [[Mirra Andreeva]] (WTA7) en 1/8     |
-| 2026  | [[Roland-Garros]] - Simple                       | 2e tour       | Victoire contre [[Tatjana Maria]] (WTA 54) au premier tour<br>Défaite contre [[Maja Chwalinska]] (WTA 114) |
-| 2026  | [[Roland-Garros]] - Double                       | 1/8 tour      | avec [[Shuai Zhang]]                                                                                       |
-| 2026  | [[Tournoi de Berlin]] - Simple                   | 2e tour       |                                                                                                            |
-| 2026  | [[Tournoi de Bad Homburg]] - Simple              | 2e tour       | Défaite contre [[Naomi Osaka]] (WTA 15)                                                                    |
-| 2026  | [[Wimbledon]] - Simple                           | 2e tour       | Victoire contre [[Laura Siegemund]] (WTA 40)                                                               |
+| Année | Compétition                         | Résultat      | Remarque                                                                                                                          |
+| ----- | ----------------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 2018  | [[Roland-Garros]] - Simple          | 1/8 finale    |                                                                                                                                   |
+|       |                                     |               |                                                                                                                                   |
+| 2019  | [[US Open]] - Double                | ==Vainqueur== | avec [[Aryna Sabalen                                                                                                              |
+|       |                                     |               |                                                                                                                                   |
+| 2020  | [[Australian Open]] - Simple        | 1/8 finale    |                                                                                                                                   |
+| 2020  | [[Tournoi de Rome]] - Simple        | 1/4 final     |                                                                                                                                   |
+|       |                                     |               |                                                                                                                                   |
+| 2021  | [[Tournoi de Miami]] - Simple       | 1/8 fin       |                                                                                                                                   |
+| 2021  | [[Australian Open]] - Simple        | 1/8 fi        |                                                                                                                                   |
+| 2021  | [[Australian Open]] - Double        | ==Vainqueur== | avec [[Aryna                                                                                                                      |
+| 2021  | [[Wimbledon]] - Double              | ==Vainqueur== | avec [[Su                                                                                                                         |
+|       |                                     |               |                                                                                                                                   |
+| 2022  | [[Australian Open]] - Simple        | 1/            |                                                                                                                                   |
+| 2022  | [[Roland-Garros]] - Simple          | 1             |                                                                                                                                   |
+|       |                                     |               |                                                                                                                                   |
+| 2023  | [[Roland-Garros]] - Simple          |               |                                                                                                                                   |
+| 2023  | [[Tournoi de Miami]] - Simple       |               |                                                                                                                                   |
+|       |                                     |               |                                                                                                                                   |
+| 2024  | [[Australian Open]] - Double        | ==Vainqueur== | a                                                                                                                                 |
+|       |                                     |               |                                                                                                                                   |
+| 2025  | [[Tournoi de Rosmalen]] - Simple    | Vainqueur     |                                                                                                                                   |
+| 2025  | [[Wimbledon]] - Simple              |               |                                                                                                                                   |
+| 2025  | [[Wimbledon]] - Double              | ==Vainqueur== | 5e titre de grand chelem en double avec                                                                                           |
+| 2025  | [[US Open]] - Simple                |               |                                                                                                                                   |
+| 2025  | [[US Open]] - Double                | Demi-finale   | ave                                                                                                                               |
+| 2025  | [[Tournoi de Wuhan]] - Simple       | 2e            |                                                                                                                                   |
+| 2025  | [[WTA - Tournoi d'Osaka]] - Simple  |               |                                                                                                                                   |
+| 2025  | [[Masters WTA de Ryad]] - Double    |               |                                                                                                                                   |
+| 2025  | [[Tournoi de Rome]] - Simple        |               |                                                                                                                                   |
+|       |                                     |               |                                                                                                                                   |
+| 2026  | [[Australian Open]] - Simple        | 1/8 finale    |                                                                                                                                   |
+| 2026  | [[Australian Open]] - Double        | ==V           |                                                                                                                                   |
+| 2026  | [[Tournoi de Doha]]                 | 2e            |                                                                                                                                   |
+| 2026  | [[Tournoi de Dubaï]] - Simple       | 1/8 finale    | Déf                                                                                                                               |
+| 2026  | [[Tournoi de Dubaï]] - Double       |               |                                                                                                                                   |
+| 2026  | [[Tournoi Indian Wells]] - Sim      |               |                                                                                                                                   |
+| 2026  | [[Tournoi Indian Wells]] - Do       |               |                                                                                                                                   |
+| 2026  | [[Tournoi de Miami]] - Simpl        |               |                                                                                                                                   |
+| 2026  | [[Tournoi de Miami]] - Double       | 1/4 finale    | Abandon sur pépin physique                                                                                                        |
+| 2026  | [[Billie Jean King Cup]] -          |               |                                                                                                                                   |
+| 2026  | [[Tournoi de Madrid]] - Simple      | 1/16 final    |                                                                                                                                   |
+| 2026  | [[Tournoi de Rome]] - Double        |               |                                                                                                                                   |
+| 2026  | [[Tournoi de Rome]] - Simple        | 1/8 finale    | Victoire contre [[Jasmine Paolini]] (WTA 8) en 1/16<br>Déf                    [[Mirra Andreeva]] (WTA7) en 1/8                    |
+| 2026  | [[Roland-Garros]] - Simple          | 2e tour       | Victoire contre [[Tatjana Maria]] (WTA 54) au premier tour<br               e contre [[Maja Chwalinska]] (WTA 114)                |
+| 2026  | [[Roland-Garros]] - Double          |               |                                                                                                                                   |
+| 2026  | [[Tournoi de Berlin]                |               |                                                                                                                                   |
+| 2026  | [[Tournoi de Bad Homburg]] - Simple | 2e tour       |                                                                                                                                   |
+| 2026  | [[Wimbledon]] - Simple              | 1/8e finale   | Victoire contre [[Laura Siegemund]] (WTA 40)<br>Victoire contre [[Maria Timofeeva]]<br>Victoire contre [[Elena Rybakina]] (WTA 2) |
 
 # Style et Caractéristiques
 - C'est une joueuse très équilibrée et régulière qui intègre en juin 2025 le club très fermé des joueuses qui ont gagné un tournoi sur les 3 types de surface.

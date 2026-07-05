@@ -22,9 +22,10 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre        | Année | Plateformes | Remarque |
-| ------------ | ----- | ----------- | -------- |
-| [[Gothic 1]] |       |             |          |
+| Titre               | Année | Plateformes | Remarque |
+| ------------------- | ----- | ----------- | -------- |
+| [[Gothic 1]]        | 2001  |             |          |
+| [[Gothic 1 Remake]] | 2026  |             |          |
 
 
 ## Mécaniques et innovations
