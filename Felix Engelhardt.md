@@ -7,15 +7,16 @@ type: personne
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Allemand
-- **Sport / Discipline** :  Cyclisme
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Jayco]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
 | Année | Compétition                             | Résultat | Remarque |
 | ----- | --------------------------------------- | -------- | -------- |
 | 2026  | [[Championnat d'Allemagne de Cyclisme]] | 1ier     |          |
+| 2024  | [[Tour d'Autriche]] - Xe étape          | 1ier     | CLM      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
