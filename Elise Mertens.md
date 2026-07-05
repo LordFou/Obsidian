@@ -65,7 +65,7 @@ type: personne
 | 2026  | [[Roland-Garros]] - Double                       | 1/8 tour      | avec [[Shuai Zhang]]                                                                                       |
 | 2026  | [[Tournoi de Berlin]] - Simple                   | 2e tour       |                                                                                                            |
 | 2026  | [[Tournoi de Bad Homburg]] - Simple              | 2e tour       | Défaite contre [[Naomi Osaka]] (WTA 15)                                                                    |
-| 2026  | [[Wimbledon]] - Simple                           | 3e tour       | Victoire contre [[Laura Siegemund]] (WTA 40)<br>Victoire contre [[Aryna Sabalenka]] (WTA 2)                |
+| 2026  | [[Wimbledon]] - Simple                           | 3e tour       | Victoire contre [[Laura Siegemund]] (WTA 40)<br>Victoire contre  [[Elena Rybakina]] (WTA 2)                |
 | 2026  | [[Wimbledon]] - Double                           | 2e tour       | avec [[Shuai Zhang]]                                                                                       |
 |       |                                                  |               |                                                                                                            |
 
