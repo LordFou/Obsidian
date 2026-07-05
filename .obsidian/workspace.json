@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Novak Djokovic.md",
+                "file": "Coupe du Monde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Novak Djokovic"
+              "title": "Coupe du Monde"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Novak",
+                "query": "Coupe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -208,7 +208,9 @@
   },
   "active": "33b8b6cfcd7e4d0a",
   "lastOpenFiles": [
+    "Coupe Davis.md",
     "Coupe du Monde.md",
+    "Loisirs/Sport/Compétitions/Novak Djokovic.md",
     "Loisirs/Sport/Aryna Sabalenka.md",
     "Loisirs/Sport/Sportifs/Naomi Osaka.md",
     "Elise Mertens.md",
@@ -235,8 +237,6 @@
     "Loisirs/Sport/Tadej Pogacar.md",
     "Isaac Del Toro.md",
     "conflict-files-obsidian-git.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Unrailed!.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Puni the Florist.md",
     "Attachments/image-707.webp",
     "Attachments/image-706.webp",
     "Attachments/image-705.webp",
