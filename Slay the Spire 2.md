@@ -11,18 +11,19 @@ type: game
 	- Studio : [[Mega Crit]]
 	- Personnalités : 
 - **Éditeur** : [[Mega Crit]]
-- **Plateformes** : 
-- **Franchise** : 
+- **Plateformes** : [[PC]]
+- **Franchise** : [[Franchise Slay The Spire]]
 - **Genre** : [[Deckbuilding]], [[Roguelite]], [[Coopération]]
-- **Résumé** : 
+- **Résumé** : vous essayez de vous frayer un chemin dans un donjon en affrontant des monstres à coup de deckbuilding.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : (Type de musique, Bande-son notable)
+- **Graphismes** : [[2D]]
+- **Audio** : 
 - **Réception critique** : 
 	- 3 millions de vente en une semaine
-- **Gameplay** :
+- **Gameplay** : 
+	- Quasi identique au premier de la franchise mais avec d'autres cartes, d'autres monstres, d'autres mécanique et surtout de la coop !
 - **Durée estimée** : 
 
 ## Histoire et Univers
@@ -34,6 +35,7 @@ type: game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[Slay the Spire]]
 ## Anecdotes et Curiosités
 - A subi 2 review bombing
 		- 1 organisé par les chinois qui n'ont pas accès aux serveurs steam pour se plaindre

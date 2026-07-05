@@ -32,6 +32,8 @@ type: game
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
+	- [[Monster Train]]
+	  [[Monster Train 2]]
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - 

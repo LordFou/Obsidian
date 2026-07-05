@@ -37,6 +37,6 @@
 - Des drones américains seraient entrainés sur base des données du jeu. Lorsque l'on scanne des points de contrôles.
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | {{ url }} |
+| Description                                           | URL                                                         |
+| ----------------------------------------------------- | ----------------------------------------------------------- |
+| Article (NDL) - Suspicion d'aide à l'armée américaine | https://www.trouw.nl/redactie/PokemonGo/?ref=temalesjeux.fr |
