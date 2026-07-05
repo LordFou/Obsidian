@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Tour de France.md",
+                "file": "Loisirs/Sport/Sportifs/Brent Van doninck.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour de France"
+              "title": "Brent Van doninck"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Brent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,8 +208,12 @@
   },
   "active": "33b8b6cfcd7e4d0a",
   "lastOpenFiles": [
-    "Felix Engelhardt.md",
+    "Loisirs/Sport/Sportifs/Lucas Coenen.md",
     "Loisirs/Sport/Tour de France.md",
+    "Culture/L'extrême droite.md",
+    "Attachments/image-709.webp",
+    "Attachments/image-708.webp",
+    "Felix Engelhardt.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Loisirs/Sport/Tadej Pogacar.md",
     "Isaac Del Toro.md",
@@ -232,8 +236,6 @@
     "Llamaware Studios.md",
     "Journal de bord/2026-07-02.md",
     "Indoor Astronaut.md",
-    "Franchise Unrailed.md",
-    "Franchise Total War.md",
     "Attachments/image-707.webp",
     "Attachments/image-706.webp",
     "Attachments/image-705.webp",
@@ -242,8 +244,6 @@
     "Attachments/image-702.webp",
     "Attachments/image-701.webp",
     "Attachments/image-700.webp",
-    "Attachments/image-699.webp",
-    "Attachments/image-698.webp",
     "Commode 16 Plus"
   ]
 }

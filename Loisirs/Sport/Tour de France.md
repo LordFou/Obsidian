@@ -21,7 +21,7 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 |          | Vainqueur          | Général              | Montagne          | Points             | Jeune              | Combattif            | Remarques                                                                                                                        |
 | -------- | ------------------ | -------------------- | ----------------- | ------------------ | ------------------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | 1e (NDL) | [[Visma]]          | [[Jonas Vingegaard]] | [[Tadej Pogacar]] | [[Egan Bernal]]    | [[Juan Ayuso]]     |                      | CLM par équipe<br>5e - [[Remco Evenepoel]]<br>3 chutes au même endroit sur le parcours dont une qui provoque le premier abandon. |
-| 2e (MEX) | [[Isaac Del Toro]] | [[Jonas Vingegaard]] |                   | [[Isaac Del Toro]] | [[Isaac Del Toro]] | [[Felix Engelhardt]] | 2e - [[Tadej Pogacar]]<br>3e - [[Remco Evenepoel]]                                                                               |
+| 2e (MEX) | [[Isaac Del Toro]] | [[Jonas Vingegaard]] | [[Alex Molenaar]] | [[Isaac Del Toro]] | [[Isaac Del Toro]] | [[Felix Engelhardt]] | 2e - [[Tadej Pogacar]]<br>3e - [[Remco Evenepoel]]                                                                               |
 ## Femmes %% fold %%
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
