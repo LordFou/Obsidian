@@ -12,7 +12,7 @@ type: event
 | ----- | ------------------ | ------- | ----------- | -------- |
 | 2025  | [[Lando Norris]]   | Course  | Britannique |          |
 | 2026  | [[Kimi Antonelli]] | Sprint  | Italien     |          |
-|       |                    |         |             |          |
+| 2026  |                    |         |             |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

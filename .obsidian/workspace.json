@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Brent Van doninck.md",
+                "file": "Grand Prix de Grande-Bretagne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brent Van doninck"
+              "title": "Grand Prix de Grande-Bretagne"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Brent",
+                "query": "Grand Prix de Grande",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -208,6 +208,8 @@
   },
   "active": "33b8b6cfcd7e4d0a",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Brent Van doninck.md",
+    "Elise Mertens.md",
     "Loisirs/Sport/Sportifs/Lucas Coenen.md",
     "Loisirs/Sport/Tour de France.md",
     "Culture/L'extrême droite.md",
@@ -234,8 +236,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Burglin' Gnomes.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Apocalypse Express.md",
     "Llamaware Studios.md",
-    "Journal de bord/2026-07-02.md",
-    "Indoor Astronaut.md",
     "Attachments/image-707.webp",
     "Attachments/image-706.webp",
     "Attachments/image-705.webp",
