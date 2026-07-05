@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "01c0e651ff200a76",
+        "id": "4e09f2820c1f7097",
         "type": "tabs",
         "children": [
           {
-            "id": "4e4eb650957e740b",
+            "id": "cdf37515e358596f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serena Williams.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Serena Williams"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -205,8 +201,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4e4eb650957e740b",
+  "active": "cdf37515e358596f",
   "lastOpenFiles": [
+    "Journal de bord/2026-07-05.md",
+    "Serena Williams.md",
     "Coupe du Monde.md",
     "Elise Mertens.md",
     "Zizou Bergs.md",
@@ -234,8 +232,6 @@
     "Loisirs/Sport/Sportifs/Liam Everts.md",
     "Les Soeurs Williams.md",
     "Loisirs/Sport/Sportifs/Sacha Coenen.md",
-    "Championnat de Belgique de Cyclisme.md",
-    "Loisirs/Sport/Sportifs/Rune Herregodts.md",
     "Attachments/image-700.webp",
     "Attachments/image-699.webp",
     "Attachments/image-698.webp",
