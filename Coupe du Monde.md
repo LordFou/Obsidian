@@ -15,6 +15,7 @@ type: event
 	- Les joueurs iraniens ne peuvent débarquer aux USA que le jour de leur match.
 	- L'arbitre somalien interdit d'entrer sur le territoire US.
 	- Fouilles des équipes du Sénégal et de l'Ouzbékistan.
+	- Le meilleur attaquant américain ne sera pas suspendu de sa carte rouge pour le 8e finale contre la Belgique. Choix unilatéral de la FIFA. ([[Donald Trump]] remercie [[Gianni Infantino]])
 
 ## Phase de groupe %% fold %%
 ### Groupe A
