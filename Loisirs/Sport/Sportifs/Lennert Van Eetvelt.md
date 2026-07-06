@@ -22,6 +22,7 @@ type: personne
 | 2026  | [[UAE Tour]] - Classement final | 6e       |          |
 | 2026  | [[GP Miguel Indurain]]          | 7e       |          |
 | 2026  | [[Tour d'Italie]]               | Abandon  | Chute    |
+| 2026  | [[Tour de France]] - 3e étape   | 6e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
