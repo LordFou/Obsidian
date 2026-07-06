@@ -2,9 +2,14 @@
 ## Football
 - Lors de la [[Coupe du Monde]] 2026, un arbitre du VAR, aurait fait un signe suprémaciste lors de la présentation des arbitres
   ![[image-679.webp|500x281]] 
-# Pologne
+
+# Pays
+## USA
+- Lors du 250e anniversaire des USA; un groupe néo nazi, le "Patriot Front" parade sans aucun problème en plein jour.
+  ![[image-708.webp|500x333]]
+## Pologne
 - Juin 2025 : les nationalistes remportent les élections
-# France
+## France
 
 ## Médias
 
@@ -35,6 +40,8 @@
 - Les Zouaves
 - Hussards Paris, un groupe héritier des Zouaves
 - Citoyens souverains (US)
+- Patrio Front (US)
+  ![[image-709.webp|500x319]]
 - C9M (France)
 	- Tambour : même design que ceux utilisés par les anciennes jeunesses facistes.
 	- [[Croix gammée]]

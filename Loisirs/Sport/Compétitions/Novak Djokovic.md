@@ -31,6 +31,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - 1ier joueur à avoir remporté les neuf tournois de catégorie Masters 1000, la plus importante après celle du Grand Chelem
 - Il a le record du plus grand nombre de matchs joués dans un tournoi du [[Grand Chelem]]
 - 24 titres du [[Grand Chelem]]
+- Record du nombre de victoire en simple à Wimbledon (106)
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

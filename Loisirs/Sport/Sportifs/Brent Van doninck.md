@@ -13,15 +13,16 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition             | Résultat | Remarque |
-| ----- | ----------------------- | -------- | -------- |
-| 2026  | Grand Prix d'Argentine  | 12e      |          |
-| 2026  | Grand Prix d'Andalousie | 17e      |          |
-| 2026  | Grand Prix de Suisse    | 33e,34e  |          |
-| 2026  | Grand Prix de Sardaigne | 16e      |          |
-| 2026  | Grand Prix du Trentin   | 21e      |          |
-| 2026  | Grand Prix de France    | 17e      |          |
-| 2026  | Grand Prix d'Allemagne  | 15e      |          |
+| Année | Compétition                 | Résultat | Remarque |
+| ----- | --------------------------- | -------- | -------- |
+| 2026  | Grand Prix d'Argentine      | 12e      |          |
+| 2026  | Grand Prix d'Andalousie     | 17e      |          |
+| 2026  | Grand Prix de Suisse        | 33e,34e  |          |
+| 2026  | Grand Prix de Sardaigne     | 16e      |          |
+| 2026  | Grand Prix du Trentin       | 21e      |          |
+| 2026  | Grand Prix de France        | 17e      |          |
+| 2026  | Grand Prix d'Allemagne      | 15e      |          |
+| 2026  | Grand Prix d'Afrique du Sud | 17e      |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

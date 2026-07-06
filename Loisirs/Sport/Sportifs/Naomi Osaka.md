@@ -11,16 +11,17 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
+- Top Ranking : 14
 
 # Palmarès et Distinctions
-| Année | Compétition         | Résultat   | Remarque                                   |
-| ----- | ------------------- | ---------- | ------------------------------------------ |
-| 2018  | [[US Open]]         | Vainqueure |                                            |
-| 2019  | [[Australian Open]] | Vainqueure |                                            |
-| 2020  | [[US Open]]         | Vainqueure |                                            |
-| 2021  | [[Australian Open]] | Vainqueure |                                            |
-| 2026  | [[Roland-Garros]]   | 1/8 finale | Défaite contre [[Aryna Sabalenka]] (WTA 1) |
-|       |                     |            |                                            |
+| Année | Compétition         | Résultat   | Remarque                                    |
+| ----- | ------------------- | ---------- | ------------------------------------------- |
+| 2018  | [[US Open]]         | Vainqueure |                                             |
+| 2019  | [[Australian Open]] | Vainqueure |                                             |
+| 2020  | [[US Open]]         | Vainqueure |                                             |
+| 2021  | [[Australian Open]] | Vainqueure |                                             |
+| 2026  | [[Roland-Garros]]   | 1/8 finale | Défaite contre [[Aryna Sabalenka]] (WTA 1)  |
+| 2026  | [[Wimbledon]]       | 1/8 finale | Victoire contre [[Aryna Sabalenka]] (WTA 1) |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

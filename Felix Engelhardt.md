@@ -13,10 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                             | Résultat | Remarque |
-| ----- | --------------------------------------- | -------- | -------- |
-| 2026  | [[Championnat d'Allemagne de Cyclisme]] | 1ier     |          |
-| 2024  | [[Tour d'Autriche]] - Xe étape          | 1ier     | CLM      |
+| Année | Compétition                               | Résultat | Remarque |
+| ----- | ----------------------------------------- | -------- | -------- |
+| 2024  | [[Tour d'Autriche]] - Xe étape            | ==1ier==     | CLM      |
+| 2026  | [[Championnat d'Allemagne de Cyclisme]]   | ==1ier==     |          |
+| 2026  | [[Tour de France]] - 2e étape - Combattif | ==1ier==     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
