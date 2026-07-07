@@ -25,14 +25,14 @@
             "id": "08126a06f878151e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -222,8 +222,8 @@
   },
   "active": "08126a06f878151e",
   "lastOpenFiles": [
-    "Coupe du Monde.md",
     "conflict-files-obsidian-git.md",
+    "Coupe du Monde.md",
     "Journal de bord/2026-07-06.md",
     "Journal de bord/2026-07-07.md",
     "Coupe Davis.md",
