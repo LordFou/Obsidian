@@ -15,7 +15,10 @@ type: event
 	- Les joueurs iraniens ne peuvent débarquer aux USA que le jour de leur match.
 	- L'arbitre somalien interdit d'entrer sur le territoire US.
 	- Fouilles des équipes du Sénégal et de l'Ouzbékistan.
-	- Le meilleur attaquant américain ne sera pas suspendu de sa carte rouge pour le 8e finale contre la Belgique. Choix unilatéral de la FIFA. ([[Donald Trump]] remercie [[Gianni Infantino]]) => https://www.nytimes.com/2026/07/05/us/trump-fifa-balogun-world-cup.html?unlocked_article_code=1.vVA.-Etz.7Jrw_FsOGg3S
+	- Le meilleur attaquant américain ne sera pas suspendu de sa carte rouge pour le 8e finale contre la Belgique. 
+		- Choix unilatéral de la FIFA. ([[Donald Trump]] remercie [[Gianni Infantino]]) 
+		- [Article New-York Times](https://www.nytimes.com/2026/07/05/us/trump-fifa-balogun-world-cup.html?unlocked_article_code=1.vVA.-Etz.7Jrw_FsOGg3S) prouvant l'implication du chef d'état
+		- Quelques heures plus tard, il assume son [intervention](https://www.rtbf.be/article/donald-trump-confirme-et-assume-dans-l-affaire-balogun-oui-j-ai-demande-un-reexamen-a-la-fifa-je-ne-pensais-pas-que-c-etait-faute-11753627)
 
 ## Phase de groupe %% fold %%
 ### Groupe A
@@ -277,8 +280,8 @@ type: event
 | Sam. 4 juillet | 19:00 | Canada - Maroc        | 0-2      |
 | Sam. 4 juillet | 23:00 | Paraguay - France     | 0-1      |
 | Dim. 5 juillet | 22:00 | Brésil - Norvège      | 1-2      |
-| Lun. 6 juillet | 02:00 | Mexique - Angleterre  |          |
-| Lun. 6 juillet | 21:00 | Portugal–Espagne      |          |
+| Lun. 6 juillet | 02:00 | Mexique - Angleterre  | 2-3      |
+| Lun. 6 juillet | 21:00 | Portugal–Espagne      | 0-1      |
 | Mar. 7 juillet | 02:00 | États-Unis - Belgique |          |
 | Mar. 7 juillet | 18:00 | Argentine–Égypte      |          |
 | Mar.7 juillet  | 22:00 | Suisse–Colombie       |          |

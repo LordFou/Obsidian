@@ -79,6 +79,7 @@ type: personne
 | 2026  | [[Amstel Gold Race]]                                                             | ==1ier== |                                                                                                                       |
 | 2026  | [[Liège-Bastogne-Liège]]                                                         | 3e       |                                                                                                                       |
 | 2026  | [[Tour de France]] - 2e étape                                                    | 3e       |                                                                                                                       |
+| 2026  | [[Tour de France]] - 3e étape                                                    | 8e       |                                                                                                                       |
 ## Historique
 ```timeline-labeled
 [line-5, body-2]
