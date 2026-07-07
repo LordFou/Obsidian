@@ -7,7 +7,7 @@ type: team
 | Année | Epreuve            | Résultat                                             | Remarque |
 | ----- | ------------------ | ---------------------------------------------------- | -------- |
 | 2026  | Matchs Amicaux     | Croatie - Belgique (0-2)<br>Belgique - Tunisie (5-0) |          |
-| 2026  | [[Coupe du Monde]] |                                                      |          |
+| 2026  | [[Coupe du Monde]] | 1/4 finale                                           |          |
 |       |                    |                                                      |          |
 Tous les résultats de match des [[Diables Rouges]] => [RTBF Sport](https://www.rtbf.be/article/de-1904-a-nos-jours-les-diables-rouges-sur-une-carte-du-monde-infographie-interactive-11736279)
 

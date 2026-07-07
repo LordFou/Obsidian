@@ -282,8 +282,8 @@ type: event
 | Dim. 5 juillet | 22:00 | Brésil - Norvège      | 1-2      |
 | Lun. 6 juillet | 02:00 | Mexique - Angleterre  | 2-3      |
 | Lun. 6 juillet | 21:00 | Portugal–Espagne      | 0-1      |
-| Mar. 7 juillet | 02:00 | États-Unis - Belgique |          |
-| Mar. 7 juillet | 18:00 | Argentine–Égypte      |          |
+| Mar. 7 juillet | 02:00 | États-Unis - Belgique | 1-4      |
+| Mar. 7 juillet | 18:00 | Argentine–Égypte      | 3-2      |
 | Mar.7 juillet  | 22:00 | Suisse–Colombie       |          |
 
 ## 1/4 Finale
