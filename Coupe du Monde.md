@@ -280,8 +280,8 @@ type: event
 | Sam. 4 juillet | 19:00 | Canada - Maroc        | 0-2      |
 | Sam. 4 juillet | 23:00 | Paraguay - France     | 0-1      |
 | Dim. 5 juillet | 22:00 | Brésil - Norvège      | 1-2      |
-| Lun. 6 juillet | 02:00 | Mexique - Angleterre  |          |
-| Lun. 6 juillet | 21:00 | Portugal–Espagne      |          |
+| Lun. 6 juillet | 02:00 | Mexique - Angleterre  | 2-3      |
+| Lun. 6 juillet | 21:00 | Portugal–Espagne      | 0-1      |
 | Mar. 7 juillet | 02:00 | États-Unis - Belgique |          |
 | Mar. 7 juillet | 18:00 | Argentine–Égypte      |          |
 | Mar.7 juillet  | 22:00 | Suisse–Colombie       |          |
