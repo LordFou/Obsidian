@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                          | Résultat | Remarque |
-| ----- | ------------------------------------ | -------- | -------- |
-| 2026  | [[Critérium du Dauphiné]] - 1e étape | 1ier     |          |
+| Année | Compétition                               | Résultat | Remarque |
+| ----- | ----------------------------------------- | -------- | -------- |
+| 2026  | [[Critérium du Dauphiné]] - 1e étape      | ==1ier==     |          |
+| 2026  | [[Tour de France]] - 3e étape - Combattif | ==1ier== |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
