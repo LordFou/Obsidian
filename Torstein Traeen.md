@@ -1,13 +1,13 @@
 ---
 type: personne
 ---
-
+![[image-710.webp|207x256]]
 # Torstein Traeen
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Nationalité** :  Norvégien
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
