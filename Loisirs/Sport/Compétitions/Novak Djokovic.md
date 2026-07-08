@@ -13,16 +13,16 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition              | Résultat    | Remarque                          |
-| ----- | ------------------------ | ----------- | --------------------------------- |
-| 2016  | [[Roland-Garros]]        | Vainqueur   |                                   |
-| 2021  | [[Roland-Garros]]        | Vainqueur   |                                   |
-| 2023  | [[Roland-Garros]]        | Vainqueur   |                                   |
-| 2026  | [[Australian Open]]      | Finaliste   | Défaite contre [[Carlos Alcaraz]] |
-| 2026  | [[Tournoi Indian Wells]] | 1/8e finale |                                   |
-| 2026  | [[Tournoi de Rome]]      | 1e tour     | !!                                |
-| 2026  | [[Roland-Garros]]        | 3e tour     | Défaite contre [[Joao Fonseca]]   |
-|       |                          |             |                                   |
+| Année | Compétition              | Résultat    | Remarque                                          |
+| ----- | ------------------------ | ----------- | ------------------------------------------------- |
+| 2016  | [[Roland-Garros]]        | Vainqueur   |                                                   |
+| 2021  | [[Roland-Garros]]        | Vainqueur   |                                                   |
+| 2023  | [[Roland-Garros]]        | Vainqueur   |                                                   |
+| 2026  | [[Australian Open]]      | Finaliste   | Défaite contre [[Carlos Alcaraz]]                 |
+| 2026  | [[Tournoi Indian Wells]] | 1/8e finale |                                                   |
+| 2026  | [[Tournoi de Rome]]      | 1e tour     | !!                                                |
+| 2026  | [[Roland-Garros]]        | 3e tour     | Défaite contre [[Joao Fonseca]]                   |
+| 2026  | [[Wimbledon]]            | 1/2 finale  | Victoire contre [[Felix Auger-Aliassime]] (ATP 4) |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -32,6 +32,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - Il a le record du plus grand nombre de matchs joués dans un tournoi du [[Grand Chelem]]
 - 24 titres du [[Grand Chelem]]
 - Record du nombre de victoire en simple à Wimbledon (106)
+- Il a participé au quart de finale le plus long de l'histoire de [[Wimbledon]] (5h15)
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
