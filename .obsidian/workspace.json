@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coupe du Monde.md",
+                "file": "Baptiste Veistroffer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coupe du Monde"
+              "title": "Baptiste Veistroffer"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Coupe du Monde",
+                "query": "Arthur Fé",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,8 +206,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc7cba47acc9188f",
+  "active": "571b06dbd1c46b81",
   "lastOpenFiles": [
+    "Loisirs/Sport/Tour de France.md",
+    "Jasper Philipsen.md",
+    "Tim Merlier.md",
+    "Loisirs/Sport/Olav Kooij.md",
+    "Elise Mertens.md",
+    "Coupe du Monde.md",
     "Loisirs/Sport/Compétitions/Novak Djokovic.md",
     "Felix Auger-Aliassime.md",
     "Wimbledon.md",
@@ -218,7 +225,6 @@
     "Lionel Messi.md",
     "Torstein Traeen.md",
     "Attachments/image-710.webp",
-    "Loisirs/Sport/Tour de France.md",
     "Loisirs/Sport/Mads Pedersen.md",
     "Pablo Castrillo.md",
     "Loisirs/Sport/Sportifs/Alex Baudin.md",
@@ -230,11 +236,6 @@
     "Felix Engelhardt.md",
     "Diables Rouges.md",
     "Romelu Lukaku.md",
-    "Coupe du Monde.md",
-    "conflict-files-obsidian-git.md",
-    "Journal de bord/2026-07-06.md",
-    "Journal de bord/2026-07-07.md",
-    "Coupe Davis.md",
     "Généalogie des Jeux Vidéos.canvas",
     "Attachments/image-709.webp",
     "Attachments/image-708.webp",
