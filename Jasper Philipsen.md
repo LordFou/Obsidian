@@ -37,6 +37,7 @@ type: personne
 | 2026  | [[Tour de Belgique]] - 5e étape                                          | ==1ier== |                                                           |
 | 2026  | [[Tour de Belgique]] - Classement final                                  | ==1ier== |                                                           |
 | 2026  | [[Tour de France]] - 5e étape                                            | 5e       |                                                           |
+| 2026  | [[Tour de France]] - 7e étape                                            | 5e       |                                                           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

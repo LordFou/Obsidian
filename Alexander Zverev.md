@@ -25,6 +25,7 @@ type: personne
 | 2026  | [[Tournoi de Madrid]] | Finaliste  | Défaite contre [[Jannik Sinner]]   |
 | 2026  | [[Roland-Garros]]     | Vainqueur  | Victoire contre [[Flavio Cobolli]] |
 | 2026  | [[Tournoi de Halle]]  | 1/2 finale |                                    |
+| 2026  | [[Wimbledon]]         | Finaliste  |                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

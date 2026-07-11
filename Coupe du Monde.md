@@ -294,8 +294,8 @@ type: event
 
 | Date                | Heure | Match                | Résultat |
 | ------------------- | ----- | -------------------- | -------- |
-| Jeudi 9 juillet     | 22:00 | France - Maroc       |          |
-| Vendredi 10 juillet | 21:00 | Espagne - Belgique   |          |
+| Jeudi 9 juillet     | 22:00 | France - Maroc       | 2-0      |
+| Vendredi 10 juillet | 21:00 | Espagne - Belgique   | 2-1      |
 | Samedi 11 juillet   | 23:00 | Norvège - Angleterre |          |
 | Dimanche 12 juillet | 03:00 | Argentine - Suisse   |          |
 

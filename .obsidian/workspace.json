@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Linda Noskova.md",
+                "file": "Baptiste Veistroffer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linda Noskova"
+              "title": "Baptiste Veistroffer"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Karolina Muchova",
+                "query": "Zvere",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,10 +207,14 @@
   },
   "active": "15fc350da523b559",
   "lastOpenFiles": [
+    "Loisirs/Sport/Tour de France.md",
+    "Jasper Philipsen.md",
+    "Tim Merlier.md",
+    "Alexander Zverev.md",
+    "Coupe du Monde.md",
     "Loisirs/Sport/Sportifs/Karolina Muchova.md",
     "Loisirs/Sport/Sportifs/Linda Noskova.md",
     "Elise Mertens.md",
-    "Loisirs/Sport/Tour de France.md",
     "Loisirs/Sport/Tadej Pogacar.md",
     "conflict-files-obsidian-git.md",
     "Attachments/image-710.webp",
@@ -220,7 +225,6 @@
     "Attachments/image-711.webp",
     "Cian Uijtdebroeks.md",
     "Journal de bord/2026-07-11.md",
-    "Coupe du Monde.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Loisirs/Sport/Sportifs/Lennert Van Eetvelt.md",
     "Loisirs/Sport/Arnaud de Lie.md",
@@ -233,9 +237,6 @@
     "Attachments/image-709.webp",
     "Attachments/image-708.webp",
     "Abrakam Entertainment SA.md",
-    "Journal de bord/2026-07-06.md",
-    "Famille/Cadeaux/Liste de cadeau Tim.md",
-    "Famille/Membres/Tim.md",
     "Attachments/image-707.webp",
     "Attachments/image-706.webp",
     "Attachments/image-705.webp",
