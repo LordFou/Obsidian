@@ -13,58 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/Archives/2025-07-13.md",
+                "file": "Coupe du Monde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-13"
-            },
-            "group": "45df4f1b6e904703"
-          }
-        ]
-      },
-      {
-        "id": "ea2b9debb5bc1847",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ce633635b5b417b5",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Journal de bord/Archives/2025-07-13.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graphique de 2025-07-13"
-            },
-            "group": "45df4f1b6e904703"
+              "title": "Coupe du Monde"
+            }
           }
         ]
       }
@@ -98,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sinner",
+                "query": "Coupe",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -130,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,11 +207,16 @@
   },
   "active": "15fc350da523b559",
   "lastOpenFiles": [
+    "Attachments/image-712.webp",
+    "Jana Van Lent.md",
+    "Loisirs/Sport/Sportifs/Ben Broeders.md",
+    "Isaac Kimeli.md",
+    "Wimbledon.md",
     "David Sinner.md",
+    "Tournoi de Cincinnati.md",
+    "Journal de bord/Archives/2025-07-13.md",
     "Zizou Bergs.md",
     "Loisirs/Sport/Compétitions/Masters 1.000 de Paris.md",
-    "Wimbledon.md",
-    "Tournoi de Cincinnati.md",
     "Jannik Sinner.md",
     "Roland-Garros.md",
     "Tournoi de Paris.md",
@@ -273,12 +233,7 @@
     "Loisirs/Sport/Sportifs/Karolina Muchova.md",
     "Loisirs/Sport/Sportifs/Linda Noskova.md",
     "Elise Mertens.md",
-    "Loisirs/Sport/Tadej Pogacar.md",
-    "conflict-files-obsidian-git.md",
     "Attachments/image-710.webp",
-    "Uno-x.md",
-    "Pablo Castrillo.md",
-    "Journal de bord/2026-07-08.md",
     "Attachments/image-711.webp",
     "Attachments/image-709.webp",
     "Attachments/image-708.webp",
