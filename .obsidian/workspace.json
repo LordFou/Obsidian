@@ -20,8 +20,49 @@
               "icon": "lucide-file",
               "title": "Tour de France"
             }
+          },
+          {
+            "id": "43c85c2e0e93141d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/image-710.webp"
+              },
+              "icon": "lucide-image",
+              "title": "image-710"
+            }
+          },
+          {
+            "id": "92846fbab71e0c7e",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          },
+          {
+            "id": "b9de0d67fb3cbe55",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/various-complements/histories.json",
+                "bFile": ".obsidian/plugins/various-complements/histories.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: histories.json  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,18 +245,23 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "15fc350da523b559",
+  "active": "b9de0d67fb3cbe55",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Attachments/image-710.webp",
+    "Loisirs/Sport/Tour de France.md",
+    "Uno-x.md",
+    "Pablo Castrillo.md",
+    "Journal de bord/2026-07-08.md",
+    "Journal de bord/2026-07-07.md",
+    "Attachments/image-711.webp",
     "Cian Uijtdebroeks.md",
     "Journal de bord/2026-07-11.md",
-    "Attachments/image-710.webp",
     "Coupe du Monde.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
-    "Loisirs/Sport/Tour de France.md",
     "Loisirs/Sport/Sportifs/Lennert Van Eetvelt.md",
     "Loisirs/Sport/Arnaud de Lie.md",
     "Elise Mertens.md",
-    "conflict-files-obsidian-git.md",
     "Save Sloth Studios.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Wildfrost.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Royal Writ.md",
@@ -230,18 +276,12 @@
     "Famille/Membres/Tim.md",
     "Famille/Cadeaux/Liste de cadeau pour Norah.md",
     "Culture/Géographie/Espagne.md",
-    "Loisirs/Sport/Compétitions/Tour d'Oman.md",
-    "Baptiste Veistroffer.md",
-    "Felix Engelhardt.md",
-    "Biniam Girmay.md",
-    "Tour d'Autriche.md",
     "Attachments/image-707.webp",
     "Attachments/image-706.webp",
     "Attachments/image-705.webp",
     "Attachments/image-704.webp",
     "Attachments/image-703.webp",
     "Attachments/image-702.webp",
-    "Attachments/image-701.webp",
     "Loisirs/Sport/Compétitions/Sans titre",
     "Sans titre",
     "TI-99",

@@ -13,16 +13,17 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition       | Résultat  | Remarque |
-| ----- | ----------------- | --------- | -------- |
-| 2022  | [[Tournoi de Bruxelles]] | Vainqueur |          |
-| 2025  | [[Tournoi de Bruxelles]] | Vainqueur |          |
+| Année | Compétition              | Résultat   | Remarque                                  |
+| ----- | ------------------------ | ---------- | ----------------------------------------- |
+| 2022  | [[Tournoi de Bruxelles]] | Vainqueur  |                                           |
+| 2025  | [[Tournoi de Bruxelles]] | Vainqueur  |                                           |
+| 2026  | [[Wimbledon]]            | 1/4 finale | Défaite contre [[Novak Djokovic]] (ATP 2) |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+-  Il a participé au quart de finale le plus long de l'histoire de [[Wimbledon]] (5h15) en 2026
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

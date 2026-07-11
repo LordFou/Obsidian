@@ -50,6 +50,7 @@ type: personne
 | 2026  | [[Tour de Belgique]] - 1e étape                            | 2e       |                                |                                              |
 | 2026  | [[Tour de Belgique]] - 2e étape                            | ==1ier== |                                |                                              |
 | 2026  | [[Tour de Belgique]] - 4e étape                            | 2e       |                                |                                              |
+| 2026  | [[Tour de France]] - 5e étape                              | 3e       |                                |                                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

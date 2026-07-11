@@ -13,15 +13,15 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition        | Résultat         | Remarque                    |
+| ----- | ------------------ | ---------------- | --------------------------- |
+| 2018  | [[Coupe du Monde]] | Demi-finale (3e) | avec les [[Diables Rouges]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Selon Opta, il est devenu le premier joueur à marquer en tant que remplaçant lors de quatre matches différents en Coupe du Monde. 
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

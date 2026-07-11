@@ -10,6 +10,11 @@ type: event
 
 ![[image-668.webp|181x278]]
 
+- Performances
+	- La France se balade jusqu'au match de 1/8e contre le Paraguay où ce fut une hécatombe de fautes, surtout venant de leur adversaire. Mais ils passent.
+	- L'Espagne possède la meilleure défense jusqu'en 1/4, aucun but encaissé.
+	- L'Argentine s'en sort pas mal jusque là avec un [[Lionel Messi]] en vrai Dieu du [[Football]].
+	- La Belgique souffle le chaud et le froid mais surtout elle humilie les USA et [[Donald Trump]] par leur intermédiaire.
 - Scandales
 	- Les supporters iraniens empêchés de venir dans les stades.
 	- Les joueurs iraniens ne peuvent débarquer aux USA que le jour de leur match.
@@ -275,18 +280,24 @@ type: event
 | Sam. 4 juillet | 03:30 | Colombie - Ghana                | 1-0              |
 ## 1/8e Finale
 
-| Date           | Heure | Match                 | Résultat |
-| -------------- | ----- | --------------------- | -------- |
-| Sam. 4 juillet | 19:00 | Canada - Maroc        | 0-2      |
-| Sam. 4 juillet | 23:00 | Paraguay - France     | 0-1      |
-| Dim. 5 juillet | 22:00 | Brésil - Norvège      | 1-2      |
-| Lun. 6 juillet | 02:00 | Mexique - Angleterre  | 2-3      |
-| Lun. 6 juillet | 21:00 | Portugal–Espagne      | 0-1      |
-| Mar. 7 juillet | 02:00 | États-Unis - Belgique |          |
-| Mar. 7 juillet | 18:00 | Argentine–Égypte      |          |
-| Mar.7 juillet  | 22:00 | Suisse–Colombie       |          |
-
+| Date           | Heure | Match                 | Résultat        |
+| -------------- | ----- | --------------------- | --------------- |
+| Sam. 4 juillet | 19:00 | Canada - Maroc        | 0-2             |
+| Sam. 4 juillet | 23:00 | Paraguay - France     | 0-1             |
+| Dim. 5 juillet | 22:00 | Brésil - Norvège      | 1-2             |
+| Lun. 6 juillet | 02:00 | Mexique - Angleterre  | 2-3             |
+| Lun. 6 juillet | 21:00 | Portugal–Espagne      | 0-1             |
+| Mar. 7 juillet | 02:00 | États-Unis - Belgique | 1-4             |
+| Mar. 7 juillet | 18:00 | Argentine–Égypte      | 3-2             |
+| Mar.7 juillet  | 22:00 | Suisse–Colombie       | 0-0 (TàB : 4-3) |
 ## 1/4 Finale
+
+| Date                | Heure | Match                | Résultat |
+| ------------------- | ----- | -------------------- | -------- |
+| Jeudi 9 juillet     | 22:00 | France - Maroc       |          |
+| Vendredi 10 juillet | 21:00 | Espagne - Belgique   |          |
+| Samedi 11 juillet   | 23:00 | Norvège - Angleterre |          |
+| Dimanche 12 juillet | 03:00 | Argentine - Suisse   |          |
 
 # Hall of fame
 ## Hommes

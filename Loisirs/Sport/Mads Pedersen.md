@@ -15,25 +15,28 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                         | Résultat | Remarque                   |
 | ----- | ------------------------------------------------------------------- | -------- | -------------------------- |
-| 2019  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - Course         | 1ier     |                            |
-| 2024  | [[Tour d'Allemagne]] - Classement final                             | 1oer     |                            |
-| 2025  | [[Gand Wevelgem]]                                                   | 1ier     |                            |
-| 2025  | ?                                                                   | 1ier     |                            |
-| 2025  | ?                                                                   | 1ier     |                            |
-| 2025  | ?                                                                   | 1ier     |                            |
-| 2025  | [[Tour d'Italie]] - 1e étape                                        | 1ier     |                            |
-| 2025  | Tour d'Italie - 2e étape                                            | 1ier     |                            |
-| 2025  | Tour d'Italie - 5e étape                                            | 1ier     |                            |
-| 2025  | Tour d'Italie - 13e étape                                           | 1ier     | Sprint pour les punchers   |
-| 2025  | [[Championnat du Danemark de Cyclisme\|Championnat National]] - CLM | 1ier     |                            |
-| 2025  | [[Tour du Danemark]] - 1e étape                                     | 1ier     | :luc_plus: Maillot général |
-| 2025  | [[Tour du Danemark]] - 4e étape                                     | 1ier     |                            |
-| 2025  | [[Tour du Danemark]] - 5e étape                                     | 1ier     |                            |
-| 2025  | [[Tour du Danemark]] - Classement Final                             | 1ier     |                            |
-| 2025  | [[Tour d'Espagne]] - Maillot Points                                 | 1ier     |                            |
+| 2019  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - Course         | ==1ier==     |                            |
+|       |                                                                     |          |                            |
+| 2024  | [[Tour d'Allemagne]] - Classement final                             | ==1ier==     |                            |
+|       |                                                                     |          |                            |
+| 2025  | [[Gand Wevelgem]]                                                   | ==1ier== |                            |
+| 2025  | ?                                                                   | ==1ier== |                            |
+| 2025  | ?                                                                   | ==1ier== |                            |
+| 2025  | ?                                                                   | ==1ier== |                            |
+| 2025  | [[Tour d'Italie]] - 1e étape                                        | ==1ier== |                            |
+| 2025  | Tour d'Italie - 2e étape                                            | ==1ier== |                            |
+| 2025  | Tour d'Italie - 5e étape                                            | ==1ier== |                            |
+| 2025  | Tour d'Italie - 13e étape                                           | ==1ier== | Sprint pour les punchers   |
+| 2025  | [[Championnat du Danemark de Cyclisme\|Championnat National]] - CLM | ==1ier== |                            |
+| 2025  | [[Tour du Danemark]] - 1e étape                                     | ==1ier== | :luc_plus: Maillot général |
+| 2025  | [[Tour du Danemark]] - 4e étape                                     | ==1ier== |                            |
+| 2025  | [[Tour du Danemark]] - 5e étape                                     | ==1ier== |                            |
+| 2025  | [[Tour du Danemark]] - Classement Final                             | ==1ier== |                            |
+| 2025  | [[Tour d'Espagne]] - Maillot Points                                 | ==1ier== |                            |
 |       |                                                                     |          |                            |
 | 2026  | [[Milan San Remo]]                                                  | 4e       |                            |
 | 2026  | [[Tour des Flandres]]                                               | 5e       |                            |
+| 2026  | [[Tour de France]] - 4e étape                                       | ==1ier== |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
