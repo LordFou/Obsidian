@@ -14,19 +14,21 @@ type: personne
 - **Top Ranking** : 1
 
 # Palmarès et Distinctions
-| Année | Compétition                         | Résultat        | Remarque                             |
-| ----- | ----------------------------------- | --------------- | ------------------------------------ |
-| 2025  | [[Roland-Garros]]                   | Finaliste       | Premier mondiale lors du tournoi     |
-| 2025  | [[Tournoi de Paris]]                | Vainqueur       |                                      |
-|       |                                     |                 |                                      |
-| 2026  | [[Tournoi de Doha]]                 | Quart de finale |                                      |
-| 2026  | [[Tournoi Indian Wells]]            | Vainqueur       | Victoire contre [[Daniil Medvedev]]  |
-| 2026  | [[Tournoi de Miami]]                | Vainqueur       |                                      |
-| 2026  | [[Tournoi de Monte-Carlo]] - Double | 2e tour         | avec [[Zizou Bergs]]                 |
-| 2026  | [[Tournoi de Monte-Carlo]]          | Vainqueur       | Victoire contre [[Carlos Alcaraz]]   |
-| 2026  | [[Tournoi de Madrid]]               | Vainqueur       | Victoire contre [[Alexander Zverev]] |
-| 2026  | [[Tournoi de Rome]]                 | Vainqueur       | Victoire contre [[Casper Ruud]]      |
-| 2026  | [[Roland-Garros]]                   | 2e tour         | Défaite sur blessure                 |
+| Année | Compétition                         | Résultat        | Remarque                                                              |
+| ----- | ----------------------------------- | --------------- | --------------------------------------------------------------------- |
+| 2025  | [[Roland-Garros]]                   | Finaliste       | Premier mondiale lors du tournoi<br>Défaite contre [[Carlos Alcaraz]] |
+| 2025  | [[Tournoi de Paris]]                | Vainqueur       |                                                                       |
+| 2025  | [[Wimbledon]]                       | Vainqueur       |                                                                       |
+|       |                                     |                 |                                                                       |
+| 2026  | [[Tournoi de Doha]]                 | Quart de finale |                                                                       |
+| 2026  | [[Tournoi Indian Wells]]            | Vainqueur       | Victoire contre [[Daniil Medvedev]]                                   |
+| 2026  | [[Tournoi de Miami]]                | Vainqueur       |                                                                       |
+| 2026  | [[Tournoi de Monte-Carlo]] - Double | 2e tour         | avec [[Zizou Bergs]]                                                  |
+| 2026  | [[Tournoi de Monte-Carlo]]          | Vainqueur       | Victoire contre [[Carlos Alcaraz]]                                    |
+| 2026  | [[Tournoi de Madrid]]               | Vainqueur       | Victoire contre [[Alexander Zverev]]                                  |
+| 2026  | [[Tournoi de Rome]]                 | Vainqueur       | Victoire contre [[Casper Ruud]]                                       |
+| 2026  | [[Roland-Garros]]                   | 2e tour         | Défaite sur blessure                                                  |
+| 2026  | [[Wimbledon]]                       | Finaliste       |                                                                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -8,12 +8,12 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur        | Nationalité | Remarque                       |
-| ----- | ---------------- | ----------- | ------------------------------ |
-| 2025  | [[David Sinner]] | Italien     | Finaliste : [[Carlos Alcaraz]] |
-|       |                  |             |                                |
-|       |                  |             |                                |
-|       |                  |             |                                |
+| Année | Vainqueur         | Nationalité | Remarque                       |
+| ----- | ----------------- | ----------- | ------------------------------ |
+| 2025  | [[Jannik Sinner]] | Italien     | Finaliste : [[Carlos Alcaraz]] |
+|       |                   |             |                                |
+|       |                   |             |                                |
+|       |                   |             |                                |
 # Femmes
 
 ## Simple

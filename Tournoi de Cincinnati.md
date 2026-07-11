@@ -8,10 +8,10 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur          | Nationalité | Remarque                     |
-| ----- | ------------------ | ----------- | ---------------------------- |
-| 2025  | [[Carlos Alcaraz]] | Espagnol    | Finaliste : [[David Sinner]] |
-|       |                    |             |                              |
+| Année | Vainqueur          | Nationalité | Remarque                      |
+| ----- | ------------------ | ----------- | ----------------------------- |
+| 2025  | [[Carlos Alcaraz]] | Espagnol    | Finaliste : [[Jannik Sinner]] |
+|       |                    |             |                               |
 # Femmes
 
 | Année | Vainqueur       | Nationalité | Remarque                        |
