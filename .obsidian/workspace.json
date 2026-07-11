@@ -13,56 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Tour de France.md",
+                "file": "Loisirs/Sport/Sportifs/Linda Noskova.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour de France"
-            }
-          },
-          {
-            "id": "43c85c2e0e93141d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/image-710.webp"
-              },
-              "icon": "lucide-image",
-              "title": "image-710"
-            }
-          },
-          {
-            "id": "92846fbab71e0c7e",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "b9de0d67fb3cbe55",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/various-complements/histories.json",
-                "bFile": ".obsidian/plugins/various-complements/histories.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: histories.json  (Working Tree)"
+              "title": "Linda Noskova"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Bert Van",
+                "query": "Karolina Muchova",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -125,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,11 +204,15 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "b9de0d67fb3cbe55",
+  "active": "15fc350da523b559",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Karolina Muchova.md",
+    "Loisirs/Sport/Sportifs/Linda Noskova.md",
+    "Elise Mertens.md",
+    "Loisirs/Sport/Tour de France.md",
+    "Loisirs/Sport/Tadej Pogacar.md",
     "conflict-files-obsidian-git.md",
     "Attachments/image-710.webp",
-    "Loisirs/Sport/Tour de France.md",
     "Uno-x.md",
     "Pablo Castrillo.md",
     "Journal de bord/2026-07-08.md",
@@ -261,7 +224,6 @@
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Loisirs/Sport/Sportifs/Lennert Van Eetvelt.md",
     "Loisirs/Sport/Arnaud de Lie.md",
-    "Elise Mertens.md",
     "Save Sloth Studios.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Wildfrost.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Royal Writ.md",
@@ -274,8 +236,6 @@
     "Journal de bord/2026-07-06.md",
     "Famille/Cadeaux/Liste de cadeau Tim.md",
     "Famille/Membres/Tim.md",
-    "Famille/Cadeaux/Liste de cadeau pour Norah.md",
-    "Culture/Géographie/Espagne.md",
     "Attachments/image-707.webp",
     "Attachments/image-706.webp",
     "Attachments/image-705.webp",
