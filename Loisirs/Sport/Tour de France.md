@@ -48,10 +48,10 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 
 | Nation   | Nbr Victoires |
 | -------- | ------------- |
-| Pays-Bas | 2             |
-| Mexique  | 1             |
+| Pays-Bas | 3             |
 | Slovénie | 2             |
 | Belgique | 2             |
+| Mexique  | 1             |
 | Danemark | 1             |
 
 # Edition 2025 %% fold %%
