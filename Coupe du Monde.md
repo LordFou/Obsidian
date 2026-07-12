@@ -298,8 +298,8 @@ type: event
 | ------------------- | ----- | -------------------- | -------- |
 | Jeudi 9 juillet     | 22:00 | France - Maroc       | 2-0      |
 | Vendredi 10 juillet | 21:00 | Espagne - Belgique   | 2-1      |
-| Samedi 11 juillet   | 23:00 | Norvège - Angleterre |          |
-| Dimanche 12 juillet | 03:00 | Argentine - Suisse   |          |
+| Samedi 11 juillet   | 23:00 | Norvège - Angleterre | 1-2      |
+| Dimanche 12 juillet | 03:00 | Argentine - Suisse   | 3-1      |
 
 # Hall of fame
 ## Hommes

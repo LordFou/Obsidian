@@ -24,6 +24,8 @@ type: event
 | 2024  | [[Barbora Krejcikova]]  | Tchèque     |                                  |
 | 2025  | [[Iga Swiatek]]         | Polonaise   | Finaliste : [[Amanda Anisimova]] |
 | 2026  | [[Linda Noskova]]       | Tchèque     | Finaliste : [[Karolina Muchova]] |
+- 3 victoires Tchèques en 4 ans (2023-2026)
+
 ## Double
 
 | Année | Vainqueur                                    | Nationalité   | Remarque |

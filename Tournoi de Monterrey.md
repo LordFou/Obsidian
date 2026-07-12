@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Tournoi de Berlin
+# Tournoi de Monterrey
 
 # Introduction
 

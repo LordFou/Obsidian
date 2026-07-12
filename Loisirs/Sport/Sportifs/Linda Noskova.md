@@ -1,8 +1,7 @@
 ---
 type: personne
 ---
-
-
+![[image-714.webp|244x307]]
 # Linda Noskova
 
 # Informations Générales  
@@ -16,10 +15,13 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition   | Résultat                     | Remarque |
-| ----- | ------------- | ---------------------------- | -------- |
-| 2026  | [[Wimbledon]] | Vainqueur Victoire contre  e |          |
-|       |               |                              |          |
+| Année | Compétition              | Résultat   | Remarque                             |
+| ----- | ------------------------ | ---------- | ------------------------------------ |
+| 2024  | [[Tournoi de Monterrey]] | Vainqueure |                                      |
+| 2025  | [[Wimbledon]]            | 1/8e       |                                      |
+| 2026  | [[Tournoi de Berlin]]    | Vainqueure |                                      |
+| 2026  | [[Wimbledon]]            | Vainqueure | Victoire contre [[Karolina Muchova]] |
+|       |                          |            |                                      |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

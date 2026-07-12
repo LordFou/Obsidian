@@ -1,14 +1,14 @@
 ---
 type: personne
 ---
-
+![[image-715.webp|192x428]]
 
 # Karolina Muchova
 
 # Informations Générales  
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Nationalité** :  Tchèque
+- **Sport / Discipline** :  [[Tennis]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
