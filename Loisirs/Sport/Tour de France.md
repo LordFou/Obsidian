@@ -28,7 +28,7 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 | 5e (NDL)     | [[Olav Kooij]]     | [[Torstein Traeen]]  | [[Alex Baudin]]   | [[Mads Pedersen]]  | [[Mathias Vacek]]  | [[Baptiste Veistroffer]] | Chute à la fin de l'étape qui perturbe le sprint<br>3e - [[Tim Merlier]]<br>5e - [[Jasper Philipsen]]                            |
 | 6e (SLO)     | [[Tadej Pogacar]]  | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Tadej Pogacar]]        | Tadej prend la poudre d'escampette dans le [[Tourmalet]] et on ne le reverra plus<br>4e - [[Remco Evenepoel]]                    |
 | ==7e (BEL)== | [[Tim Merlier]]    | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Baptiste Veistroffer]] | 5e - [[Jasper Philipsen]]                                                                                                        |
-| ==8e (BEL)== | [[Tim Merlier]]    | [[Tadej Pogacar]]    | [[Tadej Pogacar]] |                    | [[Isaac Del Toro]] |                          |                                                                                                                                  |
+| ==8e (BEL)== | [[Tim Merlier]]    | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Liam Slock]]           | 4e - [[Jasper Philipsen]]                                                                                                        |
 ## Femmes %% fold %%
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
