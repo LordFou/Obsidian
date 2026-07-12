@@ -16,10 +16,10 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition   | Résultat | Remarque |
-| ----- | ------------- | -------- | -------- |
-| 2026  | [[Wimbledon]] | Finale   |          |
-|       |               |          |          |
+| Année | Compétition   | Résultat | Remarque                         |
+| ----- | ------------- | -------- | -------------------------------- |
+| 2026  | [[Wimbledon]] | Finale   | Défaite contre [[Linda Noskova]] |
+|       |               |          |                                  |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

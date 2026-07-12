@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liam Slock.md",
+                "file": "Loisirs/Sport/Sportifs/Linda Noskova.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Liam Slock"
+              "title": "Linda Noskova"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Décès",
+                "query": "Noskova",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -205,8 +205,13 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "15fc350da523b559",
+  "active": "dbacc6f984f28690",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Karolina Muchova.md",
+    "Wimbledon.md",
+    "Loisirs/Sport/Sportifs/Linda Noskova.md",
+    "Young Belgian Cats.md",
+    "Liam Slock.md",
     "Loisirs/Sport/Tour de France.md",
     "Jasper Philipsen.md",
     "Les décès de sportifs.md",
@@ -216,7 +221,6 @@
     "Jana Van Lent.md",
     "Loisirs/Sport/Sportifs/Ben Broeders.md",
     "Isaac Kimeli.md",
-    "Wimbledon.md",
     "David Sinner.md",
     "Tournoi de Cincinnati.md",
     "Journal de bord/Archives/2025-07-13.md",
@@ -226,15 +230,11 @@
     "Roland-Garros.md",
     "Tournoi de Paris.md",
     "Loisirs/Sport/Compétitions/Novak Djokovic.md",
-    "Young Belgian Cats.md",
     "Euro de Basket.md",
     "Belgian Cats.md",
     "Baptiste Veistroffer.md",
     "Tim Merlier.md",
     "Alexander Zverev.md",
-    "Loisirs/Sport/Sportifs/Karolina Muchova.md",
-    "Loisirs/Sport/Sportifs/Linda Noskova.md",
-    "Elise Mertens.md",
     "Attachments/image-710.webp",
     "Attachments/image-711.webp",
     "Attachments/image-709.webp",

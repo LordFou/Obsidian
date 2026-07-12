@@ -23,7 +23,7 @@ type: event
 | 2023  | [[Marketa Vondrousova]] | Tchèque     |                                  |
 | 2024  | [[Barbora Krejcikova]]  | Tchèque     |                                  |
 | 2025  | [[Iga Swiatek]]         | Polonaise   | Finaliste : [[Amanda Anisimova]] |
-|       |                         |             |                                  |
+| 2026  | [[Linda Noskova]]       | Tchèque     | Finaliste : [[Karolina Muchova]] |
 ## Double
 
 | Année | Vainqueur                                    | Nationalité   | Remarque |
