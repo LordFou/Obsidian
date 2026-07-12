@@ -16,22 +16,22 @@ type: personne
 
 | Année | Compétition                                         | Result   | Remarque                                                                                               |
 | ----- | --------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------ |
-| 2015  | [[Championnat du Monde de Cyclocross]]              | ==1ier==     |                                                                                                        |
-| 2018  | [[Tour du Limbourg]]                                | ==1ier==     |                                                                                                        |
-| 2019  | [[Championnat du Monde de Cyclocross]]              | ==1ier==     |                                                                                                        |
-| 2019  | [[Amstel Gold Race]]                                | ==1ier==     |                                                                                                        |
-| 2020  | [[Championnat du Monde de Cyclocross]]              | ==1ier==     |                                                                                                        |
-| 2020  | [[Renewi Tour]] - Classement final                  | ==1ier==     |                                                                                                        |
-| 2021  | [[Championnat du Monde de Cyclocross]]              | ==1ier==     |                                                                                                        |
-| 2021  | [[Tour de France]] - Mur de Bretagne                | ==1ier==     |                                                                                                        |
-| 2023  | [[Championnat du Monde de Cyclocross]]              | ==1ier==     |                                                                                                        |
-| 2023  | [[Milan San Remo]]                                  | ==1ier==     |                                                                                                        |
-| 2024  | [[Championnat du monde de Gravel]]                  | ==1ier==     |                                                                                                        |
-| 2024  | [[Championnat du Monde de Cyclocross]]              | ==1ier==     |                                                                                                        |
-| 2025  | [[Championnat du Monde de Cyclocross]]              | ==1ier==     |                                                                                                        |
-| 2025  | [[Samyn Classic]]                                   | ==1ier==     |                                                                                                        |
-| 2025  | [[Grand Prix de l'E3]]                              | ==1ier==     |                                                                                                        |
-| 2025  | [[Milan San Remo]]                                  | ==1ier==     | Ils ont attaqué à 3 (Lui, [[Tadej Pogacar]] et [[Ganna]]) dans la [[Cipressa]], ce qui n'arrive jamais |
+| 2015  | [[Championnat du Monde de Cyclocross]]              | ==1ier== |                                                                                                        |
+| 2018  | [[Tour du Limbourg]]                                | ==1ier== |                                                                                                        |
+| 2019  | [[Championnat du Monde de Cyclocross]]              | ==1ier== |                                                                                                        |
+| 2019  | [[Amstel Gold Race]]                                | ==1ier== |                                                                                                        |
+| 2020  | [[Championnat du Monde de Cyclocross]]              | ==1ier== |                                                                                                        |
+| 2020  | [[Renewi Tour]] - Classement final                  | ==1ier== |                                                                                                        |
+| 2021  | [[Championnat du Monde de Cyclocross]]              | ==1ier== |                                                                                                        |
+| 2021  | [[Tour de France]] - Mur de Bretagne                | ==1ier== |                                                                                                        |
+| 2023  | [[Championnat du Monde de Cyclocross]]              | ==1ier== |                                                                                                        |
+| 2023  | [[Milan San Remo]]                                  | ==1ier== |                                                                                                        |
+| 2024  | [[Championnat du monde de Gravel]]                  | ==1ier== |                                                                                                        |
+| 2024  | [[Championnat du Monde de Cyclocross]]              | ==1ier== |                                                                                                        |
+| 2025  | [[Championnat du Monde de Cyclocross]]              | ==1ier== |                                                                                                        |
+| 2025  | [[Samyn Classic]]                                   | ==1ier== |                                                                                                        |
+| 2025  | [[Grand Prix de l'E3]]                              | ==1ier== |                                                                                                        |
+| 2025  | [[Milan San Remo]]                                  | ==1ier== | Ils ont attaqué à 3 (Lui, [[Tadej Pogacar]] et [[Ganna]]) dans la [[Cipressa]], ce qui n'arrive jamais |
 | 2025  | [[Tour des Flandres]]                               | 2e       | [[Tadej Pogacar]] trop fort                                                                            |
 | 2025  | [[Paris-Roubaix]]                                   | ==1ier== | Mano à Mano avec [[Tadej Pogacar]] vaincu par une erreur de trajectoire                                |
 | 2025  | [[Tour de France]] - 2e étape                       | ==1ier== | Maillot Jaune                                                                                          |
@@ -58,6 +58,7 @@ type: personne
 | 2026  | [[Grand Prix de l'E3]]                              | ==1ier== | 3e - [[Florian Vermeersch]]                                                                            |
 | 2026  | [[Tour des Flandres]]                               | 2e       |                                                                                                        |
 | 2026  | [[Tour de Suisse]] - 4e étape                       | 2e       | CLM - Derrière [[Tadej Pogacar]]                                                                       |
+| 2026  | [[Tour de France]] - 9e étape - Etape + Combattif   | ==1ier== |                                                                                                        |
 ## Style et Caractéristiques
 - Toujours à l'attaque et beaucoup de victoires en solitaire
 - Il s'est déjà prix des bonnes fringales

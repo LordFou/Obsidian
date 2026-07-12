@@ -19,16 +19,17 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 
 ## Hommes
 
-|              | Vainqueur          | Général              | Montagne          | Points             | Jeune              | Combattif                | Remarques                                                                                                                        |
-| ------------ | ------------------ | -------------------- | ----------------- | ------------------ | ------------------ | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| 1e (NDL)     | [[Visma]]          | [[Jonas Vingegaard]] | [[Tadej Pogacar]] | [[Egan Bernal]]    | [[Juan Ayuso]]     |                          | CLM par équipe<br>5e - [[Remco Evenepoel]]<br>3 chutes au même endroit sur le parcours dont une qui provoque le premier abandon. |
-| 2e (MEX)     | [[Isaac Del Toro]] | [[Jonas Vingegaard]] | [[Alex Molenaar]] | [[Isaac Del Toro]] | [[Isaac Del Toro]] | [[Felix Engelhardt]]     | 2e - [[Tadej Pogacar]]<br>3e - [[Remco Evenepoel]]                                                                               |
-| 3e (SLO)     | [[Tadej Pogacar]]  | [[Tadej Pogacar]]    | [[Alex Baudin]]   | [[Tadej Pogacar]]  | [[Isaac Del Toro]] | [[Alex Baudin]]          | Abandon d'[[Arnaud de Lie]]<br>6e - [[Lennert Van Eetvelt]]<br>8e - [[Remco Evenepoel]]<br>12e - [[Ilan Van Wilder]]             |
-| 4e (DAN)     | [[Mads Pedersen]]  | [[Torstein Traeen]]  | [[Alex Baudin]]   | [[Mads Pedersen]]  | [[Mathias Vacek]]  | [[Pablo Castrillo]]      | 5e -  [[Ramses Debruyne]]                                                                                                        |
-| 5e (NDL)     | [[Olav Kooij]]     | [[Torstein Traeen]]  | [[Alex Baudin]]   | [[Mads Pedersen]]  | [[Mathias Vacek]]  | [[Baptiste Veistroffer]] | Chute à la fin de l'étape qui perturbe le sprint<br>3e - [[Tim Merlier]]<br>5e - [[Jasper Philipsen]]                            |
-| 6e (SLO)     | [[Tadej Pogacar]]  | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Tadej Pogacar]]        | Tadej prend la poudre d'escampette dans le [[Tourmalet]] et on ne le reverra plus<br>4e - [[Remco Evenepoel]]                    |
-| ==7e (BEL)== | [[Tim Merlier]]    | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Baptiste Veistroffer]] | 5e - [[Jasper Philipsen]]                                                                                                        |
-| ==8e (BEL)== | [[Tim Merlier]]    | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Liam Slock]]           | 4e - [[Jasper Philipsen]]                                                                                                        |
+|              | Vainqueur                | Général              | Montagne          | Points             | Jeune              | Combattif                | Remarques                                                                                                                        |
+| ------------ | ------------------------ | -------------------- | ----------------- | ------------------ | ------------------ | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1e (NDL)     | [[Visma]]                | [[Jonas Vingegaard]] | [[Tadej Pogacar]] | [[Egan Bernal]]    | [[Juan Ayuso]]     |                          | CLM par équipe<br>5e - [[Remco Evenepoel]]<br>3 chutes au même endroit sur le parcours dont une qui provoque le premier abandon. |
+| 2e (MEX)     | [[Isaac Del Toro]]       | [[Jonas Vingegaard]] | [[Alex Molenaar]] | [[Isaac Del Toro]] | [[Isaac Del Toro]] | [[Felix Engelhardt]]     | 2e - [[Tadej Pogacar]]<br>3e - [[Remco Evenepoel]]                                                                               |
+| 3e (SLO)     | [[Tadej Pogacar]]        | [[Tadej Pogacar]]    | [[Alex Baudin]]   | [[Tadej Pogacar]]  | [[Isaac Del Toro]] | [[Alex Baudin]]          | Abandon d'[[Arnaud de Lie]]<br>6e - [[Lennert Van Eetvelt]]<br>8e - [[Remco Evenepoel]]<br>12e - [[Ilan Van Wilder]]             |
+| 4e (DAN)     | [[Mads Pedersen]]        | [[Torstein Traeen]]  | [[Alex Baudin]]   | [[Mads Pedersen]]  | [[Mathias Vacek]]  | [[Pablo Castrillo]]      | 5e -  [[Ramses Debruyne]]                                                                                                        |
+| 5e (NDL)     | [[Olav Kooij]]           | [[Torstein Traeen]]  | [[Alex Baudin]]   | [[Mads Pedersen]]  | [[Mathias Vacek]]  | [[Baptiste Veistroffer]] | Chute à la fin de l'étape qui perturbe le sprint<br>3e - [[Tim Merlier]]<br>5e - [[Jasper Philipsen]]                            |
+| 6e (SLO)     | [[Tadej Pogacar]]        | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Tadej Pogacar]]        | Tadej prend la poudre d'escampette dans le [[Tourmalet]] et on ne le reverra plus<br>4e - [[Remco Evenepoel]]                    |
+| ==7e (BEL)== | [[Tim Merlier]]          | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Baptiste Veistroffer]] | 5e - [[Jasper Philipsen]]                                                                                                        |
+| ==8e (BEL)== | [[Tim Merlier]]          | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Liam Slock]]           | 4e - [[Jasper Philipsen]]                                                                                                        |
+| 9e (NDL)     | [[Mathieu van der Poel]] | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Mathieu van der Poel]] |                                                                                                                                  |
 ## Femmes %% fold %%
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
@@ -36,16 +37,22 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 |     |           |         |          |        |       |           |
 |     |           |         |          |        |       |           |
 
-| Equipe | Nbr Victoires |
-| ------ | ------------- |
-| UAE    | 2             |
-| Visma  | 1             |
+| Equipe         | Nbr Victoires |
+| -------------- | ------------- |
+| UAE            | 3             |
+| [[Quick-Step]] | 2             |
+| Visma          | 1             |
+| [[Alpecin]]    | 1             |
+| [[Lidl-Trek]]  | 1             |
+| [[Décathlon]]  | 1             |
 
 | Nation   | Nbr Victoires |
 | -------- | ------------- |
-| Pays-Bas | 1             |
+| Pays-Bas | 2             |
 | Mexique  | 1             |
-| Slovénie | 1             |
+| Slovénie | 2             |
+| Belgique | 2             |
+| Danemark | 1             |
 
 # Edition 2025 %% fold %%
 ## Hommes
