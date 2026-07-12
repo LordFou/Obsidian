@@ -6,7 +6,7 @@
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Ninja Theory]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
