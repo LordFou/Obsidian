@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Sociétés/Don't Nod.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/MOLE.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Don't Nod"
+              "title": "MOLE"
             }
           }
         ]
@@ -53,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Don't no",
+                "query": "Mole",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,6 +208,10 @@
   },
   "active": "15fc350da523b559",
   "lastOpenFiles": [
+    "Unreal Engine.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/MOLE.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/MECCHA CHAMELEON.md",
+    "Loisirs/Jeux Vidéos/Sociétés/Don't Nod.md",
     "Quantic Dream.md",
     "Kwalee Labs.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Luna Abyss.md",
@@ -233,10 +238,6 @@
     "Jana Van Lent.md",
     "Loisirs/Sport/Sportifs/Ben Broeders.md",
     "Isaac Kimeli.md",
-    "David Sinner.md",
-    "Tournoi de Cincinnati.md",
-    "Journal de bord/Archives/2025-07-13.md",
-    "Zizou Bergs.md",
     "Attachments/image-710.webp",
     "Attachments/image-711.webp",
     "Attachments/image-709.webp",

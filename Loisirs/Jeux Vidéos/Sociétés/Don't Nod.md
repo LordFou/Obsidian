@@ -18,7 +18,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 [line-5, body-2]
 date: Juin 2026
 title: Fermeture des vannes 
-content:
+content: Le studio pourrait tomber à court d'argent dès novembre car son actionnaire [[Tencent]] ne souhaiterait plus le renflouer
 ```
 
 ## Jeux Développés
