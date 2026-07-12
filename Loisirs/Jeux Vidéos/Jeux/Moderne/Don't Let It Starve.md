@@ -35,7 +35,7 @@ tags: mediaDB/game
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** : [[Simulation]], [[Strategie]]
-- **Résumé** :  
+- **Résumé** :  Vous devez nourrir un monstre en lui préparant des plats et en évitant qu'il vous dévore.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -61,6 +61,6 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/3930510 |
+| Description | URL                                        |
+| ----------- | ------------------------------------------ |
+| Steam       | https://store.steampowered.com/app/3930510 |

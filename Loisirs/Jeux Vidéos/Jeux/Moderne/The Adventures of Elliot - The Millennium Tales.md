@@ -47,6 +47,7 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- CheckPoint (8/10)
+	- Origami : Bien comme chacun de leur ancien jeu mais on y enfile des pantoufles et on n'en sort sans grande originalité.
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -57,7 +58,7 @@ tags: mediaDB/game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
-	- [[The Legend of Zelda]]
+	- [[The Legend of Zelda]] (très allégé)
 - **A inspiré** : 
 - **Comparable à** :
 	- [[Chrono Trigger]] (Voyage dans le temps)

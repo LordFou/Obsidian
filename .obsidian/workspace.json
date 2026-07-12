@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Don't Let It Starve.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/The Adventures of Elliot - The Millennium Tales.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Don't Let It Starve"
+              "title": "The Adventures of Elliot - The Millennium Tales"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Don't",
+                "query": "Ember",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,10 +206,12 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "15fc350da523b559",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/MOLE.md",
+    "Claytechworks.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Adventures of Elliot - The Millennium Tales.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Don't Let It Starve.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/MOLE.md",
     "Off Black Creations.md",
     "Unreal Engine.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/MECCHA CHAMELEON.md",
@@ -234,10 +236,8 @@
     "Tournoi de Monterrey.md",
     "Loisirs/Sport/Compétitions/Tournoi de Berlin.md",
     "Jasper Philipsen.md",
-    "Les décès de sportifs.md",
     "Attachments/image-713.webp",
     "Attachments/image-712.webp",
-    "Jana Van Lent.md",
     "Attachments/image-710.webp",
     "Attachments/image-711.webp",
     "Attachments/image-709.webp",
