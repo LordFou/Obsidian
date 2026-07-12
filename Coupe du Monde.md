@@ -301,6 +301,12 @@ type: event
 | Samedi 11 juillet   | 23:00 | Norvège - Angleterre | 1-2      |
 | Dimanche 12 juillet | 03:00 | Argentine - Suisse   | 3-1      |
 
+## 1/2 Finale
+| Demi-finale   | Équipe 1   | Score | Équipe 2  | Date       | Heure |
+| ------------- | ---------- | :---: | --------- | ---------- | :---: |
+| Demi-finale 1 | France     |   -   | Espagne   | 14/07/2026 | 21:00 |
+| Demi-finale 2 | Angleterre |   -   | Argentine | 15/07/2026 | 21:00 |
+
 # Hall of fame
 ## Hommes
 
