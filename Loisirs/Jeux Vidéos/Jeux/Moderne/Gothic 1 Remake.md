@@ -49,6 +49,7 @@ Remake de [[Gothic 1]]
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Le jeu est décrié, à raison, pour ses bugs en pagaille (comme le jeu original)
 	- Scénario terriblement accrocheur
+	- Checkpoint (7,5/10)
 - **Gameplay** :
 - **Durée estimée** : 
 

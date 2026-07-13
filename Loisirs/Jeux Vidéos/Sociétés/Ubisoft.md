@@ -8,17 +8,26 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ## Informations Générales
 - **Nom complet** :  
-- **Date de création** :  
-- **Fondateurs** :
+- **Date de création** :  1986
+- **Fondateurs** : les 5 frères Guillemot
 	- [[Yves Guillemot]]
 	- [[Claude Guillemot]]
-- **Pays d’origine** : [[France]]
+	- [[Christian Guillemot]]
+	- [[Gérard Guillemot]]
+	- [[Michel Guillemot]]
+- **Pays d’origine** : [[France]] (Morbihan)
 - **Site officiel** : [Lien](#)  
 - **Equipe de dev** : 
 	- [[Ubisoft Quebec]]
 	- [[Ubisoft Montréal]]
 	- [[Ubisoft Mainz]]
-
+- **Franchises : 
+	- [[Franchise Assasin's Creed]]
+	- [[Franchise Far Cry]]
+	- [[Franchise Rayman]]
+	- [[Franchise Prince of Persia]]
+	- [[Franchise Tom Clancy]]
+]]
 ## Jeux Développés
 | Année | Titre                             | Genre                             | Plateformes |
 | ----- | --------------------------------- | --------------------------------- | ----------- |

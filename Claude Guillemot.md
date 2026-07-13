@@ -5,11 +5,13 @@ type: personne
 # Claude Guillemot
 
 ## Présentation
-Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidéo, importance, impact.
+- Homme plus discret que ses autres frères, il travaillait dans l'ombre et dirigeait notamment [[Guillemot Corporation]] dont on connait quelques marques comme 
+	- [[Thrustmaster]]
+	- [[Hercules]]
 
 ## Informations Générales
-- **Date de naissance** :  
-- **Nationalité** :  
+- **Date de naissance** :  1957 - 2026 (Décès dans un crash d'avion de tourisme)
+- **Nationalité** :  Français
 - **Profession(s)** : (Développeur, Designer, Compositeur, Journaliste, etc.)  
 - **Entreprise(s) associée(s)** : 
 	- [[Ubisoft]] (Fondateur)
