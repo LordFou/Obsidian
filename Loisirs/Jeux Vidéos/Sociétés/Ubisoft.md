@@ -9,7 +9,9 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 ## Informations Générales
 - **Nom complet** :  
 - **Date de création** :  
-- **Fondateurs** : [[Yves Guillemot]]
+- **Fondateurs** :
+	- [[Yves Guillemot]]
+	- [[Claude Guillemot]]
 - **Pays d’origine** : [[France]]
 - **Site officiel** : [Lien](#)  
 - **Equipe de dev** : 
