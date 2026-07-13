@@ -22,6 +22,8 @@ type: game
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 - **Gameplay** :
 - **Durée estimée** : 
+- Prix 
+	- 60€ à la sortie mais pas de multi
 
 ## Histoire et Univers
 - **Lieu(x)** : 
@@ -34,6 +36,7 @@ type: game
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - Sortie repoussée 2 fois, ce qui embête bien les autres jeux qui ne veulent pas sortir en même temps que ce mastodonte.
+- Pas de version physique mais un code dans le boitier acheté.
 
 # Polémiques
 - 1 an avant la sortie, [[Rockstar]] vire une trentaine de ses salariés.
