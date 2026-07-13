@@ -6,7 +6,7 @@
       {
         "id": "753b47dd41e8f18f",
         "type": "tabs",
-        "dimension": 72.24880382775119,
+        "dimension": 71.61084529505582,
         "children": [
           {
             "id": "15fc350da523b559",
@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dark Scrolls.md",
+                "file": "Star Fox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Dark Scrolls"
+              "title": "Star Fox"
             },
             "group": "2d249d755168898f"
           }
@@ -29,7 +29,7 @@
       {
         "id": "e767a56a4f2b3f8c",
         "type": "tabs",
-        "dimension": 27.751196172248804,
+        "dimension": 28.38915470494418,
         "children": [
           {
             "id": "2b8eca5125f8c24a",
@@ -37,7 +37,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Dark Scrolls.md",
+                "file": "Star Fox.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -65,7 +65,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Dark Scrolls"
+              "title": "Graphique de Star Fox"
             },
             "group": "2d249d755168898f"
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dark Scr",
+                "query": "Star Fox",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,8 +253,14 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "2b8eca5125f8c24a",
+  "active": "15fc350da523b559",
   "lastOpenFiles": [
+    "Attachments/image-716.webp",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dead or Alive 6 - Last Round.md",
+    "Team Ninja.md",
+    "Douze Dixièmes.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dark Scrolls.md",
+    "doinksoft.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Deer And Boy.md",
     "Le deuil.md",
     "LifeLine Games.md",
@@ -275,12 +281,6 @@
     "Quick-Step.md",
     "Zizou Bergs.md",
     "Alexander Zverev.md",
-    "Jannik Sinner.md",
-    "Wimbledon.md",
-    "Young Belgian Cats.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Adventures of Elliot - The Millennium Tales.md",
-    "Claytechworks.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Don't Let It Starve.md",
     "Attachments/image-715.webp",
     "Attachments/image-714.webp",
     "Attachments/image-713.webp",

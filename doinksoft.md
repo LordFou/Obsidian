@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# KOEI TECMO GAMES CO., LTD.
+# doinksoft
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,10 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                          |
-| ----- | ------------------------------ |
-| 2026  | [[Nioh 3]]                     |
-| 2026  | [[Dead or Alive 6 - Last Round]] |
+| Année | Titre            |
+| ----- | ---------------- |
+| 2026  | [[Dark Scrolls]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
@@ -45,6 +44,6 @@ Lister les prix, distinctions ou records obtenus.
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |

@@ -21,14 +21,16 @@ played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144680/e94fe79e24de4c1488f1967f13144c6df66b5b51/header.jpg?t=1780551414)
+![image|886x414](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144680/e94fe79e24de4c1488f1967f13144c6df66b5b51/header.jpg?t=1780551414)
 # DEAD OR ALIVE 6 Last Round
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[KOEI TECMO GAMES]]
+	- Studio : 
+		- [[KOEI TECMO GAMES]]
+		- [[Team Ninja]]
 	- Personnalités : 
 - **Éditeur** : [[KOEI TECMO GAMES]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
@@ -41,7 +43,7 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 0
+	- CheckPoint (5/10)
 - **Gameplay** :
 - **Durée estimée** : 
 

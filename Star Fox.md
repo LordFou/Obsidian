@@ -1,16 +1,16 @@
 ---
 type: game
 ---
-
+![[image-716.webp|500x281]]
 # Star Fox
 
 ## Informations Générales
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Nintendo]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Nintendo]]
 - **Plateformes** : [[Switch 2]]
 - **Franchise** : 
 - **Genre** : [[Shoot'em up]], [[Rail Shooter]]
@@ -20,7 +20,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- CheckPoint (7/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
