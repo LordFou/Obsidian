@@ -32,8 +32,9 @@ tags: mediaDB/game
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
+		- [[Bobby Prince]] (Compositeur)
 - **Éditeur** : 
-- **Plateformes** : PC
+- **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Action]], [[Aventure]]
 - **Résumé** :  

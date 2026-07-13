@@ -2,16 +2,18 @@
 type: game
 ---
 
-# Franchise Deus Ex
+# Franchise Ultima Underworld
 
 
 ## Informations générales
-- Créateur(s) : 
+- **Créateur(s)** : 
 	- [[Warren Spector]]
-- Développeur(s) : {{Studio(s) de développement}}
-- Éditeur(s) : {{Nom de l’éditeur}}
-- Première apparition : 2005
-- Genre principal : {{Stratégie, Action-Aventure, FPS...}}
+	- [[Paul Neurath]]
+- **Développeur(s)** : {{Studio(s) de développement}}
+- **Éditeur(s)** : {{Nom de l’éditeur}}
+- **Première apparition** : {{Nom du premier jeu (année)}}
+- **Genre principal** : {{Stratégie, Action-Aventure, FPS...}}
+- **Points Communs** :
 
 ## Résumé et historique
 {{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
@@ -23,11 +25,9 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                          | Année | Plateformes | Remarque |
-| ------------------------------ | ----- | ----------- | -------- |
-| [[Deus Ex]]                    |       |             |          |
-| [[Deus Ex - Mankind Divided]]  |       |             |          |
-| [[Deus Ex - Human Revolution]] |       |             |          |
+| Titre | Année | Plateformes | Remarque |
+| ----- | ----- | ----------- | -------- |
+|       |       |             |          |
 
 
 ## Mécaniques et innovations

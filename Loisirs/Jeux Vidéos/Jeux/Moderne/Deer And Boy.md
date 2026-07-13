@@ -30,20 +30,20 @@ tags: mediaDB/game
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Lifeline Games]]
+	- Studio : [[LifeLine Games]]
 	- Personnalités : 
 - **Éditeur** : [[Dear Villagers]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Switch]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Aventure]]
-- **Résumé** :  
+- **Résumé** :  Histoire d'entraide entre un humain et un faon
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 0
+	- CheckPoint (8.5/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
