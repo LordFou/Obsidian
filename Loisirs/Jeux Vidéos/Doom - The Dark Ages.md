@@ -13,7 +13,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : PC, Xbox
-- **Franchise** : [[Franchise DOOM|DOOM]]
+- **Franchise** : [[Franchise Doom|DOOM]]
 - **Genre** : [[FPS]]
 - **Résumé** : 
 	- Prequel de [[Doom]] (2016) et de [[Doom Eternal]](2018) 

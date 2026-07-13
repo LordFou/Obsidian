@@ -2,25 +2,27 @@
 type: game
 ---
 
-# Doom 2
+# Wolfenstein 3D
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** :  {{ year }}
 - **Développeur** : 
-	- Studio : 
+	- Studio : {{ developers }}
 	- Personnalités : 
-- **Éditeur** : 
+		- [[Bobby Prince]] (Compositeur)
+- **Éditeur** : {{ publishers }}
 - **Plateformes** : 
-- **Franchise** : [[Franchise Doom]]
-- **Genre** :
-- **Résumé** : 
+- **Franchise** : 
+- **Genre** : {{ genres }}
+- **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
+	- Steam Rating : {{ onlineRating }}
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -37,6 +39,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL       |
+| ----------- | --------- |
+| Wiki        | {{ url }} |
