@@ -40,19 +40,32 @@ tags: mediaDB/game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : (Type de musique, Bande-son notable)
+- **Graphismes** : 
+	- Style graphique simple et stylisé
+- **Audio** : 
+	- Musique piano émouvante
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- CheckPoint (8.5/10)
+		- Final bouleversant (+)
+		- Pour tout âge (+) 
+		- Bo (+)
+		- Puzzle parfois capricieux et time boxés difficilement.
 - **Gameplay** :
+	- Aucun dialogue !! => Renforcement de l'impact émotionnel
+	- La conception sonore à une place centrale (bruits et sons)
+	- Le faon grandit et évolue dans ses capacités.
 - **Durée estimée** : 
+	- 6h
 
 ## Histoire et Univers
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Un [[faon]] ([[cervidé]])
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Le deuil]]
+	- [[L'amitié]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

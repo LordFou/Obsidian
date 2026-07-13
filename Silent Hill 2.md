@@ -30,7 +30,7 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** :
-	- le [[deuil]]
+	- le [[Le deuil]]
 	- le [[harcèlement]]
 	- le [[viol]]
 	- le [[suicide]]
