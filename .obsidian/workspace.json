@@ -4,70 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "753b47dd41e8f18f",
+        "id": "7e6ce79b62b61096",
         "type": "tabs",
-        "dimension": 71.61084529505582,
         "children": [
           {
-            "id": "15fc350da523b559",
+            "id": "9df1ca9c36258f40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unreal Engine.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Unreal Engine"
-            },
-            "group": "2d249d755168898f"
-          }
-        ]
-      },
-      {
-        "id": "e767a56a4f2b3f8c",
-        "type": "tabs",
-        "dimension": 28.38915470494418,
-        "children": [
-          {
-            "id": "2b8eca5125f8c24a",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Unreal Engine.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graphique de Unreal Engine"
-            },
-            "group": "2d249d755168898f"
+              "title": "Nouvel onglet"
+            }
           }
         ]
       }
@@ -253,8 +201,9 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "15fc350da523b559",
+  "active": "9df1ca9c36258f40",
   "lastOpenFiles": [
+    "Unreal Engine.md",
     "Loisirs/Jeux Vidéos/Périphériques/Steam Machine.md",
     "GTA VI.md",
     "Star Fox.md",
@@ -281,7 +230,6 @@
     "Loisirs/Jeux Vidéos/Sociétés/Ubisoft.md",
     "Claude Guillemot.md",
     "Loisirs/Sport/Equipes/Belgians Lions.md",
-    "Quick-Step.md",
     "Attachments/image-715.webp",
     "Attachments/image-714.webp",
     "Attachments/image-713.webp",
