@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7e6ce79b62b61096",
+        "id": "afbc8dfcb1dec14f",
         "type": "tabs",
         "children": [
           {
-            "id": "9df1ca9c36258f40",
+            "id": "b996f9acf11accee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Famille/Vacances/Anecdote et résumé.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Anecdote et résumé"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Unreal Engine",
+                "query": "Bork Havn",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,8 +204,13 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "9df1ca9c36258f40",
+  "active": "b996f9acf11accee",
   "lastOpenFiles": [
+    "Bork Havn.md",
+    "Famille/Vacances/Anecdote et résumé.md",
+    "Journal de bord/2026-07-15.md",
+    "Famille/Vacances/Préparation.md",
+    "Famille/Vacances",
     "Unreal Engine.md",
     "Loisirs/Jeux Vidéos/Périphériques/Steam Machine.md",
     "GTA VI.md",
@@ -226,10 +234,6 @@
     "Loisirs/Jeux Vidéos/Doom.md",
     "Franchise Wolfenstein.md",
     "Wolfenstein 3D.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Gothic 1 Remake.md",
-    "Loisirs/Jeux Vidéos/Sociétés/Ubisoft.md",
-    "Claude Guillemot.md",
-    "Loisirs/Sport/Equipes/Belgians Lions.md",
     "Attachments/image-715.webp",
     "Attachments/image-714.webp",
     "Attachments/image-713.webp",
@@ -248,7 +252,6 @@
     "ZA",
     "Loisirs/Jeux Vidéos/Généalogie Société.canvas",
     "Loisirs/Jeux Vidéos/Musée",
-    "Loisirs/Tourisme",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre"
+    "Loisirs/Tourisme"
   ]
 }
