@@ -304,9 +304,16 @@ type: event
 ## 1/2 Finale
 | Demi-finale   | Équipe 1   | Score | Équipe 2  | Date       | Heure |
 | ------------- | ---------- | :---: | --------- | ---------- | :---: |
-| Demi-finale 1 | France     |   -   | Espagne   | 14/07/2026 | 21:00 |
-| Demi-finale 2 | Angleterre |   -   | Argentine | 15/07/2026 | 21:00 |
-
+| Demi-finale 1 | France     | 0 - 2 | Espagne   | 14/07/2026 | 21:00 |
+| Demi-finale 2 | Angleterre | 1 - 2 | Argentine | 15/07/2026 | 21:00 |
+## Petite Finale
+| Date              | Heure | Match               | Résultat |
+| ----------------- | ----: | ------------------- | -------- |
+| Samedi 18 Juillet | 21:00 | France - Angleterre |          |
+## Finale
+| Date                | Heure | Match               | Résultat |
+| ------------------- | ----: | ------------------- | -------- |
+| Dimanche 19 Juillet | 21:00 | Argentine - Espagne |          |
 # Hall of fame
 ## Hommes
 
