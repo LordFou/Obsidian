@@ -31,6 +31,7 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 | ==8e (BEL)== | [[Tim Merlier]]          | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Liam Slock]]           | 4e - [[Jasper Philipsen]]                                                                                                        |
 | 9e (NDL)     | [[Mathieu van der Poel]] | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Mathieu van der Poel]] |                                                                                                                                  |
 | 10e (SLO)    | [[Tadej Pogacar]]        | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Juan Ayuso]]     |                          | 2e - [[Remco Evenepoel]]                                                                                                         |
+| 11e (NOR)    | [[Soren Waerenskjold]]   | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Juan Ayuso]]     |                          | 3e - [[Jasper Philipsen]]                                                                                                        |
 ## Femmes %% fold %%
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
