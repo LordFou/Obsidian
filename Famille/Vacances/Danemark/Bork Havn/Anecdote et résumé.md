@@ -12,5 +12,7 @@ Activités
 - Resto et visite à Hvide Sante
 - Jogging et réveil musculaire du matin
 - Collection de pierres
+- Chasse aux bunkers
+- Géocaching
 - Plage
 	- Nymindegab

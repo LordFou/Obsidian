@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "afbc8dfcb1dec14f",
+        "id": "623ea62b418f05e6",
         "type": "tabs",
         "children": [
           {
-            "id": "b996f9acf11accee",
+            "id": "dc62dc4592008b3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Famille/Vacances/Anecdote et résumé.md",
+                "file": "Famille/Vacances/Danemark/Bork Havn/Anecdote et résumé.md",
                 "mode": "source",
                 "source": false
               },
@@ -204,12 +204,16 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "b996f9acf11accee",
+  "active": "dc62dc4592008b3d",
   "lastOpenFiles": [
-    "Bork Havn.md",
-    "Famille/Vacances/Anecdote et résumé.md",
+    "Famille/Vacances/Danemark/Bork Havn/Préparation.md",
+    "Famille/Vacances/Danemark/Bork Havn/Anecdote et résumé.md",
+    "Famille/Vacances/Sans titre.md",
+    "Famille/Vacances/Danemark/Sans titre.md",
+    "Famille/Vacances/Danemark/Bork Havn",
     "Journal de bord/2026-07-15.md",
-    "Famille/Vacances/Préparation.md",
+    "Famille/Vacances/Danemark",
+    "Famille/Vacances/Bork Havn.md",
     "Famille/Vacances",
     "Unreal Engine.md",
     "Loisirs/Jeux Vidéos/Périphériques/Steam Machine.md",
@@ -231,9 +235,6 @@
     "Bobby Prince.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Duke Nukem 3D.md",
     "Loisirs/Jeux Vidéos/Franchise Doom.md",
-    "Loisirs/Jeux Vidéos/Doom.md",
-    "Franchise Wolfenstein.md",
-    "Wolfenstein 3D.md",
     "Attachments/image-715.webp",
     "Attachments/image-714.webp",
     "Attachments/image-713.webp",
@@ -250,8 +251,6 @@
     "Media DB/games",
     "Media DB",
     "ZA",
-    "Loisirs/Jeux Vidéos/Généalogie Société.canvas",
-    "Loisirs/Jeux Vidéos/Musée",
-    "Loisirs/Tourisme"
+    "Loisirs/Jeux Vidéos/Généalogie Société.canvas"
   ]
 }
