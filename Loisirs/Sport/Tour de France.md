@@ -30,7 +30,7 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 | ==7e (BEL)== | [[Tim Merlier]]          | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Baptiste Veistroffer]] | 5e - [[Jasper Philipsen]]                                                                                                        |
 | ==8e (BEL)== | [[Tim Merlier]]          | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Liam Slock]]           | 4e - [[Jasper Philipsen]]                                                                                                        |
 | 9e (NDL)     | [[Mathieu van der Poel]] | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Mathieu van der Poel]] |                                                                                                                                  |
-| 10e (SLO)    | [[Tadej Pogacar]]        | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] |                          |                                                                                                                                  |
+| 10e (SLO)    | [[Tadej Pogacar]]        | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Juan Ayuso]]     |                          | 2e - [[Remco Evenepoel]]                                                                                                         |
 ## Femmes %% fold %%
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
@@ -40,7 +40,7 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 
 | Equipe         | Nbr Victoires |
 | -------------- | ------------- |
-| UAE            | 3             |
+| UAE            | 4             |
 | [[Quick-Step]] | 2             |
 | Visma          | 1             |
 | [[Alpecin]]    | 1             |
@@ -50,7 +50,7 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 | Nation   | Nbr Victoires |
 | -------- | ------------- |
 | Pays-Bas | 3             |
-| Slovénie | 2             |
+| Slovénie | 3             |
 | Belgique | 2             |
 | Mexique  | 1             |
 | Danemark | 1             |

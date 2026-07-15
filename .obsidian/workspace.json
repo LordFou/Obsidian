@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Tour de France.md",
+                "file": "Raphaël Collignon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour de France"
+              "title": "Raphaël Collignon"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour de France",
+                "query": "Collignon",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,6 +207,9 @@
   },
   "active": "dc62dc4592008b3d",
   "lastOpenFiles": [
+    "Tournoi de Gstaad.md",
+    "Raphaël Collignon.md",
+    "Loisirs/Sport/Tour de France.md",
     "Coupe du Monde.md",
     "Famille/Vacances/Danemark/Bork Havn/Anecdote et résumé.md",
     "Famille/Vacances/Danemark/Bork Havn/Préparation.md",
@@ -234,9 +237,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Franchise/Franchise System Shock.md",
     "Franchise Deus Ex.md",
     "Deus Ex.md",
-    "Bobby Prince.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Duke Nukem 3D.md",
-    "Loisirs/Jeux Vidéos/Franchise Doom.md",
     "Attachments/image-715.webp",
     "Attachments/image-714.webp",
     "Attachments/image-713.webp",
