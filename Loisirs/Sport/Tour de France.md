@@ -32,7 +32,7 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 | 9e (NDL)      | [[Mathieu van der Poel]] | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Mathieu van der Poel]] |                                                                                                                                  |
 | 10e (SLO)     | [[Tadej Pogacar]]        | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Juan Ayuso]]     |                          | 2e - [[Remco Evenepoel]]                                                                                                         |
 | 11e (NOR)     | [[Soren Waerenskjold]]   | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Juan Ayuso]]     |                          | 3e - [[Jasper Philipsen]]                                                                                                        |
-| ==12e (BEL)== | [[Tim Merlier]]          | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Juan Ayuso]]     |                          | Encore une grosse chute dans le sprint                                                                                           |
+| ==12e (BEL)== | [[Tim Merlier]]          | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Juan Ayuso]]     |                          | Encore une grosse chute dans le sprint.<br>Abandon de [[Jenno Berckmoes]]                                                        |
 ## Femmes %% fold %%
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |

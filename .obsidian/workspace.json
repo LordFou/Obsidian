@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Tour de France.md",
+                "file": "Jenno Berckmoes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour de France"
+              "title": "Jenno Berckmoes"
             }
           }
         ]
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -205,12 +205,12 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dc62dc4592008b3d",
+  "active": "dbacc6f984f28690",
   "lastOpenFiles": [
+    "Loisirs/Sport/Tour de France.md",
     "Milan Fretin.md",
     "Jasper Philipsen.md",
     "Tim Merlier.md",
-    "Loisirs/Sport/Tour de France.md",
     "Soren Waerenskjold.md",
     "Sport & Guerre.md",
     "Culture/Histoire/Guerres dans le monde.md",
