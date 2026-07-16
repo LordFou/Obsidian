@@ -46,11 +46,5 @@
 			- Occidentalisation
 			- Occupation de petites îles revendiqués par l'[[Iran]]
 
-# Argentine - Angleterre
 
-### Guerre des Malouines
-- Cette guerre concernant la revendication d'une île de l'atlantique sud a duré 2 mois en 1982 entre la junte militaire argentine et l'armée anglaise. Depuis, il reste toujours un contentieux à régler.
-- Ce contentieux est régulièrement relancé dans certains milieux non politique comme le sport :
-	- [Article RTBF : victoire de l'Argentine sur l'Angleterre en demi finale de la coupe du monde 2026](https://www.rtbf.be/article/une-banderole-les-malouines-sont-argentines-deployee-apres-la-victoire-sur-l-angleterre-11758533
-	- )
 
