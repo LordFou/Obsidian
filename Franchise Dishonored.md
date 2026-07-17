@@ -2,15 +2,16 @@
 type: game
 ---
 
-# Franchise Half-Life
+# Franchise Dishonored
 
 
 ## Informations générales
-- Créateur(s) : {{Nom du ou des créateurs}}
-- Développeur(s) : {{Studio(s) de développement}}
-- Éditeur(s) : {{Nom de l’éditeur}}
-- Première apparition : {{Nom du premier jeu (année)}}
-- Genre principal : {{Stratégie, Action-Aventure, FPS...}}
+- **Créateur(s)** : {{Nom du ou des créateurs}}
+- **Développeur(s)** : {{Studio(s) de développement}}
+- **Éditeur(s)** : {{Nom de l’éditeur}}
+- **Première apparition** : {{Nom du premier jeu (année)}}
+- **Genre principal** : {{Stratégie, Action-Aventure, FPS...}}
+- **Points Communs** :
 
 ## Résumé et historique
 {{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
@@ -22,11 +23,9 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                  | Année | Plateformes | Remarque |
-| ---------------------- | ----- | ----------- | -------- |
-| [[Half-Life]]          |       |             |          |
-| Half-Life 2            | 2005  |             |          |
-| [[Half-Life - Legacy]] | 2025  |             |          |
+| Titre | Année | Plateformes | Remarque |
+| ----- | ----- | ----------- | -------- |
+|       |       |             |          |
 
 
 ## Mécaniques et innovations
