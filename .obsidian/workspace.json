@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Resonance - A Plague Tale Legacy.md",
+                "file": "PS Vita.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resonance - A Plague Tale Legacy"
+              "title": "PS Vita"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Olivier Deriv",
+                "query": "Sony",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -221,8 +221,11 @@
   },
   "active": "dc62dc4592008b3d",
   "lastOpenFiles": [
-    "Vasiliki Anatasiou.md",
+    "Sony.md",
+    "PS Vita.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Snacktorio.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Resonance - A Plague Tale Legacy.md",
+    "Vasiliki Anatasiou.md",
     "Loisirs/Jeux Vidéos/Asobo.md",
     "Loisirs/Jeux Vidéos/A Plague Tale - Requiem.md",
     "Franchise A Plague Tale.md",
@@ -247,9 +250,6 @@
     "Franchise Dishonored.md",
     "Arkane Studios.md",
     "Dishonored.md",
-    "Valve.md",
-    "Franchise Half-Life.md",
-    "Half-Life.md",
     "Attachments/image-720.webp",
     "Attachments/image-719.webp",
     "Attachments/image-718.webp",
