@@ -43,7 +43,7 @@ type: personne
 | 2026  | [[Tournoi de Halle]] - Simple      | 1/4 finale                 | Défaite contre [[Alexander Zverev]]                                                                                                                                                  |
 | 2026  | [[Tournoi de Eastbourne]] - Simple | 1ier tour                  |                                                                                                                                                                                      |
 | 2026  | [[Wimbledon]]                      | 1ier tour                  | Défaite contre [[Arthur Fils]] (ATP 24)                                                                                                                                              |
-| 2026  | [[Tournoi de Gstaad]]              | 1/2 finale                 | Victoire en 1/8 contre [[Lorenzo Sonego]] (ATP 83)<br>Victoire en 1/4 contre Valentin Vacherot (ATP 21)                                                                              |
+| 2026  | [[Tournoi de Gstaad]]              | 1/2 finale                 | Victoire en 1/8 contre [[Lorenzo Sonego]] (ATP 83)<br>Victoire en 1/4 contre [[Valentin Vacherot]] (ATP 21)                                                                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

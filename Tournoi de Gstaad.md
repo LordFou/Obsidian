@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Tournoi de Gstaad
+# Tournoi de Gstaad - ATP 250
 
 # Introduction
 
