@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Raph",
+                "query": "Rhythm Paradise",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -220,7 +220,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "6cd20efb8026b20c",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
     "Raphaël Collignon.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/HAUNTMATES.md",
