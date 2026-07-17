@@ -35,13 +35,14 @@ tags: mediaDB/game
 - **Éditeur** : [[Dear Villagers]]
 - **Plateformes** : [[PC]], [[Switch]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Aventure]]
+- **Genre** : [[Aventure]], [[Plateforme]]
 - **Résumé** :  Histoire d'entraide entre un humain et un faon
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : 
 	- Style graphique simple et stylisé
+	- Vue de côté
 - **Audio** : 
 	- Musique piano émouvante
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
@@ -50,6 +51,9 @@ tags: mediaDB/game
 		- Pour tout âge (+) 
 		- Bo (+)
 		- Puzzle parfois capricieux et time boxés difficilement.
+	- Izual
+		- Beauté
+		- Atmsophère tranquille
 - **Gameplay** :
 	- Aucun dialogue !! => Renforcement de l'impact émotionnel
 	- La conception sonore à une place centrale (bruits et sons)

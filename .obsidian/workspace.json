@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2026-07-17"
             }
+          },
+          {
+            "id": "6cd20efb8026b20c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Deer And Boy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deer And Boy"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dylan Borl",
+                "query": "Deer",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,10 +220,14 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dc62dc4592008b3d",
+  "active": "6cd20efb8026b20c",
   "lastOpenFiles": [
-    "Dylan Borlée.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dimhaven - The Lost Source.md",
+    "Zadbox Entertainment.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Quern - Undying Thoughts.md",
     "Journal de bord/2026-07-17.md",
+    "Attachments/image-718.webp",
+    "Dylan Borlée.md",
     "Loisirs/Sport/Sportifs/Elie Bacari.md",
     "Delphine Nkansa.md",
     "Attachments/image-717.webp",
@@ -233,10 +252,7 @@
     "Famille/Vacances/Danemark/Bork Havn",
     "Journal de bord/2026-07-15.md",
     "Famille/Vacances/Danemark",
-    "Famille/Vacances/Bork Havn.md",
     "Famille/Vacances",
-    "Unreal Engine.md",
-    "Loisirs/Jeux Vidéos/Périphériques/Steam Machine.md",
     "Attachments/image-716.webp",
     "Attachments/image-715.webp",
     "Attachments/image-714.webp",
@@ -245,7 +261,6 @@
     "Attachments/image-710.webp",
     "Attachments/image-711.webp",
     "Attachments/image-709.webp",
-    "Attachments/image-708.webp",
     "Loisirs/Sport/Compétitions/Sans titre",
     "Sans titre",
     "TI-99",
