@@ -1,40 +1,42 @@
 ---
 type: game
 subType: ""
-title: Plant Nursery Simulator
-englishTitle: Plant Nursery Simulator
+title: Moon River
+englishTitle: Moon River
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/3474700
-id: 3474700
+url: https://store.steampowered.com/app/3392490
+id: 3392490
 developers:
-  - Robot Assembly
+  - BadAlias
 publishers:
-  - Robot Assembly
+  - 2 Left Thumbs
 genres:
-  - Casual
-  - Simulation
+  - Adventure
+  - Indie
+  - RPG
+  - Free To Play
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3474700/header.jpg?t=1782462881
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3392490/c9523fc3036b09146cfe58f4b10baf0b70c7d708/header.jpg?t=1783023647
 released: true
-releaseDate: 22/06/2026
+releaseDate: 19/06/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3474700/header.jpg?t=1782462881)
-# Plant Nursery Simulator
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3392490/c9523fc3036b09146cfe58f4b10baf0b70c7d708/header.jpg?t=1783023647)
+# Moon River
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Robot Assembly]]
+	- Studio : [[BadAlias]]
 	- Personnalités : 
-- **Éditeur** : [[Robot Assembly]]
+- **Éditeur** : [[2 Left Thumbs]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Simulation]] de jardinerie
+- **Genre** : [[Aventure]], [[RPG]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -44,15 +46,15 @@ tags: mediaDB/game
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
 - **Gameplay** :
-- **Durée estimée** : 
+- **Durée estimée** : 2h
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- L'île de l'écoulement
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- [[Horticulture]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
@@ -62,5 +64,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/3474700 |
-![[image-720.webp|500x282]]
+| Wiki        | https://store.steampowered.com/app/3392490 |
