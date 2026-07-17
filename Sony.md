@@ -14,4 +14,8 @@ content: Plusieurs explications sont avancées, dont une préparation à la proc
 date: Mars 2026 
 title: Fermeture du studio [[Dark Outlaw Games]]
 content: créé en 2025 avec un vétéran des [[Call of Duty]] à sa tête, Sony prévoit 50 licenciements supplémentaires.
+
+date: Juillet 2026
+title: Fin des supports
+content: Sony annonce la fin des ventes de jeu sur support en 2028. En route pour le full demat
 ```
