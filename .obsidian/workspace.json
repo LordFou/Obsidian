@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Echoes of Aincrad.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Moonlight Peaks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Echoes of Aincrad"
+              "title": "Moonlight Peaks"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Echoes",
+                "query": "Palworld",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -221,8 +221,9 @@
   },
   "active": "dc62dc4592008b3d",
   "lastOpenFiles": [
-    "Game Studio Inc..md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Palworld.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Echoes of Aincrad.md",
+    "Game Studio Inc..md",
     "Bandai Namco.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Assassin's Creed Black Flag Resynced.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Moonlight Peaks.md",
@@ -248,7 +249,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Half-Life 2.md",
     "Attachments/image-723.webp",
     "Attachments/image-722.webp",
-    "Maxim Van Gils.md",
     "Attachments/image-721.webp",
     "Attachments/image-720.webp",
     "Attachments/image-719.webp",
