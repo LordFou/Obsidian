@@ -48,6 +48,7 @@ tags: mediaDB/game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- City 17
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :

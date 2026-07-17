@@ -31,6 +31,7 @@ tags: mediaDB/game
 - **Développeur** : 
 	- Studio : [[Arkane Studios]]
 	- Personnalités : 
+		- [[Viktor Antonov]] (Concept Artiste)
 - **Éditeur** : [[Bethesda Softworks]]
 - **Plateformes** : 
 - **Franchise** : [[Franchise Dishonored]]
@@ -48,6 +49,7 @@ tags: mediaDB/game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- Dunwall
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
