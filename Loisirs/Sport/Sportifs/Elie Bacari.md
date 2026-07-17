@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                                         | Résultat         | Remarque |
 | ----- | --------------------------------------------------- | ---------------- | -------- |
 | 2025  | [[Championnats du monde d'athlétisme]] - 110m haies | Eliminé en série | 13.55s   |
+| 2026  | Meeting de Madrid - Silver - 110m haies             | 4e               | 13.42s   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
