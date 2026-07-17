@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-721.webp|151x212]]
 # Charlotte Kool
 
 # Informations Générales

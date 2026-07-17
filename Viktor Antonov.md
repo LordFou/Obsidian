@@ -5,13 +5,17 @@ type: personne
 # Viktor Antonov
 
 ## Présentation
-Il est particulièrement connu pour avoir conçu l'identité visuelle des villes de science-fiction des jeux vidéo [[Half-Life 2]] et [[Dishonored]] 
+Il est particulièrement connu pour avoir conçu l'identité visuelle des villes de science-fiction des jeux vidéo [[Half-Life 2]] et [[Dishonored]] :
+- City 17 est une inspiration de l'architecture de [[Sofia]] (sa ville natale)
+- Dunwall est une inspiration des grandes villes industrielles du Royaume-Uni au 19e siècle telle que [[Londres]] et [[Edimbourg]].
 
 ## Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Profession(s)** : (Développeur, Designer, Compositeur, Journaliste, etc.)  
-- **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
+- **Nationalité** :  Bulgare
+- **Profession(s)** : Artiste
+- **Entreprise(s) associée(s)** : 
+	- [[Arkane Studios]]
+	- [[Valve]]
 
 ```timeline-labeled
 [line-5, body-2]

@@ -12,7 +12,7 @@ type: event
 |          | Vainqueur          | Général            | Montagne | Points | Jeune | Remarques              |
 | -------- | ------------------ | ------------------ | -------- | ------ | ----- | ---------------------- |
 | Prologue | [[Zoe Bäckstedt]]  | [[Zoe Bäckstedt]]  |          |        |       |                        |
-| 1e       |                    |                    |          |        |       |                        |
+| 1e       |                    | [[Zoe Bäckstedt]]  |          |        |       |                        |
 | 2e (NDL) | [[Charlotte Kool]] | [[Charlotte Kool]] |          |        |       | 5e - [[Lotte Kopecky]] |
 
 # General
