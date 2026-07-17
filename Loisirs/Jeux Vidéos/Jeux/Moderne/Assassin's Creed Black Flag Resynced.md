@@ -44,7 +44,7 @@ tags: mediaDB/game
 - **Éditeur** : [[Ubisoft]]
 - **Plateformes** : 
 - **Franchise** : [[Franchise Assasin's Creed]]
-- **Genre** :
+- **Genre** : [[Action]], [[Aventure]]
 - **Résumé** :  
 
 ## Détails Techniques

@@ -23,11 +23,12 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                    | Année | Plateformes | Remarque |
-| ------------------------ | ----- | ----------- | -------- |
-| [[Doom]]                 | 2016  | PC, 3DO (!) |          |
-| [[Doom Eternal]]         | 2018  |             |          |
-| [[Doom - The Dark Ages]] | 2025  |             |          |
+| Titre                                  | Année | Plateformes | Remarque |
+| -------------------------------------- | ----- | ----------- | -------- |
+| [[Doom]]                               | 2016  | PC, 3DO (!) |          |
+| [[Doom Eternal]]                       | 2018  |             |          |
+| [[Doom - The Dark Ages]]               | 2025  |             |          |
+| [[Doom - The Dark Ages - Revelations]] | 2026  |             | DLC      |
 
 
 ## Mécaniques et innovations
