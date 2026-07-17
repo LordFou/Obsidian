@@ -38,5 +38,7 @@ type: game
 - Première apparition d'un petit charpentier (JumpMan) qui deviendra plombier ([[Mario]]), et d'un singe qui deviendront des icônes pour les décennies à venir.
 - Nintendo pensait que le jeu allait encore un peu plus plomber l'état de la boite mais ce fut exactement le contraire. C'était le lancement vers la stratosphère.
 - Aujourd'hui encore, certains chassent le high score sur ce jeu
+- Un set [[Lego]] devrait sortir en Aout 2026 selon la rumeur.
+  ![[image-724.webp|500x281]]
 ## Liens et Ressources
 - 
