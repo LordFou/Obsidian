@@ -1,44 +1,44 @@
 ---
 type: game
 subType: ""
-title: Gecko Gods
-englishTitle: Gecko Gods
+title: Cozy Cleaner
+englishTitle: Cozy Cleaner
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/1290760
-id: 1290760
+url: https://store.steampowered.com/app/2742710
+id: 2742710
 developers:
-  - Inresin
+  - Payoff Games
 publishers:
-  - Super Rare Originals
+  - Rogue Duck Interactive
   - Gamersky Games
 genres:
-  - Action
   - Adventure
-  - Indie
+  - Casual
+  - Simulation
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290760/654aebe77ea1d5b0ca2ce89e7d397eed008aacfe/header.jpg?t=1776235750
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742710/f3808a194d9650ab1394e373856784fcf151cdc8/header.jpg?t=1784056873
 released: true
-releaseDate: 16/04/2026
+releaseDate: 22/06/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290760/654aebe77ea1d5b0ca2ce89e7d397eed008aacfe/header.jpg?t=1776235750)
-# Gecko Gods
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742710/f3808a194d9650ab1394e373856784fcf151cdc8/header.jpg?t=1784056873)
+# Cozy Cleaner
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Inresin]]
+	- Studio : [[Payoff Games]]
 	- Personnalités : 
 - **Éditeur** : 
-	- [[Super Rare Originals]]
+	- [[Rogue Duck Interactive]]
 	- [[Gamersky Games]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Puzzle]], [[Aventure]]
+- **Genre** : Rangement
 - **Résumé** :  
 
 ## Détails Techniques
@@ -47,7 +47,6 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
-	- CheckPoint (4.5/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -64,7 +63,6 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL                                              |
-| ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/1290760       |
-| Trailer     | https://youtu.be/Vw2I2y6B2vM?si=8celi3IXBU3a4_gD |
+| Description | URL       |
+| ----------- | --------- |
+| Wiki        | https://store.steampowered.com/app/2742710 |
