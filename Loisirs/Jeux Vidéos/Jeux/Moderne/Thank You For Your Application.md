@@ -39,7 +39,7 @@ tags: mediaDB/game
 - **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[RPG]], [[Simulation]], [[Point & Click]]
-- **Résumé** :  
+- **Résumé** :  En tant que chargé des "ressources humaines", vous passerez ainsi au peigne fin des CV et des diplômes pour débusquer les tire-au-flanc et engager les meilleur·es candidat·es, avec bien sûr des dilemmes moraux dans tous les sens
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -56,7 +56,9 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Les ressources humaines]]
 - **Influencé par** :
+	- [[Paper Please]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

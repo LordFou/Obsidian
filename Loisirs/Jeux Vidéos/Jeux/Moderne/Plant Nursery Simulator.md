@@ -1,44 +1,40 @@
 ---
 type: game
 subType: ""
-title: Cozy Cleaner
-englishTitle: Cozy Cleaner
+title: Plant Nursery Simulator
+englishTitle: Plant Nursery Simulator
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2742710
-id: 2742710
+url: https://store.steampowered.com/app/3474700
+id: 3474700
 developers:
-  - Payoff Games
+  - Robot Assembly
 publishers:
-  - Rogue Duck Interactive
-  - Gamersky Games
+  - Robot Assembly
 genres:
-  - Adventure
   - Casual
   - Simulation
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742710/f3808a194d9650ab1394e373856784fcf151cdc8/header.jpg?t=1784056873
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3474700/header.jpg?t=1782462881
 released: true
 releaseDate: 22/06/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742710/f3808a194d9650ab1394e373856784fcf151cdc8/header.jpg?t=1784056873)
-# Cozy Cleaner
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3474700/header.jpg?t=1782462881)
+# Plant Nursery Simulator
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Payoff Games]]
+	- Studio : [[Robot Assembly]]
 	- Personnalités : 
-- **Éditeur** : 
-	- [[Rogue Duck Interactive]]
-	- [[Gamersky Games]]
-- **Plateformes** : [[PC]]
+- **Éditeur** : [[Robot Assembly]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : Rangement, [[Housing]]
+- **Genre** : [[Simulation]] de jardinerie
 - **Résumé** :  
 
 ## Détails Techniques
@@ -56,14 +52,14 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Horticulture]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
-	- [[Hozy]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2742710 |
+| Wiki        | https://store.steampowered.com/app/3474700 |
