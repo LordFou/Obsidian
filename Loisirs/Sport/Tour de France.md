@@ -33,6 +33,7 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 | 10e (SLO)     | [[Tadej Pogacar]]        | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Juan Ayuso]]     |                          | 2e - [[Remco Evenepoel]]                                                                                                         |
 | 11e (NOR)     | [[Soren Waerenskjold]]   | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Juan Ayuso]]     |                          | 3e - [[Jasper Philipsen]]                                                                                                        |
 | ==12e (BEL)== | [[Tim Merlier]]          | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Juan Ayuso]]     |                          | Encore une grosse chute dans le sprint.<br>Abandon de [[Jenno Berckmoes]]                                                        |
+| 13e (SUI)     | [[Mauro Schmid]]         | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Juan Ayuso]]     |                          | 4e - [[Maxim Van Gils]]<br>Grosse remontée de [[Tom Pidcock]] au général (10e - >4e)                                             |
 ## Femmes %% fold %%
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
@@ -49,6 +50,7 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 | [[Lidl-Trek]]  | 1             |
 | [[Décathlon]]  | 1             |
 | [[Uno-x]]      | 1             |
+| [[Jayco]]      | 1             |
 
 | Nation   | Nbr Victoires |
 | -------- | ------------- |
@@ -58,6 +60,7 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 | Mexique  | 1             |
 | Danemark | 1             |
 | Norvège  | 1             |
+| Suisse   | 1             |
 
 # Edition 2025 %% fold %%
 ## Hommes
