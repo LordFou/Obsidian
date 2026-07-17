@@ -1,39 +1,43 @@
 ---
 type: game
 subType: ""
-title: Attack on Titan 3 - A.O.T.3
-englishTitle: Attack on Titan 3 - A.O.T.3
-year: NaN
+title: HYPERWIRED
+englishTitle: HYPERWIRED
+year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2916700
-id: 2916700
+url: https://store.steampowered.com/app/3234850
+id: 3234850
 developers:
-  - KOEI TECMO GAMES CO., LTD.
+  - SIDRALGAMES
 publishers:
-  - KOEI TECMO GAMES CO., LTD.
+  - SelectaPlay
+  - Beep Japan Inc.
 genres:
   - Action
+  - Indie
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916700/86ab8f2c17c9ba112ca8ba30cc7a78785f50333e/header.jpg?t=1783921183
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234850/f94cc392a251d3da2701671e7763d034c9528f08/header.jpg?t=1782987970
 released: true
-releaseDate: unknown
+releaseDate: 02/07/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916700/86ab8f2c17c9ba112ca8ba30cc7a78785f50333e/header.jpg?t=1783921183)
-# Attack on Titan 3 - A.O.T.3
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234850/f94cc392a251d3da2701671e7763d034c9528f08/header.jpg?t=1782987970)
+# HYPERWIRED
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[KOEI TECMO GAMES]]
+	- Studio : [[SIDRALGAMES]]
 	- Personnalités : 
-- **Éditeur** : [[KOEI TECMO GAMES]] 
-- **Plateformes** : 
+- **Éditeur** : 
+	- [[SelectaPlay]]
+	-[[ Beep Japan Inc.]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch]]
 - **Franchise** : 
-- **Genre** : [[Action]]
+- **Genre** : [[Shoot'em up]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -60,5 +64,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/2916700       |
-| Trailer     | https://youtu.be/pFK0K6IR-M4?si=2xNv-pHt5xiAKsoc |
+| Steam       | https://store.steampowered.com/app/3234850       |
+| Gameplay    | https://youtu.be/8rKvy_cIuCQ?si=ezPobt0n4Q57T0Nn |
