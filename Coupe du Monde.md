@@ -307,9 +307,9 @@ type: event
 | Demi-finale 1 | France     | 0 - 2 | Espagne   | 14/07/2026 | 21:00 |
 | Demi-finale 2 | Angleterre | 1 - 2 | Argentine | 15/07/2026 | 21:00 |
 ## Petite Finale
-| Date              | Heure | Match               | Résultat |
-| ----------------- | ----: | ------------------- | -------- |
-| Samedi 18 Juillet | 21:00 | France - Angleterre |          |
+| Date              | Heure | Match               | Résultat                |
+| ----------------- | ----: | ------------------- | ----------------------- |
+| Samedi 18 Juillet | 21:00 | France - Angleterre | 4-6 (0-4 à la mi-temps) |
 ## Finale
 | Date                | Heure | Match               | Résultat |
 | ------------------- | ----: | ------------------- | -------- |

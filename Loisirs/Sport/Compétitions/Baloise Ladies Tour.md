@@ -9,11 +9,12 @@ type: event
 
 ## Femmes
 
-|          | Vainqueur          | Général            | Montagne | Points | Jeune | Remarques              |
-| -------- | ------------------ | ------------------ | -------- | ------ | ----- | ---------------------- |
-| Prologue | [[Zoe Bäckstedt]]  | [[Zoe Bäckstedt]]  |          |        |       |                        |
-| 1e       |                    | [[Zoe Bäckstedt]]  |          |        |       |                        |
-| 2e (NDL) | [[Charlotte Kool]] | [[Charlotte Kool]] |          |        |       | 5e - [[Lotte Kopecky]] |
+|                | Vainqueur          | Général            | Montagne | Points | Jeune | Remarques              |
+| -------------- | ------------------ | ------------------ | -------- | ------ | ----- | ---------------------- |
+| Prologue (ANG) | [[Zoe Bäckstedt]]  | [[Zoe Bäckstedt]]  |          |        |       |                        |
+| 1e             |                    | [[Zoe Bäckstedt]]  |          |        |       |                        |
+| 2e (NDL)       | [[Charlotte Kool]] | [[Charlotte Kool]] |          |        |       | 5e - [[Lotte Kopecky]] |
+| 3e (ANG)       | [[Zoe Bäckstedt]]  | [[Zoe Bäckstedt]]  |          |        |       |                        |
 
 # General
 
