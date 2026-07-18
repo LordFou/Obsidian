@@ -14,7 +14,8 @@ type: event
 | Prologue (ANG) | [[Zoe Bäckstedt]]  | [[Zoe Bäckstedt]]  |          |        |       |                        |
 | 1e             |                    | [[Zoe Bäckstedt]]  |          |        |       |                        |
 | 2e (NDL)       | [[Charlotte Kool]] | [[Charlotte Kool]] |          |        |       | 5e - [[Lotte Kopecky]] |
-| 3e (ANG)       | [[Zoe Bäckstedt]]  | [[Zoe Bäckstedt]]  |          |        |       |                        |
+| 3e (ANG)       | [[Zoe Bäckstedt]]  | [[Zoe Bäckstedt]]  |          |        |       | 3e - [[Lotte Kopecky]] |
+|                |                    |                    |          |        |       |                        |
 
 # General
 
