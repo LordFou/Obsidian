@@ -34,6 +34,7 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 | 11e (NOR)     | [[Soren Waerenskjold]]   | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Juan Ayuso]]     |                          | 3e - [[Jasper Philipsen]]                                                                                                        |
 | ==12e (BEL)== | [[Tim Merlier]]          | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Juan Ayuso]]     |                          | Encore une grosse chute dans le sprint.<br>Abandon de [[Jenno Berckmoes]]                                                        |
 | 13e (SUI)     | [[Mauro Schmid]]         | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Juan Ayuso]]     | [[Tom Pidcock]]          | 4e - [[Maxim Van Gils]]<br>Grosse remontée de [[Tom Pidcock]] au général (10e -> 4e)                                             |
+| 14e (SLO)     | [[Tadej Pogacar]]        | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Paul Seixas]]    |                          | 5e - [[Remco Evenepoel]]                                                                                                         |
 ## Femmes %% fold %%
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
@@ -43,7 +44,7 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 
 | Equipe         | Nbr Victoires |
 | -------------- | ------------- |
-| UAE            | 4             |
+| UAE            | 5             |
 | [[Quick-Step]] | 3             |
 | Visma          | 1             |
 | [[Alpecin]]    | 1             |
@@ -54,8 +55,8 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 
 | Nation   | Nbr Victoires |
 | -------- | ------------- |
+| Slovénie | 4             |
 | Pays-Bas | 3             |
-| Slovénie | 3             |
 | Belgique | 3             |
 | Mexique  | 1             |
 | Danemark | 1             |
