@@ -11,10 +11,22 @@ type: event
 ![[image-668.webp|181x278]]
 
 - Performances
-	- La France se balade jusqu'au match de 1/8e contre le Paraguay où ce fut une hécatombe de fautes, surtout venant de leur adversaire. Mais ils passent.
-	- L'Espagne possède la meilleure défense jusqu'en 1/4, aucun but encaissé.
-	- L'Argentine s'en sort pas mal jusque là avec un [[Lionel Messi]] en vrai Dieu du [[Football]].
-	- La Belgique souffle le chaud et le froid mais surtout elle humilie les USA et [[Donald Trump]] par leur intermédiaire.
+	- La France 
+		- Elle se balade jusqu'au match de 1/8e contre le Paraguay où ce fut une hécatombe de fautes, surtout venant de leur adversaire. Mais ils passent.
+		- Elle tombe contre l'Espagne sans trouver le chemin des filets.
+		- [[Kylian Mbappé]] élu meilleur buteur
+	- L'Espagne possède la meilleure défense du tournoi, un seul but encaissé du fait de nos [[Diables Rouges]].
+	- L'Argentine va jusqu'en finale avec un [[Lionel Messi]] en vrai Dieu du [[Football]]. Elle tombera contre l'Espagne sans gloire. Ciao Messi !
+	- La Belgique souffle le chaud et le froid mais réussit son objectif de départ
+		- Elle sort difficilement du groupe en terminant par un très beau match contre la Nouvelle-Zélande
+		- Elle nous ressort un match à la Belgique - Japon en 2018 en inscrivant 3 buts au Sénégal à partir de la 86e minute (2-3)
+		- Elle humilie [[Donald Trump]] en battant les USA en 8e de finale après son intervention scandaleuse auprès de la FIFA. 
+		- Elle sera éliminée en quart contre le futur vainqueur de la coupe. Elle mettre le seul but encaissé des espagnols.
+	- On peut normalement dire aurevoir à
+		- Lucas Modric
+		- [[Lionel Messi]]
+		- [[Cristiano Ronaldo]]
+		- Neymar
 - Scandales
 	- Les supporters iraniens empêchés de venir dans les stades.
 	- Les joueurs iraniens ne peuvent débarquer aux USA que le jour de leur match.
