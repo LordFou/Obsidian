@@ -335,7 +335,31 @@ type: event
 | 202X  | Espagne   |          |
 |       |           |          |
 |       |           |          |
+## Meilleur Buteur
+
+| Année | Sportif                | Pays   |
+| ----- | ---------------------- | ------ |
+| 2026  | [[Kylian Mbappé]] (10) | France |
+| 2030  |                        |        |
+## Meilleur Gardien
+
+| Année | Sportif              | Pays      |
+| ----- | -------------------- | --------- |
+| 1994  | Michel Preudhomme    | ==Belgique==  |
+| 2018  | [[Thibaut Courtois]] | ==Belgique==  |
+| 2022  | Fernandez            | Argentine |
+| 2026  | Diego Simeone        | Espagne   |
+## Meilleur Jeune
+
+| Année | Sportif      | Pays    |
+| ----- | ------------ | ------- |
+| 2026  | Cubarsal (?) | Espagne |
+## Meilleur Joueur
+
+| Année | Sportif | Pays    |
+| ----- | ------- | ------- |
+| 2026  | Rodri   | Espagne |
 
 # Statistiques
 
-![[image-697.webp|500x422]]
+![[image-697.webp|500x422]] ![[image-726.webp|500x518]]

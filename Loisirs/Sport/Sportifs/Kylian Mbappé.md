@@ -16,12 +16,14 @@ type: personne
 | Année | Compétition        | Résultat | Remarque |
 | ----- | ------------------ | -------- | -------- |
 | 2018  | [[Coupe du Monde]] | 1ier     |          |
+| 2022  | [[Coupe du Monde]] | 4e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-- Meilleur buteur français en équipe nationale
+- Meilleur buteur français en équipe nationale (66)
+- Meilleur buteur en coupe du monde (22)
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
