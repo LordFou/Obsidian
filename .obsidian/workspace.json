@@ -35,7 +35,8 @@
               "title": "Viktor Antonov"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,8 +220,9 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dc62dc4592008b3d",
+  "active": "6cd20efb8026b20c",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Paulien Couckuyt.md",
     "Attachments/image-725.webp",
     "Raphaël Collignon.md",
     "Loisirs/Sport/Compétitions/Baloise Ladies Tour.md",
@@ -259,7 +261,6 @@
     "Famille/Vacances/Danemark",
     "Famille/Vacances",
     "Attachments/image-716.webp",
-    "Attachments/image-715.webp",
     "Loisirs/Sport/Compétitions/Sans titre",
     "Sans titre",
     "TI-99",
