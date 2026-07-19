@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition         | Résultat | Remarque |
-| ----- | ------------------- | -------- | -------- |
-| 2026  | [[Rallye du Kenya]] | 2e       |          |
+| Année | Compétition          | Résultat | Remarque |
+| ----- | -------------------- | -------- | -------- |
+| 2026  | [[Rallye du Kenya]]  | 2e       | Hyundai  |
+| 2026  | [[Rallye d'Estonie]] | 3e       | Hyundai  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

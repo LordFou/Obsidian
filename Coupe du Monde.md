@@ -20,8 +20,8 @@ type: event
 	- La Belgique souffle le chaud et le froid mais réussit son objectif de départ
 		- Elle sort difficilement du groupe en terminant par un très beau match contre la Nouvelle-Zélande
 		- Elle nous ressort un match à la Belgique - Japon en 2018 en inscrivant 3 buts au Sénégal à partir de la 86e minute (2-3)
-		- Elle humilie [[Donald Trump]] en battant les USA en 8e de finale après son intervention scandaleuse auprès de la FIFA. 
-		- Elle sera éliminée en quart contre le futur vainqueur de la coupe. Elle mettre le seul but encaissé des espagnols.
+		- Elle humilie [[Donald Trump]] en battant les USA en 8e de finale après son intervention scandaleuse auprès de la FIFA. (4-1)
+		- Elle sera éliminée en quart contre le futur vainqueur de la coupe. Elle mettre le seul but encaissé des espagnols. (1-2)
 	- On peut normalement dire aurevoir à
 		- Lucas Modric
 		- [[Lionel Messi]]
