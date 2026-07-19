@@ -31,8 +31,8 @@ type: personne
 | 2026  | [[Tournoi de Dubaï]]                | 1ier tour              | Défaite contre le 49e mondial                                                                                           |
 | 2026  | [[Tournoi Indian Wells]]            | 2e tour                |                                                                                                                         |
 | 2026  | [[Tournoi de Miami]]                | 2e tour                |                                                                                                                         |
-| 2026  | [[Tournoi de Monte-Carlo]] - Double | 2e tour                | avec [[Jannik Sinner]]                                                                                                  |
-| 2026  | [[Tournoi de Monte-Carlo]] - Simple | 1/8 finale             | Défaite contre [[Alexander Zverev]]                                                                                     |
+| 2026  | [[Tournoi de Monte Carlo]] - Double | 2e tour                | avec [[Jannik Sinner]]                                                                                                  |
+| 2026  | [[Tournoi de Monte Carlo]] - Simple | 1/8 finale             | Défaite contre [[Alexander Zverev]]                                                                                     |
 | 2026  | [[Tournoi de Munich]]               | 2e tour                |                                                                                                                         |
 | 2026  | [[Tournoi de Madrid]]               | 1e tour                |                                                                                                                         |
 | 2026  | [[Tournoi d'Aix-en-Provence]]       | Finale                 | Défaite contre [[Alejandro Tabilo]] (ATP 43)                                                                            |

@@ -8,11 +8,11 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur             | Nationalité | Remarque |
-| ----- | --------------------- | ----------- | -------- |
-| 2025  |                       |             |          |
-| 2026  | [[Stefano Tsitsipas]] | Grec        |          |
-|       |                       |             |          |
+| Année | Vainqueur             | Nationalité   | Remarque |
+| ----- | --------------------- | ------------- | -------- |
+| 2025  | [[Alexander Bublik]]  | Kazakhstanais |          |
+| 2026  | [[Stefano Tsitsipas]] | Grec          |          |
+|       |                       |               |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

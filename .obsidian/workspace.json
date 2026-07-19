@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stefano Tsitsipas.md",
+                "file": "Kimi Antonelli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stefano Tsitsipas"
+              "title": "Kimi Antonelli"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Raph",
+                "query": "Grand Prix de Belgique",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,11 +205,16 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "6cd20efb8026b20c",
+  "active": "dbacc6f984f28690",
   "lastOpenFiles": [
-    "Loisirs/Sport/Compétitions/Tournoi de Dubaï.md",
-    "Stefano Tsitsipas.md",
+    "Grand Prix de Belgique.md",
+    "Oscar Piastri.md",
+    "Alexander Bublik.md",
     "Tournoi de Gstaad.md",
+    "Stefano Tsitsipas.md",
+    "Loisirs/Sport/Compétitions/Tournoi de Monte Carlo.md",
+    "Tournoi de Londres.md",
+    "Loisirs/Sport/Compétitions/Tournoi de Dubaï.md",
     "Raphaël Collignon.md",
     "Coupe du Monde.md",
     "Viktor Antonov.md",
@@ -231,11 +236,6 @@
     "Journal de bord/2026-07-18.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Donkey Kong.md",
     "Attachments/image-724.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Moonlight Peaks.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Palworld.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Echoes of Aincrad.md",
-    "Game Studio Inc..md",
-    "Bandai Namco.md",
     "Attachments/image-723.webp",
     "Attachments/image-722.webp",
     "Attachments/image-721.webp",

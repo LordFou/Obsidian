@@ -16,14 +16,17 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition           | Résultat  | Remarque                              |
-| ----- | --------------------- | --------- | ------------------------------------- |
-| 2     |                       |           |                                       |
-| 2021  | [[Roland-Garros]]     | Finaliste |                                       |
-| 2023  | [[Australian Open]]   | Finaliste |                                       |
-| 2025  | [[Tournoi de Dubaï]]  | Vainqueur |                                       |
-| 2026  | [[Tournoi de Gstaad]] | Vainqueur | Victoire contre [[Raphaël Collignon]] |
-|       |                       |           |                                       |
+| Année | Compétition                | Résultat  | Remarque                              |
+| ----- | -------------------------- | --------- | ------------------------------------- |
+| 2019  | [[Tournoi de Londres]]     | Vainqueur |                                       |
+| 2021  | [[Roland-Garros]]          | Finaliste |                                       |
+| 2021  | [[Tournoi de Monte Carlo]] | Vainqueur |                                       |
+| 2022  | [[Tournoi de Monte Carlo]] | Vainqueur |                                       |
+| 2023  | [[Australian Open]]        | Finaliste |                                       |
+| 2024  | [[Tournoi de Monte Carlo]] | Vainqueur |                                       |
+| 2025  | [[Tournoi de Dubaï]]       | Vainqueur |                                       |
+| 2026  | [[Tournoi de Gstaad]]      | Vainqueur | Victoire contre [[Raphaël Collignon]] |
+|       |                            |           |                                       |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
