@@ -38,6 +38,7 @@ type: event
 		- Quelques heures plus tard, il assume son [intervention](https://www.rtbf.be/article/donald-trump-confirme-et-assume-dans-l-affaire-balogun-oui-j-ai-demande-un-reexamen-a-la-fifa-je-ne-pensais-pas-que-c-etait-faute-11753627)
 	- La FIFA va vendre des morceaux de pelouse de la finale à 390e pièce !!!!!!
 	  ![[image-712.webp|309x333]]
+	- [[Donald Trump]] menace le Canada pour les feux de forêt incontrôlés qui empestent l'air de New York (comme si c'était fait exprès...)
 
 ## Phase de groupe %% fold %%
 ### Groupe A

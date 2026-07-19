@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc62dc4592008b3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loisirs/Sport/Sportifs/Paulien Couckuyt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Paulien Couckuyt"
-            }
-          },
-          {
             "id": "6cd20efb8026b20c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Tour de France.md",
+                "file": "Stefano Tsitsipas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour de France"
+              "title": "Stefano Tsitsipas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour de F",
+                "query": "Raph",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -222,23 +207,26 @@
   },
   "active": "6cd20efb8026b20c",
   "lastOpenFiles": [
-    "Loisirs/Sport/Sportifs/Adrien Fourmaux.md",
-    "Loisirs/Sport/Compétitions/Dakar.md",
-    "Oliver Solberg.md",
-    "Thierry Neuville.md",
-    "Loisirs/Sport/Sportifs/Sami Pajari.md",
-    "Rallye d'Estonie.md",
+    "Loisirs/Sport/Compétitions/Tournoi de Dubaï.md",
+    "Stefano Tsitsipas.md",
+    "Tournoi de Gstaad.md",
+    "Raphaël Collignon.md",
     "Coupe du Monde.md",
+    "Viktor Antonov.md",
+    "Rallye d'Estonie.md",
+    "Loisirs/Sport/Sportifs/Sami Pajari.md",
+    "Thierry Neuville.md",
+    "Oliver Solberg.md",
+    "Loisirs/Sport/Compétitions/Dakar.md",
+    "Loisirs/Sport/Sportifs/Adrien Fourmaux.md",
+    "Loisirs/Sport/Tour de France.md",
     "Loisirs/Sport/Sportifs/Kylian Mbappé.md",
     "Attachments/image-726.webp",
-    "Viktor Antonov.md",
     "Loisirs/Sport/Sportifs/Paulien Couckuyt.md",
     "Attachments/image-725.webp",
-    "Raphaël Collignon.md",
     "Loisirs/Sport/Compétitions/Baloise Ladies Tour.md",
     "Zoe Bäckstedt.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
-    "Loisirs/Sport/Tour de France.md",
     "Loisirs/Sport/Tadej Pogacar.md",
     "Journal de bord/2026-07-18.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Donkey Kong.md",
@@ -248,9 +236,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Echoes of Aincrad.md",
     "Game Studio Inc..md",
     "Bandai Namco.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Assassin's Creed Black Flag Resynced.md",
-    "Little Chicken.md",
-    "Loisirs/Jeux Vidéos/Franchise Doom.md",
     "Attachments/image-723.webp",
     "Attachments/image-722.webp",
     "Attachments/image-721.webp",

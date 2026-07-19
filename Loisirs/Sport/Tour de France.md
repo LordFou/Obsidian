@@ -37,7 +37,7 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 | ==12e (BEL)== | [[Tim Merlier]]          | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Juan Ayuso]]     |                          | Encore une grosse chute dans le sprint.<br>Abandon de [[Jenno Berckmoes]]                                                        |
 | 13e (SUI)     | [[Mauro Schmid]]         | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Juan Ayuso]]     | [[Tom Pidcock]]          | 4e - [[Maxim Van Gils]]<br>Grosse remontée de [[Tom Pidcock]] au général (10e -> 4e)                                             |
 | 14e (SLO)     | [[Tadej Pogacar]]        | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Paul Seixas]]    |                          | 5e - [[Remco Evenepoel]]                                                                                                         |
-| 15e (BEL)     | [[Remco Evenepoel]]      | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Quinn Simmons]]        |                                                                                                                                  |
+| ==15e (BEL)== | [[Remco Evenepoel]]      | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Quinn Simmons]]        | ==500e victoire belge sur le tour !!!==                                                                                          |
 ## Femmes %% fold %%
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
@@ -45,22 +45,23 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 |     |           |         |          |        |       |           |
 |     |           |         |          |        |       |           |
 
-| Equipe         | Nbr Victoires |
-| -------------- | ------------- |
-| UAE            | 5             |
-| [[Quick-Step]] | 3             |
-| Visma          | 1             |
-| [[Alpecin]]    | 1             |
-| [[Lidl-Trek]]  | 1             |
-| [[Décathlon]]  | 1             |
-| [[Uno-x]]      | 1             |
-| [[Jayco]]      | 1             |
+| Equipe           | Nbr Victoires |
+| ---------------- | ------------- |
+| UAE              | 5             |
+| [[Quick-Step]]   | 3             |
+| Visma            | 1             |
+| [[Alpecin]]      | 1             |
+| [[Lidl-Trek]]    | 1             |
+| [[Décathlon]]    | 1             |
+| [[Uno-x]]        | 1             |
+| [[Jayco]]        | 1             |
+| [[Bora Redbull]] | 1             |
 
 | Nation   | Nbr Victoires |
 | -------- | ------------- |
+| Belgique | 4             |
 | Slovénie | 4             |
 | Pays-Bas | 3             |
-| Belgique | 3             |
 | Mexique  | 1             |
 | Danemark | 1             |
 | Norvège  | 1             |
