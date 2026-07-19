@@ -313,28 +313,28 @@ type: event
 ## Finale
 | Date                | Heure | Match               | Résultat |
 | ------------------- | ----: | ------------------- | -------- |
-| Dimanche 19 Juillet | 21:00 | Argentine - Espagne |          |
+| Dimanche 19 Juillet | 21:00 | Argentine - Espagne | 0-1      |
 # Hall of fame
 ## Hommes
 
-| Année | Nationalité | Remarque           |
-| ----- | ----------- | ------------------ |
-| 1998  | France      |                    |
-| 2002  |             |                    |
-| 2006  | Italie      |                    |
-| 2010  |             | Afrique du Sud     |
-| 2014  | Allemagne ? |                    |
-| 2018  | France      |                    |
-| 2022  | Argentine   |                    |
-| 2026  |             | Mexique/Canada/USA |
-|       |             |                    |
+| Année | Nationalité   | Remarque           |
+| ----- | ------------- | ------------------ |
+| 1998  | France        |                    |
+| 2002  |               |                    |
+| 2006  | Italie        |                    |
+| 2010  | Espagne (1)   | Afrique du Sud     |
+| 2014  | Allemagne ?   |                    |
+| 2018  | France (2)    |                    |
+| 2022  | Argentine (3) |                    |
+| 2026  | Espagne (2)   | Mexique/Canada/USA |
+|       |               |                    |
 ## Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur | Remarque |
+| ----- | --------- | -------- |
+| 202X  | Espagne   |          |
+|       |           |          |
+|       |           |          |
 
 # Statistiques
 
