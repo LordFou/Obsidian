@@ -4,8 +4,15 @@ type: team
 ![[image-656.webp|320x439]]
 # Equipe nationale belge masculine de football
 
+Entraineurs :
+- [[Marc Wilmots]]
+- Roberto Martinez
+- ...
+- Rudi Garcia
+
 | Année | Epreuve            | Résultat                                             | Remarque |
 | ----- | ------------------ | ---------------------------------------------------- | -------- |
+| 2018  | [[Coupe du Monde]] | 1/2 finale (3e)                                      |          |
 | 2026  | Matchs Amicaux     | Croatie - Belgique (0-2)<br>Belgique - Tunisie (5-0) |          |
 | 2026  | [[Coupe du Monde]] | 1/4 finale                                           |          |
 |       |                    |                                                      |          |
