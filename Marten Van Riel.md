@@ -17,8 +17,9 @@ type: personne
 | ----- | ------------------------------------- | -------- | ------------------------------------------------------------- |
 | 2025  | [[Circuit T100]] - Vancouver - Canada | 2e       |                                                               |
 | 2025  | [[Mondiaux de Thriatlon]] - Iron Man  | 4e       | Derrière 3 norvégiens                                         |
-| 2026  | Iron Man - Texas                      | 2e       | Ancien record battu mais forcément battu aussi par le premier |
-| 2026  | Iron Man - Lake Placid                | ==1ier== | Première victoire en Iron Man                                 |
+| 2026  | Ironman - Texas                       | 2e       | Ancien record battu mais forcément battu aussi par le premier |
+| 2026  | Ironman 70.3 - Elsinore (Danemark)    | ==1ier== |                                                               |
+| 2026  | Ironman - Lake Placid                 | ==1ier== | Première victoire en Iron Man                                 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -205,7 +205,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "6cd20efb8026b20c",
+  "active": "dbacc6f984f28690",
   "lastOpenFiles": [
     "Journal de bord/Archives/2025-06-15.md",
     "Tim Merlier.md",
