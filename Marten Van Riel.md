@@ -18,6 +18,7 @@ type: personne
 | 2025  | [[Circuit T100]] - Vancouver - Canada | 2e       |                                                               |
 | 2025  | [[Mondiaux de Thriatlon]] - Iron Man  | 4e       | Derrière 3 norvégiens                                         |
 | 2026  | Iron Man - Texas                      | 2e       | Ancien record battu mais forcément battu aussi par le premier |
+| 2026  | Iron Man - Lake Placid                | ==1ier== | Première victoire en Iron Man                                 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

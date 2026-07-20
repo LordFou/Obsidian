@@ -44,6 +44,7 @@ type: personne
 | 2026  | [[Tour d'Italie]] - 16e étape            | ==1ier== |                            |
 | 2026  | [[Tour d'Italie]] - 20e étape            | ==1ier== |                            |
 | 2026  | [[Tour d'Italie]] - Classement final     | ==1ier== |                            |
+| 2026  | [[Tour de France]] - 15e étape           | Abandon  | Sur chute                  |
 
 # Style et Caractéristiques
 - On ne le voit jamais sur des courses d'un jour car toute ses saisons sont centrées sur le [[Tour de France]]
@@ -53,7 +54,7 @@ type: personne
 - Vainqueur des 3 grands tours => [[Club des vainqueurs des 3 grands tours]]
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Chute lors de la 15e étape du [[Tour de France]] 2026 => fracture de la clavicule et abandon.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

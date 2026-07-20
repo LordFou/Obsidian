@@ -9,13 +9,13 @@ type: event
 
 ## Femmes
 
-|                | Vainqueur          | Général            | Montagne | Points | Jeune | Remarques              |
-| -------------- | ------------------ | ------------------ | -------- | ------ | ----- | ---------------------- |
-| Prologue (ANG) | [[Zoe Bäckstedt]]  | [[Zoe Bäckstedt]]  |          |        |       |                        |
-| 1e             |                    | [[Zoe Bäckstedt]]  |          |        |       |                        |
-| 2e (NDL)       | [[Charlotte Kool]] | [[Charlotte Kool]] |          |        |       | 5e - [[Lotte Kopecky]] |
-| 3e (ANG)       | [[Zoe Bäckstedt]]  | [[Zoe Bäckstedt]]  |          |        |       | 3e - [[Lotte Kopecky]] |
-|                |                    |                    |          |        |       |                        |
+|                | Vainqueur            | Général            | Montagne | Points | Jeune | Remarques              |
+| -------------- | -------------------- | ------------------ | -------- | ------ | ----- | ---------------------- |
+| Prologue (ANG) | [[Zoe Bäckstedt]]    | [[Zoe Bäckstedt]]  |          |        |       |                        |
+| 1e             |                      | [[Zoe Bäckstedt]]  |          |        |       |                        |
+| 2e (NDL)       | [[Charlotte Kool]]   | [[Charlotte Kool]] |          |        |       | 5e - [[Lotte Kopecky]] |
+| 3e (ANG)       | [[Zoe Bäckstedt]]    | [[Zoe Bäckstedt]]  |          |        |       | 3e - [[Lotte Kopecky]] |
+| 4e (NDL)       | [[Nienke Veenhoven]] | [[Zoe Bäckstedt]]  |          |        |       |                        |
 
 # General
 
@@ -24,4 +24,4 @@ type: event
 | Année | Vainqueur         | Nationalité | Remarque |
 | ----- | ----------------- | ----------- | -------- |
 | 2025  | [[Zoe Bäckstedt]] | Britannique |          |
-| 2026  |                   |             |          |
+| 2026  | [[Zoe Bäckstedt]] | Britannique |          |
