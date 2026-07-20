@@ -33,6 +33,7 @@ type: personne
 | 2026  | [[Tournoi de Rome]]        | 1/16           | Victoire contre [[Federico Cina]] (ATP 225)<br>Victoire contre [[Tallon Griekspoor]] (ATP 31)<br>Défaite contre [[Alexander Zverev]] (ATP 3)                                                                                    |
 | 2026  | [[Roland-Garros]]          | 2e tour        | Victoire contre [[Coleman Wong]] ([[Lucky Loser]])<br>Forfait au 2e tour - Entorse durant un entrainement                                                                                                                       |
 | 2026  | [[Wimbledon]]              | 1e tour        | Défaite contre [[Alexander Zverev]] (ATP 3)                                                                                                                                                                                     |
+| 2026  | [[Tournoi d'Umag]]         | 1e tour        | Défaite contre [[Titouan Droguet]] (ATP 114)                                                                                                                                                                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
