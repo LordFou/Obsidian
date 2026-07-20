@@ -7,7 +7,7 @@ type: team
 Entraineurs :
 - [[Marc Wilmots]]
 - Roberto Martinez
-- ...
+- Domenico Tedesco
 - Rudi Garcia
 
 | Année | Epreuve            | Résultat                                             | Remarque |
