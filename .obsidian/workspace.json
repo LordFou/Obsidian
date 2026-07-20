@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Tour de France.md",
+                "file": "Euro de Football.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour de France"
+              "title": "Euro de Football"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour de f",
+                "query": "Euro",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,13 +207,15 @@
   },
   "active": "6cd20efb8026b20c",
   "lastOpenFiles": [
+    "Coupe du Monde.md",
+    "Loisirs/Sport/Tour de France.md",
+    "Attachments/image-727.webp",
     "Marten Van Riel.md",
     "Journal de bord/Archives/2025-06-15.md",
     "Tim Merlier.md",
     "Loisirs/Sport/Compétitions/Baloise Ladies Tour.md",
     "Zoe Bäckstedt.md",
     "Jonas Vingegaard.md",
-    "Loisirs/Sport/Tour de France.md",
     "Max Verstappen.md",
     "Loisirs/Sport/Sportifs/Charles Leclerc.md",
     "Kimi Antonelli.md",
@@ -226,13 +228,11 @@
     "Tournoi de Londres.md",
     "Loisirs/Sport/Compétitions/Tournoi de Dubaï.md",
     "Raphaël Collignon.md",
-    "Coupe du Monde.md",
     "Viktor Antonov.md",
     "Rallye d'Estonie.md",
     "Loisirs/Sport/Sportifs/Sami Pajari.md",
     "Thierry Neuville.md",
     "Oliver Solberg.md",
-    "Loisirs/Sport/Compétitions/Dakar.md",
     "Attachments/image-726.webp",
     "Attachments/image-725.webp",
     "Attachments/image-724.webp",
@@ -242,7 +242,6 @@
     "Attachments/image-720.webp",
     "Attachments/image-719.webp",
     "Attachments/image-718.webp",
-    "Attachments/image-717.webp",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
     "Famille/Vacances",

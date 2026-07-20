@@ -10,9 +10,9 @@ type: event
 
 | Année | Vainqueur | Remarque |
 | ----- | --------- | -------- |
-| 2022  |           |          |
-| 2026  |           |          |
-|       |           |          |
+| 2008  | Espagne   |          |
+| 2012  | Espagne   |          |
+| 2024  | Espagne   |          |
 # Femmes
 
 | Année    | Vainqueur  | Remarque |

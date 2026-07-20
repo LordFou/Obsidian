@@ -10,7 +10,7 @@ Aussi surnommé la petite reine, le tour de France est le 3e évènement sportif
 # Statistiques %% fold %%
 
 ![[image-704.webp|500x410]]![[image-705.webp|500x460]]
-
+![[image-727.webp|500x413]]
 
 
 # Edition 2026
