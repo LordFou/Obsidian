@@ -13,13 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/KAZ.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Fogpiercer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KAZ"
-            }
+              "title": "Fogpiercer"
+            },
+            "group": "06e8b5a954caf6d8"
+          }
+        ]
+      },
+      {
+        "id": "2b6246eb20bd9bfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "726ca130edf6f128",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Fogpiercer.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graphique de Fogpiercer"
+            },
+            "group": "06e8b5a954caf6d8"
           }
         ]
       }
@@ -53,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "What Surrounds Us",
+                "query": "Fogpiercer",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,10 +250,19 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "6cd20efb8026b20c",
   "lastOpenFiles": [
-    "Kalinarm.md",
+    "Trains.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Fogpiercer.md",
+    "Mad Cookies Studio.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Puppergeist.md",
+    "Serenity Forge.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Teeto.md",
+    "Eat Pant Games.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/What Surrounds Us.md",
+    "Florent Martinais.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/KAZ.md",
+    "Kalinarm.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Ascend to ZERO.md",
     "Flyway Games.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Moonlight Peaks.md",
@@ -224,16 +278,7 @@
     "Diables Rouges.md",
     "Daniel Merida.md",
     "Tournoi d'Umag.md",
-    "Zizou Bergs.md",
-    "Alexander Blockx.md",
-    "Raphaël Collignon.md",
-    "Euro de Football.md",
     "Attachments/image-727.webp",
-    "Marten Van Riel.md",
-    "Journal de bord/Archives/2025-06-15.md",
-    "Tim Merlier.md",
-    "Loisirs/Sport/Compétitions/Baloise Ladies Tour.md",
-    "Zoe Bäckstedt.md",
     "Attachments/image-726.webp",
     "Attachments/image-725.webp",
     "Attachments/image-724.webp",
