@@ -38,7 +38,7 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 | 13e (SUI)     | [[Mauro Schmid]]         | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Juan Ayuso]]     | [[Tom Pidcock]]          | 4e - [[Maxim Van Gils]]<br>Grosse remontée de [[Tom Pidcock]] au général (10e -> 4e)                                             |
 | 14e (SLO)     | [[Tadej Pogacar]]        | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Paul Seixas]]    |                          | 5e - [[Remco Evenepoel]]                                                                                                         |
 | ==15e (BEL)== | [[Remco Evenepoel]]      | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Quinn Simmons]]        | ==500e victoire belge sur le tour !!!==<br>Abandon de [[Jonas Vingegaard]] sur chute                                             |
-| ==16e (BEL)== | [[Remco Evenepoel]]      | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] |                          | Première victoire belge un 21 juillet depuis 40 ans !!                                                                           |
+| ==16e (BEL)== | [[Remco Evenepoel]]      | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] |                          | Première victoire belge un 21 juillet depuis 40 ans !!<br>Abandon de [[Florian Lipowitz]]                                        |
 ## Femmes %% fold %%
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
