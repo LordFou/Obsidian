@@ -330,17 +330,17 @@ type: event
 # Hall of fame
 ## Hommes
 
-| Année | Nationalité   | Remarque           |
-| ----- | ------------- | ------------------ |
-| 1998  | France        |                    |
-| 2002  |               |                    |
-| 2006  | Italie        |                    |
-| 2010  | Espagne (1)   | Afrique du Sud     |
-| 2014  | Allemagne ?   |                    |
-| 2018  | France (2)    |                    |
-| 2022  | Argentine (3) |                    |
-| 2026  | Espagne (2)   | Mexique/Canada/USA |
-|       |               |                    |
+| Année | Nationalité               | Remarque           |
+| ----- | ------------------------- | ------------------ |
+| 1998  | France                    |                    |
+| 2002  |                           |                    |
+| 2006  | Italie                    |                    |
+| 2010  | Espagne (1)               | Afrique du Sud     |
+| 2014  | Allemagne ?               |                    |
+| 2018  | France (2)                |                    |
+| 2022  | Argentine (3)             |                    |
+| 2026  | Espagne (2) - [[La Roja]] | Mexique/Canada/USA |
+|       |                           |                    |
 ## Femmes
 
 | Année | Vainqueur | Remarque |
