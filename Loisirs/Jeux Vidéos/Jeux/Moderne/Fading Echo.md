@@ -1,45 +1,50 @@
 ---
 type: game
 subType: ""
-title: Fogpiercer
-englishTitle: Fogpiercer
+title: Fading Echo
+englishTitle: Fading Echo
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/3219010
-id: 3219010
+url: https://store.steampowered.com/app/2467880
+id: 2467880
 developers:
-  - Mad Cookies Studio
+  - Emeteria
 publishers:
-  - Hooded Horse
+  - New Tales
+  - Com2uS Holdings
 genres:
+  - Action
+  - Adventure
+  - Indie
   - RPG
-  - Strategy
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/df063c5a4c757290be45be0690f23954a64d4778/header.jpg?t=1784313817
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467880/e39036b077d6aee96e3e0b2e7929a55c4735957e/header.jpg?t=1784622856
 released: true
-releaseDate: 17/07/2026
+releaseDate: 21/07/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/df063c5a4c757290be45be0690f23954a64d4778/header.jpg?t=1784313817)
-# Fogpiercer
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467880/e39036b077d6aee96e3e0b2e7929a55c4735957e/header.jpg?t=1784622856)
+# Fading Echo
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Mad Cookies Studio]]
+	- Studio : [[Emeteria]]
 	- Personnalités : 
-- **Éditeur** : [[Hooded Horse]]
+- **Éditeur** : 
+	- [[New Tales]]
+	- [[Com2uS Holdings]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Roguelite]], [[Deckbuilding]]
+- **Genre** : [[Action]], [[Plateforme]]
 - **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : [[3D]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
@@ -52,7 +57,6 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- [[Trains|Les trains]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
@@ -62,5 +66,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/3219010       |
-| Trailer     | https://youtu.be/y433t3NSZ4o?si=BXKNrPi-jYV7hUwN |
+| Steam       | https://store.steampowered.com/app/2467880       |
+| Trailer     | https://youtu.be/D1vt4ipCQ6A?si=agcCbh_-ix4kEMcy |
