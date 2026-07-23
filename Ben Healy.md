@@ -9,7 +9,7 @@ type: personne
 - **Nationalité** :  Irlandais
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  [[Baroudeur]]
-- **Équipe(s) / Club(s)** :  [[EF Education]]
+- **Équipe(s) / Club(s)** :  [[EF - Education First]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
