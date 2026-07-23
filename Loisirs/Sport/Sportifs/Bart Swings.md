@@ -32,6 +32,7 @@ type: personne
 | 2026  | Marathon de Shanghai - Roller                                | ==1ier== |                                   |
 | 2026  | [[Euro de Roller]] - 5000m                                   | ==1ier== |                                   |
 | 2026  | [[Euro de Roller]] - Course par élimination - 10 km          | ==1ier== |                                   |
+| 2026  | [[Euro de Roller]] - 1000m                                   | ==1ier== |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -8,13 +8,13 @@ type: event
 
 # Hommes
 
-| Année | Epreuve | Vainqueur | Nationalité | Remarque |
-| ----- | ------- | --------- | ----------- | -------- |
-| 2026  |         |           |             |          |
-|       |         |           |             |          |
+| Année | Epreuve                        | Vainqueur       | Nationalité | Remarque |
+| ----- | ------------------------------ | --------------- | ----------- | -------- |
+| 2026  | 5000m                          | [[Bart Swings]] | Belge       |          |
+| 2026  | Course par élimination - 10 km | [[Bart Swings]] | Belge       |          |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Epreuve                        | Vainqueur            | Nationalité | Remarque |
+| ----- | ------------------------------ | -------------------- | ----------- | -------- |
+| 2026  | 500m                           | [[Alice Sorcionovo]] | Italienne   |          |
+| 2026  | Course par élimination - 10 km | [[Marine Lefeuvre]]  | Française   |          |
