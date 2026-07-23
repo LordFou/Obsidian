@@ -14,12 +14,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                    | Résultat | Remarque              |
-| ----- | ------------------------------ | -------- | --------------------- |
-| 2019  | [[Tour d'Italie]] - Général    | ==1ier== |                       |
-| 2025  | [[Tour d'Italie]] - 11e étape  | ==1ier== | 4e succès sur le Giro |
-| 2026  | [[Tour de France]] - 18e étape | ==1ier== |                       |
-|       |                                |          |                       |
+| Année | Compétition                                   | Résultat | Remarque              |
+| ----- | --------------------------------------------- | -------- | --------------------- |
+| 2019  | [[Tour d'Italie]] - Général                   | ==1ier== |                       |
+| 2025  | [[Tour d'Italie]] - 11e étape                 | ==1ier== | 4e succès sur le Giro |
+| 2026  | [[Tour de France]] - 18e étape + Combattivité | ==1ier== |                       |
+|       |                                               |          |                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

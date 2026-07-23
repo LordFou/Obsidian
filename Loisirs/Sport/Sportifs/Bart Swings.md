@@ -1,13 +1,13 @@
 ---
 type: personne
 ---
-![[image-231.webp]]
+![[image-728.webp|244x343]]
 # Bart Swings
 
 # Informations Générales
 - **Date de naissance** :  1991
 - **Nationalité** :  Belge
-- **Sport / Discipline** : [[Patinage de vitesse]] 
+- **Sport / Discipline** : [[Patinage de vitesse]], [[Roller]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
@@ -16,9 +16,13 @@ type: personne
 | Année | Compétition                                                  | Résultat | Remarque                          |
 | ----- | ------------------------------------------------------------ | -------- | --------------------------------- |
 | 2020  | [[Championnat d'Europe de patinage de vitesse]] - Mass-start | ==1ier== |                                   |
+|       |                                                              |          |                                   |
 | 2022  | [[Championnat d'Europe de patinage de vitesse]] - Mass-start | ==1ier== |                                   |
+| 2022  | [[JO 2022]] - Mass Start                                     | ==1ier== |                                   |
+|       |                                                              |          |                                   |
 | 2024  | [[Championnat d'Europe de patinage de vitesse]] - Mass-start | ==1ier== |                                   |
 | 2024  | Marathon de Shanghai - Roller                                | ==1ier== |                                   |
+|       |                                                              |          |                                   |
 | 2025  | Coupe du monde - Salt Lake City (USA) - 5000m                | 13e      |                                   |
 | 2025  | Coupe du Monde - Heerenveen (Pays-Bas) - 10 000m             | 2e       | 12:04,75 - ==Record de Belgique== |
 | 2025  | Coupe du Monde - Hamar  (Norvège) - Mass-start               | 2e       |                                   |
