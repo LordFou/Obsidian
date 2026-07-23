@@ -1,0 +1,2 @@
+# Steam
+- Malgré que le jeu [[Plantation Simulator]] soit un jeu où on incarne le maître d'une plantation et de ses esclaves (oui oui on peut les fouetter pour qu'ils travaillent plus vite), ce jeu a passé toutes les barrières de Steam concernant l'apologie de la violence, le racisme, etc. C'est même son développeur qui n'en est pas à son coup d'essai ([[FzzyBzzy]]) qui a lui même retiré le jeu de la vente.
