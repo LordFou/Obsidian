@@ -18,6 +18,8 @@ Activités
 - Collection de pierres
 - Chasse aux bunkers
 - Géocaching
-- Visite du centre viking de Ribe ()
+- Visite du centre viking de Ribe (Ripa)
+- Visite de la cathédrale de Ribe et ses environs
+- Legoland
 - Plage
 	- Nymindegab
