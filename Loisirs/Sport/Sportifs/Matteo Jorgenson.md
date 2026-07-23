@@ -15,10 +15,12 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                              | Résultat | Remarque |
 | ----- | ---------------------------------------- | -------- | -------- |
-| 2025  | [[Paris-Nice]] - ==Classement final==    | 1ier     |          |
+| 2025  | [[Paris-Nice]] - ==Classement final==    | ==1ier== |          |
+|       |                                          |          |          |
 | 2026  | [[Faun Drôme Classic]]                   | 2e       |          |
 | 2026  | [[Tirreno-Adriatico]] - Classement final | 2e       |          |
 | 2026  | [[Amstel Gold Race]]                     | Abandon  | Chute    |
+| 2026  | [[Tour de France]] - 18e étape           | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
