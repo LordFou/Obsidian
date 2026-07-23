@@ -18,9 +18,10 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
-content:
+date: Juillet 2026
+title: Xbox vire
+content: Xbox annonce 3200 licenciements en deux vagues, une en ce mois de juillet et une dans l'année fiscale en cours.
+- 60-70 personnes chez [[Obsidian]] ce qui provoque un ba
 ```
 
 ## Jeux Développés
