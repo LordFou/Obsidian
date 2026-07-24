@@ -21,26 +21,27 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 - Des contrôles antidopage en pleine nuit !!!!
 ## Hommes
 
-|               | Vainqueur                | Général              | Montagne          | Points             | Jeune              | Combattif                | Remarques                                                                                                                        |
-| ------------- | ------------------------ | -------------------- | ----------------- | ------------------ | ------------------ | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| 1e (NDL)      | [[Visma]]                | [[Jonas Vingegaard]] | [[Tadej Pogacar]] | [[Egan Bernal]]    | [[Juan Ayuso]]     |                          | CLM par équipe<br>5e - [[Remco Evenepoel]]<br>3 chutes au même endroit sur le parcours dont une qui provoque le premier abandon. |
-| 2e (MEX)      | [[Isaac Del Toro]]       | [[Jonas Vingegaard]] | [[Alex Molenaar]] | [[Isaac Del Toro]] | [[Isaac Del Toro]] | [[Felix Engelhardt]]     | 2e - [[Tadej Pogacar]]<br>3e - [[Remco Evenepoel]]                                                                               |
-| 3e (SLO)      | [[Tadej Pogacar]]        | [[Tadej Pogacar]]    | [[Alex Baudin]]   | [[Tadej Pogacar]]  | [[Isaac Del Toro]] | [[Alex Baudin]]          | Abandon d'[[Arnaud de Lie]]<br>6e - [[Lennert Van Eetvelt]]<br>8e - [[Remco Evenepoel]]<br>12e - [[Ilan Van Wilder]]             |
-| 4e (DAN)      | [[Mads Pedersen]]        | [[Torstein Traeen]]  | [[Alex Baudin]]   | [[Mads Pedersen]]  | [[Mathias Vacek]]  | [[Pablo Castrillo]]      | 5e -  [[Ramses Debruyne]]                                                                                                        |
-| 5e (NDL)      | [[Olav Kooij]]           | [[Torstein Traeen]]  | [[Alex Baudin]]   | [[Mads Pedersen]]  | [[Mathias Vacek]]  | [[Baptiste Veistroffer]] | Chute à la fin de l'étape qui perturbe le sprint<br>3e - [[Tim Merlier]]<br>5e - [[Jasper Philipsen]]                            |
-| 6e (SLO)      | [[Tadej Pogacar]]        | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Tadej Pogacar]]        | Tadej prend la poudre d'escampette dans le [[Tourmalet]] et on ne le reverra plus<br>4e - [[Remco Evenepoel]]                    |
-| ==7e (BEL)==  | [[Tim Merlier]]          | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Baptiste Veistroffer]] | 5e - [[Jasper Philipsen]]                                                                                                        |
-| ==8e (BEL)==  | [[Tim Merlier]]          | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Liam Slock]]           | 4e - [[Jasper Philipsen]]                                                                                                        |
-| 9e (NDL)      | [[Mathieu van der Poel]] | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Mathieu van der Poel]] |                                                                                                                                  |
-| 10e (SLO)     | [[Tadej Pogacar]]        | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Juan Ayuso]]     |                          | 2e - [[Remco Evenepoel]]                                                                                                         |
-| 11e (NOR)     | [[Soren Waerenskjold]]   | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Juan Ayuso]]     |                          | 3e - [[Jasper Philipsen]]                                                                                                        |
-| ==12e (BEL)== | [[Tim Merlier]]          | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Juan Ayuso]]     |                          | Encore une grosse chute dans le sprint.<br>Abandon de [[Jenno Berckmoes]]                                                        |
-| 13e (SUI)     | [[Mauro Schmid]]         | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Juan Ayuso]]     | [[Tom Pidcock]]          | 4e - [[Maxim Van Gils]]<br>Grosse remontée de [[Tom Pidcock]] au général (10e -> 4e)                                             |
-| 14e (SLO)     | [[Tadej Pogacar]]        | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Paul Seixas]]    |                          | 5e - [[Remco Evenepoel]]                                                                                                         |
-| ==15e (BEL)== | [[Remco Evenepoel]]      | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Quinn Simmons]]        | ==500e victoire belge sur le tour !!!==<br>Abandon de [[Jonas Vingegaard]] sur chute                                             |
-| ==16e (BEL)== | [[Remco Evenepoel]]      | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] |                          | Première victoire belge un 21 juillet depuis 40 ans !!<br>Abandon de [[Florian Lipowitz]]                                        |
-| ==17e (BEL)== | [[Jasper Philipsen]]     | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Jasper Philipsen]]     |                                                                                                                                  |
-| 18e (EQU)     | [[Richard Carapaz]]      | [[Tadej Pogacar]]    | [[Tadej Pogacar]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Richard Carapaz]]      |                                                                                                                                  |
+|               | Vainqueur                | Général              | Montagne            | Points             | Jeune              | Combattif                | Remarques                                                                                                                        |
+| ------------- | ------------------------ | -------------------- | ------------------- | ------------------ | ------------------ | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1e (NDL)      | [[Visma]]                | [[Jonas Vingegaard]] | [[Tadej Pogacar]]   | [[Egan Bernal]]    | [[Juan Ayuso]]     |                          | CLM par équipe<br>5e - [[Remco Evenepoel]]<br>3 chutes au même endroit sur le parcours dont une qui provoque le premier abandon. |
+| 2e (MEX)      | [[Isaac Del Toro]]       | [[Jonas Vingegaard]] | [[Alex Molenaar]]   | [[Isaac Del Toro]] | [[Isaac Del Toro]] | [[Felix Engelhardt]]     | 2e - [[Tadej Pogacar]]<br>3e - [[Remco Evenepoel]]                                                                               |
+| 3e (SLO)      | [[Tadej Pogacar]]        | [[Tadej Pogacar]]    | [[Alex Baudin]]     | [[Tadej Pogacar]]  | [[Isaac Del Toro]] | [[Alex Baudin]]          | Abandon d'[[Arnaud de Lie]]<br>6e - [[Lennert Van Eetvelt]]<br>8e - [[Remco Evenepoel]]<br>12e - [[Ilan Van Wilder]]             |
+| 4e (DAN)      | [[Mads Pedersen]]        | [[Torstein Traeen]]  | [[Alex Baudin]]     | [[Mads Pedersen]]  | [[Mathias Vacek]]  | [[Pablo Castrillo]]      | 5e -  [[Ramses Debruyne]]                                                                                                        |
+| 5e (NDL)      | [[Olav Kooij]]           | [[Torstein Traeen]]  | [[Alex Baudin]]     | [[Mads Pedersen]]  | [[Mathias Vacek]]  | [[Baptiste Veistroffer]] | Chute à la fin de l'étape qui perturbe le sprint<br>3e - [[Tim Merlier]]<br>5e - [[Jasper Philipsen]]                            |
+| 6e (SLO)      | [[Tadej Pogacar]]        | [[Tadej Pogacar]]    | [[Tadej Pogacar]]   | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Tadej Pogacar]]        | Tadej prend la poudre d'escampette dans le [[Tourmalet]] et on ne le reverra plus<br>4e - [[Remco Evenepoel]]                    |
+| ==7e (BEL)==  | [[Tim Merlier]]          | [[Tadej Pogacar]]    | [[Tadej Pogacar]]   | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Baptiste Veistroffer]] | 5e - [[Jasper Philipsen]]                                                                                                        |
+| ==8e (BEL)==  | [[Tim Merlier]]          | [[Tadej Pogacar]]    | [[Tadej Pogacar]]   | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Liam Slock]]           | 4e - [[Jasper Philipsen]]                                                                                                        |
+| 9e (NDL)      | [[Mathieu van der Poel]] | [[Tadej Pogacar]]    | [[Tadej Pogacar]]   | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Mathieu van der Poel]] |                                                                                                                                  |
+| 10e (SLO)     | [[Tadej Pogacar]]        | [[Tadej Pogacar]]    | [[Tadej Pogacar]]   | [[Mads Pedersen]]  | [[Juan Ayuso]]     |                          | 2e - [[Remco Evenepoel]]                                                                                                         |
+| 11e (NOR)     | [[Soren Waerenskjold]]   | [[Tadej Pogacar]]    | [[Tadej Pogacar]]   | [[Mads Pedersen]]  | [[Juan Ayuso]]     |                          | 3e - [[Jasper Philipsen]]                                                                                                        |
+| ==12e (BEL)== | [[Tim Merlier]]          | [[Tadej Pogacar]]    | [[Tadej Pogacar]]   | [[Mads Pedersen]]  | [[Juan Ayuso]]     |                          | Encore une grosse chute dans le sprint.<br>Abandon de [[Jenno Berckmoes]]                                                        |
+| 13e (SUI)     | [[Mauro Schmid]]         | [[Tadej Pogacar]]    | [[Tadej Pogacar]]   | [[Mads Pedersen]]  | [[Juan Ayuso]]     | [[Tom Pidcock]]          | 4e - [[Maxim Van Gils]]<br>Grosse remontée de [[Tom Pidcock]] au général (10e -> 4e)                                             |
+| 14e (SLO)     | [[Tadej Pogacar]]        | [[Tadej Pogacar]]    | [[Tadej Pogacar]]   | [[Mads Pedersen]]  | [[Paul Seixas]]    |                          | 5e - [[Remco Evenepoel]]                                                                                                         |
+| ==15e (BEL)== | [[Remco Evenepoel]]      | [[Tadej Pogacar]]    | [[Tadej Pogacar]]   | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Quinn Simmons]]        | ==500e victoire belge sur le tour !!!==<br>Abandon de [[Jonas Vingegaard]] sur chute                                             |
+| ==16e (BEL)== | [[Remco Evenepoel]]      | [[Tadej Pogacar]]    | [[Tadej Pogacar]]   | [[Mads Pedersen]]  | [[Isaac Del Toro]] |                          | Première victoire belge un 21 juillet depuis 40 ans !!<br>Abandon de [[Florian Lipowitz]]                                        |
+| ==17e (BEL)== | [[Jasper Philipsen]]     | [[Tadej Pogacar]]    | [[Tadej Pogacar]]   | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Jasper Philipsen]]     |                                                                                                                                  |
+| 18e (EQU)     | [[Richard Carapaz]]      | [[Tadej Pogacar]]    | [[Tadej Pogacar]]   | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Richard Carapaz]]      |                                                                                                                                  |
+| 19e (SLO)     | [[Tadej Pogacar]]        | [[Tadej Pogacar]]    | [[Richard Carapaz]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] |                          | 5e - [[Remco Evenepoel]]                                                                                                         |
 ## Femmes %% fold %%
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
@@ -50,7 +51,7 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 
 | Equipe                   | Nbr Victoires |
 | ------------------------ | ------------- |
-| UAE                      | 5             |
+| UAE                      | 6             |
 | [[Quick-Step]]           | 3             |
 | [[Alpecin]]              | 2             |
 | [[Bora Redbull]]         | 2             |
@@ -64,7 +65,7 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 | Nation   | Nbr Victoires |
 | -------- | ------------- |
 | Belgique | 6             |
-| Slovénie | 4             |
+| Slovénie | 5             |
 | Pays-Bas | 3             |
 | Mexique  | 1             |
 | Danemark | 1             |
