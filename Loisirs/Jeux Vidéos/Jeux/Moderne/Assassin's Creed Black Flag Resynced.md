@@ -39,7 +39,7 @@ tags: mediaDB/game
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Ubisoft]]
+	- Studio : [[Ubisoft Singapour]]
 	- Personnalités : 
 - **Éditeur** : [[Ubisoft]]
 - **Plateformes** : 
@@ -49,6 +49,7 @@ tags: mediaDB/game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
+	- [[Anvil]]
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
@@ -59,6 +60,7 @@ tags: mediaDB/game
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Les Caraïbes]]
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
@@ -70,7 +72,8 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL                                         |
-| ----------- | ------------------------------------------- |
-| Steam       | https://store.steampowered.com/app/3751950  |
-| Trailer     | https://www.youtube.com/watch?v=WjsTLe7bBUA |
+| Description                          | URL                                         |
+| ------------------------------------ | ------------------------------------------- |
+| Steam                                | https://store.steampowered.com/app/3751950  |
+| Trailer                              | https://www.youtube.com/watch?v=WjsTLe7bBUA |
+| Comparaison version originale du jeu | https://www.youtube.com/watch?v=8Htyg1R-wOM |

@@ -21,6 +21,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 	- [[Ubisoft Quebec]]
 	- [[Ubisoft Montréal]]
 	- [[Ubisoft Mainz]]
+	- [[Ubisoft Singapour]]
 - **Franchises : 
 	- [[Franchise Assasin's Creed]]
 	- [[Franchise Far Cry]]
