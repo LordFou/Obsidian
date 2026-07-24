@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Tournoi de Paris
+# Tournoi de Paris - ATP Masters 1000
 
 # Introduction
 

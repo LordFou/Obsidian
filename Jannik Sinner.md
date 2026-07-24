@@ -17,8 +17,8 @@ type: personne
 | Année | Compétition                         | Résultat        | Remarque                                                              |
 | ----- | ----------------------------------- | --------------- | --------------------------------------------------------------------- |
 | 2025  | [[Roland-Garros]]                   | Finaliste       | Premier mondiale lors du tournoi<br>Défaite contre [[Carlos Alcaraz]] |
-| 2025  | [[Tournoi de Paris]]                | Vainqueur       |                                                                       |
-| 2025  | [[Wimbledon]]                       | Vainqueur       |                                                                       |
+| 2025  | [[Tournoi de Paris]]                | ==Vainqueur==   |                                                                       |
+| 2025  | [[Wimbledon]]                       | ==Vainqueur==   |                                                                       |
 |       |                                     |                 |                                                                       |
 | 2026  | [[Tournoi de Doha]]                 | Quart de finale |                                                                       |
 | 2026  | [[Tournoi Indian Wells]]            | ==Vainqueur==   | Victoire contre [[Daniil Medvedev]]                                   |
