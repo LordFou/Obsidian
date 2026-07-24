@@ -10,9 +10,10 @@
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                 | Résultat | Remarque |
-| ----- | --------------------------- | -------- | -------- |
-| 2025  | Championnat Europe - Slalom | 1ier     |          |
+| Année | Compétition                            | Résultat | Remarque |
+| ----- | -------------------------------------- | -------- | -------- |
+| 2025  | Championnat Europe - Slalom            | ==1ier== |          |
+| 2026  | Championnat Monde - Slalom - Oklahoma  | 8e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
