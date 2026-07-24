@@ -5,10 +5,11 @@ type: team
 # Equipe nationale belge masculine de football
 
 Entraineurs :
-- [[Marc Wilmots]]
-- Roberto Martinez
-- Domenico Tedesco
-- Rudi Garcia
+- [[Marc Wilmots]] (BEL)
+- Roberto Martinez (POR)
+- Domenico Tedesco (ALL)
+- Rudi Garcia (FRA)
+- Mark Van Bommel (NDL)
 
 | Année | Epreuve            | Résultat                                             | Remarque |
 | ----- | ------------------ | ---------------------------------------------------- | -------- |
