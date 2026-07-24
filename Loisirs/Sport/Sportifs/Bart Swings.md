@@ -34,9 +34,10 @@ type: personne
 | 2026  | [[JO 2026]] - 10 000m                                        | 10e      |                                   |
 | 2026  | [[JO 2026]] - Mass Start                                     | 9e       |                                   |
 | 2026  | Marathon de Shanghai - Roller                                | ==1ier== |                                   |
-| 2026  | [[Euro de Roller]] - 5000m                                   | ==1ier== |                                   |
-| 2026  | [[Euro de Roller]] - Course par élimination - 10 km          | ==1ier== |                                   |
-| 2026  | [[Euro de Roller]] - 1000m                                   | ==1ier== |                                   |
+| 2026  | [[Euro de Roller]] - Piste - 5000m                           | ==1ier== |                                   |
+| 2026  | [[Euro de Roller]] - Piste - Course par élimination - 10 km  | ==1ier== |                                   |
+| 2026  | [[Euro de Roller]] - Piste - 1000m                           | ==1ier== |                                   |
+| 2026  | [[Euro de Roller]] - Route - Course à l'élimination - 15 km  | ==1ier== |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

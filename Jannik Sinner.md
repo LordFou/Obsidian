@@ -16,6 +16,8 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                         | Résultat        | Remarque                                                              |
 | ----- | ----------------------------------- | --------------- | --------------------------------------------------------------------- |
+| 2023  | [[Tournoi de Montréal]]             | ==Vainqueur==   |                                                                       |
+|       |                                     |                 |                                                                       |
 | 2025  | [[Roland-Garros]]                   | Finaliste       | Premier mondiale lors du tournoi<br>Défaite contre [[Carlos Alcaraz]] |
 | 2025  | [[Tournoi de Paris]]                | ==Vainqueur==   |                                                                       |
 | 2025  | [[Wimbledon]]                       | ==Vainqueur==   |                                                                       |
@@ -29,6 +31,7 @@ type: personne
 | 2026  | [[Tournoi de Rome]]                 | ==Vainqueur==   | Victoire contre [[Casper Ruud]]                                       |
 | 2026  | [[Roland-Garros]]                   | 2e tour         | Défaite sur blessure                                                  |
 | 2026  | [[Wimbledon]]                       | ==Vainqueur==   | Victoire contre [[Alexander Zverev]]                                  |
+| 2026  | [[Tournoi de Montréal]]             | Forfait         |                                                                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
