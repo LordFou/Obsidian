@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Euro de Roller.md",
+                "file": "Loisirs/Sport/Sportifs/Mathieu Bourdeaud'Hui.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Euro de Roller"
+              "title": "Mathieu Bourdeaud'Hui"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Bart",
+                "query": "Mathieu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,6 +207,11 @@
   },
   "active": "666d886107055761",
   "lastOpenFiles": [
+    "Loisirs/Sport/Gabriel De Coster.md",
+    "Loisirs/Sport/Sportifs/Mathieu Bourdeaud'Hui.md",
+    "Alexander Blockx.md",
+    "Loisirs/Sport/Sportifs/Lyssa Vansteenkiste.md",
+    "Loisirs/Sport/Compétitions/Euro de Roller.md",
     "Loisirs/Sport/Sportifs/Bart Swings.md",
     "Loisirs/Sport/Lotte Kopecky.md",
     "Tour de Pologne.md",
@@ -229,11 +233,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Duke Nukem 3D.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Fading Echo.md",
     "Loisirs/Sport/Compétitions/Tournoi de Monte Carlo.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Echoes of Aincrad.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Master Healer Kale with useless party.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Orb of Creation.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/MECCHA CHAMELEON.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Deer And Boy.md",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
     "Famille/Vacances",

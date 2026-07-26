@@ -1,4 +1,8 @@
+---
+type: personne
+---
 ![[Pasted image 20250518235142.jpg]]
+
 # Gabriel De Coster
 
 # Informations Générales
@@ -14,6 +18,7 @@
 | ----- | ------------------------------------------- | -------- | -------- |
 | 2025  | Championnat Europe - Slalom                 | ==1ier== |          |
 | 2026  | Championnat Monde - Slalom - Oklahoma (USA) | 8e       |          |
+| 2026  | Championnat Monde - Cross - Oklahoma (USA)  | 4e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

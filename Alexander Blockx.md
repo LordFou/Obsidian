@@ -34,7 +34,7 @@ type: personne
 | 2026  | [[Roland-Garros]]          | 2e tour        | Victoire contre [[Coleman Wong]] ([[Lucky Loser]])<br>Forfait au 2e tour - Entorse durant un entrainement                                                                                                                       |
 | 2026  | [[Wimbledon]]              | 1e tour        | Défaite contre [[Alexander Zverev]] (ATP 3)                                                                                                                                                                                     |
 | 2026  | [[Tournoi d'Umag]]         | 1e tour        | Défaite contre [[Titouan Droguet]] (ATP 114)                                                                                                                                                                                    |
-| 2026  | [[Tournoi d'Estoril]]      | 1/2 finale     | Victoire en 1/8 contre [[Kyrian Jacquet]] (ATP 134)<br>Victoire en 1/4 contre [[Roman Andres Burruchaga]] (ATP 60)                                                                                                              |
+| 2026  | [[Tournoi d'Estoril]]      | Finale         | Victoire en 1/8 contre [[Kyrian Jacquet]] (ATP 134)<br>Victoire en 1/4 contre [[Roman Andres Burruchaga]] (ATP 60)<br>Victoire en 1/2 contre [[Luciano Darderi]] (ATP 21)                                                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
