@@ -42,6 +42,8 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 | ==17e (BEL)== | [[Jasper Philipsen]]     | [[Tadej Pogacar]]    | [[Tadej Pogacar]]   | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Jasper Philipsen]]     |                                                                                                                                  |
 | 18e (EQU)     | [[Richard Carapaz]]      | [[Tadej Pogacar]]    | [[Tadej Pogacar]]   | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Richard Carapaz]]      |                                                                                                                                  |
 | 19e (SLO)     | [[Tadej Pogacar]]        | [[Tadej Pogacar]]    | [[Richard Carapaz]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] |                          | 5e - [[Remco Evenepoel]]                                                                                                         |
+| 20e (EQU)     | [[Richard Carapaz]]      | [[Tadej Pogacar]]    | [[Richard Carapaz]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Richard Carapaz]]      | 2e - [[Remco Evenepoel]]                                                                                                         |
+| 21e (NDL)     | [[Mathieu van der Poel]] | [[Tadej Pogacar]]    | [[Richard Carapaz]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | ?                        | 2e - [[Jasper Philipsen]]                                                                                                        |
 ## Femmes %% fold %%
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |

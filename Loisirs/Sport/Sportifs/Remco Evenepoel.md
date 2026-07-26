@@ -85,6 +85,7 @@ type: personne
 | 2026  | [[Tour de France]] - 15e étape                                                   | ==1ier== |                                                                                                                       |
 | 2026  | [[Tour de France]] - 16e étape                                                   | ==1ier== |                                                                                                                       |
 | 2026  | [[Tour de France]] - 19e étape                                                   | 5e       |                                                                                                                       |
+| 2026  | [[Tour de France]] - 20e étape                                                   | 2e       |                                                                                                                       |
 ## Historique
 ```timeline-labeled
 [line-5, body-2]
