@@ -21,6 +21,15 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 - Des contrôles antidopage en pleine nuit !!!!
 ## Hommes
 
+- [[Tadej Pogacar]] remporte son 5e tour et rejoint Anquetil, Merckx, Hinault et Indurain
+- [[Remco Evenepoel]] finit 2e, ce qui n'était plus arrivé depuis 1981
+- 6 victoires belges à nouveau cette année comme en 2025 ([[Tim Merlier]], [[Jasper Philipsen]], [[Remco Evenepoel]])
+- Abandon de [[Jonas Vingegaard]] sur chute
+- [[Paul Seixas]] finit 4e à 19 ans 
+- Les guerriers 
+	- [[Mads Pedersen]] qui s'est battu quasi tous les jours pour le maillot vert
+	- [[Richard Carapaz]] le meilleur attaquant et vainqueur en montagne
+
 |               | Vainqueur                | Général              | Montagne            | Points             | Jeune              | Combattif                | Remarques                                                                                                                        |
 | ------------- | ------------------------ | -------------------- | ------------------- | ------------------ | ------------------ | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | 1e (NDL)      | [[Visma]]                | [[Jonas Vingegaard]] | [[Tadej Pogacar]]   | [[Egan Bernal]]    | [[Juan Ayuso]]     |                          | CLM par équipe<br>5e - [[Remco Evenepoel]]<br>3 chutes au même endroit sur le parcours dont une qui provoque le premier abandon. |
@@ -54,31 +63,31 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 | Equipe                   | Nbr Victoires |
 | ------------------------ | ------------- |
 | UAE                      | 6             |
+| [[Alpecin]]              | 3             |
 | [[Quick-Step]]           | 3             |
-| [[Alpecin]]              | 2             |
 | [[Bora Redbull]]         | 2             |
+| [[EF - Education First]] | 2             |
 | Visma                    | 1             |
 | [[Lidl-Trek]]            | 1             |
 | [[Décathlon]]            | 1             |
 | [[Uno-x]]                | 1             |
 | [[Jayco]]                | 1             |
-| [[EF - Education First]] | 1             |
 
 | Nation   | Nbr Victoires |
 | -------- | ------------- |
 | Belgique | 6             |
 | Slovénie | 5             |
-| Pays-Bas | 3             |
+| Pays-Bas | 4             |
+| Equateur | 2             |
 | Mexique  | 1             |
 | Danemark | 1             |
 | Norvège  | 1             |
 | Suisse   | 1             |
-| Equateur | 1             |
 
 # Edition 2025 %% fold %%
 ## Hommes
 
-- Domination de [[Tadej Pogacar]], il repousse ses adversaires à plus de 4 minutes
+- Domination de [[Tadej Pogacar]], il repousse ses adversaires à plus de 6 minutes
 - La Belgique en tête avec 6 victoires belges de 5 coureurs différents, ce n'était plus arrivé depuis 1986 dont 2 de [[Tim Merlier]]
 - Révélation de 
 	- [[Florian Lipowitz]] au niveau des jeunes
