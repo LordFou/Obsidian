@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Mathieu Bourdeaud'Hui.md",
+                "file": "Loisirs/Sport/Sportifs/Lucas Coenen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mathieu Bourdeaud'Hui"
+              "title": "Lucas Coenen"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Mathieu",
+                "query": "Lucas Coenen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,8 +208,8 @@
   },
   "active": "666d886107055761",
   "lastOpenFiles": [
-    "Loisirs/Sport/Gabriel De Coster.md",
     "Loisirs/Sport/Sportifs/Mathieu Bourdeaud'Hui.md",
+    "Loisirs/Sport/Gabriel De Coster.md",
     "Alexander Blockx.md",
     "Loisirs/Sport/Sportifs/Lyssa Vansteenkiste.md",
     "Loisirs/Sport/Compétitions/Euro de Roller.md",
