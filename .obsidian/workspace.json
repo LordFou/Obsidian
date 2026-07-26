@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ba5bc19baf657eae",
+        "id": "5cf28855df151664",
         "type": "tabs",
         "children": [
           {
-            "id": "dc7cba47acc9188f",
+            "id": "5ae2cd48c113b242",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Baptiste Veistroffer.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Baptiste Veistroffer"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Arthur Fé",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -187,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5,
-    "collapsed": true
+    "width": 381.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,6 +203,8 @@
   },
   "active": "571b06dbd1c46b81",
   "lastOpenFiles": [
+    "Baptiste Veistroffer.md",
+    "Journal de bord/2026-07-26.md",
     "Loisirs/Sport/Tour de France.md",
     "Jasper Philipsen.md",
     "Tim Merlier.md",
@@ -234,8 +231,6 @@
     "Loisirs/Sport/Sportifs/Abdel Saïd.md",
     "Loisirs/Sport/Sportifs/Sans titre 1.md",
     "Felix Engelhardt.md",
-    "Diables Rouges.md",
-    "Romelu Lukaku.md",
     "Généalogie des Jeux Vidéos.canvas",
     "Attachments/image-709.webp",
     "Attachments/image-708.webp",
