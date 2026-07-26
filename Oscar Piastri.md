@@ -23,6 +23,7 @@ type: personne
 | 2026  | [[Grand Prix de Chine]]         | Forfait  | Problème Technique        |
 | 2026  | [[Grand Prix du Japon]]         | 2e       |                           |
 | 2026  | [[Grand Prix des USA]] - Course | 3e       |                           |
+| 2026  | [[Grand Prix de Hongrie]]       | Abandon  |                           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
