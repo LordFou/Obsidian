@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Tour de France.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/D-topia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour de France"
+              "title": "D-topia"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour",
+                "query": "D-Topia",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -208,6 +208,14 @@
   },
   "active": "666d886107055761",
   "lastOpenFiles": [
+    "Marumittu Games.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/D-topia.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Alters.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Ascend to ZERO.md",
+    "Alexander Blockx.md",
+    "Lucas van Assche.md",
+    "Tournoi d'Estoril.md",
+    "Loisirs/Sport/Tour de France.md",
     "Attachments/image-732.webp",
     "Delphine Nkansa.md",
     "Loisirs/Sport/Sportifs/Ilona Masson.md",
@@ -227,13 +235,6 @@
     "Tour de Pologne.md",
     "Loisirs/Sport/Compétitions/Euro de Roller.md",
     "Loisirs/Sport/Sportifs/Lyssa Vansteenkiste.md",
-    "Loisirs/Sport/Sportifs/Fran Vanhoutte.md",
-    "Loisirs/Sport/Sportifs/Bart Swings.md",
-    "Loisirs/Sport/Sportifs/Lucas Coenen.md",
-    "Loisirs/Sport/Sportifs/Mathieu Bourdeaud'Hui.md",
-    "Loisirs/Sport/Gabriel De Coster.md",
-    "Alexander Blockx.md",
-    "Loisirs/Sport/Lotte Kopecky.md",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
     "Famille/Vacances",
@@ -246,7 +247,6 @@
     "Attachments/image-725.webp",
     "Attachments/image-724.webp",
     "Attachments/image-723.webp",
-    "Attachments/image-722.webp",
     "Généalogie des Jeux Vidéos.canvas",
     "Commode 16 Plus"
   ]
