@@ -75,10 +75,12 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 # Records et Faits Marquants
 - 100 victoires à 26 ans !
 - 5 victoires consécutives au [[Tour de Lombardie]] comme [[Fausto Coppi]].
+- 5 victoires au [[Tour de France]] comme Anquetil, Merckx, Hinault et Indurain.
 - 3 victoires consécutives aux [[Strade Bianche]] et 4 victoires au total. Il dépasse ainsi les victoires de [[Fabio Cancellara]]
 - 3 victoires au [[Tour des Flandres]] comme [[Tom Boonen]], [[Johan Museeuw]], [[Fabio Cancellara]],...
 - 4 victoires consécutives dans les 5 plus grands monuments cyclistes.
 - 4 victoires à [[Liège-Bastogne-Liège]] dont 3 fois consécutives.
+- Il a le record de la montée de l'[[Alpe d'Huez]] en 35 min 26 secondes
 
 # Controverses ou Événements Importants
 - Il ne peut pas éviter la polémique du dopage (physique et mécanique) vu ses performances.
