@@ -17,6 +17,7 @@ type: event
 | -------- | ----------------- | ----------------- | -------- | ------ | ----- | ---------------------- |
 | 1e (NDL) | [[Lorena Wiebes]] | [[Lorena Wiebes]] |          |        |       | 3e - [[Marthe Truyen]] |
 | 2e (NDL) | [[Lorena Wiebes]] | [[Lorena Wiebes]] |          |        |       | 4e - [[Lotte Kopecky]] |
+| 3e (NDL) | [[Lorena Wiebes]] | [[Lorena Wiebes]] |          |        |       | 4e - [[Lotte Kopecky]] |
 
 
 # Edition 2025

@@ -26,6 +26,7 @@ type: personne
 | 2026  | Coupe d’Europe - Geisingen (Allemagne) - 200m                       | ==1iere== |                            |
 | 2026  | Coupe d’Europe - Geisingen (Allemagne) - 500m                       | ==1iere== |                            |
 | 2026  | [[Euro de Roller]] - 500m                                           | 3e        |                            |
+| 2026  | [[Euro de Roller]] - Route - Marathon                               | ==1iere== |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

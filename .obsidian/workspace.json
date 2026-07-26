@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Lucas Coenen.md",
+                "file": "Tour de Pologne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lucas Coenen"
+              "title": "Tour de Pologne"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Lucas Coenen",
+                "query": "Tour de Polo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -208,12 +208,14 @@
   },
   "active": "666d886107055761",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Euro de Roller.md",
+    "Loisirs/Sport/Sportifs/Lyssa Vansteenkiste.md",
+    "Loisirs/Sport/Sportifs/Fran Vanhoutte.md",
+    "Loisirs/Sport/Sportifs/Bart Swings.md",
+    "Loisirs/Sport/Sportifs/Lucas Coenen.md",
     "Loisirs/Sport/Sportifs/Mathieu Bourdeaud'Hui.md",
     "Loisirs/Sport/Gabriel De Coster.md",
     "Alexander Blockx.md",
-    "Loisirs/Sport/Sportifs/Lyssa Vansteenkiste.md",
-    "Loisirs/Sport/Compétitions/Euro de Roller.md",
-    "Loisirs/Sport/Sportifs/Bart Swings.md",
     "Loisirs/Sport/Lotte Kopecky.md",
     "Tour de Pologne.md",
     "Loisirs/Sport/Lorena Wiebes.md",
@@ -232,8 +234,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Teeto.md",
     "PS Vita.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Duke Nukem 3D.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Fading Echo.md",
-    "Loisirs/Sport/Compétitions/Tournoi de Monte Carlo.md",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
     "Famille/Vacances",

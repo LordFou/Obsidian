@@ -19,6 +19,7 @@ type: personne
 | ----- | ----------------------------------------------------- | -------- | -------- |
 | 2026  | [[Euro de Roller]] - Course par élimination - 10km    | 4e       |          |
 | 2026  | [[Euro de Roller]] - Piste - Course aux point - 10 km | 12e      |          |
+| 2026  | [[Euro de Roller]] - Route - Marathon                 | 3e       |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
