@@ -21,6 +21,7 @@ type: personne
 |       |                                                       |          |                                 |
 | 2026  | [[World Relays]] - 4x400m messieurs                   | 7e       | avec les [[Belgian Tornados]]   |
 | 2026  | Meeting de Madrid - Silver - 400m                     | 5e       | 45.73                           |
+| 2026  | [[Championnat de Belgique d'Athlétisme]] - 400m       | 3e       | 45.97                           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -17,7 +17,8 @@ type: personne
 | ----- | -------------------------------------------------------------- | -------------- | ---------------------------- |
 | 2025  | [[Championnats du monde d'athlétisme]] - 4x400m mixte          | Finale (3e) 🥉 | avec les [[Belgian Waffles]] |
 | 2025  | [[Championnats du monde d'athlétisme]] - 4x400m                | Finale (4e)    | sous la pluie                |
-| 2026  | [[Championnats du monde d'athlétisme en salle]] - 4x400m mixte | 1ier           | avec les [[Belgian Waffles]] |
+| 2026  | [[Championnats du monde d'athlétisme en salle]] - 4x400m mixte | 1ière          | avec les [[Belgian Waffles]] |
+| 2026  | [[Championnat de Belgique d'Athlétisme]] - 400m                | 1ière          | 51.16                        |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

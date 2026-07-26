@@ -13,10 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                               | Résultat          | Remarque |
-| ----- | --------------------------------------------------------- | ----------------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - Saut à la perche | Eliminé en qualif |          |
-| 2026  | Ligue de Diamant - Monaco - Saut à la perche              | 6e                |          |
+| Année | Compétition                                                 | Résultat          | Remarque |
+| ----- | ----------------------------------------------------------- | ----------------- | -------- |
+| 2025  | [[Championnats du monde d'athlétisme]] - Saut à la perche   | Eliminé en qualif |          |
+| 2026  | Ligue de Diamant - Monaco - Saut à la perche                | 6e                |          |
+| 2026  | [[Championnat de Belgique d'Athlétisme]] - Saut à la perche | 1ier              | 5m75     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Elie Bacari.md",
+                "file": "Loisirs/Sport/Tour de France.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elie Bacari"
+              "title": "Tour de France"
             }
           }
         ]
@@ -53,8 +53,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Elie Bacari",
-                "matchingCase": false,
+                "query": "Tour",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -208,6 +208,16 @@
   },
   "active": "666d886107055761",
   "lastOpenFiles": [
+    "Attachments/image-732.webp",
+    "Delphine Nkansa.md",
+    "Loisirs/Sport/Sportifs/Ilona Masson.md",
+    "Loisirs/Sport/Sportifs/Ben Broeders.md",
+    "Helena Ponette.md",
+    "Dylan Borlée.md",
+    "Jonathan Sacoor.md",
+    "Daniel Segers.md",
+    "Loisirs/Sport/Sportifs/Michael Obasuyi.md",
+    "Loisirs/Sport/Sportifs/Elie Bacari.md",
     "Oscar Piastri.md",
     "Kimi Antonelli.md",
     "Max Verstappen.md",
@@ -224,16 +234,6 @@
     "Loisirs/Sport/Gabriel De Coster.md",
     "Alexander Blockx.md",
     "Loisirs/Sport/Lotte Kopecky.md",
-    "Ilan Van Wilder.md",
-    "Loisirs/Sport/Tour de France.md",
-    "Loisirs/Sport/Tadej Pogacar.md",
-    "Visma.md",
-    "Lidl-Trek.md",
-    "Isaac Del Toro.md",
-    "Loisirs/Sport/Mads Pedersen.md",
-    "Loisirs/Sport/Richard Carapaz.md",
-    "Loisirs/Sport/Sportifs/Mathieu van der Poel.md",
-    "Jasper Philipsen.md",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
     "Famille/Vacances",

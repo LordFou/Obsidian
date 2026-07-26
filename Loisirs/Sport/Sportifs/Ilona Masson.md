@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                                              | Résultat          | Remarque |
 | ----- | -------------------------------------------------------- | ----------------- | -------- |
 | 2025  | [[Championnats du monde d'athlétisme]] - [[Triple Saut]] | Eliminé en qualif | 13m79    |
+| 2026  | [[Championnat de Belgique d'Athlétisme]] - Triple Saut   | 1ière             | 14m10    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

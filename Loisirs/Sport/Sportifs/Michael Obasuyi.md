@@ -28,7 +28,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 	- 110m haies (13.16s)
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- En juillet 2026, au championnat de Belgique, il se blesse.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
