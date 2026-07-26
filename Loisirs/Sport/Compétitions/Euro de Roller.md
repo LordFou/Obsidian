@@ -8,12 +8,14 @@ type: event
 
 # Hommes
 
-| Année | Epreuve                                | Vainqueur       | Nationalité | Remarque |
-| ----- | -------------------------------------- | --------------- | ----------- | -------- |
-| 2026  | Piste - 5000m                          | [[Bart Swings]] | ==Belge==   |          |
-| 2026  | Piste - Course par élimination - 10 km | [[Bart Swings]] | ==Belge==   |          |
-| 2026  | Piste - 1000m                          | [[Bart Swings]] | ==Belge==   |          |
-| 2026  | Route - Course à l'élimination - 15 km | [[Bart Swings]] | ==Belge==   |          |
+| Année | Epreuve                                | Vainqueur       | Nationalité   | Remarque |
+| ----- | -------------------------------------- | --------------- | ------------- | -------- |
+| 2026  | Piste - 5000m                          | [[Bart Swings]] | ==Belge==     |          |
+| 2026  | Piste - Course par élimination - 10 km | [[Bart Swings]] | ==Belge==     |          |
+| 2026  | Piste - 1000m                          | [[Bart Swings]] | ==Belge==     |          |
+| 2026  | Route - Course à l'élimination - 15 km | [[Bart Swings]] | ==Belge==     |          |
+| 2026  | Piste - Course aux point - 10 km       | [[Bart Swings]] | ==Belge==<br> |          |
+|       |                                        |                 |               |          |
 # Femmes
 
 | Année | Epreuve                        | Vainqueur            | Nationalité | Remarque |

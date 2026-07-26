@@ -16,6 +16,7 @@ type: event
 |          | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques              |
 | -------- | ----------------- | ----------------- | -------- | ------ | ----- | ---------------------- |
 | 1e (NDL) | [[Lorena Wiebes]] | [[Lorena Wiebes]] |          |        |       | 3e - [[Marthe Truyen]] |
+| 2e (NDL) | [[Lorena Wiebes]] | [[Lorena Wiebes]] |          |        |       | 4e - [[Lotte Kopecky]] |
 
 
 # Edition 2025
