@@ -29,6 +29,8 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 - Les guerriers 
 	- [[Mads Pedersen]] qui s'est battu quasi tous les jours pour le maillot vert
 	- [[Richard Carapaz]] le meilleur attaquant et vainqueur en montagne
+	- [[Baptiste Veistroffer]], l'attaquant des étapes longues
+- Domination de [[UAE]] au niveau général, [[Lidl-Trek]] pour le vert.
 
 |               | Vainqueur                | Général              | Montagne            | Points             | Jeune              | Combattif                | Remarques                                                                                                                        |
 | ------------- | ------------------------ | -------------------- | ------------------- | ------------------ | ------------------ | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -188,19 +190,20 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 
 ### Hommes
 
-| Année | Vainqueur            | Nationalité | Montagne          | Points             | Jeune                | Combattif     | Equipe    | Podium                                             |
-| ----- | -------------------- | ----------- | ----------------- | ------------------ | -------------------- | ------------- | --------- | -------------------------------------------------- |
-| 2013  | [[Chris Froome]]     | Anglais     |                   |                    |                      |               |           |                                                    |
-| 2015  | [[Chris Froome]]     | Anglais     |                   |                    |                      |               |           |                                                    |
-| 2016  | [[Chris Froome]]     | Anglais     |                   |                    |                      |               |           |                                                    |
-| 2017  | [[Chris Froome]]     | Anglais     |                   |                    |                      |               |           |                                                    |
-| 2018  | [[Geraint Thomas]]   | Anglais     |                   |                    |                      |               |           |                                                    |
-| 2021  | [[Jonas Vingegaard]] | Danois      |                   |                    |                      |               |           |                                                    |
-| 2022  | [[Jonas Vingegaard]] | Danois      |                   |                    |                      |               |           |                                                    |
-| 2023  |                      |             |                   |                    |                      |               |           |                                                    |
-| 2024  | [[Tadej Pogacar]]    | Slovène     |                   |                    | [[Remco Evenepoel]]  |               |           | 2e [[Jonas Vingegaard]]<br>3e [[Remco Evenepoel]]  |
-| 2025  | [[Tadej Pogacar]]    | Slovène     | [[Tadej Pogacar]] | [[Jonathan Milan]] | [[Florian Lipowitz]] | [[Ben Healy]] | [[Visma]] | 2e [[Jonas Vingegaard]]<br>3e [[Florian Lipowitz]] |
-|       |                      |             |                   |                    |                      |               |           |                                                    |
+| Année | Vainqueur            | Nationalité | Montagne            | Points             | Jeune                | Combattif           | Equipe        | Podium                                             |
+| ----- | -------------------- | ----------- | ------------------- | ------------------ | -------------------- | ------------------- | ------------- | -------------------------------------------------- |
+| 2013  | [[Chris Froome]]     | Anglais     |                     |                    |                      |                     |               |                                                    |
+| 2015  | [[Chris Froome]]     | Anglais     |                     |                    |                      |                     |               |                                                    |
+| 2016  | [[Chris Froome]]     | Anglais     |                     |                    |                      |                     |               |                                                    |
+| 2017  | [[Chris Froome]]     | Anglais     |                     |                    |                      |                     |               |                                                    |
+| 2018  | [[Geraint Thomas]]   | Anglais     |                     |                    |                      |                     |               |                                                    |
+| 2020  | [[Tadej Pogacar]]    | Slovène     |                     |                    |                      |                     |               |                                                    |
+| 2021  | [[Jonas Vingegaard]] | Danois      |                     |                    |                      |                     |               |                                                    |
+| 2022  | [[Jonas Vingegaard]] | Danois      |                     |                    |                      |                     |               |                                                    |
+| 2023  | [[Tadej Pogacar]]    | Slovène     |                     |                    |                      |                     |               |                                                    |
+| 2024  | [[Tadej Pogacar]]    | Slovène     |                     |                    | [[Remco Evenepoel]]  |                     |               | 2e [[Jonas Vingegaard]]<br>3e [[Remco Evenepoel]]  |
+| 2025  | [[Tadej Pogacar]]    | Slovène     | [[Tadej Pogacar]]   | [[Jonathan Milan]] | [[Florian Lipowitz]] | [[Ben Healy]]       | [[Visma]]     | 2e [[Jonas Vingegaard]]<br>3e [[Florian Lipowitz]] |
+| 2026  | [[Tadej Pogacar]]    | Slovène     | [[Richard Carapaz]] | [[Mads Pedersen]]  | [[Isaac Del Toro]]   | [[Richard Carapaz]] | [[Lidl-Trek]] |                                                    |
 ### Femmes
 
 | Année | Vainqueur                  | Nationalité | Montagne          | Points            | Jeune            | Super Combattive  | Equipe  | Podium                                               |

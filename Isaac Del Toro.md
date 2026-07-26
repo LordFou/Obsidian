@@ -51,7 +51,7 @@ type: personne
 | 2026  | [[Critérium du Dauphiné]] - Classement final                                   | ==1ier== |                                                                  |
 | 2026  | [[Critérium du Dauphiné]] - Maillot Jeune                                      | ==1ier== |                                                                  |
 | 2026  | [[Tour de France]] - 2e étape                                                  | ==1ier== | 2e coureur mexicain à gagner une étape sur le [[Tour de France]] |
-|       |                                                                                |          |                                                                  |
+| 2026  | [[Tour de France]] - Classement jeune                                          | ==1ier== |                                                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
