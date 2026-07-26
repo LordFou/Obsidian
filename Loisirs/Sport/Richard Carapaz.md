@@ -19,7 +19,7 @@ type: personne
 | 2019  | [[Tour d'Italie]] - Général                   | ==1ier== |                       |
 | 2025  | [[Tour d'Italie]] - 11e étape                 | ==1ier== | 4e succès sur le Giro |
 | 2026  | [[Tour de France]] - 18e étape + Combattivité | ==1ier== |                       |
-|       |                                               |          |                       |
+| 2026  | [[Tour de France]] - 20e étape                | ==1ier== |                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

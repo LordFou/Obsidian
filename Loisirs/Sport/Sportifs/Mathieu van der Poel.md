@@ -59,6 +59,7 @@ type: personne
 | 2026  | [[Tour des Flandres]]                               | 2e       |                                                                                                        |
 | 2026  | [[Tour de Suisse]] - 4e étape                       | 2e       | CLM - Derrière [[Tadej Pogacar]]                                                                       |
 | 2026  | [[Tour de France]] - 9e étape - Etape + Combattif   | ==1ier== |                                                                                                        |
+| 2026  | [[Tour de France]] - 21e étape                      | ==1ier== |                                                                                                        |
 ## Style et Caractéristiques
 - Toujours à l'attaque et beaucoup de victoires en solitaire
 - Il s'est déjà prix des bonnes fringales
