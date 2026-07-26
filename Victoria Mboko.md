@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                | Résultat   | Remarque |
 | ----- | -------------------------- | ---------- | -------- |
-| 2025  | [[Masters 1000 du Canada]] | Vainqueure |          |
+| 2025  | [[Tournoi de Montréal]] | Vainqueure |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

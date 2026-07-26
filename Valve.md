@@ -37,7 +37,7 @@ content:
 | XXXX  | [[Team Fortress 2]]  |
 |       | [[Counter Strike 2]] |
 |       | [[Dota 2]]           |
-|       |                      |
+| 2004  | [[Half-Life 2]]      |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

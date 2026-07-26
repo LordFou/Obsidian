@@ -26,6 +26,7 @@ content:
 ## Jeux Développés
 | Année | Titre                                               |
 | ----- | --------------------------------------------------- |
+|       | [[Bravely Default]]                                 |
 | 2026  | [[The Adventures of Elliot - The Millennium Tales]] |
 
 ## Moteur(s) Utilisé(s)

@@ -33,7 +33,9 @@ tags: mediaDB/game
 - **Développeur** : 
 	- Studio : [[Inresin]]
 	- Personnalités : 
-- **Éditeur** : [[Super Rare Originals]], [[Gamersky Games]]
+- **Éditeur** : 
+	- [[Super Rare Originals]]
+	- [[Gamersky Games]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** : [[Puzzle]], [[Aventure]]

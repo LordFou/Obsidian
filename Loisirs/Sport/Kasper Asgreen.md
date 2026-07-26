@@ -9,7 +9,7 @@ type: personne
 - **Nationalité** :  Danois
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) : [[Rouleur]]
-- **Équipe(s) / Club(s)** :  [[EF Education]]
+- **Équipe(s) / Club(s)** :  [[EF - Education First]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions

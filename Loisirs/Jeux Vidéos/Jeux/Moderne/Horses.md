@@ -1,7 +1,7 @@
 ---
 type: game
 ---
-
+![[image-730.webp|500x281]]
 # Horses
 
 ## Informations Générales
@@ -42,7 +42,7 @@ type: game
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - Le jeu fait de l'autocensure
-- Banni par [[Steam]] pour des justifications hasardeuses : ils ont sauté sur une mauvaise interprétation et l'ont blacklisté pour éviter tout bad buzz qui pouvait leur faire une mauvaise image. Epic a suivi sans trop réfléchir et contre l'avis de son groupe de vérification. A l'inverse, Gog a sauté sur l'occaz et le jeu se vend bien sur la plateforme ([[Effet Streisand]] ?). Humble Bundle a retiré le jeu en pensant que [[Steam]] avait raison et qu'ils avaient loupé quelque chose. Après examen, ils l'ont remis en ligne.
+- Banni par [[Steam]] pour des justifications hasardeuses (surtout pour éviter de déranger les plateformes de paiement comme Paypal ou VISA) : ils ont sauté sur une mauvaise interprétation et l'ont blacklisté pour éviter tout bad buzz qui pouvait leur faire une mauvaise image. Epic a suivi sans trop réfléchir et contre l'avis de son groupe de vérification. A l'inverse, Gog a sauté sur l'occaz et le jeu se vend bien sur la plateforme ([[Effet Streisand]] ?). Humble Bundle a retiré le jeu en pensant que [[Steam]] avait raison et qu'ils avaient loupé quelque chose. Après examen, ils l'ont remis en ligne. ([[Censure dans le jeu vidéo]])
 ## Liens et Ressources
 
 | Description | URL |

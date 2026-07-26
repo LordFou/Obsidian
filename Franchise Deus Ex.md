@@ -6,7 +6,8 @@ type: game
 
 
 ## Informations générales
-- Créateur(s) : {{Nom du ou des créateurs}}
+- Créateur(s) : 
+	- [[Warren Spector]]
 - Développeur(s) : {{Studio(s) de développement}}
 - Éditeur(s) : {{Nom de l’éditeur}}
 - Première apparition : 2005

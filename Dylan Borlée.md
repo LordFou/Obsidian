@@ -20,6 +20,7 @@ type: personne
 | 2025  | [[Championnats du monde d'athlétisme]] - 4x400m       | 4e       |                                 |
 |       |                                                       |          |                                 |
 | 2026  | [[World Relays]] - 4x400m messieurs                   | 7e       | avec les [[Belgian Tornados]]   |
+| 2026  | Meeting de Madrid - Silver - 400m                     | 5e       | 45.73                           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

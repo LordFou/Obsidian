@@ -24,11 +24,12 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre               |
-| ----- | ------------------- |
-| 2025  | [[Ninja Gaiden 4]]  |
-| 2026  | [[Nioh 3]]          |
-|       | [[Dead or Alive 7]] |
+| Année | Titre                          |
+| ----- | ------------------------------ |
+| 2025  | [[Ninja Gaiden 4]]             |
+| 2026  | [[Nioh 3]]                     |
+| 2026  | [[Dead or Alive 6 - Last Round]] |
+|       | [[Dead or Alive 7]]            |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

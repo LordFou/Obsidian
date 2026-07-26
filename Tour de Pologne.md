@@ -5,6 +5,19 @@ type: event
 
 # Introduction
 
+# Edition 2026
+## Hommes
+
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|     |           |         |          |        |       |           |
+## Femmes
+
+|          | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques              |
+| -------- | ----------------- | ----------------- | -------- | ------ | ----- | ---------------------- |
+| 1e (NDL) | [[Lorena Wiebes]] | [[Lorena Wiebes]] |          |        |       | 3e - [[Marthe Truyen]] |
+
+
 # Edition 2025
 
 ## Hommes
@@ -39,7 +52,7 @@ type: event
 | 2025  | [[Brandon McNulty]]  | Anglais     | 16e - [[Quintens Hermans]] |
 ### Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur           | Nationalité | Remarque |
+| ----- | ------------------- | ----------- | -------- |
+| 2025  | [[Chiara Consonni]] | Italienne   |          |
+|       |                     |             |          |

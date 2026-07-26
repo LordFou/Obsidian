@@ -15,6 +15,13 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
+```timeline-labeled
+[line-5, body-2]
+date: Juillet 2026
+title: Abandon de la franchise [[Avowed]] et retour sur la [[Franchise Fallout]]
+content: A cause des nombreux changements dans les studios Microsoft Xbox (Fermeture, Revente,...), la priorité du studio [[Obsidian]] change également.
+```
+
 ## Jeux Développés
 | Année | Titre                  |
 | ----- | ---------------------- |

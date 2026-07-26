@@ -12,7 +12,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : [[Franchise DOOM]]
+- **Franchise** : [[Franchise Doom]]
 - **Genre** :
 - **Résumé** : 
 

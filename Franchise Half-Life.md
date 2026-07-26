@@ -25,6 +25,7 @@ content:
 | Titre                  | Année | Plateformes | Remarque |
 | ---------------------- | ----- | ----------- | -------- |
 | [[Half-Life]]          |       |             |          |
+| Half-Life 2            | 2005  |             |          |
 | [[Half-Life - Legacy]] | 2025  |             |          |
 
 

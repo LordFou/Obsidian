@@ -43,4 +43,9 @@ date: Juin 2026
 title: Décès du navigateur français [[Charlie Dalin]]
 content: Vainqueur du Vendée Globe 2024-2025 et déjà malade à l'époque , il décède d'un cancer à l’âge de 42 ans
 ![[image-670.webp|500x281]]
+
+date: Juillet 2026 
+title: Décès de [[Jayden Adams]]
+content: [[Jayden Adams]], milieu de terrain de l’Afrique du Sud et des Mamelodi Sundowns, est décédé à l’âge de 25 ans, quelques semaines seulement après avoir représenté son pays lors de la Coupe du monde.
+![[image-713.webp|409x680]]
 ```

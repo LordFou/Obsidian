@@ -18,9 +18,9 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
-content:
+date: Juin 2026 
+title: Fin de parcours ?
+content: L'entièreté du studio est licenciée
 ```
 
 ## Jeux Développés

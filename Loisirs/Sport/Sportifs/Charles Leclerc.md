@@ -21,6 +21,7 @@ type: personne
 | 2026  | [[Grand Prix de Monaco]]          | Abandon  |          |
 | 2026  | [[Grand Prix d'Espagne]]          | Abandon  |          |
 | 2026  | [[Grand Prix de Grande-Bretagne]] | ==1ier== |          |
+| 2026  | [[Grand Prix de Belgique]]        | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

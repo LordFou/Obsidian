@@ -26,6 +26,10 @@ content: Ce sont principalement des potes et leurs amis qui se sont rassemblés 
 date: 2021
 title: Acquisition par [[Focus Entertainment]]
 content: En réalité, à partir de 2019, ils cherchent un éditeur pour leur jeu [[Shady Part Of Me]].
+
+date: Juin 2026
+title: Fermeture
+content: <à remplir>
 ```
 
 ## Jeux Développés

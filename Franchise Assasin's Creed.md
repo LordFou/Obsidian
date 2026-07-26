@@ -28,7 +28,7 @@ content:
 | [[Assassin's Creed]]                     |       |             |                          |
 | [[Assassin's Creed 2]]                   |       |             |                          |
 | [[Assassin's Creed 4 - Black Flag]]      |       |             | Il va y avoir une remake |
-| [[Assassin's Creed Black Flag Resynced]] |       |             | Remake du 4              |
+| [[Assassin's Creed Black Flag Resynced]] | 2026  | [[PC]]      | Remake du 4              |
 | [[Assassin’s Creed Hexe]]                |       |             |                          |
 
 

@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-717.webp|147x201]]
 # Delphine Nkansa
 
 # Informations Générales
@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                     | Résultat | Remarque               |
-| ----- | ----------------------------------------------- | -------- | ---------------------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 4x100m | 10e      | Disqualifiées en série |
+| Année | Compétition                                     | Résultat | Remarque                         |
+| ----- | ----------------------------------------------- | -------- | -------------------------------- |
+| 2025  | [[Championnats du monde d'athlétisme]] - 4x100m | 10e      | Disqualifiées en série           |
+| 2026  | Meeting de Madrid - Silver - 400m               | 3e       | Meilleur temps personnel (11.17) |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

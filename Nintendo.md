@@ -24,10 +24,11 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                | Genre  | Plateformes |
-| ----- | -------------------- | ------ | ----------- |
-| 2025  | [[Mario Kart World]] | Course | Switch      |
-| 2026  | [[Tomodatchi Life]]  |        |             |
+| Année | Titre                      | Genre  | Plateformes |
+| ----- | -------------------------- | ------ | ----------- |
+| 2025  | [[Mario Kart World]]       | Course | Switch      |
+| 2026  | [[Tomodatchi Life]]        |        |             |
+| 2026  | [[Rhythm Paradise Groove]] |        |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

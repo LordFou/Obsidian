@@ -23,7 +23,6 @@ date: 2018
 title: Climat de travail toxique
 content: Plusieurs médias mettent au grand jour un climat de travail toxique de certains employés envers d'autres.
 
-[line-5, body-2]
 date: 2022
 title: Rachat du studio par [[NetEase Games]] 
 content:
@@ -31,6 +30,10 @@ content:
 date: Mai 2026
 title: Débacle du jeu [[Spellcasters Chronicles]]
 content: Selon le STVJ, 95 emplois serait menacés à cause de l'abandon du jeu. Le syndicat pointe du doigt les choix stratégiques du studio et de [[NetEase Games]], actionnaire unique, notamment un projet jugé très éloigné de l’ADN narratif habituel de Quantic Dream
+
+date: Juin 2026
+title: Je vous en met un peu plus
+content: on passe de 95 à 115 employés menacés.
 ```
 
 ## Jeux Développés

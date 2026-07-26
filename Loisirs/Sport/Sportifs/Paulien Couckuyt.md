@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-56.webp]]
+![[image-725.webp|216x289]]
 # Paulien Couckuyt
 
 # Informations Générales
@@ -13,16 +13,17 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                         | Résultat    | Remarque |
-| ----- | --------------------------------------------------- | ----------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 400m Haies | Demi-finale | 55.08    |
-|       |                                                     |             |          |
+| Année | Compétition                                         | Résultat    | Remarque                        |
+| ----- | --------------------------------------------------- | ----------- | ------------------------------- |
+| 2025  | [[Championnats du monde d'athlétisme]] - 400m Haies | Demi-finale | 55.08                           |
+| 2026  | Nuit de l'Athlétisme - Heusden-Zolder - 300m haies  |             | 38.66<br>==Record de Belgique== |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Record de Belgique
+	- 300m haies (38.66)
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

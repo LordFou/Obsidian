@@ -13,12 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                    | Résultat  | Remarque                              |
-| ----- | ---------------------------------------------- | --------- | ------------------------------------- |
-| 2025  | [[Meeting de Lausanne]] - 5000m                | 1ier      |                                       |
-| 2025  | [[Championnats du monde d'athlétisme]] - 5000m | Finale 🥈 | Série (13'13,06)<br>Finale (12'58,78) |
-| 2025  | Prix du "Géant Flamand"                        | 1ier      |                                       |
-| 2026  | [[Spike d'or]]                                 | Vainqueur |                                       |
+| Année | Compétition                                    | Résultat      | Remarque                              |
+| ----- | ---------------------------------------------- | ------------- | ------------------------------------- |
+| 2025  | [[Meeting de Lausanne]] - 5000m                | ==1ier==      |                                       |
+| 2025  | [[Championnats du monde d'athlétisme]] - 5000m | Finale 🥈     | Série (13'13,06)<br>Finale (12'58,78) |
+| 2025  | Prix du "Géant Flamand"                        | ==1ier==      |                                       |
+| 2026  | [[Spike d'or]]                                 | ==Vainqueur== |                                       |
+| 2026  | Ligue de Diamant - Monaco - 5000m              | 10e           |                                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

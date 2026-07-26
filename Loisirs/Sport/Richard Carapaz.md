@@ -1,4 +1,8 @@
+---
+type: personne
+---
 ![[Pasted image 20250521235742.png]]
+
 # Richard Carapaz
 
 # Informations Générales
@@ -6,15 +10,16 @@
 - **Nationalité** :  Equatorien
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  [[Grimpeur]]
-- **Équipe(s) / Club(s)** : [[Movistar]], [[EF Education]] 
+- **Équipe(s) / Club(s)** : [[Movistar]], [[EF - Education First]] 
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                   | Résultat | Remarque              |
-| ----- | ----------------------------- | -------- | --------------------- |
-| 2019  | [[Tour d'Italie]] - Général   | 1ier     |                       |
-| 2025  | [[Tour d'Italie]] - 11e étape | 1ier     | 4e succès sur le Giro |
-|       |                               |          |                       |
+| Année | Compétition                                   | Résultat | Remarque              |
+| ----- | --------------------------------------------- | -------- | --------------------- |
+| 2019  | [[Tour d'Italie]] - Général                   | ==1ier== |                       |
+| 2025  | [[Tour d'Italie]] - 11e étape                 | ==1ier== | 4e succès sur le Giro |
+| 2026  | [[Tour de France]] - 18e étape + Combattivité | ==1ier== |                       |
+|       |                                               |          |                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

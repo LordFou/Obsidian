@@ -11,10 +11,22 @@ type: event
 ![[image-668.webp|181x278]]
 
 - Performances
-	- La France se balade jusqu'au match de 1/8e contre le Paraguay où ce fut une hécatombe de fautes, surtout venant de leur adversaire. Mais ils passent.
-	- L'Espagne possède la meilleure défense jusqu'en 1/4, aucun but encaissé.
-	- L'Argentine s'en sort pas mal jusque là avec un [[Lionel Messi]] en vrai Dieu du [[Football]].
-	- La Belgique souffle le chaud et le froid mais surtout elle humilie les USA et [[Donald Trump]] par leur intermédiaire.
+	- La France 
+		- Elle se balade jusqu'au match de 1/8e contre le Paraguay où ce fut une hécatombe de fautes, surtout venant de leur adversaire. Mais ils passent.
+		- Elle tombe contre l'Espagne sans trouver le chemin des filets.
+		- [[Kylian Mbappé]] élu meilleur buteur
+	- L'Espagne possède la meilleure défense du tournoi, un seul but encaissé du fait de nos [[Diables Rouges]].
+	- L'Argentine va jusqu'en finale avec un [[Lionel Messi]] en vrai Dieu du [[Football]]. Elle tombera contre l'Espagne sans gloire. Ciao Messi !
+	- La Belgique souffle le chaud et le froid mais réussit son objectif de départ
+		- Elle sort difficilement du groupe en terminant par un très beau match contre la Nouvelle-Zélande
+		- Elle nous ressort un match à la Belgique - Japon en 2018 en inscrivant 3 buts au Sénégal à partir de la 86e minute (2-3)
+		- Elle humilie [[Donald Trump]] en battant les USA en 8e de finale après son intervention scandaleuse auprès de la FIFA. (4-1)
+		- Elle sera éliminée en quart contre le futur vainqueur de la coupe. Elle mettre le seul but encaissé des espagnols. (1-2)
+	- On peut normalement dire aurevoir à
+		- Lucas Modric
+		- [[Lionel Messi]]
+		- [[Cristiano Ronaldo]]
+		- Neymar
 - Scandales
 	- Les supporters iraniens empêchés de venir dans les stades.
 	- Les joueurs iraniens ne peuvent débarquer aux USA que le jour de leur match.
@@ -24,6 +36,10 @@ type: event
 		- Choix unilatéral de la FIFA. ([[Donald Trump]] remercie [[Gianni Infantino]]) 
 		- [Article New-York Times](https://www.nytimes.com/2026/07/05/us/trump-fifa-balogun-world-cup.html?unlocked_article_code=1.vVA.-Etz.7Jrw_FsOGg3S) prouvant l'implication du chef d'état
 		- Quelques heures plus tard, il assume son [intervention](https://www.rtbf.be/article/donald-trump-confirme-et-assume-dans-l-affaire-balogun-oui-j-ai-demande-un-reexamen-a-la-fifa-je-ne-pensais-pas-que-c-etait-faute-11753627)
+		- La fédération Norvégienne porte plainte auprès de la FIFA après le tournoi.
+	- La FIFA va vendre des morceaux de pelouse de la finale à 390e pièce !!!!!!
+	  ![[image-712.webp|309x333]]
+	- [[Donald Trump]] menace le Canada pour les feux de forêt incontrôlés qui empestent l'air de New York (comme si c'était fait exprès...)
 
 ## Phase de groupe %% fold %%
 ### Groupe A
@@ -294,33 +310,70 @@ type: event
 
 | Date                | Heure | Match                | Résultat |
 | ------------------- | ----- | -------------------- | -------- |
-| Jeudi 9 juillet     | 22:00 | France - Maroc       |          |
-| Vendredi 10 juillet | 21:00 | Espagne - Belgique   |          |
-| Samedi 11 juillet   | 23:00 | Norvège - Angleterre |          |
-| Dimanche 12 juillet | 03:00 | Argentine - Suisse   |          |
+| Jeudi 9 juillet     | 22:00 | France - Maroc       | 2-0      |
+| Vendredi 10 juillet | 21:00 | Espagne - Belgique   | 2-1      |
+| Samedi 11 juillet   | 23:00 | Norvège - Angleterre | 1-2      |
+| Dimanche 12 juillet | 03:00 | Argentine - Suisse   | 3-1      |
 
+## 1/2 Finale
+| Demi-finale   | Équipe 1   | Score | Équipe 2  | Date       | Heure |
+| ------------- | ---------- | :---: | --------- | ---------- | :---: |
+| Demi-finale 1 | France     | 0 - 2 | Espagne   | 14/07/2026 | 21:00 |
+| Demi-finale 2 | Angleterre | 1 - 2 | Argentine | 15/07/2026 | 21:00 |
+## Petite Finale
+| Date              | Heure | Match               | Résultat                |
+| ----------------- | ----: | ------------------- | ----------------------- |
+| Samedi 18 Juillet | 21:00 | France - Angleterre | 4-6 (0-4 à la mi-temps) |
+## Finale
+| Date                | Heure | Match               | Résultat |
+| ------------------- | ----: | ------------------- | -------- |
+| Dimanche 19 Juillet | 21:00 | Argentine - Espagne | 0-1      |
 # Hall of fame
 ## Hommes
 
-| Année | Nationalité | Remarque           |
-| ----- | ----------- | ------------------ |
-| 1998  | France      |                    |
-| 2002  |             |                    |
-| 2006  | Italie      |                    |
-| 2010  |             | Afrique du Sud     |
-| 2014  | Allemagne ? |                    |
-| 2018  | France      |                    |
-| 2022  | Argentine   |                    |
-| 2026  |             | Mexique/Canada/USA |
-|       |             |                    |
+| Année | Nationalité               | Remarque           |
+| ----- | ------------------------- | ------------------ |
+| 1998  | France                    |                    |
+| 2002  |                           |                    |
+| 2006  | Italie                    |                    |
+| 2010  | Espagne (1)               | Afrique du Sud     |
+| 2014  | Allemagne ?               |                    |
+| 2018  | France (2)                |                    |
+| 2022  | Argentine (3)             |                    |
+| 2026  | Espagne (2) - [[La Roja]] | Mexique/Canada/USA |
+|       |                           |                    |
 ## Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur | Remarque |
+| ----- | --------- | -------- |
+| 202X  | Espagne   |          |
+|       |           |          |
+|       |           |          |
+## Meilleur Buteur
+
+| Année | Sportif                | Pays   |
+| ----- | ---------------------- | ------ |
+| 2026  | [[Kylian Mbappé]] (10) | France |
+| 2030  |                        |        |
+## Meilleur Gardien
+
+| Année | Sportif              | Pays      |
+| ----- | -------------------- | --------- |
+| 1994  | Michel Preudhomme    | ==Belgique==  |
+| 2018  | [[Thibaut Courtois]] | ==Belgique==  |
+| 2022  | Fernandez            | Argentine |
+| 2026  | Diego Simeone        | Espagne   |
+## Meilleur Jeune
+
+| Année | Sportif      | Pays    |
+| ----- | ------------ | ------- |
+| 2026  | Cubarsal (?) | Espagne |
+## Meilleur Joueur
+
+| Année | Sportif | Pays    |
+| ----- | ------- | ------- |
+| 2026  | Rodri   | Espagne |
 
 # Statistiques
 
-![[image-697.webp|500x422]]
+![[image-697.webp|500x422]] ![[image-726.webp|500x518]]

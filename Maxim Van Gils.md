@@ -23,6 +23,7 @@ type: personne
 |       |                                      |          |          |
 | 2026  | [[Trofeo Andratx – Pollença]]        | 3e       |          |
 | 2026  | [[Critérium du Dauphiné]] - 6e étape | ==1ier== |          |
+| 2026  | [[Tour de France]] - 13e étape       | 4e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

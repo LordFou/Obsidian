@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Tournoi de Monte-Carlo - ATP Masters 1000
+# Tournoi d'Umag - ATP 250 - Croatie
 
 # Introduction
 
@@ -10,7 +10,7 @@ type: event
 
 | Année | Vainqueur         | Nationalité | Remarque |
 | ----- | ----------------- | ----------- | -------- |
-| 2026  | [[Jannik Sinner]] | Italien     |          |
+| 2026  | [[Daniel Merida]] | Espagnol    |          |
 |       |                   |             |          |
 # Femmes
 

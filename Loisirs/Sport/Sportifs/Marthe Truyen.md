@@ -6,8 +6,8 @@ type: personne
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Nationalité** :  Belge
+- **Sport / Discipline** :  [[Cyclisme]], Gravel
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
@@ -16,7 +16,9 @@ type: personne
 | Année | Compétition                              | Résultat | Remarque |
 | ----- | ---------------------------------------- | -------- | -------- |
 | 2025  | [[Championnat National Belge de gravel]] | 1ier     |          |
-| 2026  | [[Samyn Classic]]                     | 3e       |          |
+|       |                                          |          |          |
+| 2026  | [[Samyn Classic]]                        | 3e       |          |
+| 2026  | [[Tour de Pologne]] - 1e étape           | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

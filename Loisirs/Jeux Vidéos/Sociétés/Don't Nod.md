@@ -10,9 +10,16 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Nom complet** :  
 - **Date de création** :  
 - **Fondateurs** :  
-- **Pays d’origine** :  
+- **Pays d’origine** :  France (Paris)
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
+
+```timeline-labeled
+[line-5, body-2]
+date: Juin 2026
+title: Fermeture des vannes 
+content: Le studio pourrait tomber à court d'argent dès novembre car son actionnaire [[Tencent]] ne souhaiterait plus le renflouer
+```
 
 ## Jeux Développés
 | Année | Titre            | Genre | Plateformes |

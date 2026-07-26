@@ -1,46 +1,50 @@
 ---
 type: game
 subType: ""
-title: Deer & Boy
-englishTitle: Deer & Boy
+title: Fading Echo
+englishTitle: Fading Echo
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/1803140
-id: 1803140
+url: https://store.steampowered.com/app/2467880
+id: 2467880
 developers:
-  - Lifeline Games
+  - Emeteria
 publishers:
-  - Dear Villagers
+  - New Tales
+  - Com2uS Holdings
 genres:
   - Action
   - Adventure
   - Indie
+  - RPG
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803140/c3ed226e9e97272876e6c5f4572d8dce010740cf/header.jpg?t=1781701232
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467880/e39036b077d6aee96e3e0b2e7929a55c4735957e/header.jpg?t=1784622856
 released: true
-releaseDate: 23/06/2026
+releaseDate: 21/07/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803140/c3ed226e9e97272876e6c5f4572d8dce010740cf/header.jpg?t=1781701232)
-# Deer & Boy
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467880/e39036b077d6aee96e3e0b2e7929a55c4735957e/header.jpg?t=1784622856)
+# Fading Echo
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Lifeline Games]]
+	- Studio : [[Emeteria]]
 	- Personnalités : 
-- **Éditeur** : [[Dear Villagers]]
-- **Plateformes** : 
+- **Éditeur** : 
+	- [[New Tales]]
+	- [[Com2uS Holdings]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Aventure]]
+- **Genre** : [[Action]], [[Plateforme]]
 - **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : [[3D]]
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
@@ -62,5 +66,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/1803140       |
-| Trailer     | https://youtu.be/zmStPs7PtVk?si=4EC5asdG6xOi6SAO |
+| Steam       | https://store.steampowered.com/app/2467880       |
+| Trailer     | https://youtu.be/D1vt4ipCQ6A?si=agcCbh_-ix4kEMcy |

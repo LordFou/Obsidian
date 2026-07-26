@@ -15,8 +15,10 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition               | Résultat | Remarque |
 | ----- | ------------------------- | -------- | -------- |
-| 2025  | [[Rallye d'Estonie]]      | 1ier     | Toyota   |
-| 2026  | [[Rallye de Monte-Carlo]] | 1ier     | Toyota   |
+| 2025  | [[Rallye d'Estonie]]      | ==1ier== | Toyota   |
+|       |                           |          |          |
+| 2026  | [[Rallye de Monte-Carlo]] | ==1ier== | Toyota   |
+| 2026  | [[Rallye d'Estonie]]      | 2e       | Toyota   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

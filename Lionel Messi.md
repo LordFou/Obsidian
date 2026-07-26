@@ -23,9 +23,10 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 # Records et Faits Marquants
 - [[Coupe du Monde]] 2026
 	- Il devient le meilleur buteur lors en dépassant l'Allemand [[Miroslav Klose]] (19).
-	- Il devient le premier joueur de l’histoire à marquer dans sept matches de suite.
+		- Il devient le premier joueur de l’histoire à marquer dans 8 matches de suite.
 	- Il devient le premier joueur de l’histoire à manquer quatre penalties en Coupe du monde.
-	- Il devient le seul joueur à avoir raté deux penalties sur une même édition.
+	- Il devient le seul joueur à avoir raté 3 penalties sur une même édition.
+	- Il est le plus capé (34 matchs)
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

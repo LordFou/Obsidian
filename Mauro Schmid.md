@@ -15,10 +15,14 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                      | Résultat | Remarque           |
 | ----- | ---------------------------------------------------------------- | -------- | ------------------ |
-| 2026  | [[Tour d'Oman]] - 3e étape                                       | 1ier     | :luc_plus: Général |
-| 2026  | [[Muscat Classic]]                                               | 1ier     |                    |
-| 2026  | [[Semaine internationale Coppi et Bartali]] - Classement général | 1ier     |                    |
+| 2026  | [[Tour d'Oman]] - 3e étape                                       | ==1ier== | :luc_plus: Général |
+| 2026  | [[Muscat Classic]]                                               | ==1ier== |                    |
+| 2026  | [[Semaine internationale Coppi et Bartali]] - Xe étape           | ==1ier== |                    |
+| 2026  | [[Semaine internationale Coppi et Bartali]] - Classement général | ==1ier== |                    |
 | 2026  | [[Flèche Wallonne]]                                              | 2e       |                    |
+| 2026  | [[Tour de France]] - 13e étape                                   | ==1ier== |                    |
+| 2026  | [[Tour de France]] - 17e étape                                   | 2e       |                    |
+| 2026  | [[Tour de France]] - 18e étape                                   | 2e       |                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

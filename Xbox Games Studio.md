@@ -18,9 +18,20 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
-content:
+date: Juillet 2026
+title: Xbox vire
+content: Xbox annonce 3200 licenciements en deux vagues, une en ce mois de juillet et une dans l'année fiscale en cours.
+- 60-70 personnes chez [[Obsidian]] ce qui provoque un basculement de [[Avowed]] vers la [[Franchise Fallout]]
+- 136 personnes chez [[ID Software]], ce qui est incompréhensible vu les derniers succès de la [[Franchise Doom]]
+- 213 personnes chez [[ZeniMax Online Studios]] ([[Elder Scrolls Online]])
+  
+date: Juillet 2026
+title: Xbox rend certaines indépendances
+content: Pour des studios comme
+- [[Double Fine]]
+- [[Ninja Theory]]
+- [[Compulsion Games]]
+- [[Undead Labs]]
 ```
 
 ## Jeux Développés

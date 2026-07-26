@@ -6,14 +6,14 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
 	- Studio : [[Pocketpair]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]],[[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[Action]], [[Aventure]], [[RPG]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -31,12 +31,13 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Pokemon]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Trailer     | https://youtu.be/gKum7LqFi1s?si=z3mlNsSFJvkRJh97 |

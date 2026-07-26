@@ -9,7 +9,7 @@ type: personne
 - **Nationalité** :  Australien
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[EF Education]]
+- **Équipe(s) / Club(s)** :  [[EF - Education First]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions

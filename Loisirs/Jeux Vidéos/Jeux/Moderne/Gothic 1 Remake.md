@@ -37,7 +37,7 @@ Remake de [[Gothic 1]]
 - **Éditeur** : 
 	- [[Alkimia Interactive]]
 	- [[THQ Nordic]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : [[Franchise Gothic]]
 - **Genre** : [[Action]], [[RPG]]
 - **Résumé** :  
@@ -49,6 +49,12 @@ Remake de [[Gothic 1]]
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Le jeu est décrié, à raison, pour ses bugs en pagaille (comme le jeu original)
 	- Scénario terriblement accrocheur
+	- Checkpoint (7,5/10)
+		- Difficulté masochiste et brutale (-)
+		- Jeu de crochetage absurde (-)
+		- Problème de perf (-)
+		- Monde immersif (+)
+		- Scénario fidèle 
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -65,6 +71,7 @@ Remake de [[Gothic 1]]
 - 
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/1297900 |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Steam       | https://store.steampowered.com/app/1297900       |
+| Trailer     | https://youtu.be/n0R7BmfpD7k?si=tC2qEJuDTVgjk0oE |

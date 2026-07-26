@@ -26,6 +26,7 @@ type: personne
 | 2026  | [[Tour des Alpes]] - 3e étape              | ==1ier== |                           |
 | 2026  | [[Eschborn-Frankfurt]]                     | 2e       |                           |
 | 2026  | Coupe du Monde VTT - Nove Mesto (Tchèquie) | ==1ier== |                           |
+| 2026  | [[Tour de France]] - Combattif             | ==1ier== |                           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -10,7 +10,7 @@ Fils de [[Joseba Beloki]]
 - **Nationalité** :  Espagnol
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  [[CLM]], [[Grimpeur]]
-- **Équipe(s) / Club(s)** :  [[EF Education]]
+- **Équipe(s) / Club(s)** :  [[EF - Education First]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions

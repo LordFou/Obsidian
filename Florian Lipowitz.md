@@ -13,12 +13,14 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                | Résultat | Remarque                     |
-| ----- | ------------------------------------------ | -------- | ---------------------------- |
-| 2025  | [[Critérium du Dauphiné]] - 6e étape       | 3e       | Derriere Pogacar, Vingegaard |
-| 2025  | [[Critérium du Dauphiné]] - Meilleur Jeune | 1ier 🥇  |                              |
-| 2025  | [[Tour de France]] - 14e étape             | 4e       | Maillot Blanc                |
-| 2025  | [[Tour de France]] - Meilleur Jeune        | 1ier 🥇  |                              |
+| Année | Compétition                                | Résultat | Remarque                                 |
+| ----- | ------------------------------------------ | -------- | ---------------------------------------- |
+| 2025  | [[Critérium du Dauphiné]] - 6e étape       | 3e       | Derriere Pogacar, Vingegaard             |
+| 2025  | [[Critérium du Dauphiné]] - Meilleur Jeune | 1ier 🥇  |                                          |
+| 2025  | [[Tour de France]] - 14e étape             | 4e       | Maillot Blanc                            |
+| 2025  | [[Tour de France]] - Meilleur Jeune        | 1ier 🥇  |                                          |
+|       |                                            |          |                                          |
+| 2026  | [[Tour de France]] - 16e étape             | Abandon  | Chute au CLM et fracture de la clavicule |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -27,7 +29,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Lors du [[Tour de France]] 2026, il se fracture la clavicule lors d'une chute au CLM.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

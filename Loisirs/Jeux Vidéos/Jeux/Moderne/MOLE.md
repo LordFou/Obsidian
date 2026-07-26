@@ -35,8 +35,8 @@ tags: mediaDB/game
 - **Éditeur** : [[Oro Interactive]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Aventure]], [[Simulation]], [[Horreur Psychologique]]
-- **Résumé** :  
+- **Genre** : [[Aventure]], [[Simulation]], [[Horreur]]
+- **Résumé** :  *"Pilotez « la taupe », une gigantesque foreuse d'après-guerre conçue pour descendre profondément sous le sol slave. Réparez les systèmes défaillants, suivez les voix des morts et priez pour survivre à ce qui peut bien partager votre cercueil."*
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -45,10 +45,11 @@ tags: mediaDB/game
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
 - **Gameplay** :
-- **Durée estimée** : 
+- **Durée estimée** : 3h 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- [[Souterrain]]
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
@@ -60,7 +61,7 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL                                              |
-| ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/4064510       |
-| Trailer     | https://youtu.be/FneyINaShaQ?si=UX4w3X5x24xmK-vC |
+| Description | URL                                         |
+| ----------- | ------------------------------------------- |
+| Steam       | https://store.steampowered.com/app/4064510  |
+| Trailer     | https://www.youtube.com/watch?v=s-pb9VhGt3s |

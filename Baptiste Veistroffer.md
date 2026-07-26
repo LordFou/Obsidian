@@ -17,6 +17,7 @@ type: personne
 | ----- | ----------------------------------------- | -------- | ------------------ |
 | 2026  | [[Tour d'Oman]] - 2e étape                | ==1ier== | :luc_plus: Général |
 | 2026  | [[Tour de France]] - 5e étape - Combattif | ==1ier== |                    |
+| 2026  | [[Tour de France]] - 7e étape - Combattif | ==1ier== |                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

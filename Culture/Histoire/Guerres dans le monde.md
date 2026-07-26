@@ -45,3 +45,6 @@
 			- Fourniture de pétrole sans passer par le [[détroit d'Ormuz]]
 			- Occidentalisation
 			- Occupation de petites îles revendiqués par l'[[Iran]]
+
+
+
