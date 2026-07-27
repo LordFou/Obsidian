@@ -35,7 +35,7 @@ tags: mediaDB/game
 - **Éditeur** : [[Disruptive Games]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]]
+- **Genre** : [[Action]], [[Aventure]], [[Coopération]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -60,6 +60,7 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/1473960 |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Steam       | https://store.steampowered.com/app/1473960       |
+| Trailer     | https://youtu.be/hk9gvVm11nA?si=DrpJLgKZgCmwzO19 |

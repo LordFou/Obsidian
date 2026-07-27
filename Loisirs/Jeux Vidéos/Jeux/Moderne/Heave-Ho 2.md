@@ -11,9 +11,9 @@ type: game
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : [[Devolver Digital]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Switch]],[[Switch 2]]
 - **Franchise** : 
-- **Genre** : [[PC]], [[Switch]],[[Switch 2]]
+- **Genre** : [[Party Games]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -37,6 +37,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Trailer     | https://youtu.be/xYRhczUghdQ?si=bRqq0z1VWaA99MSb |
