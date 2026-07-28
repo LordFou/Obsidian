@@ -1,55 +1,53 @@
 ---
 type: game
 subType: ""
-title: Dead Weight
-englishTitle: Dead Weight
+title: Rock Bottom
+englishTitle: Rock Bottom
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2646720
-id: 2646720
+url: https://store.steampowered.com/app/4297840
+id: 4297840
 developers:
-  - Klukva Games
+  - Logan Games
 publishers:
-  - Klukva Games
-  - Spaghetti Cat
+  - Logan Games
 genres:
+  - Action
   - Adventure
-  - Indie
-  - RPG
+  - Casual
+  - Simulation
   - Strategy
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646720/b17c0630d68d31515074325c757586dcbbdecc81/header.jpg?t=1784818086
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297840/a6aea9bda4707d8d1f0a493ab70d3dff07ba089d/header.jpg?t=1784041176
 released: true
-releaseDate: 16/07/2026
+releaseDate: 14/07/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646720/b17c0630d68d31515074325c757586dcbbdecc81/header.jpg?t=1784818086)
-# Dead Weight
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297840/a6aea9bda4707d8d1f0a493ab70d3dff07ba089d/header.jpg?t=1784041176)
+# Rock Bottom
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Klukva Games]]
+	- Studio : [[Logan Games]]
 	- Personnalités : 
-- **Éditeur** : 
-	- [[Klukva Games]]
-	- [[Spaghetti Cat]]
+- **Éditeur** : [[Logan Games]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Tour par tour]]
+- **Genre** : [[Jeu incrémental]]
 - **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[Pixel Art]]
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
 - **Gameplay** :
-- **Durée estimée** : 
+- **Durée estimée** : quelques heures
 
 ## Histoire et Univers
 - **Lieu(x)** : 
@@ -57,9 +55,7 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- [[La piraterie]]
 - **Influencé par** :
-	- [[Into The Breach]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
@@ -68,5 +64,5 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2646720 |
-![[image-736.webp|500x282]]
+| Wiki        | https://store.steampowered.com/app/4297840 |
+![[image-737.webp|500x282]]

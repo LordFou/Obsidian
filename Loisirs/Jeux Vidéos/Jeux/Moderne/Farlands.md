@@ -1,50 +1,53 @@
 ---
 type: game
 subType: ""
-title: Dead Weight
-englishTitle: Dead Weight
+title: Farlands
+englishTitle: Farlands
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2646720
-id: 2646720
+url: https://store.steampowered.com/app/2252680
+id: 2252680
 developers:
-  - Klukva Games
+  - JanduSoft
+  - Eric Rodríguez
 publishers:
-  - Klukva Games
-  - Spaghetti Cat
+  - JanduSoft
+  - Anotherindie
 genres:
-  - Adventure
+  - Casual
   - Indie
   - RPG
-  - Strategy
+  - Simulation
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646720/b17c0630d68d31515074325c757586dcbbdecc81/header.jpg?t=1784818086
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/76bd5f9559ecbbb1c8c62b4b281c61e485ea5e4d/header.jpg?t=1784191417
 released: true
 releaseDate: 16/07/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646720/b17c0630d68d31515074325c757586dcbbdecc81/header.jpg?t=1784818086)
-# Dead Weight
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/76bd5f9559ecbbb1c8c62b4b281c61e485ea5e4d/header.jpg?t=1784191417)
+# Farlands
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Klukva Games]]
+	- Studio : 
+		- [[JanduSoft]]
+		- [[Eric Rodríguez]]
 	- Personnalités : 
 - **Éditeur** : 
-	- [[Klukva Games]]
-	- [[Spaghetti Cat]]
-- **Plateformes** : [[PC]]
+	- [[JanduSoft]]
+	- [[Another Indie]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Tour par tour]]
+- **Genre** : 
 - **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[Pixel Art]]
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
@@ -57,9 +60,8 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- [[La piraterie]]
 - **Influencé par** :
-	- [[Into The Breach]]
+	- [[Stardew Valley]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
@@ -68,5 +70,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2646720 |
-![[image-736.webp|500x282]]
+| Wiki        | https://store.steampowered.com/app/2252680 |
