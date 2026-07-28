@@ -47,6 +47,7 @@ tags: mediaDB/game
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
 	- CheckPoint (8/10)
+	- Exserv en est carrément tombé amoureux
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -65,7 +66,8 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL                                              |
-| ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/2524850       |
-| Trailer     | https://youtu.be/KGT2Hj0i5HE?si=vW0NiPRVsIDQsEED |
+| Description       | URL                                              |
+| ----------------- | ------------------------------------------------ |
+| Steam             | https://store.steampowered.com/app/2524850       |
+| Trailer           | https://youtu.be/KGT2Hj0i5HE?si=vW0NiPRVsIDQsEED |
+| Test Vidéo Exserv | https://www.youtube.com/watch?v=sHB43lQdHdo      |
