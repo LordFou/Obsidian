@@ -30,13 +30,13 @@ tags: mediaDB/game
 - **Année de sortie** :  2026
 - **Développeur** : 
 	- Studio : 
-		- William Rous
-		  Evil Trout
+		- [[William Rous]]
+		  [[Evil Trout]]
 	- Personnalités : 
-- **Éditeur** : Evil Trout Inc.
-- **Plateformes** : 
+- **Éditeur** : [[Evil Trout]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : Adventure
+- **Genre** : [[Aventure]], [[Enquête]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -46,6 +46,7 @@ tags: mediaDB/game
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 83
 - **Gameplay** :
+	- À l'aide d'une machine bizarre, on va tenter de débusquer des scènes du passé afin d'associer nom et photo à tout un tas de personnages qui n'apparaissent d'abord que comme des silhouettes anonymes
 - **Durée estimée** : 
 
 ## Histoire et Univers
@@ -64,3 +65,4 @@ tags: mediaDB/game
 | Description | URL       |
 | ----------- | --------- |
 | Wiki        | https://store.steampowered.com/app/3641000 |
+![[image-735.webp|500x282]]

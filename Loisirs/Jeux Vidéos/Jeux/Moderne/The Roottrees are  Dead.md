@@ -9,7 +9,7 @@ type: game
 
 - **Année de sortie** : 
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Evil Trout]]
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
