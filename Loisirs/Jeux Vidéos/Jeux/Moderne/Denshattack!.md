@@ -35,7 +35,7 @@ tags: mediaDB/game
 - **Éditeur** : 
 	- [[Fireshine Games]]
 	- [[Boltray Games]]
-- **Plateformes** : [[PC]]
+- **Plateformes** : [[PC]], [[Playstation 5]]
 - **Franchise** : 
 - **Genre** : [[Action]]
 - **Résumé** :  
@@ -56,6 +56,8 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Trains|Les trains]]
+	- [[Le skate-board]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

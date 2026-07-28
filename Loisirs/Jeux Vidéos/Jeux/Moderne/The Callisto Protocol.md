@@ -1,39 +1,40 @@
 ---
 type: game
 subType: ""
-title: Mortal Shell II
-englishTitle: Mortal Shell II
-year: "2026"
+title: The Callisto Protocol™
+englishTitle: The Callisto Protocol™
+year: "2022"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2584270
-id: 2584270
+url: https://store.steampowered.com/app/1544020
+id: 1544020
 developers:
-  - Cold Symmetry
+  - Striking Distance Studios
 publishers:
-  - Playstack
+  - KRAFTON, Inc.
 genres:
   - Action
+  - Adventure
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/c938ec2ae21d6e5c35b025ddcbdb766684ed87a7/header_alt_assets_1.jpg?t=1783515742
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1544020/header.jpg?t=1760331403
 released: true
-releaseDate: 20/08/2026
+releaseDate: 01/12/2022
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/c938ec2ae21d6e5c35b025ddcbdb766684ed87a7/header_alt_assets_1.jpg?t=1783515742)
-# Mortal Shell II
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1544020/header.jpg?t=1760331403)
+# The Callisto Protocol™
 
 ## Informations Générales
 
-- **Année de sortie** :  2026
+- **Année de sortie** :  2022
 - **Développeur** : 
-	- Studio : [[Cold Symmetry]]
+	- Studio : [[Striking Distance Studios]]
 	- Personnalités : 
-- **Éditeur** : [[Playstack]]
-- **Plateformes** : [[PC]]
+- **Éditeur** : [[KRAFTON]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Souls Like]]
+- **Genre** : 
 - **Résumé** :  
 
 ## Détails Techniques
@@ -42,6 +43,7 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
+	- Gros bide
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -60,4 +62,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2584270 |
+| Wiki        | https://store.steampowered.com/app/1544020 |
