@@ -1,53 +1,51 @@
 ---
 type: game
 subType: ""
-title: Teeto
-englishTitle: Teeto
+title: Go-Go Town!
+englishTitle: Go-Go Town!
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2783370
-id: 2783370
+url: https://store.steampowered.com/app/2195120
+id: 2195120
 developers:
-  - Eat Pant Games
+  - Prideful Sloth
 publishers:
-  - Super Rare Originals
-  - CouchPlay Interactive
+  - Prideful Sloth
 genres:
-  - Adventure
   - Casual
   - Indie
+  - Simulation
+  - Strategy
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783370/7b1d32e039db9a92cb731031b9d8a679c468fbb3/header.jpg?t=1784279922
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195120/f6246e7ab8ceb5ec049b6d379ad42c4d0b28d11b/header_alt_assets_5.jpg?t=1784689896
 released: true
-releaseDate: 15/07/2026
+releaseDate: 16/07/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783370/7b1d32e039db9a92cb731031b9d8a679c468fbb3/header.jpg?t=1784279922)
-# Teeto
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195120/f6246e7ab8ceb5ec049b6d379ad42c4d0b28d11b/header_alt_assets_5.jpg?t=1784689896)
+# Go-Go Town!
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Eat Pant Games]]
+	- Studio : [[Prideful Sloth]]
 	- Personnalités : 
-- **Éditeur** : 
-	- [[Super Rare Originals]]
-	- [[CouchPlay Interactive]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Switch]], [[Switch 2]]
+- **Éditeur** : [[Prideful Sloth]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Plateforme]], [[Aventure]]
+- **Genre** : 
 - **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[3D]]
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
-	- CheckPoint (7,5/10)
+	- CheckPoint (7.5/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -66,5 +64,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/2783370       |
-| Trailer     | https://youtu.be/5qNbo5fzr8M?si=5ak9He8TkdzSsQpQ |
+| Steam       | https://store.steampowered.com/app/2195120       |
+| Trailer     | https://youtu.be/e8t8GgOwxW8?si=P9iSsSHLmXytRIUk |

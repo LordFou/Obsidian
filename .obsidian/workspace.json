@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Teeto.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Fogpiercer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teeto"
+              "title": "Fogpiercer"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Teeto",
+                "query": "Fogpiercer",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -208,10 +208,18 @@
   },
   "active": "666d886107055761",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Go-Go Town!.md",
+    "Prideful Sloth.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Moss - The Forgotten Relic .md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/halfmoon.md",
+    "lvl374.md",
+    "Attachments/image-734.webp",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cairn.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/D-topia.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Teeto.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Ascend to ZERO.md",
     "Attachments/image-733.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Fogpiercer.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Moss - The Forgotten Relic .md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/K-pop Idol Stories - Road to Debut.md",
     "Loisirs/Sport/Sportifs/Alexander Doom.md",
     "Loisirs/Sport/Sportifs/Michael Obasuyi.md",
@@ -228,13 +236,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Culdcept BEGINS.md",
     "Neos Corporation.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Puppergeist.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Wreck Runners.md",
-    "Disruptive Games.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Mound - Omen of Cthulhu.md",
-    "ACE Team.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Denshattack!.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Teeto.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/What Surrounds Us.md",
     "Attachments/image-732.webp",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
@@ -246,7 +247,6 @@
     "Attachments/image-727.webp",
     "Attachments/image-726.webp",
     "Attachments/image-725.webp",
-    "Attachments/image-724.webp",
     "Généalogie des Jeux Vidéos.canvas",
     "Commode 16 Plus"
   ]
