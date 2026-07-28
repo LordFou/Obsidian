@@ -2,13 +2,13 @@
 type: societe
 ---
 
-# Pocketpair
+# AM TEAM
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
 
 ## Informations Générales
-- **Nom complet** :  Pocketpair Publishing
+- **Nom complet** :  
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
@@ -24,10 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre         |
-| ----- | ------------- |
-| 2026  | [[Palworld]]  |
-|       | [[Craftopia]] |
+| Année | Titre                    |
+| ----- | ------------------------ |
+| 2026  | [[Little Incrementisle]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
@@ -40,11 +39,11 @@ Décrire le style graphique, les thématiques abordées, les influences notables
 Lister les prix, distinctions ou records obtenus.
 
 ## Controverses ou Événements Marquants
-- Il faut montrer son historique d'heures de jeux sur Steam avant d'être embauché. Un choix mis en avant par le PDG du studio, qui explique vouloir recruter "de vrais joueurs Steam", des gens "qui jouent à des jeux indés dispos uniquement sur Steam".
+Évoquer les polémiques ou faits marquants de l’histoire de la société.
 
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |
