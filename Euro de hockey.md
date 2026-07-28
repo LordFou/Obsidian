@@ -16,13 +16,9 @@ type: event
 
 | Année | Vainqueur | Nationalité | Remarque |
 | ----- | --------- | ----------- | -------- |
-| 20    |           |             |          |
-|       |           |             |          |
 | 2025  |           |             |          |
-|       |           |             |          |
 Femmes - U18
 
 | Année | Vainqueur | Nationalité | Remarque |
 | ----- | --------- | ----------- | -------- |
 | 2025  |           |             |          |
-|       |           |             |          |

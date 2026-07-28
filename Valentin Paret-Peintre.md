@@ -17,6 +17,7 @@ type: personne
 | ----- | ------------------------------ | -------- | ----------------------------- |
 | 2025  | [[Tour de France]] - 16e étape | 1ier     | Mont Ventoux                  |
 | 2026  | [[Paris-Nice]] - 5e étape      | 2e       | Derriere [[Jonas Vingegaard]] |
+| 2026  | [[Critérium d'Alost]]          | 3e       |                               |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
