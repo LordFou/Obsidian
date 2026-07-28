@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Heave-Ho 2.md",
+                "file": "Euro de hockey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heave-Ho 2"
+              "title": "Euro de hockey"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "K-pop Idol",
+                "query": "Young Red Lions",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,8 +206,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "571b06dbd1c46b81",
+  "active": "666d886107055761",
   "lastOpenFiles": [
+    "Young Red Lions.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Heave-Ho 2.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Culdcept BEGINS.md",
     "Neos Corporation.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Puppergeist.md",
@@ -233,8 +235,6 @@
     "Loisirs/Sport/Sportifs/Ben Broeders.md",
     "Helena Ponette.md",
     "Dylan Borlée.md",
-    "Jonathan Sacoor.md",
-    "Daniel Segers.md",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
     "Famille/Vacances",
