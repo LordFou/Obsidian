@@ -22,6 +22,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 	- [[Ubisoft Montréal]]
 	- [[Ubisoft Mainz]]
 	- [[Ubisoft Singapour]]
+	- [[Ubisoft Barcelone]]
 - **Franchises : 
 	- [[Franchise Assasin's Creed]]
 	- [[Franchise Far Cry]]
@@ -65,6 +66,8 @@ Lister les prix, distinctions ou records obtenus.
 	- Licenciement de 105 emplois chez [[Red Storm]] mais Ubi ne ferme pas le studio pour continuer à bénéficier de la licence Tom Clancy sans payer  de royalties vu qu'ils ont acquis le studio et donc licence auparavant.
 - Avril 2026
 	- 200 postes en moins au QG Parisien
+- Juillet 2026
+	- [[Ubisoft Barcelone]] se met en grève car 51 employés sont concernés par des licenciements
 
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
