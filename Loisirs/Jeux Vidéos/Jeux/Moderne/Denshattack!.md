@@ -35,7 +35,7 @@ tags: mediaDB/game
 - **Éditeur** : 
 	- [[Fireshine Games]]
 	- [[Boltray Games]]
-- **Plateformes** : [[PC]], [[Playstation 5]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
 - **Franchise** : 
 - **Genre** : [[Action]]
 - **Résumé** :  
