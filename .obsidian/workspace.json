@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Denshattack!.md",
+                "file": "Loisirs/Jeux Vidéos/Périphériques/FlipPad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Denshattack!"
+              "title": "FlipPad"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,8 +207,9 @@
   },
   "active": "666d886107055761",
   "lastOpenFiles": [
-    "Andrew One.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Denshattack!.md",
+    "Loisirs/Jeux Vidéos/Périphériques/FlipPad.md",
+    "Andrew One.md",
     "Loisirs/Sport/Sportifs/Wout Van Aert.md",
     "Tour du Danemark.md",
     "Loisirs/Sport/Sportifs/Cristiano Ronaldo.md",
@@ -233,7 +233,6 @@
     "Pocketpair.md",
     "Craftopia.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Never Grave - The Witch and The Curse.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Palworld.md",
     "Attachments/image-737.webp",
     "Attachments/image-736.webp",
     "Attachments/image-735.webp",
