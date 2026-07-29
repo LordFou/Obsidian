@@ -32,6 +32,7 @@ tags: mediaDB/game
 - **Développeur** : 
 	- Studio : [[Undercoders]]
 	- Personnalités : 
+		- [[Andrew One]] (Compositeur)
 - **Éditeur** : 
 	- [[Fireshine Games]]
 	- [[Boltray Games]]

@@ -54,9 +54,10 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 | 2025  | [[Critérium d'Herentals]]                                   |                                                                                       |
 | 2025  | CXWorldCup - Coupe du Monde - 5e Manche - Anvers (Belgique) | 1ier                                                                                  |
 |       |                                                             |                                                                                       |
-| 2026  | [[Paris-Roubaix]]                                           | 1ier                                                                                  |
-| 2026  | Marly Grav                                                  | 1ier                                                                                  |
-| 2026  | [[Critérium du Dauphiné]] - 4e étape                        | 1ier                                                                                  |
+| 2026  | [[Paris-Roubaix]]                                           | ==!!!!!==                                                                             |
+| 2026  | Marly Grav                                                  |                                                                                       |
+| 2026  | [[Critérium du Dauphiné]] - 4e étape                        | Avec un coude blessé                                                                  |
+| 2026  | [[Tour du Danemark]] - 1e étape                             | Sprint à 8                                                                            |
 
 | Année | Compétition                                                       | Résultat | Remarque                                                                   |
 | ----- | ----------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |

@@ -5,11 +5,21 @@ type: event
 
 # Introduction
 
+# Edition 2026
+## Hommes
+
+|          | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques |
+| -------- | ----------------- | ----------------- | -------- | ------ | ----- | --------- |
+| 1e (BEL) | [[Wout Van Aert]] | [[Wout Van Aert]] |          |        |       |           |
+## Femmes
+
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|     |           |         |          |        |       |           |
+
 # Edition 2025
 
 ## Hommes
-
-### Etapes 
 
 |          | Vainqueur              | Général           | Montagne | Points | Jeune | Remarques                                                    |
 | -------- | ---------------------- | ----------------- | -------- | ------ | ----- | ------------------------------------------------------------ |
@@ -20,15 +30,12 @@ type: event
 | 5e (DAN) | [[Mads Pedersen]]      | [[Mads Pedersen]] |          |        |       | 7e - [[Milan Menten]]                                        |
 ## Femmes
 
-### Etapes
-
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
 | --- | --------- | ------- | -------- | ------ | ----- | --------- |
 
 # General
 
 ### Hommes
-
 
 | Année | Vainqueur         | Nationalité | Remarque |
 | ----- | ----------------- | ----------- | -------- |
