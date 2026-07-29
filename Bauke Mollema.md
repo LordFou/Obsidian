@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                    | Résultat | Remarque                  |
-| ----- | ------------------------------ | -------- | ------------------------- |
-| 2025  | [[Tour de Pologne]] - 1e étape | ?        | :luc_plus: Maillot Points |
+| Année | Compétition                     | Résultat | Remarque                  |
+| ----- | ------------------------------- | -------- | ------------------------- |
+| 2025  | [[Tour de Pologne]] - 1e étape  | ?        | :luc_plus: Maillot Points |
+| 2026  | [[Critérium de Surhuisterveen]] | 3e       |                           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

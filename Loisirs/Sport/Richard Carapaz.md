@@ -22,6 +22,8 @@ type: personne
 | 2026  | [[Tour de France]] - 20e étape                | ==1ier== |                       |
 | 2026  | [[Tour de France]] - Classement montagne      | ==1ier== |                       |
 | 2026  | [[Tour de France]] - Combattivité             | ==1ier== |                       |
+| 2026  | [[Critérium de Boxmeer]]                      | ==1ier== |                       |
+| 2026  | [[Critérium de Surhuisterveen]]               | ==1ier== |                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

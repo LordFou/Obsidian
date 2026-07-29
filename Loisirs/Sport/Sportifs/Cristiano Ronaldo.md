@@ -27,7 +27,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Évoquer les polémiques ou moments clés de sa carrière.
 
 # Retraite et Reconversion
-Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
+- Acteur et producteur pour une série avec le réalisateur de "Kingsman"
 
 | Description | URL |
 | ----------- | --- |
