@@ -87,6 +87,7 @@ type: personne
 | 2026  | [[Tour de France]] - 19e étape                                                   | 5e       |                                                                                                                       |
 | 2026  | [[Tour de France]] - 20e étape                                                   | 2e       |                                                                                                                       |
 | 2026  | [[Critérium d'Alost]]                                                            | ==1ier== |                                                                                                                       |
+| 2026  | [[Critérium de Roulers]]                                                         | ==1ier== |                                                                                                                       |
 ## Historique
 ```timeline-labeled
 [line-5, body-2]

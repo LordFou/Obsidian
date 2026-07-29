@@ -55,6 +55,7 @@ type: personne
 | 2026  | [[Tour de France]] - 8e étape                              | ==1ier== |                                |                                              |
 | 2026  | [[Tour de France]] - 12e étape                             | ==1ier== |                                |                                              |
 | 2026  | [[Tour de France]] - 15e étape                             | Abandon  | Plus aucune étape de sprinteur |                                              |
+| 2026  | [[Critérium de Roulers]]                                   | 2e       |                                |                                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
