@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Musées/Nationaal Videogame Museum.md",
+                "file": "Loisirs/Jeux Vidéos/Sociétés/ZA-UM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nationaal Videogame Museum"
+              "title": "ZA-UM"
             },
             "group": "383b80f60981f41f"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Musées/Nationaal Videogame Museum.md",
+                "file": "Loisirs/Jeux Vidéos/Sociétés/ZA-UM.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Nationaal Videogame Museum"
+              "title": "Graphique de ZA-UM"
             },
             "group": "383b80f60981f41f"
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Mus",
+                "query": "Zero Parades",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -129,7 +129,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,8 +253,12 @@
   },
   "active": "666d886107055761",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Zero Parades.md",
+    "Loisirs/Jeux Vidéos/Sociétés/ZA-UM.md",
+    "musée du jeu vidéo.md",
     "Loisirs/Jeux Vidéos/Musées/Computer History Museum.md",
     "Loisirs/Jeux Vidéos/Musées/Nationaal Videogame Museum.md",
+    "Attachments/image-739.webp",
     "Loisirs/Tourisme/Durbuy.md",
     "Loisirs/Jeux Vidéos/Périphériques/FlipPad.md",
     "Attachments/image-738.webp",
@@ -276,9 +281,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Little Incrementisle.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Melvor Idle.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Realm Grinder.md",
-    "Melvor Idle.md",
-    "Zerator.md",
-    "AM TEAM.md",
     "Attachments/image-737.webp",
     "Attachments/image-736.webp",
     "Attachments/image-735.webp",
@@ -290,7 +292,6 @@
     "Famille/Vacances",
     "Attachments/image-731.webp",
     "Attachments/image-730.webp",
-    "Attachments/image-729.webp",
     "Généalogie des Jeux Vidéos.canvas",
     "Commode 16 Plus"
   ]
