@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Little Incrementisle.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Little Incrementisle"
+              "title": "Crimson Desert"
             },
             "group": "8e1e25d7cb74d36f"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Little Incrementisle.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,12 +57,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.713275462622442,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Little Incrementisle"
+              "title": "Graphique de Crimson Desert"
             },
             "group": "8e1e25d7cb74d36f"
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Little Incrementisle",
+                "query": "Crimson",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,9 +253,11 @@
   },
   "active": "666d886107055761",
   "lastOpenFiles": [
+    "Pearl Abyss.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Little Incrementisle.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Melvor Idle.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Realm Grinder.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Little Incrementisle.md",
     "Melvor Idle.md",
     "Zerator.md",
     "AM TEAM.md",
@@ -280,8 +282,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Incident at Galley House.md",
     "Attachments/image-735.webp",
     "Evil Trout.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Roottrees are  Dead.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/K-pop Idol Stories - Road to Debut.md",
     "Attachments/image-734.webp",
     "Attachments/image-733.webp",
     "Attachments/image-732.webp",

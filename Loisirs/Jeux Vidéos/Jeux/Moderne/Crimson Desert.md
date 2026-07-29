@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : [[Pearl Abyss]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Action Aventure]], [[Monde ouvert]]
+- **Genre** : [[Action Aventure]], [[Monde ouvert]],[[MMORPG]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -25,11 +25,16 @@ type: game
 	- Commandes trop complexes
 	- CheckPoint (7,5/10)
 		- Le jeu m'a constamment émerveillé par le réalisme de son continent
+	- Canard PC (6/10)
+		- Des commandes manettes inhabituelles
+		- De la répétitivité
+		- De la beauté
 - **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : Pywel
+- **Lieu(x)** : 
+	- Pywel
 - **Epoque** : 
 - **Personnages principaux** : 
 	- Kliff
