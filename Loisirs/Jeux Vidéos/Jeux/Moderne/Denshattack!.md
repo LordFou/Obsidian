@@ -32,7 +32,7 @@ tags: mediaDB/game
 - **Développeur** : 
 	- Studio : [[Undercoders]]
 	- Personnalités : 
-		- [[Andrew One]] (Compositeur)
+		- [[Andrew One]] (Compositeur) => 17 morceaux sur ce jeu
 - **Éditeur** : 
 	- [[Fireshine Games]]
 	- [[Boltray Games]]
@@ -44,7 +44,9 @@ tags: mediaDB/game
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : (Type de musique, Bande-son notable)
+- **Audio** : 
+	- A sa sortie, c'est la deuxième bande originale la plus vendue sur Bandcamp
+	- 80 morceaux dans la BO !!
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
 	- CheckPoint (8/10)
