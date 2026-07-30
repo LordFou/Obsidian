@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Young Red Lions.md",
+                "file": "Culture/L'extrême droite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Young Red Lions"
+              "title": "L'extrême droite"
             },
             "group": "383b80f60981f41f"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Young Red Lions.md",
+                "file": "Culture/L'extrême droite.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Young Red Lions"
+              "title": "Graphique de L'extrême droite"
             },
             "group": "383b80f60981f41f"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Young",
+                "query": "extr",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,6 +255,8 @@
   },
   "active": "666d886107055761",
   "lastOpenFiles": [
+    "Attachments/image-740.webp",
+    "Young Red Lions.md",
     "Young Red Panthers.md",
     "Loisirs/Sport/Olav Kooij.md",
     "Tim Merlier.md",
@@ -281,8 +283,6 @@
     "Loisirs/Sport/Sportifs/Rune Herregodts.md",
     "Critérium de Roulers.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Crimson Desert.md",
-    "Pearl Abyss.md",
     "Attachments/image-737.webp",
     "Attachments/image-736.webp",
     "Attachments/image-735.webp",
