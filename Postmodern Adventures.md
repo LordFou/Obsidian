@@ -26,8 +26,8 @@ content:
 ## Jeux Développés
 | Année | Titre                        |
 | ----- | ---------------------------- |
+| 2024  | [[An English Haunting]]      |
 | 2026  | [[The Dark Rites of Arkham]] |
-| 2024  |                              |
 | 2022  |                              |
 
 ## Moteur(s) Utilisé(s)

@@ -10,6 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Postmodern Adventures]]
 	- Personnalités : 
+		- [[José Maria Meléndez]]
 - **Éditeur** : [[enComplot]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
