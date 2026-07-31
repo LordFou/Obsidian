@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Saber Interactive
+# dconn
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,12 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                               | Genre      | Plateformes |
-| ----- | ----------------------------------- | ---------- | ----------- |
-|       | [[Road Kings]]                      | Simulation |             |
-| 2025  | [[Warhammer 40k - Space Marine 2]]  |            |             |
-| 2026  | [[John Carpenter’s Toxic Commando]] |            |             |
-| 2026  | [[Docked]]                          | Simulation |             |
+| Année | Titre      |
+| ----- | ---------- |
+| 2026  | [[Rubato]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
@@ -47,6 +44,6 @@ Lister les prix, distinctions ou records obtenus.
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |

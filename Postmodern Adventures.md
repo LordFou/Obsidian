@@ -26,9 +26,9 @@ content:
 ## Jeux Développés
 | Année | Titre                        |
 | ----- | ---------------------------- |
+| 2022  | [[Nightmare Frames]]         |
 | 2024  | [[An English Haunting]]      |
 | 2026  | [[The Dark Rites of Arkham]] |
-| 2022  |                              |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

@@ -10,7 +10,7 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 ## Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Espagnol
-- **Profession(s)** : (Développeur, Designer, Compositeur, Journaliste, etc.)  
+- **Profession(s)** : Auteur
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 
 ```timeline-labeled
