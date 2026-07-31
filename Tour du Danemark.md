@@ -8,9 +8,11 @@ type: event
 # Edition 2026
 ## Hommes
 
-|          | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques |
-| -------- | ----------------- | ----------------- | -------- | ------ | ----- | --------- |
-| 1e (BEL) | [[Wout Van Aert]] | [[Wout Van Aert]] |          |        |       |           |
+|              | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques |
+| ------------ | ----------------- | ----------------- | -------- | ------ | ----- | --------- |
+| ==1e (BEL)== | [[Wout Van Aert]] | [[Wout Van Aert]] |          |        |       |           |
+| ==2e (BEL)== | [[Wout Van Aert]] | [[Wout Van Aert]] |          |        |       |           |
+|              |                   |                   |          |        |       |           |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
