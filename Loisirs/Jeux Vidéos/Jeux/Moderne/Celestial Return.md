@@ -1,41 +1,41 @@
 ---
 type: game
 subType: ""
-title: Quantum Void
-englishTitle: Quantum Void
+title: Celestial Return
+englishTitle: Celestial Return
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2710650
-id: 2710650
+url: https://store.steampowered.com/app/2704090
+id: 2704090
 developers:
-  - TacNours
+  - Metaphor Games
 publishers:
-  - TacNours
+  - Shoreline Games
 genres:
-  - Action
   - Adventure
   - Indie
+  - RPG
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2710650/ce9f2325c65c6f25fb0c92db5e6c5438f277ea45/header.jpg?t=1783719830
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2704090/52d11f943ebb12e1ea53d965d6e846aa5c66cec5/header.jpg?t=1785070703
 released: true
-releaseDate: 10/07/2026
+releaseDate: 14/07/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2710650/ce9f2325c65c6f25fb0c92db5e6c5438f277ea45/header.jpg?t=1783719830)
-# Quantum Void
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2704090/52d11f943ebb12e1ea53d965d6e846aa5c66cec5/header.jpg?t=1785070703)
+# Celestial Return
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[TacNours]]
+	- Studio : [[Metaphor Games]]
 	- Personnalités : 
-- **Éditeur** : [[TacNours]]
-- **Plateformes** : [[PC]], [[Meta Quest]]
+- **Éditeur** : [[Shoreline Games]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Action]],[[Aventure]]
+- **Genre** : [[Aventure]], [[RPG]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -54,6 +54,7 @@ tags: mediaDB/game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- [[Disco Elysium]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
@@ -62,4 +63,5 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2710650 |
+| Wiki        | https://store.steampowered.com/app/2704090 |
+![[image-745.webp|500x282]]
