@@ -1,42 +1,41 @@
 ---
 type: game
 subType: ""
-title: "Avatar Legends: The Fighting Game"
-englishTitle: "Avatar Legends: The Fighting Game"
+title: Tormentum II
+englishTitle: Tormentum II
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2424420
-id: 2424420
+url: https://store.steampowered.com/app/931060
+id: 931060
 developers:
-  - Gameplay Group International
+  - OhNoo Studio
 publishers:
-  - PM Studios, Inc.
-  - Paramount Games
+  - OhNoo Studio
 genres:
-  - Action
+  - Adventure
+  - Casual
+  - Indie
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424420/30d44f94173fde20d7338f01611c6b5c7618e07e/header.jpg?t=1784909230
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931060/60cdc7248129b3a5beae4c1039e9cc84d49419ed/header.jpg?t=1784819090
 released: true
 releaseDate: 23/07/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424420/30d44f94173fde20d7338f01611c6b5c7618e07e/header.jpg?t=1784909230)
-# Avatar Legends: The Fighting Game
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931060/60cdc7248129b3a5beae4c1039e9cc84d49419ed/header.jpg?t=1784819090)
+# Tormentum II
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Gameplay Group International]]
+	- Studio : [[OhNoo Studio]]
 	- Personnalités : 
-- **Éditeur** : 
-	- [[PM Studios]]
-	- [[Paramount Games]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
+- **Éditeur** : [[OhNoo Studio]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Combat]]
+- **Genre** : [[Aventure]], [[Point & Click]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -63,5 +62,6 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/2424420       |
-| Trailer     | https://youtu.be/CmBG-Bi7Dmc?si=1I5zGPsS-BD2_xvO |
+| Steam       | https://store.steampowered.com/app/931060        |
+| Trailer     | https://youtu.be/xMxP4ojxOPo?si=JIxI6bT0knsRxqn1 |
+|             |                                                  |

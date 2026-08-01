@@ -1,42 +1,40 @@
 ---
 type: game
 subType: ""
-title: "Avatar Legends: The Fighting Game"
-englishTitle: "Avatar Legends: The Fighting Game"
+title: "Helix: Descent N Ascent"
+englishTitle: "Helix: Descent N Ascent"
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2424420
-id: 2424420
+url: https://store.steampowered.com/app/2736370
+id: 2736370
 developers:
-  - Gameplay Group International
+  - Badass Mongoose
 publishers:
-  - PM Studios, Inc.
-  - Paramount Games
+  - Badass Mongoose
 genres:
-  - Action
+  - Adventure
+  - Indie
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424420/30d44f94173fde20d7338f01611c6b5c7618e07e/header.jpg?t=1784909230
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2736370/header.jpg?t=1784826337
 released: true
 releaseDate: 23/07/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424420/30d44f94173fde20d7338f01611c6b5c7618e07e/header.jpg?t=1784909230)
-# Avatar Legends: The Fighting Game
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2736370/header.jpg?t=1784826337)
+# Helix: Descent N Ascent
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Gameplay Group International]]
+	- Studio : [[Badass Mongoose]]
 	- Personnalités : 
-- **Éditeur** : 
-	- [[PM Studios]]
-	- [[Paramount Games]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
+- **Éditeur** : [[Badass Mongoose]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Combat]]
+- **Genre** : [[Action]], [[Aventure]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -63,5 +61,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/2424420       |
-| Trailer     | https://youtu.be/CmBG-Bi7Dmc?si=1I5zGPsS-BD2_xvO |
+| Steam       | https://store.steampowered.com/app/2736370       |
+| Trailer     | https://youtu.be/PX7mrM-ZQ_8?si=ktP22tfoaM34TCYe |

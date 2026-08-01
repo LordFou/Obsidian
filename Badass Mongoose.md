@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Nippon Ichi Software
+# Badass Mongoose
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,10 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                                      |
-| ----- | ------------------------------------------ |
-| 2026  | [[The Liar Princess and the Blind Prince]] |
-| 2026  | [[Disgaea Mayhem]]                         |
+| Année | Titre                        |
+| ----- | ---------------------------- |
+| 2026  | [[Helix - Descent N Ascent]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
@@ -45,6 +44,6 @@ Lister les prix, distinctions ou records obtenus.
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |
