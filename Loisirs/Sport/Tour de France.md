@@ -15,12 +15,14 @@ Aussi surnommé la petite reine, le tour de France est le 3e évènement sportif
 
 # Edition 2026
 
-Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Evenepoel]]
-
-## Polémiques
-- Des contrôles antidopage en pleine nuit !!!!
 ## Hommes
 
+**Favoris** : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Evenepoel]]
+
+**Polémiques**
+- Des contrôles antidopage en pleine nuit !!!!
+
+**Notes**
 - [[Tadej Pogacar]] remporte son 5e tour et rejoint Anquetil, Merckx, Hinault et Indurain
 - [[Remco Evenepoel]] finit 2e, ce qui n'était plus arrivé depuis 1981
 - 6 victoires belges à nouveau cette année comme en 2025 ([[Tim Merlier]], [[Jasper Philipsen]], [[Remco Evenepoel]])
@@ -56,12 +58,6 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 | 20e (EQU)     | [[Richard Carapaz]]      | [[Tadej Pogacar]]    | [[Richard Carapaz]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Richard Carapaz]]      | 2e - [[Remco Evenepoel]]<br>Abandon d'[[Ilan Van Wilder]] sur chute                                                              |
 | 21e (NDL)     | [[Mathieu van der Poel]] | [[Tadej Pogacar]]    | [[Richard Carapaz]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | ?                        | 2e - [[Jasper Philipsen]]                                                                                                        |
 ![[image-732.webp|500x281]]
-## Femmes %% fold %%
-
-|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
-| --- | --------- | ------- | -------- | ------ | ----- | --------- |
-|     |           |         |          |        |       |           |
-|     |           |         |          |        |       |           |
 
 | Equipe                   | Nbr Victoires |
 | ------------------------ | ------------- |
@@ -86,6 +82,16 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 | Danemark | 1             |
 | Norvège  | 1             |
 | Suisse   | 1             |
+## Femmes %% fold %%
+
+|       | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| ----- | --------- | ------- | -------- | ------ | ----- | --------- |
+| 1e () |           |         |          |        |       |           |
+|       |           |         |          |        |       |           |
+
+
+
+
 
 # Edition 2025 %% fold %%
 ## Hommes
