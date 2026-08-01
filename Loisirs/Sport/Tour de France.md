@@ -84,10 +84,10 @@ Aussi surnommé la petite reine, le tour de France est le 3e évènement sportif
 | Suisse   | 1             |
 ## Femmes %% fold %%
 
-|          | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques |
-| -------- | ----------------- | ----------------- | -------- | ------ | ----- | --------- |
-| 1e (NDL) | [[Lorena Wiebes]] | [[Lorena Wiebes]] |          |        |       |           |
-|          |                   |                   |          |        |       |           |
+|          | Vainqueur         | Général           | Montagne   | Points            | Jeune           | Combattivité | Remarques |
+| -------- | ----------------- | ----------------- | ---------- | ----------------- | --------------- | ------------ | --------- |
+| 1e (NDL) | [[Lorena Wiebes]] | [[Lorena Wiebes]] | Océane Maé | [[Lorena Wiebes]] | [[Paula Blasi]] |              |           |
+|          |                   |                   |            |                   |                 |              |           |
 
 
 

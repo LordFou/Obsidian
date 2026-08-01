@@ -20,16 +20,6 @@
               "icon": "lucide-file",
               "title": "Tour de France"
             }
-          },
-          {
-            "id": "8b889a2592fed92d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nouvel onglet"
-            }
           }
         ]
       }
@@ -65,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Demi",
+                "query": "Storm Ingebrigtsen",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -224,9 +214,12 @@
   "active": "342a1d718c78d1e6",
   "lastOpenFiles": [
     "Loisirs/Sport/Lorena Wiebes.md",
+    "Loisirs/Sport/Tour de France.md",
+    "Tour du Danemark.md",
+    "Loisirs/Sport/Sportifs/Wout Van Aert.md",
+    "Storm Ingebrigtsen.md",
     "Kimberley Le Court.md",
     "Demi Vollering.md",
-    "Loisirs/Sport/Tour de France.md",
     "Loisirs/Sport/Sportifs/Lucas Coenen.md",
     "Journal de bord/2026-08-01.md",
     "Clasica San Sebastian.md",
@@ -247,10 +240,7 @@
     "Championnat de Belgique de Football.md",
     "Primoz Roglic.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
-    "Tour du Danemark.md",
-    "Loisirs/Sport/Sportifs/Wout Van Aert.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Esoteric Ebb.md",
-    "Saber Interactive.md",
     "Attachments/image-742.webp",
     "Attachments/image-741.webp",
     "Attachments/image-740.webp",

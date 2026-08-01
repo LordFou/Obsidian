@@ -22,6 +22,8 @@ type: personne
 | 2022  | [[Simac Ladies Tour]] - Classement final | 1ière          |                                                                  |
 | 2022  | [[Flèche de Gooik Oetingen]]             | 1ière          |                                                                  |
 | 2022  | [[Binche-Chimay-Binche]]                 | 1ière          |                                                                  |
+| 2022  | [[Tour de France]] - 1e étape            | 1ière          |                                                                  |
+|       |                                          |                |                                                                  |
 | 2024  | [[Flèche de Gooik Oetingen]]             | 1ière          |                                                                  |
 | 2024  | [[Gand Wevelgem]]                        | 1ière          |                                                                  |
 |       |                                          |                |                                                                  |

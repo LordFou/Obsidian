@@ -8,17 +8,17 @@ type: event
 # Edition 2026
 ## Hommes
 
-|              | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques |
-| ------------ | ----------------- | ----------------- | -------- | ------ | ----- | --------- |
-| ==1e (BEL)== | [[Wout Van Aert]] | [[Wout Van Aert]] |          |        |       |           |
-| ==2e (BEL)== | [[Wout Van Aert]] | [[Wout Van Aert]] |          |        |       |           |
-| ==3e (BEL)== | [[Wout Van Aert]] | [[Wout Van Aert]] |          |        |       |           |
+|              | Vainqueur              | Général           | Montagne | Points | Jeune | Remarques |
+| ------------ | ---------------------- | ----------------- | -------- | ------ | ----- | --------- |
+| ==1e (BEL)== | [[Wout Van Aert]]      | [[Wout Van Aert]] |          |        |       |           |
+| ==2e (BEL)== | [[Wout Van Aert]]      | [[Wout Van Aert]] |          |        |       |           |
+| ==3e (BEL)== | [[Wout Van Aert]]      | [[Wout Van Aert]] |          |        |       |           |
+| 4e (NOR)     | [[Storm Ingebrigtsen]] | [[Wout Van Aert]] |          |        |       |           |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
 | --- | --------- | ------- | -------- | ------ | ----- | --------- |
 |     |           |         |          |        |       |           |
-
 # Edition 2025
 
 ## Hommes
@@ -43,8 +43,9 @@ type: event
 | ----- | ----------------- | ----------- | -------- |
 | ?     | [[Mads Pedersen]] | Danois      |          |
 | ?     | [[Mads Pedersen]] | Danois      |          |
-| 2024  | [[Arnaud De Lie]] | Belge       |          |
+| 2024  | [[Arnaud De Lie]] | ==Belge==   |          |
 | 2025  | [[Mads Pedersen]] | Danois      |          |
+| 2026  | [[Wout Van Aert]] | ==Belge==   |          |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
