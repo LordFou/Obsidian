@@ -59,6 +59,7 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 | 2026  | [[Critérium du Dauphiné]] - 4e étape                        | Avec un coude blessé                                                                  |
 | 2026  | [[Tour du Danemark]] - 1e étape                             | Sprint à 8                                                                            |
 | 2026  | [[Tour du Danemark]] - 2e étape                             | Sprint massif et photo finish                                                         |
+| 2026  | [[Tour du Danemark]] - 3e étape                             | Etape de costauds                                                                     |
 
 | Année | Compétition                                                       | Résultat | Remarque                                                                   |
 | ----- | ----------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |

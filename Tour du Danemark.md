@@ -12,7 +12,7 @@ type: event
 | ------------ | ----------------- | ----------------- | -------- | ------ | ----- | --------- |
 | ==1e (BEL)== | [[Wout Van Aert]] | [[Wout Van Aert]] |          |        |       |           |
 | ==2e (BEL)== | [[Wout Van Aert]] | [[Wout Van Aert]] |          |        |       |           |
-|              |                   |                   |          |        |       |           |
+| ==3e (BEL)== | [[Wout Van Aert]] | [[Wout Van Aert]] |          |        |       |           |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
