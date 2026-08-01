@@ -55,6 +55,7 @@ tags: mediaDB/game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- [[La souris|Souris]]
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
@@ -68,3 +69,4 @@ tags: mediaDB/game
 | ----------- | ------------------------------------------------ |
 | Steam       | https://store.steampowered.com/app/3914860       |
 | Trailer     | https://youtu.be/7P6MdjunSTM?si=Qhwo6yAbgFHZTOI1 |
+![[image-746.webp|500x282]]
