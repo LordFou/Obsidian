@@ -31,8 +31,7 @@
               "title": "Nouvel onglet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour de France",
+                "query": "Demi",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -222,11 +221,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b889a2592fed92d",
+  "active": "342a1d718c78d1e6",
   "lastOpenFiles": [
-    "Loisirs/Sport/Sportifs/Lucas Coenen.md",
-    "Loisirs/Sport/Tour de France.md",
     "Loisirs/Sport/Lorena Wiebes.md",
+    "Kimberley Le Court.md",
+    "Demi Vollering.md",
+    "Loisirs/Sport/Tour de France.md",
+    "Loisirs/Sport/Sportifs/Lucas Coenen.md",
     "Journal de bord/2026-08-01.md",
     "Clasica San Sebastian.md",
     "Loisirs/Sport/Sportifs/Ben Tulett.md",
@@ -237,7 +238,6 @@
     "Nirmal Purja.md",
     "Attachments/image-744.webp",
     "Attachments/image-743.webp",
-    "Demi Vollering.md",
     "Loisirs/Sport/Compétitions/Championnat du Monde - WRC.md",
     "Rallye de Finlande.md",
     "Union Saint Gilloise.md",
@@ -251,7 +251,6 @@
     "Loisirs/Sport/Sportifs/Wout Van Aert.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Esoteric Ebb.md",
     "Saber Interactive.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Docked.md",
     "Attachments/image-742.webp",
     "Attachments/image-741.webp",
     "Attachments/image-740.webp",
