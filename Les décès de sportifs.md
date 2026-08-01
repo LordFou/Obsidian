@@ -48,4 +48,9 @@ date: Juillet 2026
 title: Décès de [[Jayden Adams]]
 content: [[Jayden Adams]], milieu de terrain de l’Afrique du Sud et des Mamelodi Sundowns, est décédé à l’âge de 25 ans, quelques semaines seulement après avoir représenté son pays lors de la Coupe du monde.
 ![[image-713.webp|409x680]]
+
+date: Aout 2026
+title: Légende de l'alpinisme mondial, [[Nirmal Purja]] a été retrouvé mort
+content: En pleine ascension du **Broad Peak**, situé dans le Nord du Pakistan, le groupe avait été emporté par une avalanche.
+![[image-743.webp|500x281]]
 ```

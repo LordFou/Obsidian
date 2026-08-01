@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Championnat du Monde - WRC.md",
+                "file": "Les décès de sportifs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Championnat du Monde - WRC"
+              "title": "Les décès de sportifs"
             },
             "group": "383b80f60981f41f"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Championnat du Monde - WRC.md",
+                "file": "Les décès de sportifs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Championnat du Monde - WRC"
+              "title": "Graphique de Les décès de sportifs"
             },
             "group": "383b80f60981f41f"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Evans",
+                "query": "Décès dans le spo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,10 +253,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "571b06dbd1c46b81",
+  "active": "666d886107055761",
   "lastOpenFiles": [
-    "Rallye de Finlande.md",
+    "Nirmal Purja.md",
+    "Attachments/image-744.webp",
+    "Les décès de sportifs.md",
+    "Attachments/image-743.webp",
+    "Loisirs/Sport/Tour de France.md",
+    "Demi Vollering.md",
     "Loisirs/Sport/Compétitions/Championnat du Monde - WRC.md",
+    "Rallye de Finlande.md",
     "Union Saint Gilloise.md",
     "Coupe de Belgique de Football.md",
     "FC Bruges.md",
@@ -276,11 +282,6 @@
     "Leon Kennedy.md",
     "Grace Ashcroft.md",
     "Loisirs/Jeux Vidéos/Sociétés/Capcom.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Dark Rites of Arkham.md",
-    "Postmodern Adventures.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Nightmare Frames.md",
-    "José Maria Meléndez.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/An English Haunting.md",
     "Attachments/image-742.webp",
     "Attachments/image-741.webp",
     "Attachments/image-740.webp",
@@ -289,8 +290,6 @@
     "Attachments/image-737.webp",
     "Attachments/image-736.webp",
     "Attachments/image-735.webp",
-    "Attachments/image-734.webp",
-    "Attachments/image-733.webp",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
     "Famille/Vacances",

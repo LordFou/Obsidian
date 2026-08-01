@@ -207,8 +207,9 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 | 2026  | [[Tadej Pogacar]]    | Slovène     | [[Richard Carapaz]] | [[Mads Pedersen]]  | [[Isaac Del Toro]]   | [[Richard Carapaz]] | [[Lidl-Trek]] | 2e - [[Remco Evenepoel]]<br>3e - [[Isaac Del Toro]]    |
 ### Femmes
 
-| Année | Vainqueur                  | Nationalité | Montagne          | Points            | Jeune            | Super Combattive  | Equipe  | Podium                                               |
-| ----- | -------------------------- | ----------- | ----------------- | ----------------- | ---------------- | ----------------- | ------- | ---------------------------------------------------- |
-| 2025  | [[Pauline Ferrand Prevot]] | Française   | [[Elise Chabbey]] | [[Lorena Wiebes]] | [[Nienke Vinke]] | [[Maeva Squiban]] | [[Groupama FDJ]] | 2e [[Demi Vollering]]<br>3e [[Katarzyna Niewiadoma]] |
-|       |                            |             |                   |                   |                  |                   |         |                                                      |
-|       |                            |             |                   |                   |                  |                   |         |                                                      |
+| Année | Vainqueur                  | Nationalité  | Montagne          | Points            | Jeune            | Super Combattive  | Equipe           | Podium                                               |
+| ----- | -------------------------- | ------------ | ----------------- | ----------------- | ---------------- | ----------------- | ---------------- | ---------------------------------------------------- |
+| 2023  | [[Demi Vollering]]         | Néerlandaise |                   |                   |                  |                   |                  |                                                      |
+| 2025  | [[Pauline Ferrand Prevot]] | Française    | [[Elise Chabbey]] | [[Lorena Wiebes]] | [[Nienke Vinke]] | [[Maeva Squiban]] | [[Groupama FDJ]] | 2e [[Demi Vollering]]<br>3e [[Katarzyna Niewiadoma]] |
+|       |                            |              |                   |                   |                  |                   |                  |                                                      |
+|       |                            |              |                   |                   |                  |                   |                  |                                                      |
