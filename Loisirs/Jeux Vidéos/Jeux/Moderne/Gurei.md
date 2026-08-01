@@ -35,7 +35,7 @@ tags: mediaDB/game
 - **Éditeur** : [[Astrolabe Games]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Switch]]
 - **Franchise** : 
-- **Genre** : Action,Adventure,Indie
+- **Genre** : [[Action]], [[Plateforme]], [[Combat]]
 - **Résumé** :  
 
 ## Détails Techniques
