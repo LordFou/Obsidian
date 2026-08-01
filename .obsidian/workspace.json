@@ -9,26 +9,34 @@
         "dimension": 68.2741116751269,
         "children": [
           {
-            "id": "666d886107055761",
+            "id": "342a1d718c78d1e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Clasica San Sebastian.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.13.4"
               },
+              "icon": "lucide-book-up",
+              "title": "Notes de version 1.13.4"
+            }
+          },
+          {
+            "id": "264d3140d1619327",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Clasica San Sebastian"
-            },
-            "group": "383b80f60981f41f"
+              "title": "Nouvel onglet"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2934a80016b81ed8",
         "type": "tabs",
-        "dimension": 31.725888324873097,
+        "dimension": 31.725888324873093,
         "children": [
           {
             "id": "d70f1b3556a86f89",
@@ -36,7 +44,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Clasica San Sebastian.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,9 +71,8 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Clasica San Sebastian"
-            },
-            "group": "383b80f60981f41f"
+              "title": "Graphe local"
+            }
           }
         ]
       }
@@ -88,7 +94,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -100,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ben Tulet",
+                "query": "Lucasé",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,10 +261,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "666d886107055761",
+  "active": "264d3140d1619327",
   "lastOpenFiles": [
-    "Loisirs/Sport/Sportifs/Ben Tulett.md",
+    "Journal de bord/2026-08-01.md",
     "Clasica San Sebastian.md",
+    "Loisirs/Sport/Sportifs/Ben Tulett.md",
     "Loisirs/Sport/Richard Carapaz.md",
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Maxim Van Gils.md",
@@ -282,7 +291,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Docked.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Rubato.md",
     "dconn.md",
-    "Grenouille.md",
     "Attachments/image-742.webp",
     "Attachments/image-741.webp",
     "Attachments/image-740.webp",
