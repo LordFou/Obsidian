@@ -12,9 +12,9 @@ type: event
 | ----- | ------------------- | ----------- | -------------------------------------------------------------------- |
 | 2003  | [[Paolo Bettini]]   | Italien     |                                                                      |
 | 2019  | [[Remco Evenepoel]] | Belge       | 1ière victoire PRO                                                   |
+| 2023  | [[Remco Evenepoel]] | Belge       |                                                                      |
 | 2025  | [[Giulio Ciccone]]  | Italien     | Après une grosse bagarre avec les [[UAE]]<br>3e - [[Maxim Van Gils]] |
 | 2026  | [[Remco Evenepoel]] | Belge       |                                                                      |
-|       | [[Remco Evenepoel]] | Belge       |                                                                      |
 |       | [[Remco Evenepoel]] | Belge       |                                                                      |
 # Femmes
 
