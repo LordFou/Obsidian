@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Union Saint Gilloise.md",
+                "file": "Loisirs/Sport/Compétitions/Championnat du Monde - WRC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Union Saint Gilloise"
+              "title": "Championnat du Monde - WRC"
             },
             "group": "383b80f60981f41f"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Union Saint Gilloise.md",
+                "file": "Loisirs/Sport/Compétitions/Championnat du Monde - WRC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Union Saint Gilloise"
+              "title": "Graphique de Championnat du Monde - WRC"
             },
             "group": "383b80f60981f41f"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Super",
+                "query": "Evans",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -253,10 +253,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "666d886107055761",
+  "active": "571b06dbd1c46b81",
   "lastOpenFiles": [
-    "Coupe de Belgique de Football.md",
+    "Rallye de Finlande.md",
+    "Loisirs/Sport/Compétitions/Championnat du Monde - WRC.md",
     "Union Saint Gilloise.md",
+    "Coupe de Belgique de Football.md",
     "FC Bruges.md",
     "Loisirs/Sport/Compétitions/Super Coupe de Belgique de Football.md",
     "Championnat de Belgique de Football.md",
@@ -279,9 +281,7 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Nightmare Frames.md",
     "José Maria Meléndez.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/An English Haunting.md",
-    "Sonita Muluh.md",
     "Attachments/image-742.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Jeux Mondiaux 2025.md",
     "Attachments/image-741.webp",
     "Attachments/image-740.webp",
     "Attachments/image-739.webp",
