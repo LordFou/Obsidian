@@ -6,7 +6,7 @@
       {
         "id": "722ebdda054342d8",
         "type": "tabs",
-        "dimension": 72.23053892215569,
+        "dimension": 68.2741116751269,
         "children": [
           {
             "id": "666d886107055761",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maxim Van Gils.md",
+                "file": "Clasica San Sebastian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maxim Van Gils"
+              "title": "Clasica San Sebastian"
             },
             "group": "383b80f60981f41f"
           }
@@ -28,7 +28,7 @@
       {
         "id": "2934a80016b81ed8",
         "type": "tabs",
-        "dimension": 27.76946107784431,
+        "dimension": 31.725888324873097,
         "children": [
           {
             "id": "d70f1b3556a86f89",
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Maxim Van Gils.md",
+                "file": "Clasica San Sebastian.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Maxim Van Gils"
+              "title": "Graphique de Clasica San Sebastian"
             },
             "group": "383b80f60981f41f"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Maxim",
+                "query": "Ben Tulet",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,7 +255,11 @@
   },
   "active": "666d886107055761",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Ben Tulett.md",
     "Clasica San Sebastian.md",
+    "Loisirs/Sport/Richard Carapaz.md",
+    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
+    "Maxim Van Gils.md",
     "Les décès de sportifs.md",
     "Nirmal Purja.md",
     "Attachments/image-744.webp",
@@ -279,10 +283,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Rubato.md",
     "dconn.md",
     "Grenouille.md",
-    "Resident Evil 9 - Requiem.md",
-    "Leon Kennedy.md",
-    "Grace Ashcroft.md",
-    "Loisirs/Jeux Vidéos/Sociétés/Capcom.md",
     "Attachments/image-742.webp",
     "Attachments/image-741.webp",
     "Attachments/image-740.webp",

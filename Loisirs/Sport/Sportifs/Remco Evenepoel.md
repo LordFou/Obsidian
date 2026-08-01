@@ -88,6 +88,7 @@ type: personne
 | 2026  | [[Tour de France]] - 20e étape                                                   | 2e       |                                                                                                                       |
 | 2026  | [[Critérium d'Alost]]                                                            | ==1ier== |                                                                                                                       |
 | 2026  | [[Critérium de Roulers]]                                                         | ==1ier== |                                                                                                                       |
+| 2026  | [[Clasica San Sebastian]]                                                        | ==1ier== |                                                                                                                       |
 ## Historique
 ```timeline-labeled
 [line-5, body-2]
@@ -114,6 +115,8 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - Fin 2024, se blesse à l'entraînement, il fonce dans la portière d'une voiture de factrice en stationnement qui n'a pas fait attention => 4 mois de revalidation. De son aveu, c'est actuellement la période la plus difficile de sa vie.
 - Tout premier coureur à glaner la Vuelta et les Championnats du monde lors de la même saison (2022).
 - Premier belge à gagne le CLM du [[Championnat du Monde de Cyclisme]]
+- Recordmen des victoires
+	- 4x Vainqueur [[Clasica San Sebastian]]
 
 ## Controverses ou Événements Importants
 - Marié à Oumi Rayane, il devient petit à petit de religion muslmane. Ce qui apparemment l'a aidé à reprendre confiance en lui après sa blessure de 2024. Evidemment, il subira une meute de haters racistes... suite à cette confession (Les gens sont cons.)
