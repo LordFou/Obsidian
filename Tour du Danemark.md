@@ -45,7 +45,7 @@ type: event
 | ?     | [[Mads Pedersen]] | Danois      |          |
 | 2024  | [[Arnaud De Lie]] | ==Belge==   |          |
 | 2025  | [[Mads Pedersen]] | Danois      |          |
-| 2026  | [[Wout Van Aert]] | ==Belge==   |          |
+
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
