@@ -36,7 +36,7 @@ tags: mediaDB/game
 		- [[Blackbird Interactive]]
 	- Personnalités : 
 - **Éditeur** : [[Polyarc]]
-- **Plateformes** : [[PC]], [[PlayStation 5]], [[Xbox Series]], [[Switch 2]]
+- **Plateformes** : [[PC]], [[PlayStation 5]], [[Xbox Series]], [[Switch 2]], [[Switch]]
 - **Franchise** : 
 - **Genre** : [[Action]], [[Aventure]], [[Plateforme]]
 - **Résumé** :  

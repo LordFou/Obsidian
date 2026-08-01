@@ -53,6 +53,8 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Cyberpunk]]
+	- [[Mégacorporations]]
 - **Influencé par** :
 	- [[Disco Elysium]]
 - **A inspiré** : 
