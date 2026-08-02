@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Lobo Sagaz studio"
             }
+          },
+          {
+            "id": "cf8920324a2207aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Loisirs/Développement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Développement"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gurei",
+                "query": "Développement Idée",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,8 +104,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,10 +225,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "342a1d718c78d1e6",
+  "active": "cf8920324a2207aa",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Gurei.md",
+    "Loisirs/Restaurant.md",
+    "Loisirs/Développement.md",
     "Lobo Sagaz studio.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Gurei.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Helix - Descent N Ascent.md",
     "Badass Mongoose.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Tormentum II.md",
@@ -239,8 +255,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Tangle Tower.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Crow Country.md",
     "Crow Country.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/HYPERFIST.md",
-    "CHIRALITY.md",
     "Attachments/image-746.webp",
     "Attachments/image-745.webp",
     "Attachments/image-744.webp",
