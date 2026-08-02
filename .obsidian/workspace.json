@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stardew Valley.md",
+                "file": "Loisirs/Sport/Tour de France.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stardew Valley"
+              "title": "Tour de France"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Stardew Valley",
+                "query": "Tour",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -228,6 +228,7 @@
   },
   "active": "8faf9d53c68cec74",
   "lastOpenFiles": [
+    "Stardew Valley.md",
     "Thierry Neuville.md",
     "Loisirs/Sport/Sportifs/Sami Pajari.md",
     "Rallye de Finlande.md",
@@ -257,7 +258,6 @@
     "Attachments/image-751.webp",
     "Game Studio.md",
     "Coco Gauff.md",
-    "Loisirs/Sport/Sportifs/Kristina Liutova.md",
     "Attachments/image-750.webp",
     "Attachments/image-749.webp",
     "Attachments/image-748.webp",
