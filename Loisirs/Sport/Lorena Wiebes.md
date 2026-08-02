@@ -58,6 +58,7 @@ type: personne
 | 2026  | [[Tour de Pologne]] - 3e étape           | ==1ière==      |                                                                  |
 | 2026  | [[Tour de Pologne]] - Classement final   | ==1ière==      |                                                                  |
 | 2026  | [[Tour de France]] - 1e étape            | ==1ière==      |                                                                  |
+| 2026  | [[Tour de France]] - 2e étape            | ==1ière==      |                                                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

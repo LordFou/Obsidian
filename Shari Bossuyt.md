@@ -28,6 +28,7 @@ type: personne
 | 2026  | [[Tour de Bruges]]                                                                   | 2e        |                            |
 | 2026  | [[Tour d'Espagne]] - 2e étape                                                        | ==1ière== | Sprint                     |
 | 2026  | [[Championnat de Belgique de Cyclisme\|Champ. National]] - Route                     | ==1ière== |                            |
+| 2025  | [[Tour de France]] - 2e étape                                                        | 4e        | Sprint                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
