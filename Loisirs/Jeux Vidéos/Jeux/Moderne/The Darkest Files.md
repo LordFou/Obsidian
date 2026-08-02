@@ -25,6 +25,8 @@ type: game
 		- Traduction laborieuse
 		- Dessins classieux
 		- Le thème est bien abordé
+	- Récompenses
+		-  [[Games for Change Awards]] 2026 - Apprentissage
 - **Gameplay** :
 - **Durée estimée** : 
 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games for Change Awards.md",
+                "file": "Stardew Valley.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Games for Change Awards"
+              "title": "Stardew Valley"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Récompense",
+                "query": "Stardew Valley",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -104,7 +104,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -227,8 +228,14 @@
   },
   "active": "8faf9d53c68cec74",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Consume Me.md",
+    "Thierry Neuville.md",
+    "Loisirs/Sport/Sportifs/Sami Pajari.md",
+    "Rallye de Finlande.md",
+    "Loisirs/Jeux Vidéos/Sociétés/ZA-UM.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/The Darkest Files.md",
     "Games for Change Awards.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Relooted.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Consume Me.md",
     "Loisirs/Jeux Vidéos/South of Midnight.md",
     "Lobo Sagaz studio.md",
     "Templates/Fiche Récompense Jeu Vidéo.md",
@@ -253,12 +260,6 @@
     "Loisirs/Sport/Sportifs/Kristina Liutova.md",
     "Attachments/image-750.webp",
     "Attachments/image-749.webp",
-    "Tournoi de Memphis.md",
-    "Tour du Danemark.md",
-    "Loisirs/Sport/Sportifs/Wout Van Aert.md",
-    "Loisirs/Développement.md",
-    "Loisirs/Restaurant.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Helix - Descent N Ascent.md",
     "Attachments/image-748.webp",
     "Attachments/image-747.webp",
     "Attachments/image-746.webp",

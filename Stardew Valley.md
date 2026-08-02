@@ -36,6 +36,7 @@ type: game
 - **Comparable à** :
 ## Anecdotes et Curiosités
 - Il a fait un don de 125k d'$ à la fondation qui édite [[MonoGame]]
+- Il y a eu une série de cartes Magic The Gathering en honneur du jeu 
 ## Liens et Ressources
 
 | Description | URL |
