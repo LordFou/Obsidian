@@ -66,6 +66,7 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 | 2026  | [[Tour du Danemark]] - 1e étape                             | Sprint à 8                                                                            |
 | 2026  | [[Tour du Danemark]] - 2e étape                             | Sprint massif et photo finish                                                         |
 | 2026  | [[Tour du Danemark]] - 3e étape                             | Etape de costauds                                                                     |
+| 2026  | [[Tour du Danemark]] - Classement Final                     |                                                                                       |
 
 
 | Année | Compétition                                                       | Résultat | Remarque                                                                   |

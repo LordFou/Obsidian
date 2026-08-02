@@ -8,13 +8,13 @@ type: event
 # Edition 2026
 ## Hommes
 
-|              | Vainqueur              | Général           | Montagne | Points | Jeune | Remarques |
-| ------------ | ---------------------- | ----------------- | -------- | ------ | ----- | --------- |
-| ==1e (BEL)== | [[Wout Van Aert]]      | [[Wout Van Aert]] |          |        |       |           |
-| ==2e (BEL)== | [[Wout Van Aert]]      | [[Wout Van Aert]] |          |        |       |           |
-| ==3e (BEL)== | [[Wout Van Aert]]      | [[Wout Van Aert]] |          |        |       |           |
-| 4e (NOR)     | [[Storm Ingebrigtsen]] | [[Wout Van Aert]] |          |        |       |           |
-| 5e ()        |                        |                   |          |        |       |           |
+|              | Vainqueur                   | Général           | Montagne | Points | Jeune | Remarques |
+| ------------ | --------------------------- | ----------------- | -------- | ------ | ----- | --------- |
+| ==1e (BEL)== | [[Wout Van Aert]]           | [[Wout Van Aert]] |          |        |       |           |
+| ==2e (BEL)== | [[Wout Van Aert]]           | [[Wout Van Aert]] |          |        |       |           |
+| ==3e (BEL)== | [[Wout Van Aert]]           | [[Wout Van Aert]] |          |        |       |           |
+| 4e (NOR)     | [[Storm Ingebrigtsen]]      | [[Wout Van Aert]] |          |        |       |           |
+| 5e (DAN)     | [[Rasmus Søjberg Pedersen]] | [[Wout Van Aert]] |          |        |       |           |
 
 # Edition 2025
 
