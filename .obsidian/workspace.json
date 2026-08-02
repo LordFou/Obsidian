@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Echoes of Aincrad.md",
+                "file": "Shiro Games.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Echoes of Aincrad"
+              "title": "Shiro Games"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Echoes",
+                "query": "Shiro Games",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -105,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -228,8 +228,14 @@
   },
   "active": "cf8920324a2207aa",
   "lastOpenFiles": [
-    "Game Studio.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Wartales.md",
+    "Shiro Games.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dune - Spice Wars.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Northgard.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Echoes of Aincrad.md",
+    "Attachments/image-752.webp",
+    "Attachments/image-751.webp",
+    "Game Studio.md",
     "Coco Gauff.md",
     "Loisirs/Sport/Sportifs/Kristina Liutova.md",
     "Attachments/image-750.webp",
@@ -252,18 +258,12 @@
     "Gameplay Group International.md",
     "Adventure Works.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/LIFTED.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Scarlet Deer Inn.md",
-    "Attu Games.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Heave-Ho 2.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Holonoptic.md",
     "Attachments/image-748.webp",
     "Attachments/image-747.webp",
     "Attachments/image-746.webp",
     "Attachments/image-745.webp",
     "Attachments/image-744.webp",
     "Attachments/image-743.webp",
-    "Attachments/image-742.webp",
-    "Attachments/image-741.webp",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
     "Famille/Vacances",

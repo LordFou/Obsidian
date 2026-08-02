@@ -45,6 +45,8 @@ tags: mediaDB/game
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
 	- CheckPoint (4/10)
+		- 100 dollars australiens !!!
+	  ![[image-751.webp|455x351]]
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -52,9 +54,13 @@ tags: mediaDB/game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Wyzeman, gardien du savoir
+	- Saayu
+	- Iori
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
+	- Sword Art Online
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
@@ -65,3 +71,4 @@ tags: mediaDB/game
 | ----------- | ------------------------------------------------ |
 | Steam       | https://store.steampowered.com/app/2244210       |
 | Trailer     | https://youtu.be/OGF0W-Gk4X8?si=ziCY01e4OecF16E7 |
+![[image-752.webp|500x281]]
