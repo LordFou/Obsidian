@@ -14,11 +14,8 @@ type: event
 | ==2e (BEL)== | [[Wout Van Aert]]      | [[Wout Van Aert]] |          |        |       |           |
 | ==3e (BEL)== | [[Wout Van Aert]]      | [[Wout Van Aert]] |          |        |       |           |
 | 4e (NOR)     | [[Storm Ingebrigtsen]] | [[Wout Van Aert]] |          |        |       |           |
-## Femmes
+| 5e ()        |                        |                   |          |        |       |           |
 
-|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
-| --- | --------- | ------- | -------- | ------ | ----- | --------- |
-|     |           |         |          |        |       |           |
 # Edition 2025
 
 ## Hommes
@@ -41,14 +38,9 @@ type: event
 
 | Année | Vainqueur         | Nationalité | Remarque |
 | ----- | ----------------- | ----------- | -------- |
+| 2018  | [[Wout Van Aert]] | ==Belge==   |          |
 | ?     | [[Mads Pedersen]] | Danois      |          |
 | ?     | [[Mads Pedersen]] | Danois      |          |
 | 2024  | [[Arnaud De Lie]] | ==Belge==   |          |
 | 2025  | [[Mads Pedersen]] | Danois      |          |
 
-### Femmes
-
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |

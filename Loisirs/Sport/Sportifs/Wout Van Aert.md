@@ -33,15 +33,21 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 | Année | Courses                                                     | Remarque                                                                              |
 | ----- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | 2017  | [[Tour du Limbourg]]                                        |                                                                                       |
+|       |                                                             |                                                                                       |
 | 2018  | [[Strade Bianche]]                                          | Début de quelques années de folie                                                     |
+| 2018  | [[Tour du Danemark]] - Classement Final                     |                                                                                       |
+|       |                                                             |                                                                                       |
 | 2019  | [[Tour de France]] - 10e étape                              | Sprint Massif                                                                         |
+|       |                                                             |                                                                                       |
 | 2020  | [[Milan San Remo]]                                          |                                                                                       |
 | 2020  | [[Tour de France]] - 5e étape                               | Sprint Massif                                                                         |
 | 2020  | [[Tour de France]] - 7e étape                               | Sprint en petit peloton                                                               |
+|       |                                                             |                                                                                       |
 | 2021  | [[Amstel Gold Race]]                                        |                                                                                       |
 | 2021  | [[Tour de France]] - 11e étape                              | Victoire en solitaire sur le mont Ventoux                                             |
 | 2021  | [[Tour de France]] - 20e étape                              | CLM                                                                                   |
 | 2021  | [[Tour de France]] - 21e étape                              | Sprint Massif                                                                         |
+|       |                                                             |                                                                                       |
 | 2022  | [[Tour de France]] - 4e étape                               | Victoire en solitaire                                                                 |
 | 2022  | [[Tour de France]] - 8e étape                               | Sprint de puncheur/sprinteur                                                          |
 | 2022  | [[Tour de France]] - 20e étape                              | CLM                                                                                   |
