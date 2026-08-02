@@ -24,7 +24,7 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants  
-- Plus jeune joueuse à atteindre une finale WTA ()
+- Plus jeune joueuse à atteindre une finale WTA (16 ans, 5 mois et 30 jours), record qui était détenu par [[Coco Gauff]]
 
 # Controverses ou Événements Importants  
 Évoquer les polémiques ou moments clés de sa carrière.
@@ -34,4 +34,4 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 
 | Description | URL |
 | ----------- | --- |
-|             |    
+|             |     |

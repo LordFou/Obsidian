@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Kristina Liutova.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Echoes of Aincrad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kristina Liutova"
+              "title": "Echoes of Aincrad"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dane",
+                "query": "Echoes",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -104,7 +104,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -227,10 +228,13 @@
   },
   "active": "cf8920324a2207aa",
   "lastOpenFiles": [
+    "Game Studio.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Echoes of Aincrad.md",
+    "Coco Gauff.md",
+    "Loisirs/Sport/Sportifs/Kristina Liutova.md",
     "Attachments/image-750.webp",
     "Attachments/image-749.webp",
     "Tournoi de Memphis.md",
-    "Loisirs/Sport/Sportifs/Kristina Liutova.md",
     "Tour du Danemark.md",
     "Loisirs/Sport/Sportifs/Wout Van Aert.md",
     "Loisirs/Développement.md",
@@ -253,8 +257,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Heave-Ho 2.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Holonoptic.md",
     "Attachments/image-748.webp",
-    "Glazial.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/KAZ.md",
     "Attachments/image-747.webp",
     "Attachments/image-746.webp",
     "Attachments/image-745.webp",
@@ -262,7 +264,6 @@
     "Attachments/image-743.webp",
     "Attachments/image-742.webp",
     "Attachments/image-741.webp",
-    "Attachments/image-740.webp",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
     "Famille/Vacances",

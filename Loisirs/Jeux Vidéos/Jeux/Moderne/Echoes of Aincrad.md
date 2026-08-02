@@ -29,7 +29,7 @@ tags: mediaDB/game
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Game Studio Inc.]]
+	- Studio : [[Game Studio]]
 	- Personnalités : 
 - **Éditeur** : 
 	- [[Bandai Namco]] 
@@ -44,6 +44,7 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
+	- CheckPoint (4/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
