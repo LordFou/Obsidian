@@ -35,15 +35,17 @@ tags: mediaDB/game
 - **Éditeur** : [[Astrolabe Games]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Switch]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Plateforme]], [[Combat]]
+- **Genre** : [[Action]], [[Plateforme]], [[Combat]] de boss, [[Roguelite]]
 - **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : (Type de musique, Bande-son notable)
+- **Graphismes** : 
+	- Palette de gris
+- **Audio** : Le thème musical de chaque Kami était également un régal pour les oreilles, conférant à chaque affrontement une énergie unique.
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 0
+	- CheckPoint (7/10)
+	  ![[image-754.webp|500x117]]
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -51,15 +53,22 @@ tags: mediaDB/game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Rei
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Mythologie Japonaise]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- Shadow of the Colossus
+	- Monster Hunter
+	- Cuphead
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2191280 |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Steam       | https://store.steampowered.com/app/2191280       |
+| Trailer     | https://youtu.be/QVC1dRZ2nZk?si=rrg0_-7M3xfJN0W_ |
+![[image-753.webp|500x281]]
