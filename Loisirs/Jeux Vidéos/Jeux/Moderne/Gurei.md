@@ -60,9 +60,9 @@ tags: mediaDB/game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
-	- Shadow of the Colossus
-	- Monster Hunter
-	- Cuphead
+	- [[Shadow of the Colossus]]
+	- [[Franchise Monster Hunter]]
+	- [[Cuphead]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
