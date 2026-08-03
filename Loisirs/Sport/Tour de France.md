@@ -88,7 +88,7 @@ Aussi surnommé la petite reine, le tour de France est le 3e évènement sportif
 | -------- | ------------------ | ------------------ | -------------- | ----------------- | --------------- | ------------------- | ---------------------- |
 | 1e (NDL) | [[Lorena Wiebes]]  | [[Lorena Wiebes]]  | [[Océane Maé]] | [[Lorena Wiebes]] | [[Paula Blasi]] |                     |                        |
 | 2e (NDL) | [[Lorena Wiebes]]  | [[Lorena Wiebes]]  | [[Océane Maé]] | [[Lorena Wiebes]] |                 | [[Riejanne Markus]] |                        |
-| 3e (NOR) | [[Sigrid Haugset]] | [[Sigrid Haugset]] |                |                   |                 | [[Sigrid Haugset]]  | 2e - [[Lotte Kopecky]] |
+| 3e (NOR) | [[Sigrid Haugset]] | [[Sigrid Haugset]] | [[Océane Maé]] | [[Lorena Wiebes]] |                 | [[Sigrid Haugset]]  | 2e - [[Lotte Kopecky]] |
 
 
 

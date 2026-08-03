@@ -16,6 +16,7 @@ type: personne
 
 | Année | Compétition                                                                                       | Résultat     | Remarque                                                                |
 | ----- | ------------------------------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------------- |
+| 2026  | [[Tour de France]] - 3e étape                                                                     | 2e           |                                                                         |
 | 2026  | [[Tour de Pologne]] - 2e étape                                                                    | 4e           |                                                                         |
 | 2026  | [[Championnat de Belgique de Cyclisme\|Champ National]] - CLM                                     | 4e           |                                                                         |
 | 2026  | [[Championnat de Belgique de Cyclisme\|Champ National]] - Route                                   | 2e           |                                                                         |

@@ -8,9 +8,9 @@ type: event
 # Edition 2026
 ## Hommes
 
-|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
-| --- | --------- | ------- | -------- | ------ | ----- | --------- |
-|     |           |         |          |        |       |           |
+|          | Vainqueur          | Général            | Montagne | Points | Jeune | Remarques |
+| -------- | ------------------ | ------------------ | -------- | ------ | ----- | --------- |
+| 1e (ITA) | [[Jonathan Milan]] | [[Jonathan Milan]] |          |        |       |           |
 ## Femmes
 
 |          | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques              |
