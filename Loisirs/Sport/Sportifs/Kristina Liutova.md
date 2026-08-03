@@ -15,16 +15,17 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition            | Résultat  | Remarque |
-| ----- | ---------------------- | --------- | -------- |
-| 2026  | [[Tournoi de Memphis]] | Finaliste |          |
-|       |                        |           |          |
+| Année | Compétition            | Résultat   | Remarque                            |
+| ----- | ---------------------- | ---------- | ----------------------------------- |
+| 2026  | [[Tournoi de Memphis]] | Vainqueure | Victoire contre [[Darja Vidmanova]] |
+|       |                        |            |                                     |
+|       |                        |            |                                     |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants  
-- Plus jeune joueuse à atteindre une finale WTA (16 ans, 5 mois et 30 jours), record qui était détenu par [[Coco Gauff]]
+- Plus jeune joueuse à atteindre et gagner une finale WTA (16 ans, 5 mois et 30 jours), record qui était détenu par [[Coco Gauff]]
 
 # Controverses ou Événements Importants  
 Évoquer les polémiques ou moments clés de sa carrière.

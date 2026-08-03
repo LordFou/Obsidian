@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tour de Pologne.md",
+                "file": "Zizou Bergs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour de Pologne"
+              "title": "Zizou Bergs"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour de Polo",
+                "query": "Zizou",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -213,8 +213,11 @@
   },
   "active": "90fce8f70cce1d01",
   "lastOpenFiles": [
-    "Jonathan Milan.md",
+    "Loisirs/Sport/Sportifs/Kristina Liutova.md",
+    "Tournoi de Memphis.md",
+    "Loisirs/Sport/Sportifs/Sacha Coenen.md",
     "Tour de Pologne.md",
+    "Jonathan Milan.md",
     "Loisirs/Sport/Tour de France.md",
     "Loisirs/Sport/Lotte Kopecky.md",
     "Sigrid Haugset.md",
@@ -236,9 +239,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Consume Me.md",
     "Loisirs/Jeux Vidéos/South of Midnight.md",
     "Templates/Fiche Récompense Jeu Vidéo.md",
-    "Journal de bord/2025-10-13.md",
-    "Journal de bord/2025-11-15.md",
-    "Journal de bord/2025-10-27.md",
     "Attachments/image-754.webp",
     "Attachments/image-753.webp",
     "Attachments/image-752.webp",
