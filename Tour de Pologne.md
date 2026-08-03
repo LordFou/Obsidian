@@ -16,6 +16,8 @@ type: event
 |          | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques              |
 | -------- | ----------------- | ----------------- | -------- | ------ | ----- | ---------------------- |
 | 1e (NDL) | [[Lorena Wiebes]] | [[Lorena Wiebes]] |          |        |       | 3e - [[Marthe Truyen]] |
+| 2e (NDL) | [[Lorena Wiebes]] | [[Lorena Wiebes]] |          |        |       | 4e - [[Lotte Kopecky]] |
+| 3e (NDL) | [[Lorena Wiebes]] | [[Lorena Wiebes]] |          |        |       |                        |
 
 
 # Edition 2025
@@ -52,7 +54,7 @@ type: event
 | 2025  | [[Brandon McNulty]]  | Anglais     | 16e - [[Quintens Hermans]] |
 ### Femmes
 
-| Année | Vainqueur           | Nationalité | Remarque |
-| ----- | ------------------- | ----------- | -------- |
-| 2025  | [[Chiara Consonni]] | Italienne   |          |
-|       |                     |             |          |
+| Année | Vainqueur           | Nationalité  | Remarque |
+| ----- | ------------------- | ------------ | -------- |
+| 2025  | [[Chiara Consonni]] | Italienne    |          |
+| 2026  | [[Lorena Wiebes]]   | Néerlandaise |          |

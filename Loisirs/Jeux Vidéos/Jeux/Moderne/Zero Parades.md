@@ -28,6 +28,7 @@ type: game
 	- Ses personnages torturés 
 	- Ses décors exquis
 	- Certains joueurs rechignent à participer à l'achat à cause des évènements du studio
+	- Malgré que ce soit un bon jeu, les résultats financiers laissent à désirer et résultent dans un licenciement d'employés du studio [[ZA-UM]]
 - **Gameplay** :
 - **Durée estimée** : 
 

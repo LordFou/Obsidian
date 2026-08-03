@@ -6,17 +6,18 @@ type: personne
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Nationalité** :  Finlandais
+- **Sport / Discipline** :  [[Rallye]]
 - **Poste / Spécialité** (si applicable) : [[Rallye des Iles Canaries]]
 - **Équipe(s) / Club(s)** :  [[Toyota]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition          | Résultat | Remarque |
-| ----- | -------------------- | -------- | -------- |
-| 2026  | [[Rallye du Kenya]]  | 3e       |          |
-| 2026  | [[Rallye d'Estonie]] | 1ier     |          |
+| Année | Compétition            | Résultat | Remarque |
+| ----- | ---------------------- | -------- | -------- |
+| 2026  | [[Rallye du Kenya]]    | 3e       |          |
+| 2026  | [[Rallye d'Estonie]]   | ==1ier==     |          |
+| 2026  | [[Rallye de Finlande]] | ==1ier==     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -18,6 +18,7 @@ type: personne
 | 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 4x400m                             | 4e       |                               |
 | 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - 4x400m mixte     | 1ier     | avec les [[Belgian Waffles]]  |
 | 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - 4x400m messieurs | 2e       | avec les [[Belgian Tornados]] |
+| 2026  | [[Championnat de Belgique d'Athlétisme]] - 400m                                           | 2e       | 45.41s                        |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

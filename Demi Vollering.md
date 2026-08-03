@@ -15,7 +15,8 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                 | Résultat  | Remarque   |
 | ----- | ----------------------------------------------------------- | --------- | ---------- |
-| 2023  | [[Flèche Wallonne]]                                         | 1ière     |            |
+| 2023  | [[Flèche Wallonne]]                                         | ==1ière== |            |
+| 2023  | [[Tour de France]]                                          | ==1ière== |            |
 |       |                                                             |           |            |
 | 2025  | [[Tour de Suisse]] - 1e étape                               | 2e        | Sprint à 2 |
 | 2025  | [[Tour de France]] - 5e étape                               | 2e        | Sprint à 6 |
@@ -32,6 +33,7 @@ type: personne
 | 2026  | [[Tour d'Italie]] - 5e étape                                | ==1ière== |            |
 | 2026  | [[Tour d'Italie]] - 7e étape                                | ==1ière== |            |
 | 2026  | [[Tour d'Italie]] - Classement final                        | ==1ière== |            |
+| 2026  | [[Tour de France]] - 1e étape                               | 3e        |            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

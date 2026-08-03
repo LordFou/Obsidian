@@ -20,7 +20,9 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Récompenses :
+		- - [[Games for Change Awards]] 2026 - Meilleure Histoire, Gameplay et Révélation de l'année
 - **Gameplay** :
 - **Durée estimée** : 
 

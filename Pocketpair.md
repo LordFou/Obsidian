@@ -26,7 +26,7 @@ content:
 ## Jeux Développés
 | Année | Titre         |
 | ----- | ------------- |
-| XXXX  | [[Palworld]]  |
+| 2026  | [[Palworld]]  |
 |       | [[Craftopia]] |
 
 ## Moteur(s) Utilisé(s)

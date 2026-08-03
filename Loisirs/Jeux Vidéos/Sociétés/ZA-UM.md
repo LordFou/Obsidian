@@ -21,6 +21,10 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 date: 2022
 title: Les principaux créatifs s'en vont
 content: [Article](https://www.journaldugeek.com/2022/10/03/les-createurs-de-disco-elysium-abandonnent-le-studio-contre-leur-gre/)
+
+date: Juillet 2026
+title: Mauvaises ventes et conséquences
+content: Trente-deux employés de différents départements du studio de développement de jeux de rôle [[ZA-UM]] ont été licenciés. Dans son communiqué , l'entreprise explique cette réduction d'effectifs par les résultats financiers décevants de [[Zero Parades]]: For Dead Spies.
 ```
 
 ## Jeux Développés

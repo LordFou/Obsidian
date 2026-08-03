@@ -18,7 +18,7 @@ type: personne
 | 2025  | [[Championnats du monde d'athlétisme]] - 110m haies                                | Eliminé en série | 13,54s                          |
 | 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - 60m haies | Demi-finale      |                                 |
 | 2026  | Ligue de Diamant - Paris - 110m haies                                              | 3e (Série)       | 13.16s + ==Record de Belgique== |
-|       |                                                                                    |                  |                                 |
+| 2026  | [[Championnats d'Europe d'athlétisme\|Champ. Europe]]                              | Forfait          |                                 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -28,7 +28,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 	- 110m haies (13.16s)
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- En juillet 2026, au championnat de Belgique, il se blesse => déchirure aux ischios.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

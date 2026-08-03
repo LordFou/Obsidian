@@ -26,6 +26,8 @@ type: game
 	- 7/10 (Canard PC)
 		- ++ : style graphique, l'ambiance, musique
 		- -- : répétitivité des combats
+	- Récompense
+		- [[Games for Change Awards]] 2026 - Jeu de l'année
 - **Gameplay** :
 
 ## Histoire et Univers

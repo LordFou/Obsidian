@@ -10,6 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Postmodern Adventures]]
 	- Personnalités : 
+		- [[José Maria Meléndez]] (Auteur)
 - **Éditeur** : [[enComplot]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
@@ -20,7 +21,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : [[Pixel Art]]
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Canard PC (7/10)
 - **Gameplay** :
 - **Durée estimée** : 7-8h
 

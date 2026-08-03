@@ -15,9 +15,9 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                         | Résultat | Remarque                   |
 | ----- | ------------------------------------------------------------------- | -------- | -------------------------- |
-| 2019  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - Course         | ==1ier==     |                            |
+| 2019  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - Course         | ==1ier== |                            |
 |       |                                                                     |          |                            |
-| 2024  | [[Tour d'Allemagne]] - Classement final                             | ==1ier==     |                            |
+| 2024  | [[Tour d'Allemagne]] - Classement final                             | ==1ier== |                            |
 |       |                                                                     |          |                            |
 | 2025  | [[Gand Wevelgem]]                                                   | ==1ier== |                            |
 | 2025  | ?                                                                   | ==1ier== |                            |
@@ -37,6 +37,8 @@ type: personne
 | 2026  | [[Milan San Remo]]                                                  | 4e       |                            |
 | 2026  | [[Tour des Flandres]]                                               | 5e       |                            |
 | 2026  | [[Tour de France]] - 4e étape                                       | ==1ier== |                            |
+| 2026  | [[Tour de France]] - Maillot à point                                | ==1ier== |                            |
+| 2026  | [[Critérium de Surhuisterveen]]                                     | 2e       |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

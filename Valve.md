@@ -18,7 +18,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 ## Informations Générales
 - **Nom complet** :  
 - **Date de création** :  
-- **Fondateurs** :  
+- **Fondateurs** :  [[Gabe Newell]]
 - **Personnalités** :
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
@@ -47,7 +47,8 @@ content:
 Décrire le style graphique, les thématiques abordées, les influences notables.
 
 ## Succès et Récompenses
-Lister les prix, distinctions ou records obtenus.
+- Chiffres
+	- 2026 - 1ier Semestre : 11.1 milliards de vente
 
 ## Controverses ou Événements Marquants
 Évoquer les polémiques ou faits marquants de l’histoire de la société.

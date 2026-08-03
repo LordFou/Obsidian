@@ -8,9 +8,9 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Saber Interactive]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Saber Interactive]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** :
@@ -20,7 +20,9 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Canard PC (5/10)
+		- ennuyeux
 - **Gameplay** :
 - **Durée estimée** : 
 

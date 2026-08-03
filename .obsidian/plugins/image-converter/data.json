@@ -217,7 +217,7 @@
     "outputFormat": "WEBP",
     "quality": 100,
     "colorDepth": 1,
-    "resizeMode": "Fit",
+    "resizeMode": "None",
     "desiredWidth": 500,
     "desiredHeight": 300,
     "desiredLongestEdge": 1000,

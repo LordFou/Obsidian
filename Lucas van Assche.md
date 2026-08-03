@@ -2,7 +2,7 @@
 type: personne
 ---
 
-# Luca Van Assche
+# Lucas van Assche
 
 # Informations Générales
 - **Date de naissance** :  
@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition          | Résultat  | Remarque |
-| ----- | -------------------- | --------- | -------- |
-| 2026  | [[Tournoi de Lille]] | Vainqueur |          |
+| Année | Compétition           | Résultat  | Remarque                             |
+| ----- | --------------------- | --------- | ------------------------------------ |
+| 2026  | [[Tournoi de Lille]]  | Vainqueur |                                      |
+| 2026  | [[Tournoi d'Estoril]] | Vainqueur | Victoire contre [[Alexander Blockx]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

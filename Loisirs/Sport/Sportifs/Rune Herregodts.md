@@ -17,7 +17,8 @@ type: personne
 | Année | Compétition                             | Résultat | Remarque |
 | ----- | --------------------------------------- | -------- | -------- |
 | 2026  | [[Championnat de Belgique de Cyclisme]] | 1ier     |          |
-|       |                                         |          |          |
+| 2026  | [[Critérium d'Alost]]                   | 2e       |          |
+| 2026  | [[Critérium de Roulers]]                | 3e       |          |
 
 # Style et Caractéristiques  %% fold %%
 Décrire le style de jeu, les points forts/faibles, les particularités.

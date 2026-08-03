@@ -15,11 +15,24 @@ Aussi surnommé la petite reine, le tour de France est le 3e évènement sportif
 
 # Edition 2026
 
-Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Evenepoel]]
-
-## Polémiques
-- Des contrôles antidopage en pleine nuit !!!!
 ## Hommes
+
+**Favoris** : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Evenepoel]]
+
+**Polémiques**
+- Des contrôles antidopage en pleine nuit !!!!
+
+**Notes**
+- [[Tadej Pogacar]] remporte son 5e tour et rejoint Anquetil, Merckx, Hinault et Indurain
+- [[Remco Evenepoel]] finit 2e, ce qui n'était plus arrivé depuis 1981
+- 6 victoires belges à nouveau cette année comme en 2025 ([[Tim Merlier]], [[Jasper Philipsen]], [[Remco Evenepoel]])
+- Abandon de [[Jonas Vingegaard]] sur chute
+- [[Paul Seixas]] finit 4e à 19 ans 
+- Les guerriers 
+	- [[Mads Pedersen]] qui s'est battu quasi tous les jours pour le maillot vert
+	- [[Richard Carapaz]] le meilleur attaquant et vainqueur en montagne
+	- [[Baptiste Veistroffer]], l'attaquant des étapes longues
+- Domination de [[UAE]] au niveau général, [[Lidl-Trek]] pour le vert.
 
 |               | Vainqueur                | Général              | Montagne            | Points             | Jeune              | Combattif                | Remarques                                                                                                                        |
 | ------------- | ------------------------ | -------------------- | ------------------- | ------------------ | ------------------ | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -42,41 +55,48 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 | ==17e (BEL)== | [[Jasper Philipsen]]     | [[Tadej Pogacar]]    | [[Tadej Pogacar]]   | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Jasper Philipsen]]     |                                                                                                                                  |
 | 18e (EQU)     | [[Richard Carapaz]]      | [[Tadej Pogacar]]    | [[Tadej Pogacar]]   | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Richard Carapaz]]      |                                                                                                                                  |
 | 19e (SLO)     | [[Tadej Pogacar]]        | [[Tadej Pogacar]]    | [[Richard Carapaz]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] |                          | 5e - [[Remco Evenepoel]]                                                                                                         |
-## Femmes %% fold %%
-
-|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
-| --- | --------- | ------- | -------- | ------ | ----- | --------- |
-|     |           |         |          |        |       |           |
-|     |           |         |          |        |       |           |
+| 20e (EQU)     | [[Richard Carapaz]]      | [[Tadej Pogacar]]    | [[Richard Carapaz]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | [[Richard Carapaz]]      | 2e - [[Remco Evenepoel]]<br>Abandon d'[[Ilan Van Wilder]] sur chute                                                              |
+| 21e (NDL)     | [[Mathieu van der Poel]] | [[Tadej Pogacar]]    | [[Richard Carapaz]] | [[Mads Pedersen]]  | [[Isaac Del Toro]] | ?                        | 2e - [[Jasper Philipsen]]                                                                                                        |
+![[image-732.webp|500x281]]
 
 | Equipe                   | Nbr Victoires |
 | ------------------------ | ------------- |
 | UAE                      | 6             |
+| [[Alpecin]]              | 3             |
 | [[Quick-Step]]           | 3             |
-| [[Alpecin]]              | 2             |
 | [[Bora Redbull]]         | 2             |
+| [[EF - Education First]] | 2             |
 | Visma                    | 1             |
 | [[Lidl-Trek]]            | 1             |
 | [[Décathlon]]            | 1             |
 | [[Uno-x]]                | 1             |
 | [[Jayco]]                | 1             |
-| [[EF - Education First]] | 1             |
 
 | Nation   | Nbr Victoires |
 | -------- | ------------- |
 | Belgique | 6             |
 | Slovénie | 5             |
-| Pays-Bas | 3             |
+| Pays-Bas | 4             |
+| Equateur | 2             |
 | Mexique  | 1             |
 | Danemark | 1             |
 | Norvège  | 1             |
 | Suisse   | 1             |
-| Equateur | 1             |
+## Femmes %% fold %%
+
+|          | Vainqueur         | Général           | Montagne       | Points            | Jeune           | Combattivité        | Remarques |
+| -------- | ----------------- | ----------------- | -------------- | ----------------- | --------------- | ------------------- | --------- |
+| 1e (NDL) | [[Lorena Wiebes]] | [[Lorena Wiebes]] | [[Océane Maé]] | [[Lorena Wiebes]] | [[Paula Blasi]] |                     |           |
+| 2e (NDL) | [[Lorena Wiebes]] | [[Lorena Wiebes]] | [[Océane Maé]] | [[Lorena Wiebes]] |                 | [[Riejanne Markus]] |           |
+
+
+
+
 
 # Edition 2025 %% fold %%
 ## Hommes
 
-- Domination de [[Tadej Pogacar]], il repousse ses adversaires à plus de 4 minutes
+- Domination de [[Tadej Pogacar]], il repousse ses adversaires à plus de 6 minutes
 - La Belgique en tête avec 6 victoires belges de 5 coureurs différents, ce n'était plus arrivé depuis 1986 dont 2 de [[Tim Merlier]]
 - Révélation de 
 	- [[Florian Lipowitz]] au niveau des jeunes
@@ -177,23 +197,25 @@ Favoris : [[Tadej Pogacar]], [[Jonas Vingegaard]], [[Paul Seixas]], [[Remco Even
 
 ### Hommes
 
-| Année | Vainqueur            | Nationalité | Montagne          | Points             | Jeune                | Combattif     | Equipe    | Podium                                             |
-| ----- | -------------------- | ----------- | ----------------- | ------------------ | -------------------- | ------------- | --------- | -------------------------------------------------- |
-| 2013  | [[Chris Froome]]     | Anglais     |                   |                    |                      |               |           |                                                    |
-| 2015  | [[Chris Froome]]     | Anglais     |                   |                    |                      |               |           |                                                    |
-| 2016  | [[Chris Froome]]     | Anglais     |                   |                    |                      |               |           |                                                    |
-| 2017  | [[Chris Froome]]     | Anglais     |                   |                    |                      |               |           |                                                    |
-| 2018  | [[Geraint Thomas]]   | Anglais     |                   |                    |                      |               |           |                                                    |
-| 2021  | [[Jonas Vingegaard]] | Danois      |                   |                    |                      |               |           |                                                    |
-| 2022  | [[Jonas Vingegaard]] | Danois      |                   |                    |                      |               |           |                                                    |
-| 2023  |                      |             |                   |                    |                      |               |           |                                                    |
-| 2024  | [[Tadej Pogacar]]    | Slovène     |                   |                    | [[Remco Evenepoel]]  |               |           | 2e [[Jonas Vingegaard]]<br>3e [[Remco Evenepoel]]  |
-| 2025  | [[Tadej Pogacar]]    | Slovène     | [[Tadej Pogacar]] | [[Jonathan Milan]] | [[Florian Lipowitz]] | [[Ben Healy]] | [[Visma]] | 2e [[Jonas Vingegaard]]<br>3e [[Florian Lipowitz]] |
-|       |                      |             |                   |                    |                      |               |           |                                                    |
+| Année | Vainqueur            | Nationalité | Montagne            | Points             | Jeune                | Combattif           | Equipe        | Podium                                                 |
+| ----- | -------------------- | ----------- | ------------------- | ------------------ | -------------------- | ------------------- | ------------- | ------------------------------------------------------ |
+| 2013  | [[Chris Froome]]     | Anglais     |                     |                    |                      |                     |               |                                                        |
+| 2015  | [[Chris Froome]]     | Anglais     |                     |                    |                      |                     |               |                                                        |
+| 2016  | [[Chris Froome]]     | Anglais     |                     |                    |                      |                     |               |                                                        |
+| 2017  | [[Chris Froome]]     | Anglais     |                     |                    |                      |                     |               |                                                        |
+| 2018  | [[Geraint Thomas]]   | Anglais     |                     |                    |                      |                     |               |                                                        |
+| 2020  | [[Tadej Pogacar]]    | Slovène     |                     |                    |                      |                     |               |                                                        |
+| 2021  | [[Jonas Vingegaard]] | Danois      |                     |                    |                      |                     |               |                                                        |
+| 2022  | [[Jonas Vingegaard]] | Danois      |                     |                    |                      |                     |               |                                                        |
+| 2023  | [[Tadej Pogacar]]    | Slovène     |                     |                    |                      |                     |               |                                                        |
+| 2024  | [[Tadej Pogacar]]    | Slovène     |                     |                    | [[Remco Evenepoel]]  |                     |               | 2e - [[Jonas Vingegaard]]<br>3e - [[Remco Evenepoel]]  |
+| 2025  | [[Tadej Pogacar]]    | Slovène     | [[Tadej Pogacar]]   | [[Jonathan Milan]] | [[Florian Lipowitz]] | [[Ben Healy]]       | [[Visma]]     | 2e - [[Jonas Vingegaard]]<br>3e - [[Florian Lipowitz]] |
+| 2026  | [[Tadej Pogacar]]    | Slovène     | [[Richard Carapaz]] | [[Mads Pedersen]]  | [[Isaac Del Toro]]   | [[Richard Carapaz]] | [[Lidl-Trek]] | 2e - [[Remco Evenepoel]]<br>3e - [[Isaac Del Toro]]    |
 ### Femmes
 
-| Année | Vainqueur                  | Nationalité | Montagne          | Points            | Jeune            | Super Combattive  | Equipe  | Podium                                               |
-| ----- | -------------------------- | ----------- | ----------------- | ----------------- | ---------------- | ----------------- | ------- | ---------------------------------------------------- |
-| 2025  | [[Pauline Ferrand Prevot]] | Française   | [[Elise Chabbey]] | [[Lorena Wiebes]] | [[Nienke Vinke]] | [[Maeva Squiban]] | [[Groupama FDJ]] | 2e [[Demi Vollering]]<br>3e [[Katarzyna Niewiadoma]] |
-|       |                            |             |                   |                   |                  |                   |         |                                                      |
-|       |                            |             |                   |                   |                  |                   |         |                                                      |
+| Année | Vainqueur                  | Nationalité  | Montagne          | Points            | Jeune            | Super Combattive  | Equipe           | Podium                                               |
+| ----- | -------------------------- | ------------ | ----------------- | ----------------- | ---------------- | ----------------- | ---------------- | ---------------------------------------------------- |
+| 2023  | [[Demi Vollering]]         | Néerlandaise |                   |                   |                  |                   |                  |                                                      |
+| 2025  | [[Pauline Ferrand Prevot]] | Française    | [[Elise Chabbey]] | [[Lorena Wiebes]] | [[Nienke Vinke]] | [[Maeva Squiban]] | [[Groupama FDJ]] | 2e [[Demi Vollering]]<br>3e [[Katarzyna Niewiadoma]] |
+|       |                            |              |                   |                   |                  |                   |                  |                                                      |
+|       |                            |              |                   |                   |                  |                   |                  |                                                      |

@@ -32,10 +32,11 @@ tags: mediaDB/game
 - **Développeur** : 
 	- Studio : [[Undercoders]]
 	- Personnalités : 
+		- [[Andrew One]] (Compositeur) => 17 morceaux sur ce jeu
 - **Éditeur** : 
 	- [[Fireshine Games]]
 	- [[Boltray Games]]
-- **Plateformes** : [[PC]]
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
 - **Franchise** : 
 - **Genre** : [[Action]]
 - **Résumé** :  
@@ -43,9 +44,13 @@ tags: mediaDB/game
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : (Type de musique, Bande-son notable)
+- **Audio** : 
+	- A sa sortie, c'est la deuxième bande originale la plus vendue sur Bandcamp
+	- 80 morceaux dans la BO !!
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
+	- CheckPoint (8/10)
+	- Exserv en est carrément tombé amoureux
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -55,6 +60,8 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Trains|Les trains]]
+	- [[Le skate-board]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
@@ -62,6 +69,8 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2524850 |
+| Description       | URL                                              |
+| ----------------- | ------------------------------------------------ |
+| Steam             | https://store.steampowered.com/app/2524850       |
+| Trailer           | https://youtu.be/KGT2Hj0i5HE?si=vW0NiPRVsIDQsEED |
+| Test Vidéo Exserv | https://www.youtube.com/watch?v=sHB43lQdHdo      |

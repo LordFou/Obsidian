@@ -24,6 +24,7 @@ type: game
 - **Réception critique** : 
 	- CheckPoint (8/10)
 	- Remontée commerciale déclenchée par un article de [[PC Gamer]] en janvier 2026
+	- Canard PC (8/10)
 - **Gameplay** :
 	- Suit les règles de Donjons & Dragons cinquième édition
 	- Insertion d’idéologies politiques directement dans les caractéristiques du personnage
@@ -37,9 +38,10 @@ type: game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
-	- [[Disco Elysium]]
+	- [[Disco Elysium]] 
 	- [[Planescape - Torment]]
 	- [[Arcanum]]
+	- [[The Secret of Monkey Island]] (Les duels par phrases)
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités

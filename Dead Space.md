@@ -9,7 +9,9 @@ type: game
 - **Année de sortie** : 
 - **Développeur** : 
 	- Studio : 
-	- Personnalités : [[Chuck Beaver]] (Co-Designer)
+	- Personnalités : 
+		- [[Glenn Schofield]] (Créateur)
+		- [[Chuck Beaver]] (Co-Designer)		
 - **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : [[Franchise Dead Space|Dead Space]]

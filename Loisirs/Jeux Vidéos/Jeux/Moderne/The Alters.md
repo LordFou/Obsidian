@@ -40,7 +40,9 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+
+## DLC
+- Last Variable
 ## Liens et Ressources
 
 | Description          | URL                          |

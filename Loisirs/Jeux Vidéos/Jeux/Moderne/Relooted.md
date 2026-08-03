@@ -22,6 +22,8 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- CheckPoint : 7,5/10
+	- Récompenses
+		- [[Games for Change Awards]] 2026 - Community Empowerment
 - **Gameplay** :
 - **Durée estimée** : 
 

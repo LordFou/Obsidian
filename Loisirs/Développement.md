@@ -1,0 +1,3 @@
+- un "Doodle pour sorties cinéma". On pourrait même imaginer des extensions pour les restaurants, les spectacles ou les concerts, avec synchronisation des agendas et récupération automatique des programmes. C'est le type d'outil qui pourrait intéresser des groupes d'amis, des associations ou des entreprises qui organisent des sorties.
+  
+  https://chatgpt.com/share/6a6f1245-5a00-83eb-a7c3-34504e4adc8d

@@ -88,7 +88,7 @@ Lister les prix et reconnaissances obtenues.
 	- Final Fantasy VII
 	- Suikoden
 	- Katamary Damacy
-	- Shadow of the Colossus
+	- [[Shadow of the Colossus]]
 	- Shenmue
 	- Jet Set Radio
 - Son but était de devenir game designer mais il ne voulait pas faire des études (trop long, trop cher), donc il l'a joué au culot en passant par la filière testeur de jeux et a monté les échelons petit à petit.

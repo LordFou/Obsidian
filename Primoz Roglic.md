@@ -13,18 +13,21 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition        | Résultat | Remarque |
+| ----- | ------------------ | -------- | -------- |
+| 2019  | [[Tour d'Espagne]] | 1ier     |          |
+| 2020  | [[Tour d'Espagne]] | 1ier     |          |
+| 2021  | [[Tour d'Espagne]] | 1ier     |          |
+| 2024  | [[Tour d'Espagne]] | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- 4x Vainqueur du [[Tour d'Espagne]]
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Juillet 2026 - Percuté par une voiture à l'entraînement
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

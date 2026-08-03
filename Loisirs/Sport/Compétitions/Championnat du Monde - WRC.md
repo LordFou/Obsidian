@@ -13,9 +13,13 @@ type: event
 | 2024  | [[Thierry Neuville]] | Belge       |          |
 | 2025  | [[Stéphane Ogier]]   | Français    |          |
 |       |                      |             |          |
-# Femmes
+# Crashs
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Date | Rallye                 | Pilote              | Vidéos                                                                                                                                       |
+| ---- | ---------------------- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026 | [[Rallye de Finlande]] | [[Elfyn Evans]]     | [URL](https://www.rtbf.be/article/wrc-finlande-elfyn-evans-perd-gros-apres-une-sortie-de-route-les-spectateurs-a-la-rescousse-11765356)      |
+| 2026 | [[Rallye de Finlande]] | [[Sébastien Ogier]] | [URL](https://www.rtbf.be/article/direct-commente-wrc-finlande-ogier-victime-d-une-impressionnante-sortie-de-route-a-haute-vitesse-11764030) |
+|      |                        |                     |                                                                                                                                              |
+
+
+

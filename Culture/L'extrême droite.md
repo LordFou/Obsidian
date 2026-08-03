@@ -13,7 +13,10 @@
 
 ## Médias
 
-- ![[image-422.webp]]
+- CNEWS
+  ![[image-740.webp|500x313]]
+  ![[image-741.webp|500x454]]
+
 
 ## Personnalités
 

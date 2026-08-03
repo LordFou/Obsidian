@@ -24,9 +24,12 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre          | Genre | Plateformes           |
-| ----- | -------------- | ----- | --------------------- |
-| XXXX  | [[SpaceCraft]] |       | PC, PS5, Xbox, Switch |
+| Année | Titre                 | Genre | Plateformes           |
+| ----- | --------------------- | ----- | --------------------- |
+| 2018  | [[Northgard]]         |       |                       |
+| 2023  | [[Dune - Spice Wars]] |       |                       |
+| 2023  | [[Wartales]]          |       |                       |
+| XXXX  | [[SpaceCraft]]        |       | PC, PS5, Xbox, Switch |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

@@ -5,11 +5,20 @@ type: event
 
 # Introduction
 
+# Edition 2026
+## Hommes
+
+|              | Vainqueur                   | Général           | Montagne | Points | Jeune | Remarques |
+| ------------ | --------------------------- | ----------------- | -------- | ------ | ----- | --------- |
+| ==1e (BEL)== | [[Wout Van Aert]]           | [[Wout Van Aert]] |          |        |       |           |
+| ==2e (BEL)== | [[Wout Van Aert]]           | [[Wout Van Aert]] |          |        |       |           |
+| ==3e (BEL)== | [[Wout Van Aert]]           | [[Wout Van Aert]] |          |        |       |           |
+| 4e (NOR)     | [[Storm Ingebrigtsen]]      | [[Wout Van Aert]] |          |        |       |           |
+| 5e (DAN)     | [[Rasmus Søjberg Pedersen]] | [[Wout Van Aert]] |          |        |       |           |
+
 # Edition 2025
 
 ## Hommes
-
-### Etapes 
 
 |          | Vainqueur              | Général           | Montagne | Points | Jeune | Remarques                                                    |
 | -------- | ---------------------- | ----------------- | -------- | ------ | ----- | ------------------------------------------------------------ |
@@ -20,8 +29,6 @@ type: event
 | 5e (DAN) | [[Mads Pedersen]]      | [[Mads Pedersen]] |          |        |       | 7e - [[Milan Menten]]                                        |
 ## Femmes
 
-### Etapes
-
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
 | --- | --------- | ------- | -------- | ------ | ----- | --------- |
 
@@ -29,16 +36,11 @@ type: event
 
 ### Hommes
 
-
 | Année | Vainqueur         | Nationalité | Remarque |
 | ----- | ----------------- | ----------- | -------- |
+| 2018  | [[Wout Van Aert]] | ==Belge==   |          |
 | ?     | [[Mads Pedersen]] | Danois      |          |
 | ?     | [[Mads Pedersen]] | Danois      |          |
-| 2024  | [[Arnaud De Lie]] | Belge       |          |
+| 2024  | [[Arnaud De Lie]] | ==Belge==   |          |
 | 2025  | [[Mads Pedersen]] | Danois      |          |
-### Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |

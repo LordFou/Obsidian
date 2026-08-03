@@ -15,9 +15,10 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                     | Résultat         | Remarque |
 | ----- | ----------------------------------------------- | ---------------- | -------- |
-| 2025  | World Athletics Continental Tour - Ostrava      | 1ier             |          |
+| 2025  | World Athletics Continental Tour - Ostrava      | ==1ier==         |          |
 | 2025  | [[Championnats du monde d'athlétisme]] - 400m   | Eliminé en série |          |
 | 2025  | [[Championnats du monde d'athlétisme]] - 4x400m | 4e               |          |
+| 2026  | [[Championnat de Belgique d'Athlétisme]] - 400m | ==1ier==         | 44.82s   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

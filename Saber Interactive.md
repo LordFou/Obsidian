@@ -29,6 +29,7 @@ content:
 |       | [[Road Kings]]                      | Simulation |             |
 | 2025  | [[Warhammer 40k - Space Marine 2]]  |            |             |
 | 2026  | [[John Carpenter’s Toxic Commando]] |            |             |
+| 2026  | [[Docked]]                          | Simulation |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

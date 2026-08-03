@@ -68,7 +68,11 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 | 2011  | [[Chris Froome]]     | Anglais     |              |                   |                        |          |
 | 2017  | [[Chris Froome]]     | Anglais     |              |                   |                        |          |
 | 2018  | [[Simon Yates]]      | Anglais     |              |                   |                        |          |
-| 2022  | [[Remco Evenepoel]]  | Belge       |              |                   |                        |          |
+| 2019  | [[Primoz Roglic]]    | Slovène     |              |                   |                        |          |
+| 2020  | [[Primoz Roglic]]    | Slovène     |              |                   |                        |          |
+| 2021  | [[Primoz Roglic]]    | Slovène     |              |                   |                        |          |
+| 2022  | [[Remco Evenepoel]]  | ==Belge==   |              |                   |                        |          |
+| 2024  | [[Primoz Roglic]]    | Slovène     |              |                   |                        |          |
 | 2025  | [[Jonas Vingegaard]] | Danois      | [[Jay Vine]] | [[Mads Pedersen]] | [[Matthew Riccitello]] |          |
 ## Femmes
 

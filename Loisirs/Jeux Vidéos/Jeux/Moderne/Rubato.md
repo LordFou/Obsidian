@@ -8,9 +8,11 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[dconn]]
 	- Personnalités : 
 - **Éditeur** : 
+	- [[dconn]]
+	- [[Headcannon]]
 - **Plateformes** : [[PC]], [[PlayStation 5]], [[Switch]]
 - **Franchise** : 
 - **Genre** : [[Action Aventure]], [[RPG]], Collectathon
@@ -18,9 +20,11 @@ type: game
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : (2D, 3D, Pixel Art, etc.)
+- **Graphismes** : 
+	- Gros mélange de style avec une base 2D
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** :
+	- Canard PC (5/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -30,6 +34,7 @@ type: game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Grenouille]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

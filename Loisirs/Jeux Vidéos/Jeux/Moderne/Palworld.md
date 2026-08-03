@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : [[PC]],[[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[RPG]]
+- **Genre** : [[Action]], [[Aventure]], [[RPG]], [[Collection]]
 - **Résumé** : 
 
 ## Détails Techniques

@@ -49,7 +49,7 @@ ARGENT (5)
 
 - **Arnaud Dely**  en duathlon individuel
 
-- **Sonita Muluh**  en powerlifting (+84 kg)
+- [[Sonita Muluh]]  en powerlifting (+84 kg)
 
 - **Fran Vanhoutte** au 500m roller sur route
 

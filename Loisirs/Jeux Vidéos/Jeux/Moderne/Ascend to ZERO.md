@@ -47,7 +47,9 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 82
+	- CheckPoint : 9/10
 - **Gameplay** :
+	- Vous avez un temps limité pour finir les niveaux mais plein de façons de faire évoluer ce temps.
 - **Durée estimée** : 
 
 ## Histoire et Univers
@@ -67,3 +69,4 @@ tags: mediaDB/game
 | ----------- | ------------------------------------------------ |
 | Steam       | https://store.steampowered.com/app/2697940       |
 | Trailer     | https://youtu.be/nAfFe2nds-4?si=ixOJYVxYAOOYUmPV |
+![[image-733.webp|500x281]]

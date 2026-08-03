@@ -27,6 +27,7 @@ content:
 | Année | Titre                                      |
 | ----- | ------------------------------------------ |
 | 2026  | [[The Liar Princess and the Blind Prince]] |
+| 2026  | [[Disgaea Mayhem]]                         |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

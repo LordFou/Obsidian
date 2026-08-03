@@ -22,6 +22,8 @@ type: personne
 | 2022  | [[Simac Ladies Tour]] - Classement final | 1ière          |                                                                  |
 | 2022  | [[Flèche de Gooik Oetingen]]             | 1ière          |                                                                  |
 | 2022  | [[Binche-Chimay-Binche]]                 | 1ière          |                                                                  |
+| 2022  | [[Tour de France]] - 1e étape            | 1ière          |                                                                  |
+|       |                                          |                |                                                                  |
 | 2024  | [[Flèche de Gooik Oetingen]]             | 1ière          |                                                                  |
 | 2024  | [[Gand Wevelgem]]                        | 1ière          |                                                                  |
 |       |                                          |                |                                                                  |
@@ -52,6 +54,11 @@ type: personne
 | 2026  | [[Tour de Burgos]] - 2e étape            | ==1ière==      |                                                                  |
 | 2026  | [[Tour d'Italie]] - 1e étape             | Disqualifiée ! | Gagnante de l'étape, elle sera disqualifiée pour vélo trop léger |
 | 2026  | [[Tour de Pologne]] - 1e étape           | ==1ière==      |                                                                  |
+| 2026  | [[Tour de Pologne]] - 2e étape           | ==1ière==      |                                                                  |
+| 2026  | [[Tour de Pologne]] - 3e étape           | ==1ière==      |                                                                  |
+| 2026  | [[Tour de Pologne]] - Classement final   | ==1ière==      |                                                                  |
+| 2026  | [[Tour de France]] - 1e étape            | ==1ière==      |                                                                  |
+| 2026  | [[Tour de France]] - 2e étape            | ==1ière==      |                                                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

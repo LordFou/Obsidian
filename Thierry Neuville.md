@@ -30,7 +30,7 @@ type: personne
 | 2026  | [[Rallye du Japon]]                                  | 6e       |          |
 | 2026  | [[Rallye de Grèce]]                                  | 2e       |          |
 | 2026  | [[Rallye d'Estonie]]                                 | 4e       |          |
-|       |                                                      |          |          |
+| 2026  | [[Rallye de Finlande]]                               | 5e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
