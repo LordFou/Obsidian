@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "623ea62b418f05e6",
+        "id": "3f26e5c3bc5534f2",
         "type": "tabs",
         "children": [
           {
-            "id": "6cd20efb8026b20c",
+            "id": "42f6f1e26031f30b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Clover's Quadrants.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Clover's Quadrants"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Feed",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -186,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,10 +200,11 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "6cd20efb8026b20c",
+  "active": "cfaee1bb38725775",
   "lastOpenFiles": [
-    "Two-Headed Deer.md",
+    "Journal de bord/2026-08-03.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Clover's Quadrants.md",
+    "Two-Headed Deer.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Feed The Pit.md",
     "Curious Fox Sox.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cosmodrill.md",
@@ -233,7 +229,6 @@
     "Loisirs/Sport/Sportifs/Bart Swings.md",
     "Loisirs/Sport/Compétitions/Novak Djokovic.md",
     "Loisirs/Sport/Compétitions/Tournoi de Montréal.md",
-    "Loisirs/Sport/Novac Jokovic.md",
     "Attachments/image-730.webp",
     "Attachments/image-729.webp",
     "Attachments/image-728.webp",
