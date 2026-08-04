@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a6a9494f3d0cfc2d",
+        "id": "8694ef35beca602b",
         "type": "tabs",
         "children": [
           {
-            "id": "3d319ef9948ee0c4",
+            "id": "2285d046ff9dd0b6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -202,7 +202,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "3d319ef9948ee0c4",
+  "active": "cfaee1bb38725775",
   "lastOpenFiles": [
     "Journal de bord/2026-08-04.md",
     "conflict-files-obsidian-git.md",
