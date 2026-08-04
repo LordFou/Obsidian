@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "9b5738f129032660",
+    "type": "split",
+    "children": [
+      {
+        "id": "8694ef35beca602b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2285d046ff9dd0b6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10646f34a5623bcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a516746cabd1b8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2066e9a3d214d366",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "eb3c1bcab851ce97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "b4ebb1a377404fc4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          },
+          {
+            "id": "dbacc6f984f28690",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "right": {
+    "id": "424a7915b112611b",
+    "type": "split",
+    "children": [
+      {
+        "id": "793a32453de58a2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38e1afb54a3a7718",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Escape from Ever After.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Escape from Ever After"
+            }
+          },
+          {
+            "id": "e2303466fd1c8ab2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Escape from Ever After.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Escape from Ever After"
+            }
+          },
+          {
+            "id": "9871d3b303142bba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "662b93150171007e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          },
+          {
+            "id": "a57efce46b870585",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "cfaee1bb38725775",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 379.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Créer une nouvelle base": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "markdown-importer:Ouvrir l'importateur Markdown": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
+    }
+  },
+  "active": "cfaee1bb38725775",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Sigrid Haugset.md",
+    "Journal de bord/2026-08-04.md",
+    "Loisirs/Jeux Vidéos/Musées/Nationaal Videogame Museum.md",
+    "Loisirs/Jeux Vidéos/Musées/Computer History Museum.md",
+    "Loisirs/Jeux Vidéos/Musées",
+    "musée du jeu vidéo.md",
+    "lvl374.md",
+    "dconn.md",
+    "Zerator.md",
+    "Ubisoft Barcelone.md",
+    "Tournoi de Memphis.md",
+    "TacNours.md",
+    "Striking Distance Studios.md",
+    "Sonita Muluh.md",
+    "SFB Games.md",
+    "Rasmus Søjberg Pedersen.md",
+    "Rallye de Finlande.md",
+    "Prideful Sloth.md",
+    "OhNoo Studio.md",
+    "Nirmal Purja.md",
+    "Neos Corporation.md",
+    "Metaphor Games.md",
+    "Marumittu Games.md",
+    "Lucas van Assche.md",
+    "Loisirs/Sport/Sportifs/Mathieu Bourdeaud'Hui.md",
+    "Loisirs/Sport/Sportifs/Kristina Liutova.md",
+    "Attachments/image-754.webp",
+    "Attachments/image-753.webp",
+    "Attachments/image-752.webp",
+    "Attachments/image-751.webp",
+    "Attachments/image-750.webp",
+    "Attachments/image-749.webp",
+    "Attachments/image-748.webp",
+    "Attachments/image-747.webp",
+    "Attachments/image-746.webp",
+    "Attachments/image-745.webp",
+    "Famille/Vacances/Danemark/Bork Havn",
+    "Famille/Vacances/Danemark",
+    "Famille/Vacances",
+    "Loisirs/Sport/Compétitions/Sans titre",
+    "Sans titre",
+    "TI-99",
+    "Media DB/wiki",
+    "Media DB/games",
+    "Media DB",
+    "Loisirs/Jeux Vidéos/Généalogie Société.canvas"
+  ]
+}
