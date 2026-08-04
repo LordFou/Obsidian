@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "75b17fc51dc202d3",
+        "id": "a6a9494f3d0cfc2d",
         "type": "tabs",
         "children": [
           {
-            "id": "5a260217834aec53",
+            "id": "3d319ef9948ee0c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal de bord/2026-08-04.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-08-04"
-            }
-          },
-          {
-            "id": "aee39c2a3439bbd1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Notes de version 1.13.4"
+              "title": "Nouvel onglet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +202,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "aee39c2a3439bbd1",
+  "active": "3d319ef9948ee0c4",
   "lastOpenFiles": [
     "Journal de bord/2026-08-04.md",
     "conflict-files-obsidian-git.md",
