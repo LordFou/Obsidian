@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "72c9ebef89d9f35c",
+        "id": "a1a76692f5c8f864",
         "type": "tabs",
         "children": [
           {
-            "id": "8290d88d8b515554",
+            "id": "bae8a7a06d9dd8ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal de bord/2026-08-05.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-08-05"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -210,11 +206,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8290d88d8b515554",
+  "active": "bae8a7a06d9dd8ab",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Journal de bord/2026-08-05.md",
     "Loisirs/Sport/Tour de France.md",
-    "conflict-files-obsidian-git.md",
     "Two-Headed Deer.md",
     "Morse Morse Games.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/nophenia.md",

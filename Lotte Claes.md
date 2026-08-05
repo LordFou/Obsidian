@@ -17,6 +17,7 @@ type: personne
 | ----- | -------------------------------------------------------------- | -------- | -------- |
 | 2026  | [[Tour de Valence]] - Classement Final                         | 9e       |          |
 | 2026  | [[Championnat de Belgique de Cyclisme\|Champ. National]] - CLM | 1ière    |          |
+| 2026  | [[Tour de France]] - 4e étape                                  | 8e       | CLM      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
