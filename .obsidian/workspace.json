@@ -11,10 +11,14 @@
             "id": "bae8a7a06d9dd8ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Loisirs/Sport/Tour de France.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Tour de France"
             }
           }
         ]
