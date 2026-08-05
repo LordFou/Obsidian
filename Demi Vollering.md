@@ -34,6 +34,7 @@ type: personne
 | 2026  | [[Tour d'Italie]] - 7e étape                                | ==1ière== |            |
 | 2026  | [[Tour d'Italie]] - Classement final                        | ==1ière== |            |
 | 2026  | [[Tour de France]] - 1e étape                               | 3e        |            |
+| 2026  | [[Tour de France]] - 5e étape                               | ==1ière== |            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
