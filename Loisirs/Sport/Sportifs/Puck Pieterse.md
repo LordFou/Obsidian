@@ -13,13 +13,14 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                             | Résultat | Remarque |
-| ----- | --------------------------------------- | -------- | -------- |
-| 2025  | Superprestige - Cross Diegem            | 1ière    |          |
-| 2025  | [[Flèche Wallonne]]                     | 1ière    |          |
-|       |                                         |          |          |
-| 2026  | CXWorldCup - 11e manche -  Maasmechelen | 1ière    |          |
-| 2026  | [[Liège-Bastogne-Liège]]                | 2e       |          |
+| Année | Compétition                             | Résultat  | Remarque |
+| ----- | --------------------------------------- | --------- | -------- |
+| 2025  | Superprestige - Cross Diegem            | 1ière     |          |
+| 2025  | [[Flèche Wallonne]]                     | 1ière     |          |
+|       |                                         |           |          |
+| 2026  | CXWorldCup - 11e manche -  Maasmechelen | ==1ière== |          |
+| 2026  | [[Liège-Bastogne-Liège]]                | 2e        |          |
+| 2026  | [[Tour de France]] - Maillot Montagne   | ==1ière== |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
