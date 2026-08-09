@@ -22,13 +22,13 @@ Aussi appelé [[Vuelta Burgos]]
 
 ## Hommes
 
-|     | Vainqueur             | Général | Montagne | Points | Jeune | Remarques            |
-| --- | --------------------- | ------- | -------- | ------ | ----- | -------------------- |
-| 1e  |                       |         |          |        |       |                      |
-| 2e  |                       |         |          |        |       | 4e - [[Jarno Widar]] |
-| 3e  |                       |         |          |        |       | 7e - [[Jarno Widar]] |
-| 4e  |                       |         |          |        |       |                      |
-| 5e  | [[Giulio Pellizzari]] |         |          |        |       |                      |
+|     | Vainqueur             | Général        | Montagne | Points | Jeune | Remarques            |
+| --- | --------------------- | -------------- | -------- | ------ | ----- | -------------------- |
+| 1e  |                       |                |          |        |       |                      |
+| 2e  |                       |                |          |        |       | 4e - [[Jarno Widar]] |
+| 3e  |                       |                |          |        |       | 7e - [[Jarno Widar]] |
+| 4e  |                       |                |          |        |       |                      |
+| 5e  | [[Giulio Pellizzari]] | [[Félix Gall]] |          |        |       |                      |
 
 ## Femmes
 
@@ -47,6 +47,7 @@ Aussi appelé [[Vuelta Burgos]]
 | ----- | ------------------- | ----------- | -------- |
 | 2020  | [[Remco Evenepoel]] | Belge       |          |
 | 2025  | [[Isaac Del Toro]]  | Mexicain    |          |
+| 2026  | [[Félix Gall]]      | Autrichien  |          |
 ### Femmes
 
 | Année | Vainqueur          | Nationalité  | Remarque |

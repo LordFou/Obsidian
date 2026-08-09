@@ -22,7 +22,7 @@ type: personne
 | 2026  | Championnat de Belgique d'athlétisme en salle - 800m                          | 1ier        |                                                              |
 | 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - 800m | 2e          | Série (1:45.51)<br>Demi-finale (1:45.71)<br>Finale (1:44.34) |
 | 2026  | Meeting international de Liège - 600m                                         | 1ier        | 1:13.53<br>==Record de Belgique==                            |
-|       |                                                                               |             |                                                              |
+| 2026  | [[Championnats d'Europe d'athlétisme]]                                        | Forfait     | Blessé à la cuisse gauche                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

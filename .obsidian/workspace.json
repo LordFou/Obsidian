@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tour de Burgos.md",
+                "file": "Eliott Crestan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour de Burgos"
+              "title": "Eliott Crestan"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Jarno",
+                "query": "Eliott",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,8 +213,13 @@
   },
   "active": "bae8a7a06d9dd8ab",
   "lastOpenFiles": [
-    "Jarno Widar.md",
+    "Barry Baltus.md",
+    "Félix Gall.md",
     "Tour de Burgos.md",
+    "Giulio Pellizzari.md",
+    "Tour du Rwanda.md",
+    "Matteo Vanhuffel.md",
+    "Jarno Widar.md",
     "Elise Mertens.md",
     "Loisirs/Sport/Tour de France.md",
     "Loisirs/Sport/Compétitions/Tournoi de Toronto.md",
@@ -235,11 +240,6 @@
     "Gerben Thijssen.md",
     "Carlos Alcaraz.md",
     "Tournoi de Cincinnati.md",
-    "Loisirs/Sport/Compétitions/Tournoi de Montréal.md",
-    "Journal de bord/2026-08-08.md",
-    "Demi Vollering.md",
-    "Journal de bord/2026-08-05.md",
-    "conflict-files-obsidian-git.md",
     "Attachments/image-754.webp",
     "Attachments/image-753.webp",
     "Attachments/image-752.webp",
