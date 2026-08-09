@@ -1,17 +1,17 @@
 ---
 type: personne
 ---
-
+![[image-755.webp|410x277]]
 
 # Lara Gut-Behrami
 
 # Informations Générales  
-- **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Date de naissance** :  1991
+- **Nationalité** :  Suisse
+- **Sport / Discipline** :  [[Ski]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
-- **Période d’activité** :  
+- **Période d’activité** :  -> 2026 
 
 # Palmarès et Distinctions  
 
@@ -24,7 +24,10 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants  
-Lister lebattus, les moments légendaires ou les anecdotes notables.
+- Triple médaillée olympique 
+- Neuf fois médaillée aux Mondiaux
+- Deux gros globes de cristal (2016 et 2024) 
+- 101 podiums en Coupe du monde
 
 # Controverses ou Événements Importants  
 Évoquer les polémiques ou moments clés de sa carrière.

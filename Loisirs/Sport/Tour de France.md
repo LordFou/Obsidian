@@ -84,13 +84,15 @@ Aussi surnommé la petite reine, le tour de France est le 3e évènement sportif
 | Suisse   | 1             |
 ## Femmes %% fold %%
 
-|          | Vainqueur          | Général            | Montagne          | Points            | Jeune           | Combattivité        | Remarques              |
-| -------- | ------------------ | ------------------ | ----------------- | ----------------- | --------------- | ------------------- | ---------------------- |
-| 1e (NDL) | [[Lorena Wiebes]]  | [[Lorena Wiebes]]  | [[Océane Maé]]    | [[Lorena Wiebes]] | [[Paula Blasi]] |                     |                        |
-| 2e (NDL) | [[Lorena Wiebes]]  | [[Lorena Wiebes]]  | [[Océane Maé]]    | [[Lorena Wiebes]] | [[Paula Blasi]] | [[Riejanne Markus]] |                        |
-| 3e (NOR) | [[Sigrid Haugset]] | [[Sigrid Haugset]] | [[Océane Maé]]    | [[Lorena Wiebes]] | [[Paula Blasi]] | [[Sigrid Haugset]]  | 2e - [[Lotte Kopecky]] |
-| 4e (SUI) | [[Marlen Reusser]] | [[Marlen Reusser]] | [[Puck Pieterse]] | [[Lorena Wiebes]] | [[Paula Blasi]] |                     | 8e - [[Lotte Claes]]   |
-| 5e (NDL) | [[Demi Vollering]] | [[Marlen Reusser]] | [[Puck Pieterse]] | [[Lorena Wiebes]] |                 |                     |                        |
+|          | Vainqueur              | Général            | Montagne          | Points            | Jeune           | Combattivité        | Remarques              |
+| -------- | ---------------------- | ------------------ | ----------------- | ----------------- | --------------- | ------------------- | ---------------------- |
+| 1e (NDL) | [[Lorena Wiebes]]      | [[Lorena Wiebes]]  | [[Océane Maé]]    | [[Lorena Wiebes]] | [[Paula Blasi]] |                     |                        |
+| 2e (NDL) | [[Lorena Wiebes]]      | [[Lorena Wiebes]]  | [[Océane Maé]]    | [[Lorena Wiebes]] | [[Paula Blasi]] | [[Riejanne Markus]] |                        |
+| 3e (NOR) | [[Sigrid Haugset]]     | [[Sigrid Haugset]] | [[Océane Maé]]    | [[Lorena Wiebes]] | [[Paula Blasi]] | [[Sigrid Haugset]]  | 2e - [[Lotte Kopecky]] |
+| 4e (SUI) | [[Marlen Reusser]]     | [[Marlen Reusser]] | [[Puck Pieterse]] | [[Lorena Wiebes]] | [[Paula Blasi]] |                     | 8e - [[Lotte Claes]]   |
+| 5e (NDL) | [[Demi Vollering]]     | [[Marlen Reusser]] | [[Puck Pieterse]] | [[Lorena Wiebes]] |                 |                     |                        |
+| 6e (AFS) | [[Kimberley Le Court]] | [[Marlen Reusser]] | [[Puck Pieterse]] | [[Lorena Wiebes]] |                 |                     |                        |
+|          |                        |                    |                   |                   |                 |                     |                        |
 
 
 

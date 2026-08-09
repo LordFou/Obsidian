@@ -35,7 +35,7 @@ type: personne
 | 2026  | [[Wimbledon]]              | 1e tour        | Défaite contre [[Alexander Zverev]] (ATP 3)                                                                                                                                                                                        |
 | 2026  | [[Tournoi d'Umag]]         | 1e tour        | Défaite contre [[Titouan Droguet]] (ATP 114)                                                                                                                                                                                       |
 | 2026  | [[Tournoi d'Estoril]]      | Finale         | Victoire en 1/8 contre [[Kyrian Jacquet]] (ATP 134)<br>Victoire en 1/4 contre [[Roman Andres Burruchaga]] (ATP 60)<br>Victoire en 1/2 contre [[Luciano Darderi]] (ATP 21)<br>Défaite en final contre [[Lucas van Assche]] (ATP 78) |
-| 2026  | [[Tournoi de Montréal]]    | 3e tour        |                                                                                                                                                                                                                                    |
+| 2026  | [[Tournoi de Montréal]]    | 3e tour        | Défaite contre Jiri Lehecka (ATP 8)                                                                                                                                                                                                |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
