@@ -13,14 +13,16 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                           | Résultat | Remarque |
-| ----- | ------------------------------------- | -------- | -------- |
-| 2025  | [[Tour de France]] - Classement final | 2e       |          |
-|       |                                       |          |          |
-| 2026  | [[Omloop Het Nieuwsblad]]             | 2e       |          |
-| 2026  | [[Strade Bianche]]                    | 2e       |          |
-| 2026  | [[Amstel Gold Race]]                  | 2e       |          |
-| 2026  | [[Liège-Bastogne-Liège]]              | 3e       |          |
+| Année | Compétition                           | Résultat  | Remarque     |
+| ----- | ------------------------------------- | --------- | ------------ |
+| 2025  | [[Tour de France]] - Classement final | 2e        |              |
+|       |                                       |           |              |
+| 2026  | [[Omloop Het Nieuwsblad]]             | 2e        |              |
+| 2026  | [[Strade Bianche]]                    | 2e        |              |
+| 2026  | [[Amstel Gold Race]]                  | 2e        |              |
+| 2026  | [[Liège-Bastogne-Liège]]              | 3e        |              |
+| 2026  | [[Tour de France]] - 7e étape         | ==1ière== | Mont Ventoux |
+|       |                                       |           |              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

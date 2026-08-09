@@ -44,7 +44,7 @@ type: personne
 | 2026  | [[Tournoi de Eastbourne]]           | ==Vainqueur==          | Victoire contre [[Ugo Humbert]] (ATP 30)                                                                                |
 | 2026  | [[Wimbledon]]                       | 3e tour                | Victoire contre [[Ugo Humbert]] (ATP 30)<br>Victoire contre [[Jaime Faria]]<br>Défaite contre [[Arthur Fery]] (ATP 114) |
 | 2026  | [[Tournoi de Washington]]           | 1e tour                | Défaite contre [[Taylor Fritz]] (ATP 10)                                                                                |
-| 2026  | [[Tournoi de Montréal]]             | 2e tour                | Victoire contre [[Sebastian Baez]] (ATP 48)                                                                             |
+| 2026  | [[Tournoi de Montréal]]             | 3e tour                | Victoire contre [[Sebastian Baez]] (ATP 48)<br>Défaite contre [[Ben Shelton]] (ATP 10)                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

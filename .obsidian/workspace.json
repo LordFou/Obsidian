@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alexander Blockx.md",
+                "file": "Loisirs/Sport/Sportifs/Puck Pieterse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alexander Blockx"
+              "title": "Puck Pieterse"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Alexander",
+                "query": "Zizou",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -192,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,20 +214,23 @@
   "active": "bae8a7a06d9dd8ab",
   "lastOpenFiles": [
     "Loisirs/Sport/Tour de France.md",
+    "Loisirs/Sport/Lorena Wiebes.md",
+    "Zizou Bergs.md",
+    "Katarzyna Niewiadoma.md",
+    "Alexander Blockx.md",
+    "Joao Almeida.md",
     "Young Belgian Cats.md",
     "Loisirs/Sport/Sportifs/Lara Gut-Behrami.md",
     "Attachments/image-755.webp",
     "Raphaël Collignon.md",
     "Tournoi de Gstaad.md",
     "Stefano Tsitsipas.md",
-    "Zizou Bergs.md",
     "Dries De Bondt.md",
     "Tour de Pologne.md",
     "Gerben Thijssen.md",
     "Carlos Alcaraz.md",
     "Tournoi de Cincinnati.md",
     "Loisirs/Sport/Compétitions/Tournoi de Montréal.md",
-    "Alexander Blockx.md",
     "Journal de bord/2026-08-08.md",
     "Demi Vollering.md",
     "Journal de bord/2026-08-05.md",
@@ -236,9 +240,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/nophenia.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Feed The Pit.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Cosmodrill.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Clover's Quadrants.md",
-    "Evrac Studio.md",
-    "Curious Fox Sox.md",
     "Attachments/image-754.webp",
     "Attachments/image-753.webp",
     "Attachments/image-752.webp",

@@ -59,12 +59,14 @@ type: personne
 | 2026  | [[Tour de Pologne]] - Classement final   | ==1ière==      |                                                                  |
 | 2026  | [[Tour de France]] - 1e étape            | ==1ière==      |                                                                  |
 | 2026  | [[Tour de France]] - 2e étape            | ==1ière==      |                                                                  |
+| 2026  | [[Tour de France]] - Maillot à points    | ==1ière==      |                                                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
 - 100 victoires au sprint lors de la 3e étape du [[Tour de France]]
+- Record du nombre d'étapes au tour de France (7)
 
 # Controverses ou Événements Importants
 - Elle est disqualifiée lors de la première étape du [[Tour d'Italie]] 2026 pour vélo trop léger alors qu'elle s'était imposée lors du sprint.
