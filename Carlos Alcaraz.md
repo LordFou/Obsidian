@@ -33,7 +33,8 @@ type: personne
 | 2026  | [[Tournoi de Monte Carlo]] | Finaliste   | Défaite contre [[Jannik Sinner]]           |
 | 2026  | [[Roland-Garros]]          | Forfait     |                                            |
 | 2026  | [[Wimbledon]]              | Forfait     |                                            |
-|       |                            |             |                                            |
+| 2026  | [[Tournoi de Cincinnati]]  | Forfait     |                                            |
+| 2026  | [[US Open]]                |             |                                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
