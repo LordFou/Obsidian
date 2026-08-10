@@ -14,7 +14,13 @@ type: event
 | 2026  | [[Leonardo Fabbri]]   | Lancer du poids | Italien     |          |
 # Femmes
 
-| Année | Vainqueur | Epreuve | Nationalité   | Remarque |
-| ----- | --------- | ------- | ------------- | -------- |
-| 2026  |           |         | 3000m Steeple |          |
-|       |           |         |               |          |
+| Année | Vainqueur | Epreuve       | Nationalité | Remarque |
+| ----- | --------- | ------------- | ----------- | -------- |
+| 2026  |           | 3000m Steeple |             |          |
+|       |           |               |             |          |
+# Mixte
+
+| Année | Vainqueur | Epreuve | Remarque |
+| ----- | --------- | ------- | -------- |
+| 2026  | Norvège   | 4x400m  |          |
+|       |           |         |          |

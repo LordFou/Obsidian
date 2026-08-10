@@ -23,6 +23,9 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** :
 	- CheckPoint (8.5/10)
+	- Canard PC (7/10)
+		- Corrige les erreurs du premiers
+		- Mais a quelques longueurs et lenteurs
 - **Gameplay** :
 	- Copie du premier niveau graphisme, ambiance, gameplay.
 	- Ils ont surtout rajouté tout un tas de mécanismes qu'ils n'avaient pu mettre dans le premier épisode par manque de temps.

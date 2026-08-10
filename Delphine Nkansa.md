@@ -13,14 +13,14 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                     | Résultat | Remarque                                  |
-| ----- | ----------------------------------------------- | -------- | ----------------------------------------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 4x100m | 10e      | Disqualifiées en série                    |
-| 2026  | Meeting de Madrid - Silver - 400m               | 3e       | Meilleur temps personnel (11.17)          |
-| 2026  | [[Championnat de Belgique d'Athlétisme]] - 100m | 1ière    |                                           |
-| 2026  | [[Championnat de Belgique d'Athlétisme]] - 200m | 1ière    | 23.58                                     |
-| 2026  | [[Championnats d'Europe d'athlétisme]] - 100m   | Finale   | 11.07 (Série) (PB)<br>11.09 (Demi-finale) |
-|       |                                                 |          |                                           |
+| Année | Compétition                                     | Résultat | Remarque                                                         |
+| ----- | ----------------------------------------------- | -------- | ---------------------------------------------------------------- |
+| 2025  | [[Championnats du monde d'athlétisme]] - 4x100m | 10e      | Disqualifiées en série                                           |
+| 2026  | Meeting de Madrid - Silver - 400m               | 3e       | Meilleur temps personnel (11.17)                                 |
+| 2026  | [[Championnat de Belgique d'Athlétisme]] - 100m | 1ière    |                                                                  |
+| 2026  | [[Championnat de Belgique d'Athlétisme]] - 200m | 1ière    | 23.58                                                            |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 100m   | 3e 🥉    | 11.07 (Série) (PB)<br>11.09 (Demi-finale)<br>11.06 (Finale) (PB) |
+|       |                                                 |          |                                                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
