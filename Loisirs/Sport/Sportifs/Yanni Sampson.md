@@ -15,10 +15,10 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                                               | Résultat | Remarque |
-| ----- | --------------------------------------------------------- | -------- | -------- |
-| 2026  | [[Championnats d'Europe d'athlétisme]] - Saut en longueur |          | 7m 97    |
-|       |                                                           |          |          |
+| Année | Compétition                                               | Résultat  | Remarque       |
+| ----- | --------------------------------------------------------- | --------- | -------------- |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - Saut en longueur | Finaliste | 7m 97 (Qualif) |
+|       |                                                           |           |                |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
