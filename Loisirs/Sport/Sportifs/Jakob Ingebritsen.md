@@ -2,28 +2,29 @@
 type: personne
 ---
 
-# Saliyya Guisse
+
+# Jakob Ingebritsen
 
 # Informations Générales  
 - **Date de naissance** :  
-- **Nationalité** :  Belge
+- **Nationalité** :  Norvégien
 - **Sport / Discipline** :  [[Athlétisme]]
-- **Poste / Spécialité** (si applicable) :  [[Triple Saut]]
+- **Poste / Spécialité** (si applicable) : 1500m, 5000m 
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                            | Résultat                       | Remarque |
-| ----- | -------------------------------------- | ------------------------------ | -------- |
-| 2026  | [[Championnats d'Europe d'athlétisme]] | 10e (Qualifications)<br>Finale | 14m07    |
-|       |                                        |                                |          |
+| Année | Compétition                                    | Résultat | Remarque |
+| ----- | ---------------------------------------------- | -------- | -------- |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 5000m | 1ier     |          |
+|       |                                                |          |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants  
-Lister lebattus, les moments légendaires ou les anecdotes notables.
+- Quadruple champion d'Europe d'affilée en 5000m
 
 # Controverses ou Événements Importants  
 Évoquer les polémiques ou moments clés de sa carrière.

@@ -8,13 +8,13 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur             | Epreuve | Nationalité | Remarque |
+| ----- | --------------------- | ------- | ----------- | -------- |
+| 2026  | [[Jakob Ingebritsen]] | 5000m   | Norvégien   |          |
+|       |                       |         |             |          |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur | Epreuve | Nationalité   | Remarque |
+| ----- | --------- | ------- | ------------- | -------- |
+| 2026  |           |         | 3000m Steeple |          |
+|       |           |         |               |          |
