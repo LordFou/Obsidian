@@ -23,6 +23,7 @@ type: personne
 | 2026  | [[Liège-Bastogne-Liège]]              | 3e        |              |
 | 2026  | [[Tour de France]] - 7e étape         | ==1ière== | Mont Ventoux |
 | 2026  | [[Tour de France]] - Classement final | 2e        |              |
+| 2026  | [[Tour de France]] - Super Combattive | ==1ière== |              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
