@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Tournoi de Landisville - W100
+# Tournoi de Landisville - WTA 100
 
 # Introduction
 
