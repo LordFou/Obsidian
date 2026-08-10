@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blizzard.md",
+                "file": "Loisirs/Jeux Vidéos/Sociétés/Leikir Studio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blizzard"
+              "title": "Leikir Studio"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Diablo",
+                "query": "Leikir",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -213,6 +213,9 @@
   },
   "active": "bae8a7a06d9dd8ab",
   "lastOpenFiles": [
+    "Aurélien Loos.md",
+    "Loisirs/Jeux Vidéos/Sociétés/Leikir Studio.md",
+    "Blizzard.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Love Eternal.md",
     "Championnats d'Europe d'athlétisme.md",
     "Emmy Hunt.md",
@@ -238,9 +241,6 @@
     "Mechanistry.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Marathon.md",
     "Bungie.md",
-    "Loisirs/Sport/Sportifs/Jakob Ingebritsen.md",
-    "Storm Ingebrigtsen.md",
-    "Isaac Kimeli.md",
     "Attachments/image-756.webp",
     "Attachments/image-755.webp",
     "Attachments/image-754.webp",
