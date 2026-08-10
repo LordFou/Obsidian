@@ -30,7 +30,8 @@ type: game
 		- il a tout ce qu'il faut pour évoquer le chaos et la joie transgressive de Scott Pilgrim
 	- Canard Pc (6/10)
 		- Bien réalisé mais n'apporte rien de neuf
-			- ni po
+			- ni pour la licence
+			- ni pour le genre
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -49,4 +50,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/x16
+| Trailer     | https://youtu.be/x168DMb13SQ |
