@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hanne Vandewinkel ",
+                "query": "Delphine",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,7 +211,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bae8a7a06d9dd8ab",
+  "active": "571b06dbd1c46b81",
   "lastOpenFiles": [
     "Hanne Vandewinkel.md",
     "Tournoi d'Istanbul.md",
