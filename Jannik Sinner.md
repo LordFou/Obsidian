@@ -32,6 +32,7 @@ type: personne
 | 2026  | [[Roland-Garros]]                   | 2e tour         | Défaite sur blessure                                                  |
 | 2026  | [[Wimbledon]]                       | ==Vainqueur==   | Victoire contre [[Alexander Zverev]]                                  |
 | 2026  | [[Tournoi de Montréal]]             | Forfait         |                                                                       |
+| 2026  | [[Tournoi de Cincinnati]]           | Forfait         |                                                                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
