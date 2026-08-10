@@ -3,13 +3,13 @@ type: personne
 ---
 
 
-# Kim Gevaert
+# Saliyya Guisse
 
 # Informations Générales  
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
-- **Poste / Spécialité** (si applicable) :  
+- **Nationalité** :  Belge
+- **Sport / Discipline** :  [[Athlétisme]]
+- **Poste / Spécialité** (si applicable) :  [[Triple Saut]]
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
@@ -24,8 +24,7 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants  
-- Records de Belgique
-	- 100m (11.04)
+Lister lebattus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants  
 Évoquer les polémiques ou moments clés de sa carrière.

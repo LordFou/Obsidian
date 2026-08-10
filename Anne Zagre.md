@@ -3,7 +3,7 @@ type: personne
 ---
 
 
-# Kim Gevaert
+# Anne Zagre
 
 # Informations Générales  
 - **Date de naissance** :  
@@ -24,8 +24,8 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants  
-- Records de Belgique
-	- 100m (11.04)
+- Record de Belgique
+	- 100m Haies (12.71), co-détentrice avec [[Yanla Ndjip-Nyemeck]]
 
 # Controverses ou Événements Importants  
 Évoquer les polémiques ou moments clés de sa carrière.

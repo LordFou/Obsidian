@@ -17,12 +17,14 @@ type: personne
 | ----- | ---------------------------------------------------------------------------------- | ----------- | ----------------------------- |
 | 2025  | [[Championnats du monde d'athlétisme\| Champ. Monde]] - 100m Haies                 | Demi-finale | 12.74 (Série)<br>13.05 (Demi) |
 | 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - 60m Haies | Demi-finale | 7.93 (Série)<br>              |
+| 2026  | [[Championnats d'Europe d'athlétisme\|Champ. Europe]] - 100m Haies                 | Demi-finale | 12.87 (Série)                 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Record de Belgique
+	- 100m Haies (12.71), co-détentrice avec [[Anne Zagre]]
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

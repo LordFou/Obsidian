@@ -16,7 +16,8 @@ type: personne
 | Année | Compétition                                     | Résultat    | Remarque               |
 | ----- | ----------------------------------------------- | ----------- | ---------------------- |
 | 2025  | [[Championnats du monde d'athlétisme]] - 4x100m | 10e         | Disqualifiées en série |
-| 2026  | [[Championnats d'Europe d'athlétisme]] - 100m   | Demi-finale |                        |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 100m   | Demi-finale | 11.24                  |
+|       |                                                 |             |                        |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

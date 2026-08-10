@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-717.webp|147x201]]
+![[image-756.webp|500x281]]
 # Delphine Nkansa
 
 # Informations Générales
