@@ -23,6 +23,7 @@ type: game
 - **Réception critique** :
 	- 2 millions et demi de vente en quelques jours
 	- CheckPoint (9/10)
+	- Canard PC (8/10)
 - **Gameplay** :
 - **Durée estimée** : 
 

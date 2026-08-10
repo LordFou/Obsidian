@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : [[Nyamakop]]
 - **Plateformes** : [[PC]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[Puzzle]]
+- **Genre** : [[Action]], [[Aventure]], [[Puzzle]], [[Plateforme]]
 - **Résumé** : Cambriolez des musées pour la bonne cause dans Relooted, un jeu de "casses afrofuturistes" et pacifistes. Votre équipe de voleur·ses, rompue au parkour et au hacking, vole les oeuvres jadis pillées en Afrique afin de les restituer à leur pays d'origine.
 
 ## Détails Techniques
@@ -22,6 +22,10 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- CheckPoint : 7,5/10
+	- Canard PC : 5/10 
+		- Fait passer un beau message
+		- Commercialisation d'un jeu vidéo africain (Afrique du Sud)
+		- Mais on sent la faiblesse d'un premier jeu du studio
 	- Récompenses
 		- [[Games for Change Awards]] 2026 - Community Empowerment
 - **Gameplay** :
@@ -31,6 +35,9 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Grace
+	- Nomali
+	- Trevor
 - **Ennemis** :
 - **Thèmes abordés** : 
 	- Restitution du [[Pillage colonial]]

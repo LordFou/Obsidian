@@ -28,6 +28,9 @@ type: game
 		- Rencontres ennuyeuses et combats de boss
 	- Izual
 		- il a tout ce qu'il faut pour évoquer le chaos et la joie transgressive de Scott Pilgrim
+	- Canard Pc (6/10)
+		- Bien réalisé mais n'apporte rien de neuf
+			- ni po
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -46,4 +49,4 @@ type: game
 
 | Description | URL                          |
 | ----------- | ---------------------------- |
-| Trailer     | https://youtu.be/x168DMb13SQ |
+| Trailer     | https://youtu.be/x16

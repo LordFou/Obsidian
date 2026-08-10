@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-758.webp|241x257]]
 # Saliyya Guisse
 
 # Informations Générales  

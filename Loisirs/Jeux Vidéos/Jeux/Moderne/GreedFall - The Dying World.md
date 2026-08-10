@@ -22,6 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** :
 	- CheckPoint (7/10)
+	- Canard PC (gachis/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -35,7 +36,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Le personnel a fait une lettre ouverte à la direction que ça n'allait pas dans le bon sens.
 ## Liens et Ressources
 
 | Description | URL                          |
