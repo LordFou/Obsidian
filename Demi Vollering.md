@@ -35,12 +35,14 @@ type: personne
 | 2026  | [[Tour d'Italie]] - Classement final                        | ==1ière== |            |
 | 2026  | [[Tour de France]] - 1e étape                               | 3e        |            |
 | 2026  | [[Tour de France]] - 5e étape                               | ==1ière== |            |
+| 2026  | [[Tour de France]] - 8e étape                               | ==1ière== |            |
+| 2026  | [[Tour de France]] - Classement final                       | ==1ière== |            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Record du nombre de victoires au [[Tour de France]] (2)
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

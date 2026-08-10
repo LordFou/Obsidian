@@ -215,11 +215,11 @@ Aussi surnommé la petite reine, le tour de France est le 3e évènement sportif
 | 2026  | [[Tadej Pogacar]]    | Slovène     | [[Richard Carapaz]] | [[Mads Pedersen]]  | [[Isaac Del Toro]]   | [[Richard Carapaz]] | [[Lidl-Trek]] | 2e - [[Remco Evenepoel]]<br>3e - [[Isaac Del Toro]]    |
 ### Femmes
 
-| Année | Vainqueur                  | Nationalité  | Montagne          | Points            | Jeune            | Super Combattive  | Equipe           | Podium                                               |
-| ----- | -------------------------- | ------------ | ----------------- | ----------------- | ---------------- | ----------------- | ---------------- | ---------------------------------------------------- |
-| 2022  |                            |              |                   | [[Lotte Kopecky]] |                  |                   |                  |                                                      |
-| 2023  | [[Demi Vollering]]         | Néerlandaise |                   | [[Marianne Vos]]  |                  |                   |                  |                                                      |
-| 2024  |                            |              |                   | [[Marianne Vos]]  |                  |                   |                  |                                                      |
-| 2025  | [[Pauline Ferrand Prevot]] | Française    | [[Elise Chabbey]] | [[Lorena Wiebes]] | [[Nienke Vinke]] | [[Maeva Squiban]] | [[Groupama FDJ]] | 2e [[Demi Vollering]]<br>3e [[Katarzyna Niewiadoma]] |
-| 2026  |                            |              |                   | [[Lorena Wiebes]] |                  |                   |                  |                                                      |
-|       |                            |              |                   |                   |                  |                   |                  |                                                      |
+| Année | Vainqueur                  | Nationalité  | Montagne          | Points            | Jeune            | Super Combattive  | Equipe           | Podium                                                         |
+| ----- | -------------------------- | ------------ | ----------------- | ----------------- | ---------------- | ----------------- | ---------------- | -------------------------------------------------------------- |
+| 2022  |                            |              |                   | [[Lotte Kopecky]] |                  |                   |                  |                                                                |
+| 2023  | [[Demi Vollering]]         | Néerlandaise |                   | [[Marianne Vos]]  |                  |                   |                  |                                                                |
+| 2024  |                            |              |                   | [[Marianne Vos]]  |                  |                   |                  |                                                                |
+| 2025  | [[Pauline Ferrand Prevot]] | Française    | [[Elise Chabbey]] | [[Lorena Wiebes]] | [[Nienke Vinke]] | [[Maeva Squiban]] | [[Groupama FDJ]] | 2e - [[Demi Vollering]]<br>3e - [[Katarzyna Niewiadoma]]       |
+| 2026  | [[Demi Vollering]]         | Néerlandaise | [[Puck Pieterse]] | [[Lorena Wiebes]] |                  |                   |                  | 2e - [[Katarzyna Niewiadoma]]<br>3e - [[Elisa Longo Borghini]] |
+|       |                            |              |                   |                   |                  |                   |                  |                                                                |
