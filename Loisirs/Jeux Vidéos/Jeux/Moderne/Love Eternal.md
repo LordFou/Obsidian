@@ -23,7 +23,7 @@ type: game
 - **Réception critique** : 
 	- Canard PC (6/10)
 		- Gameplay millimétré et punitif, quasi masochiste
-		- Clivant, radical, 
+		- Clivant, excluant, radical
 - **Gameplay** :
 - **Durée estimée** : 
 

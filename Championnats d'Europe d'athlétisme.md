@@ -14,10 +14,10 @@ type: event
 | 2026  | [[Leonardo Fabbri]]   | Lancer du poids | Italien     |          |
 # Femmes
 
-| Année | Vainqueur | Epreuve       | Nationalité | Remarque |
-| ----- | --------- | ------------- | ----------- | -------- |
-| 2026  |           | 3000m Steeple |             |          |
-|       |           |               |             |          |
+| Année | Vainqueur     | Epreuve       | Nationalité | Remarque |
+| ----- | ------------- | ------------- | ----------- | -------- |
+| 2026  |               | 3000m Steeple |             |          |
+| 2026  | [[Emmy Hunt]] | 100m          | Britannique |          |
 # Mixte
 
 | Année | Vainqueur | Epreuve | Remarque |

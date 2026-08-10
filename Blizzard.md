@@ -24,9 +24,14 @@ content: notamment de l'équipe Diablo.
 ```
 
 ## Jeux Développés
-| Année | Titre      | Genre              | Plateformes           |
-| ----- | ---------- | ------------------ | --------------------- |
-| XXXX  | Nom du jeu | Action / RPG / FPS | PC, PS5, Xbox, Switch |
+| Année | Titre                            | Genre | Plateformes |
+| ----- | -------------------------------- | ----- | ----------- |
+|       | [[Diablo]]                       |       |             |
+|       | Diablo II                        |       |             |
+|       | Diablo III                       |       |             |
+|       | Diablo IV                        |       |             |
+|       | Diablo II - Resurrected          |       |             |
+|       | Diablo II - Reign of the Warlock |       |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
