@@ -33,7 +33,7 @@ type: personne
 | 2025  | Euro - Petit bain - 100m 4N                                                   | 3e (Demi-Finale)<br>2e (Finale) | 56.80 (Finale)                                         | Record de Belgique                 |
 | 2025  | Euro - Petit bain - 200m Br                                                   | 8e (Finale)                     |                                                        |                                    |
 | 2025  | Euro - Petit bain - 100m Pap                                                  | 5e (Finale)                     |                                                        |                                    |
-| 2026  | Championnat d'Europe de Natation - 100m Nl                                    | 16e                             | Série (53.70)<br>Demi-finale ()                        |                                    |
+| 2026  | Championnat d'Europe de Natation - 100m Nl                                    | 16e (Série)<br>9e (Demi-finale) | Série (53.70)<br>Demi-finale (53.70)                   |                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
