@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                                     | Résultat | Remarque         |
 | ----- | ----------------------------------------------- | -------- | ---------------- |
 | 2025  | [[Championnats du monde d'athlétisme]] - 4x100m | 10e      | Eliminé en série |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 100m   | Série    |                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

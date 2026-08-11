@@ -18,6 +18,7 @@ type: personne
 | 2025  | [[Championnat de Belgique d'Athlétisme\|Championnat de Belgique]] - 800m | 1ière       |                                   |
 | 2025  | [[Championnats du monde d'athlétisme]] - 4x400m                          | Finale (4e) | sous la pluie                     |
 | 2026  | Meeting international de Liège - 600m                                    | 3e          | 1:25.23<br>==Record de Belgique== |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 800m                            | Série       | 1:59.43 (PB)                      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
