@@ -26,6 +26,7 @@ type: personne
 | 2025  | Euro - Petit bain - 400m 4n                                          | 4e (Finale)                       | 4:03.89 (Finale)                   | Record de Belgique                    |
 |       |                                                                      |                                   |                                    |                                       |
 | 2026  | Open de Stockholm - 400m                                             | 3e (Finale)                       | 3:44.61                            | Egalisation de son record de Belgique |
+| 2026  | Championnat d'Europe de Natation - 800m Nl                           | 11e (Série)<br>                   | Série (7.51.64)                    |                                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

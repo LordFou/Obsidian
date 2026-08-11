@@ -13,7 +13,7 @@ type: event
 | ----------------- | ---------------------- | ----------- | -------- |
 | 5000m             | [[Jakob Ingebrigtsen]] | Norvégien   |          |
 | Lancer du poids   | [[Leonardo Fabbri]]    | Italien     |          |
-| Lancer du Marteau |                        |             |          |
+| Lancer du Marteau | [[Bence Halasz]]       | Hongrois    |          |
 ## Femmes
 
 | Epreuve       | Vainqueur             | Nationalité | Remarque |

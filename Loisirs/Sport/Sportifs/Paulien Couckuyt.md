@@ -5,7 +5,7 @@ type: personne
 # Paulien Couckuyt
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  1997
 - **Nationalité** :  Belge
 - **Sport / Discipline** : [[Athlétisme]] 
 - **Poste / Spécialité** (si applicable) : 400m  
@@ -13,10 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                         | Résultat    | Remarque                        |
-| ----- | --------------------------------------------------- | ----------- | ------------------------------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 400m Haies | Demi-finale | 55.08                           |
-| 2026  | Nuit de l'Athlétisme - Heusden-Zolder - 300m haies  |             | 38.66<br>==Record de Belgique== |
+| Année | Compétition                                         | Résultat    | Remarque                       |
+| ----- | --------------------------------------------------- | ----------- | ------------------------------ |
+| 2025  | [[Championnats du monde d'athlétisme]] - 400m Haies | Demi-finale | 55.08                          |
+| 2026  | Nuit de l'Athlétisme - Heusden-Zolder - 300m haies  |             | 38.66 (==Record de Belgique==) |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 400m Haies | Finale      | 53.87 (Demi-Finale) (PB)       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
