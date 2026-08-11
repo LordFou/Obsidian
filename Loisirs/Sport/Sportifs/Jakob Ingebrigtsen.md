@@ -3,7 +3,7 @@ type: personne
 ---
 
 
-# Jakob Ingebritsen
+# Jakob Ingebrigtsen
 
 # Informations Générales  
 - **Date de naissance** :  
@@ -17,6 +17,8 @@ type: personne
 
 | Année | Compétition                                    | Résultat | Remarque |
 | ----- | ---------------------------------------------- | -------- | -------- |
+| 2022  | [[Championnats d'Europe d'athlétisme]] - 5000m | 1ier     |          |
+| 2024  | [[Championnats d'Europe d'athlétisme]] - 5000m | 1ier     |          |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - 5000m | 1ier     |          |
 |       |                                                |          |          |
 

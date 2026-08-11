@@ -10,7 +10,7 @@ type: event
 
 | Année | Vainqueur             | Epreuve         | Nationalité | Remarque |
 | ----- | --------------------- | --------------- | ----------- | -------- |
-| 2026  | [[Jakob Ingebritsen]] | 5000m           | Norvégien   |          |
+| 2026  | [[Jakob Ingebrigtsen]] | 5000m           | Norvégien   |          |
 | 2026  | [[Leonardo Fabbri]]   | Lancer du poids | Italien     |          |
 # Femmes
 
