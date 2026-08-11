@@ -14,6 +14,7 @@ type: event
 | 5000m             | [[Jakob Ingebrigtsen]] | Norvégien   |          |
 | Lancer du poids   | [[Leonardo Fabbri]]    | Italien     |          |
 | Lancer du Marteau | [[Bence Halasz]]       | Hongrois    |          |
+| 100m              | [[Romell Glave]]       | Britannique | 10.09    |
 ## Femmes
 
 | Epreuve       | Vainqueur             | Nationalité  | Remarque |
