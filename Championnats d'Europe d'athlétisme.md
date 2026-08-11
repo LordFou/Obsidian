@@ -16,11 +16,12 @@ type: event
 | Lancer du Marteau | [[Bence Halasz]]       | Hongrois    |          |
 ## Femmes
 
-| Epreuve       | Vainqueur             | Nationalité | Remarque |
-| ------------- | --------------------- | ----------- | -------- |
-| 3000m Steeple |                       |             |          |
-| 100m          | [[Emmy Hunt]]         | Britannique |          |
-| 5000m         | [[Nadia Battocletti]] |             |          |
+| Epreuve       | Vainqueur             | Nationalité  | Remarque |
+| ------------- | --------------------- | ------------ | -------- |
+| 3000m Steeple |                       |              |          |
+| 100m          | [[Emmy Hunt]]         | Britannique  |          |
+| 5000m         | [[Nadia Battocletti]] |              |          |
+| 100m Haies    | [[Nadine Visser]]     | Néerlandaise |          |
 ## Mixte
 
 | Année | Vainqueur | Epreuve | Remarque |
