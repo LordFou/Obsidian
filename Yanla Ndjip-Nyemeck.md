@@ -13,11 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                                        | Résultat    | Remarque                             |
-| ----- | ---------------------------------------------------------------------------------- | ----------- | ------------------------------------ |
-| 2025  | [[Championnats du monde d'athlétisme\| Champ. Monde]] - 100m Haies                 | Demi-finale | 12.74 (Série)<br>13.05 (Demi)        |
-| 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - 60m Haies | Demi-finale | 7.93 (Série)<br>                     |
-| 2026  | [[Championnats d'Europe d'athlétisme\|Champ. Europe]] - 100m Haies                 | Finale      | 12.87 (Série)<br>12.83 (Demi-finale) |
+| Année | Compétition                                                                        | Résultat                   | Remarque                             |
+| ----- | ---------------------------------------------------------------------------------- | -------------------------- | ------------------------------------ |
+| 2025  | [[Championnats du monde d'athlétisme\| Champ. Monde]] - 100m Haies                 | Demi-finale                | 12.74 (Série)<br>13.05 (Demi)        |
+| 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - 60m Haies | Demi-finale                | 7.93 (Série)<br>                     |
+| 2026  | [[Championnats d'Europe d'athlétisme\|Champ. Europe]] - 100m Haies                 | 6e (Demi-finale)<br>Finale | 12.87 (Série)<br>12.83 (Demi-finale) |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

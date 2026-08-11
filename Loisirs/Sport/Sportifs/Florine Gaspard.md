@@ -28,6 +28,7 @@ type: personne
 | 2026  | Flanders Swimming Cup - 50m Brasse                                       | 1ière                            | 30.44 (Série)                               | Record de Belgique                       |
 | 2026  | Championnat de Belgique - Grand bain - 50m Brasse                        | 1ière                            | 30.37 (Série)<br>30.26 (Finale)             | Record de Belgique<br>Record de Belgique |
 | 2026  | Championnat d'Europe de Natation - 100m Nl                               | 15e (Série)<br>16z (Demi-finale) | Série (54.54)<br>Demi-finale (54.73)        |                                          |
+| 2026  | Championnat d'Europe de Natation - 100m Br                               | 13e (Série)<br>16z (Demi-finale) | Série (1.07.49)<br>Demi-finale (54.73)      |                                          |
 
 
 # Style et Caractéristiques

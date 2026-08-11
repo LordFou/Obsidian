@@ -34,6 +34,7 @@ type: personne
 | 2025  | Euro - Petit bain - 200m Br                                                   | 8e (Finale)                     |                                                        |                                    |
 | 2025  | Euro - Petit bain - 100m Pap                                                  | 5e (Finale)                     |                                                        |                                    |
 | 2026  | Championnat d'Europe de Natation - 100m Nl                                    | 16e (Série)<br>9e (Demi-finale) | Série (53.70)<br>Demi-finale (53.70)                   |                                    |
+| 2026  | Championnat d'Europe de Natation - 50m Pap                                    | 2e (Série)<br> (Demi-finale)    | Série (25.57)<br>Demi-finale ()                        |                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
