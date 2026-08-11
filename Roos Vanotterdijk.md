@@ -15,6 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                                   | Résultat                        | Remarque                                               |                                    |
 | ----- | ----------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------ | ---------------------------------- |
+| 2024  | Championnat d'Europe de Natation - 50m Pap                                    | 3e                              |                                                        |                                    |
 | 2025  | [[Championnat d'Europe de Natation U23\|Championnat d'Europe U23]] - 100m Pap | 1iere                           | 57.10                                                  |                                    |
 | 2025  | [[Championnat d'Europe de Natation U23\|Championnat d'Europe U23]] - 50m Dos  | 1iere                           | 28.05                                                  |                                    |
 | 2025  | [[Championnat d'Europe de Natation U23\|Championnat d'Europe U23]] - 100m Dos | 2e                              | 1:00.27                                                |                                    |
@@ -34,7 +35,7 @@ type: personne
 | 2025  | Euro - Petit bain - 200m Br                                                   | 8e (Finale)                     |                                                        |                                    |
 | 2025  | Euro - Petit bain - 100m Pap                                                  | 5e (Finale)                     |                                                        |                                    |
 | 2026  | Championnat d'Europe de Natation - 100m Nl                                    | 16e (Série)<br>9e (Demi-finale) | Série (53.70)<br>Demi-finale (53.70)                   |                                    |
-| 2026  | Championnat d'Europe de Natation - 50m Pap                                    | 2e (Série)<br> (Demi-finale)    | Série (25.57)<br>Demi-finale ()                        |                                    |
+| 2026  | Championnat d'Europe de Natation - 50m Pap                                    | 2e (Série)<br>3e (Demi-finale)  | Série (25.57)<br>Demi-finale (25.45)                   |                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -60,4 +61,7 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 - [Lien vers une source](#)
 - [Article détaillé](#)
 
-![[Pasted image 20250804001009.jpg]]
+![[Pasted image 20250804001009.jpg]] 
+
+![[image-760.webp|500x281]]
+
