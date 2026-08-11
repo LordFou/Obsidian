@@ -6,18 +6,20 @@ type: personne
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
-- **Poste / Spécialité** (si applicable) :  
+- **Nationalité** :  Belge
+- **Sport / Discipline** : [[Athlétisme]] 
+- **Poste / Spécialité** (si applicable) : 1500m, 5000m, 10000m 
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                               | Résultat | Remarque           |
-| ----- | ------------------------------------------------------------------------- | -------- | ------------------ |
-| 2025  | [[Meeting de Liège]] - 5000m                                              | 4e       | Record de Belgique |
-| 2025  | [[Championnat de Belgique d'Athlétisme\|Championnat de Belgique]] - 5000m | 1e       |                    |
-| 2025  | [[Championnats du monde d'athlétisme]] - 10km                             | 19e      |                    |
+| Année | Compétition                                                          | Résultat | Remarque           |
+| ----- | -------------------------------------------------------------------- | -------- | ------------------ |
+| 2025  | [[Meeting de Liège]] - 5000m                                         | 4e       | Record de Belgique |
+| 2025  | [[Championnat de Belgique d'Athlétisme\|Champ. de Belgique]] - 5000m | 1e       |                    |
+| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 10km          | 19e      |                    |
+| 2026  | [[Championnats d'Europe d'athlétisme\|Champ. Europe]] - 5000m        | 21e      |                    |
+|       |                                                                      |          |                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
