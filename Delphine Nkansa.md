@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-756.webp|500x281]]
+![[image-759.webp|500x281]] 
 # Delphine Nkansa
 
 # Informations Générales
@@ -37,3 +37,5 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 # Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
+
+![[image-756.webp|500x281]]
