@@ -15,10 +15,10 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                                         | Résultat    | Remarque            |
-| ----- | --------------------------------------------------- | ----------- | ------------------- |
-| 2026  | [[Championnats d'Europe d'athlétisme]] - 110m Haies | Demi-finale | Demi-finale (13.46) |
-|       |                                                     |             |                     |
+| Année | Compétition                                         | Résultat    | Remarque                |
+| ----- | --------------------------------------------------- | ----------- | ----------------------- |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 110m Haies | Demi-finale | Demi-finale (13.41)(PB) |
+|       |                                                     |             |                         |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
