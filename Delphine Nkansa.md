@@ -20,7 +20,7 @@ type: personne
 | 2026  | [[Championnat de Belgique d'Athlétisme]] - 100m | 1ière    |                                                                  |
 | 2026  | [[Championnat de Belgique d'Athlétisme]] - 200m | 1ière    | 23.58                                                            |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - 100m   | 3e 🥉    | 11.07 (Série) (PB)<br>11.09 (Demi-finale)<br>11.06 (Finale) (PB) |
-|       |                                                 |          |                                                                  |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 200m   | Série    | Trop d'émotions après sa médaille                                |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
