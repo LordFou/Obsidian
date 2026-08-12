@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-211.webp]]
+![[image-211.webp]] 
 # Roos Vanotterdijk
 
 # Informations Générales
