@@ -25,6 +25,7 @@ type: event
 | 5000m             | [[Nadia Battocletti]] | Italienne    |          |
 | 100m Haies        | [[Nadine Visser]]     | Néerlandaise |          |
 | Lancer du Marteau | [[Silja Kosonen]]     | Finlandaise  |          |
+| 400m Haies        | [[Emma Zapletalova]]  | Slovaque     |          |
 ## Mixte
 
 | Année | Vainqueur | Epreuve | Remarque |
