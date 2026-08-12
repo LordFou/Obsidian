@@ -9,21 +9,22 @@ type: event
 # 2026
 ## Hommes
 
-| Epreuve           | Vainqueur              | Nationalité | Remarque |
-| ----------------- | ---------------------- | ----------- | -------- |
-| 5000m             | [[Jakob Ingebrigtsen]] | Norvégien   |          |
-| Lancer du poids   | [[Leonardo Fabbri]]    | Italien     |          |
-| Lancer du Marteau | [[Bence Halasz]]       | Hongrois    |          |
-| 100m              | [[Romell Glave]]       | Britannique | 10.09    |
-| 400m              | Matthew Hutton Smith   |             |          |
+| Epreuve           | Vainqueur                | Nationalité | Remarque |
+| ----------------- | ------------------------ | ----------- | -------- |
+| 5000m             | [[Jakob Ingebrigtsen]]   | Norvégien   |          |
+| Lancer du poids   | [[Leonardo Fabbri]]      | Italien     |          |
+| Lancer du Marteau | [[Bence Halasz]]         | Hongrois    |          |
+| 100m              | [[Romell Glave]]         | Britannique | 10.09    |
+| 400m              | [[Matthew Hutton Smith]] | Britannique |          |
 ## Femmes
 
-| Epreuve       | Vainqueur             | Nationalité  | Remarque |
-| ------------- | --------------------- | ------------ | -------- |
-| 3000m Steeple |                       |              |          |
-| 100m          | [[Emmy Hunt]]         | Britannique  |          |
-| 5000m         | [[Nadia Battocletti]] |              |          |
-| 100m Haies    | [[Nadine Visser]]     | Néerlandaise |          |
+| Epreuve           | Vainqueur             | Nationalité  | Remarque |
+| ----------------- | --------------------- | ------------ | -------- |
+| 3000m Steeple     |                       |              |          |
+| 100m              | [[Emmy Hunt]]         | Britannique  |          |
+| 5000m             | [[Nadia Battocletti]] | Italienne    |          |
+| 100m Haies        | [[Nadine Visser]]     | Néerlandaise |          |
+| Lancer du Marteau | [[Silja Kosonen]]     | Finlandaise  |          |
 ## Mixte
 
 | Année | Vainqueur | Epreuve | Remarque |
