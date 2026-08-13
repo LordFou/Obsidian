@@ -33,7 +33,7 @@ type: event
 | 5000m             | [[Nadia Battocletti]]     | Italienne    |          |
 | Lancer du Marteau | [[Silja Kosonen]]         | Finlandaise  |          |
 | Triple Saut       | [[Dariya Derkach]]        | Italienne    |          |
-| Saut à la perche  |                           |              |          |
+| Saut à la perche  | [[Angelica Moser]]        | Suisse       |          |
 ## Mixte
 
 | Année | Vainqueur | Epreuve | Remarque |
