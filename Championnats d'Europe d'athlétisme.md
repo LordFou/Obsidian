@@ -16,7 +16,7 @@ type: event
 | Lancer du Marteau | [[Bence Halasz]]         | Hongrois    |          |
 | 100m              | [[Romell Glave]]         | Britannique | 10.09    |
 | 400m              | [[Matthew Hutton Smith]] | Britannique |          |
-|                   |                          |             |          |
+| Décathlon         | Negenbeuer               |             |          |
 ## Femmes
 
 | Epreuve           | Vainqueur                 | Nationalité  | Remarque |
