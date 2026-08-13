@@ -13,25 +13,27 @@ type: event
 
 | Epreuve           | Vainqueur                | Nationalité | Remarque |
 | ----------------- | ------------------------ | ----------- | -------- |
+| 100m              | [[Romell Glave]]         | Britannique | 10.09    |
+| 400m              | [[Matthew Hutton Smith]] | Britannique |          |
+| 800m              | [[Mark English]]         | Irlandais   |          |
 | 5000m             | [[Jakob Ingebrigtsen]]   | Norvégien   |          |
 | Lancer du poids   | [[Leonardo Fabbri]]      | Italien     |          |
 | Lancer du Marteau | [[Bence Halasz]]         | Hongrois    |          |
-| 100m              | [[Romell Glave]]         | Britannique | 10.09    |
-| 400m              | [[Matthew Hutton Smith]] | Britannique |          |
+| Lancer du disque  | [[Kristjan Ceh]]         | Slovène     | 72m51    |
 | Décathlon         | [[Leo Neugebauer]]       | Allemand    | 8611 pts |
-| 800m              | [[Mark English]]         | Irlandais   |          |
-| Lancer du disque  | [[Kristjan Ceh]]        | Slovène     | 72m51    |
 ## Femmes
 
 | Epreuve           | Vainqueur                 | Nationalité  | Remarque |
 | ----------------- | ------------------------- | ------------ | -------- |
-| 3000m Steeple     | [[Gesa Felicitas Krause]] | Allemande    |          |
-| 100m              | [[Emmy Hunt]]             | Britannique  |          |
-| 5000m             | [[Nadia Battocletti]]     | Italienne    |          |
+| 100m              | [[Amy Hunt]]              | Britannique  |          |
+| 200m              | [[Amy Hunt]]              | Britannique  |          |
 | 100m Haies        | [[Nadine Visser]]         | Néerlandaise |          |
-| Lancer du Marteau | [[Silja Kosonen]]         | Finlandaise  |          |
 | 400m Haies        | [[Emma Zapletalova]]      | Slovaque     |          |
+| 3000m Steeple     | [[Gesa Felicitas Krause]] | Allemande    |          |
+| 5000m             | [[Nadia Battocletti]]     | Italienne    |          |
+| Lancer du Marteau | [[Silja Kosonen]]         | Finlandaise  |          |
 | Triple Saut       | [[Dariya Derkach]]        | Italienne    |          |
+| Saut à la perche  |                           |              |          |
 ## Mixte
 
 | Année | Vainqueur | Epreuve | Remarque |

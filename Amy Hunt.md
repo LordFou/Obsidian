@@ -3,7 +3,7 @@ type: personne
 ---
 
 
-# Emmy Hunt
+# Amy Hunt
 
 # Informations Générales  
 - **Date de naissance** :  
@@ -18,7 +18,7 @@ type: personne
 | Année | Compétition                                   | Résultat | Remarque |
 | ----- | --------------------------------------------- | -------- | -------- |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - 100m | 1ière    |          |
-|       |                                               |          |          |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 200m | 1ière    | 22.19    |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
