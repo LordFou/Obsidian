@@ -23,7 +23,7 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants  
-Lister lebattus, les moments légendaires ou les anecdotes notables.
+- Meilleure Performance Belge en [[Championnats d'Europe d'athlétisme]] avec une médaille d'argent en 2026
 
 # Controverses ou Événements Importants  
 Évoquer les polémiques ou moments clés de sa carrière.
