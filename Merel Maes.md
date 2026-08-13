@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-765.webp|243x329]]
 # Merel Maes
 
 # Informations Générales
@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                              | Résultat | Remarque |
-| ----- | -------------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - Saut en hauteur | 10e      |          |
+| Année | Compétition                                              | Résultat | Remarque      |
+| ----- | -------------------------------------------------------- | -------- | ------------- |
+| 2025  | [[Championnats du monde d'athlétisme]] - Saut en hauteur | 10e      |               |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - Saut en hauteur | Finale   | 1m91 (Qualif) |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
