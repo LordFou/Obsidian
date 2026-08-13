@@ -17,8 +17,6 @@ type: personne
 
 | Année | Compétition                                            | Résultat | Remarque |
 | ----- | ------------------------------------------------------ | -------- | -------- |
-| 2022  | [[Championnats d'Europe d'athlétisme]] - 3000m Steeple | 1ière    |          |
-| 2024  | [[Championnats d'Europe d'athlétisme]] - 3000m Steeple | 1ière    |          |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - 3000m Steeple | 1ière    |          |
 |       |                                                        |          |          |
 
