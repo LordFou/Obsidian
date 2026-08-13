@@ -36,7 +36,7 @@ type: personne
 | 2025  | Euro - Petit bain - 100m Pap                                                  | 5e (Finale)                                      |                                                        |                                    |
 | 2026  | Championnat d'Europe de Natation - 100m Nl                                    | 16e (Série)<br>9e (Demi-finale)                  | Série (53.70)<br>Demi-finale (53.70)                   |                                    |
 | 2026  | Championnat d'Europe de Natation - 50m Pap                                    | 2e (Série)<br>3e (Demi-finale)<br>2e (Finale) 🥈 | Série (25.57)<br>Demi-finale (25.45)<br>Finale (25.12) | Record de Belgique                 |
-| 2026  | Championnat d'Europe de Natation - 100m Pap                                   | 1e (Série)<br> (Demi-finale)<br> (Finale)        | Série (56.76)<br>Demi-finale ()<br>Finale ()           |                                    |
+| 2026  | Championnat d'Europe de Natation - 100m Pap                                   | 1e (Série)<br>1e (Demi-finale)<br> (Finale)      | Série (56.76)<br>Demi-finale (55.89) (CR)<br>Finale () |                                    |
 | 2026  | Championnat d'Europe de Natation - 50m Dos                                    | 10e (Demi-finale)<br>                            |                                                        |                                    |
 
 # Style et Caractéristiques
@@ -48,10 +48,12 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 	- 50m dos (27.67)
 	- 100m dos (58.97)
 	- 50m papillon (25.12)
-	- 100m papillon (56.07) - Grand bain
+	- 100m papillon (55.89) - Grand bain
 	- 100m papillon (55.64) - Petit bain
 	- 200m 4n (2:09.73)
 	- 100m 4n (56.80) - Petit bain
+- Record des Championnats d’Europe
+	- 100m papillon (55.89)
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

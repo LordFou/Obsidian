@@ -1,23 +1,24 @@
 ---
 type: personne
 ---
-![[image-758.webp|241x257]]
-# Saliyya Guisse
+
+
+# Dariya Derkach
 
 # Informations Générales  
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Athlétisme]]
-- **Poste / Spécialité** (si applicable) :  [[Triple Saut]]
+- **Nationalité** :  
+- **Sport / Discipline** :  
+- **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                            | Résultat                               | Remarque            |
-| ----- | -------------------------------------- | -------------------------------------- | ------------------- |
-| 2026  | [[Championnats d'Europe d'athlétisme]] | 10e (Qualifications)<br>2e (Finale) 🥈 | 14m07<br>14m46 (PB) |
-|       |                                        |                                        |                     |
+| Année | Compétition                                          | Résultat | Remarque |
+| ----- | ---------------------------------------------------- | -------- | -------- |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - Triple Saut | 1ière    |          |
+|       |                                                      |          |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

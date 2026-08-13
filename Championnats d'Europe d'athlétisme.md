@@ -7,6 +7,8 @@ type: event
 # Introduction
 
 # 2026
+
+![[image-768.webp|478x500]]
 ## Hommes
 
 | Epreuve           | Vainqueur                | Nationalité | Remarque |
@@ -16,7 +18,8 @@ type: event
 | Lancer du Marteau | [[Bence Halasz]]         | Hongrois    |          |
 | 100m              | [[Romell Glave]]         | Britannique | 10.09    |
 | 400m              | [[Matthew Hutton Smith]] | Britannique |          |
-| Décathlon         | Negenbeuer               |             |          |
+| Décathlon         | [[Leo Neugebauer]]       | Allemand    | 8611 pts |
+| 800m              | [[Mark English]]         | Irlandais   |          |
 ## Femmes
 
 | Epreuve           | Vainqueur                 | Nationalité  | Remarque |
@@ -27,6 +30,7 @@ type: event
 | 100m Haies        | [[Nadine Visser]]         | Néerlandaise |          |
 | Lancer du Marteau | [[Silja Kosonen]]         | Finlandaise  |          |
 | 400m Haies        | [[Emma Zapletalova]]      | Slovaque     |          |
+| Triple Saut       | [[Dariya Derkach]]        | Italienne    |          |
 ## Mixte
 
 | Année | Vainqueur | Epreuve | Remarque |
