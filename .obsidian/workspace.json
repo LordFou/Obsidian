@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a1a76692f5c8f864",
+        "id": "7e292b914bd5ecf1",
         "type": "tabs",
         "children": [
           {
-            "id": "e6f162e8fc5b458a",
+            "id": "e5ce20a2f817097e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Championnats d'Europe d'athlétisme.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Championnats d'Europe d'athlétisme"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -210,10 +206,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e6f162e8fc5b458a",
+  "active": "e5ce20a2f817097e",
   "lastOpenFiles": [
-    "Emma Zapletalova.md",
+    "Journal de bord/2026-08-13.md",
     "Championnats d'Europe d'athlétisme.md",
+    "Emma Zapletalova.md",
     "Loisirs/Sport/Sportifs/Paulien Couckuyt.md",
     "Silja Kosonen.md",
     "Matthew Hutton Smith.md",
@@ -239,7 +236,6 @@
     "Emiel Botterman.md",
     "Loisirs/Sport/Sportifs/Emiel Botterman.md",
     "Loisirs/Sport/Sportifs/Mariska Parewyck.md",
-    "Camille Laus.md",
     "Attachments/image-759.webp",
     "Attachments/image-758.webp",
     "Attachments/image-757.webp",
