@@ -13,12 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                  | Résultat           | Remarque    |
-| ----- | ------------------------------------------------------------ | ------------------ | ----------- |
-| 2025  | World Athletics Continental Tour de Turku - Saut à la perche | Record de Belgique | 4m67        |
-| 2025  | Concours de Jockgrim en Allemagne - Saut à la perche         | Record de Belgique | 4m73        |
-| 2025  | [[Championnats du monde d'athlétisme]] - Saut à la perche    | Eliminé en qualif  | 4m45        |
-| 2026  | [[Championnats d'Europe d'athlétisme]] - Saut à la perche    | Finale             | Demi-finale |
+| Année | Compétition                                                  | Résultat           | Remarque |
+| ----- | ------------------------------------------------------------ | ------------------ | -------- |
+| 2025  | World Athletics Continental Tour de Turku - Saut à la perche | Record de Belgique | 4m67     |
+| 2025  | Concours de Jockgrim en Allemagne - Saut à la perche         | Record de Belgique | 4m73     |
+| 2025  | [[Championnats du monde d'athlétisme]] - Saut à la perche    | Eliminé en qualif  | 4m45     |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - Saut à la perche    | Finale             | 4m60     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

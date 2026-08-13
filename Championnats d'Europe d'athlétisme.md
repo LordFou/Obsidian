@@ -8,7 +8,7 @@ type: event
 
 # 2026
 
-![[image-768.webp|478x500]]
+![[image-769.webp|222x222]]
 ## Hommes
 
 | Epreuve           | Vainqueur                | Nationalité | Remarque |
@@ -20,6 +20,7 @@ type: event
 | 400m              | [[Matthew Hutton Smith]] | Britannique |          |
 | Décathlon         | [[Leo Neugebauer]]       | Allemand    | 8611 pts |
 | 800m              | [[Mark English]]         | Irlandais   |          |
+| Lancer du disque  | [[Kristjan Ceh]]        | Slovène     | 72m51    |
 ## Femmes
 
 | Epreuve           | Vainqueur                 | Nationalité  | Remarque |
@@ -41,6 +42,13 @@ type: event
 # Par épreuves
 
 ## Hommes
+
+### Lancer du disque
+
+| Année | Vainqueur         | Nationalité | Remarque |
+| ----- | ----------------- | ----------- | -------- |
+| 2024  | [[Kristjan Ceh]] | Slovène     |          |
+| 2026  | [[Kristjan Ceh]] | Slovène     | 72m51    |
 ### 5000m
 
 | Année | Vainqueur              | Nationalité | Remarque |

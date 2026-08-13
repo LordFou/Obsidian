@@ -1,23 +1,25 @@
 ---
 type: personne
 ---
-![[image-770.webp|272x341]]
-# Saliyya Guisse
+
+
+# Kristjan Ceh
 
 # Informations Générales  
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Athlétisme]]
-- **Poste / Spécialité** (si applicable) :  [[Triple Saut]]
+- **Nationalité** :  
+- **Sport / Discipline** :  
+- **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                            | Résultat                               | Remarque            |
-| ----- | -------------------------------------- | -------------------------------------- | ------------------- |
-| 2026  | [[Championnats d'Europe d'athlétisme]] | 10e (Qualifications)<br>2e (Finale) 🥈 | 14m07<br>14m46 (PB) |
-|       |                                        |                                        |                     |
+| Année | Compétition                                               | Résultat | Remarque |
+| ----- | --------------------------------------------------------- | -------- | -------- |
+| 2024  | [[Championnats d'Europe d'athlétisme]] - Lancer du disque | 1ier     |          |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - Lancer du disque | 1ier     | 72.51m   |
+|       |                                                           |          |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
