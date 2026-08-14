@@ -11,10 +11,14 @@
             "id": "df4311d709b31250",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Journal de bord/2026-08-14.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "2026-08-14"
             }
           }
         ]
@@ -204,6 +208,7 @@
   },
   "active": "df4311d709b31250",
   "lastOpenFiles": [
+    "Journal de bord/2026-08-14.md",
     "Loisirs/Sport/Tour de France.md",
     "Lotte Claes.md",
     "Marlen Reusser.md",
@@ -230,7 +235,6 @@
     "Nirmal Purja.md",
     "Neos Corporation.md",
     "Metaphor Games.md",
-    "Marumittu Games.md",
     "Attachments/image-754.webp",
     "Attachments/image-753.webp",
     "Attachments/image-752.webp",
