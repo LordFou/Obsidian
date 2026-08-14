@@ -13,29 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raphaël Collignon.md",
+                "file": "Loisirs/Sport/Sportifs/Pieter Sisk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raphaël Collignon"
+              "title": "Pieter Sisk"
             }
           },
           {
             "id": "cb8dc447fcd41957",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Ruben Verheyden.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Ruben Verheyden"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Raph",
+                "query": "Ruben",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -221,8 +222,14 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "c3ca6f51d7a82250",
+  "active": "cb8dc447fcd41957",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Pieter Sisk.md",
+    "Ruben Verheyden.md",
+    "JO 2024.md",
+    "Loisirs/Sport/Sportifs/Nafi Thiam.md",
+    "JO 2016.md",
+    "Raphaël Collignon.md",
     "Elien Vekemans.md",
     "Loisirs/Sport/Sportifs/Saliyya Guisse.md",
     "Attachments/image-771.webp",
@@ -244,12 +251,6 @@
     "Matthew Hutton Smith.md",
     "Matteo Vanhuffel.md",
     "Mark English.md",
-    "Loisirs/Sport/Sportifs/Zeno Van Neygen.md",
-    "Loisirs/Sport/Sportifs/Yanni Sampson.md",
-    "Loisirs/Sport/Sportifs/Simon Laviolette.md",
-    "Loisirs/Sport/Sportifs/Rémi Schyns.md",
-    "Leonardo Fabbri.md",
-    "Kristjan Ceh.md",
     "Attachments/image-770.webp",
     "Attachments/image-769.webp",
     "Attachments/image-768.webp",
