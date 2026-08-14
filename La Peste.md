@@ -10,7 +10,7 @@ Dans l'histoire on dit parfois "Peste de" mais ce n'en est pas
 
 Peste Bubonique (bubons = ganglions gonflé et noir) => mort noire (donnée par les rats)<> Peste Pulmonaire (donnée d'homme en homme) très contagieux.
 
-# Peste Moyen-âge (fin)
+# Peste Moyen-âge (fin) 
 
 - Origine : Asie
 - Première guerre bactériologique : devant leur défaite du siège de Gênes, les tatares se vengent en catapultant des cadavres infectés de la peste dans la ville. (en discussion historique, à priori ce ne serait pas la seule origine)
@@ -42,3 +42,6 @@ Peste Bubonique (bubons = ganglions gonflé et noir) => mort noire (donnée par 
 		- Code vestimentaire
 		- Jeu de hasard
 		- Débit de boisson
+- On pense que c'est une punition divine
+	- Recherche de bouc émissaire
+	- Tentative de se racheter.
