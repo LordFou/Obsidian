@@ -3,24 +3,22 @@ type: personne
 ---
 
 
-# Nadia Battocletti
+# Gianmarco Tamberi
 
 # Informations Générales  
 - **Date de naissance** :  
-- **Nationalité** :  Italienne
-- **Sport / Discipline** :  [[Athlétisme]]
-- **Poste / Spécialité** (si applicable) : 5000m, 10000m 
+- **Nationalité** :  
+- **Sport / Discipline** :  
+- **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                                      | Résultat | Remarque |
-| ----- | ------------------------------------------------ | -------- | -------- |
-| 2024  | [[Championnats d'Europe d'athlétisme]] - 5000m   | 1ière    |          |
-| 2024  | [[Championnats d'Europe d'athlétisme]] - 10 000m | 1ière    |          |
-| 2026  | [[Championnats d'Europe d'athlétisme]] - 5000m   | 1ière    |          |
-| 2026  | [[Championnats d'Europe d'athlétisme]] - 10 000m | 1ière    |          |
+| Année | Compétition                                              | Résultat | Remarque |
+| ----- | -------------------------------------------------------- | -------- | -------- |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - Saut en hauteur | 1ier     |          |
+|       |                                                          |          |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

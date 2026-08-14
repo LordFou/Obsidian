@@ -21,6 +21,7 @@ type: event
 | Lancer du Marteau | [[Bence Halasz]]         | Hongrois    |          |
 | Lancer du disque  | [[Kristjan Ceh]]         | Slovène     | 72m51    |
 | Décathlon         | [[Leo Neugebauer]]       | Allemand    | 8611 pts |
+| Saut en hauteur   | [[Gianmarco Tamberi]]    | Italien     |          |
 ## Femmes
 
 | Epreuve           | Vainqueur                 | Nationalité  | Remarque |
@@ -31,6 +32,7 @@ type: event
 | 400m Haies        | [[Emma Zapletalova]]      | Slovaque     |          |
 | 3000m Steeple     | [[Gesa Felicitas Krause]] | Allemande    |          |
 | 5000m             | [[Nadia Battocletti]]     | Italienne    |          |
+| 10000m            | [[Nadia Battocletti]]     | Italienne    |          |
 | Lancer du Marteau | [[Silja Kosonen]]         | Finlandaise  |          |
 | Triple Saut       | [[Dariya Derkach]]        | Italienne    |          |
 | Saut à la perche  | [[Angelica Moser]]        | Suisse       |          |
@@ -71,3 +73,4 @@ type: event
 | Année | Vainqueur             | Nationalité | Remarque |
 | ----- | --------------------- | ----------- | -------- |
 | 2024  | [[Nadia Battocletti]] | Italienne   |          |
+| 2026  | [[Nadia Battocletti]] | Italienne   |          |
