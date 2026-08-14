@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "216c45379026ea03",
+        "id": "88814f8f8ae2562f",
         "type": "tabs",
         "children": [
           {
-            "id": "7757bfb698db8db5",
+            "id": "3ec014ca1608671e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -51,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tomberi",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,8 +210,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7757bfb698db8db5",
+  "active": "720770048378678f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Loisirs/Sport/Sportifs/Noor Vidts.md",
+    "La Peste.md",
+    "Camille Lambert.md",
+    "Attachments/image-773.webp",
+    "Attachments/image-772.webp",
+    "Attachments/image-771.webp",
     "Championnats d'Europe d'athlétisme.md",
     "Thomas Carmoy.md",
     "Journal de bord/2026-08-14.md",
@@ -233,17 +244,10 @@
     "Merel Maes.md",
     "Attachments/image-765.webp",
     "Attachments/image-764.webp",
-    "Attachments/image-763.webp",
     "Loisirs/Sport/Antoine Snyders.md",
-    "Attachments/image-762.webp",
     "Gesa Felicitas Krause.md",
     "Journal de bord/2026-08-13.md",
     "Emma Zapletalova.md",
-    "Loisirs/Sport/Sportifs/Paulien Couckuyt.md",
-    "Silja Kosonen.md",
-    "Matthew Hutton Smith.md",
-    "Daniel Segers.md",
-    "Attachments/image-761.webp",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
     "Famille/Vacances",

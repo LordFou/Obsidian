@@ -53,4 +53,9 @@ date: Aout 2026
 title: Légende de l'alpinisme mondial, [[Nirmal Purja]] a été retrouvé mort
 content: En pleine ascension du **Broad Peak**, situé dans le Nord du Pakistan, le groupe avait été emporté par une avalanche.
 ![[image-743.webp|500x281]]
+
+date: Aout 2026
+title: Décès de [[Prichard Colón]]
+content: Le boxeur [[Prichard Colón]], dans le coma pendant 221 jours après plusieurs coups à la nuque, est décédé à 33 ans
+![[image-773.webp|500x281]]
 ```

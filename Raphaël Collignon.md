@@ -45,6 +45,7 @@ type: personne
 | 2026  | [[Wimbledon]]                      | 1ier tour                  | Défaite contre [[Arthur Fils]] (ATP 24)                                                                                                                                                                                                                          |
 | 2026  | [[Tournoi de Gstaad]]              | Finaliste                  | Victoire en 1/8 contre [[Lorenzo Sonego]] (ATP 83)<br>Victoire en 1/4 contre [[Valentin Vacherot]] (ATP 21)<br>Victoire en 1/2 contre [[Juan Manuel Cerundolo]] (ATP 45)<br>Défaire en finale contre [[Stefano Tsitsipas]] (ATP 85) ire en finale contre Stefano |
 | 2026  | [[Tournoi de Montréal]]            | 2e tour                    | Défaite contre [[Alexei Popyrin]] (ATP 139)                                                                                                                                                                                                                      |
+| 2026  | [[Tournoi de Cincinnati]]          | 1e tour                    | Défaite contre [[Mariano Navone]] (ATP 44)                                                                                                                                                                                                                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -29,6 +29,7 @@ type: personne
 | 2026  | Championnat de Belgique - Grand bain - 50m Brasse                        | 1ière                            | 30.37 (Série)<br>30.26 (Finale)             | Record de Belgique<br>Record de Belgique |
 | 2026  | Championnat d'Europe de Natation - 100m Nl                               | 15e (Série)<br>16z (Demi-finale) | Série (54.54)<br>Demi-finale (54.73)        |                                          |
 | 2026  | Championnat d'Europe de Natation - 100m Br                               | 13e (Série)<br> (Demi-finale)    | Série (1.07.49)<br>Demi-finale ()           |                                          |
+| 2026  | Championnat d'Europe de Natation - 50m Nl                                | 15e (Série)                      | 25.00 (Série)                               |                                          |
 
 
 # Style et Caractéristiques
@@ -42,6 +43,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 	- Grand Bain
 		- 50m Br - 30.44
 		- 100m Br - 1.06.89
+		- 50m Nl - 24.42
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

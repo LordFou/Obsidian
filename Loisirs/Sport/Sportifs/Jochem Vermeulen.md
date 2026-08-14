@@ -15,8 +15,10 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                                 | Résultat         | Remarque |
 | ----- | --------------------------------------------------------------------------- | ---------------- | -------- |
+| 2024  | [[Championnats d'Europe d'athlétisme]] - 1500m                              | 2e 🥈            |          |
 | 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 1500m                | Eliminé en série |          |
 | 2026  | [[Championnats du Monde d'athlétisme en salle\|Champ. Monde Salle]] - 1500m | Eliminé en série | 3:44.55  |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 1500m                              | Eliminé en série |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
