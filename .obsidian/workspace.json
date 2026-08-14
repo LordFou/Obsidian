@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2026-08-14"
             }
+          },
+          {
+            "id": "c3ca6f51d7a82250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La Peste.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La Peste"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,8 +221,9 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "df4311d709b31250",
+  "active": "c3ca6f51d7a82250",
   "lastOpenFiles": [
+    "La Peste.md",
     "Journal de bord/2026-08-14.md",
     "Loisirs/Sport/Tour de France.md",
     "Lotte Claes.md",
@@ -234,7 +250,6 @@
     "OhNoo Studio.md",
     "Nirmal Purja.md",
     "Neos Corporation.md",
-    "Metaphor Games.md",
     "Attachments/image-754.webp",
     "Attachments/image-753.webp",
     "Attachments/image-752.webp",
