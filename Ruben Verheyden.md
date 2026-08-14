@@ -17,7 +17,7 @@ type: personne
 | ----- | ---------------------------------------------- | ------------------ | -------- |
 | 2025  | Ligue de Diamant de Paris - 1500m              | Record de Belgique | 3:30.99  |
 | 2025  | [[Championnats du monde d'athlétisme]] - 1500m | Demi-finale        | 3:36.31  |
-| 2026  | [[Championnats d'Europe d'athlétisme]] - 1500m | Demi-finale        |          |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 1500m | 9e (Demi-finale)   | 3.38.19  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

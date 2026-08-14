@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Pieter Sisk.md",
+                "file": "Les décès de sportifs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pieter Sisk"
+              "title": "Les décès de sportifs"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Ruben Verheyden"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ruben",
+                "query": "Décès dans",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -222,8 +221,11 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "cb8dc447fcd41957",
+  "active": "c3ca6f51d7a82250",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Lucas Coenen.md",
+    "Loisirs/Sport/Sportifs/Noor Vidts.md",
+    "Attachments/image-772.webp",
     "Loisirs/Sport/Sportifs/Pieter Sisk.md",
     "Ruben Verheyden.md",
     "JO 2024.md",
@@ -249,8 +251,6 @@
     "Nadine Visser.md",
     "Nadia Battocletti.md",
     "Matthew Hutton Smith.md",
-    "Matteo Vanhuffel.md",
-    "Mark English.md",
     "Attachments/image-770.webp",
     "Attachments/image-769.webp",
     "Attachments/image-768.webp",
@@ -259,7 +259,6 @@
     "Attachments/image-765.webp",
     "Attachments/image-764.webp",
     "Attachments/image-763.webp",
-    "Attachments/image-762.webp",
     "Loisirs/Jeux Vidéos/Musées",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",

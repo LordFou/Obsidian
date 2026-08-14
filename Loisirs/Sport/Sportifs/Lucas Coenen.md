@@ -40,6 +40,7 @@ type: personne
 | 2026  | Grand Prix d'Afrique du Sud      | ==1ier== |                                                       |
 | 2026  | Grand Prix de Tchèquie           | Forfait  |                                                       |
 | 2026  | Grand Prix des Flandres          | Forfait  |                                                       |
+| 2026  | Grand Prix de Suède              | Forfait  |                                                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

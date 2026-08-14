@@ -53,4 +53,8 @@ date: Aout 2026
 title: Légende de l'alpinisme mondial, [[Nirmal Purja]] a été retrouvé mort
 content: En pleine ascension du **Broad Peak**, situé dans le Nord du Pakistan, le groupe avait été emporté par une avalanche.
 ![[image-743.webp|500x281]]
+
+date:
+title: 
+content:
 ```
