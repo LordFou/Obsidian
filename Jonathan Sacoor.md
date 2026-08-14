@@ -13,12 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                                               | Résultat | Remarque                      |
-| ----- | ----------------------------------------------------------------------------------------- | -------- | ----------------------------- |
-| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 4x400m                             | 4e       |                               |
-| 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - 4x400m mixte     | 1ier     | avec les [[Belgian Waffles]]  |
-| 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - 4x400m messieurs | 2e       | avec les [[Belgian Tornados]] |
-| 2026  | [[Championnat de Belgique d'Athlétisme]] - 400m                                           | 2e       | 45.41s                        |
+| Année | Compétition                                                                               | Résultat                      | Remarque                        |
+| ----- | ----------------------------------------------------------------------------------------- | ----------------------------- | ------------------------------- |
+| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 4x400m                             | 4e                            |                                 |
+| 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - 4x400m mixte     | 1ier                          | avec les [[Belgian Waffles]]    |
+| 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - 4x400m messieurs | 2e                            | avec les [[Belgian Tornados]]   |
+| 2026  | [[Championnat de Belgique d'Athlétisme\|Champ. National]] - 400m                          | 2e                            | 45.41s                          |
+| 2026  | [[Championnats d'Europe d'athlétisme\|Champ. Europe]] - 400m                              | 1ier (Série)<br>(Demi-finale) | 45.61 (Série)<br>46.14 (Finale) |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

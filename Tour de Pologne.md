@@ -8,9 +8,11 @@ type: event
 # Edition 2026
 ## Hommes
 
-|          | Vainqueur          | Général            | Montagne | Points | Jeune | Remarques |
-| -------- | ------------------ | ------------------ | -------- | ------ | ----- | --------- |
-| 1e (ITA) | [[Jonathan Milan]] | [[Jonathan Milan]] |          |        |       |           |
+|          | Vainqueur          | Général            | Montagne           | Points | Jeune | Remarques                |
+| -------- | ------------------ | ------------------ | ------------------ | ------ | ----- | ------------------------ |
+| 1e (ITA) | [[Jonathan Milan]] | [[Jonathan Milan]] |                    |        |       |                          |
+| 2e (ITA) | [[Jonathan Milan]] | [[Jonathan Milan]] |                    |        |       |                          |
+| 3e (ITA) | [[Jonathan Milan]] | [[Jonathan Milan]] | [[Dries De Bondt]] |        |       | 7e - [[Gerben Thijssen]] |
 ## Femmes
 
 |          | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques              |

@@ -22,6 +22,9 @@ type: personne
 | 2025  | [[Tour de Suisse]] - Classement par point                                 | 1ier     |                            |
 | 2025  | [[Tour de Suisse]] - Combativité                                          | 1ier     |                            |
 | 2025  | [[Loisirs/Sport/Compétitions/Tour d'Espagne\|Tour d'Espagne]] - 14e étape | 1ier     | Au sommet de l'[[Angliru]] |
+|       |                                                                           |          |                            |
+| 2026  | [[Tour d'Auvergne - Rhône-Alpes]]                                         | Abandon  | Maladie                    |
+| 2026  | [[Tour de Pologne]] - 4e étape                                            | Abandon  | Chute                      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

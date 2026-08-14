@@ -13,12 +13,15 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                     | Résultat         | Remarque |
-| ----- | ----------------------------------------------- | ---------------- | -------- |
-| 2025  | World Athletics Continental Tour - Ostrava      | ==1ier==         |          |
-| 2025  | [[Championnats du monde d'athlétisme]] - 400m   | Eliminé en série |          |
-| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m | 4e               |          |
-| 2026  | [[Championnat de Belgique d'Athlétisme]] - 400m | ==1ier==         | 44.82s   |
+| Année | Compétition                                      | Résultat                        | Remarque                                                          |
+| ----- | ------------------------------------------------ | ------------------------------- | ----------------------------------------------------------------- |
+| 2025  | World Athletics Continental Tour - Ostrava       | ==1ier==                        |                                                                   |
+| 2025  | [[Championnats du monde d'athlétisme]] - 400m    | Eliminé en série                |                                                                   |
+| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m  | 4e                              |                                                                   |
+| 2026  | [[Championnat de Belgique d'Athlétisme]] - 400m  | ==1ier==                        | 44.82s                                                            |
+| 2026  | [[Championnats de Belgique d'Athlétisme]] - 400m | ==1ier==                        |                                                                   |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 400m    | 7e (Demi-finale)<br>8e (Finale) | 45.03 (Demi-finale) - Qualifié d'office en demi<br>45.48 (Finale) |
+|       |                                                  |                                 |                                                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

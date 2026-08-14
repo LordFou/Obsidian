@@ -8,19 +8,22 @@ type: game
 
 - **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[brlka]]
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
+- **Éditeur** : [[Ysbryd Games]]
+- **Plateformes** : [[PC]], [[Playstation 4]], [[Playstation 5]], [[Xbox Series]], [[XBox One]], [[Switch]]
 - **Franchise** : 
-- **Genre** : [[Horreur]]
+- **Genre** : [[Horreur]], [[Plateforme]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : [[Pixel Art]]
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Canard PC (6/10)
+		- Gameplay millimétré et punitif, quasi masochiste
+		- Clivant, excluant, radical
 - **Gameplay** :
 - **Durée estimée** : 
 

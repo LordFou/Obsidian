@@ -5,17 +5,18 @@ type: personne
 # Emiel Botterman
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  2023
 - **Nationalité** :  Belge
 - **Sport / Discipline** : [[Athlétisme]] 
-- **Poste / Spécialité** (si applicable) : 
+- **Poste / Spécialité** (si applicable) : 100m
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                     | Résultat | Remarque         |
-| ----- | ----------------------------------------------- | -------- | ---------------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 4x100m | 10e      | Eliminé en série |
+| Année | Compétition                                     | Résultat    | Remarque                                 |
+| ----- | ----------------------------------------------- | ----------- | ---------------------------------------- |
+| 2025  | [[Championnats du monde d'athlétisme]] - 4x100m | 10e         | Eliminé en série                         |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 100m   | Demi-finale | 10.42 (Série)<br>10.45 (Demi-finale)<br> |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

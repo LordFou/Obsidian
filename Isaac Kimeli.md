@@ -20,6 +20,7 @@ type: personne
 | 2025  | Prix du "Géant Flamand"                        | ==1ier==      |                                       |
 | 2026  | [[Spike d'or]]                                 | ==Vainqueur== |                                       |
 | 2026  | Ligue de Diamant - Monaco - 5000m              | 10e           |                                       |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 5000m | 9e            | Finale (13'23,17)                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

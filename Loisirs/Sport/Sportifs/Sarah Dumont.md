@@ -13,13 +13,15 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                            | Résultat  | Remarque                           |     |
-| ----- | ------------------------------------------------------ | --------- | ---------------------------------- | --- |
-| 2025  | Euro - Petit bain - 200m Papillon                      | 11e       | 2:09.10 (Demi-finale)              |     |
-| 2025  | Euro - Petit bain - 800m Nl                            | 6e        | 8:22.93 (Finale)                   |     |
-| 2025  | Euro - Petit bain - 400m Nl                            | ? (Série) | 4:05.18                            |     |
-| 2026  | Flanders Swimming Cup - 200m Nl                        | 1ière     | 1:58.38                            |     |
-| 2026  | Réunion internationale de Sette Colli (Rome) - 800m Nl | 2e        | 8:30.44 (==Record de Belgique !==) |     |
+| Année | Compétition                                            | Résultat   | Remarque                           |
+| ----- | ------------------------------------------------------ | ---------- | ---------------------------------- |
+| 2025  | Euro - Petit bain - 200m Papillon                      | 11e        | 2:09.10 (Demi-finale)              |
+| 2025  | Euro - Petit bain - 800m Nl                            | 6e         | 8:22.93 (Finale)                   |
+| 2025  | Euro - Petit bain - 400m Nl                            | ? (Série)  | 4:05.18                            |
+| 2026  | Flanders Swimming Cup - 200m Nl                        | 1ière      | 1:58.38                            |
+| 2026  | Réunion internationale de Sette Colli (Rome) - 800m Nl | 2e         | 8:30.44 (==Record de Belgique !==) |
+| 2026  | Championnat d'Europe de Natation - 800m Nl             | 9e (Série) | 8:39.60                            |
+|       |                                                        |            |                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

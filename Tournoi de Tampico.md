@@ -2,7 +2,7 @@
 type: event
 ---
 
-# WTA 125 - Tournoi de Tampico
+# Tournoi de Tampico - WTA 125
 
 # Introduction
 

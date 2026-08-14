@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                                        | Résultat | Remarque |
 | ----- | -------------------------------------------------- | -------- | -------- |
 | 2025  | [[Championnats du monde d'athlétisme]] - Décathlon | 1ier     |          |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - Décathlon | 1ier     | 8611 pts |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

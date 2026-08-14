@@ -13,11 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                            | Résultat | Remarque                        |
-| ----- | ------------------------------------------------------ | -------- | ------------------------------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 3000m Steeple | 11e      | Il a aidé un adversaire à finir |
-| 2025  | Prix du Fair-Play                                      |          | Dans les 3 finalistes           |
-|       |                                                        |          |                                 |
+| Année | Compétition                                            | Résultat    | Remarque                        |
+| ----- | ------------------------------------------------------ | ----------- | ------------------------------- |
+| 2025  | [[Championnats du monde d'athlétisme]] - 3000m Steeple | 11e         | Il a aidé un adversaire à finir |
+| 2025  | Prix du Fair-Play                                      |             | Dans les 3 finalistes           |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 3000m Steeple | 30e (Série) | 8:59.80 (Série)                 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

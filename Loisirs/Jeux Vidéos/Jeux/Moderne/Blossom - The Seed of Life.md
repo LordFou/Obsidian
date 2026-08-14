@@ -10,7 +10,7 @@ type: game
 - **Développeur** : 
 	- Studio : [[Pebbledust Games]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Pretty Soon]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Aventure]], [[Monde ouvert]], [[Survie]], [[Base Building]]
@@ -20,7 +20,8 @@ type: game
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Canard PC (8/10)
 - **Gameplay** :
 - **Durée estimée** : 
 

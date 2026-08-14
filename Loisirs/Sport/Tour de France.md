@@ -84,16 +84,16 @@ Aussi surnommé la petite reine, le tour de France est le 3e évènement sportif
 | Suisse   | 1             |
 ## Femmes %% fold %%
 
-|          | Vainqueur          | Général            | Montagne       | Points            | Jeune           | Combattivité        | Remarques              |
-| -------- | ------------------ | ------------------ | -------------- | ----------------- | --------------- | ------------------- | ---------------------- |
-| 1e (NDL) | [[Lorena Wiebes]]  | [[Lorena Wiebes]]  | [[Océane Maé]] | [[Lorena Wiebes]] | [[Paula Blasi]] |                     |                        |
-| 2e (NDL) | [[Lorena Wiebes]]  | [[Lorena Wiebes]]  | [[Océane Maé]] | [[Lorena Wiebes]] |                 | [[Riejanne Markus]] |                        |
-| 3e (NOR) | [[Sigrid Haugset]] | [[Sigrid Haugset]] | [[Océane Maé]] | [[Lorena Wiebes]] |                 | [[Sigrid Haugset]]  | 2e - [[Lotte Kopecky]] |
-| 4e (SUI) | [[Marlen Reusser]] | [[Marlen Reusser]] | [[Océane Maé]] | [[Lorena Wiebes]] |                 |                     | 8e - [[Lotte Claes]]   |
-
-
-
-
+|          | Vainqueur                | Général                  | Montagne          | Points            | Jeune                   | Combattivité        | Remarques              |
+| -------- | ------------------------ | ------------------------ | ----------------- | ----------------- | ----------------------- | ------------------- | ---------------------- |
+| 1e (NDL) | [[Lorena Wiebes]]        | [[Lorena Wiebes]]        | [[Océane Maé]]    | [[Lorena Wiebes]] | [[Paula Blasi]]         |                     |                        |
+| 2e (NDL) | [[Lorena Wiebes]]        | [[Lorena Wiebes]]        | [[Océane Maé]]    | [[Lorena Wiebes]] | [[Paula Blasi]]         | [[Riejanne Markus]] |                        |
+| 3e (NOR) | [[Sigrid Haugset]]       | [[Sigrid Haugset]]       | [[Océane Maé]]    | [[Lorena Wiebes]] | [[Paula Blasi]]         | [[Sigrid Haugset]]  | 2e - [[Lotte Kopecky]] |
+| 4e (SUI) | [[Marlen Reusser]]       | [[Marlen Reusser]]       | [[Puck Pieterse]] | [[Lorena Wiebes]] | [[Paula Blasi]]         |                     | 8e - [[Lotte Claes]]   |
+| 5e (NDL) | [[Demi Vollering]]       | [[Marlen Reusser]]       | [[Puck Pieterse]] | [[Lorena Wiebes]] |                         |                     |                        |
+| 6e (AFS) | [[Kimberley Le Court]]   | [[Marlen Reusser]]       | [[Puck Pieterse]] | [[Lorena Wiebes]] |                         |                     |                        |
+| 7e (POL) | [[Katarzyna Niewiadoma]] | [[Katarzyna Niewiadoma]] | [[Puck Pieterse]] | [[Lorena Wiebes]] |                         |                     |                        |
+| 8e (NDL) | [[Demi Vollering]]       | [[Demi Vollering]]       | [[Puck Pieterse]] | [[Lorena Wiebes]] | [[Antonia Niedermaier]] |                     |                        |
 
 # Edition 2025 %% fold %%
 ## Hommes
@@ -215,9 +215,11 @@ Aussi surnommé la petite reine, le tour de France est le 3e évènement sportif
 | 2026  | [[Tadej Pogacar]]    | Slovène     | [[Richard Carapaz]] | [[Mads Pedersen]]  | [[Isaac Del Toro]]   | [[Richard Carapaz]] | [[Lidl-Trek]] | 2e - [[Remco Evenepoel]]<br>3e - [[Isaac Del Toro]]    |
 ### Femmes
 
-| Année | Vainqueur                  | Nationalité  | Montagne          | Points            | Jeune            | Super Combattive  | Equipe           | Podium                                               |
-| ----- | -------------------------- | ------------ | ----------------- | ----------------- | ---------------- | ----------------- | ---------------- | ---------------------------------------------------- |
-| 2023  | [[Demi Vollering]]         | Néerlandaise |                   |                   |                  |                   |                  |                                                      |
-| 2025  | [[Pauline Ferrand Prevot]] | Française    | [[Elise Chabbey]] | [[Lorena Wiebes]] | [[Nienke Vinke]] | [[Maeva Squiban]] | [[Groupama FDJ]] | 2e [[Demi Vollering]]<br>3e [[Katarzyna Niewiadoma]] |
-|       |                            |              |                   |                   |                  |                   |                  |                                                      |
-|       |                            |              |                   |                   |                  |                   |                  |                                                      |
+| Année | Vainqueur                  | Nationalité  | Montagne          | Points            | Jeune                   | Super Combattive         | Equipe           | Podium                                                         |
+| ----- | -------------------------- | ------------ | ----------------- | ----------------- | ----------------------- | ------------------------ | ---------------- | -------------------------------------------------------------- |
+| 2022  |                            |              |                   | [[Lotte Kopecky]] |                         |                          |                  |                                                                |
+| 2023  | [[Demi Vollering]]         | Néerlandaise |                   | [[Marianne Vos]]  |                         |                          |                  |                                                                |
+| 2024  |                            |              |                   | [[Marianne Vos]]  |                         |                          |                  |                                                                |
+| 2025  | [[Pauline Ferrand Prevot]] | Française    | [[Elise Chabbey]] | [[Lorena Wiebes]] | [[Nienke Vinke]]        | [[Maeva Squiban]]        | [[Groupama FDJ]] | 2e - [[Demi Vollering]]<br>3e - [[Katarzyna Niewiadoma]]       |
+| 2026  | [[Demi Vollering]]         | Néerlandaise | [[Puck Pieterse]] | [[Lorena Wiebes]] | [[Antonia Niedermaier]] | [[Katarzyna Niewiadoma]] | [[UAE]]          | 2e - [[Katarzyna Niewiadoma]]<br>3e - [[Elisa Longo Borghini]] |
+|       |                            |              |                   |                   |                         |                          |                  |                                                                |

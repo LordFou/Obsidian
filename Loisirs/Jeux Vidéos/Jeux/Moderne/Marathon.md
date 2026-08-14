@@ -27,11 +27,18 @@ type: game
 		- rythme assez mou
 		- Des combats vus et revus
 	- CheckPoint (7/10)
+	- Canard PC (6/10)
+		- Personnalité propre niveau graphique
+		- Côté gameplay, on est tjrs sur un semi-marathon (haha!)
 - **Gameplay** :
+	- Le Destructeur
+	- L'Urgentiste
+	- Le Voleur
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
+	- Planète [[Tau Ceti]] IV
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :

@@ -18,17 +18,17 @@ Aussi appelé [[Vuelta Burgos]]
 | 3e (FRA) | [[Léo Bisiaux]]      | [[Léo Bisiaux]]    | [[Carlos Garcia Pierna]] | [[Léo Bisiaux]] | [[Léo Bisiaux]]     |           |
 | 4e (ITA) | [[Damiano Caruso]]   | [[Léo Bisiaux]]    | [[Carlos Garcia Pierna]] | [[Léo Bisiaux]] | [[Léo Bisiaux]]     |           |
 | 5e (ITA) | [[Giulio Ciccone]]   | [[Isaac Del Toro]] |                          |                 |                     |           |
-## Femmes
-
-|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
-| --- | --------- | ------- | -------- | ------ | ----- | --------- |
-
 # Edition 2026
 
 ## Hommes
 
-|          | Vainqueur            | Général            | Montagne                 | Points          | Jeune               | Remarques |
-| -------- | -------------------- | ------------------ | ------------------------ | --------------- | ------------------- | --------- |
+|     | Vainqueur             | Général        | Montagne | Points | Jeune | Remarques            |
+| --- | --------------------- | -------------- | -------- | ------ | ----- | -------------------- |
+| 1e  |                       |                |          |        |       |                      |
+| 2e  |                       |                |          |        |       | 4e - [[Jarno Widar]] |
+| 3e  |                       |                |          |        |       | 7e - [[Jarno Widar]] |
+| 4e  |                       |                |          |        |       |                      |
+| 5e  | [[Giulio Pellizzari]] | [[Félix Gall]] |          |        |       |                      |
 
 ## Femmes
 
@@ -47,6 +47,7 @@ Aussi appelé [[Vuelta Burgos]]
 | ----- | ------------------- | ----------- | -------- |
 | 2020  | [[Remco Evenepoel]] | Belge       |          |
 | 2025  | [[Isaac Del Toro]]  | Mexicain    |          |
+| 2026  | [[Félix Gall]]      | Autrichien  |          |
 ### Femmes
 
 | Année | Vainqueur          | Nationalité  | Remarque |
