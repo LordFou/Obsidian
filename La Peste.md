@@ -15,4 +15,18 @@ Peste Bubonique (bubons = ganglions gonflé et noir) => mort noire (donnée par 
 - Origine : Asie
 - Première guerre bactériologique : devant leur défaite du siège de Gênes, les tatares se vengent en catapultant des cadavres infectés de la peste dans la ville. (en discussion historique, à priori ce ne serait pas la seule origine)
 - Grands navigateurs et commerçants les gênois transmettent la peste un peu partout via les ports
-- Tournai (1349) 
+- Tournai (1349) - Gilles Lemuisi - Grosse description renseignée par cet homme
+	- 25 000 morts
+	- Très contagieux
+	- Une fois dans la famille, tout le monde succombe
+	- Le rat noir et "ses" puces sont les vecteurs principaux
+		- La puce mort le rat
+		- Elle chope la peste
+		- ça bloque son système alimentaire
+		- et donc elle devient frénétique car elle meurt de faim
+		- la puce et le rat meurt aussi
+	- En quelques semaines se développent l'épidémie
+	- Les vivants fuient les malades 
+	- Les marginaux sont payés pour faire le sale boulot et ramasser les cadavres 
+		- cfr Monty Pythons
+	- 
