@@ -21,6 +21,7 @@ type: event
 | Lancer du Marteau | [[Bence Halasz]]         | Hongrois    |          |
 | Lancer du disque  | [[Kristjan Ceh]]         | Slovène     | 72m51    |
 | Décathlon         | [[Leo Neugebauer]]       | Allemand    | 8611 pts |
+| Saut              |                          |             |          |
 ## Femmes
 
 | Epreuve           | Vainqueur                 | Nationalité  | Remarque |
