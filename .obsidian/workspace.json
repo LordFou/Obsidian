@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruben Verheyden.md",
+                "file": "Loisirs/Sport/Sportifs/Florine Gaspard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ruben Verheyden"
+              "title": "Florine Gaspard"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Roos Vanotterdijk",
+                "query": "Florine Gaspard",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -221,8 +222,11 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "c3ca6f51d7a82250",
+  "active": "cb8dc447fcd41957",
   "lastOpenFiles": [
+    "Roos Vanotterdijk.md",
+    "Loisirs/Sport/Sportifs/Florine Gaspard.md",
+    "Ruben Verheyden.md",
     "Les décès de sportifs.md",
     "Loisirs/Sport/Sportifs/Jochem Vermeulen.md",
     "Attachments/image-773.webp",
@@ -230,7 +234,6 @@
     "Loisirs/Sport/Sportifs/Noor Vidts.md",
     "Attachments/image-772.webp",
     "Loisirs/Sport/Sportifs/Pieter Sisk.md",
-    "Ruben Verheyden.md",
     "JO 2024.md",
     "Loisirs/Sport/Sportifs/Nafi Thiam.md",
     "JO 2016.md",
@@ -250,8 +253,6 @@
     "Tournoi d'Istanbul.md",
     "Silja Kosonen.md",
     "Romell Glave.md",
-    "Pretty Soon.md",
-    "Nadine Visser.md",
     "Attachments/image-770.webp",
     "Attachments/image-769.webp",
     "Attachments/image-768.webp",
