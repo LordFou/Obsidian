@@ -26,6 +26,7 @@ type: personne
 | 2026  | Super League - Kessel Lo - 3000m                              | ==1ière==                | Record de Belgique                                |
 | 2026  | Championnat de Belgique de la distance - 10km                 | ==1ière==                | Record de Belgique (Vieux de 26 ans)<br>30.51.18  |
 | 2026  | Ligue de Diamant - Monaco - 3000m                             | 11e                      | Record de Belgique (8:36.14)                      |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 10km                 | 3e 🥉                    | 31:47.81                                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -48,3 +49,4 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 # Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
+![[image-775.webp|500x281]]

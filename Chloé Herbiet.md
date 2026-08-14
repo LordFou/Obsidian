@@ -13,11 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                          | Résultat | Remarque               |
-| ----- | ------------------------------------ | -------- | ---------------------- |
-|       | Championnat d'Europe - Semi-Marathon | 1ier     |                        |
-| 2025  | [[Marathon de Valence]]              | 3e       | ==Record de Belgique== |
-| 2026  | Semi-Marathon de Berlin              | 6e       | ==Record de Belgique== |
+| Année | Compétition                                   | Résultat | Remarque               |
+| ----- | --------------------------------------------- | -------- | ---------------------- |
+|       | Championnat d'Europe - Semi-Marathon          | 1ier     |                        |
+| 2025  | [[Marathon de Valence]]                       | 3e       | ==Record de Belgique== |
+| 2026  | Semi-Marathon de Berlin                       | 6e       | ==Record de Belgique== |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 10km | 11e      |                        |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
