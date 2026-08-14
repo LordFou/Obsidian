@@ -15,7 +15,7 @@ Peste Bubonique (bubons = ganglions gonflé et noir) => mort noire (donnée par 
 - Origine : Asie
 - Première guerre bactériologique : devant leur défaite du siège de Gênes, les tatares se vengent en catapultant des cadavres infectés de la peste dans la ville. (en discussion historique, à priori ce ne serait pas la seule origine)
 - Grands navigateurs et commerçants les gênois transmettent la peste un peu partout via les ports
-- Tournai (1349) - Gilles Lemuisi - Grosse description renseignée par cet homme
+- Tournai (1349) - Gilles Lemuisi - Grosse description renseignée par ce moine
 	- 25 000 morts
 	- Très contagieux
 	- Une fois dans la famille, tout le monde succombe
@@ -29,4 +29,7 @@ Peste Bubonique (bubons = ganglions gonflé et noir) => mort noire (donnée par 
 	- Les vivants fuient les malades 
 	- Les marginaux sont payés pour faire le sale boulot et ramasser les cadavres 
 		- cfr Monty Pythons
-	- 
+	- Les rituels de fin de vie change (on se dépêche d'enterrer en oubliant certains traditions)
+- Régions sanctuaires ? mais c'est surtout parce qu'on n'a pas d'écrit de certaines régions
+	- Nouvelle technique de recherche (Paléo génétique)
+- En "Belgique", on ne trouve aucune trace dans les documents administratifs => on la cache
