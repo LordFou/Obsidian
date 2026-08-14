@@ -28,6 +28,7 @@ type: event
 | ----------------- | ------------------------- | ------------ | -------- |
 | 100m              | [[Amy Hunt]]              | Britannique  |          |
 | 200m              | [[Amy Hunt]]              | Britannique  |          |
+| 800m              | [[Audrey Werro]]          | Suisse       |          |
 | 100m Haies        | [[Nadine Visser]]         | Néerlandaise |          |
 | 400m Haies        | [[Emma Zapletalova]]      | Slovaque     |          |
 | 3000m Steeple     | [[Gesa Felicitas Krause]] | Allemande    |          |
