@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "9b5738f129032660",
+    "type": "split",
+    "children": [
+      {
+        "id": "a88f0a11723ec8ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3ca6f51d7a82250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheetas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cheetas"
+            }
+          },
+          {
+            "id": "cb8dc447fcd41957",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10646f34a5623bcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a516746cabd1b8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2066e9a3d214d366",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "eb3c1bcab851ce97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Cheet",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "b4ebb1a377404fc4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          },
+          {
+            "id": "dbacc6f984f28690",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "right": {
+    "id": "424a7915b112611b",
+    "type": "split",
+    "children": [
+      {
+        "id": "793a32453de58a2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38e1afb54a3a7718",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Escape from Ever After.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Escape from Ever After"
+            }
+          },
+          {
+            "id": "e2303466fd1c8ab2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Escape from Ever After.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Escape from Ever After"
+            }
+          },
+          {
+            "id": "9871d3b303142bba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "662b93150171007e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          },
+          {
+            "id": "a57efce46b870585",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "cfaee1bb38725775",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 379.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Créer une nouvelle base": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "markdown-importer:Ouvrir l'importateur Markdown": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
+    }
+  },
+  "active": "c3ca6f51d7a82250",
+  "lastOpenFiles": [
+    "Belgian Tornados.md",
+    "conflict-files-obsidian-git.md",
+    "brlka.md",
+    "Xeen.md",
+    "Tournoi de Tampico.md",
+    "Tournoi de Landisville.md",
+    "Tournoi d'Istanbul.md",
+    "Silja Kosonen.md",
+    "Romell Glave.md",
+    "Pretty Soon.md",
+    "Nadine Visser.md",
+    "Nadia Battocletti.md",
+    "Matthew Hutton Smith.md",
+    "Matteo Vanhuffel.md",
+    "Mark English.md",
+    "Loisirs/Sport/Sportifs/Zeno Van Neygen.md",
+    "Loisirs/Sport/Sportifs/Yanni Sampson.md",
+    "Loisirs/Sport/Sportifs/Simon Laviolette.md",
+    "Loisirs/Sport/Sportifs/Saliyya Guisse.md",
+    "Loisirs/Sport/Sportifs/Rémi Schyns.md",
+    "Leonardo Fabbri.md",
+    "Kristjan Ceh.md",
+    "Kim Gevaert.md",
+    "Journal de bord/2026-08-13.md",
+    "Journal de bord/2026-08-12.md",
+    "Journal de bord/2026-08-11.md",
+    "Attachments/image-770.webp",
+    "Attachments/image-769.webp",
+    "Attachments/image-768.webp",
+    "Attachments/image-767.webp",
+    "Attachments/image-766.webp",
+    "Attachments/image-765.webp",
+    "Attachments/image-764.webp",
+    "Attachments/image-763.webp",
+    "Attachments/image-762.webp",
+    "Attachments/image-761.webp",
+    "Loisirs/Jeux Vidéos/Musées",
+    "Famille/Vacances/Danemark/Bork Havn",
+    "Famille/Vacances/Danemark",
+    "Famille/Vacances",
+    "Loisirs/Sport/Compétitions/Sans titre",
+    "Sans titre",
+    "TI-99",
+    "Media DB/wiki",
+    "Media DB/games",
+    "Media DB",
+    "Loisirs/Jeux Vidéos/Généalogie Société.canvas"
+  ]
+}
