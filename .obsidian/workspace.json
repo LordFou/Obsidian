@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Ben Broeders.md",
+                "file": "Les décès de sportifs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ben Broeders"
+              "title": "Les décès de sportifs"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ben",
+                "query": "décès",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,8 +210,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94b2d6d483a6fa66",
+  "active": "d3bb4b835b56e6fb",
   "lastOpenFiles": [
+    "Attachments/image-774.webp",
+    "Larissa Pauluis.md",
+    "Justin Verboomen.md",
+    "Loisirs/Sport/Sportifs/Ben Broeders.md",
     "Loisirs/Sport/Sportifs/Ylio Philtjens.md",
     "Championnats d'Europe d'athlétisme.md",
     "Loisirs/Sport/Sportifs/Audrey Werro.md",
@@ -240,12 +244,8 @@
     "Roos Vanotterdijk.md",
     "Dariya Derkach.md",
     "Leo Neugebauer.md",
-    "Tim Van de Velde.md",
-    "Loisirs/Sport/Sportifs/Rémi Schyns.md",
     "Attachments/image-767.webp",
-    "Helena Ponette.md",
     "Attachments/image-766.webp",
-    "Merel Maes.md",
     "Attachments/image-765.webp",
     "Attachments/image-764.webp",
     "Famille/Vacances/Danemark/Bork Havn",

@@ -21,6 +21,7 @@ type: personne
 | 2026  | Neumünster remix                       | 1ière    |                             |
 | 2026  | Grand Prix de Lierre                   | 3e       |                             |
 | 2026  | Grand Prix kür en musique de dressage  | 1ière    |                             |
+| 2026  | Championnats du monde - Dressage       | 20e      |                             |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
