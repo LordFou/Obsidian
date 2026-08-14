@@ -5,5 +5,5 @@ Equipe Nationale Belge Féminine de 4x400m en [[Athlétisme]]
 
 | Année | Epreuve                                | Vainqueur   | Remarque                                       | Membre du relais                                                                       |
 | ----- | -------------------------------------- | ----------- | ---------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 2025  | [[Championnats du monde d'athlétisme]] | Finale (4e) | Série 2e (3.23.96)<br>Finale (3.22.15)<br><br> | [[Naomi Van den Broeck]]<br>[[Imke Vervaet]]<br>[[Camille Laus]]<br>[[Helena Ponette]] |
-| 2026  | Ch                                     |             |                                                |                                                                                        |
+| 2025  | [[Championnats du monde d'athlétisme]] | 4e (Finale) | Série 2e (3.23.96)<br>Finale (3.22.15)<br><br> | [[Naomi Van den Broeck]]<br>[[Imke Vervaet]]<br>[[Camille Laus]]<br>[[Helena Ponette]] |
+| 2026  | [[Championnats d'Europe d'athlétisme]] | 4e (Série)  | Série (3.26.59) (SB)                           | [[Paulien Couckuyt]]<br>[[Camille Lambert]]<br>[[Camille Laus]]<br>[[Helena Ponette]]  |
