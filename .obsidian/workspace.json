@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Florine Gaspard.md",
+                "file": "Loisirs/Sport/Sportifs/Ben Broeders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Florine Gaspard"
+              "title": "Ben Broeders"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Florine Gaspard",
+                "query": "Ben",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -224,8 +224,8 @@
   },
   "active": "cb8dc447fcd41957",
   "lastOpenFiles": [
-    "Roos Vanotterdijk.md",
     "Loisirs/Sport/Sportifs/Florine Gaspard.md",
+    "Roos Vanotterdijk.md",
     "Ruben Verheyden.md",
     "Les décès de sportifs.md",
     "Loisirs/Sport/Sportifs/Jochem Vermeulen.md",
