@@ -38,6 +38,7 @@ type: personne
 | 2026  | Championnat d'Europe de Natation - 50m Pap                                    | 2e (Série)<br>3e (Demi-finale)<br>2e (Finale) 🥈 | Série (25.57)<br>Demi-finale (25.45)<br>Finale (25.12) | Record de Belgique                 |
 | 2026  | Championnat d'Europe de Natation - 100m Pap                                   | 1e (Série)<br>1e (Demi-finale)<br> (Finale)      | Série (56.76)<br>Demi-finale (55.89) (CR)<br>Finale () |                                    |
 | 2026  | Championnat d'Europe de Natation - 50m Dos                                    | 10e (Demi-finale)<br>                            |                                                        |                                    |
+| 2026  | Championnat d'Europe de Natation - 200m 4n                                    | 10e (Série)                                      | 2:13.83 (Série)                                        |                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
