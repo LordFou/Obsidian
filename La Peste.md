@@ -32,4 +32,5 @@ Peste Bubonique (bubons = ganglions gonflé et noir) => mort noire (donnée par 
 	- Les rituels de fin de vie change (on se dépêche d'enterrer en oubliant certains traditions)
 - Régions sanctuaires ? mais c'est surtout parce qu'on n'a pas d'écrit de certaines régions
 	- Nouvelle technique de recherche (Paléo génétique)
-- En "Belgique", on ne trouve aucune trace dans les documents administratifs => on la cache
+- En "Belgique", on ne trouve aucune trace dans les documents administratifs => on en parle pas, on la subit. Par contre, on trouve des traces de solutions.
+	- règle sur les enterrements
