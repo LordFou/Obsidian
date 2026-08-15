@@ -22,6 +22,7 @@ type: event
 | Lancer du disque  | [[Kristjan Ceh]]         | Slovène     | 72m51    |
 | Décathlon         | [[Leo Neugebauer]]       | Allemand    | 8611 pts |
 | Saut en hauteur   | [[Gianmarco Tamberi]]    | Italien     |          |
+| Triple Saut       | Diaz Hernandez           |             | 18.15    |
 ## Femmes
 
 | Epreuve           | Vainqueur                 | Nationalité  | Remarque |
