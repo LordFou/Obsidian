@@ -19,14 +19,14 @@ type: event
 | 1500m             | [[Stefan Nillessen]]     | Néerlandais | 3:35.70       |
 | 5000m             | [[Jakob Ingebrigtsen]]   | Norvégien   |               |
 | 10000m            | [[Andreas Almgren]]      | Suédois     | 27:23.44 (CR) |
+| 4x100m            | Grande Bretagne          |             |               |
 | Lancer du poids   | [[Leonardo Fabbri]]      | Italien     |               |
 | Lancer du Marteau | [[Bence Halasz]]         | Hongrois    |               |
 | Lancer du disque  | [[Kristjan Ceh]]         | Slovène     | 72m51         |
-| Saut en hauteur   | [[Gianmarco Tamberi]]    | Italien     |               |
-| Triple Saut       | Diaz Hernandez           |             | 18.15         |
-| Décathlon         | [[Leo Neugebauer]]       | Allemand    | 8611 pts      |
 | Lancer du Javelot | [[Julian Weber]]         | Allemand    | 90m40         |
-| 4x100m            | Grande Bretagne          |             |               |
+| Saut en hauteur   | [[Gianmarco Tamberi]]    | Italien     |               |
+| Triple Saut       | [[Diaz Hernandez]]       | Italien     | 18.15 (CR)    |
+| Décathlon         | [[Leo Neugebauer]]       | Allemand    | 8611 pts      |
 ## Femmes
 
 | Epreuve           | Vainqueur                 | Nationalité  | Remarque |
@@ -44,6 +44,7 @@ type: event
 | Saut à la perche  | [[Angelica Moser]]        | Suisse       |          |
 | 400m              | [[Henriette Jaeger]]      | Norvégienne  |          |
 | Saut en hauteur   |                           |              |          |
+| 4x100m            |                           |              |          |
 ## Mixte
 
 | Année | Vainqueur | Epreuve | Remarque |
