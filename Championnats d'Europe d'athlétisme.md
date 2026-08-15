@@ -16,6 +16,7 @@ type: event
 | 100m              | [[Romell Glave]]         | Britannique | 10.09         |
 | 400m              | [[Matthew Hutton Smith]] | Britannique |               |
 | 800m              | [[Mark English]]         | Irlandais   |               |
+| 1500m             | [[Stefan Nillessen]]     | Néerlandais | 3:35.70       |
 | 5000m             | [[Jakob Ingebrigtsen]]   | Norvégien   |               |
 | 10000m            | [[Andreas Almgren]]      | Suédois     | 27:23.44 (CR) |
 | Lancer du poids   | [[Leonardo Fabbri]]      | Italien     |               |
@@ -24,8 +25,7 @@ type: event
 | Saut en hauteur   | [[Gianmarco Tamberi]]    | Italien     |               |
 | Triple Saut       | Diaz Hernandez           |             | 18.15         |
 | Décathlon         | [[Leo Neugebauer]]       | Allemand    | 8611 pts      |
-| Lancer du Javelot |                          |             |               |
-| 1500m             | [[Stefan Nillessen]]     | Néerlandais | 3:35.70       |
+| Lancer du Javelot | [[Julian Weber]]         | Allemand    | 90m40         |
 ## Femmes
 
 | Epreuve           | Vainqueur                 | Nationalité  | Remarque |
