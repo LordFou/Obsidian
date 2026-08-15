@@ -17,13 +17,15 @@ type: event
 | 400m              | [[Matthew Hutton Smith]] | Britannique |               |
 | 800m              | [[Mark English]]         | Irlandais   |               |
 | 5000m             | [[Jakob Ingebrigtsen]]   | Norvégien   |               |
+| 10000m            | [[Andreas Almgren]]      | Suédois     | 27:23.44 (CR) |
 | Lancer du poids   | [[Leonardo Fabbri]]      | Italien     |               |
 | Lancer du Marteau | [[Bence Halasz]]         | Hongrois    |               |
 | Lancer du disque  | [[Kristjan Ceh]]         | Slovène     | 72m51         |
-| Décathlon         | [[Leo Neugebauer]]       | Allemand    | 8611 pts      |
 | Saut en hauteur   | [[Gianmarco Tamberi]]    | Italien     |               |
 | Triple Saut       | Diaz Hernandez           |             | 18.15         |
-| 10000m            | [[Andreas Almgren]]      | Suédois     | 27:23.44 (CR) |
+| Décathlon         | [[Leo Neugebauer]]       | Allemand    | 8611 pts      |
+| Lancer du Javelot |                          |             |               |
+| 1500m             |                          |             |               |
 ## Femmes
 
 | Epreuve           | Vainqueur                 | Nationalité  | Remarque |
@@ -39,7 +41,8 @@ type: event
 | Lancer du Marteau | [[Silja Kosonen]]         | Finlandaise  |          |
 | Triple Saut       | [[Dariya Derkach]]        | Italienne    |          |
 | Saut à la perche  | [[Angelica Moser]]        | Suisse       |          |
-| 400m              | [[Henriette Jaeger]]        | Norvégienne  |          |
+| 400m              | [[Henriette Jaeger]]      | Norvégienne  |          |
+| Saut en hauteur   |                           |              |          |
 ## Mixte
 
 | Année | Vainqueur | Epreuve | Remarque |

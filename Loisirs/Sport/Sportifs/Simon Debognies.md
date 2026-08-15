@@ -3,7 +3,7 @@ type: personne
 ---
 
 
-# Simon Debogny
+# Simon Debognies
 
 # Informations Générales  
 - **Date de naissance** :  
@@ -17,7 +17,7 @@ type: personne
 
 | Année | Compétition                                   | Résultat | Remarque |
 | ----- | --------------------------------------------- | -------- | -------- |
-| 2026  | [[Championnats d'Europe d'athlétisme]] - 10km | 11e      |          |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 10km | 11e      | 28.25.55 |
 |       |                                               |          |          |
 
 # Style et Caractéristiques  
