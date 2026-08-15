@@ -11,18 +11,19 @@ type: event
 ![[image-769.webp|222x222]]
 ## Hommes
 
-| Epreuve           | Vainqueur                | Nationalité | Remarque |
-| ----------------- | ------------------------ | ----------- | -------- |
-| 100m              | [[Romell Glave]]         | Britannique | 10.09    |
-| 400m              | [[Matthew Hutton Smith]] | Britannique |          |
-| 800m              | [[Mark English]]         | Irlandais   |          |
-| 5000m             | [[Jakob Ingebrigtsen]]   | Norvégien   |          |
-| Lancer du poids   | [[Leonardo Fabbri]]      | Italien     |          |
-| Lancer du Marteau | [[Bence Halasz]]         | Hongrois    |          |
-| Lancer du disque  | [[Kristjan Ceh]]         | Slovène     | 72m51    |
-| Décathlon         | [[Leo Neugebauer]]       | Allemand    | 8611 pts |
-| Saut en hauteur   | [[Gianmarco Tamberi]]    | Italien     |          |
-| Triple Saut       | Diaz Hernandez           |             | 18.15    |
+| Epreuve           | Vainqueur                | Nationalité | Remarque      |
+| ----------------- | ------------------------ | ----------- | ------------- |
+| 100m              | [[Romell Glave]]         | Britannique | 10.09         |
+| 400m              | [[Matthew Hutton Smith]] | Britannique |               |
+| 800m              | [[Mark English]]         | Irlandais   |               |
+| 5000m             | [[Jakob Ingebrigtsen]]   | Norvégien   |               |
+| Lancer du poids   | [[Leonardo Fabbri]]      | Italien     |               |
+| Lancer du Marteau | [[Bence Halasz]]         | Hongrois    |               |
+| Lancer du disque  | [[Kristjan Ceh]]         | Slovène     | 72m51         |
+| Décathlon         | [[Leo Neugebauer]]       | Allemand    | 8611 pts      |
+| Saut en hauteur   | [[Gianmarco Tamberi]]    | Italien     |               |
+| Triple Saut       | Diaz Hernandez           |             | 18.15         |
+| 10000m            | [[Andreas Almgren]]      | Suédois     | 27:23.44 (CR) |
 ## Femmes
 
 | Epreuve           | Vainqueur                 | Nationalité  | Remarque |

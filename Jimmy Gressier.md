@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                                   | Résultat | Remarque |
 | ----- | --------------------------------------------- | -------- | -------- |
 | 2025  | [[Championnats du monde d'athlétisme]] - 10km | 1ier     |          |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 10km | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
