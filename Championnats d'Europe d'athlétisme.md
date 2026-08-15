@@ -43,8 +43,8 @@ type: event
 | Triple Saut       | [[Dariya Derkach]]        | Italienne    |          |
 | Saut à la perche  | [[Angelica Moser]]        | Suisse       |          |
 | 400m              | [[Henriette Jaeger]]      | Norvégienne  |          |
-| Saut en hauteur   |                           |              |          |
-| 4x100m            |                           |              |          |
+| Saut en hauteur   | Mahuchikh                 | Ukrainienne  |          |
+| 4x100m            | Grande Bretagne           |              |          |
 ## Mixte
 
 | Année | Vainqueur | Epreuve | Remarque |
