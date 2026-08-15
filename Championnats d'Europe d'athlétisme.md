@@ -25,7 +25,7 @@ type: event
 | Triple Saut       | Diaz Hernandez           |             | 18.15         |
 | Décathlon         | [[Leo Neugebauer]]       | Allemand    | 8611 pts      |
 | Lancer du Javelot |                          |             |               |
-| 1500m             |                          |             |               |
+| 1500m             | [[Stefan Nillessen]]     | Néerlandais | 3:35.70       |
 ## Femmes
 
 | Epreuve           | Vainqueur                 | Nationalité  | Remarque |
