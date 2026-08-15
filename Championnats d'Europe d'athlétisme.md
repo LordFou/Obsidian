@@ -39,12 +39,12 @@ type: event
 | 3000m Steeple     | [[Gesa Felicitas Krause]] | Allemande    |          |
 | 5000m             | [[Nadia Battocletti]]     | Italienne    |          |
 | 10000m            | [[Nadia Battocletti]]     | Italienne    |          |
+| 4x100m            | Grande Bretagne           |              |          |
 | Lancer du Marteau | [[Silja Kosonen]]         | Finlandaise  |          |
 | Triple Saut       | [[Dariya Derkach]]        | Italienne    |          |
 | Saut à la perche  | [[Angelica Moser]]        | Suisse       |          |
 | 400m              | [[Henriette Jaeger]]      | Norvégienne  |          |
-| Saut en hauteur   | Mahuchikh                 | Ukrainienne  |          |
-| 4x100m            | Grande Bretagne           |              |          |
+| Saut en hauteur   | [[Yaroslava Mahuchikh]]   | Ukrainienne  |          |
 ## Mixte
 
 | Année | Vainqueur | Epreuve | Remarque |

@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                     | Résultat | Remarque               |
-| ----- | ----------------------------------------------- | -------- | ---------------------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 4x100m | 10e      | Disqualifiées en série |
+| Année | Compétition                                     | Résultat    | Remarque                                             |
+| ----- | ----------------------------------------------- | ----------- | ---------------------------------------------------- |
+| 2025  | [[Championnats du monde d'athlétisme]] - 4x100m | 10e         | Disqualifiées en série. Avec les [[Belgian Rockets]] |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 4x100m | 5e (Finale) | Avec les [[Belgian Rockets]]                         |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
