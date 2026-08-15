@@ -37,6 +37,7 @@ type: event
 | Lancer du Marteau | [[Silja Kosonen]]         | Finlandaise  |          |
 | Triple Saut       | [[Dariya Derkach]]        | Italienne    |          |
 | Saut à la perche  | [[Angelica Moser]]        | Suisse       |          |
+| 400m              | [[Henriette Jaeger]]        | Norvégienne  |          |
 ## Mixte
 
 | Année | Vainqueur | Epreuve | Remarque |
