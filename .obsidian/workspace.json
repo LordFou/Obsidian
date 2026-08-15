@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Merel Maes.md",
+                "file": "Belgian Rockets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merel Maes"
+              "title": "Belgian Rockets"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Merel",
+                "query": "Rocket",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -212,8 +212,9 @@
   },
   "active": "d3bb4b835b56e6fb",
   "lastOpenFiles": [
-    "Loisirs/Sport/Sportifs/Nafi Thiam.md",
     "Championnats d'Europe d'athlétisme.md",
+    "Merel Maes.md",
+    "Loisirs/Sport/Sportifs/Nafi Thiam.md",
     "Julian Weber.md",
     "Stefan Nillessen.md",
     "Andreas Almgren.md",
@@ -239,7 +240,6 @@
     "conflict-files-obsidian-git.md",
     "Loisirs/Sport/Sportifs/Noor Vidts.md",
     "La Peste.md",
-    "Camille Lambert.md",
     "Attachments/image-773.webp",
     "Attachments/image-772.webp",
     "Attachments/image-771.webp",

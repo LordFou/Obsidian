@@ -26,6 +26,7 @@ type: event
 | Triple Saut       | Diaz Hernandez           |             | 18.15         |
 | Décathlon         | [[Leo Neugebauer]]       | Allemand    | 8611 pts      |
 | Lancer du Javelot | [[Julian Weber]]         | Allemand    | 90m40         |
+| 4x100m            | Grande Bretagne          |             |               |
 ## Femmes
 
 | Epreuve           | Vainqueur                 | Nationalité  | Remarque |
