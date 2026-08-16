@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Belgian Cats.md",
+                "file": "Loisirs/Sport/Sportifs/Rémi Schyns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Belgian Cats"
+              "title": "Rémi Schyns"
+            }
+          },
+          {
+            "id": "85a94a97c0075a1a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -55,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Belgian",
+                "query": "Rém",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -212,6 +222,13 @@
   },
   "active": "d3bb4b835b56e6fb",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Rémi Schyns.md",
+    "Roos Vanotterdijk.md",
+    "Loisirs/Sport/Arctic Race.md",
+    "Guillermo Silva.md",
+    "Loisirs/Sport/Sportifs/Lennert Van Eetvelt.md",
+    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
+    "Belgian Cats.md",
     "Loisirs/Sport/Equipes/Belgian Linxes.md",
     "Championnats d'Europe d'athlétisme.md",
     "Championnats du monde d'athlétisme.md",
@@ -230,7 +247,6 @@
     "Attachments/image-776.webp",
     "Loisirs/Sport/Sportifs/Florine Gaspard.md",
     "Loisirs/Sport/Sportifs/Lucas Henveaux.md",
-    "Roos Vanotterdijk.md",
     "Loisirs/Jeux Vidéos/Esport.md",
     "Rocket League.md",
     "Rani Rosius.md",
@@ -238,12 +254,6 @@
     "Delphine Nkansa.md",
     "Rani Vincke.md",
     "Yaroslava Mahuchikh.md",
-    "Belgian Falcons.md",
-    "Diaz Hernandez.md",
-    "Loisirs/Sport/Antoine Snyders.md",
-    "Emiel Botterman.md",
-    "Simon Verherstraeten.md",
-    "Merel Maes.md",
     "Attachments/image-775.webp",
     "Attachments/image-774.webp",
     "Attachments/image-773.webp",

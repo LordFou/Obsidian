@@ -18,7 +18,7 @@ type: personne
 | 2014  | [[Milan San Remo]]        | 1ier     |          |
 | 2015  | [[Tour des Flandres]]     | 1ier     |          |
 | 2019  | [[Gand Wevelgem]]         | 1ier     |          |
-| 2025  | [[ArcticRace]] - 2e étape | 1ier     | Sprint   |
+| 2025  | [[Arctic Race]] - 2e étape | 1ier     | Sprint   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -1,24 +1,24 @@
 ---
 type: personne
 ---
-![[image-767.webp|197x259]]
 
-# Rémi Schyns
+
+# Guillermo Silva
 
 # Informations Générales  
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** :  [[Athlétisme]]
-- **Poste / Spécialité** (si applicable) : 3000m Steeple 
+- **Nationalité** :  Urugayen
+- **Sport / Discipline** :  [[Cyclisme]]
+- **Poste / Spécialité** (si applicable) :  [[Astana]]
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                                            | Résultat               | Remarque                    |
-| ----- | ------------------------------------------------------ | ---------------------- | --------------------------- |
-| 2026  | [[Championnats d'Europe d'athlétisme]] - 3000m Steeple | 4e (Série)<br>(Finale) | 8:34.63 (Série)<br>(Finale) |
-|       |                                                        |                        |                             |
+| Année | Compétition                | Résultat | Remarque |
+| ----- | -------------------------- | -------- | -------- |
+| 2026  | [[Arctic Race]] - 3e étape | 1ier     |          |
+|       |                            |          |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
