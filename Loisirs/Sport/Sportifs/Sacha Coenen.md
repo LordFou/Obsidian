@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-788.webp|500x281]]
 # Sacha Coenen
 
 # Informations Générales
@@ -25,6 +25,7 @@ type: personne
 | 2026  | Championnat US - Thunder Valley             | 4e       |                                     |
 | 2026  | Grand Prix du Portugal                      | 3e       |                                     |
 | 2026  | Grand Prix des Flandres                     | 6e       |                                     |
+| 2026  | Grand Prix de Suède                         | ==1ier== |                                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -21,6 +21,7 @@ type: personne
 | 2026  | Grand Prix de Trentin   | 7e       |          |
 | 2026  | Grand Prix de Lettonie  | 6e       |          |
 | 2026  | Grand Prix du Portugal  | 4e       |          |
+| 2026  | Grand Prix de Suède     | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
