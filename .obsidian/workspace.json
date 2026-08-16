@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Florine Gaspard.md",
+                "file": "Loisirs/Sport/Sportifs/Johannes Liebmann.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Florine Gaspard"
+              "title": "Johannes Liebmann"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Championnats d'Europe d'athlétisme"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Champ",
+                "query": "Johannes Liebmann",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -104,8 +103,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,9 +223,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94883b41d4dc0277",
+  "active": "3c478c3cb4b5caae",
   "lastOpenFiles": [
+    "Alexander Blockx.md",
+    "Loisirs/Sport/Sportifs/Johannes Liebmann.md",
     "Loisirs/Sport/Sportifs/Florine Gaspard.md",
+    "Championnats d'Europe d'athlétisme.md",
+    "Loisirs/Sport/Sportifs/Ylio Philtjens.md",
+    "Loisirs/Sport/Sportifs/Ben Broeders.md",
+    "Sarah Kolak.md",
     "Attachments/image-782.webp",
     "Loisirs/Sport/Sportifs/Rémi Schyns.md",
     "Ruben Verheyden.md",
@@ -239,7 +243,6 @@
     "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Belgian Cats.md",
     "Loisirs/Sport/Equipes/Belgian Linxes.md",
-    "Championnats d'Europe d'athlétisme.md",
     "Championnats du monde d'athlétisme.md",
     "Loisirs/Sport/Sportifs/Noor Vidts.md",
     "Lisa Vaelen.md",
@@ -256,10 +259,6 @@
     "Attachments/image-776.webp",
     "Loisirs/Sport/Sportifs/Lucas Henveaux.md",
     "Loisirs/Jeux Vidéos/Esport.md",
-    "Rocket League.md",
-    "Rani Rosius.md",
-    "Janie De Naeyer.md",
-    "Delphine Nkansa.md",
     "Attachments/image-775.webp",
     "Attachments/image-774.webp",
     "Famille/Vacances/Danemark/Bork Havn",

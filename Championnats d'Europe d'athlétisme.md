@@ -34,6 +34,7 @@ type: event
 | ----------------- | ------------------------- | ------------ | -------- |
 | 100m              | [[Amy Hunt]]              | Britannique  |          |
 | 200m              | [[Amy Hunt]]              | Britannique  |          |
+| 400m              | [[Henriette Jaeger]]      | Norvégienne  |          |
 | 800m              | [[Audrey Werro]]          | Suisse       |          |
 | 100m Haies        | [[Nadine Visser]]         | Néerlandaise |          |
 | 400m Haies        | [[Emma Zapletalova]]      | Slovaque     |          |
@@ -41,11 +42,12 @@ type: event
 | 5000m             | [[Nadia Battocletti]]     | Italienne    |          |
 | 10000m            | [[Nadia Battocletti]]     | Italienne    |          |
 | 4x100m            | Grande Bretagne           |              |          |
-| Lancer du Marteau | [[Silja Kosonen]]         | Finlandaise  |          |
+| Lancer du marteau | [[Silja Kosonen]]         | Finlandaise  |          |
+| Lancer du javelot | [[Sarah Kolak]]           | Croatie      |          |
 | Triple Saut       | [[Dariya Derkach]]        | Italienne    |          |
 | Saut à la perche  | [[Angelica Moser]]        | Suisse       |          |
-| 400m              | [[Henriette Jaeger]]      | Norvégienne  |          |
 | Saut en hauteur   | [[Yaroslava Mahuchikh]]   | Ukrainienne  |          |
+| 1500m             |                           |              |          |
 ## Mixte
 
 | Epreuve | Vainqueur       | Remarque |
