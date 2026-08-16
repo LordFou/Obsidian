@@ -3,7 +3,6 @@
   "obsidian-mind-map",
   "obsidian-media-db-plugin",
   "obsidian-icon-folder",
-  "image-converter",
   "obsidian-icon-shortcodes",
   "obsidian-hypothesis-plugin",
   "obsidian-git",
@@ -15,5 +14,6 @@
   "obsidian-style-settings",
   "supercharged-links-obsidian",
   "creases",
-  "various-complements"
+  "various-complements",
+  "image-converter"
 ]

@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-777.webp|500x281]]
+![[image-778.webp|500x281]]
 
 # Noor Vidts
 
