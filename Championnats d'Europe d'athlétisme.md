@@ -14,22 +14,26 @@ type: event
 | Epreuve           | Vainqueur                | Nationalité | Remarque      |
 | ----------------- | ------------------------ | ----------- | ------------- |
 | 100m              | [[Romell Glave]]         | Britannique | 10.09         |
+| 200m              |                          |             |               |
 | 400m              | [[Matthew Hutton Smith]] | Britannique |               |
 | 800m              | [[Mark English]]         | Irlandais   |               |
 | 1500m             | [[Stefan Nillessen]]     | Néerlandais | 3:35.70       |
 | 5000m             | [[Jakob Ingebrigtsen]]   | Norvégien   |               |
 | 10000m            | [[Andreas Almgren]]      | Suédois     | 27:23.44 (CR) |
-| 4x100m            | Grande Bretagne          |             |               |
+| 110m Haies        |                          |             |               |
 | 400m Haies        | [[Karsten Warholm]]      | Norvégien   | 46.63 (CR)    |
+| 3000m Steeple     |                          |             |               |
+| 4x100m            | Grande Bretagne          |             |               |
+| 4x400m            | Italie                   |             |               |
 | Lancer du poids   | [[Leonardo Fabbri]]      | Italien     |               |
-| Lancer du Marteau | [[Bence Halasz]]         | Hongrois    |               |
+| Lancer du marteau | [[Bence Halasz]]         | Hongrois    |               |
 | Lancer du disque  | [[Kristjan Ceh]]         | Slovène     | 72m51         |
-| Lancer du Javelot | [[Julian Weber]]         | Allemand    | 90m40         |
-| Saut en hauteur   | [[Gianmarco Tamberi]]    | Italien     |               |
+| Lancer du javelot | [[Julian Weber]]         | Allemand    | 90m40         |
 | Triple Saut       | [[Diaz Hernandez]]       | Italien     | 18.15 (CR)    |
 | Saut à la perche  | [[Mondo Duplantis]]      | Suédois     | 6m15 (CR)     |
+| Saut en hauteur   | [[Gianmarco Tamberi]]    | Italien     |               |
+| Saut en longueur  |                          |             |               |
 | Décathlon         | [[Leo Neugebauer]]       | Allemand    | 8611 pts      |
-| 4x400m            |                          |             |               |
 ## Femmes
 
 | Epreuve           | Vainqueur                 | Nationalité  | Remarque |
@@ -38,15 +42,17 @@ type: event
 | 200m              | [[Amy Hunt]]              | Britannique  |          |
 | 400m              | [[Henriette Jaeger]]      | Norvégienne  |          |
 | 800m              | [[Audrey Werro]]          | Suisse       |          |
-| 100m Haies        | [[Nadine Visser]]         | Néerlandaise |          |
-| 400m Haies        | [[Emma Zapletalova]]      | Slovaque     |          |
 | 1500m             | [[Georgia Hunter Bell]]   | Britannique  | 4:07.78  |
-| 3000m Steeple     | [[Gesa Felicitas Krause]] | Allemande    |          |
 | 5000m             | [[Nadia Battocletti]]     | Italienne    |          |
 | 10000m            | [[Nadia Battocletti]]     | Italienne    |          |
+| 100m Haies        | [[Nadine Visser]]         | Néerlandaise |          |
+| 400m Haies        | [[Emma Zapletalova]]      | Slovaque     |          |
+| 3000m Steeple     | [[Gesa Felicitas Krause]] | Allemande    |          |
 | 4x100m            | Grande Bretagne           |              |          |
 | 4x400m            | Pays-Bas                  |              |          |
+| Lancer du poids   |                           |              |          |
 | Lancer du marteau | [[Silja Kosonen]]         | Finlandaise  |          |
+| Lancer du disque  |                           |              |          |
 | Lancer du javelot | [[Sarah Kolak]]           | Croatie      |          |
 | Triple Saut       | [[Dariya Derkach]]        | Italienne    |          |
 | Saut à la perche  | [[Angelica Moser]]        | Suisse       |          |

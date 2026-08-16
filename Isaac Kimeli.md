@@ -11,6 +11,12 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
+```timeline-labeled
+[line-5, body-2]
+date: Aout 2026
+title: Plus de piste pour lui
+content: Un peu dégouté 
+```
 
 # Palmarès et Distinctions
 | Année | Compétition                                    | Résultat      | Remarque                              |
@@ -37,4 +43,4 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 
 # Sources et Références
 - [Lien vers une source](#)
-- [Article détaillé](#)
+- [Article détaill�
