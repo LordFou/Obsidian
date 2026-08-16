@@ -21,7 +21,7 @@ type: personne
 | 2026  | Flanders Swimming Cup - 200m Nl                        | 1ière      | 1:58.38                            |
 | 2026  | Réunion internationale de Sette Colli (Rome) - 800m Nl | 2e         | 8:30.44 (==Record de Belgique !==) |
 | 2026  | Championnat d'Europe de Natation - 800m Nl             | 9e (Série) | 8:39.60                            |
-|       |                                                        |            |                                    |
+| 2026  | Championnat d'Europe de Natation - 400m Nl             | 7e (Série) | 4:11.03                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

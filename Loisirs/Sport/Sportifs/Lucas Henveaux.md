@@ -28,7 +28,7 @@ type: personne
 | 2026  | Open de Stockholm - 400m                                             | 3e (Finale)                                       | 3:44.61                                                      | Egalisation de son record de Belgique |
 | 2026  | Championnat d'Europe de Natation - 800m Nl                           | 11e (Série)<br>                                   | Série (7:49.48)                                              |                                       |
 | 2026  | Championnat d'Europe de Natation - 200m Nl                           | 5e (Série)<br>8e (Demi-finale)<br>8e (Finale)<br> | Série (1:46.10)<br>Demi-finale (1:45.72)<br>Finale (1:45.87) |                                       |
-|       |                                                                      |                                                   |                                                              |                                       |
+| 2026  | Championnat d'Europe de Natation - 400m Nl                           | 3e (Série)<br>(Finale)<br>                        | Série (3:45.78)<br>Finale (7)                                |                                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

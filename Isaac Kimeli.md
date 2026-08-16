@@ -15,7 +15,7 @@ type: personne
 [line-5, body-2]
 date: Aout 2026
 title: Plus de piste pour lui
-content: Un peu dégouté 
+content: Un peu dégouté par ses derniers résultats sur piste en 5 et 10 km, il annonce vouloir se recentrer sur le marathon
 ```
 
 # Palmarès et Distinctions
@@ -43,4 +43,4 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 
 # Sources et Références
 - [Lien vers une source](#)
-- [Article détaill�
+- [Article détaillé](#)
