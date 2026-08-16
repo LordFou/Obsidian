@@ -48,10 +48,10 @@ type: event
 | Saut en hauteur   | [[Yaroslava Mahuchikh]]   | Ukrainienne  |          |
 ## Mixte
 
-| Année | Vainqueur | Epreuve | Remarque |
-| ----- | --------- | ------- | -------- |
-| 2026  | Norvège   | 4x400m  |          |
-|       |           |         |          |
+| Epreuve | Vainqueur       | Remarque |
+| ------- | --------------- | -------- |
+| 4x400m  | Norvège         |          |
+| 4x100m  | Grande Bretagne |          |
 
 # Par épreuves
 

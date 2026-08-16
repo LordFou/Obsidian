@@ -14,7 +14,7 @@ Aussi appelé Be Gold Cats ?
 | 2025  | [[Euro de Basket\|Euro]]                                                        | Vainqueur           |                                                                                                                                                                                                     |
 | 2026  | Tournoi de Wuhan - Qualification - [[Coupe du Monde de Basket\|Coupe du Monde]] | Qualifiées d'office | Victoire contre le Brésil (99-70)<br>Victoire contre la Chine (80-65)<br>Victoire contre le Mali (81-50)<br>Victoire contre le Sud Soudan (102-64)<br>Victoire contre la République Tchèque (93-50) |
 | 2026  | [[Coupe du Monde de Basket\|Coupe du Monde]]                                    |                     |                                                                                                                                                                                                     |
-| 2026  | Matchs Amicaux                                                                  | -                   | Victoire : Belgique - Allemagne (85-60)<br>Victoire : Belgique - Allemagne (65-56)                                                                                                                  |
+| 2026  | Matchs Amicaux                                                                  | -                   | Victoire : Belgique - Allemagne (85-60)<br>Victoire : Belgique - Allemagne (65-56)<br>Défaite : Belgique - Italie (63-65)                                                                           |
 
 
 | Description         | Url                                                                                                      |
