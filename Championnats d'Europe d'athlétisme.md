@@ -27,8 +27,9 @@ type: event
 | Lancer du Javelot | [[Julian Weber]]         | Allemand    | 90m40         |
 | Saut en hauteur   | [[Gianmarco Tamberi]]    | Italien     |               |
 | Triple Saut       | [[Diaz Hernandez]]       | Italien     | 18.15 (CR)    |
+| Saut à la perche  | [[Mondo Duplantis]]      | Suédois     | 6m15 (CR)     |
 | Décathlon         | [[Leo Neugebauer]]       | Allemand    | 8611 pts      |
-| Saut à la perche  | [[Mondo Duplantis]]      | Suédois     | 6m00          |
+| 4x400m            |                          |             |               |
 ## Femmes
 
 | Epreuve           | Vainqueur                 | Nationalité  | Remarque |
@@ -44,13 +45,14 @@ type: event
 | 5000m             | [[Nadia Battocletti]]     | Italienne    |          |
 | 10000m            | [[Nadia Battocletti]]     | Italienne    |          |
 | 4x100m            | Grande Bretagne           |              |          |
+| 4x400m            | Pays-Bas                  |              |          |
 | Lancer du marteau | [[Silja Kosonen]]         | Finlandaise  |          |
 | Lancer du javelot | [[Sarah Kolak]]           | Croatie      |          |
 | Triple Saut       | [[Dariya Derkach]]        | Italienne    |          |
 | Saut à la perche  | [[Angelica Moser]]        | Suisse       |          |
 | Saut en hauteur   | [[Yaroslava Mahuchikh]]   | Ukrainienne  |          |
 | Saut en longueur  | [[Larissa Iapichino]]     | Italienne    | 7m00     |
-| 4x400m            |                           |              |          |
+| Heptathlon        | O'Connor                  | Irlandaise   |          |
 ## Mixte
 
 | Epreuve | Vainqueur       | Remarque |

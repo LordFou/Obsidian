@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Larissa Iapichino.md",
+                "file": "Belgian Tornados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Larissa Iapichino"
+              "title": "Belgian Tornados"
             }
           },
           {
@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheetas.md",
+                "file": "Loisirs/Sport/Sportifs/Mondo Duplantis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheetas"
+              "title": "Mondo Duplantis"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Cheet",
+                "query": "Tornado",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,11 +253,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d5ce9e5b41a602f",
+  "active": "3a981692caa68acd",
   "lastOpenFiles": [
+    "Larissa Iapichino.md",
     "Championnats d'Europe d'athlétisme.md",
     "Loisirs/Sport/Sportifs/Mondo Duplantis.md",
-    "Larissa Iapichino.md",
+    "Cheetas.md",
     "Red Lions.md",
     "Loisirs/Sport/Sportifs/Johannes Liebmann.md",
     "Attachments/image-783.webp",
@@ -288,7 +289,6 @@
     "Attachments/image-778.webp",
     "Attachments/Pasted image 20260816103240.png",
     "Attachments/image-777.webp",
-    "Iga Swiatek.md",
     "Attachments/image-776.webp",
     "Attachments/image-775.webp",
     "Famille/Vacances/Danemark/Bork Havn",

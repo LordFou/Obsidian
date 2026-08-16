@@ -18,7 +18,7 @@ type: personne
 | ?     | [[Championnats du monde d'athlétisme]] - Saut à la perche | 1ier     |           |
 | ?     | [[Championnats du monde d'athlétisme]] - Saut à la perche | 1ier     |           |
 | 2025  | [[Championnats du monde d'athlétisme]] - Saut à la perche | 1ier     | 6m30 (WR) |
-| 2026  | [[Championnats d'Europe d'athlétisme]] - Saut à la perche | 1ier     | 6m15      |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - Saut à la perche | 1ier     | 6m15 (CR) |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
