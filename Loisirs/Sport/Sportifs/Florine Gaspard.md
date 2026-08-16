@@ -30,6 +30,7 @@ type: personne
 | 2026  | Championnat d'Europe de Natation - 100m Nl                               | 15e (Série)<br>16z (Demi-finale) | Série (54.54)<br>Demi-finale (54.73)        |                                          |
 | 2026  | Championnat d'Europe de Natation - 100m Br                               | 13e (Série)<br> (Demi-finale)    | Série (1.07.49)<br>Demi-finale ()           |                                          |
 | 2026  | Championnat d'Europe de Natation - 50m Nl                                | 15e (Série)<br>16e (Demi-finale) | 25.00 (Série)                               |                                          |
+| 2026  | Championnat d'Europe de Natation - 50m Br                                | 5e (Série)<br>6e (Demi-finale)   | 30.39 (Série)<br>30.42 (Demi finale)        |                                          |
 
 
 # Style et Caractéristiques
@@ -41,7 +42,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 		- 50m Br - 29.33
 		- 100m Br - 1.03.61
 	- Grand Bain
-		- 50m Br - 30.44
+		- 50m Br - 30.26
 		- 100m Br - 1.06.89
 		- 50m Nl - 24.42
 
@@ -54,3 +55,4 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 # Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
+![[image-782.webp|500x281]]
