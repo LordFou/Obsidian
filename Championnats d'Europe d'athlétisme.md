@@ -34,6 +34,7 @@ type: event
 | Saut en hauteur   | [[Gianmarco Tamberi]]    | Italien     |               |
 | Saut en longueur  |                          |             |               |
 | Décathlon         | [[Leo Neugebauer]]       | Allemand    | 8611 pts      |
+| Marathon          | [[Amanal Petros]]        | Allemand    |               |
 ## Femmes
 
 | Epreuve           | Vainqueur                 | Nationalité  | Remarque |
@@ -59,6 +60,7 @@ type: event
 | Saut en hauteur   | [[Yaroslava Mahuchikh]]   | Ukrainienne  |          |
 | Saut en longueur  | [[Larissa Iapichino]]     | Italienne    | 7m00     |
 | Heptathlon        | O'Connor                  | Irlandaise   |          |
+| Marathon          | [[Alisa Vainio]]          | Finlandaise  |          |
 ## Mixte
 
 | Epreuve | Vainqueur       | Remarque |
