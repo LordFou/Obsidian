@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lisa Vaelen.md",
+                "file": "Loisirs/Sport/Sportifs/Noor Vidts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lisa Vaelen"
+              "title": "Noor Vidts"
             }
           }
         ]
@@ -210,8 +210,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "571b06dbd1c46b81",
+  "active": "d3bb4b835b56e6fb",
   "lastOpenFiles": [
+    "Lisa Vaelen.md",
     "Belgian Rockets.md",
     "Attachments/image-780.webp",
     "Loisirs/Sport/Sportifs/Vincent Van Hooydonck.md",
