@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Lions.md",
+                "file": "Belgian Falcons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Red Lions"
+              "title": "Belgian Falcons"
             }
           },
           {
@@ -41,26 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Belgian Tornados.md",
+                "file": "Dylan Borlée.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Belgian Tornados"
-            }
-          },
-          {
-            "id": "8d5ce9e5b41a602f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loisirs/Sport/Sportifs/Mondo Duplantis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mondo Duplantis"
+              "title": "Dylan Borlée"
             }
           }
         ],
@@ -98,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tornado",
+                "query": "Belgian Fa",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,11 +241,20 @@
   },
   "active": "3a981692caa68acd",
   "lastOpenFiles": [
-    "Larissa Iapichino.md",
+    "Belgian Tornados.md",
+    "Daniel Segers.md",
+    "Dylan Borlée.md",
+    "Jonathan Sacoor.md",
+    "Belgian Falcons.md",
+    "Attachments/image-784.webp",
+    "Red Lions.md",
     "Championnats d'Europe d'athlétisme.md",
+    "Coupe du Monde de Hockey.md",
+    "Euro Hockey Indoor Club Cup.md",
+    "Loisirs/Sport/Compétitions/Euro Hockey Indoor.md",
+    "Larissa Iapichino.md",
     "Loisirs/Sport/Sportifs/Mondo Duplantis.md",
     "Cheetas.md",
-    "Red Lions.md",
     "Loisirs/Sport/Sportifs/Johannes Liebmann.md",
     "Attachments/image-783.webp",
     "Georgia Hunter Bell.md",
@@ -276,21 +271,12 @@
     "Loisirs/Sport/Arctic Race.md",
     "Guillermo Silva.md",
     "Loisirs/Sport/Sportifs/Lennert Van Eetvelt.md",
-    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
-    "Belgian Cats.md",
-    "Loisirs/Sport/Equipes/Belgian Linxes.md",
-    "Championnats du monde d'athlétisme.md",
-    "Loisirs/Sport/Sportifs/Noor Vidts.md",
-    "Lisa Vaelen.md",
-    "Belgian Rockets.md",
     "Attachments/image-780.webp",
-    "Loisirs/Sport/Sportifs/Vincent Van Hooydonck.md",
     "Attachments/image-779.webp",
     "Attachments/image-778.webp",
     "Attachments/Pasted image 20260816103240.png",
     "Attachments/image-777.webp",
     "Attachments/image-776.webp",
-    "Attachments/image-775.webp",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
     "Famille/Vacances",
