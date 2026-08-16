@@ -13,12 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                               | Résultat | Remarque                       |
-| ----- | --------------------------------------------------------- | -------- | ------------------------------ |
-| ?     | [[Championnats du monde d'athlétisme]] - Saut à la perche | 1ier     |                                |
-| ?     | [[Championnats du monde d'athlétisme]] - Saut à la perche | 1ier     |                                |
-| 2025  | [[Championnats du monde d'athlétisme]] - Saut à la perche | 1ier     | :luc_plus: World Record (6m30) |
-| 2026  | [[Championnats d'Europe d'athlétisme]] - Saut à la perche |          |                                |
+| Année | Compétition                                               | Résultat | Remarque  |
+| ----- | --------------------------------------------------------- | -------- | --------- |
+| ?     | [[Championnats du monde d'athlétisme]] - Saut à la perche | 1ier     |           |
+| ?     | [[Championnats du monde d'athlétisme]] - Saut à la perche | 1ier     |           |
+| 2025  | [[Championnats du monde d'athlétisme]] - Saut à la perche | 1ier     | 6m30 (WR) |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - Saut à la perche | 1ier     | 6m15      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

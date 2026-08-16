@@ -2,7 +2,7 @@
 type: personne
 ---
 
-
+![[image-783.webp|500x281]]
 # Johannes Liebmann
 
 # Informations Générales  
@@ -17,6 +17,7 @@ type: personne
 
 | Année | Compétition                               | Résultat | Remarque          |
 | ----- | ----------------------------------------- | -------- | ----------------- |
+| 2026  | Championnats d'Europe de Natation - 800m  | 1ier     | 7.37 (ER)         |
 | 2026  | Championnats d'Europe de Natation - 1500m | 1ier     | 14:26,79 ==(WR)== |
 |       |                                           |          |                   |
 

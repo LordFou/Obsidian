@@ -39,6 +39,7 @@ type: event
 | 800m              | [[Audrey Werro]]          | Suisse       |          |
 | 100m Haies        | [[Nadine Visser]]         | Néerlandaise |          |
 | 400m Haies        | [[Emma Zapletalova]]      | Slovaque     |          |
+| 1500m             | [[Georgia Hunter Bell]]   | Britannique  | 4:07.78  |
 | 3000m Steeple     | [[Gesa Felicitas Krause]] | Allemande    |          |
 | 5000m             | [[Nadia Battocletti]]     | Italienne    |          |
 | 10000m            | [[Nadia Battocletti]]     | Italienne    |          |
@@ -48,8 +49,8 @@ type: event
 | Triple Saut       | [[Dariya Derkach]]        | Italienne    |          |
 | Saut à la perche  | [[Angelica Moser]]        | Suisse       |          |
 | Saut en hauteur   | [[Yaroslava Mahuchikh]]   | Ukrainienne  |          |
-| 1500m             | [[Georgia Hunter Bell]]   | Britannique  | 4:07.78  |
-| Saut en longueur  |                           |              |          |
+| Saut en longueur  | [[Larissa Iapichino]]     | Italienne    | 7m00     |
+| 4x400m            |                           |              |          |
 ## Mixte
 
 | Epreuve | Vainqueur       | Remarque |
