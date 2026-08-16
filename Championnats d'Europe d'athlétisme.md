@@ -20,6 +20,7 @@ type: event
 | 5000m             | [[Jakob Ingebrigtsen]]   | Norvégien   |               |
 | 10000m            | [[Andreas Almgren]]      | Suédois     | 27:23.44 (CR) |
 | 4x100m            | Grande Bretagne          |             |               |
+| 400m Haies        | [[Karsten Warholm]]      | Norvégien   | 46.63 (CR)    |
 | Lancer du poids   | [[Leonardo Fabbri]]      | Italien     |               |
 | Lancer du Marteau | [[Bence Halasz]]         | Hongrois    |               |
 | Lancer du disque  | [[Kristjan Ceh]]         | Slovène     | 72m51         |
@@ -69,6 +70,13 @@ type: event
 | 2022  | [[Jakob Ingebrigtsen]] | Norvégien   |          |
 | 2024  | [[Jakob Ingebrigtsen]] | Norvégien   |          |
 | 2026  | [[Jakob Ingebrigtsen]] | Norvégien   |          |
+### 400m Haies
+| Année | Vainqueur           | Nationalité | Remarque |
+| ----- | ------------------- | ----------- | -------- |
+| 2020  | [[Karsten Warholm]] | Norvégien   |          |
+| 2022  | [[Karsten Warholm]] | Norvégien   |          |
+| 2024  | [[Karsten Warholm]] | Norvégien   |          |
+| 2026  | [[Karsten Warholm]] | Norvégien   |          |
 ## Femmes
 
 ### 5000m

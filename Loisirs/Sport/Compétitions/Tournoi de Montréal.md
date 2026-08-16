@@ -22,4 +22,4 @@ type: event
 | Année | Vainqueur          | Nationalité | Remarque |
 | ----- | ------------------ | ----------- | -------- |
 | 2025  | [[Victoria Mboko]] | Canadienne  |          |
-|       |                    |             |          |
+| 2026  | [[Iga Swiatek]]    | Polonaise   |          |
