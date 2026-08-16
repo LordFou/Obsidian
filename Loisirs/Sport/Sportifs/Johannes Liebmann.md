@@ -15,16 +15,17 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| 2026  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
-|       |                       |                            |                  |
+| Année | Compétition                               | Résultat | Remarque          |
+| ----- | ----------------------------------------- | -------- | ----------------- |
+| 2026  | Championnats d'Europe de Natation - 1500m | 1ier     | 14:26,79 ==(WR)== |
+|       |                                           |          |                   |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants  
-Lister lebattus, les moments légendaires ou les anecdotes notables.
+- Record du Monde
+	- 1500m (Grand bain) - 14:26.79
 
 # Controverses ou Événements Importants  
 Évoquer les polémiques ou moments clés de sa carrière.

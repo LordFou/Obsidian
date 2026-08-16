@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                                                           | Résultat | Remarque |
 | ----- | --------------------------------------------------------------------- | -------- | -------- |
 | 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde]] - 1500m | 1ière    |          |
+| 2026  | [[Championnats d'Europe d'athlétisme\|Champ, Europe]] - 1500m         | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

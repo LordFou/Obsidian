@@ -18,6 +18,7 @@ type: personne
 | ?     | [[Championnats du monde d'athlétisme]] - Saut à la perche | 1ier     |                                |
 | ?     | [[Championnats du monde d'athlétisme]] - Saut à la perche | 1ier     |                                |
 | 2025  | [[Championnats du monde d'athlétisme]] - Saut à la perche | 1ier     | :luc_plus: World Record (6m30) |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - Saut à la perche |          |                                |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

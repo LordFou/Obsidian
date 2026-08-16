@@ -28,6 +28,7 @@ type: event
 | Saut en hauteur   | [[Gianmarco Tamberi]]    | Italien     |               |
 | Triple Saut       | [[Diaz Hernandez]]       | Italien     | 18.15 (CR)    |
 | Décathlon         | [[Leo Neugebauer]]       | Allemand    | 8611 pts      |
+| Saut à la perche  | [[Mondo Duplantis]]      | Suédois     | 6m00          |
 ## Femmes
 
 | Epreuve           | Vainqueur                 | Nationalité  | Remarque |
@@ -47,7 +48,8 @@ type: event
 | Triple Saut       | [[Dariya Derkach]]        | Italienne    |          |
 | Saut à la perche  | [[Angelica Moser]]        | Suisse       |          |
 | Saut en hauteur   | [[Yaroslava Mahuchikh]]   | Ukrainienne  |          |
-| 1500m             |                           |              |          |
+| 1500m             | [[Georgia Hunter Bell]]   | Britannique  | 4:07.78  |
+| Saut en longueur  |                           |              |          |
 ## Mixte
 
 | Epreuve | Vainqueur       | Remarque |
