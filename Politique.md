@@ -6,3 +6,6 @@
 # Idées (à creuser ?)
 - A situation familiale égale, une famille qui travaille gagnera toujours plus qu'une famille qui ne travaille pas.
 - On ne peut pas faire baisser les taxes sur le salaire et améliorer les soins santé, l'école, la justice
+
+# A surveiller
+- Qui va réellement tenir compte de l'incendie des Fagnes ?
