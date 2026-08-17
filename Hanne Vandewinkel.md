@@ -23,6 +23,7 @@ type: personne
 | 2026  | [[Wimbledon]]                                      | 1e tour    | Défaite contre [[Claire Liu]] (WTA 146)  |
 | 2026  | [[Tournoi d'Istanbul]]                             | Finale     |                                          |
 | 2026  | [[Tournoi de Landisville]]                         | Vainqueure |                                          |
+| 2026  | [[Tournoi de Cincinnati]]                          | 1e tour    |                                          |
 
 # Style et Caractéristiques
 - Fan de [[Cyclisme]] et de [[Wout Van Aert]]

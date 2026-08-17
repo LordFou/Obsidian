@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-772.webp|500x281]]
+![[image-778.webp|500x281]]
 
 # Noor Vidts
 
@@ -15,10 +15,10 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
-|       |                       |                            |                  |
+| Année | Compétition                                         | Résultat | Remarque                       |
+| ----- | --------------------------------------------------- | -------- | ------------------------------ |
+| 2026  | [[Championnats du monde d'athlétisme]] - Heptathlon | 11e      | Retour d'une année de blessure |
+|       |                                                     |          |                                |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

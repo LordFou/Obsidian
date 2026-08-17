@@ -93,6 +93,7 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 | 2026  | [[Milan San Remo]]                                                | 3e       |                                                                            |
 | 2026  | [[A Travers la Flandre]]                                          | 2e       |                                                                            |
 | 2026  | [[Tour des Flandres]]                                             | 4e       |                                                                            |
+| 2026  | Championnat de Belgique de Gravel                                 | 2e       |                                                                            |
 
 ![[Pasted image 20250415003019.png]]
 # Style et Caractéristiques

@@ -19,7 +19,7 @@ type: personne
 | 2022  | [[Championnats d'Europe d'athlétisme]] - Saut en hauteur | Eliminé en qualification             |                                |
 | 2023  | [[Championnats d'Europe d'athlétisme]] - Saut en hauteur | Eliminé en qualification             |                                |
 | 2025  | [[Championnats du monde d'athlétisme]] - Saut en hauteur | Qualif (2m25)<br>Finale (2m20) - 11e | ==Première finale mondiale !== |
-| 2026  | [[Championnats d'Europe d'athlétisme]] - Saut en hauteur | Qualif (2m23)<br>Finale              |                                |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - Saut en hauteur | Qualif <br>8e (Finale)               | 2m23 (Qualif)<br>2m18 (Finale) |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -13,13 +13,17 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                             | Ville     | Résultat | Remarque                  |
-| ----- | --------------------------------------- | --------- | -------- | ------------------------- |
-| 2022  | [[Championnat d’Europe de Gymnastique]] | Munich    | 4e       | Saut                      |
-| 2025  | [[Championnat du Monde de Gymnastique]] | Liverpool | 6e       | Saut<br>Premiers Mondiaux |
-| 2023  | [[Championnat d’Europe de Gymnastique]] | Antalya   | 3e       | Saut                      |
-| 2025  | [[Championnat d’Europe de Gymnastique]] | Leipzig   | 3e       | Saut                      |
-| 2025  | [[Championnat du Monde de Gymnastique]] | Jakarta   | 4e       | Saut (13,866)             |
+| Année | Compétition                                                | Ville     | Résultat | Remarque          |
+| ----- | ---------------------------------------------------------- | --------- | -------- | ----------------- |
+| 2022  | [[Championnat d’Europe de Gymnastique]] - Saut             | Munich    | 4e       |                   |
+| 2023  | [[Championnat d’Europe de Gymnastique]] - Saut             | Antalya   | 3e       |                   |
+|       |                                                            |           |          |                   |
+| 2025  | [[Championnat du Monde de Gymnastique]] - Saut             | Liverpool | 6e       | Premiers Mondiaux |
+| 2025  | [[Championnat d’Europe de Gymnastique]] - Saut             | Leipzig   | 3e       |                   |
+| 2025  | [[Championnat du Monde de Gymnastique]] - Saut             | Jakarta   | 4e       | 13,866            |
+|       |                                                            |           |          |                   |
+| 2026  | [[Championnat d’Europe de Gymnastique]] - Saut             | Zagreb    | 3e       | 13.983            |
+| 2026  | [[Championnat d’Europe de Gymnastique]] - Concours Général | Zagreb    | 14e      |                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -59,7 +59,7 @@ BRONZE (6)
 
 -  La Belgique en duathlon relais mixte avec **Jeanne Dupont** et **Arnaud Dely**
 
-- **Vincent Bierinckx** en duathlon individuel
+- **[[Vincent Bierinckx]]** en duathlon individuel
 
 - **Jeanne Dupont** en duathlon individuel
 

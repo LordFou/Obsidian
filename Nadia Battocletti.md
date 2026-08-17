@@ -19,6 +19,7 @@ type: personne
 | ----- | ------------------------------------------------ | -------- | -------- |
 | 2024  | [[Championnats d'Europe d'athlétisme]] - 5000m   | 1ière    |          |
 | 2024  | [[Championnats d'Europe d'athlétisme]] - 10 000m | 1ière    |          |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 5000m   | 1ière    |          |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - 10 000m | 1ière    |          |
 
 # Style et Caractéristiques  

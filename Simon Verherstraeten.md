@@ -15,10 +15,11 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                                  | Résultat                                 | Remarque                                                          |
 | ----- | ---------------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------------------------- |
-| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 4x100m                | 10e                                      | Eliminé en série                                                  |
+| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 4x100m                | 10e                                      | Eliminé en série<br>avec les [[Belgian Falcons]]                  |
 | 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - 60m | Finale                                   | Se blesse en finale<br>Série (6.53)                               |
 | 2026  | Meeting International de Sprint et Relais - Vari (Grèce) - 100m              |                                          | Record de Belgique non homologué à cause du vent trop fort        |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - 100m                                | Série<br>6e (Demi-finale)<br>8e (Finale) | Série (10.39)<br>Demi-finale (10.27)<br>Finale (13.12) => Crampes |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 4x100m                              | 3e 🥉                                    | avec les [[Belgian Falcons]]                                      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -11,6 +11,12 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
+```timeline-labeled
+[line-5, body-2]
+date: Aout 2026
+title: Plus de piste pour lui
+content: Un peu dégouté par ses derniers résultats sur piste en 5 et 10 km, il annonce vouloir se recentrer sur le marathon
+```
 
 # Palmarès et Distinctions
 | Année | Compétition                                    | Résultat      | Remarque                              |
@@ -21,6 +27,7 @@ type: personne
 | 2026  | [[Spike d'or]]                                 | ==Vainqueur== |                                       |
 | 2026  | Ligue de Diamant - Monaco - 5000m              | 10e           |                                       |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - 5000m | 9e            | Finale (13'23,17)                     |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 10km  | Abandon       |                                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -15,10 +15,10 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                                            | Résultat             | Remarque        |
-| ----- | ------------------------------------------------------ | -------------------- | --------------- |
-| 2026  | [[Championnats d'Europe d'athlétisme]] - 3000m Steeple | 4e (Série)<br>Finale | 8:34.63 (Série) |
-|       |                                                        |                      |                 |
+| Année | Compétition                                            | Résultat                  | Remarque                            |
+| ----- | ------------------------------------------------------ | ------------------------- | ----------------------------------- |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 3000m Steeple | 4e (Série)<br>7e (Finale) | 8:34.63 (Série)<br>8:29.25 (Finale) |
+|       |                                                        |                           |                                     |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

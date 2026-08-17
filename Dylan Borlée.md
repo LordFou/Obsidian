@@ -13,16 +13,17 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                           | Résultat | Remarque                        |
-| ----- | ----------------------------------------------------- | -------- | ------------------------------- |
-| 2025  | [[Meeting de Berne]] - 400m                           | 1ier     | à 1/100 de son record personnel |
-| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m mixte | 3e       |                                 |
-| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m       | 4e       |                                 |
-|       |                                                       |          |                                 |
-| 2026  | [[World Relays]] - 4x400m messieurs                   | 7e       | avec les [[Belgian Tornados]]   |
-| 2026  | Meeting de Madrid - Silver - 400m                     | 5e       | 45.73                           |
-| 2026  | [[Championnat de Belgique d'Athlétisme]] - 400m       | 3e       | 45.97                           |
-| 2026  | [[Championnats d'Europe d'athlétisme]] - 400m         | Série    | 46.17 (Série)                   |
+| Année | Compétition                                                         | Résultat | Remarque                        |
+| ----- | ------------------------------------------------------------------- | -------- | ------------------------------- |
+| 2025  | [[Meeting de Berne]] - 400m                                         | 1ier     | à 1/100 de son record personnel |
+| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 4x400m mixte | 3e       |                                 |
+| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 4x400m       | 4e       |                                 |
+|       |                                                                     |          |                                 |
+| 2026  | [[World Relays]] - 4x400m messieurs                                 | 7e       | avec les [[Belgian Tornados]]   |
+| 2026  | Meeting de Madrid - Silver - 400m                                   | 5e       | 45.73                           |
+| 2026  | [[Championnat de Belgique d'Athlétisme\|Champ. Belgique]] - 400m    | 3e       | 45.97                           |
+| 2026  | [[Championnats d'Europe d'athlétisme\|Champ. Europe]] - 400m        | Série    | 46.17 (Série)                   |
+| 2026  | [[Championnats d'Europe d'athlétisme\|Champ. Europe]] - 4x400m      | 4e       | avec les [[Belgian Tornados]]   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

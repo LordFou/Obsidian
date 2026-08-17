@@ -2,7 +2,7 @@
 type: event
 ---
 
-# EuroHockey Indoor Club Cup
+# Euro Hockey Indoor Club Cup
 
 # Introduction
 

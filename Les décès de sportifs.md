@@ -58,4 +58,9 @@ date: Aout 2026
 title: Décès de [[Prichard Colón]]
 content: Le boxeur [[Prichard Colón]], dans le coma pendant 221 jours après plusieurs coups à la nuque, est décédé à 33 ans
 ![[image-773.webp|500x281]]
+
+date: Aout 2026
+title: Drame sur le [[Tour du Portugal]]
+content: Le monde du cyclisme est en deuil. L’ogranisation du Tour du Portugal a annoncé ce vendredi le décès de [[Finlay Tarling]]. Âgé de 19 ans, le coureur de la formation NSN Development a été tué dans accident pendant la huitième étape. Le jeune coureur, qui se trouvait un peu en retrait du peloton, a été percuté par une voiture qui circulait en sens inverse
+![[image-774.webp|500x281]]
 ```

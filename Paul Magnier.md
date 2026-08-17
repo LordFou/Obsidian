@@ -46,6 +46,7 @@ type: personne
 | 2026  | [[Tour d'Italie]] - 18e étape                             | ==1ier== | Sprint                            |
 | 2026  | [[Tour d'Italie]] - Maillot Point                         | ==1ier== |                                   |
 | 2026  | [[Muur Classic]]                                          | ==1ier== | Surclassement - Sprint de costaud |
+| 2026  | [[Cyclassics Hambourg]]                                   | ==1ier== |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
