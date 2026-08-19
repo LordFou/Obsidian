@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7c54fb8a58a4fdde",
+        "id": "1873d4aac6b4e580",
         "type": "tabs",
         "children": [
           {
-            "id": "94883b41d4dc0277",
+            "id": "40ddbd738e09af4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tour du Rwanda.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tour du Rwanda"
-            }
-          },
-          {
-            "id": "e15ff43a4cd64029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loisirs/Sport/Sportifs/Nathan Sevenois.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nathan Sevenois"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -224,8 +206,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94883b41d4dc0277",
+  "active": "40ddbd738e09af4c",
   "lastOpenFiles": [
+    "Journal de bord/2026-08-19.md",
+    "Loisirs/Sport/Sportifs/Nathan Sevenois.md",
+    "Tour du Rwanda.md",
     "Loisirs/Sport/Sportifs/Florine Gaspard.md",
     "Loisirs/Sport/Sportifs/Sarah Dumont.md",
     "Loisirs/Sport/Sportifs/Lucas Henveaux.md",
@@ -247,15 +232,12 @@
     "Amanal Petros.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Jeux Mondiaux 2025.md",
     "Loisirs/Sport/Sportifs/Vincent Bierinckx.md",
-    "Loisirs/Sport/Sportifs/Nathan Sevenois.md",
     "Loisirs/Sport/Sportifs/Yohan Zaradzki.md",
     "Alisa Vainio.md",
     "Attachments/image-785.webp",
     "Loisirs/Sport/Compétitions/Novak Djokovic.md",
     "Hanne Vandewinkel.md",
     "Elise Mertens.md",
-    "Tournoi de Cincinnati.md",
-    "Isaac Kimeli.md",
     "Attachments/image-784.webp",
     "Attachments/image-783.webp",
     "Attachments/image-782.webp",
