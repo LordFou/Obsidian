@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1873d4aac6b4e580",
+        "id": "cad497bedf4ba27e",
         "type": "tabs",
         "children": [
           {
-            "id": "40ddbd738e09af4c",
+            "id": "3f8998406cf5d883",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Ulysse.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Ulysse"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ulysse",
+                "query": "Ilyade",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,8 +89,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,8 +209,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "571b06dbd1c46b81",
+  "active": "3f8998406cf5d883",
   "lastOpenFiles": [
+    "Culture/Histoire/Odyssée.md",
+    "Ulysse.md",
+    "Culture/Histoire/Iliade.md",
     "conflict-files-obsidian-git.md",
     "Journal de bord/2026-08-19.md",
     "Loisirs/Sport/Sportifs/Nathan Sevenois.md",
@@ -238,10 +240,7 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Jeux Mondiaux 2025.md",
     "Loisirs/Sport/Sportifs/Vincent Bierinckx.md",
     "Loisirs/Sport/Sportifs/Yohan Zaradzki.md",
-    "Alisa Vainio.md",
     "Attachments/image-785.webp",
-    "Loisirs/Sport/Compétitions/Novak Djokovic.md",
-    "Hanne Vandewinkel.md",
     "Attachments/image-784.webp",
     "Attachments/image-783.webp",
     "Attachments/image-782.webp",
