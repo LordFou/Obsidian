@@ -19,6 +19,8 @@ type: event
 | 2003  | [[Michael Rogers]]                             | CLM    |                 |             |                          |
 | 2004  | [[Michael Rogers]]                             | CLM    |                 |             |                          |
 | 2005  | [[Michael Rogers]]                             | CLM    |                 |             |                          |
+| 2020  | [[Julian Alaphilippe]]                         | Route  |                 |             |                          |
+| 2021  | [[Julian Alaphilippe]]                         | Route  |                 |             |                          |
 | 2023  | [[Remco Evenepoel]]                            | CLM    |                 | Belge       |                          |
 | 2024  | [[Remco Evenepoel]]                            | CLM    |                 | Belge       |                          |
 | 2025  | [[Remco Evenepoel]]                            | CLM    | Kigali (Rwanda) | Belge       |                          |

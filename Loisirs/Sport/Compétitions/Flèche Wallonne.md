@@ -15,6 +15,9 @@ Une des plus célèbres courses belges de cyclisme de la planète à cause de sa
 |       |                                  |             |                                                 |
 |       | [[Bo Hamburger]]                 | Américain   |                                                 |
 |       | [[Marc Hirschi]]                 | Suisse      |                                                 |
+| 2018  | [[Julian Alaphilippe]]           | Français    |                                                 |
+| 2019  | [[Julian Alaphilippe]]           | Français    |                                                 |
+| 2021  | [[Julian Alaphilippe]]           | Français    |                                                 |
 | 2024  | [[Stephen Willams]]              | Anglais     |                                                 |
 | 2025  | [[Tadej Pogacar\|Tadej Pogacar]] | Slovène     | 8e - [[Thibau Nys]]<br>9e - [[Remco Evenepoel]] |
 | 2026  | [[Paul Seixas]]                  | Français    |                                                 |

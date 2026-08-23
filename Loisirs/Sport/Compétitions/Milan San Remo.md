@@ -15,7 +15,7 @@ Une des courses cyclistes les plus longues mais aussi la plus ennuyeuse la plupa
 | 1974  | [[Eddy Merckx]]                                | ==Belge==   |             |                                                                                      |
 | 2009  | [[Marc Cavendish]]                             | Anglais     |             |                                                                                      |
 | 2014  | [[Alexander Kristoff]]                         | Norvégien   |             |                                                                                      |
-| 2019  |                                                |             |             |                                                                                      |
+| 2019  | [[Julian Alaphilippe]]                         | Français    |             |                                                                                      |
 | 2020  | [[Wout Van Aert]]                              | ==Belge==   |             |                                                                                      |
 | 2021  | [[Jasper Stuyven]]                             | ==Belge==   |             |                                                                                      |
 | 2022  |                                                |             |             |                                                                                      |
