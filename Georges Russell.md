@@ -25,7 +25,7 @@ type: personne
 | 2026  | [[Grand Prix d'Espagne]] - Course          | 2e       |                    |
 | 2026  | [[Grand Prix d'Autriche]] - Course         | ==1ier== |                    |
 | 2026  | [[Grand Prix de Grande-Bretagne]] - Course | 2e       |                    |
-| 2026  | Grand Prix des Pays-Bas                    |          |                    |
+| 2026  | [[Grand Prix des Pays-Bas]] - Sprint       | ==1ier== |                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

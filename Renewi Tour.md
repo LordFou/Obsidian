@@ -12,7 +12,8 @@ type: event
 | ------------ | -------------------- | -------------------- | -------- | ------ | ----- | --------- |
 | 1e (ITA)     | [[Jonathan Milan]]   | [[Jonathan Milan]]   |          |        |       |           |
 | ==2e (BEL)== | [[Jasper Philipsen]] | [[Jonathan Milan]]   |          |        |       |           |
-| ==3e (BEL)== | [[Jenno Berckmoes]]  | [[Jasper Philipsen]] |          |        |       |           |
+| ==3e (BEL)== | [[Jenno Berckmoes]]  | [[Jenno Berckmoes]]  |          |        |       |           |
+| ==4e (BEL)== | [[Jasper Philipsen]] | [[Jasper Philipsen]] |          |        |       |           |
 
 # Edition 2025
 
