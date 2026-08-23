@@ -1,26 +1,27 @@
 ---
 type: personne
 ---
-
+![[image-794.webp|184x246]]
 # Jenno Berckmoes
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** :  Cyclisme 
+- **Sport / Discipline** :  [[Cyclisme]] 
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Lotto]], [[Lotto-Intermarché]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
 | Année | Compétition                     | Résultat | Remarque    |
 | ----- | ------------------------------- | -------- | ----------- |
-| 2024  | [[Muur Classic]]                | 1ier     |             |
-| 2025  | [[Tour de Belgique]] - 4e étape | 1ier     | Etape Reine |
+| 2024  | [[Muur Classic]]                | ==1ier== |             |
+| 2025  | [[Tour de Belgique]] - 4e étape | ==1ier== | Etape Reine |
 | 2025  | [[Muur Classic]]                | 3e       |             |
 |       |                                 |          |             |
 | 2026  | [[Muur Classic]]                | 3e       |             |
 | 2026  | [[Tour de France]] - 12e étape  | Abandon  | Sur chute   |
+| 2026  | [[Renewi Tour]] - 3e étape      | ==1ier== |             |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
