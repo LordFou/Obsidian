@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cad497bedf4ba27e",
+        "id": "a12c798dcc98519b",
         "type": "tabs",
         "children": [
           {
-            "id": "3f8998406cf5d883",
+            "id": "2bb355a5b8692e8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Culture/Histoire/Odyssée.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Odyssée"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -209,10 +205,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f8998406cf5d883",
+  "active": "2bb355a5b8692e8c",
   "lastOpenFiles": [
-    "Ulysse.md",
+    "Journal de bord/2026-08-23.md",
     "Culture/Histoire/Odyssée.md",
+    "Ulysse.md",
     "Culture/Histoire/Iliade.md",
     "conflict-files-obsidian-git.md",
     "Journal de bord/2026-08-19.md",
@@ -239,7 +236,6 @@
     "Amanal Petros.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Jeux Mondiaux 2025.md",
     "Loisirs/Sport/Sportifs/Vincent Bierinckx.md",
-    "Loisirs/Sport/Sportifs/Yohan Zaradzki.md",
     "Attachments/image-785.webp",
     "Attachments/image-784.webp",
     "Attachments/image-783.webp",
