@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                            | Résultat | Remarque                                             |
 | ----- | -------------------------------------- | -------- | ---------------------------------------------------- |
-| 2025  | [[GP Denain]]                       | 1ier     |                                                      |
+| 2025  | [[GP Denain]]                          | 1ier     |                                                      |
 | 2025  | [[Tour de Norvège]] - Classement final | 1ier     |                                                      |
 | 2025  | ?                                      | 1ier     |                                                      |
 | 2025  | ?                                      | 1ier     |                                                      |
@@ -27,8 +27,10 @@ type: personne
 | 2025  | [[Tour de Pologne]] - 5e étape         | 1ier     | Sprint                                               |
 | 2025  | [[Tour d'Allemagne]] - 4e étape        | 1ier     | Sprint                                               |
 | 2025  | [[Tour de Grande Bretagne]] - 3e étape | 1ier     | Sprint                                               |
-| 2026  | [[Tour Down Under]] - 5e étape         | 1ier     | Sprint                                               |
-| 2026  | [[Kuurne Bruxelles Kuurne]]            | 1ier     | Sprint vent de face en costaud avec 2 vélos d'avance |
+|       |                                        |          |                                                      |
+| 2026  | [[Tour Down Under]] - 5e étape         | ==1ier== | Sprint                                               |
+| 2026  | [[Kuurne Bruxelles Kuurne]]            | ==1ier== | Sprint vent de face en costaud avec 2 vélos d'avance |
+| 2026  | [[Tour d'Espagne]] - 2e étape          | ==1ier== | Sprint                                               |
 
 # Style et Caractéristiques
 - Il a débuté sa formation en [[Cyclisme sur piste]]

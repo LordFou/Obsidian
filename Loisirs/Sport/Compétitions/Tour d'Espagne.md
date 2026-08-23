@@ -46,6 +46,12 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 
 # Edition 2026 
 
+## Hommes
+
+|          | Vainqueur           | Général           | Montagne | Points | Jeune | Remarques            |
+| -------- | ------------------- | ----------------- | -------- | ------ | ----- | -------------------- |
+| 1e (SLO) | [[Tadej Pogacar]]   | [[Tadej Pogacar]] |          |        |       |                      |
+| 2e (ANG) | [[Matthew Brennan]] | [[Tadej Pogacar]] |          |        |       | 13e - [[Vito Braet]] |
 ## Femmes
 
 |              | Vainqueur                | Général                  | Montagne                 | Points             | Jeune                 | Remarques                                               |
