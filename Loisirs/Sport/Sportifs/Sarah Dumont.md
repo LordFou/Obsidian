@@ -18,9 +18,11 @@ type: personne
 | 2025  | Euro - Petit bain - 200m Papillon                      | 11e                       | 2:09.10 (Demi-finale)               |
 | 2025  | Euro - Petit bain - 800m Nl                            | 6e                        | 8:22.93 (Finale)                    |
 | 2025  | Euro - Petit bain - 400m Nl                            | ? (Série)                 | 4:05.18                             |
+|       |                                                        |                           |                                     |
 | 2026  | Flanders Swimming Cup - 200m Nl                        | 1ière                     | 1:58.38                             |
 | 2026  | Réunion internationale de Sette Colli (Rome) - 800m Nl | 2e                        | 8:30.44 (==Record de Belgique !==)  |
 | 2026  | Championnat d'Europe de Natation - 800m Nl             | 9e (Série)                | 8:39.60                             |
+| 2026  | Championnat d'Europe de Natation - 200m Nl             | 7e (Finale)               | ==Record de Belgique==              |
 | 2026  | Championnat d'Europe de Natation - 400m Nl             | 7e (Série)<br>7e (Finale) | 4:11.03 (Série)<br>4:08:20 (Finale) |
 | 2026  | Championnat d'Europe de Natation - 200m Pap            | 8e (Finale)               |                                     |
 
@@ -32,6 +34,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 	- 800m Nl - Grand Bassin - 8:30.44 (Juin 2026)
 	- 200m Pap - Grand Bassin - 2:09.64 
 	- 400m 4n - Grand Bassin - 4:42.44
+	- 200m Nl - Grand Bassin
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
