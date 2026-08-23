@@ -13,10 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                      | Résultat | Remarque |
-| ----- | -------------------------------- | -------- | -------- |
-| 2026  | Flanders Swimming Cup - 200m Dos | 1ier     |          |
-| 2026  | Open de Stockholm - 200m Dos     | 7e       | 2:03.55  |
+| Année | Compétition                                  | Résultat | Remarque |
+| ----- | -------------------------------------------- | -------- | -------- |
+| 2026  | Flanders Swimming Cup - 200m Dos             | 1ier     |          |
+| 2026  | Open de Stockholm - 200m Dos                 | 7e       | 2:03.55  |
+| 2026  | Championnats d'Europe de Natation - 50m Dos  | Série    |          |
+| 2026  | Championnats d'Europe de Natation - 100m Dos | Série    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -1,7 +1,8 @@
 ---
 type: personne
 ---
-![[image-595.webp|306x145]]
+![[image-790.webp|500x281]]
+
 # Jonas Vingegaard
 
 # Informations Générales
@@ -54,7 +55,9 @@ type: personne
 - Vainqueur des 3 grands tours => [[Club des vainqueurs des 3 grands tours]]
 
 # Controverses ou Événements Importants
-- Chute lors de la 15e étape du [[Tour de France]] 2026 => fracture de la clavicule et abandon.
+- Chute lors de la 15e étape du [[Tour de France]] 2026 => fracture de la clavicule
+	- Abandon au tour.
+	- Fin de saison 2026.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
@@ -62,3 +65,5 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 # Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
+
+![[image-595.webp|306x145]]

@@ -15,10 +15,10 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                       | Résultat | Remarque   |
-| ----- | --------------------------------- | -------- | ---------- |
-| 2026  | Championnats d'Europe de natation | Série    | 20.10 (NR) |
-|       |                                   |          |            |
+| Année | Compétition                                | Résultat | Remarque   |
+| ----- | ------------------------------------------ | -------- | ---------- |
+| 2026  | Championnats d'Europe de natation - 50m Nl | Série    | 20.10 (NR) |
+|       |                                            |          |            |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

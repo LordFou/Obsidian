@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Coupe d'Afrique de Football
+# Coupe d'Afrique des Nations
 
 # Introduction
 
@@ -16,5 +16,5 @@ type: event
 
 | Année | Vainqueur | Remarque |
 | ----- | --------- | -------- |
-| 2025  |           |          |
+| 2026  | Cameroun  |          |
 |       |           |          |

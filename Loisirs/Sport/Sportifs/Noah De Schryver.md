@@ -17,7 +17,7 @@ type: personne
 
 | Année | Compétition                                 | Résultat | Remarque |
 | ----- | ------------------------------------------- | -------- | -------- |
-| 2026  | Championnats d'Europe de Natation - 200m Nl | Série    |          |
+| 2026  | Championnats d'Europe de Natation - 200m Br | Série    |          |
 |       |                                             |          |          |
 
 # Style et Caractéristiques  
