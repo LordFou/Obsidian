@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-549.webp|172x168]]
+![[image-797.webp|500x281]]
 # Thibeau Spits
 
 # Informations Générales
@@ -14,10 +14,10 @@ type: personne
 - Ranking : 1 (U25)
 
 # Palmarès et Distinctions
-| Année | Compétition                           | Résultat  | Remarque |
-| ----- | ------------------------------------- | --------- | -------- |
-| 2026  | Grand Prix 5 étoiles de Fontainebleau | Vainqueur |          |
-|       |                                       |           |          |
+| Année | Compétition                                        | Résultat  | Remarque |
+| ----- | -------------------------------------------------- | --------- | -------- |
+| 2026  | Grand Prix 5 étoiles de Fontainebleau              | Vainqueur |          |
+| 2026  | Championnat du Monde d'Equitation - Saut Obstacles | 2e        |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -14,7 +14,7 @@ type: event
 | ==2e (BEL)== | [[Jasper Philipsen]] | [[Jonathan Milan]]   |          |        |       |           |
 | ==3e (BEL)== | [[Jenno Berckmoes]]  | [[Jenno Berckmoes]]  |          |        |       |           |
 | ==4e (BEL)== | [[Jasper Philipsen]] | [[Jasper Philipsen]] |          |        |       |           |
-
+| ==5e (BEL)== | [[Jasper Philipsen]] | [[Jasper Philipsen]] |          |        |       |           |
 # Edition 2025
 
 ## Hommes
@@ -33,6 +33,6 @@ type: event
 | Année | Vainqueur                | Nationalité  | Remarque                                |
 | ----- | ------------------------ | ------------ | --------------------------------------- |
 | 2020  | [[Mathieu van der Poel]] | Néerlandaise |                                         |
-| 2025  | [[Arnaud De Lie]]        | Belge        | Beau duel avec [[Mathieu van der Poel]] |
-| 2025  |                          |              |                                         |
+| 2025  | [[Arnaud De Lie]]        | ==Belge==    | Beau duel avec [[Mathieu van der Poel]] |
+| 2026  | [[Jasper Philipsen]]     | ==Belge==    |                                         |
 |       |                          |              |                                         |
