@@ -14,9 +14,9 @@ type: personne
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
-content:
+date: Aout 2026  
+title: Fin de contrat chez [[Lotto]]
+content: Une nouvelle aventure commence avec l'équipe [[Tudor]]. 35 victoires au compteur.
 ```
 
 # Palmarès et Distinctions
