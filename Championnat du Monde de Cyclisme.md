@@ -10,20 +10,20 @@ type: event
 
 | Année | Vainqueur                                      | Course |                 | Nationalité | Remarque                 |
 | ----- | ---------------------------------------------- | ------ | --------------- | ----------- | ------------------------ |
-| 1984  | [[Claudy Criquielon]]                          | Route  |                 | Belge       |                          |
-| 2012  | [[Philippe Gilbert]]                           | Route  |                 | Belge       |                          |
+| 1984  | [[Claudy Criquielon]]                          | Route  |                 | ==Belge==   |                          |
+| 2012  | [[Philippe Gilbert]]                           | Route  |                 | ==Belge==   |                          |
 | 2019  | [[Mads Pedersen]]                              | Route  |                 | Danois      |                          |
-| 2022  | [[Remco Evenepoel]]                            | Route  |                 | Belge       |                          |
+| 2022  | [[Remco Evenepoel]]                            | Route  |                 | ==Belge==   |                          |
 | 2024  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Route  |                 | Slovène     |                          |
 | 2025  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Route  | Kigali (Rwanda) | Slovène     | 2e - [[Remco Evenepoel]] |
-| 2003  | [[Michael Rogers]]                             | CLM    |                 |             |                          |
-| 2004  | [[Michael Rogers]]                             | CLM    |                 |             |                          |
-| 2005  | [[Michael Rogers]]                             | CLM    |                 |             |                          |
-| 2020  | [[Julian Alaphilippe]]                         | Route  |                 |             |                          |
-| 2021  | [[Julian Alaphilippe]]                         | Route  |                 |             |                          |
-| 2023  | [[Remco Evenepoel]]                            | CLM    |                 | Belge       |                          |
-| 2024  | [[Remco Evenepoel]]                            | CLM    |                 | Belge       |                          |
-| 2025  | [[Remco Evenepoel]]                            | CLM    | Kigali (Rwanda) | Belge       |                          |
+| 2003  | [[Michael Rogers]]                             | CLM    |                 | Australien  |                          |
+| 2004  | [[Michael Rogers]]                             | CLM    |                 | Australien  |                          |
+| 2005  | [[Michael Rogers]]                             | CLM    |                 | Australien  |                          |
+| 2020  | [[Julian Alaphilippe]]                         | Route  |                 | Français    |                          |
+| 2021  | [[Julian Alaphilippe]]                         | Route  |                 | Français    |                          |
+| 2023  | [[Remco Evenepoel]]                            | CLM    |                 | ==Belge==   |                          |
+| 2024  | [[Remco Evenepoel]]                            | CLM    |                 | ==Belge==   |                          |
+| 2025  | [[Remco Evenepoel]]                            | CLM    | Kigali (Rwanda) | ==Belge==   |                          |
 # Femmes
 
 | Année | Vainqueur                     | Course | Nationalité  | Remarque                  |

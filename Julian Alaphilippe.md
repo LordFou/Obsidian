@@ -5,7 +5,7 @@ type: personne
 # Julian Alaphilippe
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  1992
 - **Nationalité** :  Français
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) : 
@@ -43,3 +43,5 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 # Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
+
+![[image-792.webp|500x281]]

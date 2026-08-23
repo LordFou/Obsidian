@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Championnat du Monde de Cyclisme.md",
+                "file": "Loisirs/Sport/Compétitions/Flèche Wallonne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Championnat du Monde de Cyclisme"
+              "title": "Flèche Wallonne"
             }
           },
           {
@@ -29,7 +29,7 @@
               "state": {
                 "file": "Red Lions.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Red Lions"
@@ -48,8 +48,23 @@
               "icon": "lucide-file",
               "title": "Renewi Tour"
             }
+          },
+          {
+            "id": "2f27653178f838d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alejandro Valverde.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alejandro Valverde"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Julian Alaphilippe",
+                "query": "Valverde",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -118,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -238,17 +253,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2bb355a5b8692e8c",
+  "active": "2f27653178f838d4",
   "lastOpenFiles": [
-    "Julian Alaphilippe.md",
-    "Loisirs/Sport/Compétitions/Milan San Remo.md",
     "Loisirs/Sport/Compétitions/Flèche Wallonne.md",
+    "Alejandro Valverde.md",
+    "Red Lions.md",
+    "Julian Alaphilippe.md",
+    "Loisirs/Sport/Sportifs/Maëlys Dapa.md",
+    "Attachments/image-793.webp",
+    "Attachments/image-792.webp",
+    "Championnat du Monde de Cyclisme.md",
+    "Michael Rogers.md",
+    "Loisirs/Sport/Compétitions/Milan San Remo.md",
     "Red Panthers.md",
     "Niels Driesen.md",
     "Attachments/image-791.webp",
     "Tour de l'Avenir.md",
     "Loisirs/Sport/Equipes/Red Giants.md",
-    "Red Lions.md",
     "Loisirs/Sport/Sportifs/Noah De Schryver.md",
     "Loisirs/Sport/Compétitions/Coupe d'Afrique des Nations.md",
     "Renewi Tour.md",
@@ -265,17 +286,11 @@
     "Loisirs/Sport/Sportifs/Vincent Van Hooydonck.md",
     "Loisirs/Sport/Sportifs/Noah Verreth.md",
     "Loisirs/Sport/Sportifs/Siri Vanderlinden.md",
-    "Loisirs/Sport/Sportifs/Simon Laviolette.md",
-    "Loisirs/Sport/Sportifs/Florine Gaspard.md",
-    "Loisirs/Sport/Sportifs/Lucas Henveaux.md",
-    "Loisirs/Sport/Sportifs/Sarah Dumont.md",
     "Attachments/image-788.webp",
     "Attachments/image-787.webp",
     "Attachments/image-786.webp",
     "Attachments/image-785.webp",
     "Attachments/image-784.webp",
-    "Attachments/image-783.webp",
-    "Attachments/image-782.webp",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
     "Famille/Vacances",
