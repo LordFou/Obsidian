@@ -35,6 +35,7 @@ type: personne
 | 2026  | [[Tour d'Italie]] - 21e étape        | ==1ier==     | Sprint Massif                                |
 | 2026  | [[Championnat d'Italie de Cyclisme]] | ==1ier==     |                                              |
 | 2026  | [[Tour de Pologne]] - 1e étape       | ==1ier==     |                                              |
+| 2026  | [[Renewi Tour]] - 1e étape           | ==1ier==     |                                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
