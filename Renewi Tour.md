@@ -8,10 +8,11 @@ type: event
 # Edition 2026
 ## Hommes
 
-|          | Vainqueur          | Général            | Montagne | Points | Jeune | Remarques |
-| -------- | ------------------ | ------------------ | -------- | ------ | ----- | --------- |
-| 1e (ITA) | [[Jonathan Milan]] | [[Jonathan Milan]] |          |        |       |           |
-|          |                    |                    |          |        |       |           |
+|          | Vainqueur            | Général              | Montagne | Points | Jeune | Remarques |
+| -------- | -------------------- | -------------------- | -------- | ------ | ----- | --------- |
+| 1e (ITA) | [[Jonathan Milan]]   | [[Jonathan Milan]]   |          |        |       |           |
+| 2e (BEL) | [[Jasper Philipsen]] | [[Jasper Philipsen]] |          |        |       |           |
+| 3e       |                      |                      |          |        |       |           |
 
 # Edition 2025
 
