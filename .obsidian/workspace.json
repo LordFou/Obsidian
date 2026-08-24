@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c883154594984ce3",
+            "id": "c7610dd6dd2cd022",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Politique.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Politique"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -206,8 +202,9 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "c883154594984ce3",
+  "active": "c7610dd6dd2cd022",
   "lastOpenFiles": [
+    "Politique.md",
     "conflict-files-obsidian-git.md",
     "Yaroslava Mahuchikh.md",
     "Stefan Nillessen.md",
@@ -243,7 +240,6 @@
     "Ruben Verheyden.md",
     "Les décès de sportifs.md",
     "Loisirs/Sport/Sportifs/Jochem Vermeulen.md",
-    "Loisirs/Sport/Sportifs/Lucas Coenen.md",
     "Loisirs/Jeux Vidéos/Musées",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
