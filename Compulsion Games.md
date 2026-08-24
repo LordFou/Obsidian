@@ -12,6 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
+	- [[Guillaume Provost]] (Patron)
 - **Pays d’origine** :  Canada
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
@@ -21,6 +22,10 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 date: Juin 2026  
 title: Xbox les lache
 content: A charge de retrouver un repreneur ou de prendre leur destin en main
+
+date: Aout 2026
+title: Le studio se rachète
+content: Le détail de l’opération reste cependant opaque et, si le studio récupère tous ses droits d’éditions, on ne connaît pas les conséquences sur les effectifs.
 ```
 
 ## Jeux Développés

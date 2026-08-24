@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+                "file": "Compulsion Games.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour d'Espagne"
+              "title": "Compulsion Games"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour d'Espagn",
+                "query": "Compul",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -209,6 +209,9 @@
   },
   "active": "c7610dd6dd2cd022",
   "lastOpenFiles": [
+    "Guillaume Provost.md",
+    "Compulsion Games.md",
+    "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "conflict-files-obsidian-git.md",
     "Ulysse.md",
     "Culture/Histoire/Odyssée.md",
@@ -242,9 +245,6 @@
     "Attachments/image-788.webp",
     "Andreas Almgren.md",
     "Amanal Petros.md",
-    "Alisa Vainio.md",
-    "Loisirs/Sport/Sportifs/Ben Broeders.md",
-    "Roos Vanotterdijk.md",
     "Loisirs/Jeux Vidéos/Musées",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
