@@ -11,10 +11,14 @@
             "id": "7214feea3b58fa22",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Apidya' Special.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Apidya' Special"
             }
           }
         ]
@@ -51,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Apidya’ Special",
+                "query": "Apidya",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,8 +209,9 @@
   },
   "active": "7214feea3b58fa22",
   "lastOpenFiles": [
-    "Journal de bord/2026-08-24.md",
+    "Team Apidya.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Apidya' Special.md",
+    "Journal de bord/2026-08-24.md",
     "Compulsion Games.md",
     "Guillaume Provost.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
@@ -239,7 +244,6 @@
     "Gianmarco Tamberi.md",
     "Euro Hockey Indoor Club Cup.md",
     "Diaz Hernandez.md",
-    "Coupe du Monde de Hockey.md",
     "Attachments/image-788.webp",
     "Loisirs/Jeux Vidéos/Musées",
     "Famille/Vacances/Danemark/Bork Havn",

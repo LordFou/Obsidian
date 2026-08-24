@@ -31,9 +31,9 @@ tags: mediaDB/game
 	- Studio : [[Team Apidya]]
 	- Personnalités : 
 - **Éditeur** : [[ININ]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch]]
 - **Franchise** : 
-- **Genre** : Action
+- **Genre** : [[Action]], [[Shoot'em up]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -49,6 +49,7 @@ tags: mediaDB/game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Une [[guêpe]]
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
@@ -58,6 +59,7 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL       |
-| ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/3956980 |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Steam       | https://store.steampowered.com/app/3956980       |
+| Trailer     | https://youtu.be/ZUP-wVaUxpU?si=86nRdKnAi__OoJBC |
