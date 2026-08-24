@@ -1,32 +1,29 @@
 ---
 type: personne
 ---
-
-![[image-779.webp|434x264]]
-# Vincent Van Hooydonck
+![[image-796.webp|500x281]]
+# Valérie Tombou
 
 # Informations Générales  
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** : [[Natation]] 
-- **Poste / Spécialité** (si applicable) :  Nl
+- **Sport / Discipline** : [[Judo]] 
+- **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                                | Résultat | Remarque   |
-| ----- | ------------------------------------------ | -------- | ---------- |
-| 2026  | Championnats d'Europe de natation - 50m Nl | Série    | 20.10 (NR) |
-|       |                                            |          |            |
+| Année                                      | Compétition | Résultat | Remarque |
+| ------------------------------------------ | ----------- | -------- | -------- |
+| Championnat du Monde de Judo Cadet (-70kg) | 2e          |          |          |
+|                                            |             |          |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants  
-- Record Grand Bain 
-	- Belgique
-		- 50m Nl (20.10)
+Lister lebattus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants  
 Évoquer les polémiques ou moments clés de sa carrière.

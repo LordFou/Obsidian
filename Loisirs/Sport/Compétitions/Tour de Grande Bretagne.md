@@ -5,11 +5,23 @@ type: event
 
 # Introduction
 
+# Edition 2026
+## Hommes
+
+|          | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques |
+| -------- | ----------------- | ----------------- | -------- | ------ | ----- | --------- |
+| 1e (NDL) | [[Lorena Wiebes]] | [[Lorena Wiebes]] |          |        |       |           |
+| 2e (NDL) | [[Lorena Wiebes]] | [[Lorena Wiebes]] |          |        |       |           |
+## Femmes
+
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|     |           |         |          |        |       |           |
+
+
 # Edition 2025
 
 ## Hommes
-
-### Etapes 
 
 |          | Vainqueur           | Général             | Montagne | Points | Jeune | Remarques             |
 | -------- | ------------------- | ------------------- | -------- | ------ | ----- | --------------------- |
@@ -21,15 +33,12 @@ type: event
 | 6e (NDL) | [[Olav Kooij]]      | [[Romain Grégoire]] |          |        |       |                       |
 ## Femmes
 
-### Etapes
-
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
 | --- | --------- | ------- | -------- | ------ | ----- | --------- |
 
 # General
 
 ### Hommes
-
 
 | Année | Vainqueur | Nationalité | Remarque |
 | ----- | --------- | ----------- | -------- |

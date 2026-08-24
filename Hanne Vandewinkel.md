@@ -11,7 +11,7 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
-- **Top Ranking** : 94e
+- **Top Ranking** : 82e
 
 # Palmarès et Distinctions
 | Année | Compétition                                        | Résultat   | Remarque                                 |

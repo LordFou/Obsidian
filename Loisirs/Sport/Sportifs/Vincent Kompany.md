@@ -13,13 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                  | Résultat       | Remarque                     |
-| ----- | ---------------------------- | -------------- | ---------------------------- |
-| 2025  | [[Trophée Raymond Goethals]] | 1ier           |                              |
-| 2026  | Championnat d'Allemagne      | 1ier           | avec le [[Bayern de Munich]] |
-| 2026  | Coupe d'Allemagne            | 1ier           | avec le [[Bayern de Munich]] |
-| 2026  | [[Champion's League]]        | Demi-finaliste | avec le [[Bayern de Munich]] |
-|       |                              |                |                              |
+| Année | Compétition                        | Résultat       | Remarque                     |
+| ----- | ---------------------------------- | -------------- | ---------------------------- |
+| 2025  | [[Trophée Raymond Goethals]]       | 1ier           |                              |
+| 2026  | Championnat d'Allemagne            | 1ier           | avec le [[Bayern de Munich]] |
+| 2026  | Coupe d'Allemagne                  | 1ier           | avec le [[Bayern de Munich]] |
+| 2026  | [[Champion's League]]              | Demi-finaliste | avec le [[Bayern de Munich]] |
+| 2026  | Entraîneur de l'année en Allemagne | Vainqueur      |                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

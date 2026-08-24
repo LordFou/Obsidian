@@ -6,3 +6,6 @@ type: team
 | 2026  | Championnat d'Allemagne | Vainqueur   | avec [[Vincent Kompany]]                              |     |
 | 2026  | Coupe d'Allemagne       | Vainqueur   | Triplé de [[Harry Kane]]<br>avec [[Vincent Kompany]]  |     |
 | 2026  | Champion's League       | Demi-finale | Défaite contre le [[PSG]]<br>avec [[Vincent Kompany]] |     |
+| 2026  | Super Coupe Allemagne   | Vainqueur   |                                                       |     |
+|       |                         |             |                                                       |     |
+![[image-795.webp|500x281]]

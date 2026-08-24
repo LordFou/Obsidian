@@ -1,0 +1,3 @@
+- Roi d'Ithaque
+- Général intelligent responsable de l'idée du [[Cheval de Troie]] qui a permis de prendre la ville de Troie après 10 ans de combat à partir des plages.
+- En grec, Ulysse = Odysseus => personne principal de l'[[Odyssée]]

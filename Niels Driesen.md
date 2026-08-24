@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-791.webp|179x263]]
 # Niels Driesen
 
 # Informations Générales
@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                        | Résultat | Remarque |
 | ----- | ---------------------------------- | -------- | -------- |
 | 2026  | [[Tour d'Oman]] - Classement final | 15e      |          |
+| 2026  | [[Tour de l'Avenir]] - 1e étape    | ==1ier== |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

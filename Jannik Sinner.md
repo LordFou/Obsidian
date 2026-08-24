@@ -33,6 +33,7 @@ type: personne
 | 2026  | [[Wimbledon]]                       | ==Vainqueur==   | Victoire contre [[Alexander Zverev]]                                  |
 | 2026  | [[Tournoi de Montréal]]             | Forfait         |                                                                       |
 | 2026  | [[Tournoi de Cincinnati]]           | Forfait         |                                                                       |
+| 2026  | [[US Open]]                         | Forfait         | Blessé au genou                                                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

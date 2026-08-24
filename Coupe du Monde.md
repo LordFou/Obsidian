@@ -17,6 +17,7 @@ type: event
 		- [[Kylian Mbappé]] élu meilleur buteur
 	- L'Espagne possède la meilleure défense du tournoi, un seul but encaissé du fait de nos [[Diables Rouges]].
 	- L'Argentine va jusqu'en finale avec un [[Lionel Messi]] en vrai Dieu du [[Football]]. Elle tombera contre l'Espagne sans gloire. Ciao Messi !
+		- Et avec [violence en plus](https://www.rtbf.be/article/finale-de-la-coupe-du-monde-2026-la-fifa-suspend-l-argentin-leandro-paredes-pour-10-matches-11773552)
 	- La Belgique souffle le chaud et le froid mais réussit son objectif de départ
 		- Elle sort difficilement du groupe en terminant par un très beau match contre la Nouvelle-Zélande
 		- Elle nous ressort un match à la Belgique - Japon en 2018 en inscrivant 3 buts au Sénégal à partir de la 86e minute (2-3)

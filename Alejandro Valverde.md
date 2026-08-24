@@ -2,31 +2,30 @@
 type: personne
 ---
 
-![[image-779.webp|434x264]]
-# Vincent Van Hooydonck
+
+# Alejandro Valverde
 
 # Informations Générales  
 - **Date de naissance** :  
-- **Nationalité** :  Belge
-- **Sport / Discipline** : [[Natation]] 
-- **Poste / Spécialité** (si applicable) :  Nl
+- **Nationalité** :  
+- **Sport / Discipline** :  
+- **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                                | Résultat | Remarque   |
-| ----- | ------------------------------------------ | -------- | ---------- |
-| 2026  | Championnats d'Europe de natation - 50m Nl | Série    | 20.10 (NR) |
-|       |                                            |          |            |
+| Année | Compétition           | Résultat                   | Remarque         |
+| ----- | --------------------- | -------------------------- | ---------------- |
+| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+|       |                       |                            |                  |
+|       |                       |                            |                  |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants  
-- Record Grand Bain 
-	- Belgique
-		- 50m Nl (20.10)
+- 4x Vainque de la [[Flèche Wallonne]]
 
 # Controverses ou Événements Importants  
 Évoquer les polémiques ou moments clés de sa carrière.

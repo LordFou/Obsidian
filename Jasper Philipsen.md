@@ -43,6 +43,10 @@ type: personne
 | 2026  | [[Tour de France]] - 12e étape                                           | 3e       |                                                           |
 | 2026  | [[Tour de France]] - 17e étape                                           | ==1ier== |                                                           |
 | 2026  | [[Tour de France]] - 21e étape                                           | 2e       |                                                           |
+| 2026  | [[Renewi Tour]] - 2e étape                                               | ==1ier== |                                                           |
+| 2026  | [[Renewi Tour]] - 4e étape                                               | ==1ier== |                                                           |
+| 2026  | [[Renewi Tour]] - 5e étape                                               | ==1ier== |                                                           |
+| 2026  | [[Renewi Tour]] - Classement final                                       | ==1ier== |                                                           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

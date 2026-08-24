@@ -12,6 +12,13 @@ type: personne
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
+```timeline-labeled
+[line-5, body-2]
+date: Aout 2026  
+title: Fin de contrat chez [[Lotto]]
+content: Une nouvelle aventure commence avec l'équipe [[Tudor]]. 35 victoires au compteur.
+```
+
 # Palmarès et Distinctions
 | Année | Compétition                             | Résultat | Remarque                                                    |
 | ----- | --------------------------------------- | -------- | ----------------------------------------------------------- |
@@ -45,6 +52,7 @@ type: personne
 | 2026  | [[Tour de Wallonie]] - 4e étape         | ==1ier== |                                                             |
 | 2026  | [[Tour de Wallonie]] - Classement final | 3e       | Bcp de malchance tout le long de l'épreuve                  |
 | 2026  | [[Tour de France]] - 3e étape           | Abandon  |                                                             |
+| 2026  | [[Renewi Tour]]                         | Abandon  | Symptômes respiratoires                                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
