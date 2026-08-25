@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Panthers.md",
+                "file": "Greet Minnen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Red Panthers"
+              "title": "Greet Minnen"
             }
           },
           {
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour d'Esp",
+                "query": "Jeline Vandromme",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,6 +254,8 @@
   },
   "active": "2bb355a5b8692e8c",
   "lastOpenFiles": [
+    "Jeline Vandromme.md",
+    "Red Panthers.md",
     "Jarno Widar.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "Grand Prix des Pays-Bas.md",
@@ -281,8 +283,6 @@
     "Loisirs/Sport/Sportifs/Vincent Kompany.md",
     "Loisirs/Sport/Arnaud de Lie.md",
     "Attachments/image-796.webp",
-    "Belgian Cats.md",
-    "Bayern de Munich.md",
     "Attachments/image-795.webp",
     "Attachments/image-794.webp",
     "Attachments/image-793.webp",

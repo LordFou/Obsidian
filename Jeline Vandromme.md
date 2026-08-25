@@ -33,6 +33,7 @@ type: personne
 | 2026  | [[Tournoi de Nantes]]                   | Vainqueure  |                                                                     |
 | 2026  | [[Roland-Garros]] - Qualifications      | 1e tour     |                                                                     |
 | 2026  | [[Wimbledon]] - Qualifications          | 3e tour     |                                                                     |
+| 2026  | [[US Open]] - Qualifications            | 2e tour     | Victoire contre [[Greet Minnen]]                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
