@@ -11,3 +11,4 @@ Equipe nationale féminine belge de [[Volley-Ball]]
 | 2026  | Ligue des nations - 6e match - Belgique-Turquie | Défaite       |                         |
 | 2026  | Ligue des nations - 7e match - Belgique-Brésil  | Défaite       |                         |
 | 2026  | Ligue des nations - 8e match - Belgique-France  | Victoire      |                         |
+| 2026  | [[Championnat d'Europe de Volley-Ball]]         | 1/8 de finale |                         |
