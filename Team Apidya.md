@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Compulsion Games
+# Team Apidya
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -12,28 +12,21 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-	- [[Guillaume Provost]] (Patron)
-- **Pays d’origine** :  Canada
+- **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
 ```timeline-labeled
 [line-5, body-2]
-date: Juin 2026  
-title: Xbox les lache
-content: A charge de retrouver un repreneur ou de prendre leur destin en main
-
-date: Aout 2026
-title: Le studio se rachète
-content: Le détail de l’opération reste cependant opaque et, si le studio récupère tous ses droits d’éditions, on ne connaît pas les conséquences sur les effectifs.
+date:  
+title: 
+content:
 ```
 
 ## Jeux Développés
-| Année | Titre                 | Genre  | Plateformes |
-| ----- | --------------------- | ------ | ----------- |
-| 2013  | Contrast              |        |             |
-| 2018  | We Happy Few          |        |             |
-| 2025  | [[South of Midnight]] | Action | PC, Xbox    |
+| Année | Titre               |
+| ----- | ------------------- |
+| 2026  | [[Apidya' Special]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
@@ -51,6 +44,6 @@ Lister les prix, distinctions ou records obtenus.
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |
