@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grand Prix des Pays-Bas.md",
+                "file": "Jarno Widar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grand Prix des Pays-Bas"
+              "title": "Jarno Widar"
             }
           },
           {
@@ -55,16 +55,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Lucas Coenen.md",
+                "file": "Marketa Vondrousova.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lucas Coenen"
+              "title": "Marketa Vondrousova"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Coenen",
+                "query": "Tour d'Esp",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,8 +252,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "71a2d60c27d3f0d3",
+  "active": "2bb355a5b8692e8c",
   "lastOpenFiles": [
+    "Jarno Widar.md",
+    "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+    "Grand Prix des Pays-Bas.md",
+    "Marketa Vondrousova.md",
     "Loisirs/Sport/Sportifs/Sacha Coenen.md",
     "Loisirs/Sport/Sportifs/Lucas Coenen.md",
     "Loisirs/Sport/Sportifs/Yomif Kejelcha.md",
@@ -271,7 +274,6 @@
     "Loisirs/Sport/Sportifs/Thibeau Spits.md",
     "Kimi Antonelli.md",
     "Attachments/image-797.webp",
-    "Grand Prix des Pays-Bas.md",
     "Lando Norris.md",
     "Renewi Tour.md",
     "Jasper Philipsen.md",
@@ -282,9 +284,6 @@
     "Belgian Cats.md",
     "Bayern de Munich.md",
     "Attachments/image-795.webp",
-    "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
-    "Loisirs/Sport/Sportifs/Wout Van Aert.md",
-    "Red Panthers.md",
     "Attachments/image-794.webp",
     "Attachments/image-793.webp",
     "Attachments/image-792.webp",

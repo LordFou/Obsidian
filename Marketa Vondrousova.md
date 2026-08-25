@@ -28,7 +28,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-- En juin 2026, elle est suspendue 4 ans pour refus de test antidopage fin 2025
+- En juin 2026, elle est suspendue 4 ans pour refus de test antidopage fin 2025, elle va faire appel au TAS.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

@@ -26,6 +26,7 @@ type: personne
 | 2026  | Grand Prix du Portugal                      | 3e       |                                     |
 | 2026  | Grand Prix des Flandres                     | 6e       |                                     |
 | 2026  | Grand Prix de Suède                         | ==1ier== |                                     |
+| 2026  | Grand Prix des Pays-Bas                     | 4e       |                                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

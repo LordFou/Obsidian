@@ -48,11 +48,12 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 
 ## Hommes
 
-|          | Vainqueur           | Général           | Montagne         | Points            | Jeune               | Remarques              |
-| -------- | ------------------- | ----------------- | ---------------- | ----------------- | ------------------- | ---------------------- |
-| 1e (SLO) | [[Tadej Pogacar]]   | [[Tadej Pogacar]] |                  |                   |                     | 8e - [[Wout Van Aert]] |
-| 2e (ANG) | [[Matthew Brennan]] | [[Tadej Pogacar]] | [[Koen Bouwman]] | [[Tadej Pogacar]] | [[Matthew Brennan]] | 13e - [[Vito Braet]]   |
-| 3e       |                     |                   |                  |                   |                     |                        |
+|          | Vainqueur           | Général           | Montagne          | Points            | Jeune               | Remarques              |
+| -------- | ------------------- | ----------------- | ----------------- | ----------------- | ------------------- | ---------------------- |
+| 1e (SLO) | [[Tadej Pogacar]]   | [[Tadej Pogacar]] |                   |                   |                     | 8e - [[Wout Van Aert]] |
+| 2e (ANG) | [[Matthew Brennan]] | [[Tadej Pogacar]] | [[Koen Bouwman]]  | [[Tadej Pogacar]] | [[Matthew Brennan]] | 13e - [[Vito Braet]]   |
+| 3e (-)   | -                   | [[Tadej Pogacar]] | [[Koen Bouwman]]  | [[Tadej Pogacar]] | [[Matthew Brennan]] |                        |
+| 4e (SLO) | [[Tadej Pogacar]]   | [[Tadej Pogacar]] | [[Tadej Pogacar]] | [[Tadej Pogacar]] |                     | 2e - [[Jarno Widar]]   |
 ## Femmes
 
 |              | Vainqueur                | Général                  | Montagne                 | Points             | Jeune                 | Remarques                                               |
