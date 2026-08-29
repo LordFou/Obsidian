@@ -13,10 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                   | Résultat | Remarque |
-| ----- | --------------------------------------------- | -------- | -------- |
-| 2026  | [[Championnats d'Europe d'athlétisme]] - 800m | 1ière    |          |
-| 2026  | Ligue de Diamant de Zurich - 800m             | 1ière    | 1.53.70  |
+| Année | Compétition                                   | Résultat | Remarque     |
+| ----- | --------------------------------------------- | -------- | ------------ |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 800m | 1ière    |              |
+| 2026  | Ligue de Diamant de Zurich - 800m             | 1ière    | 1.53.70 (PB) |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

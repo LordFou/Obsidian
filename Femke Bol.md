@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                         | Résultat | Remarque |
-| ----- | --------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 400m haies | 1ier     |          |
+| Année | Compétition                                         | Résultat | Remarque     |
+| ----- | --------------------------------------------------- | -------- | ------------ |
+| 2025  | [[Championnats du monde d'athlétisme]] - 400m haies | 1ier     |              |
+| 2026  | Ligue de Diamant de Zurich - 800m                   | 2e       | 1:54.71 (NR) |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
