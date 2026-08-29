@@ -15,23 +15,24 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                                         | Résultat | Remarque   |
-| ----- | --------------------------------------------------- | -------- | ---------- |
-| 2017  | [[Championnats du monde d'athlétisme]] - 400m Haies | 1ier     |            |
-| 2019  | [[Championnats du monde d'athlétisme]] - 400m Haies | 1ier     |            |
-| 2020  | [[Championnats d'Europe d'athlétisme]] - 400m Haies | 1ier     |            |
-| 2021  | [[JO 2020]] - 400m Haies                            | 1ier     |            |
-| 2022  | [[Championnats d'Europe d'athlétisme]] - 400m Haies | 1ier     |            |
-| 2023  | [[Championnats du monde d'athlétisme]] - 400m Haies | 1ier     |            |
-| 2024  | [[Championnats d'Europe d'athlétisme]] - 400m Haies | 1ier     |            |
-| 2026  | [[Championnats d'Europe d'athlétisme]] - 400m Haies | 1ier     | 46.63 (CR) |
-|       |                                                     |          |            |
+| Année | Compétition                                         | Résultat | Remarque       |
+| ----- | --------------------------------------------------- | -------- | -------------- |
+| 2017  | [[Championnats du monde d'athlétisme]] - 400m Haies | 1ier     |                |
+| 2019  | [[Championnats du monde d'athlétisme]] - 400m Haies | 1ier     |                |
+| 2020  | [[Championnats d'Europe d'athlétisme]] - 400m Haies | 1ier     |                |
+| 2021  | [[JO 2020]] - 400m Haies                            | 1ier     | 45.94 ==(WR==) |
+| 2022  | [[Championnats d'Europe d'athlétisme]] - 400m Haies | 1ier     |                |
+| 2023  | [[Championnats du monde d'athlétisme]] - 400m Haies | 1ier     |                |
+| 2024  | [[Championnats d'Europe d'athlétisme]] - 400m Haies | 1ier     |                |
+| 2026  | [[Championnats d'Europe d'athlétisme]] - 400m Haies | 1ier     | 46.63 (CR)     |
+|       |                                                     |          |                |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants  
-Lister lebattus, les moments légendaires ou les anecdotes notables.
+- Record du Monde 
+	- 400m Haies entre 2021 et 2026 
 
 # Controverses ou Événements Importants  
 Évoquer les polémiques ou moments clés de sa carrière.
