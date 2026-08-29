@@ -55,7 +55,7 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 | 3e (-)   | -                   | [[Tadej Pogacar]] | [[Koen Bouwman]]  | [[Tadej Pogacar]] | [[Matthew Brennan]] |                        |
 | 4e (SLO) | [[Tadej Pogacar]]   | [[Tadej Pogacar]] | [[Tadej Pogacar]] | [[Tadej Pogacar]] |                     | 2e - [[Jarno Widar]]   |
 | 5e (ANG) | [[Matthew Brennan]] | [[Tadej Pogacar]] | [[Tadej Pogacar]] | [[Tadej Pogacar]] |                     | 2e - [[Jordi Meeus]]   |
-|          |                     |                   |                   |                   |                     |                        |
+| 6e (SLO) | [[Tadej Pogacar]]   | [[Tadej Pogacar]] | [[Tadej Pogacar]] | [[Tadej Pogacar]] |                     |                        |
 ## Femmes
 
 |              | Vainqueur                | Général                  | Montagne                 | Points             | Jeune                 | Remarques                                               |

@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Tournoi de Monterrey
+# Tournoi de Monterrey - WTA 500
 
 # Introduction
 
