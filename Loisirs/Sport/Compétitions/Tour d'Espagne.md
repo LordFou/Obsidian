@@ -57,7 +57,7 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 | 5e (ANG) | [[Matthew Brennan]] | [[Tadej Pogacar]] | [[Tadej Pogacar]] | [[Tadej Pogacar]] |                     | 2e - [[Jordi Meeus]]   |
 | 6e (SLO) | [[Tadej Pogacar]]   | [[Tadej Pogacar]] | [[Tadej Pogacar]] | [[Tadej Pogacar]] |                     |                        |
 | 7e (NOR) |                     | [[Tadej Pogacar]] | [[Tadej Pogacar]] | [[Wout Van Aert]] |                     |                        |
-| 8e (FRA) | [[Bryan Coquard]]   | Enric M           |                   | [[Wout Van Aert]] |                     | 3e - [[Jordi Meeus]]   |
+| 8e (FRA) | [[Bryan Coquard]]   | [[Enric Maes]]    |                   | [[Wout Van Aert]] |                     | 3e - [[Jordi Meeus]]   |
 ## Femmes
 
 |              | Vainqueur                | Général                  | Montagne                 | Points             | Jeune                 | Remarques                                               |
