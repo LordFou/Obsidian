@@ -39,6 +39,7 @@ type: personne
 | 2026  | [[Tour de France]] - 4e étape                                       | ==1ier== |                            |
 | 2026  | [[Tour de France]] - Maillot à point                                | ==1ier== |                            |
 | 2026  | [[Critérium de Surhuisterveen]]                                     | 2e       |                            |
+| 2026  | [[Tour d'Espagne]] - 8e étape                                       | 2e       | Sprint                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

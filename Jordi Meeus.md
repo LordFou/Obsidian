@@ -37,6 +37,7 @@ type: personne
 | 2026  | [[Tour de Wallonie]] - 1e étape          | ==1ier== | Sprint                          |
 | 2026  | [[Brussels Cycling Classic]]             | ==1ier== | Sprint                          |
 | 2026  | [[Tour d'Espagne]] - 5e étape            | 2e       | Sprint                          |
+| 2026  | [[Tour d'Espagne]] - 8e étape            | 3e       | Sprint                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

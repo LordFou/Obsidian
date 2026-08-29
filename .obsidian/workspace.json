@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Cynthia Bolingo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cynthia Bolingo"
+            }
+          },
+          {
+            "id": "ab9e74bc8f01e580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
                 "mode": "source",
                 "source": false
@@ -55,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour d'",
+                "query": "Maes",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -210,14 +224,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "092d8fa309dad85d",
+  "active": "94b2d6d483a6fa66",
   "lastOpenFiles": [
-    "Loisirs/Sport/Tadej Pogacar.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+    "Cynthia Bolingo.md",
+    "Attachments/image-800.webp",
+    "Red Panthers.md",
+    "Loisirs/Sport/Mads Pedersen.md",
+    "Jordi Meeus.md",
+    "Loisirs/Sport/Tadej Pogacar.md",
     "Yellow Tigers.md",
     "Tournoi de Monterrey.md",
     "Elise Mertens.md",
-    "Jordi Meeus.md",
     "Loisirs/Sport/Sportifs/Matthew Brennan.md",
     "Lorenzo Finn.md",
     "Niels Driesen.md",
@@ -235,10 +253,7 @@
     "Tour du Poitou-Charentes.md",
     "Greet Minnen.md",
     "Jeline Vandromme.md",
-    "Red Panthers.md",
     "Grand Prix des Pays-Bas.md",
-    "Marketa Vondrousova.md",
-    "Loisirs/Sport/Sportifs/Sacha Coenen.md",
     "Attachments/image-798.webp",
     "Attachments/image-797.webp",
     "Attachments/image-796.webp",
@@ -247,7 +262,6 @@
     "Attachments/image-793.webp",
     "Attachments/image-792.webp",
     "Attachments/image-791.webp",
-    "Attachments/image-790.webp",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
     "Famille/Vacances",
