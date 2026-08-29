@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-799.webp|305x308]]
 # Lorenzo Mark Finn
 
 # Informations Générales
@@ -13,9 +13,14 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                  | Résultat | Remarque |
-| ----- | ---------------------------- | -------- | -------- |
-| 2026  | [[Giro Next Gen]] - 6e étape | 1ier     |          |
+| Année | Compétition                                             | Résultat | Remarque |
+| ----- | ------------------------------------------------------- | -------- | -------- |
+| 2025  | [[Championnat du Monde de Cyclisme]] - Catégorie Espoir | ==1ier== |          |
+|       |                                                         |          |          |
+| 2026  | [[Giro Next Gen]] - 6e étape                            | ==1ier== |          |
+| 2026  | [[Tour de l'Avenir]] - 7e étape                         | ==1ier== |          |
+| 2026  | [[Tour de l'Avenir]] - Classement final                 | ==1ier== |          |
+|       |                                                         |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

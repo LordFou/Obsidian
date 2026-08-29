@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gauthier Onclin.md",
+                "file": "Matteo Vanhuffel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gauthier Onclin"
+              "title": "Matteo Vanhuffel"
             }
           },
           {
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gauthier Onclin",
+                "query": "Matteo Vanhuffel",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -238,12 +238,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94b2d6d483a6fa66",
+  "active": "092d8fa309dad85d",
   "lastOpenFiles": [
+    "Niels Driesen.md",
+    "Tour du Rwanda.md",
+    "Lorenzo Finn.md",
+    "Attachments/image-799.webp",
+    "Championnat du Monde de Cyclisme.md",
+    "Tour de l'Avenir.md",
+    "Cian Uijtdebroeks.md",
+    "Gauthier Onclin.md",
     "Jarno Widar.md",
     "Journal de bord/2026-08-29.md",
     "Jasper Schoofs.md",
-    "Tour de l'Avenir.md",
     "Milan Fretin.md",
     "Tour du Poitou-Charentes.md",
     "Yellow Tigers.md",
@@ -261,12 +268,6 @@
     "Loisirs/Sport/Sportifs/Valérie Tombou.md",
     "Team Apidya.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Apidya' Special.md",
-    "Journal de bord/2026-08-24.md",
-    "Guillaume Provost.md",
-    "Journal de bord/2026-08-25.md",
-    "Red Lions.md",
-    "Georges Russell.md",
-    "Loisirs/Sport/Sportifs/Thibeau Spits.md",
     "Attachments/image-797.webp",
     "Attachments/image-796.webp",
     "Attachments/image-795.webp",
@@ -275,7 +276,6 @@
     "Attachments/image-792.webp",
     "Attachments/image-791.webp",
     "Attachments/image-790.webp",
-    "Attachments/image-789.webp",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
     "Famille/Vacances",
