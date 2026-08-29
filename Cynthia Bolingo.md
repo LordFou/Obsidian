@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-800.webp|332x197]]
+![[image-801.webp|301x517]]
 # Cynthia Bolingo
 
 # Informations Générales
@@ -30,7 +30,8 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Évoquer les polémiques ou moments clés de sa carrière.
 
 # Retraite et Reconversion
-Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
+- https://www.instagram.com/reel/DcjY3j0IxPV/?utm_source=ig_embed&ig_rid=A8KLkTG07AJtoUWeRJ1THSL
+- 
 
 # Sources et Références
 - [Lien vers une source](#)
