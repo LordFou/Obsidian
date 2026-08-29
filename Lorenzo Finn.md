@@ -18,6 +18,7 @@ type: personne
 | 2025  | [[Championnat du Monde de Cyclisme]] - Catégorie Espoir | ==1ier== |          |
 |       |                                                         |          |          |
 | 2026  | [[Giro Next Gen]] - 6e étape                            | ==1ier== |          |
+| 2026  | [[Giro Next Gen]] - Classement final                    | ==1ier== |          |
 | 2026  | [[Tour de l'Avenir]] - 7e étape                         | ==1ier== |          |
 | 2026  | [[Tour de l'Avenir]] - Classement final                 | ==1ier== |          |
 |       |                                                         |          |          |

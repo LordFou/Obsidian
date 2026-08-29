@@ -69,6 +69,7 @@ type: personne
 | 2026  | [[Wimbledon]] - Double                           |               |                                                                                                            |
 | 2026  | [[Tournoi de Toronto]] - Simple                  | 3e tour       | Défaite contre [[Naomi Osaka]] (WTA 13)                                                                    |
 | 2026  | [[Tournoi de Cincinnati]] - Simple               | 2e tour       | Défaite contre [[Diane Parry]] (WTA 66)                                                                    |
+| 2026  | [[Tournoi de Monterrey]] - Simple                | 1/4 finale    |                                                                                                            |
 
 # Style et Caractéristiques
 - C'est une joueuse très équilibrée et régulière qui intègre en juin 2025 le club très fermé des joueuses qui ont gagné un tournoi sur les 3 types de surface.
