@@ -11,15 +11,18 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
-- Top Ranking : 183
+- Top Ranking : 158
 
 # Palmarès et Distinctions
-| Année | Compétition               | Résultat  | Remarque |
-| ----- | ------------------------- | --------- | -------- |
-|       | [[Tournoi de Monastir]]   | Vainqueur |          |
-| ?     | [[Open de Côte d'Ivoire]] | Vainqueur |          |
-| 2026  | [[Open de Côte d'Ivoire]] | Vainqueur |          |
-|       |                           |           |          |
+| Année | Compétition               | Résultat           | Remarque |
+| ----- | ------------------------- | ------------------ | -------- |
+|       | [[Tournoi de Monastir]]   | Vainqueur          |          |
+| ?     | [[Open de Côte d'Ivoire]] | Vainqueur          |          |
+| 2025  | [[US Open]]               | Qualif - 1ier tour |          |
+| 2026  | [[Australian Open]]       | Qualif - 1ier tour |          |
+| 2026  | [[Wimbledon]]             | Qualif - 2e tour   |          |
+| 2026  | [[Open de Côte d'Ivoire]] | Vainqueur          |          |
+| 2026  | [[US Open]]               | Qualif - 1ier tour |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
