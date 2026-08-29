@@ -15,12 +15,14 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                             | Résultat | Remarque |
-| ----- | --------------------------------------- | -------- | -------- |
-| 2021  | [[JO 2020]]                             |          |          |
-| 2024  |                                         |          |          |
-| 2026  | Ligue de Diamant de Zurich - 400m Haies | ==1ier== | 45.80    |
-|       |                                         |          |          |
+| Année | Compétition                                         | Résultat | Remarque |
+| ----- | --------------------------------------------------- | -------- | -------- |
+| 2021  | [[JO 2020]]                                         | 3e       |          |
+| 2022  | [[Championnats du monde d'athlétisme]] - 400m Haies | ==1ier== |          |
+| 2024  | [[JO 2024]]                                         | 3e       |          |
+| 2025  | [[Championnats du monde d'athlétisme]] - 400m Haies | 2e       |          |
+| 2026  | Ligue de Diamant de Zurich - 400m Haies             | ==1ier== | 45.80    |
+|       |                                                     |          |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
