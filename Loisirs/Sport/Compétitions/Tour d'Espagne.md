@@ -58,6 +58,7 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 | 6e (SLO) | [[Tadej Pogacar]]   | [[Tadej Pogacar]] | [[Tadej Pogacar]] | [[Tadej Pogacar]] |                     |                        |
 | 7e (NOR) |                     | [[Tadej Pogacar]] | [[Tadej Pogacar]] | [[Wout Van Aert]] |                     |                        |
 | 8e (FRA) | [[Bryan Coquard]]   | [[Enric Maes]]    |                   | [[Wout Van Aert]] |                     | 3e - [[Jordi Meeus]]   |
+| 9e ()    |                     |                   |                   |                   |                     |                        |
 ## Femmes
 
 |              | Vainqueur                | Général                  | Montagne                 | Points             | Jeune                 | Remarques                                               |
