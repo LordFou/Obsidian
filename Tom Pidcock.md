@@ -15,6 +15,8 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                | Résultat | Remarque                  |
 | ----- | ------------------------------------------ | -------- | ------------------------- |
+| 2023  |                                            |          |                           |
+|       |                                            |          |                           |
 | 2025  | [[Strade Bianche]]                         | 2e       |                           |
 | 2025  | [[Arctic Race]] - 3e étape                 | 1ier     |                           |
 |       |                                            |          |                           |

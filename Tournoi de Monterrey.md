@@ -14,7 +14,7 @@ type: event
 |       |           |             |          |
 # Femmes
 
-| Année | Vainqueur         | Nationalité | Remarque |
-| ----- | ----------------- | ----------- | -------- |
-| 2026  | [[Linda Noskova]] | Tchèque     |          |
-|       |                   |             |          |
+| Année | Vainqueur         | Nationalité | Remarque              |
+| ----- | ----------------- | ----------- | --------------------- |
+| 2025  | [[Linda Noskova]] | Tchèque     |                       |
+| 2026  | [[Diane Parry]]   | Française   | Premier tournoi gagné |

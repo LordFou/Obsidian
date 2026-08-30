@@ -13,16 +13,21 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                   | Résultat | Remarque     |
-| ----- | --------------------------------------------- | -------- | ------------ |
-| 2022  | [[Championnat du Monde de Taekwondo]] - 62 kg | Or       |              |
-| 2023  | Jeux Européens - 62 kg                        | Or       |              |
-| 2026  | [[Championnat d'Europe de Taekwondo]] - ? kg  | Or       |              |
-| 2024  | [[Championnat d'Europe de Taekwondo]] - 67 kg | Or       |              |
-| 2024  | [[JO 2024]] -67 kg                            | Bronze   |              |
-| 2025  | Jeux Universitaires -73 kg                    | Argent   |              |
-| 2025  | [[Championnat du Monde de Taekwondo]] - 73 kg | Or       | Wuxi (Chine) |
-| 2026  | [[Championnat d'Europe de Taekwondo]] - 73 kg | Or       |              |
+| Année | Compétition                                        | Résultat | Remarque        |
+| ----- | -------------------------------------------------- | -------- | --------------- |
+| 2022  | [[Championnat du Monde de Taekwondo]] - 62 kg      | ==Or==   |                 |
+| 2023  | Jeux Européens - 62 kg                             | ==Or==   |                 |
+| 2026  | [[Championnat d'Europe de Taekwondo]] - ? kg       | ==Or==   |                 |
+| 2024  | [[Championnat d'Europe de Taekwondo]] - 67 kg      | ==Or==   |                 |
+| 2024  | [[JO 2024]] -67 kg                                 | Bronze   |                 |
+| 2025  | Jeux Universitaires -73 kg                         | Argent   |                 |
+| 2025  | [[Championnat du Monde de Taekwondo]] - 73 kg      | ==Or==   | Wuxi (Chine)    |
+| 2026  | [[Championnat d'Europe de Taekwondo]] - 73 kg      | ==Or==   |                 |
+| 2026  | Open de Fujairah (EAU)                             | ==Or==   |                 |
+| 2026  | Open de Skopje (Slovénie)                          | ==Or==   |                 |
+| 2026  | Open d'Espagne                                     | ==Or==   |                 |
+| 2026  | WT Présidents Cup - Europe à Nuremberg (Allemagne) | ==Or==   |                 |
+| 2026  | [[Championnat du Monde de Taekwondo]] - 73 kg      | ==Or==   | Taiyuan (Chine) |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
