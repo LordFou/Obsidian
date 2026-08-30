@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                | Résultat | Remarque                  |
 | ----- | ------------------------------------------ | -------- | ------------------------- |
-| 2023  |                                            |          |                           |
+| 2023  | Championnat du Monde de VTT                | ==1ier== |                           |
 |       |                                            |          |                           |
 | 2025  | [[Strade Bianche]]                         | 2e       |                           |
 | 2025  | [[Arctic Race]] - 3e étape                 | 1ier     |                           |
@@ -46,3 +46,5 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 # Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
+
+![[image-804.webp|500x281]]

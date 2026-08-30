@@ -58,7 +58,7 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 | 6e (SLO) | [[Tadej Pogacar]]      | [[Tadej Pogacar]] | [[Tadej Pogacar]]     | [[Tadej Pogacar]] |                     |                   |                        |
 | 7e (NOR) | [[Andreas Leknessund]] | [[Tadej Pogacar]] | [[Tadej Pogacar]]     | [[Wout Van Aert]] |                     |                   |                        |
 | 8e (FRA) | [[Bryan Coquard]]      | [[Enric Mas]]     |                       | [[Wout Van Aert]] |                     |                   | 3e - [[Jordi Meeus]]   |
-| 9e (ESP) | [[Enric Mas]]          | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] |                     | [[Pavel Sivakov]] | 7e - [[Jarno Widar]]   |
+| 9e (ESP) | [[Enric Mas]]          | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     | [[Pavel Sivakov]] | 7e - [[Jarno Widar]]   |
 |          |                        |                   |                       |                   |                     |                   |                        |
 ## Femmes
 
