@@ -48,17 +48,18 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 
 ## Hommes
 
-|          | Vainqueur           | Général           | Montagne          | Points            | Jeune               | Remarques              |
-| -------- | ------------------- | ----------------- | ----------------- | ----------------- | ------------------- | ---------------------- |
-| 1e (SLO) | [[Tadej Pogacar]]   | [[Tadej Pogacar]] |                   |                   |                     | 8e - [[Wout Van Aert]] |
-| 2e (ANG) | [[Matthew Brennan]] | [[Tadej Pogacar]] | [[Koen Bouwman]]  | [[Tadej Pogacar]] | [[Matthew Brennan]] | 13e - [[Vito Braet]]   |
-| 3e (-)   | -                   | [[Tadej Pogacar]] | [[Koen Bouwman]]  | [[Tadej Pogacar]] | [[Matthew Brennan]] |                        |
-| 4e (SLO) | [[Tadej Pogacar]]   | [[Tadej Pogacar]] | [[Tadej Pogacar]] | [[Tadej Pogacar]] |                     | 2e - [[Jarno Widar]]   |
-| 5e (ANG) | [[Matthew Brennan]] | [[Tadej Pogacar]] | [[Tadej Pogacar]] | [[Tadej Pogacar]] |                     | 2e - [[Jordi Meeus]]   |
-| 6e (SLO) | [[Tadej Pogacar]]   | [[Tadej Pogacar]] | [[Tadej Pogacar]] | [[Tadej Pogacar]] |                     |                        |
-| 7e (NOR) |                     | [[Tadej Pogacar]] | [[Tadej Pogacar]] | [[Wout Van Aert]] |                     |                        |
-| 8e (FRA) | [[Bryan Coquard]]   | [[Enric Maes]]    |                   | [[Wout Van Aert]] |                     | 3e - [[Jordi Meeus]]   |
-| 9e ()    |                     |                   |                   |                   |                     |                        |
+|          | Vainqueur           | Général           | Montagne              | Points            | Jeune               | Remarques              |
+| -------- | ------------------- | ----------------- | --------------------- | ----------------- | ------------------- | ---------------------- |
+| 1e (SLO) | [[Tadej Pogacar]]   | [[Tadej Pogacar]] |                       |                   |                     | 8e - [[Wout Van Aert]] |
+| 2e (ANG) | [[Matthew Brennan]] | [[Tadej Pogacar]] | [[Koen Bouwman]]      | [[Tadej Pogacar]] | [[Matthew Brennan]] | 13e - [[Vito Braet]]   |
+| 3e (-)   | -                   | [[Tadej Pogacar]] | [[Koen Bouwman]]      | [[Tadej Pogacar]] | [[Matthew Brennan]] |                        |
+| 4e (SLO) | [[Tadej Pogacar]]   | [[Tadej Pogacar]] | [[Tadej Pogacar]]     | [[Tadej Pogacar]] |                     | 2e - [[Jarno Widar]]   |
+| 5e (ANG) | [[Matthew Brennan]] | [[Tadej Pogacar]] | [[Tadej Pogacar]]     | [[Tadej Pogacar]] |                     | 2e - [[Jordi Meeus]]   |
+| 6e (SLO) | [[Tadej Pogacar]]   | [[Tadej Pogacar]] | [[Tadej Pogacar]]     | [[Tadej Pogacar]] |                     |                        |
+| 7e (NOR) |                     | [[Tadej Pogacar]] | [[Tadej Pogacar]]     | [[Wout Van Aert]] |                     |                        |
+| 8e (FRA) | [[Bryan Coquard]]   | [[Enric Mas]]     |                       | [[Wout Van Aert]] |                     | 3e - [[Jordi Meeus]]   |
+| 9e (ESP) | [[Enric Mas]]       | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] |                     | 7e - [[Jarno Widar]]   |
+|          |                     |                   |                       |                   |                     |                        |
 ## Femmes
 
 |              | Vainqueur                | Général                  | Montagne                 | Points             | Jeune                 | Remarques                                               |

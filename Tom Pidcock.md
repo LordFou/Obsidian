@@ -16,7 +16,7 @@ type: personne
 | Année | Compétition                                | Résultat | Remarque                  |
 | ----- | ------------------------------------------ | -------- | ------------------------- |
 | 2025  | [[Strade Bianche]]                         | 2e       |                           |
-| 2025  | [[Arctic Race]] - 3e étape                  | 1ier     |                           |
+| 2025  | [[Arctic Race]] - 3e étape                 | 1ier     |                           |
 |       |                                            |          |                           |
 | 2026  | [[Clasica Jaen]]                           | 2e       | Derrière [[Tim Wellens]]  |
 | 2026  | [[Tour d'Andalousie]] - 5e étape           | ==1ier== |                           |
@@ -27,6 +27,7 @@ type: personne
 | 2026  | [[Eschborn-Frankfurt]]                     | 2e       |                           |
 | 2026  | Coupe du Monde VTT - Nove Mesto (Tchèquie) | ==1ier== |                           |
 | 2026  | [[Tour de France]] - Combattif             | ==1ier== |                           |
+| 2026  | Championnat du Monde de VTT                | ==1ier== |                           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Vuelta",
+                "query": "Pid",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -226,9 +226,11 @@
   },
   "active": "092d8fa309dad85d",
   "lastOpenFiles": [
+    "Enric Mas.md",
+    "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+    "Tom Pidcock.md",
     "Journal de bord/2026-08-30.md",
     "Loisirs/Sport/Equipes/Belgians Lions.md",
-    "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "Loisirs/Sport/Sportifs/Audrey Werro.md",
     "Femke Bol.md",
     "Loisirs/Sport/Sportifs/Tobi Amusan.md",
@@ -254,8 +256,6 @@
     "Attachments/image-799.webp",
     "Championnat du Monde de Cyclisme.md",
     "Tour de l'Avenir.md",
-    "Cian Uijtdebroeks.md",
-    "Gauthier Onclin.md",
     "Attachments/image-798.webp",
     "Attachments/image-797.webp",
     "Attachments/image-796.webp",
