@@ -11,7 +11,7 @@ Equipe masculine belge de hockey
 | 2025  | Sultan Azlan Shah Cup        | ==Vainqueur==                                  | Tournoi amical en Malaisie                                                                                                                                                                    |
 |       |                              |                                                |                                                                                                                                                                                               |
 | 2026  | [[Hockey Pro League]]        | ==Vainqueur==                                  | Qualifications pour les [[JO 2028]]                                                                                                                                                           |
-| 2026  | [[Coupe du Monde de Hockey]] |                                                | Match 1 : Belgique - France (3-2)<br>Match 2 : Allemagne - Belgique (1-0)<br>Match 3 : Belgique - Malaise (5-3)<br>Match 4 : Belgique - Australie (1-1)<br>Match 5 : Belgique - Espagne (1-1) |
+| 2026  | [[Coupe du Monde de Hockey]] | 7e                                             | Match 1 : Belgique - France (3-2)<br>Match 2 : Allemagne - Belgique (1-0)<br>Match 3 : Belgique - Malaise (5-3)<br>Match 4 : Belgique - Australie (1-1)<br>Match 5 : Belgique - Espagne (1-1) |
 |       |                              |                                                |                                                                                                                                                                                               |
 Indoor Red Lions
 

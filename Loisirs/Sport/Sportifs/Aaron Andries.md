@@ -3,7 +3,7 @@ type: personne
 ---
 
 
-# Tibo Vyvey
+# Aaron Andries
 
 # Informations Générales  
 - **Date de naissance** :  
@@ -15,10 +15,10 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                           | Résultat | Remarque               |
-| ----- | ------------------------------------- | -------- | ---------------------- |
-| 2026  | Championnat du Monde - Deux de couple | 3e       | avec [[Aaron Andries]] |
-|       |                                       |          |                        |
+| Année | Compétition                           | Résultat | Remarque            |
+| ----- | ------------------------------------- | -------- | ------------------- |
+| 2026  | Championnat du Monde - Deux de couple | 3e       | avec [[Tibo Vyvey]] |
+|       |                                       |          |                     |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

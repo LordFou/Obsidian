@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Tibo Vyvey.md",
+                "file": "Red Panthers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tibo Vyvey"
+              "title": "Red Panthers"
             }
           }
         ],
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tibo Vyvey",
+                "query": "Red Panthers",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -118,7 +118,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,9 +241,12 @@
   },
   "active": "87256e91e580b5b6",
   "lastOpenFiles": [
+    "Elise Mertens.md",
+    "Belgian Cats.md",
+    "Red Lions.md",
+    "Loisirs/Sport/Sportifs/Aaron Andries.md",
     "Loisirs/Sport/Sportifs/Tibo Vyvey.md",
     "Thierry Neuville.md",
-    "Elise Mertens.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "Andreas Leknessund.md",
     "Attachments/image-803.webp",
@@ -267,9 +271,6 @@
     "Loisirs/Sport/Tadej Pogacar.md",
     "Yellow Tigers.md",
     "Tournoi de Monterrey.md",
-    "Loisirs/Sport/Sportifs/Matthew Brennan.md",
-    "Lorenzo Finn.md",
-    "Niels Driesen.md",
     "Attachments/image-799.webp",
     "Attachments/image-798.webp",
     "Attachments/image-797.webp",
