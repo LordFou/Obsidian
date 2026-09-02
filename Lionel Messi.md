@@ -29,7 +29,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 	- Il est le plus capé (34 matchs)
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Fin de carrière internationale après la [[Coupe du Monde]] 2026 (Aout 2026)
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

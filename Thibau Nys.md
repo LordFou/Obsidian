@@ -39,6 +39,7 @@ type: personne
 | 2026  | [[Championnat de Belgique de Cyclocross]]                                | ==1ier== |                                   |
 | 2026  | CXWorldCup - Benidorm                                                    | 2e       | derrière [[Mathieu van der Poel]] |
 | 2026  | [[Championnat du Monde de Cyclocross]]                                   | 3e       |                                   |
+| 2026  | [[Tour d'Espagne]] - 10e étape                                           | 3e       |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

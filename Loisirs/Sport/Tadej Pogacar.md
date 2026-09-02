@@ -90,7 +90,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - Lors de [[Liège-Bastogne-Liège]] 2023, il se fracture le poignet.
 - Il ne peut pas éviter la polémique du dopage (physique et mécanique) vu ses performances.
 - Lors de [[Milan San Remo]] 2026, il remporte la victoire après une grosse chute et malgré un cadre cassé, ce dont il n'était pas au courant.
-- Lors du [[Tour d'Espagne]] 2026, il chute tout seul 
+- Lors du [[Tour d'Espagne]] 2026, il chute tout seul => [Article RTBF](https://www.rtbf.be/article/tadej-pogacar-a-ete-opere-de-la-clavicule-avec-succes-apres-sa-lourde-chute-sur-la-vuelta-11778044)
 	- Commotion cérébrale
 	- Une fracture déplacée de la clavicule gauche
 	- Une fracture cervicale stable de C7 
