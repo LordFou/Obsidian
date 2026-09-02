@@ -6,7 +6,7 @@ type: personne
 # Elise Mertens
 
 # Informations Générales
-- **Date de naissance** :  1990
+- **Date de naissance** :  1996
 - **Nationalité** :  Belge
 - **Sport / Discipline** : [[Tennis]] 
 - **Poste / Spécialité** (si applicable) :  

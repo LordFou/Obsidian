@@ -60,6 +60,7 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 | 8e (FRA)  | [[Bryan Coquard]]      | [[Enric Mas]]     |                       | [[Wout Van Aert]] |                     |                   | 3e - [[Jordi Meeus]]                          |
 | 9e (ESP)  | [[Enric Mas]]          | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     | [[Pavel Sivakov]] | 7e - [[Jarno Widar]]                          |
 | 10e (FRA) | [[Bastien Tronchon]]   | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   | 3e - [[Thibau Nys]]<br>4e - [[Wout Van Aert]] |
+| 11e (ANG) | [[Matthew Brennan]]    | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   | 3e - [[Jordi Meeus]]                          |
 ## Femmes
 
 |              | Vainqueur                | Général                  | Montagne                 | Points             | Jeune                 | Remarques                                               |
