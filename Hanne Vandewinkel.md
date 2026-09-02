@@ -14,16 +14,18 @@ type: personne
 - **Top Ranking** : 82e
 
 # Palmarès et Distinctions
-| Année | Compétition                                        | Résultat   | Remarque                                 |
-| ----- | -------------------------------------------------- | ---------- | ---------------------------------------- |
-| 2025  | [[Tournoi de Tampico]]                             | Vainqueure |                                          |
-|       |                                                    |            |                                          |
-| 2026  | [[Billie Jean King Cup]] - 1/8 finale - 1ier match | Vainqueure | contre [[Iva Jovic]]                     |
-| 2026  | [[Roland-Garros]]                                  | 1e tour    | Défaite contre [[Madison Keys]] (WTA 19) |
-| 2026  | [[Wimbledon]]                                      | 1e tour    | Défaite contre [[Claire Liu]] (WTA 146)  |
-| 2026  | [[Tournoi d'Istanbul]]                             | Finale     |                                          |
-| 2026  | [[Tournoi de Landisville]]                         | Vainqueure |                                          |
-| 2026  | [[Tournoi de Cincinnati]]                          | 1e tour    |                                          |
+| Année | Compétition                                        | Résultat   | Remarque                                                                      |
+| ----- | -------------------------------------------------- | ---------- | ----------------------------------------------------------------------------- |
+| 2025  | [[Tournoi de Tampico]]                             | Vainqueure |                                                                               |
+|       |                                                    |            |                                                                               |
+| 2026  | [[Billie Jean King Cup]] - 1/8 finale - 1ier match | Vainqueure | contre [[Iva Jovic]]                                                          |
+| 2026  | [[Roland-Garros]]                                  | 1e tour    | Défaite contre [[Madison Keys]] (WTA 19)                                      |
+| 2026  | [[Wimbledon]]                                      | 1e tour    | Défaite contre [[Claire Liu]] (WTA 146)                                       |
+| 2026  | [[Tournoi d'Istanbul]]                             | Finale     |                                                                               |
+| 2026  | [[Tournoi de Landisville]]                         | Vainqueure |                                                                               |
+| 2026  | [[Tournoi de Cincinnati]]                          | 1e tour    |                                                                               |
+| 2026  | [[US Open]]                                        | 1e tour    | Elle a eu une balle de match<br>Défaite contre [[Karolina Pliskova]] (WTA 57) |
+|       |                                                    |            |                                                                               |
 
 # Style et Caractéristiques
 - Fan de [[Cyclisme]] et de [[Wout Van Aert]]

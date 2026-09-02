@@ -10,7 +10,10 @@ type: event
 
 | Année | Vainqueur | Remarque |
 | ----- | --------- | -------- |
-| 2026  |           |          |
+|       | Allemagne |          |
+|       | Allemagne |          |
+|       | Allemagne |          |
+| 2026  | Allemagne |          |
 |       |           |          |
 # Femmes
 

@@ -31,6 +31,7 @@ type: personne
 | 2026  | [[Wimbledon]]             | 1/2 finale    | Victoire contre [[Felix Auger-Aliassime]] (ATP 4)<br>Défaite contre [[Jannik Sinner]] en demi (ATP 1 |
 | 2026  | [[Tournoi de Montréal]]   | Forfait       |                                                                                                      |
 | 2026  | [[Tournoi de Cincinnati]] | 1e tour       |                                                                                                      |
+| 2026  | [[US Open]]               | 1e tour       | Plus éliminé au 1ier tour d'un [[Grand Chelem]]                                                      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
