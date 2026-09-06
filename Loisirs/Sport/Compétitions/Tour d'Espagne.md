@@ -63,6 +63,8 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 | 11e (ANG) | [[Matthew Brennan]]    | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   | 3e - [[Jordi Meeus]]                          |
 | 12e (SLO) | [[Jakob Omrzel]]       | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   |                                               |
 | 13e (BEL) | [[Wout Van Aert]]      | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   | 4e - [[Jarno Widar]]                          |
+| 14e (ALL) | [[Marco Brenner]]      | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   |                                               |
+|           |                        |                   |                       |                   |                     |                   |                                               |
 ## Femmes
 
 |              | Vainqueur                | Général                  | Montagne                 | Points             | Jeune                 | Remarques                                               |

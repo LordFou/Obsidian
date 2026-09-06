@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jarno Widar.md",
+                "file": "Zizou Bergs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jarno Widar"
+              "title": "Zizou Bergs"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Jarn",
+                "query": "Zizou",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,17 +239,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c155aa81f9db28ac",
+  "active": "de27cabab80b87a4",
   "lastOpenFiles": [
-    "Zizou Bergs.md",
+    "Elise Mertens.md",
     "Alexander Blockx.md",
-    "Belgian Cats.md",
-    "Jarno Widar.md",
-    "Loisirs/Sport/Sportifs/Wout Van Aert.md",
+    "Marco Brenner.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+    "Loisirs/Sport/Tadej Pogacar.md",
+    "Jarno Widar.md",
+    "Belgian Cats.md",
+    "Zizou Bergs.md",
+    "Loisirs/Sport/Sportifs/Wout Van Aert.md",
     "Loisirs/Sport/Compétitions/Tour de Grande Bretagne.md",
     "Loisirs/Sport/Olav Kooij.md",
-    "Elise Mertens.md",
     "Jakob Omrzel.md",
     "Loisirs/Sport/Sportifs/Tiger Woods.md",
     "Lewis Askey.md",
@@ -262,11 +264,9 @@
     "Thibau Nys.md",
     "Bastien Tronchon.md",
     "Raphaël Collignon.md",
-    "Loisirs/Sport/Tadej Pogacar.md",
     "Lionel Messi.md",
     "Coupe du Monde.md",
     "Loisirs/Sport/Compétitions/Novak Djokovic.md",
-    "Hanne Vandewinkel.md",
     "Attachments/image-805.webp",
     "Attachments/image-804.webp",
     "Attachments/image-803.webp",

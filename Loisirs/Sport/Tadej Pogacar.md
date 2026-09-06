@@ -95,6 +95,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 	- Une fracture déplacée de la clavicule gauche
 	- Une fracture cervicale stable de C7 
 	- Multiples abrasions.
+	- FIN DE SAISON
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

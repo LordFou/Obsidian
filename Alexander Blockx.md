@@ -37,7 +37,7 @@ type: personne
 | 2026  | [[Tournoi d'Estoril]]      | Finale         | Victoire en 1/8 contre [[Kyrian Jacquet]] (ATP 134)<br>Victoire en 1/4 contre [[Roman Andres Burruchaga]] (ATP 60)<br>Victoire en 1/2 contre [[Luciano Darderi]] (ATP 21)<br>Défaite en final contre [[Lucas van Assche]] (ATP 78) |
 | 2026  | [[Tournoi de Montréal]]    | 3e tour        | Défaite contre [[Jiri Lehecka]] (ATP 8)                                                                                                                                                                                            |
 | 2026  | [[Tournoi de Cincinnati]]  | 3e tour        | Victoire contre [[Mariano Navone]] (ATP 44) au 2e tour<br>Défaire contre [[Flavio Cobolli]] (ATP 10)                                                                                                                               |
-| 2026  | [[US Open]]                | 3e tour        | Victoire contre [[Tomas Barrios Vera]] (ATP 144)<br>Victoire contre [[Argentin Marco Trungelliti]]  (ATP 84)<br>Meilleur résultat en Grand Chelem                                                                                  |
+| 2026  | [[US Open]]                | 1/8 finale     | Victoire contre [[Tomas Barrios Vera]] (ATP 144)<br>Victoire contre [[Argentin Marco Trungelliti]]  (ATP 84)<br>Victoire contre [[Flavio Cobolli]] (ATP 6)<br>Meilleur résultat en Grand Chelem                                    |
 |       |                            |                |                                                                                                                                                                                                                                    |
 
 # Style et Caractéristiques
