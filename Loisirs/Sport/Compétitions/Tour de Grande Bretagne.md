@@ -19,6 +19,8 @@ type: event
 | 1e (ANG)     | [[Lewis Askey]] | [[Lewis Askey]] |          |        |       |           |
 | ==2e (BEL)== | [[Tim Merlier]] | [[Lewis Askey]] |          |        |       |           |
 | 3e (NDL)     | [[Olav Kooij]]  | [[Lewis Askey]] |          |        |       |           |
+| 4e           |                 | [[Tim Wellens]] |          |        |       |           |
+| 5e (ALL)     | [[Nils Politt]] | [[Tim Wellens]] |          |        |       |           |
 
 
 # Edition 2025
