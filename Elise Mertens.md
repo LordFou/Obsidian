@@ -70,7 +70,7 @@ type: personne
 | 2026  | [[Tournoi de Toronto]] - Simple                  | 3e tour       | Défaite contre [[Naomi Osaka]] (WTA 13)                                                                                                                                   |
 | 2026  | [[Tournoi de Cincinnati]] - Simple               | 2e tour       | Défaite contre [[Diane Parry]] (WTA 66)                                                                                                                                   |
 | 2026  | [[Tournoi de Monterrey]] - Simple                | Finale        | Victoire en quart contre [[Yuliia Starodubtseva]] (WTA 74)<br>Victoire en demi contre [[Nikola Bartunkova]] (WTA 38)<br>Défaite en finale contre [[Diane Parry]] (WTA 50) |
-| 2026  | [[US Open]] - Simple                             | 2e tour       |                                                                                                                                                                           |
+| 2026  | [[US Open]] - Simple                             | 3e tour       | Victoire contre [[Maria Timofeeva]] (WTA 86)                                                                                                                              |
 
 # Style et Caractéristiques
 - C'est une joueuse très équilibrée et régulière qui intègre en juin 2025 le club très fermé des joueuses qui ont gagné un tournoi sur les 3 types de surface.

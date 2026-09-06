@@ -14,10 +14,10 @@ type: event
 | 2e (NDL) | [[Lorena Wiebes]] | [[Lorena Wiebes]] |          |        |       |           |
 ## Hommes
 
-|              | Vainqueur       | Général | Montagne | Points | Jeune | Remarques |
-| ------------ | --------------- | ------- | -------- | ------ | ----- | --------- |
-| 1e           |                 |         |          |        |       |           |
-| ==2e (BEL)== | [[Tim Merlier]] |         |          |        |       |           |
+|              | Vainqueur       | Général         | Montagne | Points | Jeune | Remarques |
+| ------------ | --------------- | --------------- | -------- | ------ | ----- | --------- |
+| 1e (ANG)     | [[Lewis Askey]] | [[Lewis Askey]] |          |        |       |           |
+| ==2e (BEL)== | [[Tim Merlier]] |                 |          |        |       |           |
 
 
 # Edition 2025

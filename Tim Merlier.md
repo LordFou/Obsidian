@@ -57,7 +57,7 @@ type: personne
 | 2026  | [[Tour de France]] - 15e étape                             | Abandon  | Plus aucune étape de sprinteur                                |
 | 2026  | [[Critérium de Roulers]]                                   | 2e       |                                                               |
 | 2026  | [[Critérium Acht van Chaam]]                               | ==1ier== |                                                               |
-| 2026  | [[Tour de Grande Bretagne]]                                | ==1ier== |                                                               |
+| 2026  | [[Tour de Grande Bretagne]] - 2e étape                     | ==1ier== |                                                               |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

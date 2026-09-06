@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tim Merlier.md",
+                "file": "Loisirs/Sport/Compétitions/Tour de Grande Bretagne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tim Merlier"
+              "title": "Tour de Grande Bretagne"
             }
           },
           {
@@ -27,15 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Tiger Woods.md",
+                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tiger Woods"
+              "title": "Tour d'Espagne"
+            }
+          },
+          {
+            "id": "c155aa81f9db28ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alexander Blockx.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alexander Blockx"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour de Gran",
+                "query": "Alexa",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -224,17 +239,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16ca842f51924748",
+  "active": "c155aa81f9db28ac",
   "lastOpenFiles": [
+    "Elise Mertens.md",
+    "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+    "Jakob Omrzel.md",
+    "Loisirs/Sport/Sportifs/Tiger Woods.md",
     "Loisirs/Sport/Compétitions/Tour de Grande Bretagne.md",
+    "Lewis Askey.md",
     "Zizou Bergs.md",
     "Journal de bord/2026-09-06.md",
+    "Tim Merlier.md",
     "Jordi Meeus.md",
-    "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
-    "Loisirs/Sport/Sportifs/Tiger Woods.md",
     "Delphine Nkansa.md",
     "Loisirs/Sport/Mads Pedersen.md",
-    "Elise Mertens.md",
     "Yellow Tigers.md",
     "Loisirs/Sport/Sportifs/Wout Van Aert.md",
     "Thibau Nys.md",
@@ -250,9 +268,6 @@
     "Loisirs/Sport/Sportifs/Héloïse Doumont.md",
     "Attachments/image-805.webp",
     "Journal de bord/2026-09-02.md",
-    "Belgian Cats.md",
-    "Loisirs/Sport/Sportifs/Sami Pajari.md",
-    "Rallye du Paraguay.md",
     "Attachments/image-804.webp",
     "Attachments/image-803.webp",
     "Attachments/image-802.webp",
