@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alexander Blockx.md",
+                "file": "Belgian Cats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alexander Blockx"
+              "title": "Belgian Cats"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Alexa",
+                "query": "Belgi",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,15 +239,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c155aa81f9db28ac",
+  "active": "de27cabab80b87a4",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Tour de Grande Bretagne.md",
+    "Loisirs/Sport/Olav Kooij.md",
+    "Belgian Cats.md",
+    "Zizou Bergs.md",
+    "Alexander Blockx.md",
     "Elise Mertens.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "Jakob Omrzel.md",
     "Loisirs/Sport/Sportifs/Tiger Woods.md",
-    "Loisirs/Sport/Compétitions/Tour de Grande Bretagne.md",
     "Lewis Askey.md",
-    "Zizou Bergs.md",
     "Journal de bord/2026-09-06.md",
     "Tim Merlier.md",
     "Jordi Meeus.md",
@@ -257,7 +260,6 @@
     "Loisirs/Sport/Sportifs/Wout Van Aert.md",
     "Thibau Nys.md",
     "Bastien Tronchon.md",
-    "Alexander Blockx.md",
     "Raphaël Collignon.md",
     "Loisirs/Sport/Tadej Pogacar.md",
     "Lionel Messi.md",
@@ -265,9 +267,7 @@
     "Loisirs/Sport/Compétitions/Novak Djokovic.md",
     "Hanne Vandewinkel.md",
     "Coupe du Monde de Hockey.md",
-    "Loisirs/Sport/Sportifs/Héloïse Doumont.md",
     "Attachments/image-805.webp",
-    "Journal de bord/2026-09-02.md",
     "Attachments/image-804.webp",
     "Attachments/image-803.webp",
     "Attachments/image-802.webp",

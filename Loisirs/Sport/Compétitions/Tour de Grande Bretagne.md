@@ -17,7 +17,8 @@ type: event
 |              | Vainqueur       | Général         | Montagne | Points | Jeune | Remarques |
 | ------------ | --------------- | --------------- | -------- | ------ | ----- | --------- |
 | 1e (ANG)     | [[Lewis Askey]] | [[Lewis Askey]] |          |        |       |           |
-| ==2e (BEL)== | [[Tim Merlier]] |                 |          |        |       |           |
+| ==2e (BEL)== | [[Tim Merlier]] | [[Lewis Askey]] |          |        |       |           |
+| 3e (NDL)     | [[Olav Kooij]]  | [[Lewis Askey]] |          |        |       |           |
 
 
 # Edition 2025

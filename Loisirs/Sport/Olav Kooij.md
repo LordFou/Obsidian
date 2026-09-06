@@ -31,6 +31,7 @@ type: personne
 | 2026  | [[Tour de Belgique]] - 4e étape        | ==1ier== | Sprint                                     |
 | 2026  | [[Tour de France]] - 5e étape          | ==1ier== | Sprint                                     |
 | 2026  | [[Critérium Acht van Chaam]]           | 2e       |                                            |
+| 2026  | [[Tour de Grande Bretagne]] - 3e étape | ==1ier== |                                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
