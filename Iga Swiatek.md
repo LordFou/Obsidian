@@ -33,6 +33,7 @@ content: La numéro 3 mondiale Iga Swiatek, "déçue" après son élimination ve
 |       |                           |            |                                  |
 | 2026  | [[Australian Open]]       | 1/4 finale |                                  |
 | 2026  | [[Roland-Garros]]         | 1/8 finale | Défaite contre [[Marta Kostyuk]] |
+| 2026  | [[US Open]]               |            |                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

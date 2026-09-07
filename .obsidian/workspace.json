@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Belgian Cats.md",
+                "file": "Iga Swiatek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Belgian Cats"
+              "title": "Iga Swiatek"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Belgi",
+                "query": "Swiatek",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -227,6 +227,7 @@
   },
   "active": "37ef6c69cc66e3a2",
   "lastOpenFiles": [
+    "Belgian Cats.md",
     "Max Verstappen.md",
     "Georges Russell.md",
     "Kimi Antonelli.md",
@@ -236,7 +237,6 @@
     "US Open.md",
     "Loisirs/Sport/Sportifs/Paulien Couckuyt.md",
     "Memorial Ivo Van Damme.md",
-    "Belgian Cats.md",
     "Elise Mertens.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "Loisirs/Sport/Sportifs/Wout Van Aert.md",
