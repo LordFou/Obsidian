@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7f8eac72462489a9",
+        "id": "59e01f70f6ce63a4",
         "type": "tabs",
         "children": [
           {
-            "id": "419befc0f4e9dcfc",
+            "id": "6e35a6b4185bc46f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-09-07.md",
+                "file": "Max Verstappen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-07"
+              "title": "Max Verstappen"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Paulien",
+                "query": "Max",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -210,8 +210,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "419befc0f4e9dcfc",
+  "active": "6e35a6b4185bc46f",
   "lastOpenFiles": [
+    "Georges Russell.md",
+    "Kimi Antonelli.md",
+    "Grand Prix d'Italie.md",
     "Journal de bord/2026-09-07.md",
     "Loisirs/Sport/Compétitions/Tour de Grande Bretagne.md",
     "US Open.md",
@@ -221,8 +224,6 @@
     "Elise Mertens.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "Loisirs/Sport/Sportifs/Wout Van Aert.md",
-    "Kimi Antonelli.md",
-    "Grand Prix d'Italie.md",
     "Loisirs/Sport/Sportifs/Charles Leclerc.md",
     "Tim Wellens.md",
     "Nils Politt.md",
@@ -237,7 +238,6 @@
     "Loisirs/Sport/Sportifs/Tiger Woods.md",
     "Lewis Askey.md",
     "Journal de bord/2026-09-06.md",
-    "Tim Merlier.md",
     "Attachments/image-805.webp",
     "Attachments/image-804.webp",
     "Attachments/image-803.webp",
