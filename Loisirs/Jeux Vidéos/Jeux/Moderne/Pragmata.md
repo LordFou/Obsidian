@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : [[Capcom]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
 - **Franchise** : 
-- **Genre** : 
+- **Genre** : Hack'n Shoot
 - **Résumé** : 
 
 ## Détails Techniques
@@ -25,6 +25,7 @@ type: game
 	- CheckPoint (7.5/10)
 	- Izual : Scénario un peu à la ramasse
 	- 1 millions de vente en 2 jours
+	- Canard Pc (8/10)
 - **Gameplay** :
 - **Durée estimée** : 15h max
 
@@ -34,7 +35,7 @@ type: game
 - **Epoque** : 
 - **Personnages principaux** : 
 	- Hugh Williams
-	- Diana
+	- Diana (Androïde)
 - **Ennemis** :
 - **Thèmes abordés** : 
 	- La place de l'homme et de la machine

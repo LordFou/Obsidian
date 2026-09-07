@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Industrie du jeu vidéo.md",
+                "file": "Loisirs/Jeux Vidéos/Mini jeu de hacking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Industrie du jeu vidéo"
+              "title": "Mini jeu de hacking"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Industrie",
+                "query": "Hacking",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -104,7 +104,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -224,10 +225,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37ef6c69cc66e3a2",
+  "active": "94b2d6d483a6fa66",
   "lastOpenFiles": [
-    "Iga Swiatek.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Pragmata.md",
+    "Loisirs/Jeux Vidéos/Mini jeu de hacking.md",
+    "Loisirs/Jeux Vidéos/Sociétés/Capcom.md",
+    "Lucas Pope.md",
+    "Nacon.md",
     "Loisirs/Jeux Vidéos/Industrie du jeu vidéo.md",
+    "Iga Swiatek.md",
     "Belgian Cats.md",
     "Max Verstappen.md",
     "Georges Russell.md",
@@ -247,11 +253,6 @@
     "Loisirs/Sport/Sportifs/Sacha Coenen.md",
     "Zizou Bergs.md",
     "Alexander Blockx.md",
-    "Marco Brenner.md",
-    "Loisirs/Sport/Tadej Pogacar.md",
-    "Jarno Widar.md",
-    "Loisirs/Sport/Olav Kooij.md",
-    "Jakob Omrzel.md",
     "Attachments/image-805.webp",
     "Attachments/image-804.webp",
     "Attachments/image-803.webp",
