@@ -14,7 +14,7 @@ type: game
 - **Plateformes** : [[PC]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Action]], [[Aventure]], [[Die and Retry]], [[Cinematic platformers]]
-- **Résumé** : 
+- **Résumé** : Suite à une catastrophe nucléaire dans les années 1960, les groupes scientifiques et humanistes du début ont laissé place à une méga corporation qui a enfermé la ville à l'intérieur de murs. Vous incarnez la fusion d'un humain et de l'IA R.E.A.C.H.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -35,11 +35,17 @@ type: game
 - **Lieu(x)** : 
 	- Monde [[Cyberpunk]]
 - **Epoque** : 
+	- [[Uchronie]]
 - **Personnages principaux** : 
+	- Le héros principal est une fusion 
+		- de R.E.A.C.H (une IA)
+		- du professeur Marsh
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- L'[[Intelligence Artificielle]]
 - **Influencé par** :
 	- Le film [[Blade Runner]]
+	- [[ICE]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
