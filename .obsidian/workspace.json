@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Going Medieval.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Replaced.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Going Medieval"
+              "title": "Replaced"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Going",
+                "query": "Replac",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -227,8 +227,13 @@
   },
   "active": "37ef6c69cc66e3a2",
   "lastOpenFiles": [
-    "Foxy Voxel.md",
+    "Sad Cat Studio.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Replaced.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Creature Kitchen.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Starship Troopers - Ultimate Bug War!.md",
+    "Auroch Digital.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Going Medieval.md",
+    "Foxy Voxel.md",
     "Loisirs/Jeux Vidéos/Mini jeu de hacking.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Pragmata.md",
     "Loisirs/Jeux Vidéos/Sociétés/Capcom.md",
@@ -248,11 +253,6 @@
     "Memorial Ivo Van Damme.md",
     "Elise Mertens.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
-    "Loisirs/Sport/Sportifs/Wout Van Aert.md",
-    "Loisirs/Sport/Sportifs/Charles Leclerc.md",
-    "Tim Wellens.md",
-    "Nils Politt.md",
-    "Loisirs/Sport/Sportifs/Sacha Coenen.md",
     "Attachments/image-805.webp",
     "Attachments/image-804.webp",
     "Attachments/image-803.webp",

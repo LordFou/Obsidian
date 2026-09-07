@@ -13,7 +13,7 @@ type: game
 - **Éditeur** : [[Thunderful Publishing]]
 - **Plateformes** : [[PC]], [[Xbox Series]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[Die and Retry]]
+- **Genre** : [[Action]], [[Aventure]], [[Die and Retry]], [[Cinematic platformers]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -24,6 +24,10 @@ type: game
 - **Réception critique** : 
 	- Assez dur d'après les gens, notamment quelques passages plateformes très hard.
 	- CheckPoint (6.5/10)
+	- Canard PC (9/10)
+		- Sublime
+		- Mis en scène avec brio
+		- Histoire pas extraordinaire mais qui tient la route.
 - **Gameplay** :
 - **Durée estimée** : 
 
