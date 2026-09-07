@@ -1,0 +1,1 @@
+- En 2025-2026, 25% des employés dans le secteur ont été licenciés

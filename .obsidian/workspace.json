@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iga Swiatek.md",
+                "file": "Loisirs/Jeux Vidéos/Industrie du jeu vidéo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iga Swiatek"
+              "title": "Industrie du jeu vidéo"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Swiatek",
+                "query": "Industrie",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -104,8 +104,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,6 +226,8 @@
   },
   "active": "37ef6c69cc66e3a2",
   "lastOpenFiles": [
+    "Iga Swiatek.md",
+    "Loisirs/Jeux Vidéos/Industrie du jeu vidéo.md",
     "Belgian Cats.md",
     "Max Verstappen.md",
     "Georges Russell.md",
@@ -251,8 +252,6 @@
     "Jarno Widar.md",
     "Loisirs/Sport/Olav Kooij.md",
     "Jakob Omrzel.md",
-    "Loisirs/Sport/Sportifs/Tiger Woods.md",
-    "Lewis Askey.md",
     "Attachments/image-805.webp",
     "Attachments/image-804.webp",
     "Attachments/image-803.webp",
