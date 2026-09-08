@@ -1,16 +1,15 @@
-![image]({{ image }})
 # {{title}}
 
 ## Informations Générales
 
-- **Année de sortie** :  {{ year }}
+- **Année de sortie** :  
 - **Développeur** : 
-	- Studio : {{ developers }}
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : {{ publishers }}
+- **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : {{ genres }}
+- **Genre** : 
 - **Résumé** :  
 
 ## Détails Techniques
@@ -18,7 +17,6 @@
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : {{ onlineRating }}
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -37,4 +35,4 @@
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | {{ url }} |
+
