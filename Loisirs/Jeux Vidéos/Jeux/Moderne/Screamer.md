@@ -22,6 +22,8 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- CheckPoint (8,5/10)
+	- Canard PC (6/10)
+		- Trop exi
 - **Gameplay** : 
 	- Les pilotes auraient des pouvoirs
 - **Durée estimée** : 

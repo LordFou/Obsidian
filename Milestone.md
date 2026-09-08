@@ -12,7 +12,7 @@ type: societe
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-- **Pays d’origine** :  
+- **Pays d’origine** :  Italie
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 

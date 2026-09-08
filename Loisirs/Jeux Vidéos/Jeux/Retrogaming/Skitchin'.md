@@ -1,16 +1,17 @@
-# {{title}}
+![[image-806.webp|320x224]]
+# Skitchin'
 
 ## Informations Générales
 
-- **Année de sortie** :  
+- **Année de sortie** :  1994
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[Master System]]
 - **Franchise** : 
 - **Genre** : 
-- **Résumé** :  
+- **Résumé** :  [[Course]] de roller
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -26,6 +27,7 @@
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- Le [[Roller]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

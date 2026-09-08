@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Super Meat Boy 3D.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Screamer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Super Meat Boy 3D"
+              "title": "Screamer"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Super Meat",
+                "query": "Screamer",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -226,6 +226,14 @@
   },
   "active": "6e35a6b4185bc46f",
   "lastOpenFiles": [
+    "Milestone.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Screamer.md",
+    "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Skitchin'.md",
+    "Attachments/image-806.webp",
+    "Templates/Fiche Jeu.md",
+    "Templates/Fiche Jeu Pré-Rempli.md",
+    "{{.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Super Meat Boy 3D.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Darwin's Paradox!.md",
     "ZDT Studio.md",
     "Aurélien Loos.md",
@@ -245,13 +253,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Pragmata.md",
     "Loisirs/Jeux Vidéos/Sociétés/Capcom.md",
     "Lucas Pope.md",
-    "Nacon.md",
-    "Loisirs/Jeux Vidéos/Industrie du jeu vidéo.md",
-    "Iga Swiatek.md",
-    "Belgian Cats.md",
-    "Georges Russell.md",
-    "Kimi Antonelli.md",
-    "Grand Prix d'Italie.md",
     "Attachments/image-805.webp",
     "Attachments/image-804.webp",
     "Attachments/image-803.webp",
@@ -261,7 +262,6 @@
     "Attachments/image-799.webp",
     "Attachments/image-798.webp",
     "Attachments/image-797.webp",
-    "Attachments/image-796.webp",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
     "Famille/Vacances",
