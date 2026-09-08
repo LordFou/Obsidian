@@ -35,8 +35,7 @@
               "title": "Replaced"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Replac",
+                "query": "Alexander",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -225,10 +224,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37ef6c69cc66e3a2",
+  "active": "571b06dbd1c46b81",
   "lastOpenFiles": [
-    "Sad Cat Studio.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Replaced.md",
+    "Sad Cat Studio.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Creature Kitchen.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Starship Troopers - Ultimate Bug War!.md",
     "Auroch Digital.md",
