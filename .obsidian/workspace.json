@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aurélien Loos.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Super Meat Boy 3D.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aurélien Loos"
+              "title": "Super Meat Boy 3D"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Leikir",
+                "query": "Super Meat",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -226,6 +226,9 @@
   },
   "active": "6e35a6b4185bc46f",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Darwin's Paradox!.md",
+    "ZDT Studio.md",
+    "Aurélien Loos.md",
     "Loisirs/Jeux Vidéos/Sociétés/Leikir Studio.md",
     "Vito Braet.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
@@ -249,9 +252,6 @@
     "Georges Russell.md",
     "Kimi Antonelli.md",
     "Grand Prix d'Italie.md",
-    "Journal de bord/2026-09-07.md",
-    "Loisirs/Sport/Compétitions/Tour de Grande Bretagne.md",
-    "US Open.md",
     "Attachments/image-805.webp",
     "Attachments/image-804.webp",
     "Attachments/image-803.webp",
