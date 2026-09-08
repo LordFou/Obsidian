@@ -34,7 +34,7 @@ tags: mediaDB/game
 	- Studio : [[Typin]]
 	- Personnalités : 
 - **Éditeur** : [[Typin]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Simulation]], [[Strategie]], [[Roguelike]]
 - **Résumé** :  
