@@ -66,6 +66,7 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 | 14e (ALL)     | [[Marco Brenner]]      | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   |                                               |
 | ==15e (BEL)== | [[Wout Van Aert]]      | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   |                                               |
 | 16e (ANG)     | [[Matthew Brennan]]    | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   | 3e - [[Vito Braet]]                           |
+| 17e (ANG)     | [[Matthew Brennan]]    | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   | 2e - [[Jordi Meeus]]                          |
 |               |                        |                   |                       |                   |                     |                   |                                               |
 ## Femmes
 

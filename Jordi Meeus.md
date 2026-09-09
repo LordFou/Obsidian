@@ -39,6 +39,7 @@ type: personne
 | 2026  | [[Tour d'Espagne]] - 5e étape            | 2e       | Sprint                          |
 | 2026  | [[Tour d'Espagne]] - 8e étape            | 3e       | Sprint                          |
 | 2026  | [[Tour d'Espagne]] - 11e étape           | 3e       | Sprint                          |
+| 2026  | [[Tour d'Espagne]] - 17e étape           | 2e       | Sprint                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

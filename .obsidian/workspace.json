@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Welcome to Elderfield.md",
+                "file": "Jordi Meeus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome to Elderfield"
+              "title": "Jordi Meeus"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Box Knight",
+                "query": "Tour d'Es",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -210,12 +210,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "571b06dbd1c46b81",
+  "active": "fb719a9414880d68",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+    "Loisirs/Sport/Sportifs/Matthew Brennan.md",
+    "Elise Mertens.md",
+    "Carlos Alcaraz.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Welcome to Elderfield.md",
     "Attachments/image-808.webp",
     "Attachments/image-807.webp",
     "Chris Cote.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Welcome to Elderfield.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Replaced.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Ratline.md",
     "Golden Idol.md",
@@ -236,9 +240,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre 8.md",
     "Templates/Fiche Jeu.md",
     "Templates/Fiche Jeu non prérempli.md",
-    "Nintendo.md",
-    "Franchise Screamer.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Screamer.md",
     "Attachments/image-806.webp",
     "Attachments/image-805.webp",
     "Attachments/image-804.webp",
@@ -247,7 +248,6 @@
     "Attachments/image-801.webp",
     "Attachments/image-800.webp",
     "Attachments/image-799.webp",
-    "Attachments/image-798.webp",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
     "Famille/Vacances",

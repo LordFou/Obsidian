@@ -32,6 +32,9 @@ type: personne
 | 2026  | [[Kuurne Bruxelles Kuurne]]            | ==1ier== | Sprint vent de face en costaud avec 2 vélos d'avance |
 | 2026  | [[Tour d'Espagne]] - 2e étape          | ==1ier== | Sprint                                               |
 | 2026  | [[Tour d'Espagne]] - 5e étape          | ==1ier== | Sprint                                               |
+| 2026  | [[Tour d'Espagne]] - 11e étape         | ==1ier== | Sprint                                               |
+| 2026  | [[Tour d'Espagne]] - 16e étape         | ==1ier== | Sprint                                               |
+| 2026  | [[Tour d'Espagne]] - 17e étape         | ==1ier== | Sprint                                               |
 
 # Style et Caractéristiques
 - Il a débuté sa formation en [[Cyclisme sur piste]]
