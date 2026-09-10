@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jordi Meeus.md",
+                "file": "Belgian Cats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jordi Meeus"
+              "title": "Belgian Cats"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour d'Es",
+                "query": "Belgian",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -212,6 +212,7 @@
   },
   "active": "fb719a9414880d68",
   "lastOpenFiles": [
+    "Jordi Meeus.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "Loisirs/Sport/Sportifs/Matthew Brennan.md",
     "Elise Mertens.md",
@@ -239,7 +240,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Tomodatchi Life.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre 8.md",
     "Templates/Fiche Jeu.md",
-    "Templates/Fiche Jeu non prérempli.md",
     "Attachments/image-806.webp",
     "Attachments/image-805.webp",
     "Attachments/image-804.webp",
