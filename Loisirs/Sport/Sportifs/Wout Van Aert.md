@@ -97,6 +97,7 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 | 2026  | [[Tour des Flandres]]                                             | 4e       |                                                                            |
 | 2026  | Championnat de Belgique de Gravel                                 | 2e       |                                                                            |
 | 2026  | [[Tour d'Espagne]] - 10e étape                                    | 4e       |                                                                            |
+| 2026  | [[Tour d'Espagne]] - 18e étape                                    | 5e       | CLM                                                                        |
 
 ![[Pasted image 20250415003019.png]]
 # Style et Caractéristiques
