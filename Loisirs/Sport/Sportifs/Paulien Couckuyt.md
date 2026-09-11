@@ -21,6 +21,7 @@ type: personne
 | 2025  | [[Championnats du monde d'athlétisme]] - 400m Haies | Demi-finale       | 55.08                                      |
 | 2026  | Nuit de l'Athlétisme - Heusden-Zolder - 300m haies  |                   | 38.66 (==Record de Belgique==)             |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - 400m Haies | 4e (Finale)       | 53.87 (Demi-Finale) (PB)<br>53.87 (Finale) |
+| 2026  | [[Memorial Ivo Van Damme]] - 400m Haies             | 3e                | 53.20 (==Record de Belgique==)             |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -28,6 +29,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 # Records et Faits Marquants
 - Record de Belgique
 	- 300m haies (38.66)
+	- 400m Haies (53.20)
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

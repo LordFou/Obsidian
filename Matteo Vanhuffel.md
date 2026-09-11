@@ -15,10 +15,10 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                           | Résultat | Remarque |
-| ----- | ------------------------------------- | -------- | -------- |
-| 2026  | [[Tour de Burgos]] - Classement final | 9e       |          |
-|       |                                       |          |          |
+| Année | Compétition                             | Résultat | Remarque |
+| ----- | --------------------------------------- | -------- | -------- |
+| 2026  | [[Tour de Burgos]] - Classement final   | 9e       |          |
+| 2026  | [[Tour de l'Avenir]] - Classement final | 3e       |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

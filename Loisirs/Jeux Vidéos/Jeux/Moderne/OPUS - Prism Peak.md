@@ -14,16 +14,15 @@ publishers:
 genres:
   - Adventure
   - Indie
-onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1947910/582757238952893925e0fd0f99167e92cd69805b/header.jpg?t=1776243180
+onlineRating: 86
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1947910/582757238952893925e0fd0f99167e92cd69805b/header.jpg?t=1786436888
 released: true
-releaseDate: 16/04/2026
+releaseDate: 15/04/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1947910/582757238952893925e0fd0f99167e92cd69805b/header.jpg?t=1776243180)
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1947910/582757238952893925e0fd0f99167e92cd69805b/header.jpg?t=1786436888)
 # OPUS: Prism Peak
 
 ## Informations Générales
@@ -33,7 +32,7 @@ tags: mediaDB/game
 	- Studio : [[SIGONO INC.]]
 	- Personnalités : 
 - **Éditeur** : [[SHUEISHA GAMES]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[Switch 2]]
 - **Franchise** : 
 - **Genre** : [[Aventure]]
 - **Résumé** :  
@@ -43,8 +42,12 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 0
-	- CheckPoint (8/10)
+	- Steam Rating : 86
+	- Canard PC (8/10)
+		- Touchant
+		- Amusant
+		- Univers Riche
+		- Bcp de thématique
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -54,6 +57,7 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Deuil périnatal]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
@@ -61,7 +65,6 @@ tags: mediaDB/game
 - 
 ## Liens et Ressources
 
-| Description | URL                                              |
-| ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/1947910       |
-| Trailer     | https://youtu.be/4AVrwtzgYrI?si=EN0iRxvNxi5OxGZy |
+| Description | URL       |
+| ----------- | --------- |
+| Wiki        | https://store.steampowered.com/app/1947910 |

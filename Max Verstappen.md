@@ -31,6 +31,7 @@ type: personne
 | 2026  | [[Grand Prix d'Autriche]] - Course    | 2e       |          |
 | 2026  | [[Grand Prix de Belgique]] - Course   | 3e       |          |
 | 2026  | [[Grand Prix de Hongrie]]             | 2e       |          |
+| 2026  | [[Grand Prix d'Italie]] - Course      | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

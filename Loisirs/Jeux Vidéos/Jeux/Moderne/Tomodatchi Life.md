@@ -22,6 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- CheckPoint (8/10)
+	- Canard PC (7/10)
 - **Gameplay** :
 - **Durée estimée** : 
 

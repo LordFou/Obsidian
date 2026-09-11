@@ -48,11 +48,26 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 
 ## Hommes
 
-|          | Vainqueur           | Général           | Montagne         | Points            | Jeune               | Remarques              |
-| -------- | ------------------- | ----------------- | ---------------- | ----------------- | ------------------- | ---------------------- |
-| 1e (SLO) | [[Tadej Pogacar]]   | [[Tadej Pogacar]] |                  |                   |                     | 8e - [[Wout Van Aert]] |
-| 2e (ANG) | [[Matthew Brennan]] | [[Tadej Pogacar]] | [[Koen Bouwman]] | [[Tadej Pogacar]] | [[Matthew Brennan]] | 13e - [[Vito Braet]]   |
-| 3e       |                     |                   |                  |                   |                     |                        |
+|               | Vainqueur              | Général           | Montagne              | Points            | Jeune               | Combattif         | Remarques                                     |
+| ------------- | ---------------------- | ----------------- | --------------------- | ----------------- | ------------------- | ----------------- | --------------------------------------------- |
+| 1e (SLO)      | [[Tadej Pogacar]]      | [[Tadej Pogacar]] |                       |                   |                     |                   | 8e - [[Wout Van Aert]]                        |
+| 2e (ANG)      | [[Matthew Brennan]]    | [[Tadej Pogacar]] | [[Koen Bouwman]]      | [[Tadej Pogacar]] | [[Matthew Brennan]] |                   | 13e - [[Vito Braet]]                          |
+| 3e (-)        | -                      | [[Tadej Pogacar]] | [[Koen Bouwman]]      | [[Tadej Pogacar]] | [[Matthew Brennan]] |                   |                                               |
+| 4e (SLO)      | [[Tadej Pogacar]]      | [[Tadej Pogacar]] | [[Tadej Pogacar]]     | [[Tadej Pogacar]] |                     |                   | 2e - [[Jarno Widar]]                          |
+| 5e (ANG)      | [[Matthew Brennan]]    | [[Tadej Pogacar]] | [[Tadej Pogacar]]     | [[Tadej Pogacar]] |                     |                   | 2e - [[Jordi Meeus]]                          |
+| 6e (SLO)      | [[Tadej Pogacar]]      | [[Tadej Pogacar]] | [[Tadej Pogacar]]     | [[Tadej Pogacar]] |                     |                   |                                               |
+| 7e (NOR)      | [[Andreas Leknessund]] | [[Tadej Pogacar]] | [[Tadej Pogacar]]     | [[Wout Van Aert]] |                     |                   |                                               |
+| 8e (FRA)      | [[Bryan Coquard]]      | [[Enric Mas]]     |                       | [[Wout Van Aert]] |                     |                   | 3e - [[Jordi Meeus]]                          |
+| 9e (ESP)      | [[Enric Mas]]          | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     | [[Pavel Sivakov]] | 7e - [[Jarno Widar]]                          |
+| 10e (FRA)     | [[Bastien Tronchon]]   | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   | 3e - [[Thibau Nys]]<br>4e - [[Wout Van Aert]] |
+| 11e (ANG)     | [[Matthew Brennan]]    | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   | 3e - [[Jordi Meeus]]                          |
+| 12e (SLO)     | [[Jakob Omrzel]]       | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   |                                               |
+| ==13e (BEL)== | [[Wout Van Aert]]      | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   | 4e - [[Jarno Widar]]                          |
+| 14e (ALL)     | [[Marco Brenner]]      | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   |                                               |
+| ==15e (BEL)== | [[Wout Van Aert]]      | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   |                                               |
+| 16e (ANG)     | [[Matthew Brennan]]    | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   | 3e - [[Vito Braet]]                           |
+| 17e (ANG)     | [[Matthew Brennan]]    | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   | 2e - [[Jordi Meeus]]                          |
+| 18e (SUI)     | [[Stefan Küng]]        | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   | 5e - [[Wout Van Aert]]                        |
 ## Femmes
 
 |              | Vainqueur                | Général                  | Montagne                 | Points             | Jeune                 | Remarques                                               |

@@ -15,7 +15,7 @@ type: event
 | -------- | ------------------------- | ------------------------- | -------- | ------ | ----- | --------- |
 | 3e (BEL) | [[Jasper Schoofs]]        | [[Jasper Schoofs]]        |          |        |       |           |
 | 5e (BEL) | [[Matisse Van Kerckhove]] | [[Matisse Van Kerckhove]] |          |        |       |           |
-| 6e (ITA) | [[Lorenzo Mark Finn]]     |                           |          |        |       |           |
+| 6e (ITA) | [[Lorenzo Finn]]     |                           |          |        |       |           |
 ### Général
 
 ## Femmes

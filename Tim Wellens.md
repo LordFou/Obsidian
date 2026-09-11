@@ -15,18 +15,19 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                     | Résultat         | Remarque                                           |
 | ----- | ----------------------------------------------- | ---------------- | -------------------------------------------------- |
-| 2018  | [[Tour d'Andalousie]] - Classement final        | 1ier             |                                                    |
-| 2025  | [[Championnat de Belgique de Cyclisme]] - Route | 1ier             | Détail optionnel                                   |
+| 2018  | [[Tour d'Andalousie]] - Classement final        | ==1ier==         |                                                    |
+| 2025  | [[Championnat de Belgique de Cyclisme]] - Route | ==1ier==         | Détail optionnel                                   |
 | 2025  | [[Strade Bianche]]                              | 3e               |                                                    |
 | 2025  | [[Tour de France]] - 3e étape                   | Maillot Montagne | Juste pour éviter à [[Tadej Pogacar]] le protocole |
 | 2025  | [[Tour de France]] - 6e étape                   | Maillot Montagne |                                                    |
-| 2025  | [[Tour de France]] - 15e étape                  | 1ier             |                                                    |
-| 2025  | [[Critérium d'Alost]]                           | 1ier             |                                                    |
+| 2025  | [[Tour de France]] - 15e étape                  | ==1ier==         |                                                    |
+| 2025  | [[Critérium d'Alost]]                           | ==1ier==         |                                                    |
 | 2025  | [[Critérium de Roulers]]                        | 2e               |                                                    |
 |       |                                                 |                  |                                                    |
-| 2026  | [[Clasica Jaen]]                                | 1ier             |                                                    |
+| 2026  | [[Clasica Jaen]]                                | ==1ier==         |                                                    |
 | 2026  | [[Tour d'Andalousie]]                           | 9e               |                                                    |
 | 2026  | [[Tour de Suisse]] - 4e étape                   | 5e               |                                                    |
+| 2026  | [[Tour de Grande Bretagne]] - Classement final  | ==1ier==         |                                                    |
 
 # Style et Caractéristiques
 - Très bon équipier

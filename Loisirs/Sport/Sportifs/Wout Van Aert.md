@@ -67,6 +67,8 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 | 2026  | [[Tour du Danemark]] - 2e étape                             | Sprint massif et photo finish                                                         |
 | 2026  | [[Tour du Danemark]] - 3e étape                             | Etape de costauds                                                                     |
 | 2026  | [[Tour du Danemark]] - Classement Final                     |                                                                                       |
+| 2026  | [[Tour d'Espagne]] - 13e étape                              |                                                                                       |
+| 2026  | [[Tour d'Espagne]] - 15e étape                              |                                                                                       |
 
 
 | Année | Compétition                                                       | Résultat | Remarque                                                                   |
@@ -94,6 +96,8 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 | 2026  | [[A Travers la Flandre]]                                          | 2e       |                                                                            |
 | 2026  | [[Tour des Flandres]]                                             | 4e       |                                                                            |
 | 2026  | Championnat de Belgique de Gravel                                 | 2e       |                                                                            |
+| 2026  | [[Tour d'Espagne]] - 10e étape                                    | 4e       |                                                                            |
+| 2026  | [[Tour d'Espagne]] - 18e étape                                    | 5e       | CLM                                                                        |
 
 ![[Pasted image 20250415003019.png]]
 # Style et Caractéristiques

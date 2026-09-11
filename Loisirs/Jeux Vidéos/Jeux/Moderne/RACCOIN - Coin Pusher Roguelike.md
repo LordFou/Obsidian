@@ -39,7 +39,7 @@ tags: mediaDB/game
 	- Studio : [[Doraccoon]] 
 	- Personnalités : 
 - **Éditeur** : [[Playstack]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[Action Aventure]], [[Simulation]], [[Lunapark]]
 - **Résumé** :  
@@ -51,6 +51,7 @@ tags: mediaDB/game
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
 	- CheckPoint (6.5/10)
+	- Canard Pc (6/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -60,6 +61,7 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Lunapark]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :

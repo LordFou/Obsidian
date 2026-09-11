@@ -46,6 +46,8 @@ tags: mediaDB/game
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
 	- CheckPoint (5.5/10)
+	- Canard PC (5/10)
+		- 1000x plus beau mais pour tout le reste, prenez l'original
 - **Gameplay** :
 - **Durée estimée** : 
 

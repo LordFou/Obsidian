@@ -34,7 +34,8 @@ type: personne
 | 2026  | [[Roland-Garros]]          | Forfait     |                                            |
 | 2026  | [[Wimbledon]]              | Forfait     |                                            |
 | 2026  | [[Tournoi de Cincinnati]]  | Forfait     |                                            |
-| 2026  | [[US Open]]                |             |                                            |
+| 2026  | [[US Open]]                | 1/4 finale  | Défaite contre [[Ben Shelton]] en 1/4      |
+|       |                            |             |                                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

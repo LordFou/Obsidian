@@ -13,10 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                    | Résultat | Remarque |
-| ----- | ------------------------------ | -------- | -------- |
-| 2026  | [[Paris-Nice]] - 1e étape      | 2e       | Sprint   |
-| 2026  | [[Critérium du Dauphiné]] - 5e | 4e       | Sprint   |
+| Année | Compétition                          | Résultat | Remarque |
+| ----- | ------------------------------------ | -------- | -------- |
+| 2026  | [[Paris-Nice]] - 1e étape            | 2e       | Sprint   |
+| 2026  | [[Critérium du Dauphiné]] - 5e étape | 4e       | Sprint   |
+| 2026  | [[Tour d'Espagne]] - 16e étape       | 3e       | Sprint   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

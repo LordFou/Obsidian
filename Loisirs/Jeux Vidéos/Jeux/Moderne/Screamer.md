@@ -12,7 +12,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : [[Milestone]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
-- **Franchise** : 
+- **Franchise** : [[Franchise Screamer]]
 - **Genre** : [[Course]], [[Arcade]] 
 - **Résumé** : jeu de course arcade qui s'éloigne des jeux de bagnoles traditionnels avec une série d'épreuves dans un univers futuriste et un accent mis sur l'ambiance et l'histoire, racontée sous forme d'anime.
 
@@ -22,6 +22,9 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- CheckPoint (8,5/10)
+	- Canard PC (6/10)
+		- Trop exigeant et excluant
+		- Proposition unique
 - **Gameplay** : 
 	- Les pilotes auraient des pouvoirs
 - **Durée estimée** : 

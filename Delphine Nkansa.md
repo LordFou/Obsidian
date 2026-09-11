@@ -30,7 +30,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - Lors du [[Championnats d'Europe d'athlétisme]] 2026, elle prend une place en finale du 100m, ce qui n'était plus arrivé depuis [[Kim Gevaert]] en 2006
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- En septembre 2026, elle annonce vouloir arrêter de participer au relais 4x100 avec les [[Belgian Rockets]] car l'ambiance y serait toxique. => [Article RTBF](https://www.rtbf.be/article/delphine-nkansa-veut-delaisser-les-belgian-rockets-l-ambiance-est-hyper-toxique-11778945)
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

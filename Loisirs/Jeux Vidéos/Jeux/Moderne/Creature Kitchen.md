@@ -13,14 +13,15 @@ type: game
 - **Éditeur** : 
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Horreur]]
+- **Genre** : [[Horreur]], [[Puzzle]], [[Exploration]]
 - **Résumé** : jeu qui consiste à trouver des animaux et les apprivoiser avec de la bouffe préparée par nos soins, comme dans une sorte de vague Pokémon un peu sinistre.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Canard PC (8/10)
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -28,6 +29,7 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Des animaux
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :

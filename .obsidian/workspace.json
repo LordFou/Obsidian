@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "2026-09-11"
             }
+          },
+          {
+            "id": "bf9445c318da9a95",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          },
+          {
+            "id": "83c16e92e572d9c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Apidya",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,44 +235,44 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "7214feea3b58fa22",
+  "active": "83c16e92e572d9c3",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Apidya' Special.md",
-    "Journal de bord/2026-09-11.md",
-    "Team Apidya.md",
-    "Journal de bord/2026-08-24.md",
-    "Compulsion Games.md",
-    "Guillaume Provost.md",
-    "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "conflict-files-obsidian-git.md",
-    "Ulysse.md",
-    "Culture/Histoire/Odyssée.md",
-    "Culture/Histoire/Iliade.md",
-    "Attachments/image-797.webp",
-    "Attachments/image-796.webp",
-    "Attachments/image-795.webp",
-    "Attachments/image-794.webp",
-    "Attachments/image-793.webp",
-    "Attachments/image-792.webp",
-    "Attachments/image-791.webp",
-    "Attachments/image-790.webp",
-    "Attachments/image-789.webp",
-    "Alejandro Valverde.md",
-    "Politique.md",
-    "Yaroslava Mahuchikh.md",
-    "Stefan Nillessen.md",
-    "Sarah Kolak.md",
-    "Loisirs/Sport/Arctic Race.md",
-    "Loisirs/Jeux Vidéos/Esport.md",
-    "Larissa Iapichino.md",
-    "Karsten Warholm.md",
-    "Julian Weber.md",
-    "Ibrahim Camara.md",
-    "Henriette Jaeger.md",
-    "Guillermo Silva.md",
-    "Gianmarco Tamberi.md",
-    "Euro Hockey Indoor Club Cup.md",
-    "Attachments/image-788.webp",
+    "Journal de bord/2026-09-11.md",
+    "{{.md",
+    "Waseku.md",
+    "Typin.md",
+    "Tour du Poitou-Charentes.md",
+    "Templates/Fiche Jeu non prérempli.md",
+    "Nils Politt.md",
+    "Memorial Ivo Van Damme.md",
+    "Marco Brenner.md",
+    "Lorenzo Finn.md",
+    "Loisirs/Sport/Sportifs/Yomif Kejelcha.md",
+    "Loisirs/Sport/Sportifs/Tobi Amusan.md",
+    "Loisirs/Sport/Sportifs/Tiger Woods.md",
+    "Loisirs/Sport/Sportifs/Tibo Vyvey.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Data Center.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cupiclaw.md",
+    "Loisirs/Jeux Vidéos/Industrie du jeu vidéo.md",
+    "Lewis Askey.md",
+    "Journal de bord/2026-09-07.md",
+    "Journal de bord/2026-09-06.md",
+    "Journal de bord/2026-09-02.md",
+    "Journal de bord/2026-08-30.md",
+    "Journal de bord/2026-08-29.md",
+    "Journal de bord/2026-08-25.md",
+    "Jakob Omrzel.md",
+    "Attachments/image-808.webp",
+    "Attachments/image-807.webp",
+    "Attachments/image-806.webp",
+    "Attachments/image-805.webp",
+    "Attachments/image-804.webp",
+    "Attachments/image-803.webp",
+    "Attachments/image-802.webp",
+    "Attachments/image-801.webp",
+    "Attachments/image-800.webp",
+    "Attachments/image-799.webp",
     "Loisirs/Jeux Vidéos/Musées",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",

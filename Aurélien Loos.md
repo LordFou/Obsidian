@@ -60,7 +60,7 @@ if (tableData.length > 0) {
 Lister les prix et reconnaissances obtenues.
 
 ## Controverses ou Faits Marquants
-Évoquer les polémiques ou événements notables liés à cette personne.
+- Aurait été très mauvais dans la gestion des projets de [[Leikir Studio]] et n'est pas innocent dans la faillite de celui-ci.
 
 | Description | URL |
 | ----------- | --- |

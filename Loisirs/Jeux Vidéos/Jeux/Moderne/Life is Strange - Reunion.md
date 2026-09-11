@@ -22,6 +22,7 @@ type: game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : 
 	- CheckPoint (3/10) : !!!!
+	- Canard PC (6/10) => C'est Ellen Replay sinon ce serait encore moins ^^
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -29,6 +30,8 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Max Caufield
+	- Chloé Price
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :

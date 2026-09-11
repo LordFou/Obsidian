@@ -8,13 +8,16 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur | Remarque |
+| ----- | --------- | -------- |
+|       | Allemagne |          |
+|       | Allemagne |          |
+|       | Allemagne |          |
+| 2026  | Allemagne |          |
+|       |           |          |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur | Remarque |
+| ----- | --------- | -------- |
+| 2026  | Argentine |          |
+|       |           |          |

@@ -6,17 +6,21 @@ type: event
 # Introduction
 
 # Edition 2026
-## Hommes
+## Femmes
 
 |          | Vainqueur         | Général           | Montagne | Points | Jeune | Remarques |
 | -------- | ----------------- | ----------------- | -------- | ------ | ----- | --------- |
 | 1e (NDL) | [[Lorena Wiebes]] | [[Lorena Wiebes]] |          |        |       |           |
 | 2e (NDL) | [[Lorena Wiebes]] | [[Lorena Wiebes]] |          |        |       |           |
-## Femmes
+## Hommes
 
-|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
-| --- | --------- | ------- | -------- | ------ | ----- | --------- |
-|     |           |         |          |        |       |           |
+|              | Vainqueur       | Général         | Montagne | Points | Jeune | Remarques |
+| ------------ | --------------- | --------------- | -------- | ------ | ----- | --------- |
+| 1e (ANG)     | [[Lewis Askey]] | [[Lewis Askey]] |          |        |       |           |
+| ==2e (BEL)== | [[Tim Merlier]] | [[Lewis Askey]] |          |        |       |           |
+| 3e (NDL)     | [[Olav Kooij]]  | [[Lewis Askey]] |          |        |       |           |
+| 4e           |                 | [[Tim Wellens]] |          |        |       |           |
+| 5e (ALL)     | [[Nils Politt]] | [[Tim Wellens]] |          |        |       |           |
 
 
 # Edition 2025

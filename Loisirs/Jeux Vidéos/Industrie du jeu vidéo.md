@@ -1,0 +1,2 @@
+- En 2025-2026, 25% des employés dans le secteur ont été licenciés
+	- La plupart sont des seniors remplacés par l'IA mais sous pression, ce sont les vieilles casseroles qui tiennent la baraque, pas l'automatisation.

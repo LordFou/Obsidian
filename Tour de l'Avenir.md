@@ -16,6 +16,7 @@ type: event
 | 2022  | [[Cian Uijtdebroeks]] | Belge       |                      |
 | 2024  | [[Joseph Blackmore]]  | Anglais     |                      |
 | 2025  | [[Paul Seixas]]       |             | 2e - [[Jarno Widar]] |
+| 2026  | [[Lorenzo Finn]] |             |                      |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

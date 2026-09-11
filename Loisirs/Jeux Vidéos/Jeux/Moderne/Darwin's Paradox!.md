@@ -46,8 +46,10 @@ tags: mediaDB/game
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
 	- CheckPoint (6.5/10)
+	- Canard PC (5/10)
+		- Passage interminable
 - **Gameplay** :
-- **Durée estimée** : 
+- **Durée estimée** : 6h
 
 ## Histoire et Univers
 - **Lieu(x)** : 
