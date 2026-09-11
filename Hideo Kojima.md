@@ -15,9 +15,9 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 
 ```timeline-labeled
 [line-5, body-2]
-date:  
-title: 
-content:
+date: Septembre 2026
+title: Séparation avec [[Sony]]
+content: Hideo et son entreprise fait un mercato vers [[Xbox]]
 ```
 
 
