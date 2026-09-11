@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-09-11.md",
+                "file": "Belgian Cats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-11"
+              "title": "Belgian Cats"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hideo",
+                "query": "Belgian",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
