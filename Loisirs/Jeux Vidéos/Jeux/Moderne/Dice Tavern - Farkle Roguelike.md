@@ -1,43 +1,42 @@
 ---
 type: game
 subType: ""
-title: WARDOGS
-englishTitle: WARDOGS
+title: "Dice Tavern: Farkle Roguelike"
+englishTitle: "Dice Tavern: Farkle Roguelike"
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/1867240
-id: 1867240
+url: https://store.steampowered.com/app/4587610
+id: 4587610
 developers:
-  - BULKHEAD
+  - Cavi Studio
 publishers:
-  - Team17
+  - HARRISONWORLD CO.,LTD
 genres:
-  - Action
+  - Casual
   - Indie
-  - Massively Multiplayer
   - Simulation
-  - Early Access
+  - Strategy
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1789059636
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4587610/a32c8256e28e1b3005d8e02c2a50eb0d3910c15d/header_alt_assets_2.jpg?t=1788841850
 released: true
-releaseDate: 10/09/2026
+releaseDate: 07/09/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1789059636)
-# WARDOGS
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4587610/a32c8256e28e1b3005d8e02c2a50eb0d3910c15d/header_alt_assets_2.jpg?t=1788841850)
+# Dice Tavern: Farkle Roguelike
 
 ## Informations Générales
 
-- **Année de sortie** :  2026 (Accès anticipé)
+- **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[BULKHEAD]]
+	- Studio : [[Cavi Studio]]
 	- Personnalités : 
-- **Éditeur** : [[Team17]]
-- **Plateformes** : 
+- **Éditeur** : [[HARRISONWORLD]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Action]], [[MMORPG]], [[Battle Royale]]
+- **Genre** : [[Roguelike]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -53,15 +52,17 @@ tags: mediaDB/game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Les dés
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[Balatro]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/1867240 |
+| Wiki        | https://store.steampowered.com/app/4587610 |
