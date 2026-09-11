@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Cavi Studio
+# IllFonic
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -24,9 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                              |
-| ----- | ---------------------------------- |
-| 2026  | [[Dice Tavern - Farkle Roguelike]] |
+| Année | Titre                    |
+| ----- | ------------------------ |
+| 2026  | [[Halloween - The Game]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
