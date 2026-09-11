@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "37068a763ced41ec",
+        "id": "c6730466ea31eb45",
         "type": "tabs",
         "children": [
           {
-            "id": "7214feea3b58fa22",
+            "id": "14e37378b52f11c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-09-11.md",
+                "file": "Team Lazerbeam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-11"
-            }
-          },
-          {
-            "id": "bf9445c318da9a95",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "83c16e92e572d9c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Team Lazerbeam"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,8 +206,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "83c16e92e572d9c3",
+  "active": "14e37378b52f11c2",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shroom and Gloom.md",
+    "Team Lazerbeam.md",
     "conflict-files-obsidian-git.md",
     "Journal de bord/2026-09-11.md",
     "{{.md",
@@ -261,8 +234,6 @@
     "Journal de bord/2026-09-02.md",
     "Journal de bord/2026-08-30.md",
     "Journal de bord/2026-08-29.md",
-    "Journal de bord/2026-08-25.md",
-    "Jakob Omrzel.md",
     "Attachments/image-808.webp",
     "Attachments/image-807.webp",
     "Attachments/image-806.webp",
