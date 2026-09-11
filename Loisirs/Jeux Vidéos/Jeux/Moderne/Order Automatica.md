@@ -1,43 +1,45 @@
 ---
 type: game
 subType: ""
-title: Dungeon Automata
-englishTitle: Dungeon Automata
+title: Order Automatica
+englishTitle: Order Automatica
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2731030
-id: 2731030
+url: https://store.steampowered.com/app/2105840
+id: 2105840
 developers:
-  - Medium-Rare Games
+  - New Beings
 publishers:
-  - Kakehashi Games
-  - Raw Fury
+  - New Beings
+  - better. publishing
+  - Comma 49
 genres:
   - Indie
-  - RPG
+  - Strategy
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2731030/7cf4f281598f0558d4c2a4f1a8cf2b6bd344af2b/header_alt_assets_0.jpg?t=1789113935
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2105840/830952327716acfc7a2ace871abc768d5c02669b/header.jpg?t=1788523463
 released: true
-releaseDate: 20/01/2026
+releaseDate: 04/09/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2731030/7cf4f281598f0558d4c2a4f1a8cf2b6bd344af2b/header_alt_assets_0.jpg?t=1789113935)
-# Dungeon Automata
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2105840/830952327716acfc7a2ace871abc768d5c02669b/header.jpg?t=1788523463)
+# Order Automatica
 
 ## Informations Générales
 
-- **Année de sortie** :  ?
+- **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Medium-Rare Games]]
+	- Studio : [[New Beings]]
 	- Personnalités : 
 - **Éditeur** : 
-	- [[Kakehashi Games]]
-	- [[Raw Fury]]
+	- [[New Beings]]
+	- [[better. publishing]]
+	- [[Comma 49]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : 
+- **Genre** : Indie,Strategy
 - **Résumé** :  
 
 ## Détails Techniques
@@ -64,4 +66,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2731030 |
+| Wiki        | https://store.steampowered.com/app/2105840 |
