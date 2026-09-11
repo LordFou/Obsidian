@@ -24,9 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année    | Titre      |
-| -------- | ---------- |
-| 2026 (?) | Nom du jeu |
+| Année    | Titre                |
+| -------- | -------------------- |
+| 2026 (?) | [[Shroom and Gloom]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

@@ -22,9 +22,10 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                              | Année | Plateformes | Remarque |
-| ---------------------------------- | ----- | ----------- | -------- |
-| [[Onimusha 2 - Samurai’s Destiny]] |       |             |          |
+| Titre                              | Année | Plateformes                              | Remarque |
+| ---------------------------------- | ----- | ---------------------------------------- | -------- |
+| [[Onimusha 2 - Samurai’s Destiny]] |       |                                          |          |
+| [[Onimusha - Way of the Sword]]    | 2026  | PC, Playstation 5, Xbox Series, Switch 2 |          |
 
 
 ## Mécaniques et innovations

@@ -1,7 +1,7 @@
 ---
 type: societe
 ---
-# Capcom
+# CAPCOM Co., Ltd.
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -29,6 +29,8 @@ content:
 | 2025  | [[Monster Hunter Wild]]                           |
 | 2026  | [[Resident Evil 9 - Requiem]]                     |
 | 2026  | [[Monster Hunter Stories 3 - Twisted Reflection]] |
+| 2026  | [[Onimusha - Way of the Sword]]                   |
+|       |                                                   |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

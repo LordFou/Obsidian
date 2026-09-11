@@ -45,7 +45,7 @@ tags: mediaDB/game
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
 - **Gameplay** :
-	- 2 decks différents => 1 pour le combat et 1 pour l'exporation.
+	- 2 decks différents => 1 pour le combat et 1 pour l'exploration.
 - **Durée estimée** : 
 
 ## Histoire et Univers
