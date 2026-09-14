@@ -11,7 +11,7 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  2013 -> 
-- Top Ranking : 3e
+- Top Ranking : 2e
 
 # Palmarès et Distinctions
 | Année | Compétition           | Résultat      | Remarque                           |
