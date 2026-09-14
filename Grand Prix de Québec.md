@@ -12,9 +12,9 @@ type: event
 
 | Année | Vainqueur              | Nationalité | Remarque                                            |
 | ----- | ---------------------- | ----------- | --------------------------------------------------- |
-| 2023  | [[Arnaud De Lie]]      | Belge       |                                                     |
+| 2023  | [[Arnaud De Lie]]      | ==Belge==   |                                                     |
 | 2025  | [[Julian Alaphilippe]] | Française   | 6e - [[Quintens Hermans]]<br>8e - [[Arnaud De Lie]] |
-|       |                        |             |                                                     |
+| 2026  | [[Remco Evenepoel]]    | ==Belge==   |                                                     |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
