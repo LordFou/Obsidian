@@ -3,22 +3,23 @@ type: personne
 ---
 
 
-# Enric Mas
+# Felix Gall
 
 # Informations Générales  
 - **Date de naissance** :  
-- **Nationalité** :  Espagnol
-- **Sport / Discipline** :  [[Cyclisme]]
-- **Poste / Spécialité** (si applicable) :  Coureur de tour
+- **Nationalité** :  
+- **Sport / Discipline** :  
+- **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                           | Résultat | Remarque                                        |
-| ----- | ------------------------------------- | -------- | ----------------------------------------------- |
-| 2026  | [[Tour d'Espagne]] - 9e étape         | ==1ier== | Montagne                                        |
-| 2026  | [[Tour d'Espagne]] - Classement final | ==1ier== | Ok il profite de l'abandon de [[Tadej Pogacar]] |
+| Année | Compétition                           | Résultat | Remarque |
+| ----- | ------------------------------------- | -------- | -------- |
+| 2026  | [[Tour d'Italie]] - Classement final  | 2e       |          |
+| 2026  | [[Tour d'Espagne]] - Classement final | 3e       |          |
+|       |                                       |          |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

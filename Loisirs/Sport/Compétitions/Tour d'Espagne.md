@@ -70,7 +70,7 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 | 18e (SUI)     | [[Stefan Küng]]        | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   | 5e - [[Wout Van Aert]]                        |
 | 19e (IRL)     | [[Eddie Dunbar]]       | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   |                                               |
 | 20e (ESP)     | [[Mikel Landa]]        | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   |                                               |
-| 21e           |                        |                   |                       |                   |                     |                   |                                               |
+| 21e (NOR)     | [[Tobias Johannessen]] | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   |                                               |
 ## Femmes
 
 |              | Vainqueur                | Général                  | Montagne                 | Points             | Jeune                 | Remarques                                               |
@@ -88,17 +88,18 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 
 ## Hommes
 
-| Année | Vainqueur            | Nationalité | Montagne     | Points            | Jeune                  | Remarque |
-| ----- | -------------------- | ----------- | ------------ | ----------------- | ---------------------- | -------- |
-| 2011  | [[Chris Froome]]     | Anglais     |              |                   |                        |          |
-| 2017  | [[Chris Froome]]     | Anglais     |              |                   |                        |          |
-| 2018  | [[Simon Yates]]      | Anglais     |              |                   |                        |          |
-| 2019  | [[Primoz Roglic]]    | Slovène     |              |                   |                        |          |
-| 2020  | [[Primoz Roglic]]    | Slovène     |              |                   |                        |          |
-| 2021  | [[Primoz Roglic]]    | Slovène     |              |                   |                        |          |
-| 2022  | [[Remco Evenepoel]]  | ==Belge==   |              |                   |                        |          |
-| 2024  | [[Primoz Roglic]]    | Slovène     |              |                   |                        |          |
-| 2025  | [[Jonas Vingegaard]] | Danois      | [[Jay Vine]] | [[Mads Pedersen]] | [[Matthew Riccitello]] |          |
+| Année | Vainqueur            | Nationalité | Montagne              | Points            | Jeune                  | Remarque |
+| ----- | -------------------- | ----------- | --------------------- | ----------------- | ---------------------- | -------- |
+| 2011  | [[Chris Froome]]     | Anglais     |                       |                   |                        |          |
+| 2017  | [[Chris Froome]]     | Anglais     |                       |                   |                        |          |
+| 2018  | [[Simon Yates]]      | Anglais     |                       |                   |                        |          |
+| 2019  | [[Primoz Roglic]]    | Slovène     |                       |                   |                        |          |
+| 2020  | [[Primoz Roglic]]    | Slovène     |                       |                   |                        |          |
+| 2021  | [[Primoz Roglic]]    | Slovène     |                       |                   |                        |          |
+| 2022  | [[Remco Evenepoel]]  | ==Belge==   |                       |                   |                        |          |
+| 2024  | [[Primoz Roglic]]    | Slovène     |                       |                   |                        |          |
+| 2025  | [[Jonas Vingegaard]] | Danois      | [[Jay Vine]]          | [[Mads Pedersen]] | [[Matthew Riccitello]] |          |
+| 2026  | [[Enric Mas]]        | Espagnol    | [[Santiago Buitrago]] | [[Wout Van Aert]] |                        |          |
 ## Femmes
 
 | Année | Vainqueur          | Nationalité  | Montagne        | Points            | Jeune            | Equipe      | Remarque                  |
