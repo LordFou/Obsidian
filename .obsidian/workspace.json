@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Sandrine Tas.md",
+                "file": "Loisirs/Sport/Sportifs/Emma Plasschaert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sandrine Tas"
+              "title": "Emma Plasschaert"
             }
           },
           {
@@ -34,8 +34,23 @@
               "icon": "lucide-file",
               "title": "Rallye du Chili"
             }
+          },
+          {
+            "id": "42ed8665d828c628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mikel Landa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mikel Landa"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Rallye du Chili",
+                "query": "Landa",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,7 +221,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,12 +240,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb719a9414880d68",
+  "active": "42ed8665d828c628",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+    "Mikel Landa.md",
     "Loisirs/Sport/Compétitions/Rallye du Chili.md",
+    "Loisirs/Sport/Sportifs/Emma Plasschaert.md",
+    "Attachments/image-814.webp",
+    "Thierry Neuville.md",
+    "Loisirs/Sport/Compétitions/Championnat du Monde - WRC.md",
+    "Championnat du Monde de Rallye.md",
+    "Loisirs/Sport/Sportifs/Sandrine Tas.md",
     "Belgian Cats.md",
     "Loisirs/Sport/Equipes/Belgian Lions.md",
-    "Loisirs/Sport/Sportifs/Sandrine Tas.md",
     "Loisirs/Sport/Compétitions/Tour de Bretagne.md",
     "Justine Ghekiere.md",
     "Faun Tour Femme.md",
@@ -248,12 +271,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Onimusha - Way of the Sword.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Halloween - The Game.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Dungeon Automata.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Dice Tavern - Farkle Roguelike.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/BeaterCore.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Alchemy Factory.md",
-    "Kitfox Games.md",
-    "Journal de bord/2026-09-11.md",
-    "IllFonic.md",
     "Attachments/image-811.webp",
     "Attachments/image-810.webp",
     "Attachments/image-809.webp",
@@ -261,7 +278,6 @@
     "Attachments/image-807.webp",
     "Attachments/image-806.webp",
     "Attachments/image-805.webp",
-    "Attachments/image-804.webp",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
     "Famille/Vacances",
