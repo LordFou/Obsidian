@@ -15,10 +15,10 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition        | Résultat                   | Remarque         |
-| ----- | ------------------ | -------------------------- | ---------------- |
-| 2026  | [[Tour d'Espagne]] | 1ère place / Médaille d’or | Détail optionnel |
-|       |                    |                            |                  |
+| Année | Compétition                    | Résultat | Remarque |
+| ----- | ------------------------------ | -------- | -------- |
+| 2026  | [[Tour d'Espagne]] - 19e étape | 1ier     |          |
+|       |                                |          |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

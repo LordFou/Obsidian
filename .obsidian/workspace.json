@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+                "file": "Loisirs/Sport/Equipes/Red Dragons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour d'Espagne"
+              "title": "Red Dragons"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tour d'E",
+                "query": "Red Dr",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -224,6 +224,8 @@
   },
   "active": "af87c233b07f18c2",
   "lastOpenFiles": [
+    "Championnat d'Europe de Volley-Ball.md",
+    "Loisirs/Sport/Equipes/Red Dragons.md",
     "Eddie Dunbar.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
     "Loisirs/Sport/Equipes/Belgians Lions.md",
@@ -251,8 +253,6 @@
     "Franchise Onimusha.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Worming From Home.md",
     "Attachments/image-809.webp",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Valheim.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Shroom and Gloom.md",
     "Attachments/image-808.webp",
     "Attachments/image-807.webp",
     "Attachments/image-806.webp",
