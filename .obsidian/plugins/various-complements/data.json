@@ -9,7 +9,7 @@
   "treatUnderscoreAsPartOfWord": false,
   "maxNumberOfSuggestions": 10,
   "maxNumberOfWordsAsPhrase": 2,
-  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfCharactersTriggered": 1,
   "minNumberOfWordsTriggeredPhrase": 1,
   "complementAutomatically": true,
   "delayMilliSeconds": 0,
