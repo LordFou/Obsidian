@@ -1,4 +1,4 @@
-# Marvel’s Wolverine
+# Fire Emblem - Fortune’s Weave
 
 ## Informations Générales
 
@@ -7,9 +7,9 @@
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[Playstation 5]]
+- **Plateformes** : [[Switch 2]]
 - **Franchise** : 
-- **Genre** : 
+- **Genre** : [[Simulation]], [[JRPG]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -35,6 +35,5 @@
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Trailer     | https://youtu.be/3Z42tBfBLJY?si=-OGychfXZb2JeSFv |
-|             |                                                  |
+| Trailer     | https://youtu.be/j6eNaiftiWE?si=U0VBWZvn7zsATRO1 |
 
