@@ -1,45 +1,43 @@
 ---
 type: game
 subType: ""
-title: Valheim
-englishTitle: Valheim
-year: "2021"
+title: Dungeon Automata
+englishTitle: Dungeon Automata
+year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/892970
-id: 892970
+url: https://store.steampowered.com/app/2731030
+id: 2731030
 developers:
-  - Iron Gate AB
+  - Medium-Rare Games
 publishers:
-  - Coffee Stain Publishing
+  - Kakehashi Games
+  - Raw Fury
 genres:
-  - Action
-  - Adventure
   - Indie
   - RPG
-  - Early Access
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/de0bdcf6c008c508a79d8e75eb91fc67f4bebd5d/header.jpg?t=1765967243
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2731030/7cf4f281598f0558d4c2a4f1a8cf2b6bd344af2b/header_alt_assets_0.jpg?t=1789113935
 released: true
-releaseDate: 02/02/2021
+releaseDate: 20/01/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/de0bdcf6c008c508a79d8e75eb91fc67f4bebd5d/header.jpg?t=1765967243)
-# Valheim
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2731030/7cf4f281598f0558d4c2a4f1a8cf2b6bd344af2b/header_alt_assets_0.jpg?t=1789113935)
+# Dungeon Automata
 
 ## Informations Générales
 
-- **Année de sortie** :  
-	- 2021 (Accès anticipé)
-	- 2026 (V1.0)
+- **Année de sortie** :  ?
 - **Développeur** : 
-	- Studio : [[Iron Gate AB]]
+	- Studio : [[Medium-Rare Games]]
 	- Personnalités : 
-- **Éditeur** : [[Coffee Stain Publishing]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
+- **Éditeur** : 
+	- [[Kakehashi Games]]
+	- [[Raw Fury]]
+- **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Survie]]
+- **Genre** : 
 - **Résumé** :  
 
 ## Détails Techniques
@@ -57,7 +55,6 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- [[Vikings]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
@@ -67,4 +64,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/892970 |
+| Wiki        | https://store.steampowered.com/app/2731030 |

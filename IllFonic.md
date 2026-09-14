@@ -1,7 +1,8 @@
 ---
 type: societe
 ---
-# CAPCOM Co., Ltd.
+
+# IllFonic
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -11,8 +12,7 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-	- [[Shinji Mikami]]
-- **Pays d’origine** :  Japon
+- **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
@@ -24,13 +24,9 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                                             |
-| ----- | ------------------------------------------------- |
-| 2025  | [[Monster Hunter Wild]]                           |
-| 2026  | [[Resident Evil 9 - Requiem]]                     |
-| 2026  | [[Monster Hunter Stories 3 - Twisted Reflection]] |
-| 2026  | [[Onimusha - Way of the Sword]]                   |
-|       |                                                   |
+| Année | Titre                    |
+| ----- | ------------------------ |
+| 2026  | [[Halloween - The Game]] |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
@@ -40,7 +36,7 @@ content:
 Décrire le style graphique, les thématiques abordées, les influences notables.
 
 ## Succès et Récompenses
-- [[Monster Hunter Wild]] vendu à 10 millions d'exemplaire en 1 mois
+Lister les prix, distinctions ou records obtenus.
 
 ## Controverses ou Événements Marquants
 Évoquer les polémiques ou faits marquants de l’histoire de la société.
@@ -48,6 +44,6 @@ Décrire le style graphique, les thématiques abordées, les influences notables
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |

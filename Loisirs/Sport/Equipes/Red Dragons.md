@@ -10,5 +10,6 @@ Equipe nationale belge masculine de [[Volley-Ball]]
 | 1970  | [[Championnat du Monde de Volley-ball]] | 8e          |                                                                                                                  |
 | 2018  | [[Championnat du Monde de Volley-ball]] | 10e         |                                                                                                                  |
 | 2025  | [[Championnat du Monde de Volley-ball]] | 1/4e finale | Ils ont battu les champions du monde italien pour se hisser en 1/8e<br>Mais les Italiens se sont vengés en quart |
+| 2026  | [[Championnat d'Europe de Volley-Ball]] |             | Match 1 : Belgique - Pays-Bas (3-1)                                                                              |
 |       |                                         |             |                                                                                                                  |
-|       |                                         |             |                                                                                                                  |
+2-JMS-309 Golf Grise

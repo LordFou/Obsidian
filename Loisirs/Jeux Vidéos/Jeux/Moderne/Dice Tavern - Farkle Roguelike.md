@@ -1,45 +1,42 @@
 ---
 type: game
 subType: ""
-title: Valheim
-englishTitle: Valheim
-year: "2021"
+title: "Dice Tavern: Farkle Roguelike"
+englishTitle: "Dice Tavern: Farkle Roguelike"
+year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/892970
-id: 892970
+url: https://store.steampowered.com/app/4587610
+id: 4587610
 developers:
-  - Iron Gate AB
+  - Cavi Studio
 publishers:
-  - Coffee Stain Publishing
+  - HARRISONWORLD CO.,LTD
 genres:
-  - Action
-  - Adventure
+  - Casual
   - Indie
-  - RPG
-  - Early Access
+  - Simulation
+  - Strategy
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/de0bdcf6c008c508a79d8e75eb91fc67f4bebd5d/header.jpg?t=1765967243
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4587610/a32c8256e28e1b3005d8e02c2a50eb0d3910c15d/header_alt_assets_2.jpg?t=1788841850
 released: true
-releaseDate: 02/02/2021
+releaseDate: 07/09/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/de0bdcf6c008c508a79d8e75eb91fc67f4bebd5d/header.jpg?t=1765967243)
-# Valheim
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4587610/a32c8256e28e1b3005d8e02c2a50eb0d3910c15d/header_alt_assets_2.jpg?t=1788841850)
+# Dice Tavern: Farkle Roguelike
 
 ## Informations Générales
 
-- **Année de sortie** :  
-	- 2021 (Accès anticipé)
-	- 2026 (V1.0)
+- **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Iron Gate AB]]
+	- Studio : [[Cavi Studio]]
 	- Personnalités : 
-- **Éditeur** : [[Coffee Stain Publishing]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]], [[Switch 2]]
+- **Éditeur** : [[HARRISONWORLD]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Survie]]
+- **Genre** : [[Roguelike]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -55,16 +52,17 @@ tags: mediaDB/game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Les dés
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- [[Vikings]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[Balatro]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/892970 |
+| Wiki        | https://store.steampowered.com/app/4587610 |
