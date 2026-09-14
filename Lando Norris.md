@@ -28,6 +28,7 @@ type: personne
 | 2026  | [[Grand Prix d'Espagne]] - Course    | 3e       |                    |
 | 2026  | [[Grand Prix de Hongrie]] - Course   | ==1ier== |                    |
 | 2026  | [[Grand Prix des Pays-Bas]] - Course | ==1ier== |                    |
+| 2026  | [[Grand Prix de Madrid]] - Course    | 3e       |                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

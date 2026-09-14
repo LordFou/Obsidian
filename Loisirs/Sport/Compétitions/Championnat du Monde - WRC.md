@@ -13,6 +13,12 @@ type: event
 | 2024  | [[Thierry Neuville]] | Belge       |          |
 | 2025  | [[Stéphane Ogier]]   | Français    |          |
 |       |                      |             |          |
+# Constructeurs
+
+| Année | Vainqueur  | Nationalité | Remarque |
+| ----- | ---------- | ----------- | -------- |
+| 2026  | [[Toyota]] | Japonais    |          |
+
 # Crashs
 
 | Date | Rallye                 | Pilote               | Vidéos                                                                                                                                       |

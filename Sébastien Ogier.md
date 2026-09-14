@@ -15,8 +15,9 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition         | Résultat | Remarque |
 | ----- | ------------------- | -------- | -------- |
-| 2025  | [[Rallye du Chili]] | 1ier     |          |
-| 2026  | [[Rallye de Grèce]] | 1ier     |          |
+| 2025  | [[Rallye du Chili]] | ==1ier== |          |
+| 2026  | [[Rallye de Grèce]] | ==1ier== | Toyota   |
+| 2026  | [[Rallye du Chili]] | 2e       | Toyota   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
