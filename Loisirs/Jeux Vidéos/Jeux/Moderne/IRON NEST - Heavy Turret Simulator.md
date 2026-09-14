@@ -50,7 +50,7 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 90
-	- 250k
+	- 250k exemplaires en 3 jours
 - **Gameplay** :
 - **Durée estimée** : 
 
