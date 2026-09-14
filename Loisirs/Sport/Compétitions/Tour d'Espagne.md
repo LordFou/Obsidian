@@ -88,18 +88,18 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 
 ## Hommes
 
-| Année | Vainqueur            | Nationalité | Montagne              | Points            | Jeune                  | Remarque |
-| ----- | -------------------- | ----------- | --------------------- | ----------------- | ---------------------- | -------- |
-| 2011  | [[Chris Froome]]     | Anglais     |                       |                   |                        |          |
-| 2017  | [[Chris Froome]]     | Anglais     |                       |                   |                        |          |
-| 2018  | [[Simon Yates]]      | Anglais     |                       |                   |                        |          |
-| 2019  | [[Primoz Roglic]]    | Slovène     |                       |                   |                        |          |
-| 2020  | [[Primoz Roglic]]    | Slovène     |                       |                   |                        |          |
-| 2021  | [[Primoz Roglic]]    | Slovène     |                       |                   |                        |          |
-| 2022  | [[Remco Evenepoel]]  | ==Belge==   |                       |                   |                        |          |
-| 2024  | [[Primoz Roglic]]    | Slovène     |                       |                   |                        |          |
-| 2025  | [[Jonas Vingegaard]] | Danois      | [[Jay Vine]]          | [[Mads Pedersen]] | [[Matthew Riccitello]] |          |
-| 2026  | [[Enric Mas]]        | Espagnol    | [[Santiago Buitrago]] | [[Wout Van Aert]] |                        |          |
+| Année | Vainqueur            | Nationalité | Montagne              | Points            | Jeune                  | Super Combattif   | Remarque |
+| ----- | -------------------- | ----------- | --------------------- | ----------------- | ---------------------- | ----------------- | -------- |
+| 2011  | [[Chris Froome]]     | Anglais     |                       |                   |                        |                   |          |
+| 2017  | [[Chris Froome]]     | Anglais     |                       |                   |                        |                   |          |
+| 2018  | [[Simon Yates]]      | Anglais     |                       |                   |                        |                   |          |
+| 2019  | [[Primoz Roglic]]    | Slovène     |                       |                   |                        |                   |          |
+| 2020  | [[Primoz Roglic]]    | Slovène     |                       |                   |                        |                   |          |
+| 2021  | [[Primoz Roglic]]    | Slovène     |                       |                   |                        |                   |          |
+| 2022  | [[Remco Evenepoel]]  | ==Belge==   |                       |                   |                        |                   |          |
+| 2024  | [[Primoz Roglic]]    | Slovène     |                       |                   |                        |                   |          |
+| 2025  | [[Jonas Vingegaard]] | Danois      | [[Jay Vine]]          | [[Mads Pedersen]] | [[Matthew Riccitello]] |                   |          |
+| 2026  | [[Enric Mas]]        | Espagnol    | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]        | [[Wout Van Aert]] |          |
 ## Femmes
 
 | Année | Vainqueur          | Nationalité  | Montagne        | Points            | Jeune            | Equipe      | Remarque                  |
