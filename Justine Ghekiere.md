@@ -31,6 +31,7 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
 - Justine Ghekiere a chuté mi-septembre au Grand Prix de Stuttgart (Année ?) => Côte fracturée.
+- En septembre 2026, elle chute lors du [[Faun Tour Femme]] => fracture rotule => elle ratera les mondiaux 2026.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

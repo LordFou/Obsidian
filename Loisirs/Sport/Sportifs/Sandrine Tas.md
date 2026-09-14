@@ -13,18 +13,20 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                         | Résultat | Remarque                                                   |
-| ----- | ------------------------------------------------------------------- | -------- | ---------------------------------------------------------- |
-| 2026  | [[Championnat d'Europe de patinage de vitesse]] - 3000m             | 2e       |                                                            |
-| 2026  | [[Championnat d'Europe de patinage de vitesse]] - Sprint par équipe | 2e       |                                                            |
-| 2026  | [[JO 2026]] - 3000m                                                 | 7e       |                                                            |
-| 2026  | [[JO 2026]] - 5000m                                                 | 4e       | Meilleur perf belge au JO<br>Record de Belgique => 6:46.47 |
-| 2026  | [[JO 2026]] - Mass Start                                            |          |                                                            |
-| 2026  | [[JO 2026]] - 1500m                                                 |          |                                                            |
-| 2026  | [[JO 2026]] - Poursuite par équipe                                  | 6e       |                                                            |
-| 2026  | [[Omloop der Kempen]]                                               | 3e       |                                                            |
-| 2026  | [[Tour de Bretagne]] - 1e étape                                     | 1ière    |                                                            |
-| 2026  | [[Championnat de Belgique de Cyclisme]] - CLM                       | 2e       |                                                            |
+| Année | Compétition                                                         | Résultat  | Remarque                                                   |
+| ----- | ------------------------------------------------------------------- | --------- | ---------------------------------------------------------- |
+| 2026  | [[Championnat d'Europe de patinage de vitesse]] - 3000m             | 2e        |                                                            |
+| 2026  | [[Championnat d'Europe de patinage de vitesse]] - Sprint par équipe | 2e        |                                                            |
+| 2026  | [[JO 2026]] - 3000m                                                 | 7e        |                                                            |
+| 2026  | [[JO 2026]] - 5000m                                                 | 4e        | Meilleur perf belge au JO<br>Record de Belgique => 6:46.47 |
+| 2026  | [[JO 2026]] - Mass Start                                            |           |                                                            |
+| 2026  | [[JO 2026]] - 1500m                                                 |           |                                                            |
+| 2026  | [[JO 2026]] - Poursuite par équipe                                  | 6e        |                                                            |
+| 2026  | [[Omloop der Kempen]]                                               | 3e        |                                                            |
+| 2026  | [[Tour de Bretagne]] - 1e étape                                     | ==1ière== |                                                            |
+| 2026  | [[Tour de Bretagne]] - Xe étape                                     | ==1ière== |                                                            |
+| 2026  | [[Championnat de Belgique de Cyclisme]] - CLM                       | 2e        |                                                            |
+| 2026  | [[Championnat de Belgique de Cyclisme]] - Route                     | 3e        |                                                            |
 ```timeline-labeled
 [line-5, body-2]
 date: [[JO 2026]] 
