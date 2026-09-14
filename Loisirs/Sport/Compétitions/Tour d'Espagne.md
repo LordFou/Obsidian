@@ -70,7 +70,7 @@ L'édition sera mouvementée à cause de manifestation pour la cause palestinien
 | 18e (SUI)     | [[Stefan Küng]]        | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   | 5e - [[Wout Van Aert]]                        |
 | 19e (IRL)     | [[Eddie Dunbar]]       | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   |                                               |
 | 20e (ESP)     | [[Mikel Landa]]        | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   |                                               |
-| 21e (NOR)     | [[Tobias Johannessen]] | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   |                                               |
+| 21e (NOR)     | [[Tobias Johannessen]] | [[Enric Mas]]     | [[Santiago Buitrago]] | [[Wout Van Aert]] | [[Oscar Onley]]     |                   | 3e - [[Ramses Debruyne]]                      |
 ## Femmes
 
 |              | Vainqueur                | Général                  | Montagne                 | Points             | Jeune                 | Remarques                                               |

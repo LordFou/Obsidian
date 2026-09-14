@@ -97,6 +97,7 @@ type: personne
 | 2026  | [[Critérium de Roulers]]                                                         | ==1ier==    |                                                                                                                       |
 | 2026  | [[Clasica San Sebastian]]                                                        | ==1ier==    |                                                                                                                       |
 | 2026  | [[Grand Prix de Québec]]                                                         | ==1ier==    |                                                                                                                       |
+| 2026  | [[Grand Prix de Montréal]]                                                       | 5e          |                                                                                                                       |
 ## Historique
 ```timeline-labeled
 [line-5, body-2]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture/Histoire/Films à (re)voir.md",
+                "file": "Ben Shelton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Films à (re)voir"
+              "title": "Ben Shelton"
             }
           },
           {
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Film",
+                "query": "US Open",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -241,8 +241,17 @@
   },
   "active": "fb719a9414880d68",
   "lastOpenFiles": [
-    "Oscar Onley.md",
+    "Alexander Zverev.md",
+    "US Open.md",
+    "Coupe du Monde de Basket.md",
+    "Coupe du Monde.md",
+    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
+    "Loisirs/Sport/Compétitions/Grand Prix de Montréal.md",
+    "Isaac Del Toro.md",
+    "Ramses Debruyne.md",
     "Loisirs/Sport/Compétitions/Tour d'Espagne.md",
+    "Culture/Histoire/Films à (re)voir.md",
+    "Oscar Onley.md",
     "Santiago Buitrago.md",
     "Loisirs/Sport/Sportifs/Wout Van Aert.md",
     "Loisirs/Sport/Sportifs/Felix Gall.md",
@@ -259,16 +268,7 @@
     "Lando Norris.md",
     "Kimi Antonelli.md",
     "Max Verstappen.md",
-    "Grand Prix de Madrid.md",
-    "Lewis Hamilton.md",
-    "Barry Baltus.md",
-    "Loisirs/Sport/Sportifs/Sacha Coenen.md",
-    "Sport & Guerre.md",
-    "Loisirs/Sport/Sportifs/Elena Rybakina.md",
     "Attachments/image-816.webp",
-    "US Open.md",
-    "Loisirs/Sport/Aryna Sabalenka.md",
-    "Mikel Landa.md",
     "Attachments/image-815.webp",
     "Attachments/image-814.webp",
     "Attachments/image-813.webp",

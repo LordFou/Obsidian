@@ -14,7 +14,7 @@ type: event
 | 2020  | [[Dominic Thiem]]      |             |          |
 | 2021  | [[Daniil Medvedev]]    | Russe       |          |
 | 2025  | [[Carlos Alcaraz]]     | Espagnol    |          |
-|       |                        |             |          |
+| 2026  | [[Alexander Zverev]]   | Allemand    |          |
 # Femmes
 
 | Année | Vainqueur           | Nationalité    | Remarque |

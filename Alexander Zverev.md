@@ -26,6 +26,7 @@ type: personne
 | 2026  | [[Roland-Garros]]     | ==Vainqueur== | Victoire contre [[Flavio Cobolli]] |
 | 2026  | [[Tournoi de Halle]]  | 1/2 finale    |                                    |
 | 2026  | [[Wimbledon]]         | Finaliste     | Défaite contre [[Jannik Sinner]]   |
+| 2026  | [[US Open]]           | ==Vainqueur== | Victoire contre [[Ben Shelton]]    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
