@@ -14,6 +14,8 @@
 - Divers
 	- Demande d'asile de sportif => [RTBF](https://www.rtbf.be/article/guerre-au-moyen-orient-deux-footballeuses-iraniennes-refugiees-en-australie-s-entrainent-avec-un-club-local-11695473)
 # Ukraine Vs Russie
+- Septembre 2026
+	- l’appartement de la tenniswoman [[Dayana Yastremska]] détruit par un missile russe à Odessa
 - [[JO 2026]]
 	- Impossibilité pour les sportifs russes et biélorusses de participer [aux compétitions de qualifications](Impossibilité pour les sportifs russes et biélorusses de participer aux compétitions de qualifications)
 	- Malgré les interdictions, [le porte-drapeau ukrainien](https://www.rtbf.be/article/jo-d-hiver-2026-malgre-les-interdictions-le-porte-drapeau-ukrainien-veut-porter-son-casque-en-memoire-des-tues-de-la-guerre-11677307) veut porter son casque en mémoire des tués de la guerre

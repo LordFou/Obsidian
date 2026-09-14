@@ -28,6 +28,7 @@ type: personne
 | 2026  | [[GP France]]            | Abandon  | Moto2    |                               |
 | 2026  | [[GP Italie]]            | 8e       | Moto2    | Parti de la 19e position      |
 | 2026  | GP Silverstone           | 9e       | Moto2    |                               |
+| 2026  | GP San Marin             | 3e       | Moto2    |                               |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
