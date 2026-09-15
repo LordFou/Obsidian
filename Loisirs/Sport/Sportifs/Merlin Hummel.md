@@ -15,10 +15,10 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition               | Résultat                   | Remarque         |
-| ----- | ------------------------- | -------------------------- | ---------------- |
-| 2026  | [[Ultimate Championship]] | 1ère place / Médaille d’or | Détail optionnel |
-|       |                           |                            |                  |
+| Année | Compétition               | Résultat | Remarque |
+| ----- | ------------------------- | -------- | -------- |
+| 2026  | [[Ultimate Championship]] | 1ier     | 81m46    |
+|       |                           |          |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

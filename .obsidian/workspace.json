@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Merlin Hummel.md",
+                "file": "Daniel Segers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merlin Hummel"
+              "title": "Daniel Segers"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Merlin Hummel",
+                "query": "Belgian Waffles",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,7 +89,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,11 +212,19 @@
   },
   "active": "b2606c3257c6f582",
   "lastOpenFiles": [
-    "Yaroslava Mahuchikh.md",
+    "Belgian Waffles.md",
+    "Helena Ponette.md",
+    "Jonathan Sacoor.md",
+    "Eliott Crestan.md",
+    "Loisirs/Sport/Sportifs/Paulien Couckuyt.md",
+    "Loisirs/Sport/Sportifs/Mondo Duplantis.md",
+    "Attachments/image-819.webp",
+    "Larissa Iapichino.md",
+    "Loisirs/Sport/Sportifs/Ja'Kobe Tharp.md",
     "Loisirs/Sport/Sportifs/Merlin Hummel.md",
+    "Yaroslava Mahuchikh.md",
     "{{.md",
     "Loisirs/Sport/Sportifs/Masai Russell.md",
-    "Loisirs/Sport/Sportifs/Mondo Duplantis.md",
     "Ultimate Championship.md",
     "Loisirs/Sport/Sportifs/Jakob Ingebrigtsen.md",
     "Journal de bord/2026-09-15.md",
@@ -230,14 +239,7 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Sigilfarer - A Dice-Rolling Roguelite.md",
     "Loisirs/Jeux Vidéos/Jeux/Retrogaming/Marvel's Wolverine.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Serious Sam - Shatterverse.md",
-    "Franchise Serious Sam.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/IRON NEST - Heavy Turret Simulator.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Another Eden Begins.md",
     "Attachments/image-818.webp",
-    "WRIGHT FLYER STUDIOS.md",
-    "Loisirs/Sport/Compétitions/Rallye du Chili.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Sans titre 8.md",
-    "Elise Mertens.md",
     "Attachments/image-817.webp",
     "Attachments/image-816.webp",
     "Attachments/image-815.webp",
@@ -246,7 +248,6 @@
     "Attachments/image-812.webp",
     "Attachments/image-811.webp",
     "Attachments/image-810.webp",
-    "Attachments/image-809.webp",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
     "Famille/Vacances",
