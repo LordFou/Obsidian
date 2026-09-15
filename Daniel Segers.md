@@ -22,6 +22,7 @@ type: personne
 | 2026  | [[Championnats de Belgique d'Athlétisme]] - 400m               | ==1ier==                        |                                                                   |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - 400m                  | 7e (Demi-finale)<br>8e (Finale) | 45.03 (Demi-finale) - Qualifié d'office en demi<br>45.48 (Finale) |
 | 2026  | [[Championnats d'Europe d'athlétisme\|Champ. Europe]] - 4x400m | 4e                              | avec les [[Belgian Tornados]]                                     |
+| 2026  | [[Ultimate Championship]] - 4x400m mixte                       | 4e                              | avec les [[Belgian Waffles]]                                      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
