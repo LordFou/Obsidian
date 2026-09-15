@@ -3,31 +3,28 @@ type: personne
 ---
 
 
-# Masai Russell
+# Merlin Hummel
 
 # Informations Générales  
 - **Date de naissance** :  
-- **Nationalité** :  Américaine
+- **Nationalité** :  
 - **Sport / Discipline** :  [[Athlétisme]]
-- **Poste / Spécialité** (si applicable) :  [[100m Haies]]
+- **Poste / Spécialité** (si applicable) :  [[Lancer du marteau]]
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                             | Résultat | Remarque   |
-| ----- | --------------------------------------- | -------- | ---------- |
-| 2024  | [[JO 2024]]                             | 1ière    |            |
-| 2025  | [[Championnats du monde d'athlétisme]]  | 1ière    |            |
-| 2026  | Ligue de Diamant de Zurich - 100m Haies | 1ière    | 12.09 (WR) |
-| 2026  | [[Ultimate Championship]] - 100m Haies  | 1ière    | 12.22      |
+| Année | Compétition               | Résultat                   | Remarque         |
+| ----- | ------------------------- | -------------------------- | ---------------- |
+| 2026  | [[Ultimate Championship]] | 1ère place / Médaille d’or | Détail optionnel |
+|       |                           |                            |                  |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants  
-- Record du Monde
-	- 100m Haies (12.09)
+Lister lebattus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants  
 Évoquer les polémiques ou moments clés de sa carrière.

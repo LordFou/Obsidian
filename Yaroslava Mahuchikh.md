@@ -15,10 +15,10 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                                              | Résultat | Remarque |
-| ----- | -------------------------------------------------------- | -------- | -------- |
-| 2026  | [[Championnats d'Europe d'athlétisme]] - Saut en hauteur | 1ier     |          |
-|       |                                                          |          |          |
+| Année | Compétition                            | Résultat | Remarque |
+| ----- | -------------------------------------- | -------- | -------- |
+| 2026  | [[Championnats d'Europe d'athlétisme]] | 1ière    |          |
+| 2026  | [[Ultimate Championship]]              | 1ière    | 1m99     |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -20,7 +20,7 @@ type: personne
 | 2022  | [[Championnats d'Europe d'athlétisme]] - 5000m | 1ier     |          |
 | 2024  | [[Championnats d'Europe d'athlétisme]] - 5000m | 1ier     |          |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - 5000m | 1ier     |          |
-|       |                                                |          |          |
+| 2026  | [[Ultimate Championship]] - 5000m              | 1ier     |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
