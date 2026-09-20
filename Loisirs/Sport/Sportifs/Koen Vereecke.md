@@ -1,25 +1,24 @@
 ---
 type: personne
 ---
-![[image-778.webp|500x281]]
 
-# Noor Vidts
+
+# Koen Vereecke
 
 # Informations Générales  
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Nationalité** :  Belge
+- **Sport / Discipline** : [[Equitation]] 
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                                         | Résultat | Remarque                       |
-| ----- | --------------------------------------------------- | -------- | ------------------------------ |
-| 2026  | [[Championnats du monde d'athlétisme]] - Heptathlon | 11e      | Retour d'une année de blessure |
-| 2026  | [[Decastar de Talence]]                             | 3e       |                                |
-|       |                                                     |          |                                |
+| Année | Compétition                        | Résultat | Remarque |
+| ----- | ---------------------------------- | -------- | -------- |
+| 2026  | Championnat de belgique de jumping | 1ier     |          |
+|       |                                    |          |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

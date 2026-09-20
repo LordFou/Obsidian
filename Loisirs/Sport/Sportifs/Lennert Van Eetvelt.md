@@ -13,22 +13,23 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année    | Compétition                      | Résultat | Remarque |
-| -------- | -------------------------------- | -------- | -------- |
-|          |                                  |          |          |
-| 2024 (?) | [[Tour du Guangxi]] - Xe étape   | ==1ier== |          |
-|          |                                  |          |          |
-| 2025     | [[Tour de France]] - 14e étape   | Abandon  |          |
-|          |                                  |          |          |
-| 2026     | [[Tour Down Under]]              | Abandon  | Chute    |
-| 2026     | [[UAE Tour]] - 3e étape          | 3e       |          |
-| 2026     | [[UAE Tour]] - Classement final  | 6e       |          |
-| 2026     | [[GP Miguel Indurain]]           | 7e       |          |
-| 2026     | [[Tour d'Italie]]                | Abandon  | Chute    |
-| 2026     | [[Tour de France]] - 3e étape    | 6e       |          |
-| 2026     | [[Arctic Race]] - 3e étape       | 2e       |          |
-| 2026     | [[Tour de Slovaquie]] - 3e étape | ==1ier== |          |
-|          |                                  |          |          |
+| Année    | Compétition                              | Résultat | Remarque |
+| -------- | ---------------------------------------- | -------- | -------- |
+|          |                                          |          |          |
+| 2024 (?) | [[Tour du Guangxi]] - Xe étape           | ==1ier== |          |
+|          |                                          |          |          |
+| 2025     | [[Tour de France]] - 14e étape           | Abandon  |          |
+|          |                                          |          |          |
+| 2026     | [[Tour Down Under]]                      | Abandon  | Chute    |
+| 2026     | [[UAE Tour]] - 3e étape                  | 3e       |          |
+| 2026     | [[UAE Tour]] - Classement final          | 6e       |          |
+| 2026     | [[GP Miguel Indurain]]                   | 7e       |          |
+| 2026     | [[Tour d'Italie]]                        | Abandon  | Chute    |
+| 2026     | [[Tour de France]] - 3e étape            | 6e       |          |
+| 2026     | [[Arctic Race]] - 3e étape               | 2e       |          |
+| 2026     | [[Tour de Slovaquie]] - 3e étape         | ==1ier== |          |
+| 2026     | [[Tour de Slovaquie]] - 5e étape         | ==1ier== |          |
+| 2026     | [[Tour de Slovaquie]] - Classement final | ==1ier== |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

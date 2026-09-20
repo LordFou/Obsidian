@@ -14,6 +14,7 @@ type: event
 | 2e           |                         |                         |          |        |       |           |
 | ==3e (BEL)== | [[Lennert Van Eetvelt]] | [[Lennert Van Eetvelt]] |          |        |       |           |
 |              |                         |                         |          |        |       |           |
+| 5e (BEL)     |                         |                         |          |        |       |           |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |

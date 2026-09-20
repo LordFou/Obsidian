@@ -1,25 +1,24 @@
 ---
 type: personne
 ---
-![[image-778.webp|500x281]]
 
-# Noor Vidts
+
+# Henrik Pedersen
 
 # Informations Générales  
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Nationalité** :  Norvégien
+- **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Uno-x]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                                         | Résultat | Remarque                       |
-| ----- | --------------------------------------------------- | -------- | ------------------------------ |
-| 2026  | [[Championnats du monde d'athlétisme]] - Heptathlon | 11e      | Retour d'une année de blessure |
-| 2026  | [[Decastar de Talence]]                             | 3e       |                                |
-|       |                                                     |          |                                |
+| Année | Compétition               | Résultat | Remarque |
+| ----- | ------------------------- | -------- | -------- |
+| 2026  | [[Flandrien 0.0 Classic]] | 1ier     |          |
+|       |                           |          |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

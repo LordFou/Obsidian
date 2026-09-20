@@ -22,6 +22,7 @@ type: personne
 |       |                                                                     |          |          |
 | 2026  | [[Omloop Het Nieuwsblad]]                                           | 3e       |          |
 | 2026  | [[Grand Prix de l'E3]]                                              | 3e       |          |
+| 2026  | [[Flandrien 0.0 Classic]]                                           | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

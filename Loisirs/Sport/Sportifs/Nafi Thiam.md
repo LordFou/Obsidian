@@ -13,17 +13,22 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                                    | Résultat | Remarque                 |
-| ----- | ------------------------------------------------------------------------------ | -------- | ------------------------ |
-| 2016  | [[JO 2016]] - Heptathlon                                                       | 1iere    |                          |
-| 2020  | [[JO 2020]] - Heptathlon                                                       | 1iere    |                          |
-| 2020  | [[Championnats d'Europe d'athlétisme\|Champ. Europe]] - Heptathlon             | 1ière    |                          |
-| 2022  | [[Championnats d'Europe d'athlétisme\|Champ. Europe]] - Heptathlon             | 1ière    |                          |
-| 2024  | [[Championnats d'Europe d'athlétisme\|Champ. Europe]] - Heptathlon             | 1ière    | ==Triplé !==             |
-| 2024  | [[JO 2024]] - Heptathlon                                                       | 1iere    | ==Triplé !==             |
-| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - Heptathlon              | Abandon  | cfr la controverse + bas |
-| 2025  | [[Championnat de Belgique d'Athlétisme\|Champ. de Belgique]] - Lancer du poids | 1ière    |                          |
-| 2026  | [[Championnats d'Europe d'athlétisme\|Champ. Europe]]                          | Forfait  |                          |
+| Année | Compétition                                                                    | Résultat  | Remarque                 |
+| ----- | ------------------------------------------------------------------------------ | --------- | ------------------------ |
+| 2016  | [[JO 2016]] - Heptathlon                                                       | ==1iere== |                          |
+| 2019  | [[Decastar de Talence]]                                                        | ==1ière== |                          |
+| 2020  | [[JO 2020]] - Heptathlon                                                       | ==1iere== |                          |
+| 2020  | [[Championnats d'Europe d'athlétisme\|Champ. Europe]] - Heptathlon             | ==1ière== |                          |
+| 2022  | [[Championnats d'Europe d'athlétisme\|Champ. Europe]] - Heptathlon             | ==1ière== |                          |
+|       |                                                                                |           |                          |
+| 2024  | [[Championnats d'Europe d'athlétisme\|Champ. Europe]] - Heptathlon             | ==1ière== | ==Triplé !==             |
+| 2024  | [[JO 2024]] - Heptathlon                                                       | ==1iere== | ==Triplé !==             |
+|       |                                                                                |           |                          |
+| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - Heptathlon              | Abandon   | cfr la controverse + bas |
+| 2025  | [[Championnat de Belgique d'Athlétisme\|Champ. de Belgique]] - Lancer du poids | ==1ière== |                          |
+|       |                                                                                |           |                          |
+| 2026  | [[Championnats d'Europe d'athlétisme\|Champ. Europe]]                          | Forfait   |                          |
+| 2026  | [[Decastar de Talence]]                                                        | ==1ière== |                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
