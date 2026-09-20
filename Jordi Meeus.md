@@ -23,7 +23,7 @@ type: personne
 | 2025  | [[Tour de Suisse]] - 6e étape            | ==1ier== | Sprint                          |
 | 2025  | [[Copenhague Sprint]]                    | ==1ier== | Sprint                          |
 | 2025  | [[Tour de France]] - 17e étape           | 2e       | Sprint                          |
-| 2025  | [[Super 8 Classic]]                      | 3e       | Sprint                          |
+| 2025  | [[Flandrien 0.0 Classic]]                      | 3e       | Sprint                          |
 | 2025  | [[Binche-Chimay-Binche]]                 | ==1ier== | Sprint                          |
 |       |                                          |          |                                 |
 | 2026  | [[Tour d'Algarve]] - 1e étape            | 2e       | Sprint                          |

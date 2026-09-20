@@ -98,6 +98,7 @@ type: personne
 | 2026  | [[Clasica San Sebastian]]                                                        | ==1ier==    |                                                                                                                       |
 | 2026  | [[Grand Prix de Québec]]                                                         | ==1ier==    |                                                                                                                       |
 | 2026  | [[Grand Prix de Montréal]]                                                       | 5e          |                                                                                                                       |
+| 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] -  CLM                        | ==1ier==    |                                                                                                                       |
 ## Historique
 ```timeline-labeled
 [line-5, body-2]
@@ -128,6 +129,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
   ![[image-812.webp|461x224]]
 - Recordmen des victoires
 	- 4x Vainqueur [[Clasica San Sebastian]]
+	- 4x Champion du Monde - CLM consécutivement
 
 
 ## Controverses ou Événements Importants

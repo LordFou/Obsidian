@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                         | Résultat | Remarque      |
 | ----- | ----------------------------------- | -------- | ------------- |
-| ?     | [[Super 8 Classic]]                 | 1ier     |               |
+| ?     | [[Flandrien 0.0 Classic]]                 | 1ier     |               |
 | 2017  | [[Paris-Roubaix]]                   | 1ier     |               |
 | 2025  | Ironman 70.3 - Championnat du Monde | 1ier     | Vétéran 40-44 |
 |       |                                     |          |               |
