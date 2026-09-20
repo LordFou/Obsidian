@@ -28,12 +28,13 @@ type: event
 | 2026  | [[Remco Evenepoel]]                            | CLM    | Montréal (Canada) | ==Belge==   |                          |
 # Femmes
 
-| Année | Vainqueur                     | Course | Nationalité  | Remarque                  |
-| ----- | ----------------------------- | ------ | ------------ | ------------------------- |
-| 2023  | [[Lotte Kopecky]]             | Route  | Belge        |                           |
-| 2024  | [[Lotte Kopecky]]             | Route  | Belge        |                           |
-| 2025  | [[Magdeleine Vallieres Mill]] | Route  | Canadienne   |                           |
-| 2025  | [[Marlen Reusser]]            | CLM    | Suisse       | 21e - [[Marthe Goossens]] |
+| Année | Vainqueur                     | Course | Nationalité | Remarque                  |
+| ----- | ----------------------------- | ------ | ----------- | ------------------------- |
+| 2023  | [[Lotte Kopecky]]             | Route  | Belge       |                           |
+| 2024  | [[Lotte Kopecky]]             | Route  | Belge       |                           |
+| 2025  | [[Magdeleine Vallieres Mill]] | Route  | Canadienne  |                           |
+| 2025  | [[Marlen Reusser]]            | CLM    | Suisse      | 21e - [[Marthe Goossens]] |
+| 2026  | [[Marlen Reusser]]            | CLM    | Suisse      | 6e - [[Lotte Kopecky]]    |
 
 # Mixte
 

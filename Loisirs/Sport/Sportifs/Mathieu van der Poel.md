@@ -61,6 +61,8 @@ type: personne
 | 2026  | [[Tour de France]] - 9e étape - Etape + Combattif   | ==1ier== |                                                                                                        |
 | 2026  | [[Tour de France]] - 21e étape                      | ==1ier== |                                                                                                        |
 | 2026  | [[Tour du Luxembourg]] - 1e étape                   | ==1ier== |                                                                                                        |
+| 2026  | [[Tour du Luxembourg]] - 5e étape                   | ==1ier== |                                                                                                        |
+| 2026  | [[Tour du Luxembourg]] - Classement Final           | ==1ier== |                                                                                                        |
 ## Style et Caractéristiques
 - Toujours à l'attaque et beaucoup de victoires en solitaire
 - Il s'est déjà prix des bonnes fringales

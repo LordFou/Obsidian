@@ -13,12 +13,13 @@ type: event
 | 1e           |                         |                         |          |        |       |           |
 | 2e           |                         |                         |          |        |       |           |
 | ==3e (BEL)== | [[Lennert Van Eetvelt]] | [[Lennert Van Eetvelt]] |          |        |       |           |
-|              |                         |                         |          |        |       |           |
-| 5e (BEL)     |                         |                         |          |        |       |           |
+| 4e           |                         | [[Lennert Van Eetvelt]] |          |        |       |           |
+| ==5e (BEL)== | [[Lennert Van Eetvelt]] | [[Lennert Van Eetvelt]] |          |        |       |           |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
 | --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|     |           |         |          |        |       |           |
 |     |           |         |          |        |       |           |
 
 
@@ -43,10 +44,11 @@ type: event
 ### Hommes
 
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur               | Nationalité | Remarque |
+| ----- | ----------------------- | ----------- | -------- |
+| 2019  | [[Yves Lampaert]]       | ==Belge==   |          |
+| 2025  | [[Paul Double]]         | Anglais     |          |
+| 2026  | [[Lennert Van Eetvelt]] | ==Belge==   |          |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
