@@ -10,7 +10,7 @@ type: event
 
 | Année | Vainqueur          | Nationalité | Remarque             |
 | ----- | ------------------ | ----------- | -------------------- |
-|       | [[Tim Merlier]]    | ==Belge==   |                      |
+| ?     | [[Tim Merlier]]    | ==Belge==   |                      |
 | 2025  | [[Jonathan Milan]] | Italien     | 3e - [[Tim Merlier]] |
 | 2026  | [[Tim Merlier]]    | ==Belge==   |                      |
 # Femmes

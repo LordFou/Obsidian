@@ -5,11 +5,25 @@ type: event
 
 # Introduction
 
+# Edition 2026
+## Hommes
+
+|              | Vainqueur               | Général                 | Montagne | Points | Jeune | Remarques |
+| ------------ | ----------------------- | ----------------------- | -------- | ------ | ----- | --------- |
+| 1e           |                         |                         |          |        |       |           |
+| 2e           |                         |                         |          |        |       |           |
+| ==3e (BEL)== | [[Lennert Van Eetvelt]] | [[Lennert Van Eetvelt]] |          |        |       |           |
+|              |                         |                         |          |        |       |           |
+## Femmes
+
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|     |           |         |          |        |       |           |
+
+
 # Edition 2025
 
 ## Hommes
-
-### Etapes 
 
 |          | Vainqueur        | Général          | Montagne | Points | Jeune | Remarques |
 | -------- | ---------------- | ---------------- | -------- | ------ | ----- | --------- |
@@ -19,8 +33,6 @@ type: event
 | 4e (FRA) | [[Paul Magnier]] | [[Paul Magnier]] |          |        |       |           |
 | 5e (ANG) | [[Paul Double]]  | ?                |          |        |       |           |
 ## Femmes
-
-### Etapes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
 | --- | --------- | ------- | -------- | ------ | ----- | --------- |

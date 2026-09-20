@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Championnat des Flandres.md",
+                "file": "Red Aces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Championnat des Flandres"
+              "title": "Red Aces"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zizou Bergs.md",
+                "file": "Loisirs/Sport/Sportifs/Lennert Van Eetvelt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zizou Bergs"
+              "title": "Lennert Van Eetvelt"
             }
           }
         ],
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Championnat des Fla",
+                "query": "Tour de Slova",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,10 +255,14 @@
   },
   "active": "919610c18ea594a1",
   "lastOpenFiles": [
+    "Loisirs/Sport/Equipes/Equipe nationale belge de Tennis.md",
+    "Red Aces.md",
+    "Loisirs/Sport/Sportifs/Lennert Van Eetvelt.md",
+    "Tour de Slovaquie.md",
+    "Zizou Bergs.md",
     "Tim Merlier.md",
     "Loisirs/Sport/Compétitions/Championnat des Flandres.md",
     "Loisirs/Sport/Equipes/Red Dragons.md",
-    "Zizou Bergs.md",
     "Coupe Davis.md",
     "Fem van Empel.md",
     "Attachments/image-822.webp",
@@ -280,10 +284,6 @@
     "Belgian Waffles.md",
     "Daniel Segers.md",
     "Helena Ponette.md",
-    "Jonathan Sacoor.md",
-    "Eliott Crestan.md",
-    "Loisirs/Sport/Sportifs/Paulien Couckuyt.md",
-    "Loisirs/Sport/Sportifs/Mondo Duplantis.md",
     "Attachments/image-819.webp",
     "Attachments/image-818.webp",
     "Attachments/image-817.webp",
