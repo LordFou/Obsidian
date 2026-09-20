@@ -46,6 +46,8 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
 
+# Anecdotes
+- Il a remporté une course de karting contre 100 adversaires en Septembre 2026 à Silverstone, en Angleterre. Le quadruple champion du monde de Formule 1 était parti de la 101e place de la grille lors de cette course exhibition baptisée 'Max vs 100'.
 # Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)

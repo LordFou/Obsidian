@@ -8,9 +8,10 @@ type: event
 # Edition 2026
 ## Hommes
 
-|          | Vainqueur                | Général                  | Montagne | Points | Jeune | Remarques |
-| -------- | ------------------------ | ------------------------ | -------- | ------ | ----- | --------- |
-| 1e (NDL) | [[Mathieu van der Poel]] | [[Mathieu van der Poel]] |          |        |       |           |
+|          | Vainqueur                | Général                  | Montagne | Points | Jeune | Remarques               |
+| -------- | ------------------------ | ------------------------ | -------- | ------ | ----- | ----------------------- |
+| 1e (NDL) | [[Mathieu van der Poel]] | [[Mathieu van der Poel]] |          |        |       |                         |
+| 2e (NDL) | [[Marijn van den Berg]]  | [[Marijn van den Berg]]  |          |        |       | 4e - [[Jasper Stuyven]] |
 ## Femmes
 
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
