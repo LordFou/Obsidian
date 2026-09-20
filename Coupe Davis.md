@@ -20,4 +20,4 @@ type: event
 | 2023  | Italie    |                         |
 | 2024  | Italie    |                         |
 | 2025  | Italie    | Finale contre l'Espagne |
-|       |           |                         |
+| 2026  |           |                         |
