@@ -33,6 +33,7 @@ type: event
 | 2023  | [[Lotte Kopecky]]             | Route  | Belge       |                           |
 | 2024  | [[Lotte Kopecky]]             | Route  | Belge       |                           |
 | 2025  | [[Magdeleine Vallieres Mill]] | Route  | Canadienne  |                           |
+|       |                               |        |             |                           |
 | 2025  | [[Marlen Reusser]]            | CLM    | Suisse      | 21e - [[Marthe Goossens]] |
 | 2026  | [[Marlen Reusser]]            | CLM    | Suisse      | 6e - [[Lotte Kopecky]]    |
 
