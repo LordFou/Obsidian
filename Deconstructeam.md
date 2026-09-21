@@ -32,7 +32,7 @@ content:
 |       | [[Interview with the Whisperer]] |          |                       |
 |       | [[Gods will be watching]]        |          |                       |
 |       | [[The Red Strings Club]]         |          |                       |
-|       | [[The Cosmic Wheel Sisterhood]]  |          |                       |
+| 2023  | [[The Cosmic Wheel Sisterhood]]  |          |                       |
 | 2025  | [[Many Nights a Whisper]]        | Narratif | PC, PS5, Xbox, Switch |
 
 ## Moteur(s) Utilisé(s)
