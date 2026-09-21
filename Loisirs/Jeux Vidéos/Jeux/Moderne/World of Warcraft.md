@@ -12,7 +12,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : 
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise WoW]]
 - **Genre** : [[MMORPG]]
 - **Résumé** : 
 
