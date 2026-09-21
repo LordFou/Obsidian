@@ -44,6 +44,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Controverses ou Événements Importants
 - En juin 2026, peu avant [[Roland-Garros]], [[Marion Bartoli]] devient sa coach intérimaire.
+- Septembre 2026, blessure à la jambe (à développer)
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

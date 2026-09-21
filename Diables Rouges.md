@@ -11,13 +11,14 @@ Entraineurs :
 - Rudi Garcia (FRA)
 - Mark Van Bommel (NDL)
 
-| Année | Epreuve               | Résultat                                             | Remarque |
-| ----- | --------------------- | ---------------------------------------------------- | -------- |
-| 2018  | [[Coupe du Monde]]    | 1/2 finale (3e)                                      |          |
-| 2022  | [[Coupe du Monde]]    |                                                      |          |
-| 2026  | Matchs Amicaux        | Croatie - Belgique (0-2)<br>Belgique - Tunisie (5-0) |          |
-| 2026  | [[Coupe du Monde]]    | 1/4 finale                                           |          |
-| 2026  | [[Ligue des Nations]] |                                                      |          |
+| Année | Epreuve               | Résultat                                       | Remarque                                                                                                                                                                                              |
+| ----- | --------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2018  | [[Coupe du Monde]]    | 1/2 finale (3e)                                |                                                                                                                                                                                                       |
+| 2022  | [[Coupe du Monde]]    |                                                |                                                                                                                                                                                                       |
+| 2026  | Matchs Amicaux        | Croatie - Belgique (0-2)<br>Belgique - Tunisie |                                                                                                                                                                                                       |
+| 2026  | [[Coupe du Monde]]    | 1/4 finale                                     |                                                                                                                                                                                                       |
+| 2026  | [[Ligue des Nations]] |                                                | Ligue A - Groupe 1 - Match 1 : Italie-Belgique<br>Ligue A - Groupe 1 - Match 2 : Belgique-France<br>Ligue A - Groupe 1 - Match 3 : Belgique-Turquie<br>Ligue A - Groupe 1 - Match 4 : France-Belgique |
+|       |                       |                                                |                                                                                                                                                                                                       |
 Tous les résultats de match des [[Diables Rouges]] => [RTBF Sport](https://www.rtbf.be/article/de-1904-a-nos-jours-les-diables-rouges-sur-une-carte-du-monde-infographie-interactive-11736279)
 
 # Equipe nationale belge masculine de futsal

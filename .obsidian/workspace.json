@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diables Rouges.md",
+                "file": "Seff Van Kerckhove.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diables Rouges"
+              "title": "Seff Van Kerckhove"
             }
           },
           {
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Diables",
+                "query": "Seff Van Kerckhove",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -270,6 +270,7 @@
   },
   "active": "919610c18ea594a1",
   "lastOpenFiles": [
+    "Jeline Vandromme.md",
     "Ligue des Nations.md",
     "Diables Rouges.md",
     "Marlen Reusser.md",
@@ -295,7 +296,6 @@
     "Henrik Pedersen.md",
     "Loisirs/Sport/Equipes/Equipe nationale belge de Tennis.md",
     "Red Aces.md",
-    "Max Verstappen.md",
     "Attachments/image-822.webp",
     "Attachments/image-821.webp",
     "Attachments/image-820.webp",

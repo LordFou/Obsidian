@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                       | Résultat | Remarque |
-| ----- | ------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnat du Monde de Cyclisme]] - CLM Junior | 1ier     |          |
+| Année | Compétition                                                     | Résultat | Remarque                                                         |
+| ----- | --------------------------------------------------------------- | -------- | ---------------------------------------------------------------- |
+| 2025  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - CLM Junior | 1ier     |                                                                  |
+| 2026  | [[Championnat du Monde de Cyclisme]]                            | Forfait  | Victime d’un accident avec un véhicule en s'entraînant sur place |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
