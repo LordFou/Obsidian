@@ -47,8 +47,10 @@ tags: mediaDB/game
 	- Combats d'excellente facture
 	- Atmosphère au top
 	- Rythme pas toujours bien géré
+	- Origami : 
+		- 
 - **Gameplay** :
-- **Durée estimée** : 
+- **Durée estimée** : 20h-30h (mais trop long)
 
 ## Histoire et Univers
 - **Lieu(x)** : 

@@ -7,7 +7,7 @@
 	- Studio : 
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : [[Switch]]
+- **Plateformes** : [[Switch 2]]
 - **Franchise** : 
 - **Genre** : [[Coopération]]
 - **Résumé** :  Vous êtes dans une station spatiale qui a été très abimée par une pluie de [[météorite]]. 
@@ -21,6 +21,10 @@
 		- Pas d'histoire en fait ou presque pas
 		- Très joli -> retour année dessin animé des années 80-90
 		- On dirait qu'il manque des morceaux dans le jeu
+		- Pas de grands moments dans le gameplay 
+		- Mais des waouw au niveau graphisme.
+		- Temps de chargement long
+		- 2x2 Joycon indispensable
 - **Gameplay** :
 - **Durée estimée** : 
 

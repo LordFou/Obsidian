@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orbitals.md",
+                "file": "Franchise Onimusha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orbitals"
+              "title": "Franchise Onimusha"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Orbitals",
+                "query": "Onim",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,7 +101,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -221,8 +222,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "a9b0da7b852424b0",
+  "active": "dbacc6f984f28690",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Onimusha - Way of the Sword.md",
+    "Franchise Onimusha.md",
     "Orbitals.md",
     "Franchise Dragon Quest.md",
     "Franchise WoW.md",
@@ -247,8 +250,6 @@
     "Tobias Johannessen.md",
     "Mikel Landa.md",
     "Marijn van den Berg.md",
-    "Loisirs/Sport/Sportifs/Merlin Hummel.md",
-    "Journal de bord/2026-09-20.md",
     "Attachments/image-822.webp",
     "Attachments/image-821.webp",
     "Attachments/image-820.webp",
