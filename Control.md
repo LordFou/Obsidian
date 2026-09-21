@@ -6,7 +6,7 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2019
 - **Développeur** : 
 	- Studio : 
 	- Personnalités : 
@@ -29,6 +29,7 @@ type: game
 - **Lieu(x)** : 
 - **Epoque** : 
 - **Personnages principaux** : 
+	- Dylan
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :

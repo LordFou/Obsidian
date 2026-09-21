@@ -21,7 +21,8 @@ type: game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : 
 	- Garbage !
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- CheckPoint (10/10) ==!!!==
 - **Gameplay** :
 - **Durée estimée** : 
 

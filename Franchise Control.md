@@ -24,8 +24,8 @@ content:
 ## Jeux principaux
 | Titre                | Année | Plateformes | Remarque |
 | -------------------- | ----- | ----------- | -------- |
-| [[Control]]          |       |             |          |
-| [[Control Resonant]] |       |             |          |
+| [[Control]]          | 2019  |             |          |
+| [[Control Resonant]] | 2026  |             |          |
 
 
 ## Mécaniques et innovations
