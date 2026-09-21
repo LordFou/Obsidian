@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5bcdcd830f1f0fb1",
+        "id": "7b6b4e1ce862b15e",
         "type": "tabs",
         "children": [
           {
-            "id": "12bff6bb7d6674ba",
+            "id": "1602bcea7efeff6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Franchise Dragon Quest.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Franchise Dragon Quest"
-            }
-          },
-          {
-            "id": "a9b0da7b852424b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Franchise Onimusha.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Franchise Onimusha"
+              "title": "Nouvel onglet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +202,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dbacc6f984f28690",
+  "active": "cfaee1bb38725775",
   "lastOpenFiles": [
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Onimusha - Way of the Sword.md",
     "Franchise Onimusha.md",
