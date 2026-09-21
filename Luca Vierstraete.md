@@ -1,11 +1,11 @@
 ---
 type: personne
 ---
-
+![[image-824.webp|226x292]]
 # Luca Vierstraete
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  2006
 - **Nationalité** :  Belge
 - **Sport / Discipline** : [[Cyclisme]] 
 - **Poste / Spécialité** (si applicable) :  
@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                                          | Résultat | Remarque |
 | ----- | ---------------------------------------------------- | -------- | -------- |
 | 2025  | [[Championnat d'Europe de Cyclisme]] - Espoirs - CLM | 3e       |          |
+| 2026  | [[Championnat du Monde de Cyclisme]] - U23 - CLM     | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
