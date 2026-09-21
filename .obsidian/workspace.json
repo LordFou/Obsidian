@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seff Van Kerckhove.md",
+                "file": "Loisirs/Sport/Sportifs/Yu Zidi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seff Van Kerckhove"
+              "title": "Yu Zidi"
             }
           },
           {
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Seff Van Kerckhove",
+                "query": "Yu Zidi",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -146,8 +146,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -270,6 +269,10 @@
   },
   "active": "919610c18ea594a1",
   "lastOpenFiles": [
+    "Matisse Van Kerckhove.md",
+    "Loisirs/Sport/Sportifs/Yu Zidi.md",
+    "Seff Van Kerckhove.md",
+    "Tour de la Lunigiana.md",
     "Jeline Vandromme.md",
     "Ligue des Nations.md",
     "Diables Rouges.md",
@@ -292,10 +295,6 @@
     "Decastar de Talence.md",
     "Loisirs/Sport/Sportifs/Koen Vereecke.md",
     "Flandrien 0.0 Classic.md",
-    "Loisirs/Sport/Sportifs/Florian Vermeersch.md",
-    "Henrik Pedersen.md",
-    "Loisirs/Sport/Equipes/Equipe nationale belge de Tennis.md",
-    "Red Aces.md",
     "Attachments/image-822.webp",
     "Attachments/image-821.webp",
     "Attachments/image-820.webp",
