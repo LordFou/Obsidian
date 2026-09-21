@@ -13,12 +13,14 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                   | Résultat | Remarque   |
-| ----- | ----------------------------- | -------- | ---------- |
-| 2025  | [[Tour de France]] - 1e étape | 48e      | Combattive |
-| 2025  | [[Tour de France]] - 4e étape | 140e     | Combattive |
-| 2026  | [[Strade Bianche]]            | 3e       |            |
-| 2026  | [[Paris-Roubaix]]             | 1ière    |            |
+| Année | Compétition                                              | Résultat | Remarque   |
+| ----- | -------------------------------------------------------- | -------- | ---------- |
+| 2025  | [[Tour de France]] - 1e étape                            | 48e      | Combattive |
+| 2025  | [[Tour de France]] - 4e étape                            | 140e     | Combattive |
+|       |                                                          |          |            |
+| 2026  | [[Strade Bianche]]                                       | 3e       |            |
+| 2026  | [[Paris-Roubaix]]                                        | 1ière    |            |
+| 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - CLM | 3e 🥉    |            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

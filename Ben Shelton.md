@@ -11,11 +11,14 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
+- Top Ranking : 4e
 
 # Palmarès et Distinctions
-| Année | Compétition                | Résultat  | Remarque |
-| ----- | -------------------------- | --------- | -------- |
-| 2025  | [[Tournoi de Montréal]] | Vainqueur |          |
+| Année | Compétition             | Résultat  | Remarque                            |
+| ----- | ----------------------- | --------- | ----------------------------------- |
+| 2025  | [[Tournoi de Montréal]] | Vainqueur |                                     |
+| 2026  | [[US Open]]             | Finaliste | Défaite contre [[Alexander Zverev]] |
+|       |                         |           |                                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

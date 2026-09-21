@@ -5,11 +5,25 @@ type: event
 
 # Introduction
 
+# Edition 2026
+## Hommes
+
+|          | Vainqueur                | Général                  | Montagne | Points | Jeune | Remarques               |
+| -------- | ------------------------ | ------------------------ | -------- | ------ | ----- | ----------------------- |
+| 1e (NDL) | [[Mathieu van der Poel]] | [[Mathieu van der Poel]] |          |        |       |                         |
+| 2e (NDL) | [[Marijn van den Berg]]  | [[Marijn van den Berg]]  |          |        |       | 4e - [[Jasper Stuyven]] |
+| 3e       |                          |                          |          |        |       |                         |
+| 4e       |                          |                          |          |        |       |                         |
+| 5e (NDL) | [[Mathieu van der Poel]] | [[Mathieu van der Poel]] |          |        |       |                         |
+## Femmes
+
+|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
+| --- | --------- | ------- | -------- | ------ | ----- | --------- |
+|     |           |         |          |        |       |           |
+
 # Edition 2025
 
 ## Hommes
-
-### Etapes 
 
 |          | Vainqueur              | Général               | Montagne | Points | Jeune | Remarques |
 | -------- | ---------------------- | --------------------- | -------- | ------ | ----- | --------- |
@@ -20,8 +34,6 @@ type: event
 | 5e (FRA) | [[Romain Grégoire]]    | [[Brandon McNulty]]   |          |        |       |           |
 ## Femmes
 
-### Etapes
-
 |     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
 | --- | --------- | ------- | -------- | ------ | ----- | --------- |
 
@@ -29,11 +41,10 @@ type: event
 
 ### Hommes
 
-
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur                | Nationalité | Remarque |
+| ----- | ------------------------ | ----------- | -------- |
+| 2025  | [[Brandon McNulty]]      | Anglais     |          |
+| 2026  | [[Mathieu van der Poel]] | Néérlandais |          |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

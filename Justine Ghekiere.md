@@ -13,14 +13,15 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                           | Résultat | Remarque |
-| ----- | --------------------------------------------------------------------- | -------- | -------- |
-| 2023  | [[Championnat de Belgique de Cyclisme\|Championnat National]] - Route | 5e       |          |
-| 2024  | [[Championnat de Belgique de Cyclisme\|Championnat National]] - Route | 3e 🥉    |          |
-| 2024  | [[Tour de France]] - xx étape                                         | 1iere    |          |
-| 2024  | [[Tour de France]] - Classement Montagne                              | 1iere    |          |
-| 2025  | [[Tour de Norvège]] - 1e étape                                        | 1iere    |          |
-| 2025  | [[Championnat de Belgique de Cyclisme\|Championnat National]] - Route | 1ier 🥇  |          |
+| Année | Compétition                                                           | Résultat     | Remarque |
+| ----- | --------------------------------------------------------------------- | ------------ | -------- |
+| 2023  | [[Championnat de Belgique de Cyclisme\|Championnat National]] - Route | 5e           |          |
+| 2024  | [[Championnat de Belgique de Cyclisme\|Championnat National]] - Route | 3e 🥉        |          |
+| 2024  | [[Tour de France]] - xx étape                                         | ==1iere==    |          |
+| 2024  | [[Tour de France]] - Classement Montagne                              | ==1iere==    |          |
+| 2025  | [[Tour de Norvège]] - 1e étape                                        | ==1iere==    |          |
+| 2025  | [[Championnat de Belgique de Cyclisme\|Championnat National]] - Route | ==1iere 🥇== |          |
+|       |                                                                       |              |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -29,7 +30,8 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-- Justine Ghekiere a chuté mi-septembre au Grand Prix de Stuttgart => Côte fracturée.
+- Justine Ghekiere a chuté mi-septembre au Grand Prix de Stuttgart (Année ?) => Côte fracturée.
+- En septembre 2026, elle chute lors du [[Faun Tour Femme]] => fracture rotule => elle ratera les mondiaux 2026.
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

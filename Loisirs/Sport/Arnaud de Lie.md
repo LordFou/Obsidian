@@ -41,7 +41,7 @@ content: Une nouvelle aventure commence avec l'équipe [[Tudor]]. 35 victoires a
 | 2025  | [[Renewi Tour]] - Classement final      | ==1ier== |                                                             |
 | 2025  | [[Bretagne Classic]]                    | ==1ier== |                                                             |
 | 2025  | [[Grand Prix de Wallonie]]              | ==1ier== | Sprint trèèèèès long                                        |
-| 2025  | [[Super 8 Classic]]                     | ==1ier== | Sprint                                                      |
+| 2025  | [[Flandrien 0.0 Classic]]                     | ==1ier== | Sprint                                                      |
 | 2025  | [[Paris-Chauny]]                        | ==1ier== | Sprint                                                      |
 |       |                                         |          |                                                             |
 | 2026  | [[Clasica Almeria]]                     | 6e       | Sprint                                                      |

@@ -1,7 +1,7 @@
 ---
 type: event
 ---
-# Tour de Bretagne
+# Tour de Bretagne - Bretagne Ladies Tour
 
 # Introduction
 
@@ -19,6 +19,7 @@ type: event
 |              | Vainqueur        | Général          | Montagne | Points | Jeune | Remarques |
 | ------------ | ---------------- | ---------------- | -------- | ------ | ----- | --------- |
 | ==1e (BEL)== | [[Sandrine Tas]] | [[Sandrine Tas]] |          |        |       |           |
+| ==Xe (BEL)== | [[Sandrine Tas]] | ?                |          |        |       |           |
 
 # General
 

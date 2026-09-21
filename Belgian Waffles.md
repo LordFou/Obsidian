@@ -11,5 +11,6 @@ Equipe mixte du 4x400m d'[[Athlétisme]]
 | 2025  | [[Championnats du monde d'athlétisme]] - Finale          | 3e 🥉    | [[Imke Vervaet]]<br>[[Dylan Borlée]]<br>[[Helena Ponette]]<br>[[Alexander Doom]]     |          |
 | 2026  | [[Championnats du monde d'athlétisme en salle]] - Finale | 1ier !!! | [[Jonathan Sacoor]]<br>[[Ilana Hanssens]]<br>[[Julien Watrin]]<br>[[Helena Ponette]] |          |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - Finale          | 8e       | Florent Mabille<br><br>Kylie Lambert                                                 | Equipe B |
+| 2026  | [[Ultimate Championship]]                                | 4e       | [[Jonathan Sacoor]]<br>[[Helena Ponette]]<br>[[Daniel Segers]]<br>[[Camille Laus]]   |          |
 
 ![[image-476.webp]]

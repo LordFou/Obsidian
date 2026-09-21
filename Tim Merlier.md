@@ -15,6 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                | Résultat | Remarque                                                      |
 | ----- | ---------------------------------------------------------- | -------- | ------------------------------------------------------------- |
+| ?     | [[Championnat des Flandres]]                               | 1ier     |                                                               |
 | 2021  | [[Tour du Limbourg]]                                       | 1ier     |                                                               |
 | 2022  | [[Nokere Koerse]]                                          | 1ier     |                                                               |
 | 2023  | [[Nokere Koerse]]                                          | 1ier     |                                                               |
@@ -58,6 +59,7 @@ type: personne
 | 2026  | [[Critérium de Roulers]]                                   | 2e       |                                                               |
 | 2026  | [[Critérium Acht van Chaam]]                               | ==1ier== |                                                               |
 | 2026  | [[Tour de Grande Bretagne]] - 2e étape                     | ==1ier== |                                                               |
+| 2026  | [[Championnat des Flandres]]                               | ==1ier== |                                                               |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -51,6 +51,7 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 | 2022  | [[Tour de France]] - 4e étape                               | Victoire en solitaire                                                                 |
 | 2022  | [[Tour de France]] - 8e étape                               | Sprint de puncheur/sprinteur                                                          |
 | 2022  | [[Tour de France]] - 20e étape                              | CLM                                                                                   |
+| 2022  | [[Tour de France]] - Maillot Vert                           |                                                                                       |
 | 2022  | [[Bretagne Classic]]                                        |                                                                                       |
 |       |                                                             |                                                                                       |
 | 2024  | [[Kuurne Bruxelles Kuurne]]                                 |                                                                                       |
@@ -69,6 +70,8 @@ Après maintes tentatives durant ce tour 2025 et une nouvelle fois avec résilie
 | 2026  | [[Tour du Danemark]] - Classement Final                     |                                                                                       |
 | 2026  | [[Tour d'Espagne]] - 13e étape                              |                                                                                       |
 | 2026  | [[Tour d'Espagne]] - 15e étape                              |                                                                                       |
+| 2026  | [[Tour d'Espagne]] - Maillot Points                         |                                                                                       |
+| 2026  | [[Tour d'Espagne]] - Super Combattif                        |                                                                                       |
 
 
 | Année | Compétition                                                       | Résultat | Remarque                                                                   |

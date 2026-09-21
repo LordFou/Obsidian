@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-819.webp|500x281]]
 # Mondo Duplantis
 
 # Informations Générales
@@ -13,12 +13,14 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                               | Résultat | Remarque  |
-| ----- | --------------------------------------------------------- | -------- | --------- |
-| ?     | [[Championnats du monde d'athlétisme]] - Saut à la perche | 1ier     |           |
-| ?     | [[Championnats du monde d'athlétisme]] - Saut à la perche | 1ier     |           |
-| 2025  | [[Championnats du monde d'athlétisme]] - Saut à la perche | 1ier     | 6m30 (WR) |
-| 2026  | [[Championnats d'Europe d'athlétisme]] - Saut à la perche | 1ier     | 6m15 (CR) |
+| Année | Compétition                            | Résultat | Remarque  |
+| ----- | -------------------------------------- | -------- | --------- |
+| ?     | [[Championnats du monde d'athlétisme]] | 1ier     |           |
+| ?     | [[Championnats du monde d'athlétisme]] | 1ier     |           |
+| 2025  | [[Championnats du monde d'athlétisme]] | 1ier     | 6m30 (WR) |
+| 2026  | [[Championnats d'Europe d'athlétisme]] | 1ier     | 6m15 (CR) |
+| 2026  | [[Memorial Ivo Van Damme]]             | Forfait  |           |
+| 2026  | [[Ultimate Championship]]              | 1ier     | 6m20      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -1,6 +1,7 @@
 ---
 type: personne
 ---
+![[image-813.webp|307x365]]
 # Remco Evenepoel
 
 ## Informations Générales
@@ -8,7 +9,7 @@ type: personne
 - **Nationalité** :  [[Belge]]
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) : Tours, Classiques, CLM
-- **Équipe(s) / Club(s)** :  [[Quick-Step]]
+- **Équipe(s) / Club(s)** :  [[Quick-Step]], [[Bora Redbull]]
 - **Période d’activité** :  
 
 ## Palmarès et Distinctions
@@ -95,6 +96,9 @@ type: personne
 | 2026  | [[Critérium d'Alost]]                                                            | ==1ier==    |                                                                                                                       |
 | 2026  | [[Critérium de Roulers]]                                                         | ==1ier==    |                                                                                                                       |
 | 2026  | [[Clasica San Sebastian]]                                                        | ==1ier==    |                                                                                                                       |
+| 2026  | [[Grand Prix de Québec]]                                                         | ==1ier==    |                                                                                                                       |
+| 2026  | [[Grand Prix de Montréal]]                                                       | 5e          |                                                                                                                       |
+| 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] -  CLM                        | ==1ier==    |                                                                                                                       |
 ## Historique
 ```timeline-labeled
 [line-5, body-2]
@@ -121,8 +125,12 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - Fin 2024, se blesse à l'entraînement, il fonce dans la portière d'une voiture de factrice en stationnement qui n'a pas fait attention => 4 mois de revalidation. De son aveu, c'est actuellement la période la plus difficile de sa vie.
 - Tout premier coureur à glaner la Vuelta et les Championnats du monde lors de la même saison (2022).
 - Premier belge à gagne le CLM du [[Championnat du Monde de Cyclisme]]
+- Premier coureur a gagner une course sur tous les continents (Septembre 2026)
+  ![[image-812.webp|461x224]]
 - Recordmen des victoires
 	- 4x Vainqueur [[Clasica San Sebastian]]
+	- 4x Champion du Monde - CLM consécutivement
+
 
 ## Controverses ou Événements Importants
 - Marié à Oumi Rayane, il devient petit à petit de religion muslmane. Ce qui apparemment l'a aidé à reprendre confiance en lui après sa blessure de 2024. Evidemment, il subira une meute de haters racistes... suite à cette confession (Les gens sont cons.)

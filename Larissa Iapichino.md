@@ -15,11 +15,11 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                                              | Résultat | Remarque |
-| ----- | -------------------------------------------------------- | -------- | -------- |
-| 2026  | [[Championnats d'Europe d'athlétisme]] - Saut en longeur | 2e       |          |
-| 2026  | [[Championnats d'Europe d'athlétisme]] - Saut en longeur | 1ière    |          |
-|       |                                                          |          |          |
+| Année | Compétition                            | Résultat | Remarque |
+| ----- | -------------------------------------- | -------- | -------- |
+| 2026  | [[Championnats d'Europe d'athlétisme]] | 2e       |          |
+| 2026  | [[Championnats d'Europe d'athlétisme]] | 1ière    |          |
+| 2026  | [[Ultimate Championship]]              | 1ière    |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

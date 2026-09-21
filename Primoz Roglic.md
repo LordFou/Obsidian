@@ -13,12 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition        | Résultat | Remarque |
-| ----- | ------------------ | -------- | -------- |
-| 2019  | [[Tour d'Espagne]] | 1ier     |          |
-| 2020  | [[Tour d'Espagne]] | 1ier     |          |
-| 2021  | [[Tour d'Espagne]] | 1ier     |          |
-| 2024  | [[Tour d'Espagne]] | 1ier     |          |
+| Année | Compétition                           | Résultat | Remarque |
+| ----- | ------------------------------------- | -------- | -------- |
+| 2019  | [[Tour d'Espagne]] - Classement final | ==1ier== |          |
+| 2020  | [[Tour d'Espagne]] - Classement final | ==1ier== |          |
+| 2021  | [[Tour d'Espagne]] - Classement final | ==1ier== |          |
+| 2024  | [[Tour d'Espagne]] - Classement final | ==1ier== |          |
+| 2026  | [[Tour d'Espagne]] - Classement final | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

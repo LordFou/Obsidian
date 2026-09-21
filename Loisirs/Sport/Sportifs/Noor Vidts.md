@@ -18,6 +18,7 @@ type: personne
 | Année | Compétition                                         | Résultat | Remarque                       |
 | ----- | --------------------------------------------------- | -------- | ------------------------------ |
 | 2026  | [[Championnats du monde d'athlétisme]] - Heptathlon | 11e      | Retour d'une année de blessure |
+| 2026  | [[Decastar de Talence]]                             | 3e       |                                |
 |       |                                                     |          |                                |
 
 # Style et Caractéristiques  

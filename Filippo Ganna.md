@@ -19,7 +19,7 @@ type: personne
 | 2022  | [[Tirreno-Adriatico]] - 1e étape                                          | 1ier     | CLM       |
 | 2023  | [[Tirreno-Adriatico]] - 1e étape                                          | 1ier     | CLM       |
 | 2025  | [[Tirreno-Adriatico]] - 1e étape                                          | 1ier     | CLM       |
-| 2025  | [[Championnat National Italien de Cyclisme]] - CLM                        | 1ier     |           |
+| 2025  | [[Championnat National Italien de Cyclisme\|Champ. National]] - CLM       | 1ier     |           |
 | 2025  | [[Tour de France]]                                                        | Abandon  | Sur chute |
 | 2025  | [[Loisirs/Sport/Compétitions/Tour d'Espagne\|Tour d'Espagne]] - 18e étape | 1ier     | CLM       |
 |       |                                                                           |          |           |
@@ -27,7 +27,8 @@ type: personne
 | 2026  | [[Tirreno-Adriatico]] - 1e étape                                          | 1ier     | CLM       |
 | 2026  | [[A Travers la Flandre]]                                                  | 1ier     |           |
 | 2026  | [[Tour d'Italie]] - 10e étape                                             | 1ier     | CLM       |
-| 2026  | [[Championnat National Italien de Cyclisme]] - CLM                        | 1ier     |           |
+| 2026  | [[Championnat National Italien de Cyclisme\|Champ. National]] - CLM       | 1ier     |           |
+| 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - CLM                  | 2e       |           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

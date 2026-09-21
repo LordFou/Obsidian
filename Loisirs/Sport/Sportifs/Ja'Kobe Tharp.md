@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                              | Résultat     | Remarque                               |
 | ----- | ---------------------------------------- | ------------ | -------------------------------------- |
 | 2026  | Championnats Universitaires - 110m Haies | 1ier (Série) | Série -> ==Record du monde== ! (12'75) |
+| 2026  | [[Ultimate Championship]] - 110m Haies   | 1ier         | 12.94                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -1,28 +1,29 @@
 ---
 type: personne
 ---
-
+![[image-816.webp|500x281]]
 # Elena Rybakina
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  1999
 - **Nationalité** : Kazakhstanaise
 - **Sport / Discipline** :  [[Tennis]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
-- **Top Ranking** : 2e
+- **Top Ranking** : 1ière
 
 # Palmarès et Distinctions
-| Année | Compétition              | Résultat   | Remarque                                        |
-| ----- | ------------------------ | ---------- | ----------------------------------------------- |
-| 2022  | [[Wimbledon]]            | Vainqueure |                                                 |
-| 2023  | [[Australian Open]]      | Finaliste  | Défaite contre [[Aryna Sabalenka]]              |
-| 2025  | [[Masters WTA de Ryad]]  | Vainqueure |                                                 |
-|       |                          |            |                                                 |
-| 2026  | [[Australian Open]]      | Vainqueure | Contre [[Aryna Sabalenka]]                      |
-| 2026  | [[Tournoi Indian Wells]] | Finaliste  | Défaite contre [[Aryna Sabalenka]]              |
-| 2026  | [[Roland-Garros]]        | 2e tour    | Défaite contre [[Yulia Starodubtseva]] (WTA 55) |
+| Année | Compétition              | Résultat       | Remarque                                        |
+| ----- | ------------------------ | -------------- | ----------------------------------------------- |
+| 2022  | [[Wimbledon]]            | ==Vainqueure== |                                                 |
+| 2023  | [[Australian Open]]      | Finaliste      | Défaite contre [[Aryna Sabalenka]]              |
+| 2025  | [[Masters WTA de Ryad]]  | ==Vainqueure== |                                                 |
+|       |                          |                |                                                 |
+| 2026  | [[Australian Open]]      | ==Vainqueure== | Victoire contre [[Aryna Sabalenka]]             |
+| 2026  | [[Tournoi Indian Wells]] | Finaliste      | Défaite contre [[Aryna Sabalenka]]              |
+| 2026  | [[Roland-Garros]]        | 2e tour        | Défaite contre [[Yulia Starodubtseva]] (WTA 55) |
+| 2026  | [[US Open]]              | ==Vainqueure== | Victoire contre [[Aryna Sabalenka]]             |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -20,6 +20,7 @@ type: personne
 | 2024  | [[JO 2024]]                             | 1ière    |            |
 | 2025  | [[Championnats du monde d'athlétisme]]  | 1ière    |            |
 | 2026  | Ligue de Diamant de Zurich - 100m Haies | 1ière    | 12.09 (WR) |
+| 2026  | [[Ultimate Championship]] - 100m Haies  | 1ière    | 12.22      |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

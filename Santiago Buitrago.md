@@ -23,7 +23,9 @@ type: personne
 |       | ?                                      |          |          |
 |       | ?                                      |          |          |
 | 2025  | [[Tour de Valence]] - Classement final | 1ier     |          |
+|       |                                        |          |          |
 | 2026  | [[Trofeo Laigueglia]]                  | 1ier     |          |
+| 2026  | [[Tour d'Espagne]] - Maillot Montagne  | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

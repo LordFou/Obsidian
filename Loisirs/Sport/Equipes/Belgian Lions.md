@@ -14,7 +14,7 @@ Entraineur
 
 # 3 Vs 3
 
-| Année | Compétition                  | Résultat | Remarque   |
-| ----- | ---------------------------- | -------- | ---------- |
-| 2026  | Coupe d'Europe de Basket 3v3 |          | Match 1 :  |
-|       |                              |          |            |
+| Année | Compétition                  | Résultat   | Remarque |
+| ----- | ---------------------------- | ---------- | -------- |
+| 2026  | Coupe d'Europe de Basket 3v3 | 1/4 finale |          |
+|       |                              |            |          |

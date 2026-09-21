@@ -13,13 +13,14 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                | Résultat  | Remarque |
-| ----- | ------------------------------------------ | --------- | -------- |
-| 2025  | [[Simac Ladies Tour]] - 5e étape           | ==1ière== |          |
-| 2025  | [[Baloise Ladies Tour]] - Classement final | ==1ière== |          |
-|       |                                            |           |          |
-| 2026  | [[Tour de Suisse]] - 3e étape              | ==1ière== |          |
-| 2026  | [[Baloise Ladies Tour]] - Classement final | ==1ière== |          |
+| Année | Compétition                                              | Résultat  | Remarque |
+| ----- | -------------------------------------------------------- | --------- | -------- |
+| 2025  | [[Simac Ladies Tour]] - 5e étape                         | ==1ière== |          |
+| 2025  | [[Baloise Ladies Tour]] - Classement final               | ==1ière== |          |
+|       |                                                          |           |          |
+| 2026  | [[Tour de Suisse]] - 3e étape                            | ==1ière== |          |
+| 2026  | [[Baloise Ladies Tour]] - Classement final               | ==1ière== |          |
+| 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - CLM | 2e 🥈     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

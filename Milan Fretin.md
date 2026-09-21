@@ -24,6 +24,7 @@ type: personne
 | 2026  | [[Paris-Nice]] - 1e étape                  | 4e       |                                      |
 | 2026  | [[Tour de France]] - 12e étape             | 5e       |                                      |
 | 2026  | [[Tour du Poitou-Charentes]] - 1ière étape | ==1ier== |                                      |
+| 2026  | [[Grand Prix de Wallonie]]                 | 3e       |                                      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

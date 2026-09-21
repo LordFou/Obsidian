@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-203.webp]]
+![[image-814.webp|500x281]]
 # Emma Plasschaert
 
 # Informations Générales
@@ -13,13 +13,20 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                   | Résultat | Remarque                 |                  |
-| ----- | ----------------------------- | -------- | ------------------------ | ---------------- |
-|       | Championnat du Monde          | 1ière    |                          |                  |
-|       | Championnat du Monde          | 1ière    |                          |                  |
-|       | [[JO 2020]]                   | 4e       |                          |                  |
-|       | [[JO 2024]]                   | 7e       |                          |                  |
-| 2025  | Sail Melbourne - classe ILCA6 |          | 1ère place / Médaille d’ | Détail optionnel |
+| Année | Compétition                          | Résultat  | Remarque |
+| ----- | ------------------------------------ | --------- | -------- |
+| 2018  | Championnat du Monde (Aarhus)        | ==1ière== |          |
+| 2018  | Championnat d'Europe                 | 3e        |          |
+| 2019  | Championnat d'Europe                 | 3e        |          |
+| 2020  | [[JO 2020]]                          | 4e        |          |
+| 2021  | Championnat du Monde (Al-Musannah)   | ==1ière== |          |
+| 2022  | Championnat du Monde (Kemah)         | 2e        |          |
+| 2024  | [[JO 2024]]                          | 7e        |          |
+| 2024  | Championnat du Monde (Mar del Plata) | 2e        |          |
+| 2025  | Sail Melbourne - classe ILCA6        | ==1ière== |          |
+| 2025  | Championnat d'Europe                 | 3e        |          |
+| 2026  | Championnat d'Europe                 | 3e        |          |
+| 2026  | Championnat du Monde - classe ILCA6  | 2e        |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
