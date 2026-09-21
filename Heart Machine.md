@@ -2,7 +2,7 @@
 type: societe
 ---
 
-# Build a Rocket Boy
+# Heart Machine
 
 ## Présentation
 Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
@@ -12,34 +12,22 @@ Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur 
 - **Date de création** :  
 - **Fondateurs** :  
 - **Personnalités** :
-	-  [[Leslie Benzies]] (Directeur)
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
 - **Mascotte** :
 
 ```timeline-labeled
 [line-5, body-2]
-date: Mars 2026
-title: Faillite ?
-content: [[Build a Rocket Boy]] France emploierait encore une 50aine de personnes à l'heure actuelle.
-
-date: Avril 2026
-title: Logicial Surveillance
-content: La société a mis en place un logiciel de surveillance sur les PC de travail de ses employés et le syndicat est remonté !
-
-date: Mai 2026
-title: 3e vague de licenciement en 1 an
-content: Cette fois, 170 sur les 250 employé·es du studio sont concerné·es
-
-date: Septembre 2026
-title: Clap de fin
-content: Fermeture du studio.
+date: Septembre 2026  
+title: Mayday Mayday !
+content: Une majorité de l'équipe est virée et le studio risque de fermer.
 ```
 
 ## Jeux Développés
-| Année | Titre        | Genre  | Plateformes           |
-| ----- | ------------ | ------ | --------------------- |
-| 2025  | [[MindsEye]] | Action | PC, PS5, Xbox, Switch |
+| Année | Titre                   |
+| ----- | ----------------------- |
+| 2016  | [[Hyper Light Drifter]] |
+|       |                         |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
@@ -57,6 +45,6 @@ Lister les prix, distinctions ou records obtenus.
 ## Filiales et Partenaires
 Lister les studios affiliés ou les collaborations importantes.
 
-## Sources et Références
-- [Lien vers une source](#)
-- [Article détaillé](#)
+| Description | URL |
+| ----------- | --- |
+|             |     |

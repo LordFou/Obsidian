@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control.md",
+                "file": "Build a Rocket Boy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Control"
+              "title": "Build a Rocket Boy"
             },
             "group": "f2bbabe75fbd91d6"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Control.md",
+                "file": "Build a Rocket Boy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Control"
+              "title": "Graphique de Build a Rocket Boy"
             },
             "group": "f2bbabe75fbd91d6"
           }
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Control",
+                "query": "Build a Rocket Boy",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -260,6 +260,12 @@
   },
   "active": "919610c18ea594a1",
   "lastOpenFiles": [
+    "BULKHEAD.md",
+    "Joe Brammer.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/WARDOGS.md",
+    "Heart Machine.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Hyper Light Drifter.md",
+    "Control.md",
     "Franchise Control.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Control Resonant.md",
     "Culture/Histoire/Films à (re)voir.md",
@@ -276,18 +282,12 @@
     "Exnilo Studio.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/lily's world XD.md",
     "SonderingEmily.md",
-    "Control.md",
     "Loisirs/Jeux Vidéos/Annapurna Interactive.md",
     "Franchise Silent Hill.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Virtue and a Sledgehammer.md",
     "Attachments/image-825.webp",
     "Selkie Harbour.md",
     "Deconstructeam.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Many Nights a Whisper.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Interview with the Whisperer.md",
-    "David Goffin.md",
-    "Tournoi de Saint-Tropez.md",
-    "Loisirs/Sport/Equipes/Red Dragons.md",
     "Attachments/image-824.webp",
     "Attachments/image-823.webp",
     "Attachments/image-822.webp",

@@ -1,40 +1,39 @@
 ---
 type: game
 subType: ""
-title: WARDOGS
-englishTitle: WARDOGS
-year: "2026"
+title: Hyper Light Drifter
+englishTitle: Hyper Light Drifter
+year: "2016"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/1867240
-id: 1867240
+url: https://store.steampowered.com/app/257850
+id: 257850
 developers:
-  - BULKHEAD
+  - Heart Machine
 publishers:
-  - Team17
+  - Heart Machine
 genres:
   - Action
+  - Adventure
   - Indie
-  - Massively Multiplayer
-  - Simulation
-  - Early Access
-onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1789503126
+  - RPG
+onlineRating: 84
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257850/header.jpg?t=1762899660
 released: true
-releaseDate: 10/09/2026
+releaseDate: 31/03/2016
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1789503126)
-# WARDOGS
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257850/header.jpg?t=1762899660)
+# Hyper Light Drifter
 
 ## Informations Générales
 
-- **Année de sortie** :  2026
+- **Année de sortie** :  2016
 - **Développeur** : 
-	- Studio : [[BULKHEAD]]
+	- Studio : [[Heart Machine]]
 	- Personnalités : 
-- **Éditeur** : [[Team17]]
+- **Éditeur** : [[Heart Machine]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** : 
@@ -45,7 +44,7 @@ tags: mediaDB/game
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 0
+	- Steam Rating : 84
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -64,4 +63,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/1867240 |
+| Wiki        | https://store.steampowered.com/app/257850 |
