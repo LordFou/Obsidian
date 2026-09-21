@@ -37,9 +37,7 @@ content:
 {{Analyse de la réception critique et populaire, ventes, influence sur d’autres jeux, adaptations en films, séries, livres...}}
 
 ## Anecdotes
-- {{Fait ou anecdote 1}}
-- {{Fait ou anecdote 2}}
-- {{Fait ou anecdote 3}}
+- Septembre 2026 : 100 millions de vente tous jeux confondus
 
 ## Liens connexes
 - [[Lien vers une autre note]] (ex: un jeu spécifique, un développeur)
