@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Silent Hill - Townfall.md",
+                "file": "Culture/Histoire/Films à (re)voir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Silent Hill - Townfall"
+              "title": "Films à (re)voir"
             },
             "group": "f2bbabe75fbd91d6"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Silent Hill - Townfall.md",
+                "file": "Culture/Histoire/Films à (re)voir.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Silent Hill - Townfall"
+              "title": "Graphique de Films à (re)voir"
             },
             "group": "f2bbabe75fbd91d6"
           }
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dragon Shelter",
+                "query": "Film",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -258,8 +258,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "571b06dbd1c46b81",
+  "active": "919610c18ea594a1",
   "lastOpenFiles": [
+    "Loisirs/Jeux Vidéos/Périphériques/Virtual Boy.md",
+    "Attachments/image-826.webp",
+    "Silent Hill - Townfall.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Control Resonant.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Nocturne.md",
     "Jeu de rythme.md",
@@ -273,7 +276,6 @@
     "SonderingEmily.md",
     "Franchise Control.md",
     "Control.md",
-    "Silent Hill - Townfall.md",
     "Loisirs/Jeux Vidéos/Annapurna Interactive.md",
     "Franchise Silent Hill.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Virtue and a Sledgehammer.md",
@@ -287,7 +289,6 @@
     "Loisirs/Sport/Equipes/Red Dragons.md",
     "Luca Vierstraete.md",
     "Attachments/image-824.webp",
-    "Loisirs/Sport/Sportifs/Yu Zidi.md",
     "Attachments/image-823.webp",
     "Attachments/image-822.webp",
     "Attachments/image-821.webp",
@@ -295,7 +296,6 @@
     "Attachments/image-819.webp",
     "Attachments/image-818.webp",
     "Attachments/image-817.webp",
-    "Attachments/image-816.webp",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
     "Famille/Vacances",

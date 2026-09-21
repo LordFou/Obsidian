@@ -1,7 +1,7 @@
 ---
 type: matos
 ---
-![[image-66.webp|500x375]]
+![[image-826.webp|500x281]]
 # Virtual Boy
 
 ## Informations principales
@@ -25,4 +25,9 @@ type: matos
 - Echec commercial de [[Nintendo]]
 
 ## Liens connexes
-- [Page Wikipédia](https://wikipedia.org)
+- Non lus
+	- https://mag.mo5.com/288411/hardware-le-virtual-boy-soffre-une-seconde-chance-sur-switch/
+	- 
+
+
+![[image-66.webp|500x375]]
