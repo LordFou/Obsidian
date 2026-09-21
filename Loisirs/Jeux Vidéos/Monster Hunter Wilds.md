@@ -4,7 +4,7 @@ type: game
 ![[Pasted image 20250519231251.png]]
 
 
-# Monster Hunter Wild
+# Monster Hunter Wilds
 
 ## Informations Générales
 

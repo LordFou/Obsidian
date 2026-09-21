@@ -33,7 +33,7 @@ tags: mediaDB/game
 	- Studio : [[Double Fine]]
 	- Personnalités : 
 		- [[Derek Brand]] (Chef de projet)
-- **Éditeur** : [[Xbox Game Studios]]
+- **Éditeur** : [[Xbox Games Studio]]
 - **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : 
 - **Genre** : [[Action]], [[Party Games]]

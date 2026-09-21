@@ -26,7 +26,7 @@ content:
 ## Jeux Développés
 | Année | Titre                                             |
 | ----- | ------------------------------------------------- |
-| 2025  | [[Monster Hunter Wild]]                           |
+| 2025  | [[Monster Hunter Wilds]]                           |
 | 2026  | [[Resident Evil 9 - Requiem]]                     |
 | 2026  | [[Monster Hunter Stories 3 - Twisted Reflection]] |
 | 2026  | [[Onimusha - Way of the Sword]]                   |
@@ -40,7 +40,7 @@ content:
 Décrire le style graphique, les thématiques abordées, les influences notables.
 
 ## Succès et Récompenses
-- [[Monster Hunter Wild]] vendu à 10 millions d'exemplaire en 1 mois
+- [[Monster Hunter Wilds]] vendu à 10 millions d'exemplaire en 1 mois
 
 ## Controverses ou Événements Marquants
 Évoquer les polémiques ou faits marquants de l’histoire de la société.

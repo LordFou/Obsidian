@@ -22,11 +22,12 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                                             | Année | Plateformes | Remarque |
-| ------------------------------------------------- | ----- | ----------- | -------- |
-| [[Monster Hunter Stories 2 - Wings of Ruin]]      | 2021  |             |          |
-| [[Monster Hunter Wild]]                           | 2025  |             |          |
-| [[Monster Hunter Stories 3 - Twisted Reflection]] | 2026  |             |          |
+| Titre                                             | Année    | Plateformes | Remarque |
+| ------------------------------------------------- | -------- | ----------- | -------- |
+| [[Monster Hunter Stories 2 - Wings of Ruin]]      | 2021     |             |          |
+| [[Monster Hunter Wilds]]                           | 2025     |             |          |
+| [[Monster Hunter Stories 3 - Twisted Reflection]] | 2026     |             |          |
+| [[Monster Hunter Wilds - Ascendance]]             | 2027 (?) |             |          |
 
 
 ## Mécaniques et innovations

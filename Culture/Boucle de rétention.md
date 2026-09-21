@@ -24,4 +24,4 @@ La boucle de rétention est un mécanisme ([[circuit de la récompense]]) qui am
 - On rajoute à cela, de possibles dépenses pour améliorer plus rapidement ou de manière originale.
 
 # Source
-- Article sur le jeu [[Monster Hunter Wild]] et la boucle de rétention => https://www.pointnthink.fr/fr/monster-hunter-wilds-la-boucle-de-retention/
+- Article sur le jeu [[Monster Hunter Wilds]] et la boucle de rétention => https://www.pointnthink.fr/fr/monster-hunter-wilds-la-boucle-de-retention/
