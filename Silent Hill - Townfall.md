@@ -11,9 +11,9 @@ type: game
 	- Studio : [[Annapurna Interactive]] (?)
 	- Personnalités : 
 - **Éditeur** : [[Konami]] (?)
-- **Plateformes** : [[Franchise Silent Hill]]
-- **Franchise** : 
-- **Genre** :
+- **Plateformes** : [[PC]], [[PlayStation 5]]
+- **Franchise** : [[Franchise Silent Hill]]
+- **Genre** : [[Action]], [[Aventure]], [[Horreur]]
 - **Résumé** : 
 
 ## Détails Techniques

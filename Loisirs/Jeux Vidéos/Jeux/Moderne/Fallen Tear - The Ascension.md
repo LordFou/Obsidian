@@ -1,40 +1,43 @@
 ---
 type: game
 subType: ""
-title: Dressmaker
-englishTitle: Dressmaker
+title: "Fallen Tear: The Ascension"
+englishTitle: "Fallen Tear: The Ascension"
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/4019220
-id: 4019220
+url: https://store.steampowered.com/app/1446900
+id: 1446900
 developers:
-  - Cozy Lives
+  - Winter Crew Studios
 publishers:
-  - Free Lives
+  - CMD Studios
 genres:
-  - Casual
-  - Simulation
+  - Action
+  - Adventure
+  - Indie
+  - RPG
+  - Early Access
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/f1cd08127872e60e4c47a4bc3e40d682d94741bf/header.jpg?t=1790009899
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446900/7798f2887912b8a75ad52fee2a57eb4f06603e63/header.jpg?t=1789664225
 released: true
-releaseDate: 21/09/2026
+releaseDate: 17/03/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/f1cd08127872e60e4c47a4bc3e40d682d94741bf/header.jpg?t=1790009899)
-# Dressmaker
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446900/7798f2887912b8a75ad52fee2a57eb4f06603e63/header.jpg?t=1789664225)
+# Fallen Tear: The Ascension
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Cozy Lives]]
+	- Studio : [[Winter Crew Studios]]
 	- Personnalités : 
-- **Éditeur** : [[Free Lives]]
+- **Éditeur** : [[CMD Studios]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Simulation]]
+- **Genre** : [[Metroïdvania]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -52,8 +55,6 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- [[La mode]]
-	- [[La couture]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
@@ -63,5 +64,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/4019220       |
-| Trailer     | https://youtu.be/ODvmwag-EW4?si=MPuezc5CgQUunqzt |
+| Steam       | https://store.steampowered.com/app/1446900       |
+| Trailer     | https://youtu.be/SyrsR1LKSnE?si=gBk1R-eJ50H_oiPt |

@@ -11,9 +11,9 @@ type: game
 	- Studio : [[Remedy Entertainment]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[PlayStation 5]], [[Xbox Series]]
 - **Franchise** : [[Franchise Control]]
-- **Genre** :
+- **Genre** : [[Action]], [[Aventure]], [[RPG]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -26,7 +26,7 @@ type: game
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : 
+- **Lieu(x)** : Manhattan
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
@@ -38,6 +38,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Trailer     | https://youtu.be/SqvAvOAd1VA?si=G9uGUtK6ids8Jln7 |
