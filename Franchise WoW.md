@@ -23,12 +23,12 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                       | Année | Plateformes | Remarque |
-| --------------------------- | ----- | ----------- | -------- |
-| [[World of Warcraft]]       |       |             |          |
-| World of Warcraft - Classic |       |             |          |
-| Warcraft 3                  |       |             |          |
-|                             |       |             |          |
+| Titre                       | Année | Plateformes | Remarque                  |
+| --------------------------- | ----- | ----------- | ------------------------- |
+| Warcraft 3                  |       |             |                           |
+| [[World of Warcraft]]       |       |             |                           |
+| World of Warcraft - Classic |       |             |                           |
+| World of Warcraft - Forever |       |             | Fork de World of Warcraft |
 
 
 ## Mécaniques et innovations

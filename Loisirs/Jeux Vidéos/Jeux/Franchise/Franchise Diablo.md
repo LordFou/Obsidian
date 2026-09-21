@@ -2,7 +2,7 @@
 type: game
 ---
 
-# Franchise Starcraft
+# Franchise Diablo
 
 
 ## Informations générales
@@ -23,11 +23,13 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                | Année    | Plateformes | Remarque |
-| -------------------- | -------- | ----------- | -------- |
-| Starcraft            |          |             |          |
-| Starcraft 2          |          |             |          |
-| Starcraft - Dominion | 2027 (?) |             |          |
+| Titre          | Année    | Plateformes | Remarque |
+| -------------- | -------- | ----------- | -------- |
+| [[Diablo]]     |          |             |          |
+| [[Diablo II]]  |          |             |          |
+| [[Diablo III]] |          |             |          |
+| [[Diablo IV]]  |          |             |          |
+| [[Diablo V]]   | 2029 (?) |             |          |
 
 
 ## Mécaniques et innovations
