@@ -4,69 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5cf35ef37fabee08",
+        "id": "5b85b790968fa97f",
         "type": "tabs",
-        "dimension": 69.0989847715736,
         "children": [
           {
-            "id": "919610c18ea594a1",
+            "id": "989a8b55eaa74255",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Build a Rocket Boy.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Build a Rocket Boy"
-            },
-            "group": "f2bbabe75fbd91d6"
-          }
-        ]
-      },
-      {
-        "id": "a56fada01672cde7",
-        "type": "tabs",
-        "dimension": 30.9010152284264,
-        "children": [
-          {
-            "id": "8993ccc23634e5cd",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Build a Rocket Boy.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224422,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graphique de Build a Rocket Boy"
-            },
-            "group": "f2bbabe75fbd91d6"
+              "title": "Nouvel onglet"
+            }
           }
         ]
       }
@@ -102,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Build a Rocket Boy",
+                "query": "Red Dra",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5,
-    "collapsed": true
+    "width": 381.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,8 +206,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "919610c18ea594a1",
+  "active": "989a8b55eaa74255",
   "lastOpenFiles": [
+    "Loisirs/Sport/Equipes/Red Dragons.md",
+    "Build a Rocket Boy.md",
     "BULKHEAD.md",
     "Joe Brammer.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/WARDOGS.md",
@@ -286,8 +236,6 @@
     "Franchise Silent Hill.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Virtue and a Sledgehammer.md",
     "Attachments/image-825.webp",
-    "Selkie Harbour.md",
-    "Deconstructeam.md",
     "Attachments/image-824.webp",
     "Attachments/image-823.webp",
     "Attachments/image-822.webp",
