@@ -16,7 +16,11 @@
 - **Moteur de jeu** : 
 - **Graphismes** : 3D, Anime
 - **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Réception critique** : 
+	- Origami :
+		- Pas d'histoire en fait ou presque pas
+		- Très joli -> retour année dessin animé des années 80-90
+		- On dirait qu'il manque des morceaux dans le jeu
 - **Gameplay** :
 - **Durée estimée** : 
 
