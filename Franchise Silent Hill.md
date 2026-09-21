@@ -28,7 +28,7 @@ content:
 |       | [[Silent Hill 2]]            |             |          |
 |       | [[Silent Hill 4 - The Room]] |             |          |
 | 2025  | [[Silent Hill F]]            |             |          |
-|       | [[Silent Hill - Townfall]]   |             |          |
+| 2026  | [[Silent Hill - Townfall]]   |             |          |
 
 
 ## Mécaniques et innovations
