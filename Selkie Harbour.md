@@ -26,12 +26,12 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre                      | Genre    | Plateformes           |
-| ----- | -------------------------- | -------- | --------------------- |
-|       | [[Rêverie]]                |          |                       |
-|       | [[The Anglerfish Project]] |          |                       |
-| 2025  | [[Many Nights a Whisper]]  | Narratif | PC, PS5, Xbox, Switch |
-|       |                            |          |                       |
+| Année | Titre                         | Genre    | Plateformes           |
+| ----- | ----------------------------- | -------- | --------------------- |
+|       | [[Rêverie]]                   |          |                       |
+|       | [[The Anglerfish Project]]    |          |                       |
+| 2025  | [[Many Nights a Whisper]]     | Narratif | PC, PS5, Xbox, Switch |
+| 2026  | [[Virtue and a Sledgehammer]] |          |                       |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

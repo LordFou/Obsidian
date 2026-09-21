@@ -34,6 +34,7 @@ content:
 |       | [[The Red Strings Club]]         |          |                       |
 | 2023  | [[The Cosmic Wheel Sisterhood]]  |          |                       |
 | 2025  | [[Many Nights a Whisper]]        | Narratif | PC, PS5, Xbox, Switch |
+| 2026  | [[Virtue and a Sledgehammer]]    |          |                       |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
