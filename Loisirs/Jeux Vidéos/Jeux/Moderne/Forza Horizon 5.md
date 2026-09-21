@@ -34,7 +34,7 @@ tags: mediaDB/game
 - **Développeur** : 
 	- Studio : [[Playground Games]]
 	- Personnalités : 
-- **Éditeur** : [[Xbox Game Studios]]
+- **Éditeur** : [[Xbox Games Studio]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** : [[Course]]

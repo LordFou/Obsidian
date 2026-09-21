@@ -2,15 +2,16 @@
 type: game
 ---
 
-# Franchise Monster Hunter
+# Franchise Starcraft
 
 
 ## Informations générales
-- Créateur(s) : {{Nom du ou des créateurs}}
-- Développeur(s) : {{Studio(s) de développement}}
-- Éditeur(s) : {{Nom de l’éditeur}}
-- Première apparition : {{Nom du premier jeu (année)}}
-- Genre principal : {{Stratégie, Action-Aventure, FPS...}}
+- **Créateur(s)** : {{Nom du ou des créateurs}}
+- **Développeur(s)** : {{Studio(s) de développement}}
+- **Éditeur(s)** : {{Nom de l’éditeur}}
+- **Première apparition** : {{Nom du premier jeu (année)}}
+- **Genre principal** : {{Stratégie, Action-Aventure, FPS...}}
+- **Points Communs** :
 
 ## Résumé et historique
 {{Résumé global de la franchise : ses débuts, son évolution, ses moments marquants et son impact sur l’industrie du jeu vidéo.}}
@@ -22,12 +23,11 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre                                             | Année    | Plateformes | Remarque |
-| ------------------------------------------------- | -------- | ----------- | -------- |
-| [[Monster Hunter Stories 2 - Wings of Ruin]]      | 2021     |             |          |
-| [[Monster Hunter Wilds]]                           | 2025     |             |          |
-| [[Monster Hunter Stories 3 - Twisted Reflection]] | 2026     |             |          |
-| [[Monster Hunter Wilds - Ascendance]]             | 2027 (?) |             |          |
+| Titre                | Année    | Plateformes | Remarque |
+| -------------------- | -------- | ----------- | -------- |
+| Starcraft            |          |             |          |
+| Starcraft 2          |          |             |          |
+| Starcraft - Dominion | 2027 (?) |             |          |
 
 
 ## Mécaniques et innovations

@@ -17,7 +17,7 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 [line-5, body-2]
 date: Septembre 2026
 title: Séparation avec [[Sony]]
-content: Hideo et son entreprise fait un mercato vers [[Xbox]]
+content: Hideo et son entreprise fait un mercato vers [[Xbox Games Studio]], la nouvelle licence Physint suit le même chemin. Belle affaire pour Xbox qui n'est pas au mieux pour le moment. La raison possible : [[Hideo Kojima]] ne tiendrait pas ses deadlines.
 ```
 
 

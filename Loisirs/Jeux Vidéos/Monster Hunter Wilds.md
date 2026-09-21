@@ -4,7 +4,7 @@ type: game
 ![[Pasted image 20250519231251.png]]
 
 
-# Monster Hunter Wild
+# Monster Hunter Wilds
 
 ## Informations Générales
 
@@ -14,7 +14,7 @@ type: game
 	- Personnalités : 
 - **Éditeur** : [[Capcom]]
 - **Plateformes** : 
-- **Franchise** : 
+- **Franchise** : [[Franchise Monster Hunter]]
 - **Genre** : [[Action RPG]]
 - **Durée** :
 	- 100% : 100-200h de jeu
