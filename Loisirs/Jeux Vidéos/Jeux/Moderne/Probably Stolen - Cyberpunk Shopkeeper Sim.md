@@ -33,11 +33,11 @@ tags: mediaDB/game
 - **Développeur** : 
 	- Studio : [[Questing Goose Studio]]
 	- Personnalités : 
-- **Éditeur** : tinyBuild
-- **Plateformes** : 
+- **Éditeur** : [[tinyBuild]]
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : Indie,RPG,Simulation,Strategy
-- **Résumé** :  
+- **Genre** : [[Simulation]] de magasin du futur
+- **Résumé** :  Le jeu consiste à servir les clients qui arrivent les uns après les autres, comme dans [[Potion Craft]], en faisant attention aux réserves de la boutique et à l'argent qui sert aussi bien à l'achalander qu'à payer le loyer.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -57,6 +57,7 @@ tags: mediaDB/game
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
+	- [[Potion Craft]]
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
