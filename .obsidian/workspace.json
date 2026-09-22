@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Insomniac Games.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/CONCRETE BURIAL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Insomniac Games"
+              "title": "CONCRETE BURIAL"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Marvel's Wolverine",
+                "query": "Concrete Burial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,7 +79,8 @@
               "title": "Signets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,8 +202,18 @@
   },
   "active": "79bc0f29d2874fef",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Marvel's Wolverine.md",
+    "Games From The Abyss.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/CONCRETE BURIAL.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Graveyard Keeper 2.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Cloudscrapers.md",
+    "Nementic Games.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/RIG Riot.md",
+    "Loisirs/Jeux Vidéos/Amplitude Studio.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Endless Legend 2.md",
+    "Franchise Endless.md",
+    "Attachments/image-833.webp",
     "Insomniac Games.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Marvel's Wolverine.md",
     "Attachments/image-832.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Plant Shop.md",
     "Attachments/image-831.webp",
@@ -223,11 +234,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Rivage.md",
     "Attachments/image-828.webp",
     "Exnilo Studio.md",
-    "Loisirs/Sport/Sportifs/Vic De Smet.md",
-    "Attachments/image-827.webp",
-    "Filippo Ganna.md",
-    "Championnat du Monde de Cyclisme.md",
-    "Loisirs/Sport/Elisa Longo Borghini.md",
-    "Journal de bord/2026-09-22.md"
+    "Attachments/image-827.webp"
   ]
 }

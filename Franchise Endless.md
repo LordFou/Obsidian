@@ -22,9 +22,10 @@ title:
 content:
 ```
 ## Jeux principaux
-| Titre | Année | Plateformes | Remarque |
-| ----- | ----- | ----------- | -------- |
-|       |       |             |          |
+| Titre                | Année | Plateformes | Remarque |
+| -------------------- | ----- | ----------- | -------- |
+| [[Endless Legend 2]] | 2026  |             |          |
+| [[Endless Legend]]   |       |             |          |
 
 
 ## Mécaniques et innovations

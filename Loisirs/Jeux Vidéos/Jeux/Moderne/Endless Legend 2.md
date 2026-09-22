@@ -6,14 +6,14 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 2025
+- **Année de sortie** : 2026
 - **Développeur** : 
 	- Studio : [[Amplitude Studio]]
 	- Personnalités : 
 - **Éditeur** : [[Hooded Horse]]
-- **Plateformes** : PC
+- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
 - **Franchise** : [[Franchise Endless]]
-- **Genre** : [[Stratégie]]
+- **Genre** : [[Stratégie]], [[4X]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -40,3 +40,4 @@ type: game
 | Description | URL                          |
 | ----------- | ---------------------------- |
 | Trailer     | https://youtu.be/x5rvxUoYFDY |
+![[image-833.webp|500x282]]
