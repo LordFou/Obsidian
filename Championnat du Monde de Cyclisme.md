@@ -43,4 +43,4 @@ type: event
 | ----- | ------- | --------- | ------------- |
 | 2024  | CLM     | Australie |               |
 | 2025  | CLM     | Australie | 7e - Belgique |
-|       |         |           |               |
+| 2026  | CLM     | Italie    | Elis          |

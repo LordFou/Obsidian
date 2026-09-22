@@ -7,7 +7,7 @@
   "matchingWithoutEmoji": true,
   "treatAccentDiacriticsAsAlphabeticCharacters": false,
   "treatUnderscoreAsPartOfWord": false,
-  "maxNumberOfSuggestions": 10,
+  "maxNumberOfSuggestions": 16,
   "maxNumberOfWordsAsPhrase": 2,
   "minNumberOfCharactersTriggered": 1,
   "minNumberOfWordsTriggeredPhrase": 1,
