@@ -44,12 +44,16 @@ tags: mediaDB/game
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
 	- CheckPoint (4/10)
+		- Atmosphère audio au top
+		- DA magnifique
+		- Programmé avec IA
+		- Histoire rigide et sans vie
 - **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
 - **Lieu(x)** : 
-- **Epoque** : 
+- **Epoque** :  Le futur (2467)
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
@@ -64,3 +68,4 @@ tags: mediaDB/game
 | ----------- | ------------------------------------------------ |
 | Steam       | https://store.steampowered.com/app/4094660       |
 | Trailer     | https://youtu.be/4TDl6Wp7Ngk?si=SbabY_RRzB4S5Ew_ |
+![[image-828.webp|500x281]]

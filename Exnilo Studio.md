@@ -5,7 +5,7 @@ type: societe
 # Exnilo Studio
 
 ## Présentation
-Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
+- A la base, le studio se composait de 2 personnes
 
 ## Informations Générales
 - **Nom complet** :  
