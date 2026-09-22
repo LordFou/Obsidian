@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Master Of Pottery.md",
+                "file": "Xbox Games Studio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Master Of Pottery"
+              "title": "Xbox Games Studio"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Concrete Burial",
+                "query": "Xbox Games Studio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -202,8 +202,9 @@
   },
   "active": "79bc0f29d2874fef",
   "lastOpenFiles": [
-    "AZGames.md",
+    "Attachments/image-834.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Master Of Pottery.md",
+    "AZGames.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/CONCRETE BURIAL.md",
     "Games From The Abyss.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Graveyard Keeper 2.md",
@@ -232,7 +233,6 @@
     "Attachments/image-829.webp",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Emberward.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Probably Stolen - Cyberpunk Shopkeeper Sim.md",
-    "Questing Goose Studio.md",
     "Attachments/image-828.webp",
     "Attachments/image-827.webp"
   ]
