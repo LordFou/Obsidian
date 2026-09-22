@@ -13,16 +13,17 @@ type: personne
 - **Période d’activité** :  
 
 ## Palmarès et Distinctions
-| Année | Compétition                           | Résultat     | Remarque |
-| ----- | ------------------------------------- | ------------ | -------- |
-| 2024  | [[Tour d'Italie]] - Classement final  | ==1ière==    |          |
-| 2025  | [[Flèche Brabançonne]]                | ==1ière==    |          |
-| 2025  | [[Tour d'Italie]] - 7e étape          | Maillot Rose |          |
-| 2025  | [[Tour d'Italie]] - Classement final  | ==1ière==    |          |
-|       |                                       |              |          |
-| 2026  | [[Tour d'Italie]] - 9e étape          | ==1ière==    |          |
-| 2026  | [[Tour de Suisse]] - 2e étape         | ==1ière==    |          |
-| 2026  | [[Tour de France]] - Classement final | 3e           |          |
+| Année | Compétition                                                    | Résultat     | Remarque |
+| ----- | -------------------------------------------------------------- | ------------ | -------- |
+| 2024  | [[Tour d'Italie]] - Classement final                           | ==1ière==    |          |
+| 2025  | [[Flèche Brabançonne]]                                         | ==1ière==    |          |
+| 2025  | [[Tour d'Italie]] - 7e étape                                   | Maillot Rose |          |
+| 2025  | [[Tour d'Italie]] - Classement final                           | ==1ière==    |          |
+|       |                                                                |              |          |
+| 2026  | [[Tour d'Italie]] - 9e étape                                   | ==1ière==    |          |
+| 2026  | [[Tour de Suisse]] - 2e étape                                  | ==1ière==    |          |
+| 2026  | [[Tour de France]] - Classement final                          | 3e           |          |
+| 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - CLM Mixte | ==1ière==    |          |
 
 ## Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
