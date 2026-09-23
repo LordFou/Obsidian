@@ -6,26 +6,28 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
 	- Studio : [[Remedy Entertainment]]
 	- Personnalités : 
 - **Éditeur** : 
-- **Plateformes** : 
+- **Plateformes** : [[PC]], [[PlayStation 5]], [[Xbox Series]]
 - **Franchise** : [[Franchise Control]]
-- **Genre** :
+- **Genre** : [[Action]], [[Aventure]], [[RPG]]
 - **Résumé** : 
 
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : (Type de musique, Bande-son notable)
-- **Réception critique** : (Notes, Awards, Réactions de la presse)
+- **Audio** : 
+	- Garbage !
+- **Réception critique** : 
+	- CheckPoint (10/10) ==!!!==
 - **Gameplay** :
 - **Durée estimée** : 
 
 ## Histoire et Univers
-- **Lieu(x)** : 
+- **Lieu(x)** : Manhattan
 - **Epoque** : 
 - **Personnages principaux** : 
 - **Ennemis** :
@@ -37,6 +39,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL                                              |
+| ----------- | ------------------------------------------------ |
+| Trailer     | https://youtu.be/SqvAvOAd1VA?si=G9uGUtK6ids8Jln7 |

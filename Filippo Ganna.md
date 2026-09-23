@@ -29,6 +29,7 @@ type: personne
 | 2026  | [[Tour d'Italie]] - 10e étape                                             | 1ier     | CLM       |
 | 2026  | [[Championnat National Italien de Cyclisme\|Champ. National]] - CLM       | 1ier     |           |
 | 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - CLM                  | 2e       |           |
+| 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - CLM Mixte            | 1ier     |           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

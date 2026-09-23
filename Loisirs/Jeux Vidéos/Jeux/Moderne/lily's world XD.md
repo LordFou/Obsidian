@@ -32,7 +32,7 @@ tags: mediaDB/game
 	- Studio : [[SonderingEmily]]
 	- Personnalités : 
 - **Éditeur** : [[Kwalee Gaming]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : 
 - **Résumé** :  
@@ -43,6 +43,8 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
+	- CheckPoint (6/10)
+		- 
 - **Gameplay** :
 - **Durée estimée** : 
 

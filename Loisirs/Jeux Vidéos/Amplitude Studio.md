@@ -26,7 +26,7 @@ content:
 ## Jeux Développés
 | Année | Titre                | Genre     | Plateformes |
 | ----- | -------------------- | --------- | ----------- |
-| 2025  | [[Endless Legend 2]] | Stratégie | PC          |
+| 2026  | [[Endless Legend 2]] | Stratégie | PC          |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

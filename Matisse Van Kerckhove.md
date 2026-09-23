@@ -21,6 +21,7 @@ type: personne
 | 2026  | [[Flèche du Sud]] - Classement final                 | ==1ier== |          |
 | 2026  | Alpes Isère Tour - Classement final                  | ==1ier== |          |
 | 2026  | [[Giro Next Gen]] - 5e étape                         | ==1ier== |          |
+|       |                                                      |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

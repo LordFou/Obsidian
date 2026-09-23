@@ -18,26 +18,26 @@ genres:
   - Simulation
   - Early Access
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1789059636
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1789503126
 released: true
 releaseDate: 10/09/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1789059636)
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1789503126)
 # WARDOGS
 
 ## Informations Générales
 
-- **Année de sortie** :  2026 (Accès anticipé)
+- **Année de sortie** :  2026
 - **Développeur** : 
 	- Studio : [[BULKHEAD]]
 	- Personnalités : 
 - **Éditeur** : [[Team17]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[Action]], [[MMORPG]], [[Battle Royale]]
+- **Genre** : 
 - **Résumé** :  
 
 ## Détails Techniques

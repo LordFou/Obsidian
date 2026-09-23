@@ -36,11 +36,11 @@ tags: mediaDB/game
 	- Studio : [[Jagex]]
 	- Personnalités : 
 - **Éditeur** : 
-	- Jagex Ltd
-	- H2 Interactive Co
+	- [[Jagex]]
+	- [[H2 Interactive Co]]
 - **Plateformes** : [[PC]], [[PlayStation 5]], [[Xbox Series]], [[Switch 2]]
-- **Franchise** : 
-- **Genre** : [[Action]], [[Aventure]], [[RPG]], [[Survie]]
+- **Franchise** : [[Franchise Runescape]]
+- **Genre** : [[Action]], [[Aventure]], [[RPG]], [[Survie]], [[Coopération]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -49,6 +49,7 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
+	- Izual => c'est une bonne aventure de survie classique mais qui prend désespérément peu de risques et souffre donc d'un manque d'originalité flagrant.
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -69,3 +70,4 @@ tags: mediaDB/game
 | ----------- | ------------------------------------------------ |
 | Steam       | https://store.steampowered.com/app/1374490       |
 | Trailer     | https://youtu.be/a46MLlfMt2Y?si=Xifm9Y2sdQRSAr_1 |
+![[image-830.webp|500x282]]

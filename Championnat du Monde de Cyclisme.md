@@ -39,8 +39,8 @@ type: event
 
 # Mixte
 
-| Année | Epreuve | Vainqueur | Remarque      |
-| ----- | ------- | --------- | ------------- |
-| 2024  | CLM     | Australie |               |
-| 2025  | CLM     | Australie | 7e - Belgique |
-|       |         |           |               |
+| Année | Epreuve | Vainqueur | Remarque                                      |
+| ----- | ------- | --------- | --------------------------------------------- |
+| 2024  | CLM     | Australie |                                               |
+| 2025  | CLM     | Australie | 7e - Belgique                                 |
+| 2026  | CLM     | Italie    | [[Elisa Longo Borghini]]<br>[[Filippo Ganna]] |

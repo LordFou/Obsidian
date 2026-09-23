@@ -6,14 +6,14 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Annapurna Interactive]] (?)
 	- Personnalités : 
-- **Éditeur** : 
-- **Plateformes** : 
-- **Franchise** : 
-- **Genre** :
+- **Éditeur** : [[Konami]] (?)
+- **Plateformes** : [[PC]], [[PlayStation 5]]
+- **Franchise** : [[Franchise Silent Hill]]
+- **Genre** : [[Action]], [[Aventure]], [[Horreur]]
 - **Résumé** : 
 
 ## Détails Techniques
@@ -34,7 +34,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- 50€ pour un triple A
 ## Liens et Ressources
 
 | Description | URL                          |

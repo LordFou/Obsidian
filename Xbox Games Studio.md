@@ -58,3 +58,5 @@ Lister les studios affiliés ou les collaborations importantes.
 ## Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
+
+![[image-834.webp|500x338]]
