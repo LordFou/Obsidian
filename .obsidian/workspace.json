@@ -11,10 +11,14 @@
             "id": "8556faf5634b7b4f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Culture/Géographie/Les Abysses.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Les Abysses"
             }
           }
         ]
@@ -82,8 +86,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,6 +207,7 @@
   },
   "active": "8556faf5634b7b4f",
   "lastOpenFiles": [
+    "Culture/Géographie/Les Abysses.md",
     "conflict-files-obsidian-git.md",
     "Winter Crew Studios.md",
     "Tournoi de Saint-Tropez.md",
@@ -239,7 +243,6 @@
     "Journal de bord/2026-09-22.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Onimusha - Way of the Sword.md",
     "Franchise Onimusha.md",
-    "Orbitals.md",
     "Loisirs/Jeux Vidéos/Musées",
     "Famille/Vacances/Danemark/Bork Havn",
     "Famille/Vacances/Danemark",
