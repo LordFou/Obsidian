@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7b6b4e1ce862b15e",
+        "id": "b51ebb4989ce5a77",
         "type": "tabs",
         "children": [
           {
-            "id": "1602bcea7efeff6d",
+            "id": "3ccb59d39272acf4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal de bord/2026-09-23.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-09-23"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -55,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Onim",
+                "query": "Les abysses",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -87,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,10 +202,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "1602bcea7efeff6d",
+  "active": "eb3c1bcab851ce97",
   "lastOpenFiles": [
-    "Journal de bord/2026-09-22.md",
     "Journal de bord/2026-09-23.md",
+    "Journal de bord/2026-09-22.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Onimusha - Way of the Sword.md",
     "Franchise Onimusha.md",
     "Orbitals.md",
