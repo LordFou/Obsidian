@@ -1,2 +1,3 @@
 - 80% de la planète
+- Chimiosynthèse : Transformation du CO2 et H2O en glucides
 - 
