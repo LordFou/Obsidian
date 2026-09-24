@@ -8,6 +8,7 @@ Pendant ce temps :
 - Maxime Prévôt : "A titre personnel..."
 - "La position de ce gouvernement est d'œuvrer en faveur d'une solution à deux États". Le Premier ministre a toutefois posé deux conditions : la définition des frontières et l'installation d'un appareil d'État "acceptable". "Le jour où ce moment tant espéré arrivera, la Belgique reconnaitra la Palestine"
 
+- Lors de l'assemblée générale de l'ONU en septembre 2026, les représentants de la plupart des pays quitte la salle lorsqu'il commence son discours.
 # Entreprises
 
 ![[image-178.webp]]
@@ -20,3 +21,4 @@ Pendant ce temps :
 - Le peuple espagnol se fait entendre lors du [[Tour d'Espagne]] et le gouvernement les soutient. L'UCI n'est pas contente et remet en cause les futures courses en Espagne => [RTBF Sport](https://www.rtbf.be/article/vuelta-l-uci-regrette-le-soutien-du-gouvernement-espagnol-aux-manifestants-pro-palestiniens-11601612)
 - [Analyse FC Geopolitics](https://footballclubgeopolitics.com/2025/09/18/apres-la-vuelta-2025-une-exclusion-disrael-des-competitions-sportives-est-elle-possible/)
 - Un coureur comme [[Derek Gee]] veut casser son contrat avec l'équipe Israélienne [[Israël Premier Tech]] à cause d'un malaise avec le sponsor et ce qu'il se passe en Palestine => [on lui réclame 30 millions d'euro !](https://www.rtbf.be/article/l-equipe-me-demande-30-millions-d-euros-le-divorce-entre-derek-gee-et-israel-premier-tech-tourne-mal-11614015) Son contrat courait jusqu'en 2028...
+- Lors de la ligue des nations, le sélectionneur Irlandais dira qu'il joue contre le [[Génocide Palestinien]]

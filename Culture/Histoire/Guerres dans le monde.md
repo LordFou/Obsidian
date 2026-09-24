@@ -47,4 +47,5 @@
 			- Occupation de petites îles revendiqués par l'[[Iran]]
 
 # Israël / Palestine
-- Après un attentat et une prise de nombreux otages par les terroristes de ... (tout a fait condamnable hein), Israël s'est lancé dans une guerre et surtout dans une surenchère qui aujourd'hui pousse le gouvernement israëlien à un véritable [[Génocide Palestinien]]
+- Après un attentat et une prise de nombreux otages par les terroristes du [[Hamas]] (tout a fait condamnable hein), Israël s'est lancé dans une guerre et surtout dans une surenchère qui aujourd'hui pousse le gouvernement israëlien à un véritable [[Génocide Palestinien]]
+- 
