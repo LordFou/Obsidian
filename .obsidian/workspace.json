@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brandon McNulty.md",
+                "file": "Loisirs/Sport/Compétitions/Tournoi de Malaisie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brandon McNulty"
+              "title": "Tournoi de Malaisie"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Championnat",
+                "query": "Tournoi de Malaisie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,8 +79,7 @@
               "title": "Signets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,6 +211,8 @@
   },
   "active": "79bc0f29d2874fef",
   "lastOpenFiles": [
+    "Brandon McNulty.md",
+    "Loisirs/Sport/Compétitions/Tournoi de Malaisie.md",
     "Attachments/image-837.webp",
     "Championnat du Monde de Cyclisme.md",
     "Loisirs/Sport/Compétitions/Laver Cup.md",
@@ -238,7 +239,6 @@
     "Attachments/image-836.webp",
     "Loisirs/Sport/Equipes/Equipe nationale belge de Tennis.md",
     "Loisirs/Sport/Equipes/Red Dragons.md",
-    "Loisirs/Sport/Compétitions/Omloop van het Houtland.md",
     "Attachments/image-835.webp",
     "Attachments/image-834.webp",
     "Attachments/image-833.webp",
@@ -246,7 +246,6 @@
     "Attachments/image-831.webp",
     "Attachments/image-830.webp",
     "Attachments/image-829.webp",
-    "Attachments/image-828.webp",
-    "Attachments/image-827.webp"
+    "Attachments/image-828.webp"
   ]
 }
