@@ -14,7 +14,8 @@ type: event
 |       |           |             |          |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur             | Nationalité | Remarque |
+| ----- | --------------------- | ----------- | -------- |
+| 2013  | [[Karolina Pliskova]] | Tchèque     |          |
+| 2026  |                       |             |          |
+|       |                       |             |          |
