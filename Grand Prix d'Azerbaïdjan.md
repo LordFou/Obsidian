@@ -8,10 +8,10 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur          | Nationalité | Remarque |
-| ----- | ------------------ | ----------- | -------- |
-| 2025  | [[Max Verstappen]] | Néerlandais |          |
-|       |                    |             |          |
+| Année | Vainqueur           | Nationalité | Remarque |
+| ----- | ------------------- | ----------- | -------- |
+| 2025  | [[Max Verstappen]]  | Néerlandais |          |
+| 2026  | [[Georges Russell]] | Anglais     |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

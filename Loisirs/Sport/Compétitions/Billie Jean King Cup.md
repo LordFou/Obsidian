@@ -8,7 +8,7 @@ type: event
 
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur          | Remarque |
+| ----- | ------------------ | -------- |
+| 2026  | République Tchèque |          |
+|       |                    |          |

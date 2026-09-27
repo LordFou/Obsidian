@@ -16,6 +16,7 @@ type: personne
 
 | Année | Compétition                                                                                       | Résultat     | Remarque                                                                |
 | ----- | ------------------------------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------------- |
+| 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - Course                                       | 20e          |                                                                         |
 | 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - CLM                                          | 6e           |                                                                         |
 | 2026  | [[Tour de France]] - 3e étape                                                                     | 2e           |                                                                         |
 | 2026  | [[Tour de Pologne]] - 2e étape                                                                    | 4e           |                                                                         |

@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition       | Résultat | Remarque |
-| ----- | ----------------- | -------- | -------- |
-| 2012  | [[Paris-Roubaix]] | 1ier     |          |
+| Année | Compétition                       | Résultat | Remarque |
+| ----- | --------------------------------- | -------- | -------- |
+| 2012  | [[Paris-Roubaix]]                 | 1ier     |          |
+| 2026  | Champ. Belgique Rallye Historique | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

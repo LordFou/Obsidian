@@ -30,6 +30,7 @@ type: personne
 | 2026  | [[Grand Prix des Pays-Bas]] - Course       | 2e       |                                  |
 | 2026  | [[Grand Prix d'Italie]] - Course           | ==1ier== |                                  |
 | 2026  | [[Grand Prix de Madrid]] - Course          | ==1ier== |                                  |
+| 2026  | [[Grand Prix d'Azerbaïdjan]] - Course      | 5e       |                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

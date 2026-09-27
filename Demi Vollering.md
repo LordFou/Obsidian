@@ -37,6 +37,8 @@ type: personne
 | 2026  | [[Tour de France]] - 5e étape                               | ==1ière== |            |
 | 2026  | [[Tour de France]] - 8e étape                               | ==1ière== |            |
 | 2026  | [[Tour de France]] - Classement final                       | ==1ière== |            |
+| 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - Course | ==1ière== |            |
+|       |                                                             |           |            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
