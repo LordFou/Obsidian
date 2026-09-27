@@ -72,7 +72,8 @@ type: personne
 | 2026  | [[Tournoi de Monterrey]] - Simple                | Finale        | Victoire en quart contre [[Yuliia Starodubtseva]] (WTA 74)<br>Victoire en demi contre [[Nikola Bartunkova]] (WTA 38)<br>Défaite en finale contre [[Diane Parry]] (WTA 50) |
 | 2026  | [[US Open]] - Simple                             | 3e tour       | Victoire contre [[Maria Timofeeva]] (WTA 86)<br>Défaire contre [[Naomi Osaka]] (WTA 13)                                                                                   |
 | 2026  | [[US Open]] - Double                             | 1/2 finale    | avec [[Diana Shnaider]]                                                                                                                                                   |
-| 2026  | [[Tournoi de Singapour]] - Simple                | 1/4 finale    |                                                                                                                                                                           |
+| 2026  | [[Tournoi de Singapour]] - Simple                | 1/4 finale    | Défaite contre [[Maja Chwalinska]] (WTA 25)                                                                                                                               |
+| 2026  | [[Tournoi de Singapour]] - Double                | 1/2 finale    |                                                                                                                                                                           |
 
 # Style et Caractéristiques
 - C'est une joueuse très équilibrée et régulière qui intègre en juin 2025 le club très fermé des joueuses qui ont gagné un tournoi sur les 3 types de surface.

@@ -16,6 +16,8 @@ type: personne
 | Année | Compétition          | Résultat | Remarque |
 | ----- | -------------------- | -------- | -------- |
 | 2025  | Championnat d'Europe | 1ier     |          |
+| 2026  | Championnat du Monde | 3e       |          |
+|       |                      |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
