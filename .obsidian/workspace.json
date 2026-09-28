@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "f3f83180870b7147",
+    "id": "9b5738f129032660",
     "type": "split",
     "children": [
       {
-        "id": "3ebebcf774339641",
+        "id": "e896431f6fb8a0be",
         "type": "tabs",
         "children": [
           {
-            "id": "79bc0f29d2874fef",
+            "id": "2354b6c0a438518b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Karolina Pliskova.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Karolina Pliskova"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "502adf7c640efea1",
+    "id": "10646f34a5623bcc",
     "type": "split",
     "children": [
       {
-        "id": "7639977c60f8f28b",
+        "id": "1a516746cabd1b8e",
         "type": "tabs",
         "children": [
           {
-            "id": "96417dc30c1b96bf",
+            "id": "2066e9a3d214d366",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,13 +46,13 @@
             }
           },
           {
-            "id": "245850f62a8cdb3b",
+            "id": "eb3c1bcab851ce97",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Tournoi de Malaisie",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -67,67 +63,75 @@
             }
           },
           {
-            "id": "2e4949c43cea5af5",
+            "id": "b4ebb1a377404fc4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {
-                "showSearch": false,
-                "searchQuery": ""
-              },
+              "state": {},
               "icon": "lucide-bookmark",
               "title": "Signets"
             }
+          },
+          {
+            "id": "dbacc6f984f28690",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 229.5
   },
   "right": {
-    "id": "5e6955520fa4fe4b",
+    "id": "424a7915b112611b",
     "type": "split",
     "children": [
       {
-        "id": "1109fbf3d2a35951",
+        "id": "793a32453de58a2b",
         "type": "tabs",
         "children": [
           {
-            "id": "36090af6f8c01c4a",
+            "id": "38e1afb54a3a7718",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Championnat du Monde de Cyclisme.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Escape from Ever After.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Rétrolien pour Escape from Ever After"
             }
           },
           {
-            "id": "dc3a85a95d0a6804",
+            "id": "e2303466fd1c8ab2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Championnat du Monde de Cyclisme.md",
+                "file": "Loisirs/Jeux Vidéos/Jeux/Moderne/Escape from Ever After.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants"
+              "title": "Liens sortants de Escape from Ever After"
             }
           },
           {
-            "id": "9ad1c7b11450ac65",
+            "id": "9871d3b303142bba",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,12 +146,11 @@
             }
           },
           {
-            "id": "24c360ec86456402",
+            "id": "662b93150171007e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Championnat du Monde de Cyclisme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -157,7 +160,7 @@
             }
           },
           {
-            "id": "63e081442f448ce5",
+            "id": "a57efce46b870585",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -167,7 +170,7 @@
             }
           },
           {
-            "id": "18f2722646109de2",
+            "id": "cfaee1bb38725775",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -175,26 +178,17 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "5144f6cd9e74e2b7",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Créer une nouvelle base": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -202,50 +196,60 @@
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "markdown-importer:Ouvrir l'importateur Markdown": false,
-      "bases:Créer une nouvelle base": false,
       "obsidian-media-db-plugin:Add new Media DB entry": false,
-      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "79bc0f29d2874fef",
+  "active": "cfaee1bb38725775",
   "lastOpenFiles": [
-    "Attachments/image-838.webp",
-    "Loisirs/Sport/Compétitions/Tournoi de Malaisie.md",
-    "Karolina Pliskova.md",
-    "Brandon McNulty.md",
-    "Attachments/image-837.webp",
-    "Championnat du Monde de Cyclisme.md",
-    "Loisirs/Sport/Compétitions/Laver Cup.md",
-    "Journal de bord/2026-09-27.md",
+    "Tournoi de Singapour.md",
+    "Loisirs/Sport/Sportifs/Yana Decruyenaere.md",
     "Loisirs/Sport/Sportifs/Sans titre 1.md",
-    "Loisirs/Sport/Compétitions/Billie Jean King Cup.md",
-    "Tom Boonen.md",
-    "Loisirs/Sport/Lotte Kopecky.md",
-    "Demi Vollering.md",
-    "Kimi Antonelli.md",
     "Loisirs/Sport/Sportifs/Isack Hadjar.md",
-    "Max Verstappen.md",
-    "Georges Russell.md",
-    "Grand Prix d'Azerbaïdjan.md",
-    "Diables Rouges.md",
-    "Niels Driesen.md",
-    "Wim De Paepe.md",
-    "Elise Mertens.md",
-    "conflict-files-obsidian-git.md",
-    "Journal de bord/2026-09-25.md",
-    "Journal de bord/2026-09-23.md",
-    "Culture/Géographie/Les Abysses.md",
-    "Fleur Moors.md",
+    "Loisirs/Sport/Compétitions/Tournoi de Malaisie.md",
+    "Loisirs/Sport/Compétitions/Omloop van het Houtland.md",
+    "Loisirs/Sport/Compétitions/Laver Cup.md",
+    "Karolina Pliskova.md",
+    "Journal de bord/2026-09-27.md",
+    "Journal de bord/2026-09-24.md",
+    "Attachments/image-838.webp",
+    "Attachments/image-837.webp",
     "Attachments/image-836.webp",
     "Attachments/image-835.webp",
+    "Journal de bord/2026-09-25.md",
+    "Culture/Géographie/Les Abysses.md",
+    "conflict-files-obsidian-git.md",
+    "Winter Crew Studios.md",
+    "Tournoi de Saint-Tropez.md",
+    "Tour de la Lunigiana.md",
+    "Tori.md",
+    "SonderingEmily.md",
+    "Refic Games.md",
+    "Questing Goose Studio.md",
+    "Plebeian Studio.md",
+    "OPNeon Games.md",
+    "Nementic Games.md",
+    "Loisirs/Sport/Sportifs/Yu Zidi.md",
+    "Loisirs/Sport/Sportifs/Vic De Smet.md",
+    "Insomniac Games.md",
     "Attachments/image-834.webp",
     "Attachments/image-833.webp",
     "Attachments/image-832.webp",
     "Attachments/image-831.webp",
     "Attachments/image-830.webp",
     "Attachments/image-829.webp",
-    "Attachments/image-828.webp"
+    "Loisirs/Jeux Vidéos/Musées",
+    "Famille/Vacances/Danemark/Bork Havn",
+    "Famille/Vacances/Danemark",
+    "Famille/Vacances",
+    "Loisirs/Sport/Compétitions/Sans titre",
+    "Sans titre",
+    "TI-99",
+    "Media DB/wiki",
+    "Media DB/games",
+    "Media DB",
+    "Loisirs/Jeux Vidéos/Généalogie Société.canvas"
   ]
 }
