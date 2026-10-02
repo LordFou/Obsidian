@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Jiri Lehecka.md",
+                "file": "Alexander Blockx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jiri Lehecka"
+              "title": "Alexander Blockx"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Zizou",
+                "query": "Alexander",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -208,8 +208,8 @@
   },
   "active": "ab6a343cbbf509db",
   "lastOpenFiles": [
-    "Zizou Bergs.md",
     "Loisirs/Sport/Sportifs/Jiri Lehecka.md",
+    "Zizou Bergs.md",
     "Loisirs/Sport/Tournoi de Tokyo.md",
     "Tournoi de Tokyo.md",
     "Loisirs/Sport/Sportifs/Victoria Sibille.md",
