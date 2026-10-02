@@ -1,8 +1,7 @@
 ---
 type: personne
 ---
-
-
+![[image-839.webp|301x364]]
 # Victoria Sibille
 
 # Informations Générales  
