@@ -33,6 +33,7 @@ type: personne
 | 2026  | [[Rallye de Finlande]]                               | 5e       |          |
 | 2026  | [[Rallye du Paraguay]]                               | Abandon  |          |
 | 2026  | [[Rallye du Chili]]                                  | Abandon  |          |
+| 2026  | [[Rallye de Sardaigne]]                              | Abandon  |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -32,6 +32,7 @@ type: personne
 | 2026  | Championnat d'Europe de Natation - 100m Br                               | 13e (Série)<br> (Demi-finale)                 | Série (1.07.49)<br>Demi-finale ()                      |                                          |
 | 2026  | Championnat d'Europe de Natation - 50m Nl                                | 15e (Série)<br>16e (Demi-finale)              | 25.00 (Série)                                          |                                          |
 | 2026  | Championnat d'Europe de Natation - 50m Br                                | 5e (Série)<br>6e (Demi-finale)<br>7e (Finale) | 30.39 (Série)<br>30.42 (Demi finale)<br>30.74 (Finale) |                                          |
+| 2026  | Coupe du Monde (Bakou) - Petit Bain - 50m Br                             | ==1ière==                                     | 30.03 (Série)<br>29.75 (Finale)                        |                                          |
 
 
 # Style et Caractéristiques

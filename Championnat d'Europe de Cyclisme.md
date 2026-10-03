@@ -21,6 +21,7 @@ type: event
 | ----- | ------------------ | ------- | ------------ | -------- |
 | 2025  | [[Marlen Reusser]] | CLM     | Suisse       |          |
 | 2025  | [[Demi Vollering]] | Route   | Néerlandaise |          |
+| 2026  | [[Demi Vollering]] | Route   | Néerlandaise |          |
 
 # Espoirs
 
