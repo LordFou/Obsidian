@@ -1,37 +1,38 @@
 ---
 type: game
 subType: ""
-title: Eastshade
-englishTitle: Eastshade
-year: "2019"
+title: Hogwarts Legacy
+englishTitle: Hogwarts Legacy
+year: "2023"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/715560
-id: 715560
+url: https://store.steampowered.com/app/990080
+id: 990080
 developers:
-  - Eastshade Studios
+  - Avalanche Software
 publishers:
-  - Eastshade Studios
+  - Warner Bros. Games
 genres:
+  - Action
   - Adventure
-  - Indie
-onlineRating: 78
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/715560/header.jpg?t=1787039868
+  - RPG
+onlineRating: 83
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/be2971b1023bccb04f993887d70ef4d2060262cf/header.jpg?t=1790708992
 released: true
-releaseDate: 13/02/2019
+releaseDate: 10/02/2023
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/715560/header.jpg?t=1787039868)
-# Eastshade
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/be2971b1023bccb04f993887d70ef4d2060262cf/header.jpg?t=1790708992)
+# Hogwarts Legacy
 
 ## Informations Générales
 
-- **Année de sortie** :  2019
+- **Année de sortie** :  2023
 - **Développeur** : 
-	- Studio : [[Eastshade Studios]]
+	- Studio : [[Avalanche Software]]
 	- Personnalités : 
-- **Éditeur** : [[Eastshade Studios]]
+- **Éditeur** : [[Warner Bros. Games]]
 - **Plateformes** : 
 - **Franchise** : 
 - **Genre** : [[Aventure]]
@@ -40,10 +41,9 @@ tags: mediaDB/game
 ## Détails Techniques
 - **Moteur de jeu** : 
 - **Graphismes** : (2D, 3D, Pixel Art, etc.)
-- **Audio** : 
-	- Très bon doublage en FR
+- **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 78
+	- Steam Rating : 83
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -53,8 +53,8 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
+	- [[Ecole de sorcellerie]]
 - **Influencé par** :
-	- [[Stardew Valley]]
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
@@ -63,4 +63,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/715560 |
+| Wiki        | https://store.steampowered.com/app/990080 |

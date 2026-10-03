@@ -32,10 +32,10 @@ tags: mediaDB/game
 	- Studio : [[Eastshade Studios]]
 	- Personnalités : 
 - **Éditeur** : [[Eastshade Studios]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
 - **Genre** : [[RPG]]
-- **Résumé** :  
+- **Résumé** :  on débarque sur une île féérique pour démarrer les cours dans une école de sorcellerie.
 
 ## Détails Techniques
 - **Moteur de jeu** : 
