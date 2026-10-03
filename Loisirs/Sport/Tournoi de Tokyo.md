@@ -2,7 +2,7 @@
 type: event
 ---
 
-# ATP - Tournoi de Tokyo
+# Tournoi de Tokyo - ATP 500
 
 # Introduction
 

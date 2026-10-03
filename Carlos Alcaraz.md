@@ -24,7 +24,7 @@ type: personne
 | 2025  | [[Wimbledon]]              | Finaliste   |                                            |
 | 2025  | [[Tournoi de Cincinnati]]  | Vainqueur   |                                            |
 | 2025  | [[US Open]]                | Vainqueur   |                                            |
-| 2025  | [[ATP - Tournoi de Tokyo]] | Vainqueur   |                                            |
+| 2025  | [[Tournoi de Tokyo]] | Vainqueur   |                                            |
 |       |                            |             |                                            |
 | 2026  | [[Australian Open]]        | Vainqueur   | contre [[Novak Djokovic]]                  |
 | 2026  | [[Tournoi de Doha]]        | Vainqueur   | contre [[Arthur Fils]]                     |

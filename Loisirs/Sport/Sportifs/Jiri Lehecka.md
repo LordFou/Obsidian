@@ -11,6 +11,7 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
+- Top Ranking : 22
 
 # Palmarès et Distinctions
 | Année | Compétition          | Résultat  | Remarque                                                                 |

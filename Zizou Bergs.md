@@ -20,7 +20,7 @@ type: personne
 | 2025  | [[Tournoi de Rosmalen]]             | Finaliste              |                                                                                                                                                       |
 | 2025  | [[US Open]]                         | 3e tour                |                                                                                                                                                       |
 | 2025  | [[Coupe Davis]] - 2e tour           | Victoire de son match  |                                                                                                                                                       |
-| 2025  | [[ATP - Tournoi de Tokyo]]          | 2e tour                | Défaite contre [[Carlos Alcaraz]]                                                                                                                     |
+| 2025  | [[Tournoi de Tokyo]]                | 2e tour                | Défaite contre [[Carlos Alcaraz]]                                                                                                                     |
 | 2025  | [[ATP - Tournoi de Shangaï]]        | 1/4e finale            | Meilleur résultat en ATP<br>Défaite contre [[Novac Jokovic]]                                                                                          |
 | 2025  | [[Masters 1.000 de Paris]]          | 2e tour                | Défaite contre [[Jannik Sinner]]                                                                                                                      |
 |       |                                     |                        |                                                                                                                                                       |
@@ -46,6 +46,7 @@ type: personne
 | 2026  | [[Tournoi de Washington]]           | 1e tour                | Défaite contre [[Taylor Fritz]] (ATP 10)                                                                                                              |
 | 2026  | [[Tournoi de Montréal]]             | 3e tour                | Victoire contre [[Sebastian Baez]] (ATP 48)<br>Défaite contre [[Ben Shelton]] (ATP 10)                                                                |
 | 2026  | [[US Open]]                         | 3e tour                | Victoire contre [[Carlos Taberner ]] (ATP 406)<br>Victoire contre [[Jesper De Jong]] (ATP 100)<br>Défaite contre [[Botic Van de Zandschulp]] (ATP 70) |
+| 2026  | [[Tournoi de Tokyo]]                | 1e tour                | Défaite contre [[Jiri Lehecka]] (ATP 23)                                                                                                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
