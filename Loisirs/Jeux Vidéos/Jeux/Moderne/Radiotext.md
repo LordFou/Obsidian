@@ -1,52 +1,49 @@
 ---
 type: game
 subType: ""
-title: TOEM 2
-englishTitle: TOEM 2
+title: Radiotext
+englishTitle: Radiotext
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2900640
-id: 2900640
+url: https://store.steampowered.com/app/3418160
+id: 3418160
 developers:
-  - Something We Made
+  - Alp Arslan
 publishers:
-  - Something We Made
-  - popagenda
+  - Alp Arslan
 genres:
   - Adventure
-  - Casual
   - Indie
-onlineRating: 81
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2900640/499ae31f4d74c4c41e61058259fca32ccd73c93c/header.jpg?t=1790697404
+  - RPG
+onlineRating: 0
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418160/dafafb48961135f70b523851d6b8073b2738e458/header.jpg?t=1790616032
 released: true
-releaseDate: 29/09/2026
+releaseDate: 28/09/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2900640/499ae31f4d74c4c41e61058259fca32ccd73c93c/header.jpg?t=1790697404)
-# TOEM 2
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418160/dafafb48961135f70b523851d6b8073b2738e458/header.jpg?t=1790616032)
+# Radiotext
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Something We Made]]
+	- Studio : [[Alp Arslan]]
 	- Personnalités : 
-- **Éditeur** : 
-	- [[Something We Made]]
-	- [[popagenda]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Switch]], [[Switch 2]]
-- **Franchise** : [[Franchise Toem]]
+- **Éditeur** : [[Alp Arslan]]
+- **Plateformes** : [[PC]]
+- **Franchise** : 
 - **Genre** : [[Aventure]]
 - **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
-- **Graphismes** : [[Noir et Blanc]]
+- **Graphismes** : (2D, 3D, Pixel Art, etc.)
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
-	- Steam Rating : 81
+	- Steam Rating : 0
 - **Gameplay** :
 - **Durée estimée** : 
 
@@ -65,4 +62,4 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2900640 |
+| Wiki        | https://store.steampowered.com/app/3418160 |
