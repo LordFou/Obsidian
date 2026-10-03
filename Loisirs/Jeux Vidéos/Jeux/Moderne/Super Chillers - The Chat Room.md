@@ -1,40 +1,39 @@
 ---
 type: game
 subType: ""
-title: ROLLA
-englishTitle: ROLLA
+title: "Super Chillers: The Chat Room"
+englishTitle: "Super Chillers: The Chat Room"
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/3975830
-id: 3975830
+url: https://store.steampowered.com/app/3129150
+id: 3129150
 developers:
-  - Tyrmä Games
+  - Rose Arcana Games
 publishers:
-  - Pantaloon
+  - Rose Arcana Games
 genres:
-  - Action
-  - Indie
+  - Adventure
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975830/4ae9f10a35cd0d99f4ec04bea79b34c3431721fc/header.jpg?t=1790104074
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3129150/5077bc541c7f6de3c676ab035d467083dc52055e/header.jpg?t=1790875829
 released: true
-releaseDate: 13/10/2026
+releaseDate: 01/10/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975830/4ae9f10a35cd0d99f4ec04bea79b34c3431721fc/header.jpg?t=1790104074)
-# ROLLA
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3129150/5077bc541c7f6de3c676ab035d467083dc52055e/header.jpg?t=1790875829)
+# Super Chillers: The Chat Room
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Tyrmä Games]]
+	- Studio : [[Rose Arcana Games]]
 	- Personnalités : 
-- **Éditeur** : [[Pantaloon]]
+- **Éditeur** : [[Rose Arcana Games]]
 - **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : [[Action]]
+- **Genre** : [[Point & Click]], [[Aventure]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -61,6 +60,5 @@ tags: mediaDB/game
 
 | Description | URL                                              |
 | ----------- | ------------------------------------------------ |
-| Steam       | https://store.steampowered.com/app/3975830       |
-| Trailer     | https://youtu.be/YM0geAk_e8o?si=EYvvqNwdawDr3-u7 |
-|             |                                                  |
+| Steam       | https://store.steampowered.com/app/3129150       |
+| Trailer     | https://youtu.be/tZWcdUXRc8g?si=6o9JZ-hM5GhmW6Mp |
