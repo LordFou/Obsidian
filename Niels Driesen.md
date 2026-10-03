@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-791.webp|179x263]]
+![[image-791.webp|179x263]]![[image-841.webp|234x230]]
 # Niels Driesen
 
 # Informations Générales
