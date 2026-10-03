@@ -1,39 +1,41 @@
 ---
 type: game
 subType: ""
-title: "ACE COMBAT 8: WINGS OF THEVE"
-englishTitle: "ACE COMBAT 8: WINGS OF THEVE"
+title: Dicevaders
+englishTitle: Dicevaders
 year: "2026"
 dataSource: SteamAPI
-url: https://store.steampowered.com/app/2288340
-id: 2288340
+url: https://store.steampowered.com/app/3917700
+id: 3917700
 developers:
-  - Bandai Namco Aces Inc.
+  - Pengonauts
 publishers:
-  - Bandai Namco Entertainment Inc.
+  - Playstack
 genres:
-  - Action
+  - Casual
+  - Indie
+  - Strategy
 onlineRating: 0
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1790908088
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/c17c7fcf2494a8e006d4f51809914d4f1ffb09aa/header_alt_assets_2.jpg?t=1790876195
 released: true
-releaseDate: 01/10/2026
+releaseDate: 29/09/2026
 played: false
 personalRating: 0
 tags: mediaDB/game
 ---
-![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1790908088)
-# ACE COMBAT 8: WINGS OF THEVE
+![image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/c17c7fcf2494a8e006d4f51809914d4f1ffb09aa/header_alt_assets_2.jpg?t=1790876195)
+# Dicevaders
 
 ## Informations Générales
 
 - **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Bandai Namco]]
+	- Studio : [[Pengonauts]]
 	- Personnalités : 
-- **Éditeur** : [[Bandai Namco]]
-- **Plateformes** : [[PC]], [[Playstation 5]], [[Xbox Series]]
-- **Franchise** : [[Franchise Ace Combat]]
-- **Genre** : [[Simulation]] d'avion de chasse
+- **Éditeur** : [[Playstack]]
+- **Plateformes** : 
+- **Franchise** : 
+- **Genre** : [[Roguelike]]
 - **Résumé** :  
 
 ## Détails Techniques
@@ -51,7 +53,6 @@ tags: mediaDB/game
 - **Personnages principaux** : 
 - **Ennemis** :
 - **Thèmes abordés** : 
-	- [[Avions de chasse]]
 - **Influencé par** :
 - **A inspiré** : 
 - **Comparable à** :
@@ -61,4 +62,5 @@ tags: mediaDB/game
 
 | Description | URL       |
 | ----------- | --------- |
-| Wiki        | https://store.steampowered.com/app/2288340 |
+| Wiki        | https://store.steampowered.com/app/3917700 |
+![[image-845.webp|500x282]]
