@@ -26,5 +26,6 @@ type: event
 
 | Année | Vainqueur             | Epreuve | Nationalité | Remarque |
 | ----- | --------------------- | ------- | ----------- | -------- |
+| 2021  | [[Thibau Nys]]        |         |             |          |
 | 2025  | [[Jarno Widar]]       | Course  | Belge       |          |
 | 2025  | [[Jonathan Vervenne]] | CLM     | Belge       |          |

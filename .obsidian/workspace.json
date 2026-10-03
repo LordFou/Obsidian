@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "581daae661dac4dc",
+        "id": "b88556ecf16ddad7",
         "type": "tabs",
         "children": [
           {
-            "id": "a996cb4c9525fd8e",
+            "id": "f447e139d357805e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Championnat d'Europe de Cyclisme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Championnat d'Europe de Cyclisme"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "https://fr.ulule.com/le-papier-numerique-2-guerre-du-faux/?utm_campaign=presale_237413&utm_source=shared-from-Ulule-mail-order.completed.reward.user-on-Whatsapp&lang=fr&utm_medium=uluid_3650817-post-202610031852",
+                "query": "Niels Driesen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -210,8 +210,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "245850f62a8cdb3b",
+  "active": "f447e139d357805e",
   "lastOpenFiles": [
+    "Niels Driesen.md",
     "Attachments/image-839.webp",
     "Journal de bord/2026-10-03.md",
     "conflict-files-obsidian-git.md",

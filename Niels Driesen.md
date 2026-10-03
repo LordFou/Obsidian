@@ -13,12 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                          | Résultat | Remarque |
-| ----- | -------------------------------------------------------------------- | -------- | -------- |
-| 2026  | [[Tour d'Oman]] - Classement final                                   | 15e      |          |
-| 2026  | [[Tour de l'Avenir]] - 1e étape                                      | ==1ier== |          |
-| 2026  | [[Tour de l'Avenir]] - Classement final                              | 2e       |          |
-| 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - Course - Espoir | 5e       |          |
+| Année | Compétition                                                           | Résultat | Remarque |
+| ----- | --------------------------------------------------------------------- | -------- | -------- |
+| 2026  | [[Tour d'Oman]] - Classement final                                    | 15e      |          |
+| 2026  | [[Tour de l'Avenir]] - 1e étape                                       | ==1ier== |          |
+| 2026  | [[Tour de l'Avenir]] - Classement final                               | 2e       |          |
+| 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - Course - Espoir  | 5e       |          |
+| 2026  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - Course - Espoir | 3e 🥉    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
