@@ -1,20 +1,16 @@
----
-type: game
----
-
-# Minecraft Dungeons 2
+# End of Abyss
 
 ## Informations Générales
 
-- **Année de sortie** : 2026
+- **Année de sortie** :  2026
 - **Développeur** : 
-	- Studio : [[Mojang Studio]]
+	- Studio : 
 	- Personnalités : 
-- **Éditeur** : [[Xbox Games Studio]]
+- **Éditeur** : 
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** : [[PC]], [[Xbox Series]]
-- **Résumé** : 
+- **Genre** : 
+- **Résumé** :  
 
 ## Détails Techniques
 - **Moteur de jeu** : 
@@ -37,6 +33,6 @@ type: game
 - 
 ## Liens et Ressources
 
-| Description | URL |
-| ----------- | --- |
-|             |     |
+| Description | URL       |
+| ----------- | --------- |
+

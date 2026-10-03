@@ -31,9 +31,9 @@ tags: mediaDB/game
 	- Studio : [[Skeleton Coffee Games]]
 	- Personnalités : 
 - **Éditeur** : [[Skeleton Coffee Games]]
-- **Plateformes** : 
+- **Plateformes** : [[PC]]
 - **Franchise** : 
-- **Genre** : RPG
+- **Genre** : [[Horreur]]
 - **Résumé** :  
 
 ## Détails Techniques
