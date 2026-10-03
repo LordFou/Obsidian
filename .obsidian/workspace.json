@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b88556ecf16ddad7",
+        "id": "ea7872cf7a9a9200",
         "type": "tabs",
         "children": [
           {
-            "id": "f447e139d357805e",
+            "id": "6ffc5989d1bdae01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diables Rouges.md",
+                "file": "Rallye de Sardaigne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diables Rouges"
+              "title": "Rallye de Sardaigne"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Diable",
+                "query": "Sardaigne",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -210,8 +210,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f447e139d357805e",
+  "active": "6ffc5989d1bdae01",
   "lastOpenFiles": [
+    "Loisirs/Sport/Sportifs/Sander Willems.md",
+    "Loisirs/Sport/Sportifs/Vic De Smet.md",
+    "Loisirs/Sport/Compétitions/Tournoi de Shangaï.md",
+    "Jannik Sinner.md",
+    "Tournoi de Pékin.md",
+    "Elise Mertens.md",
+    "Diables Rouges.md",
     "Niels Driesen.md",
     "Attachments/image-841.webp",
     "Hector Alvarez.md",
@@ -223,7 +230,6 @@
     "Loisirs/Sport/Tournoi de Tokyo.md",
     "Loisirs/Sport/Sportifs/Victoria Sibille.md",
     "Journal de bord/2026-10-02.md",
-    "Diables Rouges.md",
     "Lisa Vaelen.md",
     "Loisirs/Sport/Sportifs/Naomi Descamps.md",
     "Journal de bord/2026-09-28.md",
@@ -237,11 +243,6 @@
     "Journal de bord/2026-09-27.md",
     "Loisirs/Sport/Sportifs/Sans titre 1.md",
     "Loisirs/Sport/Compétitions/Billie Jean King Cup.md",
-    "Tom Boonen.md",
-    "Loisirs/Sport/Lotte Kopecky.md",
-    "Demi Vollering.md",
-    "Kimi Antonelli.md",
-    "Loisirs/Sport/Sportifs/Isack Hadjar.md",
     "Attachments/image-836.webp",
     "Attachments/image-835.webp",
     "Attachments/image-834.webp",

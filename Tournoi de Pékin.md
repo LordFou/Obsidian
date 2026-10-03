@@ -2,7 +2,7 @@
 type: event
 ---
 
-# ATP 1000 - Tournoi de Shangaï
+# Tournoi de Pékin - WTA 1000
 
 # Introduction
 
@@ -10,11 +10,11 @@ type: event
 
 | Année | Vainqueur | Nationalité | Remarque |
 | ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
+| 2026  |           |             |          |
 |       |           |             |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
 | ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
+| 2026  |           |             |          |
 |       |           |             |          |

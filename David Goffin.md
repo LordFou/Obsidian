@@ -16,7 +16,7 @@ type: personne
 | Année | Compétition                        | Résultat | Remarque                   |
 | ----- | ---------------------------------- | -------- | -------------------------- |
 | 2025  | [[US Open]]                        | 2e tour  |                            |
-| 2025  | [[ATP - Tournoi de Shangaï]]       | 3e tour  |                            |
+| 2025  | [[Tournoi de Shangaï]]       | 3e tour  |                            |
 | 2025  | [[Tournoi de Bruxelles]] - Double  | 1e tour  | avec [[Raphaël Collignon]] |
 | 2025  | [[Tournoi de Bâle]]                | 1e tour  |                            |
 |       |                                    |          |                            |
