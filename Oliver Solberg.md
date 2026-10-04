@@ -20,7 +20,7 @@ type: personne
 | 2026  | [[Rallye de Monte-Carlo]] | ==1ier== | Toyota   |
 | 2026  | [[Rallye d'Estonie]]      | 2e       | Toyota   |
 | 2026  | [[Rallye du Chili]]       | ==1ier== | Toyota   |
-|       |                           |          |          |
+| 2026  | [[Rallye de Sardaigne]]   | ==1ier== | Toyota   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

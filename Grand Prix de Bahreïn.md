@@ -8,10 +8,10 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur      | Nationalité | Remarque |
-| ----- | -------------- | ----------- | -------- |
-| 2026  | Max Verstappen | Néer        |          |
-|       |                |             |          |
+| Année | Vainqueur          | Nationalité | Remarque |
+| ----- | ------------------ | ----------- | -------- |
+| 2026  | [[Max Verstappen]] | Néerlandais |          |
+|       |                    |             |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

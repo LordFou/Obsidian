@@ -34,6 +34,7 @@ type: personne
 | 2026  | [[Rallye du Paraguay]]                               | Abandon  |          |
 | 2026  | [[Rallye du Chili]]                                  | Abandon  |          |
 | 2026  | [[Rallye de Sardaigne]]                              | Abandon  |          |
+| 2026  | [[Championnat du Monde - WRC]]                       | 7e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -10,9 +10,9 @@ type: event
 
 | Année | Vainqueur            | Nationalité | Remarque |
 | ----- | -------------------- | ----------- | -------- |
-| 2024  | [[Thierry Neuville]] | Belge       |          |
+| 2024  | [[Thierry Neuville]] | ==Belge==   |          |
 | 2025  | [[Stéphane Ogier]]   | Français    |          |
-|       |                      |             |          |
+| 2026  | [[Elfyn Evans]]      | Anglais     |          |
 # Constructeurs
 
 | Année | Vainqueur  | Nationalité | Remarque |

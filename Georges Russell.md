@@ -29,6 +29,7 @@ type: personne
 | 2026  | [[Grand Prix des Pays-Bas]] - Course       | 3e       |                    |
 | 2026  | [[Grand Prix d'Italie]] - Course           | 2e       |                    |
 | 2026  | [[Grand Prix d'Azerbaïdjan]] - Course      | ==1ier== |                    |
+| 2026  | [[Grand Prix de Bahreïn]] - Course         | Abandon  |                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
