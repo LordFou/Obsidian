@@ -29,6 +29,7 @@ type: personne
 | 2026  | Grand Prix des Pays-Bas                     | 4e       |                                     |
 | 2026  | Grand Prix de Turquie                       | Abandon  |                                     |
 | 2026  | Grand Prix de Chine                         | Abandon  |                                     |
+| 2026  | [[Motocross des Nations]]                   | 1ier     | [[Lucas Coenen]]<br>[[Liam Everts]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
