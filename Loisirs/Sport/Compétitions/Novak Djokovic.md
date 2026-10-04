@@ -32,7 +32,7 @@ type: personne
 | 2026  | [[Tournoi de Montréal]]   | Forfait       |                                                                                                      |
 | 2026  | [[Tournoi de Cincinnati]] | 1e tour       |                                                                                                      |
 | 2026  | [[US Open]]               | 1e tour       | Plus éliminé au 1ier tour d'un [[Grand Chelem]] depuis 2026                                          |
-| 2026  | [[Tournoi de Pékin]]      | 1/2 finale    | Victoire contr                                                                                       |
+| 2026  | [[Tournoi de Pékin]]      | 1/2 finale    | Victoire contre [[Alexander Zverev]] en 1/4 finale                                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
