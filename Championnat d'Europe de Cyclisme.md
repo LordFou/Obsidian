@@ -11,15 +11,18 @@ type: event
 | Année | Vainqueur                                      | Epreuve | Nationalité | Remarque |
 | ----- | ---------------------------------------------- | ------- | ----------- | -------- |
 | ?     | [[Matteo Trentin]]                             | Course  | Italien     |          |
-| 2024  | [[Tim Merlier]]                                | Course  | Belge       |          |
+| 2024  | [[Tim Merlier]]                                | Course  | ==Belge==   |          |
 | 2025  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Course  | Slovène     |          |
-| 2019  | [[Remco Evenepoel]]                            | CLM     | Belge       |          |
-| 2025  | [[Remco Evenepoel]]                            | CLM     | Belge       |          |
+| 2026  | [[Remco Evenepoel]]                            | Course  | ==Belge==   |          |
+|       |                                                |         |             |          |
+| 2019  | [[Remco Evenepoel]]                            | CLM     | ==Belge==   |          |
+| 2025  | [[Remco Evenepoel]]                            | CLM     | ==Belge==   |          |
 # Femmes
 
 | Année | Vainqueur          | Epreuve | Nationalité  | Remarque |
 | ----- | ------------------ | ------- | ------------ | -------- |
 | 2025  | [[Marlen Reusser]] | CLM     | Suisse       |          |
+|       |                    |         |              |          |
 | 2025  | [[Demi Vollering]] | Route   | Néerlandaise |          |
 | 2026  | [[Demi Vollering]] | Route   | Néerlandaise |          |
 
@@ -27,7 +30,8 @@ type: event
 
 | Année | Vainqueur             | Epreuve | Nationalité | Remarque |
 | ----- | --------------------- | ------- | ----------- | -------- |
-| 2021  | [[Thibau Nys]]        | Course  | Belge       |          |
-| 2025  | [[Jarno Widar]]       | Course  | Belge       |          |
+| 2021  | [[Thibau Nys]]        | Course  | ==Belge==   |          |
+| 2025  | [[Jarno Widar]]       | Course  | ==Belge==   |          |
 | 2026  | [[Hector Alvarez]]    | Course  | Espagnol    |          |
-| 2025  | [[Jonathan Vervenne]] | CLM     | Belge       |          |
+|       |                       |         |             |          |
+| 2025  | [[Jonathan Vervenne]] | CLM     | ==Belge==   |          |
