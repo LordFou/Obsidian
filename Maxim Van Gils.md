@@ -13,17 +13,18 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                          | Résultat | Remarque |
-| ----- | ------------------------------------ | -------- | -------- |
-| 2024  | [[GP Gippingen]]                     | ==1ier== |          |
-|       |                                      |          |          |
-| 2025  | ?                                    | ==1ier== |          |
-| 2025  | [[Tour de Norvège]] - 3e étape       | ==1ier== |          |
-| 2025  | [[Clasica San Sebastian]]            | 3e       |          |
-|       |                                      |          |          |
-| 2026  | [[Trofeo Andratx – Pollença]]        | 3e       |          |
-| 2026  | [[Critérium du Dauphiné]] - 6e étape | ==1ier== |          |
-| 2026  | [[Tour de France]] - 13e étape       | 4e       |          |
+| Année | Compétition                                                  | Résultat | Remarque |
+| ----- | ------------------------------------------------------------ | -------- | -------- |
+| 2024  | [[GP Gippingen]]                                             | ==1ier== |          |
+|       |                                                              |          |          |
+| 2025  | ?                                                            | ==1ier== |          |
+| 2025  | [[Tour de Norvège]] - 3e étape                               | ==1ier== |          |
+| 2025  | [[Clasica San Sebastian]]                                    | 3e       |          |
+|       |                                                              |          |          |
+| 2026  | [[Trofeo Andratx – Pollença]]                                | 3e       |          |
+| 2026  | [[Critérium du Dauphiné]] - 6e étape                         | ==1ier== |          |
+| 2026  | [[Tour de France]] - 13e étape                               | 4e       |          |
+| 2026  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - Course | 8e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
