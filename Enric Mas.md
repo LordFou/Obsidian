@@ -19,6 +19,7 @@ type: personne
 | ----- | ------------------------------------- | -------- | ----------------------------------------------- |
 | 2026  | [[Tour d'Espagne]] - 9e étape         | ==1ier== | Montagne                                        |
 | 2026  | [[Tour d'Espagne]] - Classement final | ==1ier== | Ok il profite de l'abandon de [[Tadej Pogacar]] |
+| 2026  | [[Tour de Lombardie]]                 | 2e       |                                                 |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
