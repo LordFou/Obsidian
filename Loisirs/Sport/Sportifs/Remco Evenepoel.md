@@ -100,6 +100,7 @@ type: personne
 | 2026  | [[Grand Prix de Montréal]]                                                       | 5e          |                                                                                                                       |
 | 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] -  CLM                        | ==1ier==    |                                                                                                                       |
 | 2026  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - Course                     | ==1ier==    |                                                                                                                       |
+| 2026  | [[Tour de Lombardie]]                                                            | 4e          |                                                                                                                       |
 ## Historique
 ```timeline-labeled
 [line-5, body-2]

@@ -13,16 +13,18 @@ type: personne
 - **Période d’activité** :  [[Lidl-Trek]]
 
 # Palmarès et Distinctions
-| Année | Compétition                          | Résultat | Remarque |
-| ----- | ------------------------------------ | -------- | -------- |
-| 2019  | [[Tour d'Italie]] - Maillot Montagne | ==1ier== |          |
-|       |                                      |          |          |
-| 2025  | ?                                    | ==1ier== |          |
-| 2025  | [[Liège-Bastogne-Liège]]             | 2e       |          |
-| 2025  | [[Clasica San Sebastian]]            | ==1ier== |          |
-| 2025  | [[Tour de Burgos]] - 5e étape        | ==1ier== |          |
-|       |                                      |          |          |
-| 2026  | [[Tour d'Italie]] - Maillot Montagne | ==1ier== |          |
+| Année | Compétition                                   | Résultat | Remarque |
+| ----- | --------------------------------------------- | -------- | -------- |
+| 2019  | [[Tour d'Italie]] - Maillot Montagne          | ==1ier== |          |
+|       |                                               |          |          |
+| 2025  | ?                                             | ==1ier== |          |
+| 2025  | [[Liège-Bastogne-Liège]]                      | 2e       |          |
+| 2025  | [[Clasica San Sebastian]]                     | ==1ier== |          |
+| 2025  | [[Tour de Burgos]] - 5e étape                 | ==1ier== |          |
+|       |                                               |          |          |
+| 2026  | [[Tour d'Italie]] - Maillot Montagne          | ==1ier== |          |
+| 2026  | [[Championnat du Monde de Cyclisme]] - Course | 2e       |          |
+| 2026  | [[Tour de Lombardie]]                         | 3e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
