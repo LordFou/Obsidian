@@ -9,7 +9,7 @@ type: personne
 - **Nationalité** : Belge
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Lotto-Intermarché]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
@@ -19,6 +19,7 @@ type: personne
 | 2025  | [[Tour du Val d'Aoste]] - 3e étape                          | ==1ier==                |                                                         |
 | 2025  | [[Tour de l'Avenir]] - 5e étape                             | ==1ier==                |                                                         |
 | 2025  | [[Tour de l'Avenir]] - 6e étape                             | ==1ier==                |                                                         |
+| 2025  | [[Tour de l'Avenir]] - Classement final                     | 2e                      |                                                         |
 | 2025  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - Route | ==1ier==                |                                                         |
 | 2025  | [[Flèche Ardennaise]]                                       | ==1ier==                |                                                         |
 |       |                                                             |                         |                                                         |
@@ -29,6 +30,8 @@ type: personne
 | 2026  | [[Tour de Burgos]]                                          | Abandon                 | Maladie                                                 |
 | 2026  | [[Tour d'Espagne]] - 4e étape                               | 2e                      |                                                         |
 | 2026  | [[Tour d'Espagne]] - 13e étape                              | 4e                      |                                                         |
+| 2026  | [[Tour d'Espagne]] - Classement final                       | 23e                     |                                                         |
+| 2026  | [[Trois Vallées Varésines]]                                 | ==🟡1ier==              | ==🔵Premier succès PRO==                                |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
