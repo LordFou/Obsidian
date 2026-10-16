@@ -35,7 +35,7 @@ type: personne
 | 2026  | [[Tournoi de Cincinnati]]           | Forfait         |                                                                       |
 | 2026  | [[US Open]]                         | Forfait         | Blessé au genou                                                       |
 | 2026  | [[Tournoi de Pékin]]                | Forfait         |                                                                       |
-| 2026  | [[Tournoi de Shangaï]]        | Forfait         |                                                                       |
+| 2026  | [[Tournoi de Shangaï]]              | Forfait         |                                                                       |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -46,6 +46,8 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - Record de 34 matchs consécutifs en Masters 1000
 - 2e joueur après [[Novak Djokovic]] à avoir remporté les neuf tournois de catégorie Masters 1000, la plus importante après celle du Grand Chelem
 - 29 titres ATP
+- Blessures
+	- En 2026, après sa victoire à [[Wimbledon]], il ne remontera plus sur le court à cause d'une inflammation au genou dont il n'arrive pas à se défaire.
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
@@ -56,3 +58,5 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 # Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
+
+![[image-847.webp|500x281]]

@@ -11,10 +11,14 @@
             "id": "39bd526b9c820ec7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Loisirs/Sport/Sportifs/Jiri Lehecka.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Jiri Lehecka"
             }
           }
         ]
@@ -51,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Novak Djokovic",
+                "query": "Tokyo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,8 +209,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "245850f62a8cdb3b",
+  "active": "39bd526b9c820ec7",
   "lastOpenFiles": [
+    "Carlos Alcaraz.md",
+    "Loisirs/Sport/Tournoi de Tokyo.md",
+    "Jannik Sinner.md",
+    "Attachments/image-847.webp",
+    "Tournoi de Pékin.md",
+    "Loisirs/Sport/Compétitions/Novak Djokovic.md",
     "Elise Mertens.md",
     "Journal de bord/2026-10-17.md",
     "Rallye de Sardaigne.md",
@@ -223,16 +233,11 @@
     "Championnat d'Europe de Cyclisme.md",
     "Ramses Debruyne.md",
     "Maxim Van Gils.md",
-    "Loisirs/Sport/Compétitions/Novak Djokovic.md",
     "Thierry Neuville.md",
     "Elfyn Evans.md",
     "Loisirs/Sport/Compétitions/Championnat du Monde - WRC.md",
     "Oliver Solberg.md",
     "Georges Russell.md",
-    "Lewis Hamilton.md",
-    "Kimi Antonelli.md",
-    "Max Verstappen.md",
-    "Grand Prix de Bahreïn.md",
     "Attachments/image-846.webp",
     "Attachments/image-845.webp",
     "Attachments/image-844.webp",
@@ -241,7 +246,6 @@
     "Attachments/image-841.webp",
     "Attachments/image-840.webp",
     "Attachments/image-839.webp",
-    "Attachments/image-838.webp",
-    "Attachments/image-837.webp"
+    "Attachments/image-838.webp"
   ]
 }
