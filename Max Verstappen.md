@@ -13,28 +13,29 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                           | Résultat | Remarque |
-| ----- | ------------------------------------- | -------- | -------- |
-| 2016  | [[Grand Prix d'Espagne]]              | 1ier     |          |
-| 2024  | [[Championnat du Monde de F1]]        | 1ier     |          |
-| 2025  | [[Grand Prix du Japon]]               | 1ier     |          |
-| 2025  | [[Grand Prix d'Italie]]               | 1ier     |          |
-| 2025  | [[Grand Prix d'Azerbaïdjan]]          | 1ier     |          |
-| 2025  | [[Grand Prix du Qatar]]               | 1ier     |          |
-| 2025  | [[Grand Prix Abu Dhabi]]              | 1ier     |          |
-| 2025  | [[Championnat du Monde de F1]] - 2025 | 2e       |          |
-|       |                                       |          |          |
-| 2026  | [[Grand Prix d'Australie]]            | 6e       |          |
-| 2026  | [[Grand Prix de Chine]] - Sprint      | 9e       |          |
-| 2026  | [[Grand Prix de Chine]] - Course      | Abandon  |          |
-| 2026  | [[Grand Prix du Canada]] - Course     | 3e       |          |
-| 2026  | [[Grand Prix d'Autriche]] - Course    | 2e       |          |
-| 2026  | [[Grand Prix de Belgique]] - Course   | 3e       |          |
-| 2026  | [[Grand Prix de Hongrie]]             | 2e       |          |
-| 2026  | [[Grand Prix d'Italie]] - Course      | 3e       |          |
-| 2026  | [[Grand Prix de Madrid]] - Course     | 2e       |          |
-| 2026  | [[Grand Prix d'Azerbaïdjan]] - Course | 2e       |          |
-| 2026  | [[Grand Prix de Bahreïn]] - Course    | 1ier     |          |
+| Année | Compétition                           | Résultat   | Remarque |
+| ----- | ------------------------------------- | ---------- | -------- |
+| 2016  | [[Grand Prix d'Espagne]]              | 1ier       |          |
+| 2024  | [[Championnat du Monde de F1]]        | 1ier       |          |
+| 2025  | [[Grand Prix du Japon]]               | 1ier       |          |
+| 2025  | [[Grand Prix d'Italie]]               | 1ier       |          |
+| 2025  | [[Grand Prix d'Azerbaïdjan]]          | 1ier       |          |
+| 2025  | [[Grand Prix du Qatar]]               | 1ier       |          |
+| 2025  | [[Grand Prix Abu Dhabi]]              | 1ier       |          |
+| 2025  | [[Championnat du Monde de F1]] - 2025 | 2e         |          |
+|       |                                       |            |          |
+| 2026  | [[Grand Prix d'Australie]]            | 6e         |          |
+| 2026  | [[Grand Prix de Chine]] - Sprint      | 9e         |          |
+| 2026  | [[Grand Prix de Chine]] - Course      | Abandon    |          |
+| 2026  | [[Grand Prix du Canada]] - Course     | 3e         |          |
+| 2026  | [[Grand Prix d'Autriche]] - Course    | 2e         |          |
+| 2026  | [[Grand Prix de Belgique]] - Course   | 3e         |          |
+| 2026  | [[Grand Prix de Hongrie]]             | 2e         |          |
+| 2026  | [[Grand Prix d'Italie]] - Course      | 3e         |          |
+| 2026  | [[Grand Prix de Madrid]] - Course     | 2e         |          |
+| 2026  | [[Grand Prix d'Azerbaïdjan]] - Course | 2e         |          |
+| 2026  | [[Grand Prix de Bahreïn]] - Course    | ==🟡1ier== |          |
+| 2026  | [[Grand Prix de Singapour]] - Sprint  | ==🟡1ier== |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
