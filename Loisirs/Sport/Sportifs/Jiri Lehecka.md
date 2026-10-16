@@ -17,7 +17,7 @@ type: personne
 | Année | Compétition          | Résultat  | Remarque                                                                 |
 | ----- | -------------------- | --------- | ------------------------------------------------------------------------ |
 | 2026  | [[Tournoi de Miami]] | Finaliste | Défaite contre [[Jannik Sinner]]<br>Première finale à ce niveau pour lui |
-| 2026  | [[Tournoi de Tokyo]] | Finaliste | Dé                                                                       |
+| 2026  | [[Tournoi de Tokyo]] | Finaliste | Défaite contre [[Carlos Alcaraz]]                                        |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

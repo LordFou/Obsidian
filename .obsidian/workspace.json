@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Jiri Lehecka.md",
+                "file": "Loisirs/Sport/Compétitions/Trois Vallées Varésines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jiri Lehecka"
+              "title": "Trois Vallées Varésines"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tokyo",
+                "query": "Trois",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -211,12 +211,18 @@
   },
   "active": "39bd526b9c820ec7",
   "lastOpenFiles": [
+    "Paul Magnier.md",
+    "Binche-Chimay-Binche.md",
+    "Loisirs/Sport/Compétitions/Novak Djokovic.md",
+    "Charlotte Kool.md",
+    "Linda Riedmann.md",
     "Carlos Alcaraz.md",
+    "Attachments/image-848.webp",
     "Loisirs/Sport/Tournoi de Tokyo.md",
+    "Loisirs/Sport/Sportifs/Jiri Lehecka.md",
     "Jannik Sinner.md",
     "Attachments/image-847.webp",
     "Tournoi de Pékin.md",
-    "Loisirs/Sport/Compétitions/Novak Djokovic.md",
     "Elise Mertens.md",
     "Journal de bord/2026-10-17.md",
     "Rallye de Sardaigne.md",
@@ -233,11 +239,6 @@
     "Championnat d'Europe de Cyclisme.md",
     "Ramses Debruyne.md",
     "Maxim Van Gils.md",
-    "Thierry Neuville.md",
-    "Elfyn Evans.md",
-    "Loisirs/Sport/Compétitions/Championnat du Monde - WRC.md",
-    "Oliver Solberg.md",
-    "Georges Russell.md",
     "Attachments/image-846.webp",
     "Attachments/image-845.webp",
     "Attachments/image-844.webp",
@@ -245,7 +246,6 @@
     "Attachments/image-842.webp",
     "Attachments/image-841.webp",
     "Attachments/image-840.webp",
-    "Attachments/image-839.webp",
-    "Attachments/image-838.webp"
+    "Attachments/image-839.webp"
   ]
 }

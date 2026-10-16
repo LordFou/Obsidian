@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-288.webp]]
+![[image-288.webp]] ![[image-848.webp|500x281]]
 # Carlos Alcaraz
 
 # Informations Générales
