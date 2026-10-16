@@ -17,8 +17,9 @@ type: personne
 
 | Année | Compétition                                                           | Résultat | Remarque |
 | ----- | --------------------------------------------------------------------- | -------- | -------- |
-| 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - Juniors - CLM    | 2e       |          |
+| 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - Juniors - CLM    | 2e 🥈    |          |
 | 2026  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - Junior - Course | 5e       |          |
+| 2026  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - Junior - CLM    | 3e 🥉    |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

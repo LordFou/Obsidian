@@ -74,7 +74,9 @@ type: personne
 | 2026  | [[US Open]] - Double                             | 1/2 finale    | avec [[Diana Shnaider]]                                                                                                                                                   |
 | 2026  | [[Tournoi de Singapour]] - Simple                | 1/4 finale    | Défaite contre [[Maja Chwalinska]] (WTA 25)                                                                                                                               |
 | 2026  | [[Tournoi de Singapour]] - Double                | 1/2 finale    |                                                                                                                                                                           |
-| 2026  | [[Tournoi de Pékin]] - Simple                    | 1/8 finale    | Victoire contre [[Jelena Ostapenko]] (WTA 32)                                                                                                                             |
+| 2026  | [[Tournoi de Pékin]] - Simple                    | 1/4 finale    | Victoire contre [[Jelena Ostapenko]] (WTA 32)<br>Victoire contre [[Coco Gauff]] (WTA 4)                                                                                   |
+| 2026  | [[Tournoi de Pékin]] - Double                    | 1/8 finale    | avec [[Diana Shnaider]]                                                                                                                                                   |
+|       |                                                  |               |                                                                                                                                                                           |
 
 # Style et Caractéristiques
 - C'est une joueuse très équilibrée et régulière qui intègre en juin 2025 le club très fermé des joueuses qui ont gagné un tournoi sur les 3 types de surface.

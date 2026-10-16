@@ -16,7 +16,7 @@ type: personne
 | Année | Compétition                                | Résultat | Remarque |
 | ----- | ------------------------------------------ | -------- | -------- |
 | 2019  | Euro judo (-81kg)                          | 1ier     |          |
-| 2021  | Championnat du Monde de Judo (?)           | ==1ier== |          |
+| 2021  | Championnat du Monde (-81kg)               | ==1ier== |          |
 | 2025  | Grand Chelem de judo de Tokyo (-81kg)      | 7e       |          |
 | 2025  | Grand Chelem de judo de Paris (?)          | ?        |          |
 | 2025  | Euro judo (-81kg)                          | 3e       |          |
@@ -24,6 +24,7 @@ type: personne
 | 2026  | Grand Chelem de Tbilissi                   | 3e       |          |
 | 2026  | Euro judo (-81kg)                          | 5e       |          |
 | 2026  | Grand Chelem de judo à Oulan-Bator (-81kg) | 5e       |          |
+| 2026  | Championnat du Monde de Judo (?)           |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
