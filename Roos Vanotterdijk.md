@@ -44,6 +44,7 @@ type: personne
 | 2026  | Championnat d'Europe de Natation - 200m 4n                                    | 10e (Série)<br>3e (Finale) 🥉                                | 2:13.83 (Série)<br>2:10.10 (Finale)                        |                                    |
 | 2026  | Coupe du Monde (Bakou) - Petit Bain - 100m Pap                                | ==1ière==                                                    | 56.42 (Série)<br>55.29 (Finale)                            | Record de Belgique                 |
 | 2026  | Coupe du Monde (Tachkent) - Petit Bain - 50m Pap                              | ==🟡1ière==                                                  | 25.63 (Série)<br>24.75 (Finale)                            | Record de Belgique                 |
+| 2026  | Coupe du Monde (Tachkent) - Petit Bain - 100m Pap                             | ==🟡1ière==                                                  | 56.88 (Série)<br>55.29 (Finale)                            | Record de Belgique                 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

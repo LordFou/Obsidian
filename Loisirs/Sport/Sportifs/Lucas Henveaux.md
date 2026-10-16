@@ -32,6 +32,7 @@ type: personne
 | 2026  | Coupe du Monde (Bakou) - Petit Bain - 1500m Nl                       | ==1ier==                                          |                                                              | ==Record de Belgique== - 8 secondes de mieux |
 | 2026  | Coupe du Monde (Bakou) - Petit Bain - 200m Nl                        | 3e                                                | 1.44.60 (Série)<br>1.42.88 (Finale)                          |                                              |
 | 2026  | Coupe du Monde (Tachkent) - Petit Bain - 800m Nl                     | ==1ier==                                          | 7.37.83 (Finale)                                             |                                              |
+| 2026  | Coupe du Monde (Tachkent) - Petit Bain - 200m Nl                     | ==1ier==                                          | 1:41.44 (Finale)                                             |                                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
