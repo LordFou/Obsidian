@@ -17,11 +17,13 @@ type: event
 |       |                                                |         |             |          |
 | 2019  | [[Remco Evenepoel]]                            | CLM     | ==Belge==   |          |
 | 2025  | [[Remco Evenepoel]]                            | CLM     | ==Belge==   |          |
+| 2026  | [[Primoz Roglic]]                              | CLM     | Slovène     |          |
 # Femmes
 
 | Année | Vainqueur          | Epreuve | Nationalité  | Remarque |
 | ----- | ------------------ | ------- | ------------ | -------- |
 | 2025  | [[Marlen Reusser]] | CLM     | Suisse       |          |
+| 2026  | [[Marlen Reusser]] | CLM     | Suisse       |          |
 |       |                    |         |              |          |
 | 2025  | [[Demi Vollering]] | Route   | Néerlandaise |          |
 | 2026  | [[Demi Vollering]] | Route   | Néerlandaise |          |

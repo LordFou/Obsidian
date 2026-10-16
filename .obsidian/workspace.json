@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Matthias Casse.md",
+                "file": "Loisirs/Sport/Sportifs/Kimmer Coppejans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matthias Casse"
+              "title": "Kimmer Coppejans"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Matthias Casse",
+                "query": "Kimmer Coppejans",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,8 +79,7 @@
               "title": "Signets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,6 +210,17 @@
   },
   "active": "39bd526b9c820ec7",
   "lastOpenFiles": [
+    "Julie Allemand.md",
+    "Loisirs/Sport/Sportifs/Kimmer Coppejans.md",
+    "Emma Meesseman.md",
+    "Primoz Roglic.md",
+    "Attachments/image-849.webp",
+    "Championnat d'Europe de Cyclisme.md",
+    "Ilan Van Wilder.md",
+    "Lotte Claes.md",
+    "Loisirs/Sport/Sportifs/Sandrine Tas.md",
+    "Marlen Reusser.md",
+    "Loisirs/Sport/Sportifs/Matthias Casse.md",
     "Matisse Van Kerckhove.md",
     "Loisirs/Sport/Sportifs/Vic De Smet.md",
     "Loisirs/Sport/Sportifs/Laura Fivé.md",
@@ -227,25 +237,14 @@
     "Loisirs/Sport/Compétitions/Novak Djokovic.md",
     "Charlotte Kool.md",
     "Linda Riedmann.md",
-    "Carlos Alcaraz.md",
     "Attachments/image-848.webp",
-    "Loisirs/Sport/Tournoi de Tokyo.md",
-    "Loisirs/Sport/Sportifs/Jiri Lehecka.md",
-    "Jannik Sinner.md",
     "Attachments/image-847.webp",
-    "Tournoi de Pékin.md",
-    "Journal de bord/2026-10-17.md",
-    "Rallye de Sardaigne.md",
-    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
-    "Tour de Lombardie.md",
-    "Paul Seixas.md",
     "Attachments/image-846.webp",
     "Attachments/image-845.webp",
     "Attachments/image-844.webp",
     "Attachments/image-843.webp",
     "Attachments/image-842.webp",
     "Attachments/image-841.webp",
-    "Attachments/image-840.webp",
-    "Attachments/image-839.webp"
+    "Attachments/image-840.webp"
   ]
 }

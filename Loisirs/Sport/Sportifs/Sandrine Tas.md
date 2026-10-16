@@ -27,6 +27,7 @@ type: personne
 | 2026  | [[Tour de Bretagne]] - Xe étape                                     | ==1ière== |                                                            |
 | 2026  | [[Championnat de Belgique de Cyclisme]] - CLM                       | 2e        |                                                            |
 | 2026  | [[Championnat de Belgique de Cyclisme]] - Route                     | 3e        |                                                            |
+| 2026  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - CLM           | 7e        |                                                            |
 ```timeline-labeled
 [line-5, body-2]
 date: [[JO 2026]] 
