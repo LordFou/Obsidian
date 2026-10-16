@@ -74,7 +74,7 @@ type: personne
 | 2026  | [[US Open]] - Double                             | 1/2 finale    | avec [[Diana Shnaider]]                                                                                                                                                   |
 | 2026  | [[Tournoi de Singapour]] - Simple                | 1/4 finale    | Défaite contre [[Maja Chwalinska]] (WTA 25)                                                                                                                               |
 | 2026  | [[Tournoi de Singapour]] - Double                | 1/2 finale    |                                                                                                                                                                           |
-| 2026  | [[Tournoi de Pékin]] - Simple                    | 1/4 finale    | Victoire contre [[Jelena Ostapenko]] (WTA 32)<br>Victoire contre [[Coco Gauff]] (WTA 4)                                                                                   |
+| 2026  | [[Tournoi de Pékin]] - Simple                    | 1/2 finale    | Victoire contre [[Jelena Ostapenko]] (WTA 32)<br>Victoire contre [[Coco Gauff]] (WTA 4)<br>Victoire contre [[Iga Swiatek]] (WTA 9)<br>Défaite contre [[Qinwen Zheng]]     |
 | 2026  | [[Tournoi de Pékin]] - Double                    | 1/8 finale    | avec [[Diana Shnaider]]                                                                                                                                                   |
 |       |                                                  |               |                                                                                                                                                                           |
 
