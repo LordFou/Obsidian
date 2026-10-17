@@ -10,7 +10,7 @@ type: personne
 - **Sport / Discipline** : [[Cyclisme]] 
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
-- **Période d’activité** :  [[Ineos]]
+- **Période d’activité** :  [[Ineos]], [[Lidl-Trek]] (Fin 2026)
 
 # Palmarès et Distinctions
 | Année | Compétition                                                               | Résultat | Remarque  |
