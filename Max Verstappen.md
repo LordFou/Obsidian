@@ -36,6 +36,7 @@ type: personne
 | 2026  | [[Grand Prix d'Azerbaïdjan]] - Course | 2e         |          |
 | 2026  | [[Grand Prix de Bahreïn]] - Course    | ==🟡1ier== |          |
 | 2026  | [[Grand Prix de Singapour]] - Sprint  | ==🟡1ier== |          |
+| 2026  | [[Grand Prix de Singapour]] - Course  | ==🟡1ier== |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
