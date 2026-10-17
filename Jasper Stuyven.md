@@ -24,6 +24,7 @@ type: personne
 | 2026  | [[Paris-Roubaix]]                       | 3e       |          |
 | 2026  | [[Tour d'Italie]] - 6e étape            | 2e       |          |
 | 2026  | [[Tour du Luxembourg]] - 2e étape       | 4e       |          |
+| 2026  | [[Paris-Tours]]                         | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -17,6 +17,7 @@ type: personne
 | ----- | ------------------------------------------- | -------- | -------- |
 | 2025  | Grand Prix de la Corogne - Concours de saut | 1ier     |          |
 | 2026  | Grand Prix de Doha - Concours de saut       | 3e       |          |
+| 2026  | Grand Prix 5* de saut d’obstacles à Rome    | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

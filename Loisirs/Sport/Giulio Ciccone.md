@@ -10,7 +10,7 @@ type: personne
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
-- **Période d’activité** :  [[Lidl-Trek]]
+- **Période d’activité** :  [[Lidl-Trek]], [[Pinarello Q36.5]] (fin 2026)
 
 # Palmarès et Distinctions
 | Année | Compétition                                   | Résultat | Remarque |

@@ -36,6 +36,7 @@ type: personne
 | 2026  | [[Tournoi de Cincinnati]]  | Forfait         |                                            |
 | 2026  | [[US Open]]                | 1/4 finale      | Défaite contre [[Ben Shelton]] en 1/4      |
 | 2026  | [[Tournoi de Tokyo]]       | ==🟡Vainqueur== | Victoire contre [[Jiri Lehecka]]           |
+| 2026  | [[Tournoi de Shangaï]]     | 1/16 finale     | Défaite contre [[Zizou Bergs]]             |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
