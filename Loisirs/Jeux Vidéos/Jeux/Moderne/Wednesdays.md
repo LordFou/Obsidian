@@ -36,7 +36,9 @@ type: game
 	-  Timothé
 - **Ennemis** :
 	- La vie cruelle 
-- **Thèmes abordés** : [[Abus Sexuel]]
+- **Thèmes abordés** : 
+	- [[Abus Sexuel]]
+	- [[Inceste]]
 - **Influencé par** : 
 - **A inspiré** : 
 - **Comparable à** :

@@ -27,10 +27,11 @@ content:
 ## Jeux Développés
 | Année | Titre                              | Genre        | Plateformes |
 | ----- | ---------------------------------- | ------------ | ----------- |
-|       | [[Bury Me My Love]]                | Serious Game |             |
-|       | [[Inua - A Story in Ice and Time]] |              |             |
+| 2019  | [[Bury Me My Love]]                | Serious Game |             |
+| 2022  | [[Inua - A Story in Ice and Time]] | Serious Game |             |
+| 2023  | [[The Wreck]]                      | Serious Game |             |
 | 2025  | [[Wednesdays]]                     | Serious Game | PC, Mac     |
-|       |                                    |              |             |
+|       | Itaka                              | Serious Game |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
