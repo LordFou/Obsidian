@@ -11,11 +11,13 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  [[Lotto]] / [[Visma]]
 - **Période d’activité** :  
+- **Pseudo** : vocsnor
 
 # Palmarès et Distinctions
 | Année | Compétition                  | Résultat | Remarque |
 | ----- | ---------------------------- | -------- | -------- |
 | 2024  | [[Tour de France]] - ? étape | 1ier     |          |
+| 2026  | [[Eneco Tour]] - 3e étape    | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -16,6 +16,7 @@ type: personne
 
 | Année | Compétition                                                                                       | Résultat       | Remarque                                                                |
 | ----- | ------------------------------------------------------------------------------------------------- | -------------- | ----------------------------------------------------------------------- |
+| 2026  | [[Championnat du Monde de Cyclisme sur piste\|Champ. Monde Piste]] - Omnium                       | 7e             |                                                                         |
 | 2026  | [[Championnat du Monde de Cyclisme sur piste\|Champ. Monde Piste]] - Elimination                  | ==🟡1ière 🥇== |                                                                         |
 | 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - Course                                       | 20e            |                                                                         |
 | 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - CLM                                          | 6e             |                                                                         |

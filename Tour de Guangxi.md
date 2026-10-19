@@ -14,6 +14,7 @@ type: event
 | 1e (FRA) | [[Paul Magnier]]     | [[Paul Magnier]]     |          |        |       |                      |
 | 2e (NDL) | [[Frits Biesterbos]] | [[Paul Magnier]]     |          |        |       |                      |
 | 3e (BEL) | [[Milan Fretin]]     | [[Frits Biesterbos]] |          |        |       | 3e - [[Jordi Meeus]] |
+| 4e (FRA) | [[Paul Magnier]]     | [[Paul Magnier]]     |          |        |       |                      |
 # General
 
 ### Hommes

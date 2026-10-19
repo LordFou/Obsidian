@@ -9,16 +9,18 @@ type: event
 
 ## Hommes
 
-|          | Vainqueur       | Général         | Montagne | Points | Jeune | Remarques |
-| -------- | --------------- | --------------- | -------- | ------ | ----- | --------- |
-| 1e (BEL) | [[Tim Merlier]] | [[Tim Merlier]] |          |        |       |           |
-|          |                 |                 |          |        |       |           |
-|          |                 |                 |          |        |       |           |
+|          | Vainqueur          | Général               | Montagne | Points | Jeune | Remarques                  |
+| -------- | ------------------ | --------------------- | -------- | ------ | ----- | -------------------------- |
+| 1e (BEL) | [[Tim Merlier]]    | [[Tim Merlier]]       |          |        |       |                            |
+| 2e       |                    |                       |          |        |       |                            |
+| 3e (NDL) | [[Mick van Dijke]] | [[Victor Campenaert]] |          |        |       | 2e - [[Victor Campenaert]] |
 ## Femmes
 
 |                | Vainqueur        | Général          | Montagne | Points | Jeune | Remarques |
 | -------------- | ---------------- | ---------------- | -------- | ------ | ----- | --------- |
 | 1e (==🟡BEL==) | [[Sandrine Tas]] | [[Sandrine Tas]] |          |        |       |           |
+|                |                  |                  |          |        |       |           |
+| 3e             | [[Femke Markus]] |                  |          |        |       |           |
 
 # General
 
