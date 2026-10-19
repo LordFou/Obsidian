@@ -16,18 +16,18 @@ type: event
 | 3e (==🟡BEL==) | [[Milan Fretin]]     | [[Frits Biesterbos]] |          |        |       | 3e - [[Jordi Meeus]]      |
 | 4e (FRA)       | [[Paul Magnier]]     | [[Paul Magnier]]     |          |        |       |                           |
 | 5e (==🟡BEL==) | [[Milan Fretin]]     | [[Paul Magnier]]     |          |        |       | Chute de [[Paul Magnier]] |
+| 6e (==🟡BEL==) | [[Jarno Widar]]      | [[Jarno Widar]]      |          |        |       |                           |
 # General
 
 ### Hommes
 
 | Année | Vainqueur | Nationalité | Remarque |
 | ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
 |       |           |             |          |
 |       |           |             |          |
+|       |           |             |          |
+| 2026  | [[Jarno Widar]] | Belge       |          |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| ----- | --

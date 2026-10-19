@@ -32,6 +32,8 @@ type: personne
 | 2026  | [[Tour d'Espagne]] - 13e étape                              | 4e                      |                                                         |
 | 2026  | [[Tour d'Espagne]] - Classement final                       | 23e                     |                                                         |
 | 2026  | [[Trois Vallées Varésines]]                                 | ==🟡1ier==              | ==🔵Premier succès PRO==                                |
+| 2026  | [[Tour de Guangxi]] - 6e étape                              | ==🟡1ier==              |                                                         |
+| 2026  | [[Tour de Guangxi]] - Classement final                      | ==🟡1ier==              |                                                         |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

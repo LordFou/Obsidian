@@ -14,7 +14,7 @@ type: event
 | 1e (BEL) | [[Tim Merlier]]        | [[Tim Merlier]]       |          |        |       |                            |
 | 2e       |                        |                       |          |        |       |                            |
 | 3e (NDL) | [[Mick van Dijke]]     | [[Victor Campenaert]] |          |        |       | 2e - [[Victor Campenaert]] |
-| 4e (BEL) | [[Victor Vercouillie]] |                       |          |        |       |                            |
+| 4e (BEL) | [[Victor Vercouillie]] | [[Victor Campenaert]] |          |        |       |                            |
 ## Femmes
 
 |                | Vainqueur        | Général          | Montagne | Points | Jeune | Remarques |

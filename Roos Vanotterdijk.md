@@ -47,6 +47,7 @@ type: personne
 | 2026  | Coupe du Monde (Tachkent) - Petit Bain - 100m Pap                             | ==🟡1ière==                                                  | 56.88 (Série)<br>55.29 (Finale)                            | Record de Belgique                 |
 | 2026  | Coupe du Monde (Astana) - Petit Bain - 50m Pap                                | ==🟡1ière==                                                  | 24.56 (Finale)                                             | Record de Belgique                 |
 | 2026  | Coupe du Monde (Astana) - Petit Bain - 200m 4N                                | 2e                                                           | 2:05.07 (Finale)                                           | Record de Belgique                 |
+| 2026  | Coupe du Monde - Classement général                                           | 3e                                                           |                                                            |                                    |
 |       |                                                                               |                                                              |                                                            |                                    |
 
 # Style et Caractéristiques
