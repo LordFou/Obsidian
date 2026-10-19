@@ -37,6 +37,8 @@ tags: mediaDB/game
 		- [[ARTE France]]
 		- [[FIGS]]
 	- Personnalités : 
+		- Pierre Corbinet
+		- 
 - **Éditeur** : PID Games
 - **Plateformes** : 
 - **Franchise** : 
@@ -49,6 +51,7 @@ tags: mediaDB/game
 - **Audio** : (Type de musique, Bande-son notable)
 - **Réception critique** : (Notes, Awards, Réactions de la presse)
 	- Steam Rating : 0
+	- Petit succès relatif
 - **Gameplay** :
 - **Durée estimée** : 
 

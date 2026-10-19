@@ -25,12 +25,12 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre               | Genre        | Plateformes |
-| ----- | ------------------- | ------------ | ----------- |
-|       | [[Bury Me My Love]] |              |             |
-|       |                     |              |             |
-| 2025  | [[Wednesdays]]      | Serious Game | PC, Mac     |
-|       |                     |              |             |
+| Année | Titre                              | Genre        | Plateformes |
+| ----- | ---------------------------------- | ------------ | ----------- |
+|       | [[Bury Me My Love]]                | Serious Game |             |
+|       | [[Inua - A Story in Ice and Time]] |              |             |
+| 2025  | [[Wednesdays]]                     | Serious Game | PC, Mac     |
+|       |                                    |              |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)
