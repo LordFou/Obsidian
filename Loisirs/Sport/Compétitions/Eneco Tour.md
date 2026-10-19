@@ -9,11 +9,11 @@ type: event
 
 ## Hommes
 
-|     | Vainqueur | Général | Montagne | Points | Jeune | Remarques |
-| --- | --------- | ------- | -------- | ------ | ----- | --------- |
-|     |           |         |          |        |       |           |
-|     |           |         |          |        |       |           |
-|     |           |         |          |        |       |           |
+|          | Vainqueur       | Général         | Montagne | Points | Jeune | Remarques |
+| -------- | --------------- | --------------- | -------- | ------ | ----- | --------- |
+| 1e (BEL) | [[Tim Merlier]] | [[Tim Merlier]] |          |        |       |           |
+|          |                 |                 |          |        |       |           |
+|          |                 |                 |          |        |       |           |
 ## Femmes
 
 |                | Vainqueur        | Général          | Montagne | Points | Jeune | Remarques |

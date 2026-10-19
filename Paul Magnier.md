@@ -48,6 +48,8 @@ type: personne
 | 2026  | [[Muur Classic]]                                          | ==1ier==   | Surclassement - Sprint de costaud |
 | 2026  | [[Cyclassics Hambourg]]                                   | ==1ier==   |                                   |
 | 2026  | [[Binche-Chimay-Binche]]                                  | ==🟡1ier== |                                   |
+| 2026  | [[Tour de Guangxi]] - 1e étape                            | ==🟡1ier== |                                   |
+|       |                                                           |            |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
