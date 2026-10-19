@@ -45,6 +45,8 @@ type: personne
 | 2026  | Coupe du Monde (Bakou) - Petit Bain - 100m Pap                                | ==1ière==                                                    | 56.42 (Série)<br>55.29 (Finale)                            | Record de Belgique                 |
 | 2026  | Coupe du Monde (Tachkent) - Petit Bain - 50m Pap                              | ==🟡1ière==                                                  | 25.63 (Série)<br>24.75 (Finale)                            | Record de Belgique                 |
 | 2026  | Coupe du Monde (Tachkent) - Petit Bain - 100m Pap                             | ==🟡1ière==                                                  | 56.88 (Série)<br>55.29 (Finale)                            | Record de Belgique                 |
+| 2026  | Coupe du Monde (Astana) - Petit Bain - 50m Pap                                | ==🟡1ière==                                                  | 24.56 (Finale)                                             | Record de Belgique                 |
+|       |                                                                               |                                                              |                                                            |                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -59,7 +61,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 	- 100m papillon (55.29) - Petit bain
 	- 200m 4n (2:09.73)
 	- 100m 4n (56.80) - Petit bain
-	- 50m papillon (24.75) - Petit bain
+	- 50m papillon (24.56) - Petit bain
 - Record des Championnats d’Europe
 	- 100m papillon (55.89)
 

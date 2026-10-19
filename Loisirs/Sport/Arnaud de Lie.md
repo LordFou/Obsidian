@@ -9,7 +9,7 @@ type: personne
 - **Nationalité** :  Belge
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Lotto-Intermarché]], [[Tudor]]
 - **Période d’activité** :  
 
 ```timeline-labeled
