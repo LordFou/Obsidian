@@ -11,7 +11,7 @@ Brève introduction sur la personnalité : rôle dans l’industrie du jeu vidé
 - **Date de naissance** :  
 - **Nationalité** :  
 - **Profession(s)** : 
-	- Fondateur (The Pixel)
+	- Fondateur ([[The Pixel Hunt]])
 - **Entreprise(s) associée(s)** : (Studios ou éditeurs avec lesquels il/elle a travaillé)  
 
 ```timeline-labeled
