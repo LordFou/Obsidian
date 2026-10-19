@@ -5,6 +5,18 @@ type: event
 
 # Introduction
 
+# Edition 2025
+
+## Hommes
+
+|          | Vainqueur        | Général          | Montagne | Points | Jeune | Remarques |
+| -------- | ---------------- | ---------------- | -------- | ------ | ----- | --------- |
+| 1e (FRA) | [[Paul Magnier]] | [[Paul Magnier]] |          |        |       |           |
+| 2e (FRA) | [[Paul Magnier]] | [[Paul Magnier]] |          |        |       |           |
+| 3e (FRA) | [[Paul Magnier]] | [[Paul Magnier]] |          |        |       |           |
+| 4e (FRA) | [[Paul Magnier]] | [[Paul Magnier]] |          |        |       |           |
+| 5e (ANG) | [[Paul Double]]  | [[Paul Double]]  |          |        |       |           |
+| 6e (FRA) | [[Paul Magnier]] | [[Paul Double]]  |          |        |       |           |
 # Edition 2026
 
 ## Hommes
@@ -21,13 +33,15 @@ type: event
 
 ### Hommes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-|       |           |             |          |
-|       |           |             |          |
-|       |           |             |          |
-| 2026  | [[Jarno Widar]] | Belge       |          |
+| Année | Vainqueur               | Nationalité | Remarque |
+| ----- | ----------------------- | ----------- | -------- |
+| 2017  | [[Tim Wellens]]         | ==🟡Belge== |          |
+| 2024  | [[Lennert Van Eetvelt]] | ==🟡Belge== |          |
+| 2025  | [[Paul Double]]         | Anglais     |          |
+| 2026  | [[Jarno Widar]]         | ==🟡Belge== |          |
 ### Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |
-| ----- | --
+| ----- | --------- | ----------- | -------- |
+| 2025  |           |             |          |
+|       |           |             |          |

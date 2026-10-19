@@ -32,11 +32,11 @@ type: personne
 | 2025  | [[Tour de Slovaquie]] - 4e étape                          | 1ier       |                                   |
 | 2025  | [[Cro Race]] - 1e étape                                   | 1ier       |                                   |
 | 2025  | [[Cro Race]] - 2e étape                                   | 1ier       |                                   |
-| 2025  | [[Tour du Guangxi]] - 1e étape                            | 1ier       |                                   |
-| 2025  | [[Tour du Guangxi]] - 2e étape                            | 1ier       |                                   |
-| 2025  | [[Tour du Guangxi]] - 3e étape                            | 1ier       |                                   |
-| 2025  | [[Tour du Guangxi]] - 4e étape                            | 1ier       |                                   |
-| 2025  | [[Tour du Guangxi]] - 5e étape                            | 1ier       |                                   |
+| 2025  | [[Tour de Guangxi]] - 1e étape                            | 1ier       |                                   |
+| 2025  | [[Tour de Guangxi]] - 2e étape                            | 1ier       |                                   |
+| 2025  | [[Tour de Guangxi]] - 3e étape                            | 1ier       |                                   |
+| 2025  | [[Tour de Guangxi]] - 4e étape                            | 1ier       |                                   |
+| 2025  | [[Tour de Guangxi]] - 5e étape                            | 1ier       |                                   |
 |       |                                                           |            |                                   |
 | 2026  | [[Grand Prix de Valence]]                                 | 2e         | Sprint                            |
 | 2026  | [[Tour d'Algarve]] - 1e étape                             | ==1ier==   | Sprint                            |

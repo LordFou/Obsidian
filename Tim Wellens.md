@@ -15,6 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                     | Résultat         | Remarque                                           |
 | ----- | ----------------------------------------------- | ---------------- | -------------------------------------------------- |
+| 2017  | [[Tour de Guangxi]] - Classement final          | ==🟡1ier==       |                                                    |
 | 2018  | [[Tour d'Andalousie]] - Classement final        | ==1ier==         |                                                    |
 | 2025  | [[Championnat de Belgique de Cyclisme]] - Route | ==1ier==         | Détail optionnel                                   |
 | 2025  | [[Strade Bianche]]                              | 3e               |                                                    |
