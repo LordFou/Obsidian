@@ -47,7 +47,7 @@ type: personne
 | 2026  | [[Tournoi de Montréal]]             | 3e tour                | Victoire contre [[Sebastian Baez]] (ATP 48)<br>Défaite contre [[Ben Shelton]] (ATP 10)                                                                |
 | 2026  | [[US Open]]                         | 3e tour                | Victoire contre [[Carlos Taberner ]] (ATP 406)<br>Victoire contre [[Jesper De Jong]] (ATP 100)<br>Défaite contre [[Botic Van de Zandschulp]] (ATP 70) |
 | 2026  | [[Tournoi de Tokyo]]                | 1e tour                | Défaite contre [[Jiri Lehecka]] (ATP 23)                                                                                                              |
-| 2026  | [[Tournoi de Shangaï]]              | 1/8 finale             | Victoire contre [[Carlos Alcaraz]]                                                                                                                    |
+| 2026  | [[Tournoi de Shangaï]]              | 1/8 finale             | Victoire contre [[Carlos Alcaraz]] (ATP 2)<br>Défaite contre [[Tommy Paul]] (ATP 17)                                                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

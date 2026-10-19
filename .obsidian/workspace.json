@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "One More Level.md",
+                "file": "Zizou Bergs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "One More Level.md",
+                "file": "Zizou Bergs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "One More Level"
+              "title": "Zizou Bergs"
             }
           }
         ],
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Valor",
+                "query": "Zizou",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -249,8 +249,8 @@
   },
   "active": "6f6a669d9d93579b",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Valor Mortis.md",
     "One More Level.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Valor Mortis.md",
     "Journal de bord/2026-10-19.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Forever Ago.md",
     "Third Shift.md",
