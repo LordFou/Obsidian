@@ -8,58 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8021a99215288d05",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Tour de Guangxi.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graphe local"
-            }
-          },
-          {
             "id": "6f6a669d9d93579b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tour de Guangxi.md",
+                "file": "Championnat du Monde de Cyclisme sur piste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tour de Guangxi"
+              "title": "Championnat du Monde de Cyclisme sur piste"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Milan",
+                "query": "Lotte",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -249,8 +211,14 @@
   },
   "active": "6f6a669d9d93579b",
   "lastOpenFiles": [
-    "Paul Magnier.md",
+    "Loisirs/Sport/Lotte Kopecky.md",
+    "Trophée National Mérite Sportif.md",
+    "Loisirs/Sport/Sportifs/Nafi Thiam.md",
+    "Journal de bord/Archives/2025-08-03.md",
+    "Sarah Chaâri.md",
+    "Emma Meesseman.md",
     "Tour de Guangxi.md",
+    "Paul Magnier.md",
     "Jordi Meeus.md",
     "Milan Fretin.md",
     "Frits Biesterbos.md",
@@ -269,12 +237,6 @@
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Inua - A Story in Ice and Time.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Wreck.md",
     "accident de voiture.md",
-    "Loisirs/BD/Mi-Mouche.md",
-    "Bury Me My Love.md",
-    "Florent Maurin.md",
-    "Loisirs/Jeux Vidéos/Sociétés/The Pixel Hunt.md",
-    "Loisirs/Sport/Sportifs/Sandrine Tas.md",
-    "Red Flames.md",
     "Attachments/image-850.webp",
     "Attachments/image-849.webp",
     "Attachments/image-848.webp",
