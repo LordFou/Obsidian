@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-853.webp|206x503]]
 # Victor Vercouillie
 
 # Informations Générales
@@ -9,13 +9,14 @@ type: personne
 - **Nationalité** :  Belge
 - **Sport / Discipline** : [[Cyclisme]] 
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Flanders-Baloise]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
 | Année | Compétition                       | Résultat          | Remarque |
 | ----- | --------------------------------- | ----------------- | -------- |
 | 2026  | [[Etoile de Bessèges]] - 1e étape | Maillot des monts |          |
+| 2026  | [[Eneco Tour]] - 4e étape         | 1ier              |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

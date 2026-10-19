@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-852.webp|259x274]]
 # Fabio Van den Bossche
 
 # Informations Générales

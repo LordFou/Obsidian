@@ -36,6 +36,7 @@ type: personne
 | 2026  | Coupe du Monde (Tachkent) - Petit Bain - 100m Br                         | 3e                                            | 1.06.13 (Série)<br>1.05.38 (Finale)                    |                                          |
 | 2026  | Coupe du Monde (Tachkent) - Petit Bain - 50m Br                          | 3e                                            | 30.13 (Série)<br>29.86 (Finale)                        |                                          |
 | 2026  | Coupe du Monde (Astana) - Petit Bain - 100m Br                           | 4e                                            | 1.05.29 (Finale)                                       |                                          |
+| 2026  | Coupe du Monde (Astana) - Petit Bain - 50m Br                            | 2e                                            | 29.71 (Finale)                                         |                                          |
 
 
 # Style et Caractéristiques
