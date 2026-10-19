@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Pixel Hunt.md",
+                "file": "Loisirs/Jeux Vidéos/Annapurna Interactive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Pixel Hunt"
+              "title": "Annapurna Interactive"
             },
             "group": "cc2a54ce65e10f60"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Pixel Hunt.md",
+                "file": "Loisirs/Jeux Vidéos/Annapurna Interactive.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -58,11 +58,11 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de The Pixel Hunt"
+              "title": "Graphique de Annapurna Interactive"
             },
             "group": "cc2a54ce65e10f60"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "The Pixel Hunt",
+                "query": "Forever Go",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -256,8 +256,9 @@
   },
   "active": "b130191cfb86d96b",
   "lastOpenFiles": [
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Wednesdays.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Forever Ago.md",
     "The Pixel Hunt.md",
+    "Loisirs/Jeux Vidéos/Jeux/Moderne/Wednesdays.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Bury Me My Love.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/Inua - A Story in Ice and Time.md",
     "Loisirs/Jeux Vidéos/Jeux/Moderne/The Wreck.md",
@@ -281,7 +282,6 @@
     "Loisirs/Sport/Compétitions/Paris-Tours.md",
     "Per Strand Hagenes.md",
     "Grand Prix de Singapour.md",
-    "Max Verstappen.md",
     "Attachments/image-850.webp",
     "Attachments/image-849.webp",
     "Attachments/image-848.webp",
