@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "452affed2844e53c",
+        "id": "b8f7c3ff4d9d1a73",
         "type": "tabs",
         "children": [
           {
-            "id": "39bd526b9c820ec7",
+            "id": "b130191cfb86d96b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal de bord/2026-10-19.md",
+                "file": "Florent Maurin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-19"
+              "title": "Florent Maurin"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Eneco Tour",
+                "query": "The Pixel Hunt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -187,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -208,10 +208,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "39bd526b9c820ec7",
+  "active": "b130191cfb86d96b",
   "lastOpenFiles": [
-    "Loisirs/Sport/Sportifs/Sandrine Tas.md",
+    "Loisirs/Jeux Vidéos/Sociétés/The Pixel Hunt.md",
+    "Florent Maurin.md",
     "Journal de bord/2026-10-19.md",
+    "Loisirs/Sport/Sportifs/Sandrine Tas.md",
     "Loisirs/Sport/Compétitions/Eneco Tour.md",
     "Red Flames.md",
     "Filippo Ganna.md",
@@ -234,8 +236,6 @@
     "Loisirs/Sport/Sportifs/Lucas Henveaux.md",
     "Paul Seixas.md",
     "Tour de Lombardie.md",
-    "Qinwen Zheng.md",
-    "Loisirs/Sport/Compétitions/Tournoi de Shangaï.md",
     "Attachments/image-850.webp",
     "Attachments/image-849.webp",
     "Attachments/image-848.webp",
