@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Richard Carapaz.md",
+                "file": "Fabio Van den Bossche.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Richard Carapaz"
+              "title": "Fabio Van den Bossche"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Richar",
+                "query": "Fabio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -211,12 +211,17 @@
   },
   "active": "6f6a669d9d93579b",
   "lastOpenFiles": [
+    "Shari Bossuyt.md",
+    "Loisirs/Sport/Lotte Kopecky.md",
+    "Milan Fretin.md",
+    "Attachments/image-851.webp",
+    "Tour de Guangxi.md",
+    "Loisirs/Sport/Equipes/Diables Noirs.md",
+    "Loisirs/Sport/Richard Carapaz.md",
     "Loisirs/Sport/Compétitions/Eneco Tour.md",
     "Victor Campenaert.md",
     "Mick van Dijke.md",
-    "Loisirs/Sport/Lotte Kopecky.md",
     "Paul Magnier.md",
-    "Tour de Guangxi.md",
     "Frits Biesterbos.md",
     "Loisirs/Sport/Arnaud de Lie.md",
     "Loisirs/Sport/Lorena Wiebes.md",
@@ -231,12 +236,8 @@
     "Sarah Chaâri.md",
     "Emma Meesseman.md",
     "Jordi Meeus.md",
-    "Milan Fretin.md",
     "Tim Merlier.md",
     "Zizou Bergs.md",
-    "One More Level.md",
-    "Loisirs/Jeux Vidéos/Jeux/Moderne/Valor Mortis.md",
-    "Journal de bord/2026-10-19.md",
     "Attachments/image-850.webp",
     "Attachments/image-849.webp",
     "Attachments/image-848.webp",
@@ -245,7 +246,6 @@
     "Attachments/image-845.webp",
     "Attachments/image-844.webp",
     "Attachments/image-843.webp",
-    "Attachments/image-842.webp",
-    "Attachments/image-841.webp"
+    "Attachments/image-842.webp"
   ]
 }

@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-851.webp|293x176]]
 # Milan Fretin
 
 # Informations Générales
@@ -9,7 +9,7 @@ type: personne
 - **Nationalité** :  Belge
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Cofidis]]
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
@@ -26,6 +26,7 @@ type: personne
 | 2026  | [[Tour du Poitou-Charentes]] - 1ière étape | ==1ier==   |                                      |
 | 2026  | [[Grand Prix de Wallonie]]                 | 3e         |                                      |
 | 2026  | [[Tour de Guangxi]] - 3e étape             | ==🟡1ier== |                                      |
+| 2026  | [[Tour de Guangxi]] - 5e étape             | ==🟡1ier== |                                      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -9,12 +9,13 @@ type: event
 
 ## Hommes
 
-|          | Vainqueur            | Général              | Montagne | Points | Jeune | Remarques            |
-| -------- | -------------------- | -------------------- | -------- | ------ | ----- | -------------------- |
-| 1e (FRA) | [[Paul Magnier]]     | [[Paul Magnier]]     |          |        |       |                      |
-| 2e (NDL) | [[Frits Biesterbos]] | [[Paul Magnier]]     |          |        |       |                      |
-| 3e (BEL) | [[Milan Fretin]]     | [[Frits Biesterbos]] |          |        |       | 3e - [[Jordi Meeus]] |
-| 4e (FRA) | [[Paul Magnier]]     | [[Paul Magnier]]     |          |        |       |                      |
+|                | Vainqueur            | Général              | Montagne | Points | Jeune | Remarques                 |
+| -------------- | -------------------- | -------------------- | -------- | ------ | ----- | ------------------------- |
+| 1e (FRA)       | [[Paul Magnier]]     | [[Paul Magnier]]     |          |        |       |                           |
+| 2e (NDL)       | [[Frits Biesterbos]] | [[Paul Magnier]]     |          |        |       |                           |
+| 3e (==🟡BEL==) | [[Milan Fretin]]     | [[Frits Biesterbos]] |          |        |       | 3e - [[Jordi Meeus]]      |
+| 4e (FRA)       | [[Paul Magnier]]     | [[Paul Magnier]]     |          |        |       |                           |
+| 5e (==🟡BEL==) | [[Milan Fretin]]     | [[Paul Magnier]]     |          |        |       | Chute de [[Paul Magnier]] |
 # General
 
 ### Hommes

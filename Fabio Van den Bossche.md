@@ -15,9 +15,10 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                                 | Résultat | Remarque                   |
 | ----- | --------------------------------------------------------------------------- | -------- | -------------------------- |
-| 2025  | [[Championnat du Monde de Cyclisme sur piste\|Champ.Monde Piste]] - Madison | 1ier     | avec [[Lindsay De Vylder]] |
+| 2024  | [[JO 2024]] - Omnium                                                        | 3e 🥉    |                            |
+| 2025  | [[Championnat du Monde de Cyclisme sur piste\|Champ.Monde Piste]] - Madison | 1ier 🥇  | avec [[Lindsay De Vylder]] |
 | 2025  | [[Six Jours de Gand]]                                                       | 1ier     | avec [[Lindsay De Vylder]] |
-|       |                                                                             |          |                            |
+| 2026  | [[Championnat du Monde de Cyclisme sur piste\|Champ.Monde Piste]] - Omnium  | 2e 🥈    |                            |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -16,6 +16,7 @@ type: personne
 
 | Année | Compétition                                                                                       | Résultat       | Remarque                                                                |
 | ----- | ------------------------------------------------------------------------------------------------- | -------------- | ----------------------------------------------------------------------- |
+| 2026  | [[Championnat du Monde de Cyclisme sur piste\|Champ. Monde Piste]] - Madison                      | 7e             | Avec [[Shari Bossuyt]]                                                  |
 | 2026  | [[Championnat du Monde de Cyclisme sur piste\|Champ. Monde Piste]] - Omnium                       | 7e             |                                                                         |
 | 2026  | [[Championnat du Monde de Cyclisme sur piste\|Champ. Monde Piste]] - Elimination                  | ==🟡1ière 🥇== |                                                                         |
 | 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - Course                                       | 20e            |                                                                         |
