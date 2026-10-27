@@ -15,8 +15,8 @@ type: event
 | --- | ------------------------- | ------------------------- | -------- | ------ | ----- | -------------------------------- |
 | 1e  | [[Juan Sebastian Molano]] | [[Juan Sebastian Molano]] |          |        |       | 3e - [[ Gerben Thijssen]]        |
 | 2e  | [[Baptiste Veistroffer]]  | [[Baptiste Veistroffer]]  |          |        |       |                                  |
-| 3e  | [[Mauro Schmid]]          | [[Mauro Schmid]]          |          |        |       | 24e - [[Niels Driesen]]          |
-| 4e  | [[Erlend Blikra]]         | [[Mauro Schmid]]          |          |        |       | Sprint<br>8e - [[Amaury Capiot]] |
+| 3e  | [[Mauro Schmidt]]          | [[Mauro Schmidt]]          |          |        |       | 24e - [[Niels Driesen]]          |
+| 4e  | [[Erlend Blikra]]         | [[Mauro Schmidt]]          |          |        |       | Sprint<br>8e - [[Amaury Capiot]] |
 | 5e  | [[Christian Scaroni]]     | [[Christian Scaroni]]     |          |        |       | 9e - [[Junior Lecerf]]           |
 ### Femmes
 #### Etapes 

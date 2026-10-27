@@ -13,7 +13,7 @@ type: event
 | 2023  | [[Jenthe Biermans]]   | Belge         |          |
 | 2024  | [[Finn Fisher-Black]] | Néo-zélandais |          |
 | 2025  | [[Rick Pluimers]]     | Néerlandais   |          |
-| 2026  | [[Mauro Schmid]]      | Suisse        |          |
+| 2026  | [[Mauro Schmidt]]      | Suisse        |          |
 |       |                       |               |          |
 # Femmes
 

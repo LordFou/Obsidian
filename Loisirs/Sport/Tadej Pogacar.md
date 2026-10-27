@@ -85,6 +85,10 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - 4 victoires consécutives dans les 5 plus grands monuments cyclistes.
 - 4 victoires à [[Liège-Bastogne-Liège]] dont 3 fois consécutives.
 - Il a le record de la montée de l'[[Alpe d'Huez]] en 35 min 26 secondes
+- Recordman de victoires en 
+	- 2024 => 25 victoires
+	- 2025 => 20 victoires
+	- 2026 => 22 victoires
 
 # Controverses ou Événements Importants
 - Lors de [[Liège-Bastogne-Liège]] 2023, il se fracture le poignet.

@@ -10,7 +10,7 @@ type: event
 
 | Année | Vainqueur        | Nationalité | Remarque |
 | ----- | ---------------- | ----------- | -------- |
-| 2026  | [[Mauro Schmid]] | Suisse      |          |
+| 2026  | [[Mauro Schmidt]] | Suisse      |          |
 |       |                  |             |          |
 # Femmes
 
