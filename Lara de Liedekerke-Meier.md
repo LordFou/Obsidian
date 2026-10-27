@@ -13,9 +13,10 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                          | Résultat | Remarque |
-| ----- | ---------------------------------------------------- | -------- | -------- |
-| 2025  | Circuit international de Concours Complet - Boekeloo | 1iere    | avec Kiarado d’Arville    |
+| Année | Compétition                                                           | Résultat | Remarque               |
+| ----- | --------------------------------------------------------------------- | -------- | ---------------------- |
+| 2025  | Circuit international de Concours Complet - Boekeloo                  | 1iere    | avec Kiarado d’Arville |
+| 2026  | Championnat du Monde de Concours complet pour les chevaux de sept ans |          |                        |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

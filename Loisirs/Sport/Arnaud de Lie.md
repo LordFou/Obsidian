@@ -41,7 +41,7 @@ content: Une nouvelle aventure commence avec l'équipe [[Tudor]]. 35 victoires a
 | 2025  | [[Renewi Tour]] - Classement final      | ==1ier== |                                                             |
 | 2025  | [[Bretagne Classic]]                    | ==1ier== |                                                             |
 | 2025  | [[Grand Prix de Wallonie]]              | ==1ier== | Sprint trèèèèès long                                        |
-| 2025  | [[Flandrien 0.0 Classic]]                     | ==1ier== | Sprint                                                      |
+| 2025  | [[Flandrien 0.0 Classic]]               | ==1ier== | Sprint                                                      |
 | 2025  | [[Paris-Chauny]]                        | ==1ier== | Sprint                                                      |
 |       |                                         |          |                                                             |
 | 2026  | [[Clasica Almeria]]                     | 6e       | Sprint                                                      |
@@ -53,6 +53,7 @@ content: Une nouvelle aventure commence avec l'équipe [[Tudor]]. 35 victoires a
 | 2026  | [[Tour de Wallonie]] - Classement final | 3e       | Bcp de malchance tout le long de l'épreuve                  |
 | 2026  | [[Tour de France]] - 3e étape           | Abandon  |                                                             |
 | 2026  | [[Renewi Tour]]                         | Abandon  | Symptômes respiratoires                                     |
+| 2026  | World Series Gravel - Louvain           | 5e       |                                                             |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

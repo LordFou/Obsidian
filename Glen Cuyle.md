@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                                       | Résultat                | Remarque |
 | ----- | ------------------------------------------------- | ----------------------- | -------- |
 | 2025  | [[Championnat du Monde de Gymnastique]] - Anneaux | Finaliste (7e - 13,933) | Jakarta  |
+| 2026  | [[Championnat du Monde de Gymnastique]] - Anneaux | Finaliste               |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

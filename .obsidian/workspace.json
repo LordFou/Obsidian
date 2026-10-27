@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Equipes/Equipe Belge de Gymnastique.md",
+                "file": "Lara de Liedekerke-Meier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equipe Belge de Gymnastique"
+              "title": "Lara de Liedekerke-Meier"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gymnastique",
+                "query": "Lara de Liedekerke",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,7 +79,8 @@
               "title": "Signets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,12 +211,16 @@
   },
   "active": "ff5e04d1059216ca",
   "lastOpenFiles": [
+    "Loisirs/Sport/Arnaud de Lie.md",
+    "Loisirs/Sport/Equipes/Equipes Belges de Gymnastique.md",
+    "Championnat du Monde de Gymnastique.md",
+    "Loisirs/Sport/Sportifs/Kilian Van der Aa.md",
+    "Loisirs/Sport/Sportifs/Victor Martinez.md",
+    "Glen Cuyle.md",
     "Loisirs/Sport/Equipes/Belgian Bullets.md",
-    "Loisirs/Sport/Equipes/Equipe Belge de Gymnastique.md",
     "Red Rocks.md",
     "Yellow Aces.md",
     "Loisirs/Sport/Equipes/Red Musketeers.md",
-    "Championnat du Monde de Gymnastique.md",
     "Brandon McNulty.md",
     "Coppa Agostini.md",
     "Loisirs/Sport/Compétitions/Veneto Classic.md",
@@ -232,10 +237,6 @@
     "Loisirs/Sport/Sportifs/Stefan Küng.md",
     "Fabio Van den Bossche.md",
     "Lindsay De Vylder.md",
-    "Loisirs/Sport/Sportifs/Jules Hesters.md",
-    "Hélène Hesters.md",
-    "Shari Bossuyt.md",
-    "Journal de bord/2026-10-22.md",
     "Attachments/image-853.webp",
     "Attachments/image-852.webp",
     "Attachments/image-851.webp",
