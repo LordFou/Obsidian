@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                    | Résultat | Remarque |
 | ----- | ------------------------------ | -------- | -------- |
 | 2026  | [[Tour d'Espagne]] - 18e étape | 1ier     | CLM      |
+| 2026  | [[Chrono des Nations]]         | 2e       | CLM      |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

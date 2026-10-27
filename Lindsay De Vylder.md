@@ -13,13 +13,14 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                                 | Résultat   | Remarque                       |
-| ----- | --------------------------------------------------------------------------- | ---------- | ------------------------------ |
-| 2024  | [[Championnat du Monde de Cyclisme sur piste\|Champ.Monde Piste]] - Omnium  | 1ier 🥇    |                                |
-| 2025  | [[Championnat du Monde de Cyclisme sur piste\|Champ.Monde Piste]] - Omnium  | 3e 🥉      |                                |
-| 2025  | [[Championnat du Monde de Cyclisme sur piste\|Champ.Monde Piste]] - Madison | 1ier 🥇    | avec [[Fabio Van den Bossche]] |
-| 2025  | [[Six Jours de Gand]]                                                       | ==🟡1ier== | avec [[Fabio Van den Bossche]] |
-| 2026  | [[Championnat du Monde de Cyclisme sur piste\|Champ.Monde Piste]] - Scratch | 3e 🥉      |                                |
+| Année | Compétition                                                                  | Résultat   | Remarque                       |
+| ----- | ---------------------------------------------------------------------------- | ---------- | ------------------------------ |
+| 2024  | [[Championnat du Monde de Cyclisme sur piste\|Champ.Monde Piste]] - Omnium   | 1ier 🥇    |                                |
+| 2025  | [[Championnat du Monde de Cyclisme sur piste\|Champ.Monde Piste]] - Omnium   | 3e 🥉      |                                |
+| 2025  | [[Championnat du Monde de Cyclisme sur piste\|Champ.Monde Piste]] - Madison  | 1ier 🥇    | avec [[Fabio Van den Bossche]] |
+| 2025  | [[Six Jours de Gand]]                                                        | ==🟡1ier== | avec [[Fabio Van den Bossche]] |
+| 2026  | [[Championnat du Monde de Cyclisme sur piste\|Champ. Monde Piste]] - Scratch | 3e 🥉      |                                |
+| 2026  | [[Championnat du Monde de Cyclisme sur piste\|Champ. Monde Piste]] - Madison | 4e         | avec [[Fabio Van den Bossche]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
