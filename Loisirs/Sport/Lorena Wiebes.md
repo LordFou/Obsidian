@@ -27,20 +27,21 @@ type: personne
 | 2024  | [[Flèche de Gooik Oetingen]]                                                | 1ière          |                                                                  |
 | 2024  | [[Gand Wevelgem]]                                                           | 1ière          |                                                                  |
 |       |                                                                             |                |                                                                  |
-| 2025  | [[Gand Wevelgem]]                                                           | 1ière          |                                                                  |
-| 2025  | [[Tour d'Italie]] - 3e étape                                                | 1iere          | Sprint emmené par [[Lotte Kopecky]]                              |
-| 2025  | [[Tour d'Italie]] - 5e étape                                                | 1ière          | Sprint emmené par [[Lotte Kopecky]]                              |
-| 2025  | [[Tour de France]] - 3e étape                                               | 1ière          | Sprint emmené par [[Lotte Kopecky]]<br>Maillot Vert              |
-| 2025  | [[Tour de France]] - 4e étape                                               | 1ière          | Sprint                                                           |
-| 2025  | [[Tour de France]] - Maillot Vert                                           | 1ière          |                                                                  |
-| 2025  | [[Simac Ladies Tour]] - 1e étape                                            | 1ière          | :luc_plus: Maillot Général                                       |
-| 2025  | [[Simac Ladies Tour]] - 2e étape                                            | 1ière          |                                                                  |
-| 2025  | [[Simac Ladies Tour]] - 3e étape                                            | 1ière          |                                                                  |
-| 2025  | [[Simac Ladies Tour]] - 4e étape                                            | 1ière          |                                                                  |
-| 2025  | [[Simac Ladies Tour]] - 6e étape                                            | 1ière          |                                                                  |
-| 2025  | [[Simac Ladies Tour]] - Classement final                                    | 1ière          |                                                                  |
-| 2025  | [[Binche-Chimay-Binche]]                                                    | 1ière          |                                                                  |
-| 2025  | [[Championnat du monde de Gravel]]                                          | 1ière          |                                                                  |
+| 2025  | [[Gand Wevelgem]]                                                           | ==🟡1ière==    |                                                                  |
+| 2025  | [[Tour d'Italie]] - 3e étape                                                | ==🟡1iere==    | Sprint emmené par [[Lotte Kopecky]]                              |
+| 2025  | [[Tour d'Italie]] - 5e étape                                                | ==🟡1ière==    | Sprint emmené par [[Lotte Kopecky]]                              |
+| 2025  | [[Tour de France]] - 3e étape                                               | ==🟡1ière==    | Sprint emmené par [[Lotte Kopecky]]<br>Maillot Vert              |
+| 2025  | [[Tour de France]] - 4e étape                                               | ==🟡1ière==    | Sprint                                                           |
+| 2025  | [[Tour de France]] - Maillot Vert                                           | ==🟡1ière==    |                                                                  |
+| 2025  | [[Simac Ladies Tour]] - 1e étape                                            | ==🟡1ière==    | :luc_plus: Maillot Général                                       |
+| 2025  | [[Simac Ladies Tour]] - 2e étape                                            | ==🟡1ière==    |                                                                  |
+| 2025  | [[Simac Ladies Tour]] - 3e étape                                            | ==🟡1ière==    |                                                                  |
+| 2025  | [[Simac Ladies Tour]] - 4e étape                                            | ==🟡1ière==    |                                                                  |
+| 2025  | [[Simac Ladies Tour]] - 6e étape                                            | ==🟡1ière==    |                                                                  |
+| 2025  | [[Simac Ladies Tour]] - Classement final                                    | ==🟡1ière==    |                                                                  |
+| 2025  | [[Binche-Chimay-Binche]]                                                    | ==🟡1ière==    |                                                                  |
+| 2025  | [[Championnat du monde de Gravel]]                                          | ==🟡1ière==    |                                                                  |
+| 2025  | [[Eneco Tour]]                                                              | ==🟡1ière==    |                                                                  |
 |       |                                                                             |                |                                                                  |
 | 2026  | [[Omloop Het Nieuwsblad]]                                                   | 3e             |                                                                  |
 | 2026  | ?                                                                           | ==1ière==      |                                                                  |

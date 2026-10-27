@@ -61,6 +61,7 @@ type: personne
 | 2026  | [[Tour de Grande Bretagne]] - 2e étape                     | ==1ier==   |                                                               |
 | 2026  | [[Championnat des Flandres]]                               | ==1ier==   |                                                               |
 | 2026  | [[Eneco Tour]] - 1e étape                                  | ==🟡1ier== |                                                               |
+| 2026  | [[Eneco Tour]] - 5e étape                                  | ==🟡1ier== |                                                               |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
