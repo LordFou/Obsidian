@@ -9,7 +9,9 @@ type: personne
 - **Nationalité** :  Espagnole
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[UAE]]
+- **Équipe(s) / Club(s)** :
+	- [[UAE]] ( -> Fin 2026)
+	- [[Movistar]] (Fin 2026 ->)
 - **Période d’activité** :  
 
 # Palmarès et Distinctions

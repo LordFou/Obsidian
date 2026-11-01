@@ -40,6 +40,7 @@ type: personne
 | 2026  | [[US Open]]                | 1/4 finale     | Victoire contre [[Tomas Barrios Vera]] (ATP 144)<br>Victoire contre [[Argentin Marco Trungelliti]]  (ATP 84)<br>Victoire contre [[Flavio Cobolli]] (ATP 6)<br>Victoire contre [[Francisco Cerundolo]] (ATP 25)<br>Abandon en 1/4<br>==Meilleur résultat en Grand Chelem== |
 | 2026  | [[Tournoi de Tokyo]]       | 1e tour        | Défaite contre [[Valentin Vacherot]] (ATP 18)                                                                                                                                                                                                                             |
 | 2026  | [[Tournoi de Shangaï]]     | 2e tour        |                                                                                                                                                                                                                                                                           |
+| 2026  | [[Tournoi de Bruxelles]]   | Forfait        |                                                                                                                                                                                                                                                                           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
