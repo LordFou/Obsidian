@@ -13,18 +13,20 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                | Ville     | Résultat  | Remarque          |
-| ----- | ---------------------------------------------------------- | --------- | --------- | ----------------- |
-| 2022  | [[Championnat d’Europe de Gymnastique]] - Saut             | Munich    | 4e        |                   |
-| 2023  | [[Championnat d’Europe de Gymnastique]] - Saut             | Antalya   | 3e        |                   |
-|       |                                                            |           |           |                   |
-| 2025  | [[Championnat du Monde de Gymnastique]] - Saut             | Liverpool | 6e        | Premiers Mondiaux |
-| 2025  | [[Championnat d’Europe de Gymnastique]] - Saut             | Leipzig   | 3e        |                   |
-| 2025  | [[Championnat du Monde de Gymnastique]] - Saut             | Jakarta   | 4e        | 13,866            |
-|       |                                                            |           |           |                   |
-| 2026  | [[Championnat d’Europe de Gymnastique]] - Saut             | Zagreb    | 3e        | 13.983            |
-| 2026  | [[Championnat d’Europe de Gymnastique]] - Concours Général | Zagreb    | 14e       |                   |
-| 2026  | World Challenge Cup (Paris) - Saut                         |           | ==1ière== |                   |
+| Année | Compétition                                                              | Ville     | Résultat  | Remarque          |
+| ----- | ------------------------------------------------------------------------ | --------- | --------- | ----------------- |
+| 2022  | [[Championnat d’Europe de Gymnastique]] - Saut                           | Munich    | 4e        |                   |
+| 2023  | [[Championnat d’Europe de Gymnastique]] - Saut                           | Antalya   | 3e        |                   |
+|       |                                                                          |           |           |                   |
+| 2025  | [[Championnat du Monde de Gymnastique]] - Saut                           | Liverpool | 6e        | Premiers Mondiaux |
+| 2025  | [[Championnat d’Europe de Gymnastique]] - Saut                           | Leipzig   | 3e        |                   |
+| 2025  | [[Championnat du Monde de Gymnastique]] - Saut                           | Jakarta   | 4e        | 13,866            |
+|       |                                                                          |           |           |                   |
+| 2026  | [[Championnat d’Europe de Gymnastique]] - Saut                           | Zagreb    | 3e        | 13.983            |
+| 2026  | [[Championnat d’Europe de Gymnastique]] - Concours Général               | Zagreb    | 14e       |                   |
+| 2026  | World Challenge Cup (Paris) - Saut                                       |           | ==1ière== |                   |
+| 2026  | [[Championnat du Monde de Gymnastique\|Champ. Monde]] - Concours Général |           | ?         |                   |
+| 2026  | [[Championnat du Monde de Gymnastique\|Champ. Monde]] - Saut             |           | 9e        |                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

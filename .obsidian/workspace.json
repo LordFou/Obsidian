@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elise Mertens.md",
+                "file": "Lisa Vaelen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elise Mertens"
+              "title": "Lisa Vaelen"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Elise",
+                "query": "Gymn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -211,6 +211,13 @@
   },
   "active": "5319950998b3ebd2",
   "lastOpenFiles": [
+    "Loisirs/Sport/Equipes/Equipes Belges de Gymnastique.md",
+    "Lisa Vaelen.md",
+    "Championnat du Monde de Gymnastique.md",
+    "Attachments/image-855.webp",
+    "Elise Mertens.md",
+    "Tournoi de Wuhan.md",
+    "Tournoi de Ningbo.md",
     "Journal de bord/2026-11-01.md",
     "Baptiste Veistroffer.md",
     "Loisirs/Sport/Tadej Pogacar.md",
@@ -218,8 +225,6 @@
     "Lara de Liedekerke-Meier.md",
     "Attachments/image-854.webp",
     "Loisirs/Sport/Arnaud de Lie.md",
-    "Loisirs/Sport/Equipes/Equipes Belges de Gymnastique.md",
-    "Championnat du Monde de Gymnastique.md",
     "Loisirs/Sport/Sportifs/Kilian Van der Aa.md",
     "Loisirs/Sport/Sportifs/Victor Martinez.md",
     "Glen Cuyle.md",
@@ -234,10 +239,6 @@
     "Loisirs/Sport/Compétitions/Eneco Tour.md",
     "Loisirs/Sport/Sportifs/Sandrine Tas.md",
     "Loisirs/Sport/Sportifs/Marthe Truyen.md",
-    "Christophe Laporte.md",
-    "Victor Campenaert.md",
-    "Tim Merlier.md",
-    "Loisirs/Sport/Sportifs/Remco Evenepoel.md",
     "Attachments/image-853.webp",
     "Attachments/image-852.webp",
     "Attachments/image-851.webp",
@@ -245,7 +246,6 @@
     "Attachments/image-849.webp",
     "Attachments/image-848.webp",
     "Attachments/image-847.webp",
-    "Attachments/image-846.webp",
-    "Attachments/image-845.webp"
+    "Attachments/image-846.webp"
   ]
 }

@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Tournoi de Wuhan
+# Tournoi de Wuhan - WTA 1000
 
 # Introduction
 
