@@ -23,7 +23,10 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Recordman des jours de course en
+	- 2026 (86)
+- Recordman des km en tête en 
+	- 2026 (3136)
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
