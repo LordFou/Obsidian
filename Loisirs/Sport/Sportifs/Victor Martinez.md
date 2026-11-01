@@ -2,7 +2,7 @@
 type: personne
 ---
 
-
+![[image-857.webp|500x281]]
 # Victor Martinez
 
 # Informations Générales  
@@ -15,10 +15,10 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition                                                | Résultat  | Remarque |
-| ----- | ---------------------------------------------------------- | --------- | -------- |
-| 2026  | [[Championnat du Monde de Gymnastique]] - Concours général | Finaliste |          |
-|       |                                                            |           |          |
+| Année | Compétition                                                | Résultat        | Remarque |
+| ----- | ---------------------------------------------------------- | --------------- | -------- |
+| 2026  | [[Championnat du Monde de Gymnastique]] - Concours général | Finaliste (18e) |          |
+|       |                                                            |                 |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
