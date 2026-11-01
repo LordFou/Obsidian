@@ -12,9 +12,11 @@ Femmes => [[Yellow Aces]]
 
 Hommes => [[Red Aces]]
 
-| Année | Epreuve                  | Résultat                 | Remarque                                                                                                                   |
-| ----- | ------------------------ | ------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
-| 2025  | [[Coupe Davis]]          | Retour en division 1 (?) |                                                                                                                            |
-| 2026  | [[United Cup]]           | 1/2 Finale               | Vainqueur du groupe B (Chine, Canada)<br>Victoire contre la Tchéquie (1/4 finale)<br>Défaite contre la Suisse (1/2 finale) |
-| 2026  | [[Coupe Davis]]          | Qualif                   | Vainqueur contre la Bulgarie<br>Défaite contre l'Autriche                                                                  |
+| Année | Epreuve         | Résultat                 | Remarque                                                                                                                   |
+| ----- | --------------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| 2015  | [[Coupe Davis]] | Finale                   | Défaite contre la Grande-Bretagne                                                                                          |
+| 2017  | [[Coupe Davis]] | Finale                   | Défaite contre la France                                                                                                   |
+| 2025  | [[Coupe Davis]] | Retour en division 1 (?) |                                                                                                                            |
+| 2026  | [[United Cup]]  | 1/2 Finale               | Vainqueur du groupe B (Chine, Canada)<br>Victoire contre la Tchéquie (1/4 finale)<br>Défaite contre la Suisse (1/2 finale) |
+| 2026  | [[Coupe Davis]] | Qualif                   | Vainqueur contre la Bulgarie<br>Défaite contre l'Autriche                                                                  |
 

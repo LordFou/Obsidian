@@ -18,8 +18,11 @@ type: personne
 | ----- | ---------------------------------- | ----------------- | --------------------------------------------------------------------------------- |
 | 2012  | [[Roland-Garros]]                  | ==🟡1/8e finale== | Défaite contre [[Roger Federer]]                                                  |
 |       |                                    |                   |                                                                                   |
-| 2017  | Masters 2017                       | ==🟡finale==      | ==🟡Victoire contre [[Rafael Nadal]]==<br>==🟡Victoire contre [[Roger Federer]]== |
-| 2017  | [[Coupe Davis]]                    | ==🟡finale==      | Défaite contre la France                                                          |
+| 2017  | [[Australian Open]]                | ==🟡1/4 finale==  |                                                                                   |
+| 2017  | [[Tournoi de Tokyo]]               | ==🟡Vainqueur==   |                                                                                   |
+| 2017  | ?                                  | ==🟡Vainqueur==   |                                                                                   |
+| 2017  | Masters 2017                       | ==🟡Finale==      | ==🟡Victoire contre [[Rafael Nadal]]==<br>==🟡Victoire contre [[Roger Federer]]== |
+| 2017  | [[Coupe Davis]]                    | ==🟡Finale==      | Défaite contre la France                                                          |
 |       |                                    |                   |                                                                                   |
 | 2025  | [[US Open]]                        | 2e tour           |                                                                                   |
 | 2025  | [[Tournoi de Shangaï]]             | 3e tour           |                                                                                   |
