@@ -2,6 +2,9 @@
 type: team
 ---
 Equipe féminine de foot belge
+
+Entraineuses :
+- Elisabet Gunnarsdottir (2025 -> 2026)
 # Red Flames
 
 # Informations Générales

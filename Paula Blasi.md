@@ -19,6 +19,7 @@ type: personne
 | ----- | ------------------------------------- | --------- | -------- |
 | 2026  | [[Amstel Gold Race]]                  | ==1ière== |          |
 | 2026  | [[Flèche Wallonne]]                   | 3e        |          |
+| 2026  | [[Liège-Bastogne-Liège]]              | 5e        |          |
 | 2026  | [[Tour d'Espagne]] - Classement final | ==1ière== |          |
 | 2026  | [[Tour d'Espagne]] - Maillot Montagne | ==1ière== |          |
 
