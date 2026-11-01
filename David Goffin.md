@@ -24,6 +24,10 @@ type: personne
 | 2017  | Masters 2017                       | ==🟡Finale==      | ==🟡Victoire contre [[Rafael Nadal]]==<br>==🟡Victoire contre [[Roger Federer]]== |
 | 2017  | [[Coupe Davis]]                    | ==🟡Finale==      | Défaite contre la France                                                          |
 |       |                                    |                   |                                                                                   |
+| 2022  | [[Wimbledon]]                      | 1/4 finale        |                                                                                   |
+|       |                                    |                   |                                                                                   |
+| 2023  | [[Tournoi de Marseille]]           | Forfait           | ==🟡Début des pépins physique==                                                   |
+|       |                                    |                   |                                                                                   |
 | 2025  | [[US Open]]                        | 2e tour           |                                                                                   |
 | 2025  | [[Tournoi de Shangaï]]             | 3e tour           |                                                                                   |
 | 2025  | [[Tournoi de Bruxelles]] - Double  | 1e tour           | avec [[Raphaël Collignon]]                                                        |
