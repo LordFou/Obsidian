@@ -11,26 +11,29 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
+- **Top Ranking** : 7 
 
 # Palmarès et Distinctions
-| Année | Compétition                        | Résultat | Remarque                   |
-| ----- | ---------------------------------- | -------- | -------------------------- |
-| 2012  | [[Roland-Garros]]                  |          |                            |
-|       |                                    |          |                            |
-|       |                                    |          |                            |
-| 2025  | [[US Open]]                        | 2e tour  |                            |
-| 2025  | [[Tournoi de Shangaï]]             | 3e tour  |                            |
-| 2025  | [[Tournoi de Bruxelles]] - Double  | 1e tour  | avec [[Raphaël Collignon]] |
-| 2025  | [[Tournoi de Bâle]]                | 1e tour  |                            |
-|       |                                    |          |                            |
-| 2026  | [[Tournoi de Pau]]                 | 1e tour  |                            |
-| 2026  | [[Tournoi de Lille]]               | 1e tour  |                            |
-| 2026  | [[Tournoi Indian Wells]]           | 1e tour  |                            |
-| 2026  | [[Tournoi de Cap Cana]]            | 1e tour  |                            |
-| 2026  | [[Roland-Garros]] - Qualifications | 2e tour  | Dernier [[Roland-Garros]]  |
-| 2026  | [[Wimbledon]] - Qualifications     | 1e tour  |                            |
-| 2026  | [[Tournoi de Saint-Tropez]]        | 1e tour  |                            |
-| 2026  | [[Tournoi de Bruxelles]] - Simple  | 2e tour  | ==🔴FIN DE CARRIERE==      |
+| Année | Compétition                        | Résultat          | Remarque                                                                          |
+| ----- | ---------------------------------- | ----------------- | --------------------------------------------------------------------------------- |
+| 2012  | [[Roland-Garros]]                  | ==🟡1/8e finale== | Défaite contre [[Roger Federer]]                                                  |
+|       |                                    |                   |                                                                                   |
+| 2017  | Masters 2017                       | ==🟡finale==      | ==🟡Victoire contre [[Rafael Nadal]]==<br>==🟡Victoire contre [[Roger Federer]]== |
+| 2017  | [[Coupe Davis]]                    | ==🟡finale==      | Défaite contre la France                                                          |
+|       |                                    |                   |                                                                                   |
+| 2025  | [[US Open]]                        | 2e tour           |                                                                                   |
+| 2025  | [[Tournoi de Shangaï]]             | 3e tour           |                                                                                   |
+| 2025  | [[Tournoi de Bruxelles]] - Double  | 1e tour           | avec [[Raphaël Collignon]]                                                        |
+| 2025  | [[Tournoi de Bâle]]                | 1e tour           |                                                                                   |
+|       |                                    |                   |                                                                                   |
+| 2026  | [[Tournoi de Pau]]                 | 1e tour           |                                                                                   |
+| 2026  | [[Tournoi de Lille]]               | 1e tour           |                                                                                   |
+| 2026  | [[Tournoi Indian Wells]]           | 1e tour           |                                                                                   |
+| 2026  | [[Tournoi de Cap Cana]]            | 1e tour           |                                                                                   |
+| 2026  | [[Roland-Garros]] - Qualifications | 2e tour           | Dernier [[Roland-Garros]]                                                         |
+| 2026  | [[Wimbledon]] - Qualifications     | 1e tour           |                                                                                   |
+| 2026  | [[Tournoi de Saint-Tropez]]        | 1e tour           |                                                                                   |
+| 2026  | [[Tournoi de Bruxelles]] - Simple  | 2e tour           | ==🔴FIN DE CARRIERE==                                                             |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
