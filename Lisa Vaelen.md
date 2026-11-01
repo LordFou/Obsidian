@@ -25,7 +25,7 @@ type: personne
 | 2026  | [[Championnat d’Europe de Gymnastique]] - Saut                           | Zagreb    | 3e        | 13.983            |
 | 2026  | [[Championnat d’Europe de Gymnastique]] - Concours Général               | Zagreb    | 14e       |                   |
 | 2026  | World Challenge Cup (Paris) - Saut                                       |           | ==1ière== |                   |
-| 2026  | [[Championnat du Monde de Gymnastique\|Champ. Monde]] - Concours Général |           | ?         |                   |
+| 2026  | [[Championnat du Monde de Gymnastique\|Champ. Monde]] - Concours Général |           | 20e       |                   |
 | 2026  | [[Championnat du Monde de Gymnastique\|Champ. Monde]] - Saut             |           | 9e        |                   |
 
 # Style et Caractéristiques

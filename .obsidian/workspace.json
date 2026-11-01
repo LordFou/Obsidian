@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Marion Norbert-Riberolle.md",
+                "file": "Loisirs/Sport/Compétitions/Ballon d'Or.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marion Norbert-Riberolle"
+              "title": "Ballon d'Or"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Marion",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,8 +79,7 @@
               "title": "Signets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,6 +210,10 @@
   },
   "active": "5319950998b3ebd2",
   "lastOpenFiles": [
+    "Zizou Bergs.md",
+    "Loisirs/Sport/Compétitions/Ballon d'Or.md",
+    "Lisa Vaelen.md",
+    "Loisirs/Sport/Sportifs/Marion Norbert-Riberolle.md",
     "Dopage dans le sport.md",
     "Loisirs/Sport/Sportifs/Victor Martinez.md",
     "Attachments/image-857.webp",
@@ -221,7 +224,6 @@
     "Yellow Aces.md",
     "Loisirs/Sport/Equipes/Equipe nationale belge de Tennis.md",
     "Rafael Nadal.md",
-    "Zizou Bergs.md",
     "Attachments/image-856.webp",
     "Red Flames.md",
     "Paula Blasi.md",
@@ -230,7 +232,6 @@
     "Alexander Blockx.md",
     "Mauri Vansevenant.md",
     "Loisirs/Sport/Equipes/Equipes Belges de Gymnastique.md",
-    "Lisa Vaelen.md",
     "Championnat du Monde de Gymnastique.md",
     "Attachments/image-855.webp",
     "Elise Mertens.md",
@@ -238,8 +239,6 @@
     "Tournoi de Ningbo.md",
     "Journal de bord/2026-11-01.md",
     "Baptiste Veistroffer.md",
-    "Loisirs/Sport/Tadej Pogacar.md",
-    "Mauro Schmidt.md",
     "Attachments/image-854.webp",
     "Attachments/image-853.webp",
     "Attachments/image-852.webp",

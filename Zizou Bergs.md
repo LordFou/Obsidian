@@ -48,7 +48,7 @@ type: personne
 | 2026  | [[US Open]]                         | 3e tour                | Victoire contre [[Carlos Taberner ]] (ATP 406)<br>Victoire contre [[Jesper De Jong]] (ATP 100)<br>Défaite contre [[Botic Van de Zandschulp]] (ATP 70) |
 | 2026  | [[Tournoi de Tokyo]]                | 1e tour                | Défaite contre [[Jiri Lehecka]] (ATP 23)                                                                                                              |
 | 2026  | [[Tournoi de Shangaï]]              | 1/8 finale             | Victoire contre [[Carlos Alcaraz]] (ATP 2)<br>Défaite contre [[Tommy Paul]] (ATP 17)                                                                  |
-| 2026  | [[Tournoi de Bruxelles]]            | 1/4 finale             | Victoire contre [[Toby Samuel]] (ATP 96)<br>Victoire contre [[Damir Dzumhur]] (ATP 83)<br>                                                            |
+| 2026  | [[Tournoi de Bruxelles]]            | 1/4 finale             | Victoire contre [[Toby Samuel]] (ATP 96)<br>Victoire contre [[Damir Dzumhur]] (ATP 83)<br>Défaite contre [[Jan-Lennard Struff]] (ATP 58)              |
 |       |                                     |                        |                                                                                                                                                       |
 
 # Style et Caractéristiques
