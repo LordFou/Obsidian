@@ -13,11 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                 | Résultat | Remarque |
-| ----- | ------------------------------------------- | -------- | -------- |
-| 2025  | Grand Prix de la Corogne - Concours de saut | 1ier     |          |
-| 2026  | Grand Prix de Doha - Concours de saut       | 3e       |          |
-| 2026  | Grand Prix 5* de saut d’obstacles à Rome    | 2e       |          |
+| Année | Compétition                                 | Résultat   | Remarque    |
+| ----- | ------------------------------------------- | ---------- | ----------- |
+| 2025  | Grand Prix de la Corogne - Concours de saut | ==🟡1ier== |             |
+| 2026  | Grand Prix de Doha - Concours de saut       | 3e         |             |
+| 2026  | Grand Prix 5* de saut d’obstacles à Rome    | 2e         |             |
+| 2026  | Jumping International 5* du Caire           | ==🟡1ier== | avec Casual |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
