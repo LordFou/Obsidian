@@ -14,17 +14,17 @@ type: personne
 - **Top Ranking** : 1ière
 
 # Palmarès et Distinctions
-| Année | Compétition              | Résultat       | Remarque                                        |
-| ----- | ------------------------ | -------------- | ----------------------------------------------- |
-| 2022  | [[Wimbledon]]            | ==Vainqueure== |                                                 |
-| 2023  | [[Australian Open]]      | Finaliste      | Défaite contre [[Aryna Sabalenka]]              |
-| 2025  | [[Masters WTA de Ryad]]  | ==Vainqueure== |                                                 |
-|       |                          |                |                                                 |
-| 2026  | [[Australian Open]]      | ==Vainqueure== | Victoire contre [[Aryna Sabalenka]]             |
-| 2026  | [[Tournoi Indian Wells]] | Finaliste      | Défaite contre [[Aryna Sabalenka]]              |
-| 2026  | [[Roland-Garros]]        | 2e tour        | Défaite contre [[Yulia Starodubtseva]] (WTA 55) |
-| 2026  | [[US Open]]              | ==Vainqueure== | Victoire contre [[Aryna Sabalenka]]             |
-| 2026  | [[Tournoi de Ningbo]]    | Vainqueure     | Victoire contre [[Leylah Fernandez ]](WTA 30)   |
+| Année | Compétition              | Résultat         | Remarque                                        |
+| ----- | ------------------------ | ---------------- | ----------------------------------------------- |
+| 2022  | [[Wimbledon]]            | ==Vainqueure==   |                                                 |
+| 2023  | [[Australian Open]]      | Finaliste        | Défaite contre [[Aryna Sabalenka]]              |
+| 2025  | [[Masters WTA de Ryad]]  | ==Vainqueure==   |                                                 |
+|       |                          |                  |                                                 |
+| 2026  | [[Australian Open]]      | ==Vainqueure==   | Victoire contre [[Aryna Sabalenka]]             |
+| 2026  | [[Tournoi Indian Wells]] | Finaliste        | Défaite contre [[Aryna Sabalenka]]              |
+| 2026  | [[Roland-Garros]]        | 2e tour          | Défaite contre [[Yulia Starodubtseva]] (WTA 55) |
+| 2026  | [[US Open]]              | ==Vainqueure==   | Victoire contre [[Aryna Sabalenka]]             |
+| 2026  | [[Tournoi de Ningbo]]    | ==🟡Vainqueure== | Victoire contre [[Leylah Fernandez ]](WTA 30)   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
