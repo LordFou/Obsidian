@@ -1,16 +1,16 @@
 ---
 type: personne
 ---
-
+![[image-864.webp|200x225]]
 # Stanislas Wawrinka
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  1985
 - **Nationalité** :  Suisse
 - **Sport / Discipline** : [[Tennis]] 
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
-- **Période d’activité** :  - 2026
+- **Période d’activité** :  - Octobre 2026
 
 # Palmarès et Distinctions
 | Année | Compétition          | Résultat  | Remarque               |
