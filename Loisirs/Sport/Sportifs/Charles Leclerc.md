@@ -23,6 +23,8 @@ type: personne
 | 2026  | [[Grand Prix de Grande-Bretagne]] | ==1ier== |          |
 | 2026  | [[Grand Prix de Belgique]]        | 2e       |          |
 | 2026  | [[Grand Prix d'Italie]]           | Abandon  | Crash    |
+| 2026  | [[Grand Prix des USA]] - Course   | 2e       |          |
+|       |                                   |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

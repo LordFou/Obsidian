@@ -14,7 +14,9 @@ type: event
 |       |           |             |          |
 # Femmes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur           | Nationalité | Remarque |
+| ----- | ------------------- | ----------- | -------- |
+| 2021  | [[Alexia Putellas]] | Espagnole   |          |
+| 2022  | [[Alexia Putellas]] | Espagnole   |          |
+| 2026  | [[Alexia Putellas]] | Espagnole   |          |
+|       |                     |             |          |
