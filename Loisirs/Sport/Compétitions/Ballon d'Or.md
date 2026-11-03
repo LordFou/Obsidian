@@ -8,10 +8,10 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur      | Nationalité | Remarque |
+| ----- | -------------- | ----------- | -------- |
+| 2026  | [[Harry Kane]] | Anglais     |          |
+|       |                |             |          |
 # Femmes
 
 | Année | Vainqueur           | Nationalité | Remarque |

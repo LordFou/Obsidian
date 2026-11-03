@@ -23,6 +23,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
 - Quelques heures après le décès de son papa ([[Barry Mitchell]]) en décembre 2025, il preste un match de fou en son hommage  - Oklahoma City contre Los Angeles Clippers (122-101) => 16 points, 7 rebonds, 5 assists et 2 contres en 29 minutes.
+- 30 points en 1 match NBA
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
 
