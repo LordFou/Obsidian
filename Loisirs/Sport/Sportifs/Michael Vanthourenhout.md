@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-860.webp|204x364]]
 # Michael Vanthourenhout
 
 # Informations Générales
@@ -13,14 +13,15 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                | Résultat | Remarque |
-| ----- | ------------------------------------------ | -------- | -------- |
-| 2025  | CXWorldCup - 3e manche - Terralba (Italie) | 1ier     |          |
-| 2026  | [[Championnat de Belgique de Cyclocross]]  | 3e       |          |
-| 2026  | Superprestige - 8e manche - Middelkerke    | 1ier     |          |
-| 2026  | Trophée X2O - Cross de Bruxelles           | 1ier     |          |
-| 2026  | HG Cross - 1e Manche - Dendermonde         | 1ier     |          |
-| 2026  | HG Cross - 2e Manche - Meulebeke           | 1ier     |          |
+| Année | Compétition                                | Résultat   | Remarque |
+| ----- | ------------------------------------------ | ---------- | -------- |
+| 2025  | CXWorldCup - 3e manche - Terralba (Italie) | ==🟡1ier== |          |
+| 2026  | [[Championnat de Belgique de Cyclocross]]  | 3e         |          |
+| 2026  | Superprestige - 8e manche - Middelkerke    | ==🟡1ier== |          |
+| 2026  | Trophée X2O - Cross de Bruxelles           | ==🟡1ier== |          |
+| 2026  | HG Cross - 1e Manche - Dendermonde         | ==🟡1ier== |          |
+| 2026  | HG Cross - 2e Manche - Meulebeke           | ==🟡1ier== |          |
+| 2026  | [[Superprestige]] - Overijse               | ==🟡1ier== |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

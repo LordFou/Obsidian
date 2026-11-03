@@ -16,10 +16,10 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition              | Résultat  | Remarque |
-| ----- | ------------------------ | --------- | -------- |
-| 2026  | [[Tournoi de Bruxelles]] | Finaliste |          |
-|       |                          |           |          |
+| Année | Compétition              | Résultat  | Remarque                              |
+| ----- | ------------------------ | --------- | ------------------------------------ |
+| 2026  | [[Tournoi de Bruxelles]] | Finaliste Défaite contre [[Tallon Griekspoor]] e  |
+|       |                          |                                                   |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

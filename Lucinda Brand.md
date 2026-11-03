@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-227.webp]]
+![[image-227.webp]]   ![[image-859.webp|372x420]]
 # Lucinda Brand
 
 # Informations Générales
