@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leylah Fernandez.md",
+                "file": "Loisirs/Sport/Compétitions/Vélo d'Or.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leylah Fernandez"
+              "title": "Vélo d'Or"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Elise",
+                "query": "Vélo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -211,6 +211,7 @@
   },
   "active": "1f00498c6836810f",
   "lastOpenFiles": [
+    "Leylah Fernandez.md",
     "Elise Mertens.md",
     "Loisirs/Sport/Sportifs/Stanislas Wawrinka.md",
     "Attachments/image-864.webp",
@@ -240,7 +241,6 @@
     "Lionel Bosco.md",
     "Attachments/image-858.webp",
     "Loisirs/Sport/Equipes/Belgian Lions.md",
-    "Leylah Fernandez.md",
     "Tournoi de Singapour.md",
     "Loisirs/Sport/Sportifs/Elena Rybakina.md",
     "Tournoi de Ningbo.md",
