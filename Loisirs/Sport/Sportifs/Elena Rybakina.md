@@ -24,6 +24,7 @@ type: personne
 | 2026  | [[Tournoi Indian Wells]] | Finaliste      | Défaite contre [[Aryna Sabalenka]]              |
 | 2026  | [[Roland-Garros]]        | 2e tour        | Défaite contre [[Yulia Starodubtseva]] (WTA 55) |
 | 2026  | [[US Open]]              | ==Vainqueure== | Victoire contre [[Aryna Sabalenka]]             |
+| 2026  | [[Tournoi de Ningbo]]    | Vainqueure     | Victoire contre [[Leylah Fernandez ]](WTA 30)   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
