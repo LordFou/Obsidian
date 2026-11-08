@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Vélo d'Or.md",
+                "file": "Journal de bord/2026-11-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vélo d'Or"
+              "title": "2026-11-08"
+            }
+          },
+          {
+            "id": "d2ebf9a9af376647",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notes de version 1.15.0"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,8 +222,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f00498c6836810f",
+  "active": "d2ebf9a9af376647",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Vélo d'Or.md",
+    "Journal de bord/2026-11-08.md",
     "Leylah Fernandez.md",
     "Elise Mertens.md",
     "Loisirs/Sport/Sportifs/Stanislas Wawrinka.md",
@@ -242,8 +257,6 @@
     "Attachments/image-858.webp",
     "Loisirs/Sport/Equipes/Belgian Lions.md",
     "Tournoi de Singapour.md",
-    "Loisirs/Sport/Sportifs/Elena Rybakina.md",
-    "Tournoi de Ningbo.md",
     "Attachments/image-857.webp",
     "Attachments/image-856.webp",
     "Attachments/image-855.webp"
