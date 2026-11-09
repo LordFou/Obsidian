@@ -29,8 +29,9 @@ type: event
 ### Hommes
 
 
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur       | Nationalité | Remarque |
+| ----- | --------------- | ----------- | -------- |
+| 2017  | [[Dylan Teuns]] | ==🟡Belge== |          |
+| 2025  |                 |             |          |
+|       |                 |             |          |
 

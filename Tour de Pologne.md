@@ -51,7 +51,8 @@ type: event
 
 | Année | Vainqueur            | Nationalité | Remarque                   |
 | ----- | -------------------- | ----------- | -------------------------- |
-| 2020  | [[Remco Evenepoel]]  | Belge       |                            |
+| 2017  | [[Dylan Teuns]]      | ==🟡Belge==       |                            |
+| 2020  | [[Remco Evenepoel]]  | ==🟡Belge==       |                            |
 | 2024  | [[Jonas Vingegaard]] | Danois      |                            |
 | 2025  | [[Brandon McNulty]]  | Anglais     | 16e - [[Quintens Hermans]] |
 ### Femmes

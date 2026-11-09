@@ -17,8 +17,8 @@ Aussi appelée la "Route cycliste du soleil", "Ruta Del Sol"
 | -------- | ---------------------- | ---------------------- | -------- | ------ | ----- | --------- |
 | 1e (FRA) | [[Christophe Laporte]] | [[Christophe Laporte]] |          |        |       |           |
 | 2e (ESP) | [[Ivan Romeo]]         | [[Ivan Romeo]]         |          |        |       |           |
-| 3e (BEL) | [[Milan Fretin]]       | [[Ivan Romeo]]         |          |        |       |           |
-| 4e (BEL) | [[Tom Crabbe]]         | [[Ivan Romeo]]         |          |        |       | Sprint    |
+| ==🟡3e (BEL)== | [[Milan Fretin]]       | [[Ivan Romeo]]         |          |        |       |           |
+| ==🟡4e (BEL)== | [[Tom Crabbe]]         | [[Ivan Romeo]]         |          |        |       | Sprint    |
 | 5e (ANG) | [[Tom Pidcock]]        | [[Ivan Romeo]]         |          |        |       |           |
 ## Femmes
 
