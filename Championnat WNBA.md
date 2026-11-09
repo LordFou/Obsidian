@@ -6,15 +6,9 @@ type: event
 
 # Introduction
 
-# Hommes
-
-| Année | Vainqueur              | Remarque                                    |
-| ----- | ---------------------- | ------------------------------------------- |
-| 2022  | [[Washington Mystics]] | Présence d'[[Emma Meesseman]] dans l'équipe |
-|       |                        |                                             |
-# Femmes
-
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2025  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur                  | Remarque                                                        |     |
+| ----- | -------------------------- | --------------------------------------------------------------- | --- |
+| 2019  | [[Washington Mystics]]     | Présence d'[[Emma Meesseman]] et [[Kim Mestdagh]] dans l'équipe |     |
+| 2026  | [[Golden State Valkyries]] | 2e année de présence de cette franchise                         |     |
+|       |                            |                                                                 |     |
+|       |                            |                                                                 |     |

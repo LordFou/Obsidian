@@ -1,0 +1,38 @@
+---
+type: personne
+---
+
+
+# Gabrielle Bouvier
+
+# Informations Générales  
+- **Date de naissance** :  
+- **Nationalité** :  Belge
+- **Sport / Discipline** : [[Judo]] 
+- **Poste / Spécialité** (si applicable) :  
+- **Équipe(s) / Club(s)** :  
+- **Période d’activité** :  
+
+# Palmarès et Distinctions  
+
+| Année | Compétition           | Résultat | Remarque |
+| ----- | --------------------- | -------- | -------- |
+| 2023  | Euro - Junior (+ ?kg) | 2e 🥈    |          |
+| 2026  | Euro - U23 (+78kg)    | 2e 🥈    |          |
+|       |                       |          |          |
+
+# Style et Caractéristiques  
+Décrire le style de jeu, les points forts/faibles, les particularités.
+
+# Records et Faits Marquants  
+Lister lebattus, les moments légendaires ou les anecdotes notables.
+
+# Controverses ou Événements Importants  
+Évoquer les polémiques ou moments clés de sa carrière.
+
+# Retraite et Reconversion  
+Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).
+
+| Description | URL |
+| ----------- | --- |
+|             |     |

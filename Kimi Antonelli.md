@@ -39,10 +39,6 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
-
-# Controverses ou Événements Importants
-- Commence la F1 à 17 ans sans son permis
 - Premier podium en 2025 au [[Grand Prix du Canada]] (3e)
 - Grand Prix de Chine 2026
 	- Plus jeune pilote en tête du championnat du Monde (Mars 2026)
@@ -55,6 +51,15 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 		- Le tour le plus rapide. 
 - Premier pilote à glaner ses quatre premiers succès de manière consécutive
 - Premier vainqueur de l’Histoire du Madring ([[Grand Prix de Madrid]])
+
+# Controverses ou Événements Importants
+
+
+# Anecdotes
+- Arrive en F1 à 17 ans sans son permis, il l'aura juste avant le premier Grand Prix.
+- Grid Boy avec… Lewis Hamilton en 2018
+  ![[image-868.webp|500x281]]
+- Il utilise le numéro 12 comme [[Ayrton Senna]]
  
 
 # Retraite et Reconversion
@@ -63,3 +68,6 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 # Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
+
+
+

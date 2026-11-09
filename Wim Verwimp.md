@@ -15,10 +15,10 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
-|       |                       |                            |                  |
+| Année | Compétition                                                  | Résultat | Remarque |
+| ----- | ------------------------------------------------------------ | -------- | -------- |
+| 2026  | Coupe du monde de dressage - Lyon - Reprise libre en musique | 4e       | 80,455%  |
+|       |                                                              |          |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

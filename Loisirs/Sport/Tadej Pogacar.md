@@ -97,7 +97,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - Lors du [[Tour d'Espagne]] 2026, il chute tout seul => [Article RTBF](https://www.rtbf.be/article/tadej-pogacar-a-ete-opere-de-la-clavicule-avec-succes-apres-sa-lourde-chute-sur-la-vuelta-11778044)
 	- Commotion cérébrale
 	- Une fracture déplacée de la clavicule gauche
-	- Une fracture cervicale stable de C7 
+	- Une fracture cervicale stable de C7 - Au final, on parle de 3 vertèbres fracturées.
 	- Multiples abrasions.
 	- FIN DE SAISON
 
