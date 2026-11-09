@@ -29,6 +29,7 @@ type: personne
 | 2026  | Neumünster remix                                           | 2e       |                |
 | 2026  | Championnats du monde - Dressage                           | 5e       |                |
 | 2026  | Championnats du monde - Freestyle                          | 4e       |                |
+| 2026  | Coupe du monde de dressage - Lyon                          | 1ier     | 79,065%        |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

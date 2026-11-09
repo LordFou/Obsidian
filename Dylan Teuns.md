@@ -1,21 +1,22 @@
 ---
 type: personne
 ---
-
+![[image-865.webp|500x281]]
 # Dylan Teuns
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Nationalité** :  Belge
+- **Sport / Discipline** : [[Cyclisme]] 
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
-- **Période d’activité** :  
+- **Équipe(s) / Club(s)** :  [[Cofidis]]
+- **Période d’activité** :    - 2026 (Novembre)
+- Nbr victoires : 14
 
 # Palmarès et Distinctions
 | Année | Compétition           | Résultat                   | Remarque         |
 | ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| 2019  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

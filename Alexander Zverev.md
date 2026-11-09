@@ -11,22 +11,23 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  2013 -> 
-- Top Ranking : 2e
+- Top Ranking : 1e (Novembre 2026)
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat      | Remarque                           |
-| ----- | --------------------- | ------------- | ---------------------------------- |
-| 2018  | [[Tournoi de Madrid]] | ==Vainqueur== |                                    |
-| 2020  | [[US Open]]           | Finaliste     | Défaite contre [[Dominic Thiem]]   |
-| 2021  | [[Tournoi de Madrid]] | ==Vainqueur== |                                    |
-| 2024  | [[Roland-Garros]]     | Finaliste     | Défaite contre [[Carlos Alcaraz]]  |
-| 2025  | [[Australian Open]]   | Finaliste     | Défaite contre [[Carlos Alcaraz]]  |
-|       |                       |               |                                    |
-| 2026  | [[Tournoi de Madrid]] | Finaliste     | Défaite contre [[Jannik Sinner]]   |
-| 2026  | [[Roland-Garros]]     | ==Vainqueur== | Victoire contre [[Flavio Cobolli]] |
-| 2026  | [[Tournoi de Halle]]  | 1/2 finale    |                                    |
-| 2026  | [[Wimbledon]]         | Finaliste     | Défaite contre [[Jannik Sinner]]   |
-| 2026  | [[US Open]]           | ==Vainqueur== | Victoire contre [[Ben Shelton]]    |
+| Année | Compétition           | Résultat      | Remarque                                      |
+| ----- | --------------------- | ------------- | --------------------------------------------- |
+| 2018  | [[Tournoi de Madrid]] | ==Vainqueur== |                                               |
+| 2020  | [[US Open]]           | Finaliste     | Défaite contre [[Dominic Thiem]]              |
+| 2021  | [[Tournoi de Madrid]] | ==Vainqueur== |                                               |
+| 2024  | [[Roland-Garros]]     | Finaliste     | Défaite contre [[Carlos Alcaraz]]             |
+| 2025  | [[Australian Open]]   | Finaliste     | Défaite contre [[Carlos Alcaraz]]             |
+|       |                       |               |                                               |
+| 2026  | [[Tournoi de Madrid]] | Finaliste     | Défaite contre [[Jannik Sinner]]              |
+| 2026  | [[Roland-Garros]]     | ==Vainqueur== | Victoire contre [[Flavio Cobolli]]            |
+| 2026  | [[Tournoi de Halle]]  | 1/2 finale    |                                               |
+| 2026  | [[Wimbledon]]         | Finaliste     | Défaite contre [[Jannik Sinner]]              |
+| 2026  | [[US Open]]           | ==Vainqueur== | Victoire contre [[Ben Shelton]]               |
+| 2026  | [[Tournoi de Vienne]] | 1/4 finale    | Victoire en 1/8e contre [[Tallon Griekspoor]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

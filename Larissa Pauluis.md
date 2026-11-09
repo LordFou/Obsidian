@@ -22,6 +22,8 @@ type: personne
 | 2026  | Grand Prix de Lierre                   | 3e       |                             |
 | 2026  | Grand Prix kür en musique de dressage  | 1ière    |                             |
 | 2026  | Championnats du monde - Dressage       | 20e      |                             |
+| 2026  | Coupe du monde de dressage - Lyon      | 3e       | 74,630%                     |
+|       |                                        |          |                             |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

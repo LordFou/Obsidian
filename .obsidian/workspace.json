@@ -25,12 +25,14 @@
             "id": "d2ebf9a9af376647",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.15.0"
+                "file": "Dylan Teuns.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Notes de version 1.15.0"
+              "icon": "lucide-file",
+              "title": "Dylan Teuns"
             }
           }
         ],
@@ -68,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Vélo",
+                "query": "Dylan Teuns",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -224,6 +226,11 @@
   },
   "active": "d2ebf9a9af376647",
   "lastOpenFiles": [
+    "Attachments/image-865.webp",
+    "Tournoi de Vienne.md",
+    "Alexander Zverev.md",
+    "Larissa Pauluis.md",
+    "Justin Verboomen.md",
     "Loisirs/Sport/Compétitions/Vélo d'Or.md",
     "Journal de bord/2026-11-08.md",
     "Leylah Fernandez.md",
@@ -250,13 +257,8 @@
     "Loisirs/Sport/Sportifs/Gregory Wathelet.md",
     "Loisirs/Sport/Sportifs/Michael Vanthourenhout.md",
     "Attachments/image-860.webp",
-    "Lucinda Brand.md",
     "Attachments/image-859.webp",
-    "Loisirs/Sport/Compétitions/Championnat du Monde de Cyclocross.md",
-    "Lionel Bosco.md",
     "Attachments/image-858.webp",
-    "Loisirs/Sport/Equipes/Belgian Lions.md",
-    "Tournoi de Singapour.md",
     "Attachments/image-857.webp",
     "Attachments/image-856.webp",
     "Attachments/image-855.webp"
