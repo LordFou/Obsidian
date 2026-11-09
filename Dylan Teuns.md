@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-865.webp|500x281]]
+![[image-866.webp|404x520]]     ![[image-865.webp|500x281]]
 # Dylan Teuns
 
 # Informations Générales

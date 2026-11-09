@@ -13,23 +13,24 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                | Résultat | Remarque       |
-| ----- | ---------------------------------------------------------- | -------- | -------------- |
-| 2025  | Grand Prix Freestyle au Festival mondial d'Aix-la-Chapelle | 1ier     | 89,4 %         |
-| 2025  | [[Championnats d’Europe de dressage]] - Grand Prix Spécial | 1ier     | 82.371 %       |
-| 2025  | [[Championnats d’Europe de dressage]] - Freestyle          | 1ier     | 89.964 %       |
-| 2025  | [[Championnats d’Europe de dressage]] - Individuel         | 1ier     |                |
-| 2025  | Classement Mondial                                         | 1ier     | Septembre 2025 |
-| 2025  | Grand Prix de Lyon                                         | 1ier     |                |
-| 2025  | Coupe du monde de dressage de Lyon,                        | 1ier     |                |
-| 2025  | Meilleur athlète équestre au monde                         | 1ier     |                |
-| 2025  | Grand Prix du Top douze de dressage à Francfort            | 1ier     |                |
-| 2025  | Top 12 de dressage à Frankfurt                             | 1ier     |                |
-| 2026  | Grand Prix de Neumünster                                   | 1ier     |                |
-| 2026  | Neumünster remix                                           | 2e       |                |
-| 2026  | Championnats du monde - Dressage                           | 5e       |                |
-| 2026  | Championnats du monde - Freestyle                          | 4e       |                |
-| 2026  | Coupe du monde de dressage - Lyon                          | 1ier     | 79,065%        |
+| Année | Compétition                                                  | Résultat | Remarque       |
+| ----- | ------------------------------------------------------------ | -------- | -------------- |
+| 2025  | Grand Prix Freestyle au Festival mondial d'Aix-la-Chapelle   | 1ier     | 89,4 %         |
+| 2025  | [[Championnats d’Europe de dressage]] - Grand Prix Spécial   | 1ier     | 82.371 %       |
+| 2025  | [[Championnats d’Europe de dressage]] - Freestyle            | 1ier     | 89.964 %       |
+| 2025  | [[Championnats d’Europe de dressage]] - Individuel           | 1ier     |                |
+| 2025  | Classement Mondial                                           | 1ier     | Septembre 2025 |
+| 2025  | Grand Prix de Lyon                                           | 1ier     |                |
+| 2025  | Coupe du monde de dressage de Lyon,                          | 1ier     |                |
+| 2025  | Meilleur athlète équestre au monde                           | 1ier     |                |
+| 2025  | Grand Prix du Top douze de dressage à Francfort              | 1ier     |                |
+| 2025  | Top 12 de dressage à Frankfurt                               | 1ier     |                |
+| 2026  | Grand Prix de Neumünster                                     | 1ier     |                |
+| 2026  | Neumünster remix                                             | 2e       |                |
+| 2026  | Championnats du monde - Dressage                             | 5e       |                |
+| 2026  | Championnats du monde - Freestyle                            | 4e       |                |
+| 2026  | Coupe du monde de dressage - Lyon - Grand Prix               | 1ier     | 79,065%        |
+| 2026  | Coupe du monde de dressage - Lyon - Reprise libre en musique | 2e       | 85,810%        |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

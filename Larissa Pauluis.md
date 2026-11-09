@@ -13,17 +13,18 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                            | Résultat | Remarque                    |
-| ----- | -------------------------------------- | -------- | --------------------------- |
-| 2025  | Grand Prix de dressage à Stuttgart     | 4e       | 71,804 %                    |
-| 2025  | Grand Prix Libre de dressage à Malines | 1ière    | 82.975 % - Record personnel |
-| 2026  | Grand Prix de Neumünster               | 2e       |                             |
-| 2026  | Neumünster remix                       | 1ière    |                             |
-| 2026  | Grand Prix de Lierre                   | 3e       |                             |
-| 2026  | Grand Prix kür en musique de dressage  | 1ière    |                             |
-| 2026  | Championnats du monde - Dressage       | 20e      |                             |
-| 2026  | Coupe du monde de dressage - Lyon      | 3e       | 74,630%                     |
-|       |                                        |          |                             |
+| Année | Compétition                                                  | Résultat | Remarque                    |
+| ----- | ------------------------------------------------------------ | -------- | --------------------------- |
+| 2025  | Grand Prix de dressage à Stuttgart                           | 4e       | 71,804 %                    |
+| 2025  | Grand Prix Libre de dressage à Malines                       | 1ière    | 82.975 % - Record personnel |
+| 2026  | Grand Prix de Neumünster                                     | 2e       |                             |
+| 2026  | Neumünster remix                                             | 1ière    |                             |
+| 2026  | Grand Prix de Lierre                                         | 3e       |                             |
+| 2026  | Grand Prix kür en musique de dressage                        | 1ière    |                             |
+| 2026  | Championnats du monde - Dressage                             | 20e      |                             |
+| 2026  | Coupe du monde de dressage - Lyon - Grand Prix               | 3e       | 74,630%                     |
+| 2026  | Coupe du monde de dressage - Lyon - Reprise libre en musique | 3e       | 80,530%                     |
+|       |                                                              |          |                             |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -13,27 +13,28 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition               | Résultat      | Remarque                                                                                                |
-| ----- | ------------------------- | ------------- | ------------------------------------------------------------------------------------------------------- |
-| 2007  | [[Tournoi de Montréal]]   | ==Vainqueur== |                                                                                                         |
-| 2011  | [[Tournoi de Montréal]]   | ==Vainqueur== |                                                                                                         |
-| 2012  | [[Tournoi de Montréal]]   | ==Vainqueur== |                                                                                                         |
-|       |                           |               |                                                                                                         |
-| 2016  | [[Tournoi de Montréal]]   | ==Vainqueur== |                                                                                                         |
-| 2016  | [[Roland-Garros]]         | ==Vainqueur== |                                                                                                         |
-| 2021  | [[Roland-Garros]]         | ==Vainqueur== |                                                                                                         |
-| 2023  | [[Roland-Garros]]         | ==Vainqueur== |                                                                                                         |
-|       |                           |               |                                                                                                         |
-| 2026  | [[Australian Open]]       | Finaliste     | Défaite contre [[Carlos Alcaraz]]                                                                       |
-| 2026  | [[Tournoi Indian Wells]]  | 1/8e finale   |                                                                                                         |
-| 2026  | [[Tournoi de Rome]]       | 1e tour       |                                                                                                         |
-| 2026  | [[Roland-Garros]]         | 3e tour       |                                                                                                         |
-| 2026  | [[Wimbledon]]             | 1/2 finale    | Victoire contre [[Felix Auger-Aliassime]] (ATP 4)<br>Défaite contre [[Jannik Sinner]] en demi (ATP 1    |
-| 2026  | [[Tournoi de Montréal]]   | Forfait       |                                                                                                         |
-| 2026  | [[Tournoi de Cincinnati]] | 1e tour       |                                                                                                         |
-| 2026  | [[US Open]]               | 1e tour       | Plus éliminé au 1ier tour d'un [[Grand Chelem]] depuis 2026                                             |
-| 2026  | [[Tournoi de Pékin]]      | Vainqueur     | Victoire contre [[Alexander Zverev]] en 1/4 finale<br>Victoire contre [[Daniil Medvedev]] en 1/2 finale |
-| 2026  | [[Tournoi de Shangaï]]    | 2e tour       |                                                                                                         |
+| Année | Compétition               | Résultat        | Remarque                                                                                                |
+| ----- | ------------------------- | --------------- | ------------------------------------------------------------------------------------------------------- |
+| 2007  | [[Tournoi de Montréal]]   | ==Vainqueur==   |                                                                                                         |
+| 2011  | [[Tournoi de Montréal]]   | ==Vainqueur==   |                                                                                                         |
+| 2012  | [[Tournoi de Montréal]]   | ==Vainqueur==   |                                                                                                         |
+|       |                           |                 |                                                                                                         |
+| 2016  | [[Tournoi de Montréal]]   | ==Vainqueur==   |                                                                                                         |
+| 2016  | [[Roland-Garros]]         | ==Vainqueur==   |                                                                                                         |
+| 2021  | [[Roland-Garros]]         | ==Vainqueur==   |                                                                                                         |
+| 2023  | [[Roland-Garros]]         | ==Vainqueur==   |                                                                                                         |
+|       |                           |                 |                                                                                                         |
+| 2026  | [[Australian Open]]       | Finaliste       | Défaite contre [[Carlos Alcaraz]]                                                                       |
+| 2026  | [[Tournoi Indian Wells]]  | 1/8e finale     |                                                                                                         |
+| 2026  | [[Tournoi de Rome]]       | 1e tour         |                                                                                                         |
+| 2026  | [[Roland-Garros]]         | 3e tour         |                                                                                                         |
+| 2026  | [[Wimbledon]]             | 1/2 finale      | Victoire contre [[Felix Auger-Aliassime]] (ATP 4)<br>Défaite contre [[Jannik Sinner]] en demi (ATP 1    |
+| 2026  | [[Tournoi de Montréal]]   | Forfait         |                                                                                                         |
+| 2026  | [[Tournoi de Cincinnati]] | 1e tour         |                                                                                                         |
+| 2026  | [[US Open]]               | 1e tour         | Plus éliminé au 1ier tour d'un [[Grand Chelem]] depuis 2026                                             |
+| 2026  | [[Tournoi de Pékin]]      | ==🟡Vainqueur== | Victoire contre [[Alexander Zverev]] en 1/4 finale<br>Victoire contre [[Daniil Medvedev]] en 1/2 finale |
+| 2026  | [[Tournoi de Shangaï]]    | 2e tour         |                                                                                                         |
+| 2026  | [[Tournoi de Bâle]]       | 2e tour         | Défaite contre [[Jan-Lennard Struff]]                                                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -33,6 +33,7 @@ type: personne
 | 2026  | [[Grand Prix d'Azerbaïdjan]] - Course      | 5e         |                                  |
 | 2026  | [[Grand Prix de Bahreïn]] - Course         | 2e         |                                  |
 | 2026  | [[Grand Prix des USA]] - Course            | ==🟡1ier== |                                  |
+| 2026  | [[Championnat du Monde de F1]]             | ==🟡1ier== |                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

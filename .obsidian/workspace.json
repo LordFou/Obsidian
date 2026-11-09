@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f00498c6836810f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal de bord/2026-11-08.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-11-08"
-            }
-          },
-          {
             "id": "d2ebf9a9af376647",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dylan Teuns.md",
+                "file": "Larissa Pauluis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dylan Teuns"
+              "title": "Larissa Pauluis"
+            }
+          },
+          {
+            "id": "45c6e7f5ee6526ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wim Verwimp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wim Verwimp"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ruta del Sol",
+                "query": "Wim Verwimp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -224,10 +224,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d2ebf9a9af376647",
+  "active": "45c6e7f5ee6526ed",
   "lastOpenFiles": [
-    "Loisirs/Sport/Compétitions/Tour d'Andalousie.md",
+    "Wim Verwimp.md",
+    "Larissa Pauluis.md",
+    "Journal de bord/2026-11-08.md",
+    "Justin Verboomen.md",
+    "Kimi Antonelli.md",
+    "Formule 1.md",
+    "Loisirs/Sport/Compétitions/Championnat du Monde de F1.md",
+    "Loisirs/Sport/Compétitions/Novak Djokovic.md",
+    "Tournoi de Bâle.md",
     "Dylan Teuns.md",
+    "Attachments/image-866.webp",
+    "Loisirs/Sport/Compétitions/Tour d'Andalousie.md",
     "Loisirs/Sport/Arctic Race.md",
     "Tour de Wallonie.md",
     "Tour de Pologne.md",
@@ -235,32 +245,22 @@
     "Attachments/image-865.webp",
     "Tournoi de Vienne.md",
     "Alexander Zverev.md",
-    "Larissa Pauluis.md",
-    "Justin Verboomen.md",
     "Loisirs/Sport/Compétitions/Vélo d'Or.md",
-    "Journal de bord/2026-11-08.md",
     "Leylah Fernandez.md",
     "Elise Mertens.md",
     "Loisirs/Sport/Sportifs/Stanislas Wawrinka.md",
     "Attachments/image-864.webp",
     "Zizou Bergs.md",
-    "Tournoi de Bâle.md",
     "Loisirs/Sport/Sportifs/Ajay Mitchell.md",
     "Harry Kane.md",
     "Attachments/image-863.webp",
     "Loisirs/Sport/Compétitions/Ballon d'Or.md",
     "Alexia Putellas.md",
     "Attachments/image-862.webp",
-    "Loisirs/Sport/Sportifs/Tessa Wullaert.md",
-    "Max Verstappen.md",
-    "Loisirs/Sport/Sportifs/Charles Leclerc.md",
-    "Kimi Antonelli.md",
-    "Loisirs/Sport/Compétitions/Grand Prix des USA.md",
     "Attachments/image-861.webp",
     "Attachments/image-860.webp",
     "Attachments/image-859.webp",
     "Attachments/image-858.webp",
-    "Attachments/image-857.webp",
-    "Attachments/image-856.webp"
+    "Attachments/image-857.webp"
   ]
 }
