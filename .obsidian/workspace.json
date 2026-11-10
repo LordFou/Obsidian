@@ -25,12 +25,14 @@
             "id": "157558cdb6288c53",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.14.4"
+                "file": "Journal de bord/2026-11-10.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Notes de version 1.14.4"
+              "icon": "lucide-file",
+              "title": "2026-11-10"
             }
           }
         ],
@@ -220,6 +222,7 @@
   },
   "active": "157558cdb6288c53",
   "lastOpenFiles": [
+    "Journal de bord/2026-11-10.md",
     "Alexander Blockx.md",
     "Journal de bord/2026-10-12.md",
     "Loisirs/Sport/Sportifs/Jiri Lehecka.md",
@@ -250,7 +253,6 @@
     "Winter Crew Studios.md",
     "Tournoi de Saint-Tropez.md",
     "Tour de la Lunigiana.md",
-    "Tori.md",
     "Attachments/image-834.webp",
     "Attachments/image-833.webp",
     "Attachments/image-832.webp",
