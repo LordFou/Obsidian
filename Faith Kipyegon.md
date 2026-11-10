@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                    | Résultat | Remarque |
 | ----- | ---------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 1500m | 1ière    |          |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 1500m | 1ière    |          |
 |       |                                                |          |          |
 
 # Style et Caractéristiques

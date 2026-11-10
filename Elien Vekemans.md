@@ -17,7 +17,7 @@ type: personne
 | ----- | ------------------------------------------------------------ | ------------------ | -------- |
 | 2025  | World Athletics Continental Tour de Turku - Saut à la perche | Record de Belgique | 4m67     |
 | 2025  | Concours de Jockgrim en Allemagne - Saut à la perche         | Record de Belgique | 4m73     |
-| 2025  | [[Championnats du monde d'athlétisme]] - Saut à la perche    | Eliminé en qualif  | 4m45     |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - Saut à la perche    | Eliminé en qualif  | 4m45     |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - Saut à la perche    | 4e (Finale)        | 4m60     |
 
 # Style et Caractéristiques

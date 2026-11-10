@@ -63,4 +63,9 @@ date: Aout 2026
 title: Drame sur le [[Tour du Portugal]]
 content: Le monde du cyclisme est en deuil. L’ogranisation du Tour du Portugal a annoncé ce vendredi le décès de [[Finlay Tarling]]. Âgé de 19 ans, le coureur de la formation NSN Development a été tué dans accident pendant la huitième étape. Le jeune coureur, qui se trouvait un peu en retrait du peloton, a été percuté par une voiture qui circulait en sens inverse
 ![[image-774.webp|500x281]]
+
+date: Novembre 2026
+title: Drame en athlétisme
+content: Championne d'Europe sur 1.500m en 2024 à Rome, [[Ciara Mageean]] est décédée à l'âge de 34 ans, des suites d'un cancer.
+![[image-869.webp|500x281]]
 ```

@@ -16,9 +16,9 @@ type: personne
 | Année | Compétition                                           | Résultat    | Remarque                               |
 | ----- | ----------------------------------------------------- | ----------- | -------------------------------------- |
 | 2025  | [[Championnats d'Europe d'athlétisme]] - 4x400m mixte | 2e          |                                        |
-| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m mixte | 3e          |                                        |
-| 2025  | [[Championnats du monde d'athlétisme]] - 200m         | Demi-finale | 22.74s (Série)<br>22.79s (Demi-finale) |
-| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m       | Finale (4e) | sous la pluie                          |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 4x400m mixte | 3e          |                                        |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 200m         | Demi-finale | 22.74s (Série)<br>22.79s (Demi-finale) |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 4x400m       | Finale (4e) | sous la pluie                          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

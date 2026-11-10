@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                               | Résultat | Remarque |
 | ----- | --------------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - Lancer du disque | 1ier     |          |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - Lancer du disque | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

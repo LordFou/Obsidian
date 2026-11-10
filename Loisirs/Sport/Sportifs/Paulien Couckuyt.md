@@ -18,7 +18,7 @@ type: personne
 | 2021  | [[JO 2020]] - 400m Haies                            | Demi-finale (9e)  |                                            |
 | 2022  | [[Championnats d'Europe d'athlétisme]] - 400m Haies | Demi-finale (13e) |                                            |
 | 2024  | [[Championnats d'Europe d'athlétisme]] - 400m Haies | Demi-finale (15e) |                                            |
-| 2025  | [[Championnats du monde d'athlétisme]] - 400m Haies | Demi-finale       | 55.08                                      |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 400m Haies | Demi-finale       | 55.08                                      |
 |       |                                                     |                   |                                            |
 | 2026  | Nuit de l'Athlétisme - Heusden-Zolder - 300m haies  |                   | 38.66 (==Record de Belgique==)             |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - 400m Haies | 4e (Finale)       | 53.87 (Demi-Finale) (PB)<br>53.87 (Finale) |

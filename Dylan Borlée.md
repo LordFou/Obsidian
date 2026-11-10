@@ -16,8 +16,8 @@ type: personne
 | Année | Compétition                                                         | Résultat | Remarque                        |
 | ----- | ------------------------------------------------------------------- | -------- | ------------------------------- |
 | 2025  | [[Meeting de Berne]] - 400m                                         | 1ier     | à 1/100 de son record personnel |
-| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 4x400m mixte | 3e       |                                 |
-| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 4x400m       | 4e       |                                 |
+| 2025  | [[Championnats du Monde d'Athlétisme\|Champ. Monde]] - 4x400m mixte | 3e       |                                 |
+| 2025  | [[Championnats du Monde d'Athlétisme\|Champ. Monde]] - 4x400m       | 4e       |                                 |
 |       |                                                                     |          |                                 |
 | 2026  | [[World Relays]] - 4x400m messieurs                                 | 7e       | avec les [[Belgian Tornados]]   |
 | 2026  | Meeting de Madrid - Silver - 400m                                   | 5e       | 45.73                           |

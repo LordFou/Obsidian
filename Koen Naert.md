@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                       | Résultat | Remarque |
 | ----- | ------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - Marathon | 17e      |          |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - Marathon | 17e      |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -18,7 +18,7 @@ type: personne
 | Année | Compétition                             | Résultat | Remarque   |
 | ----- | --------------------------------------- | -------- | ---------- |
 | 2024  | [[JO 2024]]                             | 1ière    |            |
-| 2025  | [[Championnats du monde d'athlétisme]]  | 1ière    |            |
+| 2025  | [[Championnats du Monde d'Athlétisme]]  | 1ière    |            |
 | 2026  | Ligue de Diamant de Zurich - 100m Haies | 1ière    | 12.09 (WR) |
 | 2026  | [[Ultimate Championship]] - 100m Haies  | 1ière    | 12.22      |
 

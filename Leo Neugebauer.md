@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                        | Résultat | Remarque |
 | ----- | -------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - Décathlon | 1ier     |          |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - Décathlon | 1ier     |          |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - Décathlon | 1ier     | 8611 pts |
 
 # Style et Caractéristiques

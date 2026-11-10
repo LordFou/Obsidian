@@ -15,8 +15,8 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                       | Résultat | Remarque |
 | ----- | ----------------------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 100m (T51) | 2e       |          |
-| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 200m (T51) | 2e       |          |
+| 2025  | [[Championnats du Monde d'Athlétisme\|Champ. Monde]] - 100m (T51) | 2e       |          |
+| 2025  | [[Championnats du Monde d'Athlétisme\|Champ. Monde]] - 200m (T51) | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

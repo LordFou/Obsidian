@@ -24,9 +24,9 @@ type: personne
 | 2025  | CXWorldCup - 3e manche - Terralba (Italie)                               | ==🟡1ière== |          |
 | 2025  | CXWorldCup - [[Cyclocross de la Citadelle de Namur\|Citadelle de Namur]] | ==🟡1ière== |          |
 | 2025  | CXWorldCup - 6e manche - [[Cross des dunes]]                             | ==🟡1ière== |          |
-| 2025  | X2O - Cross Hofstade                                                     | ==🟡1ière== |          |
+| 2025  | Trophée X2O - Cross Hofstade                                             | ==🟡1ière== |          |
 | 2025  | CXWorldCup - 7e manche - Cross de Gavere                                 | ==🟡1ière== |          |
-| 2025  | X2O - Cross Baal                                                         | ==🟡1ière== |          |
+| 2025  | Trophée X2O - Cross Baal                                                 | ==🟡1ière== |          |
 | 2025  | Cross de Loenhout                                                        | ==🟡1ière== |          |
 |       |                                                                          |             |          |
 | 2026  | Coupe du Monde - Cross de Zonhoven                                       | 2e          |          |
@@ -36,6 +36,8 @@ type: personne
 | 2026  | Exact Cross de Saint-Nicolas                                             | ==🟡1ière== |          |
 | 2026  | Trophée X2O - Classement Final                                           | ==🟡1ière== |          |
 | 2026  | [[Superprestige]] - Overijse                                             | ==🟡1ière== |          |
+| 2026  | Trophée X2O – Koppenbergcross (Audenarde)                                | ==🟡1ière== |          |
+|       |                                                                          |             |          |
 
 
 # Style et Caractéristiques

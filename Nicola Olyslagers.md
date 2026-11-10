@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                              | Résultat | Remarque      |
 | ----- | -------------------------------------------------------- | -------- | ------------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - Saut en hauteur | 1iere    | sous la pluie |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - Saut en hauteur | 1iere    | sous la pluie |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -17,8 +17,8 @@ type: personne
 | ----- | ---------------------------------------------- | -------- | -------- |
 | 2025  | [[JO 2024]] - 5000m                            | 1ière    |          |
 | 2025  | [[JO 2024]] - 10km                             | 1ière    |          |
-| 2025  | [[Championnats du monde d'athlétisme]] - 5000m | 1ière    |          |
-| 2025  | [[Championnats du monde d'athlétisme]] - 10km  | 1ière    |          |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 5000m | 1ière    |          |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 10km  | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

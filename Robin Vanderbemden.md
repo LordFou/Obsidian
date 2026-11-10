@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                     | Résultat    | Remarque                      |
 | ----- | ----------------------------------------------- | ----------- | ----------------------------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m | Finale - 4e |                               |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 4x400m | Finale - 4e |                               |
 | 2026  | [[World Relays]] - 4x400m messieurs             | 7e          | avec les [[Belgian Tornados]] |
 
 # Style et Caractéristiques

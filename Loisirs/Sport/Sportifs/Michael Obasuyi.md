@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                                        | Résultat         | Remarque                        |
 | ----- | ---------------------------------------------------------------------------------- | ---------------- | ------------------------------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 110m haies                                | Eliminé en série | 13,54s                          |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 110m haies                                | Eliminé en série | 13,54s                          |
 | 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - 60m haies | Demi-finale      |                                 |
 | 2026  | Ligue de Diamant - Paris - 110m haies                                              | 3e (Série)       | 13.16s + ==Record de Belgique== |
 | 2026  | [[Championnats d'Europe d'athlétisme\|Champ. Europe]]                              | Forfait          |                                 |

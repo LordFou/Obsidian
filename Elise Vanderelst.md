@@ -17,7 +17,7 @@ type: personne
 | ----- | -------------------------------------------------------------------- | -------- | ------------------ |
 | 2025  | [[Meeting de Liège]] - 5000m                                         | 4e       | Record de Belgique |
 | 2025  | [[Championnat de Belgique d'Athlétisme\|Champ. de Belgique]] - 5000m | 1e       |                    |
-| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 10km          | 19e      |                    |
+| 2025  | [[Championnats du Monde d'Athlétisme\|Champ. Monde]] - 10km          | 19e      |                    |
 | 2026  | [[Championnats d'Europe d'athlétisme\|Champ. Europe]] - 5000m        | 21e      |                    |
 |       |                                                                      |          |                    |
 

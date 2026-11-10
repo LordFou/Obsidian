@@ -15,9 +15,9 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                            | Résultat | Remarque  |
 | ----- | -------------------------------------- | -------- | --------- |
-| ?     | [[Championnats du monde d'athlétisme]] | 1ier     |           |
-| ?     | [[Championnats du monde d'athlétisme]] | 1ier     |           |
-| 2025  | [[Championnats du monde d'athlétisme]] | 1ier     | 6m30 (WR) |
+| ?     | [[Championnats du Monde d'Athlétisme]] | 1ier     |           |
+| ?     | [[Championnats du Monde d'Athlétisme]] | 1ier     |           |
+| 2025  | [[Championnats du Monde d'Athlétisme]] | 1ier     | 6m30 (WR) |
 | 2026  | [[Championnats d'Europe d'athlétisme]] | 1ier     | 6m15 (CR) |
 | 2026  | [[Memorial Ivo Van Damme]]             | Forfait  |           |
 | 2026  | [[Ultimate Championship]]              | 1ier     | 6m20      |

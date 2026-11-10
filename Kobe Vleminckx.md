@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                     | Résultat | Remarque         |
 | ----- | ----------------------------------------------- | -------- | ---------------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 4x100m | 10e      | Eliminé en série |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 4x100m | 10e      | Eliminé en série |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

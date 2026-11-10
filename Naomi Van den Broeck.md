@@ -15,15 +15,15 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                         | Résultat    | Remarque                                                                       |
 | ----- | --------------------------------------------------- | ----------- | ------------------------------------------------------------------------------ |
-| 2025  | [[Championnats du monde d'athlétisme]] - 400m Haies | Finale (6e) | 54.70 (Série)<br>53,65 (Demi-finale) => Record de Belgique !<br>53,70 (Finale) |
-| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m     | Finale (4e) | sous la pluie                                                                  |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 400m Haies | Finale (6e) | 54.70 (Série)<br>53,65 (Demi-finale) => Record de Belgique !<br>53,70 (Finale) |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 4x400m     | Finale (4e) | sous la pluie                                                                  |
 | 2026  | [[Spike d'or]]                                      | Vainqueur   |                                                                                |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-- Record de Belgique sur 400m Haies en 53.65 lors du [[Championnats du monde d'athlétisme]] 2025 à Tokyo
+- Record de Belgique sur 400m Haies en 53.65 lors du [[Championnats du Monde d'Athlétisme]] 2025 à Tokyo
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

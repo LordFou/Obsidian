@@ -17,7 +17,7 @@ type: personne
 | ----- | ----------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------ |
 | 2025  | Championnats d'Europe d'athlétisme - Nankin (Chine) - 800m                    | 2e          |                                                              |
 | 2025  | [[Meeting de Berne]] - 800m                                                   | 1ier        |                                                              |
-| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 800                    | Demi-finale | Série (1:45.05)                                              |
+| 2025  | [[Championnats du Monde d'Athlétisme\|Champ. Monde]] - 800                    | Demi-finale | Série (1:45.05)                                              |
 |       |                                                                               |             |                                                              |
 | 2026  | Meeting indoor d’Ostrava - 800m                                               | 1ier        | 1:43.83 <br>==Record de Belgique==                           |
 | 2026  | Championnat de Belgique d'athlétisme en salle - 800m                          | 1ier        |                                                              |

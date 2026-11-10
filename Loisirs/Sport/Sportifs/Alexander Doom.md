@@ -15,9 +15,9 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                                                               | Résultat         | Remarque                      |
 | ----- | ----------------------------------------------------------------------------------------- | ---------------- | ----------------------------- |
-| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 4x400m mixte                       | 3e               |                               |
-| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 400m                               | Eliminé en série | 45,10s                        |
-| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 4x400m                             | 4e               | avec les [[Belgian Tornados]] |
+| 2025  | [[Championnats du Monde d'Athlétisme\|Champ. Monde]] - 4x400m mixte                       | 3e               |                               |
+| 2025  | [[Championnats du Monde d'Athlétisme\|Champ. Monde]] - 400m                               | Eliminé en série | 45,10s                        |
+| 2025  | [[Championnats du Monde d'Athlétisme\|Champ. Monde]] - 4x400m                             | 4e               | avec les [[Belgian Tornados]] |
 |       |                                                                                           |                  |                               |
 | 2026  | [[Championnats du monde d'athlétisme en salle\|Champ. Monde en salle]] - 4x400m messieurs | 2e               | avec les [[Belgian Tornados]] |
 | 2026  | [[World Relays]] - 4x400m messieurs                                                       | 7e               | avec les [[Belgian Tornados]] |

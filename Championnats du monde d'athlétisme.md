@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Championnats du monde d'athlétisme
+# Championnats du Monde d'Athlétisme
 
 # Introduction
 
