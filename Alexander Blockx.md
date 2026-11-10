@@ -41,6 +41,7 @@ type: personne
 | 2026  | [[Tournoi de Tokyo]]       | 1e tour        | Défaite contre [[Valentin Vacherot]] (ATP 18)                                                                                                                                                                                                                             |
 | 2026  | [[Tournoi de Shangaï]]     | 2e tour        |                                                                                                                                                                                                                                                                           |
 | 2026  | [[Tournoi de Bruxelles]]   | Forfait        |                                                                                                                                                                                                                                                                           |
+| 2026  | [[Tournoi de Paris]]       | Forfait        |                                                                                                                                                                                                                                                                           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

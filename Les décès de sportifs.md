@@ -68,4 +68,9 @@ date: Novembre 2026
 title: Drame en athlétisme
 content: Championne d'Europe sur 1.500m en 2024 à Rome, [[Ciara Mageean]] est décédée à l'âge de 34 ans, des suites d'un cancer.
 ![[image-869.webp|500x281]]
+
+date: Novembre 2026
+title: Disparition tragique
+content: [[Jesus de Miguel]], footballeur et attaquant de Tenerife, décède après un choc violent sur le terrain
+![[image-875.webp|500x604]]
 ```

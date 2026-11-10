@@ -25,6 +25,7 @@ type: personne
 | 2026  | [[Grand Prix de Grande-Bretagne]] - Course | 3e       |          |
 | 2026  | [[Grand Prix de Madrid]] - Course          | Abandon  |          |
 | 2026  | [[Grand Prix de Bahreïn]] - Course         | 3e       |          |
+| 2026  | [[Grand Prix du Mexique]] - Course         | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
