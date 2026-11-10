@@ -35,6 +35,7 @@ type: personne
 | 2026  | [[Tournoi de Pékin]]      | ==🟡Vainqueur== | Victoire contre [[Alexander Zverev]] en 1/4 finale<br>Victoire contre [[Daniil Medvedev]] en 1/2 finale |
 | 2026  | [[Tournoi de Shangaï]]    | 2e tour         |                                                                                                         |
 | 2026  | [[Tournoi de Bâle]]       | 2e tour         | Défaite contre [[Jan-Lennard Struff]]                                                                   |
+| 2026  | [[Tournoi de Paris]]      | 2e tour         | Défaite contre [[Rinky Hijikata]] (ATP 83)                                                              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

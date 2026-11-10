@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-876.webp|500x281]]
 # Cristiano Ronaldo
 
 # Informations Générales
@@ -24,7 +24,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - Premier joueur à marquer dans 6 éditions de la [[Coupe du Monde]]
 
 # Controverses ou Événements Importants
-Évoquer les polémiques ou moments clés de sa carrière.
+- Fin de carrière internationale en novembre 2026
 
 # Retraite et Reconversion
 - Acteur et producteur pour une série avec le réalisateur de "Kingsman"

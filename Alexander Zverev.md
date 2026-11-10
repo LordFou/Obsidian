@@ -28,6 +28,8 @@ type: personne
 | 2026  | [[Wimbledon]]         | Finaliste     | Défaite contre [[Jannik Sinner]]              |
 | 2026  | [[US Open]]           | ==Vainqueur== | Victoire contre [[Ben Shelton]]               |
 | 2026  | [[Tournoi de Vienne]] | 1/4 finale    | Victoire en 1/8e contre [[Tallon Griekspoor]] |
+| 2026  | [[Tournoi de Paris]]  | 2e tour       | Défaite contre [[Lorenzo Musetti]] (ATP 24)   |
+|       |                       |               |                                               |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

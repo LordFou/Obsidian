@@ -22,7 +22,7 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Record Personnel de 52 points dans un match NBA
 
 # Controverses ou Événements Importants
 - Blessé au mollet en novembre 2025
