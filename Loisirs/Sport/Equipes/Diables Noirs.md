@@ -12,6 +12,12 @@ Equipe nationale belge masculine de rugby
 
 # U20
 
-| Année | Epreuve              | Résultat     | Remarque |
-| ----- | -------------------- | ------------ | -------- |
-| 2026  | World Challenger Cup | ==🟡Finale== |          |
+| Année | Epreuve              | Résultat     | Remarque                |
+| ----- | -------------------- | ------------ | ----------------------- |
+| 2023  | Euro                 | ==🟡Finale== |                         |
+| 2024  | Euro                 | 3e           |                         |
+| 2025  | Euro                 | 3e           |                         |
+| 2026  | World Challenger Cup | ==🟡Finale== | Défaite contre le Chili |
+| 2026  | Euro                 | ==🟡Finale== |                         |
+|       |                      |              |                         |
+![[image-882.webp|500x281]]

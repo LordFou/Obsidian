@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Wout Van Laecke.md",
+                "file": "Loisirs/Sport/Equipes/Diables Noirs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wout Van Laecke"
+              "title": "Diables Noirs"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Wout Van Laecke",
+                "query": "Diables",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +93,8 @@
               "title": "Signets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,8 +225,9 @@
   },
   "active": "d2ebf9a9af376647",
   "lastOpenFiles": [
-    "Loisirs/Sport/Sportifs/Cameron Mason.md",
+    "Attachments/image-882.webp",
     "Loisirs/Sport/Sportifs/Wout Van Laecke.md",
+    "Loisirs/Sport/Sportifs/Cameron Mason.md",
     "Attachments/image-881.webp",
     "Lucinda Brand.md",
     "Loisirs/Sport/Sportifs/Manon Bakker.md",
@@ -252,7 +254,6 @@
     "Attachments/image-879.webp",
     "Loisirs/Sport/Sportifs/Bas Vanden Eynde.md",
     "Championnat d'Europe de Cyclocross.md",
-    "Toon Aerts.md",
     "Attachments/image-878.webp",
     "Attachments/image-877.webp",
     "Attachments/image-876.webp",
