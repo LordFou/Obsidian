@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lucinda Brand.md",
+                "file": "Loisirs/Sport/Sportifs/Wout Van Laecke.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lucinda Brand"
+              "title": "Wout Van Laecke"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Cameron Mason",
+                "query": "Wout Van Laecke",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -225,6 +225,8 @@
   "active": "d2ebf9a9af376647",
   "lastOpenFiles": [
     "Loisirs/Sport/Sportifs/Cameron Mason.md",
+    "Loisirs/Sport/Sportifs/Wout Van Laecke.md",
+    "Attachments/image-881.webp",
     "Lucinda Brand.md",
     "Loisirs/Sport/Sportifs/Manon Bakker.md",
     "Loisirs/Sport/Sportifs/Lindsey Vonn.md",
@@ -251,14 +253,12 @@
     "Loisirs/Sport/Sportifs/Bas Vanden Eynde.md",
     "Championnat d'Europe de Cyclocross.md",
     "Toon Aerts.md",
-    "Loisirs/Sport/Equipes/Belgian Scorpions.md",
     "Attachments/image-878.webp",
     "Attachments/image-877.webp",
     "Attachments/image-876.webp",
     "Attachments/image-875.webp",
     "Attachments/image-874.webp",
     "Attachments/image-873.webp",
-    "Attachments/image-872.webp",
-    "Attachments/image-871.webp"
+    "Attachments/image-872.webp"
   ]
 }
