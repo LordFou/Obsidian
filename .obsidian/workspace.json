@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Larissa Pauluis.md",
+                "file": "Loisirs/Sport/Compétitions/Route du Rhum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Larissa Pauluis"
+              "title": "Route du Rhum"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Ajay Mitchell.md",
+                "file": "Championnat d'Europe de Cyclocross.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ajay Mitchell"
+              "title": "Championnat d'Europe de Cyclocross"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ajay",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,8 +93,7 @@
               "title": "Signets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,8 +222,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45c6e7f5ee6526ed",
+  "active": "d2ebf9a9af376647",
   "lastOpenFiles": [
+    "Carlos Alcaraz.md",
+    "Loisirs/Sport/Compétitions/Route du Rhum.md",
+    "Lucinda Brand.md",
+    "Loisirs/Sport/Sportifs/Viktor Vandenberghe.md",
+    "Giel Lejeune.md",
+    "Loisirs/Sport/Sportifs/Lentel Huys.md",
+    "Larissa Pauluis.md",
+    "Attachments/image-878.webp",
+    "Championnat d'Europe de Cyclocross.md",
+    "Loisirs/Sport/Sportifs/Ajay Mitchell.md",
     "Loisirs/Sport/Sportifs/Rune Herregodts.md",
     "Attachments/image-877.webp",
     "Hanne Vandewinkel.md",
@@ -246,21 +254,11 @@
     "Alexander Blockx.md",
     "Kimi Antonelli.md",
     "Lewis Hamilton.md",
-    "Max Verstappen.md",
-    "Grand Prix du Mexique.md",
-    "Andreas Almgren.md",
     "Attachments/image-874.webp",
-    "Loisirs/Sport/Sportifs/Sheila Chepkirui.md",
     "Attachments/image-873.webp",
-    "Thibau Nys.md",
     "Attachments/image-872.webp",
-    "Lucinda Brand.md",
-    "Tournoi de Vienne.md",
-    "Carlos Alcaraz.md",
-    "Wimbledon.md",
     "Attachments/image-871.webp",
     "Attachments/image-870.webp",
-    "Attachments/image-869.webp",
-    "Attachments/image-868.webp"
+    "Attachments/image-869.webp"
   ]
 }
