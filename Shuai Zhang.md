@@ -18,6 +18,8 @@ type: personne
 | 2026  | [[Australian Open]] - Double  | 1/4 finale | avec [[Elise Mertens]] |
 | 2026  | [[Tournoi de Miami]] - Double | 1/4 finale | avec [[Elise Mertens]] |
 | 2026  | [[Roland-Garros]] - Double    | 1/8 finale | avec [[Elise Mertens]] |
+| 2026  | [[WTA Finals]] - Double       | 1e tour    | avec [[Elise Mertens]] |
+|       |                               |            |                        |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -39,6 +39,7 @@ type: personne
 | 2026  | [[Grand Prix de Singapour]] - Course  | ==🟡1ier== |          |
 | 2026  | [[Grand Prix des USA]] - Course       | 3e         |          |
 | 2026  | [[Grand Prix du Mexique]] - Course    | ==🟡1ier== |          |
+| 2026  | [[Grand Prix du Brésil]] - Course     | 2e         |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -17,7 +17,7 @@ type: personne
 | Année | Compétition                   | Résultat | Remarque |
 | ----- | ----------------------------- | -------- | -------- |
 | 2026  | Jo Jeunesse - Course en ligne | 1ier 🥇  |          |
-|       |                               |          |          |
+| 2026  | Jo Jeunesse - Course en ligne | 1ier 🥇  |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
