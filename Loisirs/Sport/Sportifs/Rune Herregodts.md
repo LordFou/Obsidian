@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-877.webp|355x207]]
 # Rune Herregodts
 
 # Informations Générales  %% fold %%
@@ -9,7 +9,7 @@ type: personne
 - **Nationalité** :  Belge
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Movistar]] (Nov 2026)
 - **Période d’activité** :  
 
 # Palmarès et Distinctions  %% fold %%

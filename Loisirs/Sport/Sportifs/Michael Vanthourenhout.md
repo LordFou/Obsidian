@@ -22,6 +22,7 @@ type: personne
 | 2026  | HG Cross - 1e Manche - Dendermonde         | ==🟡1ier== |          |
 | 2026  | HG Cross - 2e Manche - Meulebeke           | ==🟡1ier== |          |
 | 2026  | [[Superprestige]] - Overijse               | ==🟡1ier== |          |
+| 2026  | [[Superprestige]] - Middelkerke            | 2e         |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
