@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Compétitions/Route du Rhum.md",
+                "file": "Thibau Nys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Route du Rhum"
+              "title": "Thibau Nys"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Thib",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +93,8 @@
               "title": "Signets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,15 +225,24 @@
   },
   "active": "d2ebf9a9af376647",
   "lastOpenFiles": [
-    "Carlos Alcaraz.md",
+    "Loisirs/Sport/Sportifs/Jana Gevers.md",
+    "Loisirs/Sport/Sportifs/Daan Wilmsen.md",
+    "Attachments/image-880.webp",
+    "Loisirs/Sport/Sportifs/Lars Peers.md",
+    "Attachments/image-879.webp",
+    "Loisirs/Sport/Sportifs/Bas Vanden Eynde.md",
+    "Championnat d'Europe de Cyclocross.md",
+    "Toon Aerts.md",
+    "Loisirs/Sport/Equipes/Belgian Scorpions.md",
+    "Red Flames.md",
     "Loisirs/Sport/Compétitions/Route du Rhum.md",
+    "Carlos Alcaraz.md",
     "Lucinda Brand.md",
     "Loisirs/Sport/Sportifs/Viktor Vandenberghe.md",
     "Giel Lejeune.md",
     "Loisirs/Sport/Sportifs/Lentel Huys.md",
     "Larissa Pauluis.md",
     "Attachments/image-878.webp",
-    "Championnat d'Europe de Cyclocross.md",
     "Loisirs/Sport/Sportifs/Ajay Mitchell.md",
     "Loisirs/Sport/Sportifs/Rune Herregodts.md",
     "Attachments/image-877.webp",
@@ -246,19 +256,10 @@
     "Loisirs/Sport/Sportifs/Victor Wembanyama.md",
     "Loisirs/Sport/Compétitions/Novak Djokovic.md",
     "Alexander Zverev.md",
-    "Red Panthers.md",
-    "Les décès de sportifs.md",
     "Attachments/image-875.webp",
-    "Zizou Bergs.md",
-    "Tournoi de Paris.md",
-    "Alexander Blockx.md",
-    "Kimi Antonelli.md",
-    "Lewis Hamilton.md",
     "Attachments/image-874.webp",
     "Attachments/image-873.webp",
     "Attachments/image-872.webp",
-    "Attachments/image-871.webp",
-    "Attachments/image-870.webp",
-    "Attachments/image-869.webp"
+    "Attachments/image-871.webp"
   ]
 }

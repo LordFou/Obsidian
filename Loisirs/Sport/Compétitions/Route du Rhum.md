@@ -6,15 +6,8 @@ type: event
 
 # Introduction
 
-# Hommes
-
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
-# Femmes
-
-| Année | Vainqueur | Nationalité | Remarque |
-| ----- | --------- | ----------- | -------- |
-| 2026  |           |             |          |
-|       |           |             |          |
+| Année | Vainqueur        | Nationalité | Remarque |
+| ----- | ---------------- | ----------- | -------- |
+| 2026  | [[Tom Laperche]] | Français    |          |
+|       |                  |             |          |
+|       |                  |             |          |

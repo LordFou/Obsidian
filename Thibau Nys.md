@@ -41,6 +41,7 @@ type: personne
 | 2026  | [[Championnat du Monde de Cyclocross]]                                   | 3e         |                                   |
 | 2026  | [[Tour d'Espagne]] - 10e étape                                           | 3e         |                                   |
 | 2026  | Trophée X2O – Koppenbergcross (Audenarde)                                | ==🟡1ier== |                                   |
+| 2024  | [[Championnat d'Europe de Cyclocross\|Champ. Europe]]                    | ==1ier==   |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
