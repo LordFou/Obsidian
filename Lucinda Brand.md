@@ -38,6 +38,8 @@ type: personne
 | 2026  | [[Superprestige]] - Overijse                                             | ==🟡1ière==    |          |
 | 2026  | Trophée X2O – Koppenbergcross (Audenarde)                                | ==🟡1ière==    |          |
 | 2026  | [[Championnat d'Europe de Cyclocross]]                                   | ==🟡1ière== 🥇 |          |
+| 2026  | [[Superprestige]] - Niel                                                 | Abandon        |          |
+|       |                                                                          |                |          |
 
 
 # Style et Caractéristiques
