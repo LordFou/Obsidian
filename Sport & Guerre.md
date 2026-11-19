@@ -6,9 +6,13 @@
 	- [Article RTBF : victoire de l'Argentine sur l'Angleterre en demi finale de la coupe du monde 2026](https://www.rtbf.be/article/une-banderole-les-malouines-sont-argentines-deployee-apres-la-victoire-sur-l-angleterre-11758533)
 	- 
 # USA/Israël Vs Iran
-- [[Coupe du Monde]] 2026 aux USA
-	- Participation de l'Iran compromise.
-	- l'Irak réclame le report de son match de barrage en raison de la guerre au Moyen-Orient et du fait que son espace aérien est fermé jusqu'à nouvel ordre.
+- Football
+	- [[Coupe du Monde]] 2026 aux USA
+		- Participation de l'Iran compromise.
+		- l'Irak réclame le report de son match de barrage en raison de la guerre au Moyen-Orient et du fait que son espace aérien est fermé jusqu'à nouvel ordre.
+	- Coupe du Monde U17 au Qatar
+		- Non participation des USA pour raisons de sécurité  
+- 
 - [[F1]] 2026
 	- les [[Grand Prix de Bahreïn]] et le [[Grand Prix d’Arabie saoudite]] annulés à cause de la guerre au Moyen-Orient
 - Divers
