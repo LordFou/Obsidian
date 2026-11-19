@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Rocks.md",
+                "file": "Belgian Cats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Red Rocks"
+              "title": "Belgian Cats"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gaia Realini",
+                "query": "Belgian Cats",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,11 +205,12 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "b72b763220aa2c80",
   "lastOpenFiles": [
+    "Diables Rouges.md",
+    "Red Rocks.md",
     "Sport & Guerre.md",
     "Loisirs/Sport/Equipes/Diables Noirs.md",
-    "Diables Rouges.md",
     "conflict-files-obsidian-git.md",
     "accident de voiture.md",
     "Wim Verwimp.md",
@@ -232,7 +233,6 @@
     "Noa Isidore.md",
     "Mick van Dijke.md",
     "Mauro Schmidt.md",
-    "Loisirs/Sport/Sportifs/Naomi Descamps.md",
     "Attachments/image-882.webp",
     "Attachments/image-881.webp",
     "Attachments/image-880.webp",
