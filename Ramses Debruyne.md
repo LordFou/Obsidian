@@ -13,11 +13,12 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                          | Résultat | Remarque |
-| ----- | ------------------------------------ | -------- | -------- |
-| 2026  | [[Critérium du Dauphiné]] - 1e étape | 2e       |          |
-| 2026  | [[Tour de France]] - 4e étape        | 5e       |          |
-| 2026  | [[Tour d'Espagne]] - 21e étape       | 3e       |          |
+| Année | Compétition                                                  | Résultat | Remarque |
+| ----- | ------------------------------------------------------------ | -------- | -------- |
+| 2026  | [[Critérium du Dauphiné]] - 1e étape                         | 2e       |          |
+| 2026  | [[Tour de France]] - 4e étape                                | 5e       |          |
+| 2026  | [[Tour d'Espagne]] - 21e étape                               | 3e       |          |
+| 2026  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - Course | 6e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

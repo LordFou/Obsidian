@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition                             | Résultat | Remarque |
 | ----- | --------------------------------------- | -------- | -------- |
 | 2025  | [[Tour de Hollande]] - Classement final | 1ier     |          |
+| 2025  | [[Eneco Tour]] - Classement final       | 1ier     |          |
 | 2026  | [[Tour d'Andalousie]] - 1e étape        | 1ier     |          |
 
 # Style et Caractéristiques

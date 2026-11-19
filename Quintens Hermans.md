@@ -17,6 +17,7 @@ type: personne
 | ----- | ------------------------- | -------- | -------- |
 | 2025  | [[A Travers Le Hageland]] | 4e       |          |
 | 2026  | [[Flèche Brabançonne]]    | 2e       |          |
+| 2026  | [[Gran Piemonte]]         | 5e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

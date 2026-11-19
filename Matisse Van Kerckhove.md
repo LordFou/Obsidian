@@ -15,13 +15,13 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                          | Résultat | Remarque |
 | ----- | ---------------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnat d'Europe de Cyclisme]] - Espoirs - CLM | 2e       |          |
+| 2025  | [[Championnat d'Europe de Cyclisme]] - Espoirs - CLM | 2e 🥈    |          |
 |       |                                                      |          |          |
 | 2026  | Istrian Spring Tour - Classement final               | ==1ier== |          |
 | 2026  | [[Flèche du Sud]] - Classement final                 | ==1ier== |          |
 | 2026  | Alpes Isère Tour - Classement final                  | ==1ier== |          |
 | 2026  | [[Giro Next Gen]] - 5e étape                         | ==1ier== |          |
-|       |                                                      |          |          |
+| 2026  | [[Championnat d'Europe de Cyclisme]] - Espoirs - CLM | 2e 🥈    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

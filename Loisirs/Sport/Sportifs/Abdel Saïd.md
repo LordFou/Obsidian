@@ -17,6 +17,7 @@ type: personne
 | ----- | ----------------------------------------------------------- | -------- | -------- |
 | 2025  | Super Grand-Prix de Prague                                  | 1ier     |          |
 | 2026  | Jumping CSI de Cannes – Grand Prix du Global Champions Tour | 1ier     |          |
+| 2026  | Grand Prix 5* de saut d’obstacles à Rome                    | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

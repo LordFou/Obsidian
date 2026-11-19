@@ -12,7 +12,7 @@ type: event
 | ----- | ------------------ | ---------- | ----------- | -------- |
 | 2025  | [[Max Verstappen]] | Grand Prix | Néerlandais |          |
 | 2026  | [[Lando Norris]]   | Sprint     | Anglais     |          |
-| 2026  | [[Kimi Antonelli]] | Grand Prix | italien     |          |
+| 2026  | [[Kimi Antonelli]] | Grand Prix | Italien     |          |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

@@ -12,3 +12,6 @@
 - La boxeuse [[Imane Khelif]] révèle avoir pris un traitement hormonal avant sa médaille d'or aux [[JO 2024]] pour faire baisser son taux de [[testostérone]].
 # Inconnu
 - Paul George a écopé d'une suspension de 25 matches sans salaire de la part de la NBA pour utilisation d'un médicament interdit
+
+# EPO
+- L'athlète kényane [[Peres Jepchirchir]], championne du monde en titre du marathon et championne olympique à Tokyo en 2021, a été suspendue provisoirement après des analyses montrant des traces d'EPO (Octobre 2026)

@@ -2,7 +2,7 @@
 type: personne
 ---
 ![[image-308.webp]]
-# Mauro Schmid
+# Mauro Schmidt
 
 # Informations Générales
 - **Date de naissance** :  
@@ -28,7 +28,8 @@ type: personne
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- Recordman des secondes places en
+	- 2026 (8)
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

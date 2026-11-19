@@ -5,19 +5,20 @@ type: personne
 # Valérie Tombou
 
 # Informations Générales  
-- **Date de naissance** :  
+- **Date de naissance** :  2009
 - **Nationalité** :  Belge
 - **Sport / Discipline** : [[Judo]] 
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  Judo Club 2 Haine
 - **Période d’activité** :  
 
 # Palmarès et Distinctions  
 
-| Année                                      | Compétition | Résultat | Remarque |
-| ------------------------------------------ | ----------- | -------- | -------- |
-| Championnat du Monde de Judo Cadet (-70kg) | 2e          |          |          |
-|                                            |             |          |          |
+| Année | Compétition                          | Résultat | Remarque |
+| ----- | ------------------------------------ | -------- | -------- |
+| 2026  | Championnat du Monde - Cadet (-70kg) | 2e 🥈    |          |
+| 2026  | Euro - Cadet (-70kg)                 | 3e 🥉    |          |
+| 2026  | Euro - U23 (-70kg)                   | 2e 🥈    |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

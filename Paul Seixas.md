@@ -30,6 +30,7 @@ type: personne
 | 2026  | [[Flèche Wallonne]]                                         | ==1ier== |          |
 | 2026  | [[Liège-Bastogne-Liège]]                                    | 2e       |          |
 | 2026  | [[Championnat du Monde de Cyclisme]] - CLM                  | 3e       |          |
+| 2026  | [[Tour de Lombardie]]                                       | ==1ier== |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

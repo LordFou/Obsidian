@@ -1,32 +1,46 @@
 ---
 type: personne
 ---
-
+![[image-856.webp|500x281]]
 # David Goffin
 
 # Informations Générales
 - **Date de naissance** :  
 - **Nationalité** :  Belge
-- **Sport / Discipline** : Tennis 
+- **Sport / Discipline** : [[Tennis]] 
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
+- **Top Ranking** : 7 
 
 # Palmarès et Distinctions
-| Année | Compétition                        | Résultat | Remarque                   |
-| ----- | ---------------------------------- | -------- | -------------------------- |
-| 2025  | [[US Open]]                        | 2e tour  |                            |
-| 2025  | [[ATP - Tournoi de Shangaï]]       | 3e tour  |                            |
-| 2025  | [[Tournoi de Bruxelles]] - Double  | 1e tour  | avec [[Raphaël Collignon]] |
-| 2025  | [[Tournoi de Bâle]]                | 1e tour  |                            |
-|       |                                    |          |                            |
-| 2026  | [[Tournoi de Pau]]                 | 1e tour  |                            |
-| 2026  | [[Tournoi de Lille]]               | 1e tour  |                            |
-| 2026  | [[Tournoi Indian Wells]]           | 1e tour  |                            |
-| 2026  | [[Tournoi de Cap Cana]]            | 1e tour  |                            |
-| 2026  | [[Roland-Garros]] - Qualifications | 2e tour  | Dernier [[Roland-Garros]]  |
-| 2026  | [[Wimbledon]] - Qualifications     | 1e tour  |                            |
-| 2026  | [[Tournoi de Saint-Tropez]]        | 1e tour  |                            |
+| Année | Compétition                        | Résultat          | Remarque                                                                          |
+| ----- | ---------------------------------- | ----------------- | --------------------------------------------------------------------------------- |
+| 2012  | [[Roland-Garros]]                  | ==🟡1/8e finale== | Défaite contre [[Roger Federer]]                                                  |
+|       |                                    |                   |                                                                                   |
+| 2017  | [[Australian Open]]                | ==🟡1/4 finale==  |                                                                                   |
+| 2017  | [[Tournoi de Tokyo]]               | ==🟡Vainqueur==   |                                                                                   |
+| 2017  | ?                                  | ==🟡Vainqueur==   |                                                                                   |
+| 2017  | Masters 2017                       | ==🟡Finale==      | ==🟡Victoire contre [[Rafael Nadal]]==<br>==🟡Victoire contre [[Roger Federer]]== |
+| 2017  | [[Coupe Davis]]                    | ==🟡Finale==      | Défaite contre la France                                                          |
+|       |                                    |                   |                                                                                   |
+| 2022  | [[Wimbledon]]                      | 1/4 finale        |                                                                                   |
+|       |                                    |                   |                                                                                   |
+| 2023  | [[Tournoi de Marseille]]           | Forfait           | ==🟡Début des pépins physique==                                                   |
+|       |                                    |                   |                                                                                   |
+| 2025  | [[US Open]]                        | 2e tour           |                                                                                   |
+| 2025  | [[Tournoi de Shangaï]]             | 3e tour           |                                                                                   |
+| 2025  | [[Tournoi de Bruxelles]] - Double  | 1e tour           | avec [[Raphaël Collignon]]                                                        |
+| 2025  | [[Tournoi de Bâle]]                | 1e tour           |                                                                                   |
+|       |                                    |                   |                                                                                   |
+| 2026  | [[Tournoi de Pau]]                 | 1e tour           |                                                                                   |
+| 2026  | [[Tournoi de Lille]]               | 1e tour           |                                                                                   |
+| 2026  | [[Tournoi Indian Wells]]           | 1e tour           |                                                                                   |
+| 2026  | [[Tournoi de Cap Cana]]            | 1e tour           |                                                                                   |
+| 2026  | [[Roland-Garros]] - Qualifications | 2e tour           | Dernier [[Roland-Garros]]                                                         |
+| 2026  | [[Wimbledon]] - Qualifications     | 1e tour           |                                                                                   |
+| 2026  | [[Tournoi de Saint-Tropez]]        | 1e tour           |                                                                                   |
+| 2026  | [[Tournoi de Bruxelles]] - Simple  | 2e tour           | ==🔴FIN DE CARRIERE==                                                             |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

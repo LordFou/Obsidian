@@ -16,8 +16,8 @@ type: personne
 | Année | Compétition                                                   | Résultat                 | Remarque                                          |
 | ----- | ------------------------------------------------------------- | ------------------------ | ------------------------------------------------- |
 | 2025  | Ligue de Diamant - Londres - 5000m                            | 14e + Record de Belgique | qui a été détenu 3 jours par [[Elise Vanderelst]] |
-| 2025  | [[Championnats du monde d'athlétisme\| Champ. Monde]] - 5000m | 32e                      | 15.14.93                                          |
-| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - 10km   | 13e                      |                                                   |
+| 2025  | [[Championnats du Monde d'Athlétisme\| Champ. Monde]] - 5000m | 32e                      | 15.14.93                                          |
+| 2025  | [[Championnats du Monde d'Athlétisme\|Champ. Monde]] - 10km   | 13e                      |                                                   |
 | 2025  | Champ. Europe Cross Country                                   | 4e                       |                                                   |
 |       |                                                               |                          |                                                   |
 | 2026  | Prom'Classic - 10km route                                     | ==1ière==                | Record d'Europe ? (30.10.00)                      |
@@ -27,6 +27,7 @@ type: personne
 | 2026  | Championnat de Belgique de la distance - 10km                 | ==1ière==                | Record de Belgique (Vieux de 26 ans)<br>30.51.18  |
 | 2026  | Ligue de Diamant - Monaco - 3000m                             | 11e                      | Record de Belgique (8:36.14)                      |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - 10km                 | 3e 🥉                    | 31:47.81                                          |
+| 2026  | Athlète européenne du mois d’octobre                          | 1ière                    |                                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

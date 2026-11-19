@@ -10,7 +10,7 @@ type: personne
 - **Nationalité** :  Equatorien
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  [[Grimpeur]]
-- **Équipe(s) / Club(s)** : [[Movistar]], [[EF - Education First]] 
+- **Équipe(s) / Club(s)** : [[Movistar]], [[EF - Education First]], [[NSN Cycling Team]] (Fin-2026)
 - **Période d’activité** :  
 
 # Palmarès et Distinctions

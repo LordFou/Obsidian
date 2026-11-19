@@ -17,12 +17,12 @@ type: personne
 
 | Année | Compétition                                         | Résultat | Remarque       |
 | ----- | --------------------------------------------------- | -------- | -------------- |
-| 2017  | [[Championnats du monde d'athlétisme]] - 400m Haies | 1ier     |                |
-| 2019  | [[Championnats du monde d'athlétisme]] - 400m Haies | 1ier     |                |
+| 2017  | [[Championnats du Monde d'Athlétisme]] - 400m Haies | 1ier     |                |
+| 2019  | [[Championnats du Monde d'Athlétisme]] - 400m Haies | 1ier     |                |
 | 2020  | [[Championnats d'Europe d'athlétisme]] - 400m Haies | 1ier     |                |
 | 2021  | [[JO 2020]] - 400m Haies                            | 1ier     | 45.94 ==(WR==) |
 | 2022  | [[Championnats d'Europe d'athlétisme]] - 400m Haies | 1ier     |                |
-| 2023  | [[Championnats du monde d'athlétisme]] - 400m Haies | 1ier     |                |
+| 2023  | [[Championnats du Monde d'Athlétisme]] - 400m Haies | 1ier     |                |
 | 2024  | [[Championnats d'Europe d'athlétisme]] - 400m Haies | 1ier     |                |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - 400m Haies | 1ier     | 46.63 (CR)     |
 |       |                                                     |          |                |

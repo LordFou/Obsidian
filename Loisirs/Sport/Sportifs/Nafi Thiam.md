@@ -24,7 +24,7 @@ type: personne
 | 2024  | [[Championnats d'Europe d'athlétisme\|Champ. Europe]] - Heptathlon             | ==1ière== | ==Triplé !==             |
 | 2024  | [[JO 2024]] - Heptathlon                                                       | ==1iere== | ==Triplé !==             |
 |       |                                                                                |           |                          |
-| 2025  | [[Championnats du monde d'athlétisme\|Champ. Monde]] - Heptathlon              | Abandon   | cfr la controverse + bas |
+| 2025  | [[Championnats du Monde d'Athlétisme\|Champ. Monde]] - Heptathlon              | Abandon   | cfr la controverse + bas |
 | 2025  | [[Championnat de Belgique d'Athlétisme\|Champ. de Belgique]] - Lancer du poids | ==1ière== |                          |
 |       |                                                                                |           |                          |
 | 2026  | [[Championnats d'Europe d'athlétisme\|Champ. Europe]]                          | Forfait   |                          |
@@ -38,8 +38,8 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - 3 fois médaillée d'or olympique d'affilée en [[Heptathlon]]
 
 # Controverses ou Événements Importants
-- Après le [[Championnats du monde d'athlétisme]], Nafi Thiam qui a abandonné, se défend et attaque la Fédération. Des têtes doivent tomber => [RTBF Sport](https://www.rtbf.be/article/nafissatou-thiam-sort-du-silence-des-personnes-ont-tout-fait-pour-empecher-ma-participation-aux-mondiaux-11610673)
-- 5 jours avant les [[Championnats du monde d'athlétisme]] 2025 à Tokyo, elle est punie de ne pas avoir accepté le code de conduite de la fédération par un non-accès au precamp des athlètes ainsi que d'autres détails qui vont impacter son championnat. En réalité, le code de conduite comprend des détails sur les contrats publicitaires qu'elle ne valide pas (à creuser). Elle participera mais abandonnera après 5 épreuves.
+- Après le [[Championnats du Monde d'Athlétisme]], Nafi Thiam qui a abandonné, se défend et attaque la Fédération. Des têtes doivent tomber => [RTBF Sport](https://www.rtbf.be/article/nafissatou-thiam-sort-du-silence-des-personnes-ont-tout-fait-pour-empecher-ma-participation-aux-mondiaux-11610673)
+- 5 jours avant les [[Championnats du Monde d'Athlétisme]] 2025 à Tokyo, elle est punie de ne pas avoir accepté le code de conduite de la fédération par un non-accès au precamp des athlètes ainsi que d'autres détails qui vont impacter son championnat. En réalité, le code de conduite comprend des détails sur les contrats publicitaires qu'elle ne valide pas (à creuser). Elle participera mais abandonnera après 5 épreuves.
 	- Version [[Nafi Thiam]] => [RTBF Sport](https://www.rtbf.be/article/nafi-thiam-sanctionnee-par-la-federation-n-a-pas-ete-admise-au-dernier-camp-d-entrainement-desolant-et-injuste-11601742)
 	- Version Fédération => [RTBF Sport](https://www.rtbf.be/article/nafi-thiam-recoit-des-soins-a-meme-le-trottoir-aux-mondiaux-d-athletisme-une-photo-qui-prolonge-le-bras-de-fer-11602009)
 	- Version Neutre => [RTBF Sport](https://www.rtbf.be/article/frederic-xhonneux-regrette-le-conflit-entre-nafi-thiam-et-la-federation-tout-le-monde-est-perdant-dans-cette-histoire-11602066)

@@ -16,9 +16,9 @@ type: personne
 | Année | Compétition                                     | Résultat | Remarque   |
 | ----- | ----------------------------------------------- | -------- | ---------- |
 | 2025  | [[JO 2024]] - Athlétisme - 100m                 | 3e       |            |
-| 2025  | [[Championnats du monde d'athlétisme]] - 100m   | 1iere    | 10.61      |
-| 2025  | [[Championnats du monde d'athlétisme]] - 200m   | 1iere    | 21.68 (PB) |
-| 2025  | [[Championnats du monde d'athlétisme]] - 4x100m | 1iere    |            |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 100m   | 1iere    | 10.61      |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 200m   | 1iere    | 21.68 (PB) |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 4x100m | 1iere    |            |
 | 2026  | [[Ultimate Championship]] - 100m                | 1iere    |            |
 | 2026  | [[Ultimate Championship]] - 200m                | 1iere    | 21.47 (PB) |
 |       |                                                 |          |            |

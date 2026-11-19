@@ -28,6 +28,7 @@ type: personne
 | 2026  | Open d'Espagne                                     | ==Or==   |                 |
 | 2026  | WT Présidents Cup - Europe à Nuremberg (Allemagne) | ==Or==   |                 |
 | 2026  | [[Championnat du Monde de Taekwondo]] - 73 kg      | ==Or==   | Taiyuan (Chine) |
+| 2026  | [[Trophée National Mérite Sportif]]                | 1ière    |                 |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

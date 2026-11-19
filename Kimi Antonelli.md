@@ -13,33 +13,33 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                | Résultat | Remarque                         |
-| ----- | ------------------------------------------ | -------- | -------------------------------- |
-| 2026  | [[Grand Prix d'Australie]]                 | 2e       |                                  |
-| 2026  | [[Grand Prix de Chine]] - Course           | ==1ier== | ==Première victoire à 19 ans !== |
-| 2026  | [[Grand Prix du Japon]] - Course           | ==1ier== |                                  |
-| 2026  | [[Grand Prix des USA]] - Course            | ==1ier== |                                  |
-| 2026  | [[Grand Prix du Canada]] - Sprint          | 3e       |                                  |
-| 2026  | [[Grand Prix du Canada]] Course            | ==1ier== |                                  |
-| 2026  | [[Grand Prix de Monaco]] - Course          | ==1ier== |                                  |
-| 2026  | [[Grand Prix d'Espagne]] - Course          | Abandon  |                                  |
-| 2026  | [[Grand Prix d'Autriche]] - Course         | 3e       |                                  |
-| 2026  | [[Grand Prix de Grande-Bretagne]] - Sprint | ==1ier== |                                  |
-| 2026  | [[Grand Prix de Belgique]] - Course        | ==1ier== |                                  |
-| 2026  | [[Grand Prix de Hongrie]] - Course         | 3e       |                                  |
-| 2026  | [[Grand Prix des Pays-Bas]] - Course       | 2e       |                                  |
-| 2026  | [[Grand Prix d'Italie]] - Course           | ==1ier== |                                  |
-| 2026  | [[Grand Prix de Madrid]] - Course          | ==1ier== |                                  |
-| 2026  | [[Grand Prix d'Azerbaïdjan]] - Course      | 5e       |                                  |
+| Année | Compétition                                | Résultat   | Remarque                         |
+| ----- | ------------------------------------------ | ---------- | -------------------------------- |
+| 2026  | [[Grand Prix d'Australie]]                 | 2e         |                                  |
+| 2026  | [[Grand Prix de Chine]] - Course           | ==1ier==   | ==Première victoire à 19 ans !== |
+| 2026  | [[Grand Prix du Japon]] - Course           | ==1ier==   |                                  |
+| 2026  | [[Grand Prix des USA]] - Course            | ==1ier==   |                                  |
+| 2026  | [[Grand Prix du Canada]] - Sprint          | 3e         |                                  |
+| 2026  | [[Grand Prix du Canada]] Course            | ==1ier==   |                                  |
+| 2026  | [[Grand Prix de Monaco]] - Course          | ==1ier==   |                                  |
+| 2026  | [[Grand Prix d'Espagne]] - Course          | Abandon    |                                  |
+| 2026  | [[Grand Prix d'Autriche]] - Course         | 3e         |                                  |
+| 2026  | [[Grand Prix de Grande-Bretagne]] - Sprint | ==1ier==   |                                  |
+| 2026  | [[Grand Prix de Belgique]] - Course        | ==1ier==   |                                  |
+| 2026  | [[Grand Prix de Hongrie]] - Course         | 3e         |                                  |
+| 2026  | [[Grand Prix des Pays-Bas]] - Course       | 2e         |                                  |
+| 2026  | [[Grand Prix d'Italie]] - Course           | ==1ier==   |                                  |
+| 2026  | [[Grand Prix de Madrid]] - Course          | ==1ier==   |                                  |
+| 2026  | [[Grand Prix d'Azerbaïdjan]] - Course      | 5e         |                                  |
+| 2026  | [[Grand Prix de Bahreïn]] - Course         | 2e         |                                  |
+| 2026  | [[Grand Prix des USA]] - Course            | ==🟡1ier== |                                  |
+| 2026  | [[Grand Prix du Mexique]] - Course         | 3e         |                                  |
+| 2026  | [[Championnat du Monde de F1]]             | ==🟡1ier== |                                  |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
-
-# Controverses ou Événements Importants
-- Commence la F1 à 17 ans sans son permis
 - Premier podium en 2025 au [[Grand Prix du Canada]] (3e)
 - Grand Prix de Chine 2026
 	- Plus jeune pilote en tête du championnat du Monde (Mars 2026)
@@ -52,6 +52,15 @@ Lister les records battus, les moments légendaires ou les anecdotes notables.
 		- Le tour le plus rapide. 
 - Premier pilote à glaner ses quatre premiers succès de manière consécutive
 - Premier vainqueur de l’Histoire du Madring ([[Grand Prix de Madrid]])
+
+# Controverses ou Événements Importants
+
+
+# Anecdotes
+- Arrive en F1 à 17 ans sans son permis, il l'aura juste avant le premier Grand Prix.
+- Grid Boy avec… Lewis Hamilton en 2018
+  ![[image-868.webp|500x281]]
+- Il utilise le numéro 12 comme [[Ayrton Senna]]
  
 
 # Retraite et Reconversion
@@ -60,3 +69,6 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 # Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
+
+
+

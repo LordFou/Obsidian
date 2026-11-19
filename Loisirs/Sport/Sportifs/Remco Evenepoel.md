@@ -28,6 +28,7 @@ type: personne
 | 2021  | [[Championnat d'Europe de Cyclisme\|Championnat d'Europe]] - Route               | 2e          |                                                                                                                       |
 | 2021  | [[Championnat d'Europe de Cyclisme\|Championnat d'Europe]] - CLM                 | 3e          |                                                                                                                       |
 | 2021  | [[Championnat du Monde de Cyclisme\|Championnat du Monde]] - CLM                 | 3e          |                                                                                                                       |
+| 2021  | [[Chrono des Nations]]                                                           | 5e          |                                                                                                                       |
 |       |                                                                                  |             |                                                                                                                       |
 | 2022  | [[Tour d'Algarve]] - Classement final                                            | 1ier 🏆     |                                                                                                                       |
 | 2022  | [[Liège-Bastogne-Liège]]                                                         | 1ier 🏆     |                                                                                                                       |
@@ -45,6 +46,7 @@ type: personne
 | 2023  | [[Clasica San Sebastian]]                                                        | 1ier 🏆     |                                                                                                                       |
 | 2023  | [[Championnat de Belgique de Cyclisme\|Championnat National]] - Route            | 1ier 🏆     |                                                                                                                       |
 | 2023  | [[Championnat du Monde de Cyclisme\|Championnat du Monde]] - CLM                 | 1ier 🏆     |                                                                                                                       |
+| 2023  | [[Chrono des Nations]]                                                           | 2e          |                                                                                                                       |
 |       |                                                                                  |             |                                                                                                                       |
 | 2024  | [[Tour d'Algarve]] - Classement final                                            | 1ier 🏆     |                                                                                                                       |
 | 2024  | [[Tour de France]] - Xe étape                                                    | 1ier 🏆     |                                                                                                                       |
@@ -98,7 +100,10 @@ type: personne
 | 2026  | [[Clasica San Sebastian]]                                                        | ==1ier==    |                                                                                                                       |
 | 2026  | [[Grand Prix de Québec]]                                                         | ==1ier==    |                                                                                                                       |
 | 2026  | [[Grand Prix de Montréal]]                                                       | 5e          |                                                                                                                       |
-| 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] -  CLM                        | ==1ier==    |                                                                                                                       |
+| 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] -  CLM                        | ==1ier==    | CLM                                                                                                                   |
+| 2026  | [[Championnat d'Europe de Cyclisme\|Champ. Europe]] - Course                     | ==1ier==    |                                                                                                                       |
+| 2026  | [[Tour de Lombardie]]                                                            | 4e          |                                                                                                                       |
+| 2026  | [[Chrono des Nations]]                                                           | ==🟡1ier==  | CLM                                                                                                                   |
 ## Historique
 ```timeline-labeled
 [line-5, body-2]

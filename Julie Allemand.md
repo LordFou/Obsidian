@@ -29,6 +29,7 @@ content: La meneuse des [[Belgian Cats]] et de Fenerbahce poursuivra cette anné
 | 2026  | Championnat de Turquie                        | Vainqueure | Avec Fenerbahçe              |
 | 2026  | Euroligue                                     | Vainqueure | Avec Fenerbahçe              |
 | 2026  | Euroligue - MVP                               | Nominée    | Avec Fenerbahçe              |
+| 2026  | Supercoupe d'Europe                           | Vainqueure | Avec Fenerbahçe              |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

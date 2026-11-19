@@ -16,6 +16,7 @@ type: personne
 | Année | Compétition           | Résultat | Remarque |
 | ----- | --------------------- | -------- | -------- |
 | 2026  | [[Antwerp Port Epic]] | 1ier     |          |
+| 2026  | [[Paris-Tours]]       | 1ier     |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

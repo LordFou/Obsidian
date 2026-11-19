@@ -9,7 +9,7 @@ type: personne
 - **Nationalité** :  Belge
 - **Sport / Discipline** : [[Cyclisme]] 
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Visma]] (Fin 2026)
 - **Période d’activité** :  
 
 # Palmarès et Distinctions

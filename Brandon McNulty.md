@@ -13,20 +13,23 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                 | Résultat | Remarque |
-| ----- | ----------------------------------------------------------- | -------- | -------- |
-| 2025  | [[Tour de Pologne]] - 7e étape                              | ==1ier== |          |
-| 2025  | [[Tour de Pologne]] - Classement final                      | ==1ier== |          |
-| 2025  | [[Grand Prix de Montréal]]                                  | ==1ier== |          |
-| 2025  | [[Tour du Luxembourg]] - Classement final                   | ==1ier== |          |
-|       |                                                             |          |          |
-| 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - Course | ==1ier== |          |
+| Année | Compétition                                                 | Résultat   | Remarque |
+| ----- | ----------------------------------------------------------- | ---------- | -------- |
+| 2025  | [[Tour de Pologne]] - 7e étape                              | ==1ier==   |          |
+| 2025  | [[Tour de Pologne]] - Classement final                      | ==1ier==   |          |
+| 2025  | [[Grand Prix de Montréal]]                                  | ==1ier==   |          |
+| 2025  | [[Tour du Luxembourg]] - Classement final                   | ==1ier==   |          |
+|       |                                                             |            |          |
+| 2026  | [[Championnat du Monde de Cyclisme\|Champ. Monde]] - Course | ==1ier==   |          |
+| 2026  | [[Coppa Agostini]]                                          | 2e         |          |
+| 2026  | [[Tour de Lombardie]]                                       | 5e         |          |
+| 2026  | [[Veneto Classic]]                                          | ==🟡1ier== |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
-Lister les records battus, les moments légendaires ou les anecdotes notables.
+- 24 victoires pro
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.

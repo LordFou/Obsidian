@@ -15,7 +15,7 @@ type: event
 | 2023  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Slovène     |                          |
 | 2024  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Slovène     |                          |
 | 2025  | [[Loisirs/Sport/Tadej Pogacar\|Tadej Pogacar]] | Slovène     | 2e - [[Remco Evenepoel]] |
-|       |                                                |             |                          |
+| 2026  | [[Paul Seixas]]                                | Français    | 4e - [[Remco Evenepoel]] |
 # Femmes
 
 | Année | Vainqueur | Nationalité | Remarque |

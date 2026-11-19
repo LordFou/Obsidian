@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                     | Résultat    | Remarque                                             |
 | ----- | ----------------------------------------------- | ----------- | ---------------------------------------------------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 4x100m | 10e         | Disqualifiées en série. Avec les [[Belgian Rockets]] |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 4x100m | 10e         | Disqualifiées en série. Avec les [[Belgian Rockets]] |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - 100m   | Demi-finale | 11.24                                                |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - 4x100m | 5e (Finale) | Avec les [[Belgian Rockets]]                         |
 

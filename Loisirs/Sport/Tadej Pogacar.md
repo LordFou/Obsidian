@@ -85,6 +85,10 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - 4 victoires consécutives dans les 5 plus grands monuments cyclistes.
 - 4 victoires à [[Liège-Bastogne-Liège]] dont 3 fois consécutives.
 - Il a le record de la montée de l'[[Alpe d'Huez]] en 35 min 26 secondes
+- Recordman de victoires en 
+	- 2024 => 25 victoires
+	- 2025 => 20 victoires
+	- 2026 => 22 victoires
 
 # Controverses ou Événements Importants
 - Lors de [[Liège-Bastogne-Liège]] 2023, il se fracture le poignet.
@@ -93,7 +97,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 - Lors du [[Tour d'Espagne]] 2026, il chute tout seul => [Article RTBF](https://www.rtbf.be/article/tadej-pogacar-a-ete-opere-de-la-clavicule-avec-succes-apres-sa-lourde-chute-sur-la-vuelta-11778044)
 	- Commotion cérébrale
 	- Une fracture déplacée de la clavicule gauche
-	- Une fracture cervicale stable de C7 
+	- Une fracture cervicale stable de C7 - Au final, on parle de 3 vertèbres fracturées.
 	- Multiples abrasions.
 	- FIN DE SAISON
 

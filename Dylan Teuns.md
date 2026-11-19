@@ -1,21 +1,34 @@
 ---
 type: personne
 ---
-
+![[image-866.webp|404x520]]     ![[image-865.webp|500x281]]
 # Dylan Teuns
 
 # Informations Générales
 - **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
+- **Nationalité** :  Belge
+- **Sport / Discipline** : [[Cyclisme]] 
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
-- **Période d’activité** :  
+	- [[BMC]]
+	- [[Bahreïn]]
+	- [[Israël Premier Tech]]
+	- [[Cofidis]]
+- **Période d’activité** :   2014 - 2026 (Novembre)
+- Nbr victoires : 14
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
+| Année | Compétition                             | Résultat | Remarque                  |
+| ----- | --------------------------------------- | -------- | ------------------------- |
+| 2017  | [[Tour de Wallonie]] - Classement final | 1ier     |                           |
+| 2017  | [[Tour de Pologne]] - Classement final  | 1ier     |                           |
+| 2017  | [[Arctic Race]] - Classement final      | 1ier     |                           |
+| 2017  | [[Arctic Race]] - 5 victoire étape (?)  | 1ier     |                           |
+| 2019  | [[Tour de France]] - Xe étape           | 1ier     | Planche des Belles-Filles |
+| 2021  | [[Tour de France]] - Xe étape           | 1ier     | Grand Bornand             |
+| 2022  | [[Flèche Wallonne]]                     | 1ier     |                           |
+| ?     | [[Tour d'Andalousie]]                   | 1ier     | CLM                       |
+|       |                                         |          |                           |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

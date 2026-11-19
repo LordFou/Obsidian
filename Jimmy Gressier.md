@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                   | Résultat | Remarque |
 | ----- | --------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 10km | 1ier     |          |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 10km | 1ier     |          |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - 10km | 3e       |          |
 
 # Style et Caractéristiques

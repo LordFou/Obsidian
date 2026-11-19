@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-852.webp|259x274]]
 # Fabio Van den Bossche
 
 # Informations Générales
@@ -13,11 +13,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                                                 | Résultat | Remarque                   |
-| ----- | --------------------------------------------------------------------------- | -------- | -------------------------- |
-| 2025  | [[Championnat du Monde de Cyclisme sur piste\|Champ.Monde Piste]] - Madison | 1ier     | avec [[Lindsay De Vylder]] |
-| 2025  | [[Six Jours de Gand]]                                                       | 1ier     | avec [[Lindsay De Vylder]] |
-|       |                                                                             |          |                            |
+| Année | Compétition                                                            | Résultat | Remarque                   |
+| ----- | ---------------------------------------------------------------------- | -------- | -------------------------- |
+| 2024  | [[JO 2024]] - Omnium                                                   | 3e 🥉    |                            |
+| 2025  | [[Championnat du Monde de Cyclisme sur piste\|Champ. Monde]] - Madison | 1ier 🥇  | avec [[Lindsay De Vylder]] |
+| 2025  | [[Six Jours de Gand]]                                                  | 1ier     | avec [[Lindsay De Vylder]] |
+| 2026  | [[Championnat du Monde de Cyclisme sur piste\|Champ. Monde]] - Omnium  | 2e 🥈    |                            |
+| 2026  | [[Championnat du Monde de Cyclisme sur piste\|Champ. Monde]] - Madison | 4e       | avec [[Lindsay De Vylder]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

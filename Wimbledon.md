@@ -8,12 +8,14 @@ type: event
 
 # Hommes
 
-| Année | Vainqueur         | Nationalité | Remarque                         |
-| ----- | ----------------- | ----------- | -------------------------------- |
-| 2025  | [[Jannik Sinner]] | Italien     | Finaliste : [[Carlos Alcaraz]]   |
-| 2026  | [[Jannik Sinner]] | Italien     | Finaliste : [[Alexander Zverev]] |
-|       |                   |             |                                  |
-|       |                   |             |                                  |
+| Année | Vainqueur          | Nationalité | Remarque                         |
+| ----- | ------------------ | ----------- | -------------------------------- |
+| 2023  | [[Carlos Alcaraz]] | Espagnol    |                                  |
+| 2024  | [[Carlos Alcaraz]] | Espagnol    |                                  |
+| 2025  | [[Jannik Sinner]]  | Italien     | Finaliste : [[Carlos Alcaraz]]   |
+| 2026  | [[Jannik Sinner]]  | Italien     | Finaliste : [[Alexander Zverev]] |
+|       |                    |             |                                  |
+|       |                    |             |                                  |
 # Femmes
 
 ## Simple

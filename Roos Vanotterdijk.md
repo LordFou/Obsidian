@@ -42,6 +42,12 @@ type: personne
 | 2026  | Championnat d'Europe de Natation - 100m Pap                                   | ==1e (Série)==<br>==1e (Demi-finale)==<br>==1e (Finale)== 🥇 | Série (56.76)<br>Demi-finale (55.89) (CR)<br>Finale (56.08 |                                    |
 | 2026  | Championnat d'Europe de Natation - 50m Dos                                    | 10e (Demi-finale)<br>                                        |                                                            |                                    |
 | 2026  | Championnat d'Europe de Natation - 200m 4n                                    | 10e (Série)<br>3e (Finale) 🥉                                | 2:13.83 (Série)<br>2:10.10 (Finale)                        |                                    |
+| 2026  | Coupe du Monde (Bakou) - Petit Bain - 100m Pap                                | ==1ière==                                                    | 56.42 (Série)<br>55.29 (Finale)                            | Record de Belgique                 |
+| 2026  | Coupe du Monde (Tachkent) - Petit Bain - 50m Pap                              | ==🟡1ière==                                                  | 25.63 (Série)<br>24.75 (Finale)                            | Record de Belgique                 |
+| 2026  | Coupe du Monde (Tachkent) - Petit Bain - 100m Pap                             | ==🟡1ière==                                                  | 56.88 (Série)<br>55.29 (Finale)                            | Record de Belgique                 |
+| 2026  | Coupe du Monde (Astana) - Petit Bain - 50m Pap                                | ==🟡1ière==                                                  | 24.56 (Finale)                                             | Record de Belgique                 |
+| 2026  | Coupe du Monde (Astana) - Petit Bain - 200m 4N                                | 2e                                                           | 2:05.07 (Finale)                                           | Record de Belgique                 |
+| 2026  | Coupe du Monde - Classement général                                           | 3e                                                           |                                                            |                                    |
 |       |                                                                               |                                                              |                                                            |                                    |
 
 # Style et Caractéristiques
@@ -54,9 +60,11 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 	- 100m dos (58.97)
 	- 50m papillon (25.12)
 	- 100m papillon (55.89) - Grand bain
-	- 100m papillon (55.64) - Petit bain
-	- 200m 4n (2:09.73)
+	- 100m papillon (55.29) - Petit bain
+	- 200m 4n (2:09.73) - Grand bain
+	- 200m 4n (2:05.07) - Petit bain
 	- 100m 4n (56.80) - Petit bain
+	- 50m papillon (24.56) - Petit bain
 - Record des Championnats d’Europe
 	- 100m papillon (55.89)
 

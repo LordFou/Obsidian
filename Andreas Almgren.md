@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-
+![[image-874.webp|330x376]]
 
 # Andreas Almgren
 
@@ -18,7 +18,7 @@ type: personne
 | Année | Compétition                                   | Résultat | Remarque |
 | ----- | --------------------------------------------- | -------- | -------- |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - 10km | 1ier     |          |
-|       |                                               |          |          |
+| 2026  | Marathon de New-York                          | 1ier     |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.

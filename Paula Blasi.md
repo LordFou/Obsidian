@@ -9,7 +9,9 @@ type: personne
 - **Nationalité** :  Espagnole
 - **Sport / Discipline** :  [[Cyclisme]]
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  [[UAE]]
+- **Équipe(s) / Club(s)** :
+	- [[UAE]] ( -> Fin 2026)
+	- [[Movistar]] (Fin 2026 ->)
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
@@ -17,6 +19,7 @@ type: personne
 | ----- | ------------------------------------- | --------- | -------- |
 | 2026  | [[Amstel Gold Race]]                  | ==1ière== |          |
 | 2026  | [[Flèche Wallonne]]                   | 3e        |          |
+| 2026  | [[Liège-Bastogne-Liège]]              | 5e        |          |
 | 2026  | [[Tour d'Espagne]] - Classement final | ==1ière== |          |
 | 2026  | [[Tour d'Espagne]] - Maillot Montagne | ==1ière== |          |
 

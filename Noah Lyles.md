@@ -15,11 +15,11 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                   | Résultat | Remarque |
 | ----- | --------------------------------------------- | -------- | -------- |
-| 2019  | [[Championnats du monde d'athlétisme]] - 200m | 1ier     |          |
-| 2022  | [[Championnats du monde d'athlétisme]] - 200m | 1ier     |          |
-| 2023  | [[Championnats du monde d'athlétisme]] - 200m | 1ier     |          |
-| 2023  | [[Championnats du monde d'athlétisme]] - 100m | 1ier     |          |
-| 2025  | [[Championnats du monde d'athlétisme]] - 200m | 1ier     | 19.52    |
+| 2019  | [[Championnats du Monde d'Athlétisme]] - 200m | 1ier     |          |
+| 2022  | [[Championnats du Monde d'Athlétisme]] - 200m | 1ier     |          |
+| 2023  | [[Championnats du Monde d'Athlétisme]] - 200m | 1ier     |          |
+| 2023  | [[Championnats du Monde d'Athlétisme]] - 100m | 1ier     |          |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 200m | 1ier     | 19.52    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

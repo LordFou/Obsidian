@@ -14,11 +14,13 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                              | Résultat | Remarque |
-| ----- | -------------------------------------------------------- | -------- | -------- |
-| 2025  | CSI 5 étoiles de Windsor                                 | 1ier     |          |
-| 2025  | Jumping international 5 étoiles de Londres               | 1ier     |          |
-| 2025  | Grand Prix au jumping CSI 5 étoiles d’Amenia, à New York | 2e       |          |
+| Année | Compétition                                       | Résultat   | Remarque              |
+| ----- | ------------------------------------------------- | ---------- | --------------------- |
+| 2025  | CSI 5 étoiles de Windsor                          | ==🟡1ier== |                       |
+| 2025  | Jumping international 5 étoiles de Londres        | ==🟡1ier== |                       |
+| 2025  | Grand Prix au jumping CSI 5* d’Amenia, à New York | 2e         |                       |
+|       |                                                   |            |                       |
+| 2026  | Grand Prix du jumping CSI 4* de Liège             | ==🟡1ier== | Bond Jamesbond de Hay |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

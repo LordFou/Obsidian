@@ -74,6 +74,12 @@ type: personne
 | 2026  | [[US Open]] - Double                             | 1/2 finale    | avec [[Diana Shnaider]]                                                                                                                                                   |
 | 2026  | [[Tournoi de Singapour]] - Simple                | 1/4 finale    | Défaite contre [[Maja Chwalinska]] (WTA 25)                                                                                                                               |
 | 2026  | [[Tournoi de Singapour]] - Double                | 1/2 finale    |                                                                                                                                                                           |
+| 2026  | [[Tournoi de Pékin]] - Simple                    | 1/2 finale    | Victoire contre [[Jelena Ostapenko]] (WTA 32)<br>Victoire contre [[Coco Gauff]] (WTA 4)<br>Victoire contre [[Iga Swiatek]] (WTA 9)<br>Défaite contre [[Qinwen Zheng]]     |
+| 2026  | [[Tournoi de Pékin]] - Double                    | 1/8 finale    | avec [[Diana Shnaider]]                                                                                                                                                   |
+| 2026  | [[Tournoi de Wuhan]] - Simple                    | 1e tour       |                                                                                                                                                                           |
+| 2026  | [[Tournoi de Ningbo]] - Simple                   | 1e tour       | Défaite contre [[Leylah Fernandez]] (WTA 30)                                                                                                                              |
+| 2026  | [[Tournoi de Tokyo]] - Simple                    | 2e tour       | Défaite contre [[Leylah Fernandez]] (WTA 23)                                                                                                                              |
+| 2026  | [[WTA Finals]] - Double                          | 1e tour       | avec [[Shuai Zhang]]                                                                                                                                                      |
 
 # Style et Caractéristiques
 - C'est une joueuse très équilibrée et régulière qui intègre en juin 2025 le club très fermé des joueuses qui ont gagné un tournoi sur les 3 types de surface.

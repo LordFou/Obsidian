@@ -17,9 +17,9 @@ type: personne
 | ----- | --------------------------------------------------- | -------- | -------- |
 |       | [[JO 2020]] (?) - 400m haies                        | 1ière    |          |
 |       | [[JO 2024]] (?) - 400m haies                        | 1ière    |          |
-|       | [[Championnats du monde d'athlétisme]] - 400m haies | 1ière    |          |
-| 2025  | [[Championnats du monde d'athlétisme]] - 400m       | 1ière    | 47,78    |
-| 2025  | [[Championnats du monde d'athlétisme]] - 4x400m     | 1ière    |          |
+|       | [[Championnats du Monde d'Athlétisme]] - 400m haies | 1ière    |          |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 400m       | 1ière    | 47,78    |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 4x400m     | 1ière    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

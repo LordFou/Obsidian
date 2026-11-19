@@ -19,7 +19,7 @@ type: personne
 | 2018  | [[Championnats d'Europe d'athlétisme]] - Saut à la perche   |                   |          |
 | 2022  | [[Championnats d'Europe d'athlétisme]] - Saut à la perche   |                   |          |
 | 2024  | [[Championnats d'Europe d'athlétisme]] - Saut à la perche   | 13e               |          |
-| 2025  | [[Championnats du monde d'athlétisme]] - Saut à la perche   | Eliminé en qualif |          |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - Saut à la perche   | Eliminé en qualif |          |
 | 2026  | Ligue de Diamant - Monaco - Saut à la perche                | 6e                |          |
 | 2026  | [[Championnat de Belgique d'Athlétisme]] - Saut à la perche | 1ier              | 5m75     |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - Saut à la perche   | 8e (Finale)       | 5m70     |

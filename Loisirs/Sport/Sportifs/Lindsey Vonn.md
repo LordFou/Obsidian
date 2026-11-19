@@ -27,6 +27,8 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Controverses ou Événements Importants
 - Blessure au genou juste avant les [[JO 2026]] => Rupture totale du ligament croisé. Néanmoins, elle veut participer sans ligament. Malheureusement, elle accrochera du bras une des portes de la descente et fera une énorme chute.
+- 9 opération pour se rétablir
+- 
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

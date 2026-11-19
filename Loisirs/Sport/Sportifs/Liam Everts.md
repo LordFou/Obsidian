@@ -13,15 +13,16 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition             | Résultat | Remarque |
-| ----- | ----------------------- | -------- | -------- |
-| 2026  | Grand Prix d'Argentine  | 3e       |          |
-| 2026  | Grand Prix d'Andalousie | 7e       |          |
-| 2026  | Grand Prix de Sardaigne | 3e       |          |
-| 2026  | Grand Prix de Trentin   | 7e       |          |
-| 2026  | Grand Prix de Lettonie  | 6e       |          |
-| 2026  | Grand Prix du Portugal  | 4e       |          |
-| 2026  | Grand Prix de Suède     | 2e       |          |
+| Année | Compétition               | Résultat | Remarque                             |
+| ----- | ------------------------- | -------- | ------------------------------------ |
+| 2026  | Grand Prix d'Argentine    | 3e       |                                      |
+| 2026  | Grand Prix d'Andalousie   | 7e       |                                      |
+| 2026  | Grand Prix de Sardaigne   | 3e       |                                      |
+| 2026  | Grand Prix de Trentin     | 7e       |                                      |
+| 2026  | Grand Prix de Lettonie    | 6e       |                                      |
+| 2026  | Grand Prix du Portugal    | 4e       |                                      |
+| 2026  | Grand Prix de Suède       | 2e       |                                      |
+| 2026  | [[Motocross des Nations]] | 1ier     | [[Lucas Coenen]]<br>[[Sacha Coenen]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

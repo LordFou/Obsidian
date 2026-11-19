@@ -15,7 +15,8 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                     | Résultat | Remarque |
 | ----- | ----------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnat d'Europe de Cyclocross]] - Junior | 3e       |          |
+| 2025  | [[Championnat d'Europe de Cyclocross]] - Junior | 3e 🥉    |          |
+| 2026  | [[Championnat d'Europe de Cyclocross]] - Espoir | 2e 🥈    |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

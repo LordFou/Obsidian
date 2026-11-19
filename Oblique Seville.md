@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                   | Résultat | Remarque |
 | ----- | --------------------------------------------- | -------- | -------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 100m | 1ier     | 9.77     |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 100m | 1ier     | 9.77     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

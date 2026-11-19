@@ -94,6 +94,12 @@ type: event
 | 2026  | [[Karsten Warholm]] | Norvégien   |          |
 ## Femmes
 
+### 1500m
+
+| Année | Vainqueur         | Nationalité | Remarque |
+| ----- | ----------------- | ----------- | -------- |
+| 2024  | [[Ciara Mageean]] | Irlandaise  |          |
+|       |                   |             |          |
 ### 5000m
 
 | Année | Vainqueur             | Nationalité | Remarque |

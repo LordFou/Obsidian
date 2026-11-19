@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                     | Résultat    | Remarque                                       |
 | ----- | ----------------------------------------------- | ----------- | ---------------------------------------------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - 4x100m | 10e         | Eliminé en série. Avec les [[Belgian Falcons]] |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - 4x100m | 10e         | Eliminé en série. Avec les [[Belgian Falcons]] |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - 100m   | Série       | 10.61                                          |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - 200m   | Demi-finale |                                                |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - 4x100m | 3e 🥉       | avec les [[Belgian Falcons]]                   |

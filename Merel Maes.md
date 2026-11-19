@@ -15,7 +15,7 @@ type: personne
 # Palmarès et Distinctions
 | Année | Compétition                                              | Résultat | Remarque          |
 | ----- | -------------------------------------------------------- | -------- | ----------------- |
-| 2025  | [[Championnats du monde d'athlétisme]] - Saut en hauteur | 10e      |                   |
+| 2025  | [[Championnats du Monde d'Athlétisme]] - Saut en hauteur | 10e      |                   |
 | 2026  | [[Championnats d'Europe d'athlétisme]] - Saut en hauteur | Finale   | 1m91 (Qualif)<br> |
 
 # Style et Caractéristiques

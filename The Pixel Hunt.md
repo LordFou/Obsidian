@@ -5,12 +5,13 @@ type: societe
 # The Pixel Hunt
 
 ## Présentation
-Brève présentation de l’entreprise : origine, histoire, fondateurs, secteur d’activité.
+- Réalise essentiellement des jeux vidéos en rapport avec des sujets de la vie réelle ([[Serious Game]])
 
 ## Informations Générales
 - **Nom complet** :  
-- **Date de création** :  
+- **Date de création** :  2014
 - **Fondateurs** :  
+	- [[Florent Maurin]]
 - **Personnalités** :
 - **Pays d’origine** :  
 - **Site officiel** : [Lien](#)  
@@ -24,9 +25,13 @@ content:
 ```
 
 ## Jeux Développés
-| Année | Titre          | Genre        | Plateformes |
-| ----- | -------------- | ------------ | ----------- |
-| 2025  | [[Wednesdays]] | Serious Game | PC, Mac     |
+| Année | Titre                              | Genre        | Plateformes |
+| ----- | ---------------------------------- | ------------ | ----------- |
+| 2019  | [[Bury Me My Love]]                | Serious Game |             |
+| 2022  | [[Inua - A Story in Ice and Time]] | Serious Game |             |
+| 2023  | [[The Wreck]]                      | Serious Game |             |
+| 2025  | [[Wednesdays]]                     | Serious Game | PC, Mac     |
+|       | Itaka                              | Serious Game |             |
 
 ## Moteur(s) Utilisé(s)
 - Moteur 1 (Ex : Unreal Engine, Unity, moteur propriétaire...)

@@ -6,14 +6,14 @@ type: game
 
 ## Informations Générales
 
-- **Année de sortie** : 
+- **Année de sortie** : 2026
 - **Développeur** : 
-	- Studio : 
+	- Studio : [[Mojang Studio]]
 	- Personnalités : 
-- **Éditeur** : 
+- **Éditeur** : [[Xbox Games Studio]]
 - **Plateformes** : 
 - **Franchise** : 
-- **Genre** :
+- **Genre** : [[PC]], [[Xbox Series]]
 - **Résumé** : 
 
 ## Détails Techniques

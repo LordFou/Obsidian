@@ -22,7 +22,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
 - 10 titres de championne du monde dont 5 au 100m
-- A 39 ans elle fait encore 6e au [[Championnats du monde d'athlétisme]] 2025
+- A 39 ans elle fait encore 6e au [[Championnats du Monde d'Athlétisme]] 2025
 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
