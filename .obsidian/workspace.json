@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Belgian Cats"
             }
+          },
+          {
+            "id": "5de9591cee3ef059",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,8 +216,9 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "b72b763220aa2c80",
+  "active": "5de9591cee3ef059",
   "lastOpenFiles": [
+    "Belgian Cats.md",
     "Diables Rouges.md",
     "Red Rocks.md",
     "Sport & Guerre.md",
@@ -232,7 +244,6 @@
     "One More Level.md",
     "Noa Isidore.md",
     "Mick van Dijke.md",
-    "Mauro Schmidt.md",
     "Attachments/image-882.webp",
     "Attachments/image-881.webp",
     "Attachments/image-880.webp",
