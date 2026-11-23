@@ -34,7 +34,7 @@ type: personne
 | 2026  | [[Roland-Garros]]        | 1/4 finale     | Défaite contre [[Diana Shnaider]]  |
 | 2026  | [[Wimbledon]]            | 1/8 finale     | Défaite contre [[Naomi Osaka]]     |
 | 2026  | [[US Open]]              | Finaliste      | Défaite contre [[Elena Rybakina]]  |
-| 2026  | Masters                  |                |                                    |
+|       |                          |                |                                    |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

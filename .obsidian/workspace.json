@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Aryna Sabalenka.md",
+                "file": "Taylor Fritz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aryna Sabalenka"
+              "title": "Taylor Fritz"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Masters",
+                "query": "Tournoi de Stockholm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,8 +79,7 @@
               "title": "Signets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,10 +210,15 @@
   },
   "active": "0244bab4dc723d30",
   "lastOpenFiles": [
+    "Loisirs/Sport/Compétitions/Tournoi de Stockholm.md",
+    "Taylor Fritz.md",
+    "Attachments/image-885.webp",
+    "Attachments/image-884.webp",
+    "Lucinda Brand.md",
+    "Loisirs/Sport/Aryna Sabalenka.md",
     "Tournoi de Paris.md",
     "Tournoi de Ryad.md",
     "Loisirs/Sport/Compétitions/Masters 1.000 de Paris.md",
-    "Loisirs/Sport/Aryna Sabalenka.md",
     "Diables Rouges.md",
     "Loisirs/Sport/Sportifs/Daan Wilmsen.md",
     "Loisirs/Sport/Sportifs/Alexander van Hoey Billiet.md",
@@ -234,18 +238,12 @@
     "Loisirs/Sport/Sportifs/Wout Van Laecke.md",
     "Loisirs/Sport/Sportifs/Cameron Mason.md",
     "Attachments/image-881.webp",
-    "Lucinda Brand.md",
     "Loisirs/Sport/Sportifs/Manon Bakker.md",
     "Loisirs/Sport/Sportifs/Lindsey Vonn.md",
-    "Jana Van Lent.md",
-    "Loisirs/Sport/Compétitions/Route du Rhum.md",
-    "Shuai Zhang.md",
     "Attachments/image-880.webp",
     "Attachments/image-879.webp",
     "Attachments/image-878.webp",
     "Attachments/image-877.webp",
-    "Attachments/image-876.webp",
-    "Attachments/image-875.webp",
-    "Attachments/image-874.webp"
+    "Attachments/image-876.webp"
   ]
 }
