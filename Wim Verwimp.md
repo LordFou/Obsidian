@@ -18,6 +18,7 @@ type: personne
 | Année | Compétition                                                  | Résultat | Remarque |
 | ----- | ------------------------------------------------------------ | -------- | -------- |
 | 2026  | Coupe du monde de dressage - Lyon - Reprise libre en musique | 4e       | 80,455%  |
+| 2026  | Coupe du monde de dressage - Stuttgart - Grand Prix          | 5e       | 71,565%  |
 |       |                                                              |          |          |
 
 # Style et Caractéristiques  

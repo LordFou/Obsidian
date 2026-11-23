@@ -1,7 +1,7 @@
 ---
 type: personne
 ---
-![[image-338.webp]]
+![[image-338.webp]]     ![[image-883.webp|500x281]]
 # Larissa Pauluis
 
 # Informations Générales
@@ -24,7 +24,7 @@ type: personne
 | 2026  | Championnats du monde - Dressage                             | 20e      |                             |
 | 2026  | Coupe du monde de dressage - Lyon - Grand Prix               | 3e       | 74,630%                     |
 | 2026  | Coupe du monde de dressage - Lyon - Reprise libre en musique | 3e       | 80,530%                     |
-|       |                                                              |          |                             |
+| 2026  | Coupe du monde de dressage - Stuttgart - Grand Prix          | 3e       | 73,587%                     |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
