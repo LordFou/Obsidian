@@ -23,6 +23,8 @@ type: personne
 | 2026  | HG Cross - 2e Manche - Meulebeke           | ==🟡1ier== |          |
 | 2026  | [[Superprestige]] - Overijse               | ==🟡1ier== |          |
 | 2026  | [[Superprestige]] - Middelkerke            | 2e         |          |
+| 2026  | Aardbeiencross                             | Abandon    |          |
+| 2026  | Bollekescross                              | 2e         |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

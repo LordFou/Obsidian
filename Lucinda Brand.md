@@ -40,7 +40,7 @@ type: personne
 | 2026  | [[Championnat d'Europe de Cyclocross]]                                   | ==🟡1ière== 🥇 |          |
 | 2026  | [[Superprestige]] - Niel                                                 | Abandon        |          |
 | 2026  | Aardbeiencross                                                           | ==🟡1ière==    |          |
-|       |                                                                          |                |          |
+| 2026  | Bollekescross                                                            | ==🟡1ière==    |          |
 
 
 # Style et Caractéristiques

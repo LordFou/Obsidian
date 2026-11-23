@@ -5,12 +5,12 @@ type: personne
 # Romelu Lukaku
 
 # Informations Générales
-- **Date de naissance** :  
-- **Nationalité** :  
-- **Sport / Discipline** :  
-- **Poste / Spécialité** (si applicable) :  
+- **Date de naissance** :  1993
+- **Nationalité** :  Belge
+- **Sport / Discipline** : [[Football]] 
+- **Poste / Spécialité** (si applicable) :  Attaquant
 - **Équipe(s) / Club(s)** :  
-- **Période d’activité** :  
+- **Période d’activité** :  - Novembre 2026
 
 # Palmarès et Distinctions
 | Année | Compétition        | Résultat         | Remarque                    |
@@ -22,7 +22,8 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
 - Selon Opta, il est devenu le premier joueur à marquer en tant que remplaçant lors de quatre matches différents en Coupe du Monde. 
-
+- 135 titularisation en équipe nationale
+- Record de 94 buts en équipe nationale 
 # Controverses ou Événements Importants
 Évoquer les polémiques ou moments clés de sa carrière.
 

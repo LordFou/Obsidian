@@ -13,9 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition | Résultat | Remarque |
-| ----- | ----------- | -------- | -------- |
-| 2026  | Globe40     | 2e       |          |
+| Année | Compétition       | Résultat | Remarque          |
+| ----- | ----------------- | -------- | ----------------- |
+| 2026  | Globe40           | 2e       |                   |
+| 2026  | [[Route du Rhum]] | 16e      | Catégorie Class40 |
+|       |                   |          |                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

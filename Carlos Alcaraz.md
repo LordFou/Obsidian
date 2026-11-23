@@ -42,6 +42,7 @@ type: personne
 | 2026  | [[Tournoi de Shangaï]]     | 1/16 finale     | Défaite contre [[Zizou Bergs]]              |
 | 2026  | [[Tournoi de Vienne]]      | ==🟡Vainqueur== | Victoire contre [[Alex de Minaur]] (ATP 10) |
 | 2026  | [[Tournoi de Paris]]       | ==🟡Vainqueur== | Victoire contre [[Ben Shelton]] (ATP 4)     |
+| 2026  | [[ATP Finals]]             | ==🟡Vainqueur== |                                             |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
