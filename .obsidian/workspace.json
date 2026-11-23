@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "67363c0fc08ab7c5",
+        "id": "47f748447f738773",
         "type": "tabs",
         "children": [
           {
-            "id": "5c17c2d50b96f47d",
+            "id": "0244bab4dc723d30",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -205,8 +205,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "245850f62a8cdb3b",
+  "active": "18f2722646109de2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Journal de bord/2026-11-19.md",
+    "Journal de bord/2026-11-10.md",
+    "Journal de bord/2026-10-12.md",
     "Journal de bord/2026-11-23.md",
     "Loisirs/Sport/Equipes/Diables Noirs.md",
     "Attachments/image-882.webp",
@@ -231,12 +235,8 @@
     "Ben Shelton.md",
     "Carlos Alcaraz.md",
     "Tournoi de Paris.md",
-    "Thibau Nys.md",
-    "Loisirs/Sport/Sportifs/Jana Gevers.md",
     "Attachments/image-880.webp",
-    "Loisirs/Sport/Sportifs/Lars Peers.md",
     "Attachments/image-879.webp",
-    "Loisirs/Sport/Sportifs/Bas Vanden Eynde.md",
     "Attachments/image-878.webp",
     "Attachments/image-877.webp",
     "Attachments/image-876.webp",
