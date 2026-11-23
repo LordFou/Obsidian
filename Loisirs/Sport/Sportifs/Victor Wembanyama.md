@@ -23,7 +23,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants
 - Record Personnel de 52 points dans un match NBA
-- Inventeur du Shunk ()
+- Inventeur du Shunk (Mi-Shot, Mi-Dunk)
 
 # Controverses ou Événements Importants
 - Blessé au mollet en novembre 2025
