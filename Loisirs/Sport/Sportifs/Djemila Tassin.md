@@ -6,7 +6,7 @@ type: personne
 # Djemila Tassin
 
 # Informations Générales  
-- **Date de naissance** :  
+- **Date de naissance** :  1995
 - **Nationalité** :  Belge
 - **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
@@ -15,16 +15,17 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition           | Résultat                   | Remarque         |
-| ----- | --------------------- | -------------------------- | ---------------- |
-| XXXX  | Nom de la compétition | 1ère place / Médaille d’or | Détail optionnel |
-|       |                       |                            |                  |
+| Année | Compétition       | Résultat | Remarque                               |
+| ----- | ----------------- | -------- | -------------------------------------- |
+| 2026  | [[Route du Rhum]] | 24e      | Première femme a terminer cette course |
+|       |                   |          |                                        |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
 
 # Records et Faits Marquants  
-Lister lebattus, les moments légendaires ou les anecdotes notables.
+- Première femme belge à terminer la [[Route du Rhum]] en 2026
+- 
 
 # Controverses ou Événements Importants  
 Évoquer les polémiques ou moments clés de sa carrière.

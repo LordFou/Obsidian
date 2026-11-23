@@ -1,11 +1,11 @@
 ---
 type: personne
 ---
-
+![[image-886.webp|500x281]]
 # Jonas Gerckens
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  1980
 - **Nationalité** : Belge
 - **Sport / Discipline** : Course Nautique
 - **Poste / Spécialité** (si applicable) :  

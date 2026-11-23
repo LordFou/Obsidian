@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Djemila Tassin.md",
+                "file": "Dries Van Langendonck.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Djemila Tassin"
+              "title": "Dries Van Langendonck"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Djemila Tassin",
+                "query": "Jasper de Buy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,7 +79,8 @@
               "title": "Signets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,8 +211,13 @@
   },
   "active": "0244bab4dc723d30",
   "lastOpenFiles": [
+    "Attachments/image-887.webp",
+    "Jasper De Buyst.md",
+    "6 Jours de Gand.md",
     "Loisirs/Sport/Sportifs/Jonas Gerckens.md",
+    "Attachments/image-886.webp",
     "Loisirs/Sport/Sportifs/Djemila Tassin.md",
+    "Loisirs/Sport/Compétitions/Route du Rhum.md",
     "Carlos Alcaraz.md",
     "Loisirs/Sport/Compétitions/ATP Finals.md",
     "Alexander Blockx.md",
@@ -234,17 +240,12 @@
     "Tournoi de Paris.md",
     "Tournoi de Ryad.md",
     "Loisirs/Sport/Compétitions/Masters 1.000 de Paris.md",
-    "Loisirs/Sport/Sportifs/Daan Wilmsen.md",
-    "Loisirs/Sport/Sportifs/Alexander van Hoey Billiet.md",
-    "Loisirs/Sport/Sportifs/Célya Paques.md",
-    "Dopage dans le sport.md",
     "Attachments/image-883.webp",
     "Attachments/image-882.webp",
     "Attachments/image-881.webp",
     "Attachments/image-880.webp",
     "Attachments/image-879.webp",
     "Attachments/image-878.webp",
-    "Attachments/image-877.webp",
-    "Attachments/image-876.webp"
+    "Attachments/image-877.webp"
   ]
 }
