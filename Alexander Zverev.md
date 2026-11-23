@@ -38,7 +38,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-	- il a été accusé de violences conjugales par ses 2 dernières compagnes. Un arrangement financier a été trouvé avec la première. 
+- il a été accusé de violences conjugales par ses 2 dernières compagnes. Un arrangement financier a été trouvé avec la première. 
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

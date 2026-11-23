@@ -14,7 +14,7 @@
 - Paul George a écopé d'une suspension de 25 matches sans salaire de la part de la NBA pour utilisation d'un médicament interdit
 
 # EPO
-- L'athlète kényane [[Peres Jepchirchir]], championne du monde en titre du marathon et championne olympique à Tokyo en 2021, a été suspendue provisoirement après des analyses montrant des traces d'EPO (Octobre 2026)
+- L'athlète kényane [[Peres Jepchirchir]], championne du monde en titre du marathon et championne olympique à Tokyo en 2021, a été suspendue 3 ans après des analyses montrant des traces d'EPO (Octobre 2026)
 
 # Manquement aux obligations
 - L'athlète et heptathlonienne [[Auriana Lazraq-Khlass]], 27 ans, a manqué à ses obligations de localisation, les 'whereabouts', à trois reprises en un an => 22 mois de suspension (Novembre 2026)
