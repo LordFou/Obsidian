@@ -16,10 +16,10 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition              | Résultat        | Remarque                            |
-| ----- | ------------------------ | --------------- | ----------------------------------- |
-| 2026  | [[Tournoi de Stockholm]] | ==🟡Vainqueur== | Victoire contre [[Thiago Tirante]]  |
-|       |                          |                 |                                     |
+| Année | Compétition              | Résultat        | Remarque                                    |
+| ----- | ------------------------ | --------------- | ------------------------------------------- |
+| 2026  | [[Tournoi de Stockholm]] | ==🟡Vainqueur== | Victoire contre [[Thiago Tirante]] (ATP 51) |
+|       |                          |                 |                                             |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
