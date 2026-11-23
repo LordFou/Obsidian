@@ -13,14 +13,15 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                            | Résultat | Remarque |
-| ----- | -------------------------------------- | -------- | -------- |
-| 2024  | Championnat de Belgique - Seniors      | 1iere    | 15 ans   |
-|       |                                        |          |          |
-| 2025  | Championnats du Monde - Cadets (-48kg) | 2e       | 16 ans   |
-|       |                                        |          |          |
-| 2026  | Euro judo - Seniors (-48kg)            | 1e tour  |          |
-| 2026  | Championnats du Monde - Cadets (-48kg) | 2e       | 17 ans   |
+| Année | Compétition                             | Résultat | Remarque |
+| ----- | --------------------------------------- | -------- | -------- |
+| 2024  | Championnat de Belgique - Seniors       | 1iere    | 15 ans   |
+|       |                                         |          |          |
+| 2025  | Championnats du Monde - Cadets (-48kg)  | 2e       | 16 ans   |
+|       |                                         |          |          |
+| 2026  | Euro judo - Seniors (-48kg)             | 1e tour  |          |
+| 2026  | Championnats du Monde - Cadets (-48kg)  | 2e       | 17 ans   |
+| 2026  | Championnats du Monde - Juniors (-48kg) | 3e       | 17 ans   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

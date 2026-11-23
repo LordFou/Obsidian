@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Maelys Dapa.md",
+                "file": "Loisirs/Sport/Sportifs/Victor Wembanyama.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maelys Dapa"
+              "title": "Victor Wembanyama"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Maelys Dapa",
+                "query": "Victor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,7 +79,8 @@
               "title": "Signets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,9 +211,11 @@
   },
   "active": "0244bab4dc723d30",
   "lastOpenFiles": [
+    "Diables Rouges.md",
+    "Loisirs/Sport/Sportifs/Maëlys Dapa.md",
+    "Loisirs/Sport/Sportifs/Maelys Dapa.md",
     "Attachments/image-888.webp",
     "Dopage dans le sport.md",
-    "Loisirs/Sport/Sportifs/Maelys Dapa.md",
     "Alexander Zverev.md",
     "Primoz Roglic.md",
     "Dries Van Langendonck.md",
@@ -227,7 +230,6 @@
     "Loisirs/Sport/Compétitions/ATP Finals.md",
     "Alexander Blockx.md",
     "Romelu Lukaku.md",
-    "Diables Rouges.md",
     "Belgian Cats.md",
     "Lucinda Brand.md",
     "Thibau Nys.md",
@@ -244,7 +246,6 @@
     "Attachments/image-882.webp",
     "Attachments/image-881.webp",
     "Attachments/image-880.webp",
-    "Attachments/image-879.webp",
-    "Attachments/image-878.webp"
+    "Attachments/image-879.webp"
   ]
 }
