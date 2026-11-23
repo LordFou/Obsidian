@@ -41,6 +41,7 @@ type: personne
 | 2026  | [[Superprestige]] - Niel                                                 | Abandon        |          |
 | 2026  | Aardbeiencross                                                           | ==🟡1ière==    |          |
 | 2026  | Bollekescross                                                            | ==🟡1ière==    |          |
+| 2026  | HG Cross - Lokeren                                                       | 2e             |          |
 
 
 # Style et Caractéristiques
