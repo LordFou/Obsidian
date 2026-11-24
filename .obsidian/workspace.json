@@ -11,14 +11,14 @@
             "id": "7d0388a94df4f9b0",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Loisirs/Jeux Vidéos/Another World.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Another World"
             }
           }
         ]
@@ -205,7 +205,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "eb3c1bcab851ce97",
+  "active": "7d0388a94df4f9b0",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Tournoi de Ryad.md",
