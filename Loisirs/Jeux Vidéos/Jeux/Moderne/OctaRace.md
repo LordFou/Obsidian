@@ -44,6 +44,8 @@ tags: mediaDB/game
 	- Steam Rating : 0
 - **Gameplay** :
 	- 8 pilotes en simultané
+	- Session très courtes
+	- Armement maximum
 - **Durée estimée** : 
 
 ## Histoire et Univers
@@ -53,11 +55,12 @@ tags: mediaDB/game
 - **Ennemis** :
 - **Thèmes abordés** : 
 - **Influencé par** :
-- **A inspiré** : 
-- **Comparable à** : 
 	- [[Micro Machines]]
 	- [[Super Off Road]]
-	- Death Rally
+	- [[Death Rally]]
+- **A inspiré** : 
+- **Comparable à** : 
+
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
@@ -65,3 +68,4 @@ tags: mediaDB/game
 | Description | URL       |
 | ----------- | --------- |
 | Wiki        | https://store.steampowered.com/app/1931860 |
+![[image-889.webp|500x281]]
