@@ -35,7 +35,7 @@ type: game
 - **A inspiré** : 
 - **Comparable à** :
 ## Anecdotes et Curiosités
-- 
+- Pour son 20e anniversaire, le jeu a droit à une version HD sur Amiga.
 ## Liens et Ressources
 
 | Description | URL |
