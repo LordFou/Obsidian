@@ -1,11 +1,11 @@
 ---
 type: personne
 ---
-
+![[image-886.webp|500x281]]
 # Jonas Gerckens
 
 # Informations Générales
-- **Date de naissance** :  
+- **Date de naissance** :  1980
 - **Nationalité** : Belge
 - **Sport / Discipline** : Course Nautique
 - **Poste / Spécialité** (si applicable) :  
@@ -13,9 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition | Résultat | Remarque |
-| ----- | ----------- | -------- | -------- |
-| 2026  | Globe40     | 2e       |          |
+| Année | Compétition       | Résultat | Remarque          |
+| ----- | ----------------- | -------- | ----------------- |
+| 2026  | Globe40           | 2e       |                   |
+| 2026  | [[Route du Rhum]] | 16e      | Catégorie Class40 |
+|       |                   |          |                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

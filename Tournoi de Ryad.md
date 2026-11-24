@@ -2,7 +2,7 @@
 type: event
 ---
 
-# Masters WTA de Ryad
+# Tournoi de Ryad - Masters 1000
 
 # Introduction
 

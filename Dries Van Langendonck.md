@@ -13,9 +13,11 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition         | Résultat | Remarque         |
-| ----- | ------------------- | -------- | ---------------- |
-| 2025  | F4 - Donington Park | 1ier     | Détail optionnel |
+| Année | Compétition                              | Résultat | Remarque |
+| ----- | ---------------------------------------- | -------- | -------- |
+| 2025  | F4 - Doningto                            | 1ier     |          |
+| 2026  | Formule 4 britannique - Classement final | 1ier     |          |
+|       |                                          |          |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -32,3 +34,5 @@ Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, e
 # Sources et Références
 - [Lien vers une source](#)
 - [Article détaillé](#)
+
+![[image-887.webp|500x281]]

@@ -9,7 +9,7 @@ type: personne
 - **Nationalité** :  
 - **Sport / Discipline** :  
 - **Poste / Spécialité** (si applicable) :  
-- **Équipe(s) / Club(s)** :  
+- **Équipe(s) / Club(s)** :  [[Bora Redbull]], [[NSN Cycling Team]] (Nov 2026)
 - **Période d’activité** :  
 
 # Palmarès et Distinctions

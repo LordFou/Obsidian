@@ -14,22 +14,29 @@ type: personne
 - Top Ranking : 1e (Novembre 2026)
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat      | Remarque                                      |
-| ----- | --------------------- | ------------- | --------------------------------------------- |
-| 2018  | [[Tournoi de Madrid]] | ==Vainqueur== |                                               |
-| 2020  | [[US Open]]           | Finaliste     | Défaite contre [[Dominic Thiem]]              |
-| 2021  | [[Tournoi de Madrid]] | ==Vainqueur== |                                               |
-| 2024  | [[Roland-Garros]]     | Finaliste     | Défaite contre [[Carlos Alcaraz]]             |
-| 2025  | [[Australian Open]]   | Finaliste     | Défaite contre [[Carlos Alcaraz]]             |
-|       |                       |               |                                               |
-| 2026  | [[Tournoi de Madrid]] | Finaliste     | Défaite contre [[Jannik Sinner]]              |
-| 2026  | [[Roland-Garros]]     | ==Vainqueur== | Victoire contre [[Flavio Cobolli]]            |
-| 2026  | [[Tournoi de Halle]]  | 1/2 finale    |                                               |
-| 2026  | [[Wimbledon]]         | Finaliste     | Défaite contre [[Jannik Sinner]]              |
-| 2026  | [[US Open]]           | ==Vainqueur== | Victoire contre [[Ben Shelton]]               |
-| 2026  | [[Tournoi de Vienne]] | 1/4 finale    | Victoire en 1/8e contre [[Tallon Griekspoor]] |
-| 2026  | [[Tournoi de Paris]]  | 2e tour       | Défaite contre [[Lorenzo Musetti]] (ATP 24)   |
-|       |                       |               |                                               |
+| Année | Compétition           | Résultat        | Remarque                                      |
+| ----- | --------------------- | --------------- | --------------------------------------------- |
+| 2018  | [[Tournoi de Madrid]] | ==Vainqueur==   |                                               |
+| 2018  | [[ATP Finals]]        | ==🟡Vainqueur== |                                               |
+|       |                       |                 |                                               |
+| 2020  | [[US Open]]           | Finaliste       | Défaite contre [[Dominic Thiem]]              |
+|       |                       |                 |                                               |
+| 2021  | [[Tournoi de Madrid]] | ==Vainqueur==   |                                               |
+| 2021  | [[ATP Finals]]        | ==🟡Vainqueur== |                                               |
+|       |                       |                 |                                               |
+| 2024  | [[Roland-Garros]]     | Finaliste       | Défaite contre [[Carlos Alcaraz]]             |
+|       |                       |                 |                                               |
+| 2025  | [[Australian Open]]   | Finaliste       | Défaite contre [[Carlos Alcaraz]]             |
+|       |                       |                 |                                               |
+| 2026  | [[Tournoi de Madrid]] | Finaliste       | Défaite contre [[Jannik Sinner]]              |
+| 2026  | [[Roland-Garros]]     | ==Vainqueur==   | Victoire contre [[Flavio Cobolli]]            |
+| 2026  | [[Tournoi de Halle]]  | 1/2 finale      |                                               |
+| 2026  | [[Wimbledon]]         | Finaliste       | Défaite contre [[Jannik Sinner]]              |
+| 2026  | [[US Open]]           | ==Vainqueur==   | Victoire contre [[Ben Shelton]]               |
+| 2026  | [[Tournoi de Vienne]] | 1/4 finale      | Victoire en 1/8e contre [[Tallon Griekspoor]] |
+| 2026  | [[Tournoi de Paris]]  | 2e tour         | Défaite contre [[Lorenzo Musetti]] (ATP 24)   |
+| 2026  | [[ATP Finals]]        | Finaliste       | Défaite contre [[Carlos Alcaraz]] (ATP 3)     |
+|       |                       |                 |                                               |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.
@@ -38,7 +45,7 @@ Décrire le style de jeu, les points forts/faibles, les particularités.
 Lister les records battus, les moments légendaires ou les anecdotes notables.
 
 # Controverses ou Événements Importants
-	- il a été accusé de violences conjugales par ses 2 dernières compagnes. Un arrangement financier a été trouvé avec la première. 
+- il a été accusé de violences conjugales par ses 2 dernières compagnes. Un arrangement financier a été trouvé avec la première. 
 
 # Retraite et Reconversion
 Expliquer ce que le sportif fait après sa carrière (entraîneur, consultant, etc.).

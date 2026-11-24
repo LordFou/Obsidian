@@ -22,6 +22,8 @@ type: personne
 | 2026  | Trophée X2O - 7e manche - Cross de Lille | 1ier     |          |
 | 2026  | Exact Cross de Saint-Nicolas             | 1ier     |          |
 | 2026  | Grand Prix de clôture d’Oostmalle        | 1ier     |          |
+| 2026  | [[Superprestige]] - Merksplas            | 1ier     |          |
+| 2026  | Bollekescross                            | 2e       |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

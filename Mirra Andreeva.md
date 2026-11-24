@@ -11,14 +11,15 @@ type: personne
 - **Poste / Spécialité** (si applicable) :  
 - **Équipe(s) / Club(s)** :  
 - **Période d’activité** :  
-- Top Ranking : 8
+- Top Ranking : 3
 
 # Palmarès et Distinctions
-| Année | Compétition           | Résultat   | Remarque                                       |
-| ----- | --------------------- | ---------- | ---------------------------------------------- |
-| 2026  | [[Tournoi de Madrid]] | Finale     | Défaite contre [[Marta Kostyuk]]               |
-| 2026  | [[Roland-Garros]]     | Vainqueure | Victoire contre [[Maja Chwalinska]]            |
-| 2026  | [[Wimbledon]]         | 2e tour    | Défaite contre [[Barbora Krejcikova]] (WTA 38) |
+| Année | Compétition           | Résultat         | Remarque                                       |
+| ----- | --------------------- | ---------------- | ---------------------------------------------- |
+| 2026  | [[Tournoi de Madrid]] | Finale           | Défaite contre [[Marta Kostyuk]]               |
+| 2026  | [[Roland-Garros]]     | ==🟡Vainqueure== | Victoire contre [[Maja Chwalinska]]            |
+| 2026  | [[Wimbledon]]         | 2e tour          | Défaite contre [[Barbora Krejcikova]] (WTA 38) |
+| 2026  | [[WTA Finals]]        | ==🟡Vainqueure== | Victoire contre                                |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

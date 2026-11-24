@@ -16,7 +16,7 @@ type: personne
 | Année | Compétition                       | Résultat   | Remarque               |
 | ----- | --------------------------------- | ---------- | ---------------------- |
 | 2025  | [[Wimbledon]] - Double | Vainqueure | avec [[Elise Mertens]] |
-| 2025  | [[Masters WTA de Ryad]] - Double  | Vainqueure | avec [[Elise Mertens]] |
+| 2025  | [[Tournoi de Ryad]] - Double  | Vainqueure | avec [[Elise Mertens]] |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

@@ -18,7 +18,7 @@ type: personne
 | ----- | ------------------------ | ---------------- | ----------------------------------------------- |
 | 2022  | [[Wimbledon]]            | ==Vainqueure==   |                                                 |
 | 2023  | [[Australian Open]]      | Finaliste        | Défaite contre [[Aryna Sabalenka]]              |
-| 2025  | [[Masters WTA de Ryad]]  | ==Vainqueure==   |                                                 |
+| 2025  | [[Tournoi de Ryad]]  | ==Vainqueure==   |                                                 |
 |       |                          |                  |                                                 |
 | 2026  | [[Australian Open]]      | ==Vainqueure==   | Victoire contre [[Aryna Sabalenka]]             |
 | 2026  | [[Tournoi Indian Wells]] | Finaliste        | Défaite contre [[Aryna Sabalenka]]              |

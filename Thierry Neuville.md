@@ -13,28 +13,29 @@ type: personne
 - **Période d’activité** :  
 
 # Palmarès et Distinctions
-| Année | Compétition                                          | Résultat | Remarque |
-| ----- | ---------------------------------------------------- | -------- | -------- |
-| 2024  | [[Championnat du Monde - WRC\|Championnat du Monde]] | ==1ier== |          |
-|       |                                                      |          |          |
-| 2025  | [[Rallye d'Estonie]]                                 | 3e       |          |
-| 2025  | [[Rallye du Paraguay]]                               | 3e       |          |
-| 2025  | [[Rallye du Chili]]                                  | 4e       |          |
-| 2025  | [[Rallye d'Arabie Saoudite]]                         | ==1ier== |          |
-| 2025  | [[Championnat du Monde - WRC\|Championnat du Monde]] | 5e       |          |
-|       |                                                      |          |          |
-| 2026  | [[Rallye de Suède]]                                  | 7e       |          |
-| 2026  | [[Rallye de Croatie]]                                | Abandon  |          |
-| 2026  | [[Rallye des Iles Canaries]]                         | 6e       |          |
-| 2026  | [[Rallye du Portugal]]                               | ==1ier== |          |
-| 2026  | [[Rallye du Japon]]                                  | 6e       |          |
-| 2026  | [[Rallye de Grèce]]                                  | 2e       |          |
-| 2026  | [[Rallye d'Estonie]]                                 | 4e       |          |
-| 2026  | [[Rallye de Finlande]]                               | 5e       |          |
-| 2026  | [[Rallye du Paraguay]]                               | Abandon  |          |
-| 2026  | [[Rallye du Chili]]                                  | Abandon  |          |
-| 2026  | [[Rallye de Sardaigne]]                              | Abandon  |          |
-| 2026  | [[Championnat du Monde - WRC]]                       | 7e       |          |
+| Année | Compétition                                          | Résultat   | Remarque |
+| ----- | ---------------------------------------------------- | ---------- | -------- |
+| 2024  | [[Championnat du Monde - WRC\|Championnat du Monde]] | ==1ier==   |          |
+|       |                                                      |            |          |
+| 2025  | [[Rallye d'Estonie]]                                 | 3e         |          |
+| 2025  | [[Rallye du Paraguay]]                               | 3e         |          |
+| 2025  | [[Rallye du Chili]]                                  | 4e         |          |
+| 2025  | [[Rallye d'Arabie Saoudite]]                         | ==1ier==   |          |
+| 2025  | [[Championnat du Monde - WRC\|Championnat du Monde]] | 5e         |          |
+|       |                                                      |            |          |
+| 2026  | [[Rallye de Suède]]                                  | 7e         |          |
+| 2026  | [[Rallye de Croatie]]                                | Abandon    |          |
+| 2026  | [[Rallye des Iles Canaries]]                         | 6e         |          |
+| 2026  | [[Rallye du Portugal]]                               | ==1ier==   |          |
+| 2026  | [[Rallye du Japon]]                                  | 6e         |          |
+| 2026  | [[Rallye de Grèce]]                                  | 2e         |          |
+| 2026  | [[Rallye d'Estonie]]                                 | 4e         |          |
+| 2026  | [[Rallye de Finlande]]                               | 5e         |          |
+| 2026  | [[Rallye du Paraguay]]                               | Abandon    |          |
+| 2026  | [[Rallye du Chili]]                                  | Abandon    |          |
+| 2026  | [[Rallye de Sardaigne]]                              | Abandon    |          |
+| 2026  | [[Championnat du Monde - WRC]]                       | 7e         |          |
+| 2026  | Race Promotion Night (Zolder)                        | ==🟡1ier== |          |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

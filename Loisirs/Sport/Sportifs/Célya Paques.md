@@ -17,7 +17,7 @@ type: personne
 
 | Année | Compétition                  | Résultat | Remarque |
 | ----- | ---------------------------- | -------- | -------- |
-| 2026  | JO - Jeunesse (Dakar) - 400m | 3e       |          |
+| 2026  | JO - Jeunesse (Dakar) - 400m | 3e 🥉    |          |
 |       |                              |          |          |
 
 # Style et Caractéristiques  
