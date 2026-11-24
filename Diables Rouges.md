@@ -39,4 +39,4 @@ Tous les résultats de match des [[Diables Rouges]] => [RTBF Sport](https://www.
 | Année | Epreuve | Résultat | Remarque                                                                     |
 | ----- | ------- | -------- | ---------------------------------------------------------------------------- |
 | 2025  | Euro    | Finale   | Victoire en demi contre la France<br>Défaite aux tirs au but contre l'Italie |
-| 2026  | Mondial |          | Victoire contre le Vietnam (3-2)                                             |
+| 2026  | Mondial |          | Victoire contre le Vietnam (3-2)<br>Défaite contre le Mali (1-2)             |
