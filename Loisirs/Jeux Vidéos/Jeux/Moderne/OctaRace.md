@@ -57,6 +57,7 @@ tags: mediaDB/game
 - **Comparable à** : 
 	- [[Micro Machines]]
 	- [[Super Off Road]]
+	- Death Rally
 ## Anecdotes et Curiosités
 - 
 ## Liens et Ressources
