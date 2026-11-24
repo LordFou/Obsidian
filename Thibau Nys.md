@@ -32,7 +32,7 @@ type: personne
 | 2025  | CXWorldCup - 7e manche - Cross de Gavere                                 | 2e         | derrière [[Mathieu van der Poel]] |
 | 2025  | CXWorldCup - 8e manche - Cross de Dendermonde                            | ==1ier==   |                                   |
 | 2025  | Superprestige - Cross Diegem                                             | 2e         |                                   |
-| 2025  | X2O - 6e manche - Cross Baal                                             | 3e         |                                   |
+| 2025  | Trophée X2O - 6e manche - Cross Baal                                     | 3e         |                                   |
 | 2025  | Exact Cross - 5e manche (?) - Zilvermeercross (Mol)                      | 2e         | derrière [[Mathieu van der Poel]] |
 | 2025  | [[Liège-Bastogne-Liège]]                                                 | 5e         |                                   |
 |       |                                                                          |            |                                   |
@@ -41,8 +41,9 @@ type: personne
 | 2026  | [[Championnat du Monde de Cyclocross]]                                   | 3e         |                                   |
 | 2026  | [[Tour d'Espagne]] - 10e étape                                           | 3e         |                                   |
 | 2026  | Trophée X2O – Koppenbergcross (Audenarde)                                | ==🟡1ier== |                                   |
-| 2024  | [[Championnat d'Europe de Cyclocross\|Champ. Europe]]                    | ==1ier==   |                                   |
+| 2026  | [[Championnat d'Europe de Cyclocross\|Champ. Europe]]                    | ==1ier==   |                                   |
 | 2026  | Bollekescross                                                            | ==🟡1ièr== |                                   |
+| 2026  | Trophée X2O - Cross de Beringen                                          | ==🟡1ier== |                                   |
 
 # Style et Caractéristiques
 Décrire le style de jeu, les points forts/faibles, les particularités.

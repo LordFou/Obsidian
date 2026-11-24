@@ -15,10 +15,10 @@ type: personne
 
 # Palmarès et Distinctions  
 
-| Année | Compétition        | Résultat | Remarque |
-| ----- | ------------------ | -------- | -------- |
-| 2026  | HG Cross - Lokeren | 1ière    |          |
-|       |                    |          |          |
+| Année | Compétition                     | Résultat | Remarque |
+| ----- | ------------------------------- | -------- | -------- |
+| 2026  | HG Cross - Lokeren              | 1ière    |          |
+| 2026  | Trophée X2O - Cross de Beringen | 1ière    |          |
 
 # Style et Caractéristiques  
 Décrire le style de jeu, les points forts/faibles, les particularités.
