@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loisirs/Sport/Sportifs/Gerben Kuypers.md",
+                "file": "Loisirs/Sport/Sportifs/Armand Marchant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gerben Kuypers"
+              "title": "Armand Marchant"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gerben Kuypers",
+                "query": "Armand Marchant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,7 +79,8 @@
               "title": "Signets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,9 +211,12 @@
   },
   "active": "0244bab4dc723d30",
   "lastOpenFiles": [
+    "Max Verstappen.md",
+    "Oscar Piastri.md",
+    "Lando Norris.md",
+    "Loisirs/Sport/Sportifs/Gerben Kuypers.md",
     "Lucinda Brand.md",
     "Loisirs/Sport/Sportifs/Sara Casasola.md",
-    "Loisirs/Sport/Sportifs/Gerben Kuypers.md",
     "Attachments/image-888.webp",
     "Diables Rouges.md",
     "Loisirs/Sport/Sportifs/Victor Wembanyama.md",
@@ -236,9 +240,6 @@
     "Belgian Cats.md",
     "Thibau Nys.md",
     "Loisirs/Sport/Sportifs/Armand Marchant.md",
-    "Mirra Andreeva.md",
-    "Loisirs/Sport/Sportifs/Niels Vandeputte.md",
-    "Loisirs/Sport/Sportifs/Michael Vanthourenhout.md",
     "Attachments/image-885.webp",
     "Attachments/image-884.webp",
     "Attachments/image-883.webp",
